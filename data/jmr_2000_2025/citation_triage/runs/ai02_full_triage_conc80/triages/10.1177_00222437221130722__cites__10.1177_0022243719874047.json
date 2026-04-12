@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is a methodological work on time-varying individual/topic parameters (Gaussian-process dynamic heterogeneity), and the citing paper also models evolving topic relevance over time with Bayesian HMC estimation, so a substantive method link is plausible. However, the provided match evidence is only a DOI-level reference entry (no in-text context/quote), and the citing note does not explicitly state use of the cited GP framework, so the pair cannot be confidently kept or dropped.",
+  "triage_decision": "uncertain"
+}

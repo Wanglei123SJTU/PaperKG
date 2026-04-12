@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used for a specific methodological role rather than as a generic background citation. In the model comparison/robustness section, the authors explicitly reference Thomas (2001) when comparing their preferred Type I Tobit against a Type II Tobit alternative and discussing exclusion restrictions. This citation helps justify the citing paper's modeling choice, even though the citing study does not adopt Thomas's acquisition-retention framework as its core approach.",
+  "relation_description": "The citing paper uses the cited paper as a methodological benchmark for an alternative Type II Tobit specification in robustness checks. It compares Type I versus Type II Tobit performance and uses that comparison to support its final model choice.",
+  "relation_type": "other"
+}

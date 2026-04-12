@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides a general account of affiliate marketing institutions, participants, and major fraud risks documented in practice.",
+    "It introduces a custom measurement approach and novel data to quantify affiliate fraud across many merchants and compare affiliate program management structures.",
+    "It identifies which vulnerabilities are better handled by specialization versus in-house incentives: outside specialists are more effective on clear rule violations, while in-house staff are better on borderline practices contrary to merchant interests."
+  ],
+  "context": "The study is set in U.S. online affiliate marketing, where merchants pay commissions to independent affiliates for tracked purchases and often rely on large affiliate networks. The empirical setting covers merchants in Commission Junction, Google Affiliate Network, and LinkShare.",
+  "design_and_data": "The authors classify merchant management structure from affiliate-network merchant detail pages, using posted contact emails to code in-house management, outsourced program manager (OPM), network-managed, or unknown. They built custom automation that rendered webpages in virtual machines with standard browsers, simulated user actions, and in some tests installed adware or loyalty software; data were collected in February-March 2012. The dataset covers 4,523 merchants, with more than 2 million page loads and 18,264 observations in which 4,815 affiliates targeted 2,446 merchants via adware, cookie stuffing, typosquatting, or loyalty software. They estimate negative binomial models of fraud counts by management structure, with controls including site popularity, site category, network, and EPC where available.",
+  "focal_constructs": [
+    "affiliate marketing",
+    "affiliate fraud",
+    "affiliate program management structure",
+    "in-house management",
+    "outsourced program managers (OPMs)",
+    "network-provided management",
+    "information versus incentives trade-off",
+    "clear-cut versus gray-area violations"
+  ],
+  "main_findings": [
+    "Across specifications that aggregate fraud types, network-managed programs exhibit higher fraud incidence than in-house-managed programs.",
+    "Network management is more effective at limiting clear-cut violations, while in-house management is more effective at limiting gray-area practices such as typosquatting and loyalty software.",
+    "Because gray-area violations are more prevalent, in-house management yields lower overall fraud than network management, and OPM-managed programs are generally similar to or better than in-house on fraud outcomes."
+  ],
+  "one_line_summary": "Using custom fraud-detection data from 4,523 merchants across three major U.S. affiliate networks, the paper finds that networks better curb clear-cut affiliate violations but in-house managers better block gray-area abuses, leading to lower overall fraud under in-house management because gray-area abuse is more common.",
+  "relation_to_prior_work": "extends prior affiliate marketing work on incentive alignment by testing how observed misconduct varies with who manages the affiliate program, not just with payment form. It also links online advertising measurement concerns and firm-boundary research by showing an empirical information-versus-incentives trade-off in outsourcing decisions.",
+  "research_gap": "Prior outsourcing and boundary-of-the-firm settings rarely provide many comparable insourcing versus outsourcing choices with observable structures, and opportunistic low-quality behavior is usually hard to measure because it is concealed. The paper addresses this by studying affiliate programs where management arrangements are publicly visible and by directly measuring hidden affiliate misconduct.",
+  "research_question": "How does the management structure of an affiliate program - in-house staff, outsourced specialist OPM, or network-provided management - affect the prevalence of affiliate fraud? More specifically, does superior information from specialized external managers outweigh their weaker incentives, and does that trade-off differ between clear-cut and gray-area violations?"
+}

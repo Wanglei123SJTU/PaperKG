@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "The paper develops and validates a parsimonious 10-item semantic differential HED/UT scale (5 hedonic and 5 utilitarian items) for attitudes toward product categories and brands.",
+    "The authors introduce and apply a scale-reduction procedure for trimming a psychometrically acceptable but overly long item set using iterative CFA fit comparisons and chi-square difference tests.",
+    "The paper establishes nomological validity by substituting hedonic and utilitarian dimensions for a traditional one-dimensional attitude-toward-the-brand measure in a central-route processing model."
+  ],
+  "context": "The studies examine consumer attitudes toward many product categories and brands (for example, batteries, athletic shoes, beer, tobacco, television sets, automobiles, and vacation resorts) using North American university samples. The paper also uses advertising-positioning stimuli for a fictitious soap brand and tests attitude constructs in a persuasion-model setting.",
+  "design_and_data": "The authors ran six studies. Study 1 used 608 students to evaluate brands or corresponding product categories on 27 semantic differential items, then used EFA/CFA to refine the pool; Study 2A used 400 students (706 category evaluations) to reduce the scale to 10 items via iterative CFA-based item deletion, and Study 2B tested discriminant validity against multiple involvement scales. Study 3 collected 16 product-category evaluations from 567 students and compared predictive classification against Batra and Ahtola (1990); Study 4 used 142 students (500 observations) to map brand-level positions across four categories. Study 5 was a 2 x 2 experiment (involvement x functional vs experiential positioning) with 164 students, and Study 6 used 264 students, four advertised brands, SEM, and BCVL comparisons to test nomological validity against a one-dimensional brand-attitude model.",
+  "focal_constructs": [
+    "hedonic dimension of attitude",
+    "utilitarian dimension of attitude",
+    "attitude toward the brand",
+    "product category involvement",
+    "purchase intention",
+    "central route processing"
+  ],
+  "main_findings": [
+    "The final HED/UT scale showed a stable two-factor structure, high reliability, and evidence of unidimensionality and discriminant validity, including separation from involvement measures.",
+    "In product-category mapping, HED/UT classified 14 of 16 categories as hypothesized and outperformed Batra and Ahtola's scale, which misclassified 8 of 16 and showed weaker psychometric performance in this comparison.",
+    "In the nomological test, replacing one-dimensional brand attitude with hedonic and utilitarian dimensions produced an equal or better qualified central-route model, and BCVL favored the HED/UT model even under strong priors for the traditional model."
+  ],
+  "one_line_summary": "Across six studies, the authors develop and validate a 10-item HED/UT scale that captures distinct hedonic and utilitarian attitude dimensions for product categories and brands and performs strongly in psychometric, predictive, and nomological tests.",
+  "relation_to_prior_work": "refines prior hedonic/utilitarian attitude measurement work by addressing psychometric and nomological limitations reported for Batra and Ahtola's scale and by testing the constructs within an established persuasion framework.",
+  "research_gap": "The paper argues that the dominant prior instrument for hedonic and utilitarian attitudes had recurring problems, including cross-loadings with involvement, unclear unidimensionality, weak discriminant and predictive validity across product categories, and limited nomological grounding. The authors identify a need for a shorter, reliable, valid, and generalizable measure linked to broader attitude theory.",
+  "research_question": "Can a parsimonious scale be developed that reliably and validly measures hedonic and utilitarian dimensions of consumer attitudes toward both product categories and brands? Are these two dimensions distinct yet related to a higher-order attitude construct, and do they improve modeling within a central-route persuasion nomological network relative to a one-dimensional brand-attitude measure?"
+}

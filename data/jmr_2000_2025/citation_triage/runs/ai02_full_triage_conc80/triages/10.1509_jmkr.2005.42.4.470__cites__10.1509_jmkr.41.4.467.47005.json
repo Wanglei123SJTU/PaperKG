@@ -1,0 +1,4 @@
+{
+  "rationale": "The only direct linkage is a single DOI-matched reference, and no in-text citation context is provided, so the evidence is sparse. The cited paper is a methodological JMR piece on joint hierarchical Bayes modeling with nonrandom covariates, which is plausibly relevant to the citing paper’s Bayesian reduced-form modeling framework, but the notes do not explicitly show substantive use of that specific work. Given this mixed but plausible relevance, it is not safe to drop yet.",
+  "triage_decision": "uncertain"
+}

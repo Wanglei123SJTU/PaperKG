@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Demonstrates that latent network structure inferred from historical aggregate diffusions can improve prelaunch diffusion forecasts for future products.",
+    "Proposes a method that identifies a transferable network footprint by matching empirical diffusion distributions to simulated footprints from synthetic networks.",
+    "Bridges agent-based modeling and Bayesian inference by using simulation-generated stochastic relationships as informative priors."
+  ],
+  "context": "The empirical setting is diffusion of Facebook applications, observed as daily cumulative installs for about 900 apps between June 25, 2007, and February 23, 2008. Apps diffuse across subsets of a common underlying Facebook user interaction network that is unobserved to the researcher.",
+  "design_and_data": "To build simulated priors, the authors run agent-based SIR-like diffusion simulations on 16 synthetic network structures (lattice, random, small world, preferential attachment x four density levels) with 1,000 nodes and varying appeal and adoption parameters. They generate close to one million simulated diffusion curves, fit Bass curves, and discretize p and q into bins to create a diffusion hypercube linking diffusion outcomes to network types. A Bayesian multinomial-Dirichlet model uses this hypercube as an informative prior to infer posterior probabilities over network structures and to generate predictive diffusion distributions. They validate with simulated test data and with Facebook app holdout forecasting, comparing against calibration, naive, Bass, gamma/shifted Gompertz, and Weibull-gamma models.",
+  "focal_constructs": [
+    "prelaunch diffusion forecasting",
+    "latent consumer network structure",
+    "synthetic network footprints",
+    "agent-based SIR adoption process",
+    "informative Bayesian priors",
+    "network topology and density",
+    "Bass diffusion parameters p and q",
+    "Facebook app diffusion"
+  ],
+  "main_findings": [
+    "In simulation, the proposed method substantially outperformed naive and chance classification, identifying the true underlying network about 80 percent of the time with roughly 100 diffusions and about 90 percent with more than 250 diffusions.",
+    "For the Facebook app sample, posterior probability concentrated on a low-density preferential attachment potential network.",
+    "In holdout forecasting, the synthetic-prior approach produced better predictive performance than benchmark models, with especially large gains for small calibration samples when market potential was treated as known exogenously."
+  ],
+  "one_line_summary": "Using Facebook app adoption data, the paper shows that Bayesian forecasts informed by synthetic network priors from agent-based simulations and past diffusions improve prelaunch diffusion predictions.",
+  "relation_to_prior_work": "introduces a prelaunch forecasting approach that infers latent network characteristics from multiple historical diffusions when network links are unobserved. It differs from prior network-based aggregate methods that calibrate network components from early postlaunch observations of a focal diffusion or require direct network data.",
+  "research_gap": "Prior forecasting approaches either ignore consumer network structure, require direct network data, or infer network effects from early postlaunch observations of a specific diffusion. The paper addresses the prelaunch need to extract transferable network information from only aggregate historical diffusion curves across products.",
+  "research_question": "Can firms infer probabilistic characteristics of an unobserved consumer interaction network from multiple aggregate diffusion curves observed in the same market? If so, can those inferred characteristics be used as informative priors to improve prelaunch forecasts of future diffusion dynamics?"
+}

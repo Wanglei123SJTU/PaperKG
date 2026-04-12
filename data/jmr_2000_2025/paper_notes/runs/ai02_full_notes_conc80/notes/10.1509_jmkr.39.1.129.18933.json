@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a dynamic competitive model of private information markets in which clients buy opinions sequentially and firms can price based on the client's decision stage.",
+    "Shows that a distinct equilibrium, temporal differentiation, can arise: a lower quality firm sells first opinions and a higher quality firm specializes in second opinions at higher prices.",
+    "Identifies condition regions linking information quality, correlation, and marginal production costs that determine whether markets exhibit temporal differentiation, first-period price competition, or mixed-strategy second-period competition."
+  ],
+  "context": "The paper studies markets for client-specific professional advice, such as medical diagnosis, legal and engineering consulting, marketing consulting, accounting, and IT analyst services. The focal empirical motivation is second-opinion behavior, especially in medical settings where second opinions can command premium prices.",
+  "design_and_data": "This is a theoretical paper that develops a two-firm dynamic game of sequential information sales to a single client with a binary demand-state decision problem. Information products are characterized by accuracy (q1, q2), dependence/correlation (rho), and marginal production costs (k1, k2), with firms setting prices across periods under a consultative sales process. The author derives subgame-perfect equilibrium outcomes (pure strategies in two regions and mixed strategies in one region) and compares competitive profits with monopoly benchmarks. Evidence used for motivation is anecdotal and descriptive (for example, a BusinessWeek table on mandatory second opinions), not a formal empirical test.",
+  "focal_constructs": [
+    "private information markets",
+    "temporal differentiation",
+    "first and second opinions",
+    "information accuracy",
+    "information dependence (correlation)",
+    "marginal cost of information production",
+    "dynamic pricing competition",
+    "consultative sales process"
+  ],
+  "main_findings": [
+    "When average quality is intermediate and firm asymmetry is sufficient, equilibrium temporal differentiation emerges: the lower quality firm sells first, the higher quality firm sells second with probability 1/2, and second-opinion prices are higher.",
+    "When information is relatively high quality and/or highly correlated, firms compete to win first-period business; competition can be harsh (including lowballing-like outcomes) and both firms earn less than monopoly profits.",
+    "When information is relatively unreliable and weakly correlated, both firms prefer second-period business, producing a mixed-strategy equilibrium with high prices and possible no-purchase in period 1."
+  ],
+  "one_line_summary": "The paper provides a dynamic duopoly theory showing when competing experts in private information markets split into first-opinion and second-opinion roles versus competing directly for the same stage of demand.",
+  "relation_to_prior_work": "extends prior information-marketing work by moving from static competition in public information markets to dynamic competition in private, client-specific information markets. It also separates temporal differentiation from vertical differentiation and temporal discrimination as distinct mechanisms.",
+  "research_gap": "Prior theory did not explain pricing under sequential, contingent valuation in competitive private information markets, where the value of a second opinion depends on the first opinion's content. The observed specialization into second-opinion services and associated price premia lacked a formal competitive explanation.",
+  "research_question": "How should competing sellers of private information price their services when clients buy opinions sequentially and the value of later information depends on earlier diagnoses? Under what conditions can firms specialize in first versus second opinions, and how do quality differences, information correlation, and marginal costs shape that outcome?"
+}

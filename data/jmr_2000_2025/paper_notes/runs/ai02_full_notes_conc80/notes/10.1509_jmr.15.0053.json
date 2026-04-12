@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "The paper introduces perceived economic mobility as a marketing-relevant predictor of impulsive spending.",
+    "It provides what the authors describe as the first evidence that increasing perceived economic mobility can offset a negative consequence of materialism.",
+    "It offers managerial and public policy implications, including that efforts to raise perceived economic mobility may help curb impulsive spending among materialists."
+  ],
+  "context": "The paper is set in the U.S. context of the \"American Dream\" and beliefs about upward economic mobility. The studies use consumer purchase scenarios involving unplanned retail buys (e.g., sweater or shoes, including a job-interview context).",
+  "design_and_data": "The authors report four experiments with different samples: 170 undergraduates (Study 1), 208 Qualtrics urban consumers (Study 2), 144 undergraduates (Study 3), and 296 Amazon Mechanical Turk adults (Study 4). Perceived economic mobility was manipulated (news-article manipulation in Studies 1, 2, and 4; reasons-for/against mobility prompt in Study 3), while materialism was measured using the 15-item Material Value Scale. Dependent variables were scenario-based impulsive spending indicators: credit-card purchase likelihood, a five-item situational urge-to-spend scale, and willingness to pay for an unplanned shoe purchase. Mediation was tested with conditional process analysis (Hayes Model 8, bootstrap CIs), and Study 4 added purchase context (job interview vs unspecified) as a boundary condition.",
+  "focal_constructs": [
+    "perceived economic mobility",
+    "materialism",
+    "impulsive spending",
+    "self-regulation",
+    "long-term goal commitment",
+    "financial success goal instrumentality"
+  ],
+  "main_findings": [
+    "Across Studies 1-3, perceived economic mobility moderated the materialism-impulsive spending link: materialists were less impulsive under high vs low perceived mobility, while nonmaterialists were largely unaffected.",
+    "The interaction effect was mediated by long-term goal commitment, including commitment in the financial domain, and alternative accounts based on affect, economic optimism, and construal level were not supported.",
+    "When the purchase was framed as instrumental to financial success (job interview), the interaction reversed: materialists under high perceived mobility showed higher willingness to pay and stronger impulsive spending tendency than materialists under low perceived mobility."
+  ],
+  "one_line_summary": "Across four experiments, perceived economic mobility changed when materialism translates into impulsive spending by shifting materialists' self-regulation toward or away from long-term financial success.",
+  "relation_to_prior_work": "introduces perceived economic mobility as a determinant of consumer behavior in marketing and extends prior materialism research by showing that materialism can activate competing short-term acquisition and long-term financial-success goals with different spending consequences.",
+  "research_gap": "The authors argue that although materialism is known to predict impulsive spending, there is little research on how to reduce impulsive spending, especially among materialists. They also note that perceived economic mobility had received limited attention in marketing despite its potential behavioral relevance.",
+  "research_question": "Does perceived economic mobility moderate the relationship between materialism and impulsive spending? Do these effects operate through materialists' long-term goal commitment, and do they reverse when an impulsive purchase is framed as a means to achieve financial success?"
+}

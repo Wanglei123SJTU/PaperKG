@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper decomposes the 1/n heuristic into fund-choice (1/n#) and dollar-allocation (1/n$) components and shows these components react differently to fund assortment size.",
+    "It provides a process explanation based on limited cognitive resources, supported by thought-listing and decision-time evidence and by a direct cognitive-load manipulation.",
+    "It replicates and extends prior retirement-plan findings using both controlled experiments and actual defined contribution allocation data, including easy-divisor boundary conditions for even allocation."
+  ],
+  "context": "The paper studies U.S. defined contribution retirement investing, where people allocate contributions across mutual funds in 401(k)-type menus. Evidence comes from simulated plan choices and from actual initial allocations in the Oregon University System optional retirement plan (TIAA-CREF).",
+  "design_and_data": "Study 1a used a national mail decision simulation with active participants (n=260), manipulating menu size from 3 to 15 funds. Study 1b used a national online panel (n=363), manipulating menu size from 5 to 25 funds and measuring completion time. Study 2 used an online 2 x 2 experiment with active investors (n=296), crossing assortment size (6 vs 18 funds) with cognitive load (memorizing 2-digit vs 5-digit numbers) and separating fund choice from dollar allocation steps. Study 3 analyzed actual initial ORP allocations (n=1,721 active choosers; 1,451 before and 270 after a menu expansion from 10 to 19 funds, 1998-2010) with demographic and lagged market-return controls; default-option users were omitted from the main allocation tests and default use increased after expansion.",
+  "focal_constructs": [
+    "fund assortment size",
+    "defined contribution retirement plan choice",
+    "1/n heuristic",
+    "1/n# (invest in all available funds)",
+    "1/n$ (even dollar allocation across chosen funds)",
+    "cognitive resource availability",
+    "cognitive load",
+    "easy divisor number of chosen funds"
+  ],
+  "main_findings": [
+    "Strict 1/n behavior was rare across studies and generally less common in larger assortments.",
+    "Larger assortments reduced investing in all available funds and reduced the proportion of offered funds chosen, but increased the absolute number of funds chosen.",
+    "Conditional on choosing an easy-divisor number of funds, larger assortments increased even-dollar allocation across chosen funds; high cognitive load produced a similar shift and the pattern replicated in field data."
+  ],
+  "one_line_summary": "Across experiments and real pension-plan data, the paper finds that larger fund menus reduce investing in all offered funds but increase both the number of funds chosen and, for easy-divisor choices, equal-dollar allocation across chosen funds.",
+  "relation_to_prior_work": "extends Huberman and Jiang (2006) and Benartzi and Thaler (2001) by testing larger assortment boundary conditions and separating fund selection from dollar allocation. It introduces the 1/n# versus 1/n$ distinction to explain why strict 1/n is rare while weaker menu effects remain. It also adds a cognitive-resource process account that prior work did not directly test.",
+  "research_gap": "Prior work had not clearly examined how fund assortment size affects investors' tendency to allocate dollars evenly across chosen funds, nor separated this from the decision to choose all available funds. The paper addresses this unresolved issue by decomposing 1/n behavior and testing assortment-size effects under larger menus.",
+  "research_question": "How does the number of mutual funds offered in a defined contribution plan affect investors' fund-choice and dollar-allocation behavior related to the 1/n heuristic? Specifically, does larger assortment size change (1) investing in all offered funds versus a subset and (2) even-dollar allocation across chosen funds, and are these effects driven by cognitive resource constraints?"
+}

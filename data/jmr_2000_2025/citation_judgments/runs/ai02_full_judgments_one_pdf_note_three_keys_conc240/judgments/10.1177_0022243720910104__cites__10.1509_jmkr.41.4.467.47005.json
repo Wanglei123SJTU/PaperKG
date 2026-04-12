@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper gives the cited paper a clear methodological role in its endogeneity strategy, not just background mention. In the endogeneity section, it explicitly states that it follows Manchanda, Rossi, and Chintagunta (2004) to jointly model sales response with ad allocation and to use a Poisson allocation model for targeted advertising. This approach is then integrated into the paper's estimation workflow and revisited in the limitations as a key safeguard against targeting bias.",
+  "relation_description": "The citing study applies the cited paper's nonrandom marketing-mix correction to handle targeting endogeneity in advertising. It uses the same core idea of jointly modeling demand response and ad allocation, adapted to its multibrand multimedia Tobit framework.",
+  "relation_type": "applies"
+}

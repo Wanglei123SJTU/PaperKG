@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops a new model of equilibrium bidding in a very long sequence of auctions where bidders are forward looking and also forward seeing about upcoming item types and timing.",
+    "Shows existence of a well-behaved symmetric pure-strategy Markov perfect equilibrium and derives qualitative comparative statics without relying on specific parametric assumptions on valuation distributions.",
+    "Proposes an empirical strategy using standard eBay data to test nested levels of bidder information-use sophistication and applies it in two categories."
+  ],
+  "context": "The paper studies eBay-style online markets where many substitute consumer durables are sold in unsynchronized sequential auctions and upcoming listings are visible in advance. The empirical settings are MP3 players (brand-model types) and DVD movies (title types).",
+  "design_and_data": "The theory models each auction as an instantaneous second-price sealed-bid auction in an infinite sequence with stochastic waiting times, horizontally differentiated product types, unit-demand private-value bidders, discounting, and bidder turnover. The empirical test uses two eBay data sets: 6,967 MP3-player auctions (top 30 models, early 2001, after format/exclusion filters) and 4,864 DVD auctions (30 popular titles, October 2002), with all submitted proxy bids and listing information. The author estimates linear regressions for highest and second-highest bids on forward-seeing variables (near-future auction frequency, same-type incidence/timing ahead), including type fixed effects and controls such as current competition, seller reputation, and listing attributes.",
+  "focal_constructs": [
+    "forward-looking bidding",
+    "forward-seeing information",
+    "sequential online auctions",
+    "unit-demand private-value bidders",
+    "opportunity cost of winning now",
+    "near-future auction frequency",
+    "type-specific future availability",
+    "Markov perfect equilibrium"
+  ],
+  "main_findings": [
+    "Across both categories, the data reject the model without forward seeing, indicating that bids respond to information about upcoming auctions.",
+    "For movies and high-priced MP3 players, bids are lower when the same type appears soon and higher when the waiting time to the next same-type listing is longer, consistent with the model's type-specific forward-seeing predictions.",
+    "Estimated effects are economically meaningful: in movies, same-title availability in the next auction lowers second-highest bids by about $0.72 (about $0.31 if within the next five auctions), and in high-priced MP3 players, same-type availability within the next five auctions is associated with about an $8 reduction (about $10 if in the next auction)."
+  ],
+  "one_line_summary": "The paper models and tests forward-seeing bidding in eBay auction sequences and finds that bidders reduce current bids when near-future substitute listings are more imminent and personally relevant.",
+  "relation_to_prior_work": "extends sequential-auction theory to an infinite-horizon differentiated-goods setting with publicly known near-future types and timing, while nesting Engelbrecht-Wiggans (1994) as a special case when bidders do not use detailed forward-seeing information. It also broadens Milgrom and Weber (2000) and Gale and Hausch (1994), and contrasts with Jofre-Bonet and Pesendorfer (2003) by using a nonparametric empirical test of forward-seeing behavior.",
+  "research_gap": "Existing sequential-auction models and evidence had not clearly addressed how bidders use detailed public information about both timing and type of upcoming auctions in ongoing online markets. The paper targets this gap by modeling and testing bidder responses to near-future listing details.",
+  "research_question": "How should rational unit-demand bidders bid in a sequential auction market when they can observe what will be sold soon and when? Do eBay bidders actually use this near-future information, and if so, do they use only coarse frequency cues or detailed type-specific future listings?"
+}

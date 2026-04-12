@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper argues that consumer researchers should reconsider the attraction effect as a robust stylized fact.",
+    "It identifies attribute representation as a key boundary condition, showing that perceptual representations can attenuate, eliminate, or reverse attraction effects relative to numeric representations.",
+    "It highlights repulsion effects as an underexplored context effect that may be more common than attraction effects outside abstract numeric tasks."
+  ],
+  "context": "The studies are consumer choice tasks across product and decision domains including gambles, televisions, apartments, fruit, hotel rooms, candy, drinks, movies, popcorn, bottled water, and subscriptions. The central contextual contrast is between fully numeric attribute displays and perceptual, verbal, or directly experienced attribute information.",
+  "design_and_data": "The authors run 19 studies (Studies 1a-1s) using natural stimuli where at least one attribute is perceptual or directly experienced, with random assignment to core two-option versus decoy-expanded choice sets; study sample sizes range from 68 to 681 and participants come from multiple university and field sources. They then conduct six focal experiments (Studies 2a-2c and 3a-3c) that manipulate both decoy presence and representation mode for probabilities in gambles and image quality in television choices, with sample sizes of 507, 791, 511, 240, 4,033, and 1,945. Appendices report multiple replication attempts of prior nonstylized attraction studies, a conceptual replication, and six additional representation variations; in total, the paper reports 38 studies.",
+  "focal_constructs": [
+    "attraction effect",
+    "asymmetric dominance",
+    "decoy effect",
+    "attribute representation",
+    "numeric versus perceptual encoding",
+    "repulsion effect",
+    "context effects in choice"
+  ],
+  "main_findings": [
+    "Across Studies 1a-1s, the decoy never increased target choice; decoys were often associated with no change or reduced target share, including one significant repulsion effect.",
+    "In gambles and television choices, attraction effects appeared when key attributes were numerically represented, but disappeared when those same attributes were represented perceptually.",
+    "Across all 38 studies, significant attraction effects were found in 4 of 5 fully numeric cases, 2 of 5 mixed numeric-plus-perceptual/verbal cases, and 0 of 27 cases where at least one relevant attribute was directly experienced or perceptual."
+  ],
+  "one_line_summary": "The paper shows that attraction effects are largely confined to highly stylized numeric choice representations and typically vanish in more realistic perceptual or experiential settings.",
+  "relation_to_prior_work": "challenges the prevailing attraction-effect literature by reporting failed replications of several frequently cited nonstylized studies and by showing that robust effects cluster in fully numeric, abstract stimuli.",
+  "research_gap": "Prior evidence for the attraction effect is dominated by highly stylized numeric matrix stimuli, leaving unclear whether the effect generalizes to realistic consumer choices where attributes are perceived or experienced directly. The paper addresses this boundary-condition gap by testing nonnumeric and mixed representation formats.",
+  "research_question": "Do attraction effects persist in realistic choice contexts where one or more attributes are represented perceptually or can be directly experienced, rather than numerically? When the same options are held constant, does representing attributes numerically versus perceptually determine whether a dominated decoy increases target choice?"
+}

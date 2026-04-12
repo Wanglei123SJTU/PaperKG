@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides an empirical comparison of predictive validity between multiple-item and single-item measures of attitude toward the ad and brand attitude in advertising copy tests.",
+    "Shows that for these doubly concrete constructs, single-item measures can match the predictive performance of established three-item scales.",
+    "Argues that single-item measures should be used, and should be publishable, when the construct has a concrete singular object and a concrete attribute."
+  ],
+  "context": "The study is conducted in an advertising pretest (copy-test) context using four real print ads for new brands in painkillers, coffee, pension plans, and jeans that were not yet sold in the local market. Respondents were undergraduate business students evaluating each ad and the advertised brand.",
+  "design_and_data": "The authors ran classroom copy tests with 92 first- and second-year undergraduate business students, with product-level usable samples after relevance screening of n = 80 (painkillers), 55 (coffee), 59 (pension plan), and 86 (jeans). Each participant rated all four ads, and each ad was followed by both multiple-item and single-item measures, enabling within-subject comparisons; ad order was rotated. They compared AAd3 versus AAd1(G) and LAd1 as predictors of ABrand1(L), ABrand1(G), and ABrand3 using bivariate correlations and multivariate regressions. Regression models included a BeliefsBrand index, and differences in r and R-square were tested with z tests using Fisher transformations.",
+  "focal_constructs": [
+    "attitude toward the ad (AAd)",
+    "brand attitude (ABrand)",
+    "ad liking (LAd)",
+    "single-item measures",
+    "multiple-item measures",
+    "predictive validity",
+    "common methods bias",
+    "doubly concrete constructs"
+  ],
+  "main_findings": [
+    "Across the four advertisements, single-item measures of attitude toward the ad predicted brand attitude as well as the three-item AAd measure, with no significant differences in r or R-square.",
+    "Using multiple-item versus single-item criteria did not support the claimed discriminability advantage of multiple-item measurement; hypotheses H1, H2, and H3 were rejected.",
+    "No significant common-method inflation was found from using multiple items, identical single-item formats, or identical adjective descriptors; hypotheses H4, H5, and H6 were rejected."
+  ],
+  "one_line_summary": "In copy tests of four new print ads, single-item measures of attitude toward the ad and brand attitude were as predictively valid as standard three-item measures, with no detected common-method inflation in the tested conditions.",
+  "relation_to_prior_work": "extends Churchill's scale-development tradition by empirically testing whether multiple-item measures are actually more predictively valid for specific marketing constructs. It is consistent with Rossiter's C-OAR-SE view by showing equal predictive validity for single-item measurement when constructs are doubly concrete.",
+  "research_gap": "Marketing research strongly favors multiple-item scales, but direct evidence is limited on whether they outperform single-item measures for doubly concrete constructs such as attitude toward the ad and brand attitude. The paper addresses this by testing predictive validity and potential common-method explanations head to head.",
+  "research_question": "Do single-item measures of attitude toward the ad and brand attitude perform as well as multiple-item measures of the same constructs in predicting brand attitude outcomes in ad copy tests? The paper also asks whether any advantage of multiple-item measures comes from greater response discriminability or from common methods bias."
+}

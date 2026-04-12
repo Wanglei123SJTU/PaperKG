@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "Identifies a previously overlooked benefit of referral programs: customers acquired through referrals are more likely to generate additional customers through their own referrals (\"referral contagion\").",
+    "Shows that perceived social appropriateness is an important mechanism behind higher referral behavior among referred customers.",
+    "Demonstrates a practical, costless intervention - reminding referred customers that they joined through a referral - that further increases referral activity."
+  ],
+  "context": "The main field setting is a large mobile cashback technology platform where users shop at partner stores and can refer friends for rewards. The paper also uses cross-firm referral-program data from SaaSquatch and invitation-level referral data from MyYogaTeacher, alongside online experiments.",
+  "design_and_data": "The primary analysis uses anonymized monthly panel data from 41.2 million customers over May 2012-May 2022 at a cashback platform, after removing flagged and likely fraudulent accounts. The authors estimate referral differences with logistic regressions (including random effects) and double machine learning on a random sample of 500,000 customers, controlling for tenure and purchase activity/history. They add external evidence from 20 SaaSquatch firms and a MyYogaTeacher dataset (54,349 customers) that observes both referral invitations and conversions. They also run preregistered Prolific experiments and a large field experiment with more than 10 million referred customers that randomizes referral-message wording.",
+  "focal_constructs": [
+    "referral contagion",
+    "referred versus nonreferred customers",
+    "successful referrals",
+    "social appropriateness beliefs",
+    "norm salience",
+    "downstream customer value"
+  ],
+  "main_findings": [
+    "Referred customers make more successful referrals than nonreferred customers, and the gap remains after conditioning on purchase activity/history (about 31%-57% depending on specification).",
+    "Including downstream referral value materially changes valuation: ignoring extra referrals underestimates about 20%-36% of the total value difference between referred and nonreferred customers.",
+    "Experimental evidence supports social appropriateness as a mechanism, and a field reminder message (\"You were referred in - now refer your friends!\") raises referred customers' referral rate by about 21% versus control."
+  ],
+  "one_line_summary": "Using large-scale field data, preregistered experiments, and a field intervention, the paper shows that customers acquired via referrals are more likely to refer others because referring feels more socially appropriate, creating substantial downstream value.",
+  "relation_to_prior_work": "extends referral-program research that primarily values referred customers by their own purchases or loyalty by adding downstream social value from the referrals they generate. It also refines social-barrier accounts of word of mouth by showing that being referred increases perceived social appropriateness of referring and that norm-salience messaging can amplify this effect.",
+  "research_gap": "Prior work shows referred customers are often more valuable through their own purchases or engagement, but it largely overlooks whether they also create extra downstream value by making more referrals. The paper also targets the need for low-cost ways to increase referrals by addressing social-motive barriers.",
+  "research_question": "Do customers who join through referrals make more referrals than customers who join through other channels, even after accounting for purchase activity? If so, what mechanism drives this referral contagion, and can firms further increase referrals by making the referral norm more salient?"
+}

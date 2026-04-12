@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper does more than name the 2014 study in background; it uses it as direct methodological precedent in the text-analysis section. Hollenbeck explicitly states that prior work including Tirunillai and Tellis (2014) used topic modeling for UGC and that he follows these works, then implements LDA to extract review topics and topic-valence measures. Those derived measures are integrated into the core empirical specification as multidimensional quality controls, indicating a meaningful functional role.",
+  "relation_description": "The citing paper applies Tirunillai and Tellis (2014)'s text-mining approach by using LDA on online reviews to recover interpretable topics and combine them with valence information. It transfers this methodology to a different substantive question, using the outputs as quality measures in a franchising and revenue analysis.",
+  "relation_type": "applies"
+}

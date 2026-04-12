@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides a unique multi-category household-level data set with recurring temporary OOS observations matched to individual purchase occasions.",
+    "Develops an empirical SKU-choice model that jointly captures OOS-driven choice-set variation, intertemporal effects of a SKU's own past OOS, and contextual effects of other SKUs' OOS moderated by similarity and household familiarity.",
+    "Demonstrates via counterfactuals how the estimated OOS effects can be used to evaluate category revenue impact, predict post-OOS SKU shares, and prioritize which SKU stockouts to resolve first."
+  ],
+  "context": "The study is set in grocery retailing for consumer packaged goods at one store of a large U.S. national chain in the San Francisco Bay area, with no large grocery competitor within five miles. It analyzes six categories: ketchup, tissue, tuna, orange juice, bacon, and liquid laundry detergent.",
+  "design_and_data": "The authors combine loyalty-card scanner transactions (May 2005 to May 2007) with retailer OOS logs recorded daily, including OOS SKU, recorded OOS time, and last purchase before OOS. Estimation samples are randomly selected households in each category (about 100-200 households per category) after purchase-frequency and major-SKU screens. They estimate a household-level random-coefficients multinomial logit with inventory and state dependence, deterministic OOS-based choice-set adjustment, and intertemporal/contextual OOS utility terms. They compare nested model variants and apply a control-function correction for endogeneity of price and OOS variables.",
+  "focal_constructs": [
+    "temporary recurring out-of-stock (OOS)",
+    "SKU choice sets",
+    "household price sensitivity",
+    "intertemporal OOS effect",
+    "contextual OOS effect",
+    "attribute similarity",
+    "household familiarity with OOS SKUs",
+    "purchase concentration"
+  ],
+  "main_findings": [
+    "Ignoring recurring OOS information understates consumer price sensitivity, with larger-magnitude price coefficients and own-price elasticities after OOS is modeled across all six categories.",
+    "The intertemporal effect of OOS is negative for consumers with shorter interpurchase time, with significant negative category-level estimates in orange juice and tuna.",
+    "For households purchasing from a small number of SKUs, OOS of other similar SKUs reinforces preference for the focal SKU, but this preference is attenuated when those similar OOS SKUs are also frequently purchased by the household."
+  ],
+  "one_line_summary": "Using household-trip scanner and OOS data from six grocery categories, the paper shows that modeling recurring stockouts changes price-sensitivity estimates and reveals intertemporal and contextual OOS effects on SKU preference.",
+  "relation_to_prior_work": "extends prior OOS choice research that often uses aggregate availability or inferred stockouts by using directly observed household-trip-level OOS and deterministic choice-set construction. It further incorporates intertemporal and contextual OOS mechanisms, including similarity and familiarity interactions, within a household random-coefficients demand model.",
+  "research_gap": "Prior empirical OOS studies are limited by lack of household-level OOS observations tied to each purchase occasion, often relying on aggregate availability or indirect methods. This limits identification of how temporary recurring OOS affects inferred price sensitivity and SKU preference dynamics.",
+  "research_question": "How does temporary recurring OOS affect household SKU choice in grocery categories? The paper asks whether incorporating OOS into purchase-occasion choice sets changes inferred price sensitivity, how a focal SKU's own past OOS and other SKUs' current OOS affect utility, and how these responses vary with household purchase patterns such as interpurchase time and purchase concentration."
+}

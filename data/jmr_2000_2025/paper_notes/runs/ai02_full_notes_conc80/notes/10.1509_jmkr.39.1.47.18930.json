@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides empirical evidence that analogical thinking facilitates originality in new product concept creation during ideation.",
+    "Identifies conditions under which analogy helps or hurts originality by testing access strategy, external benchmarking primes, and analogy type.",
+    "Shows how ideation process outcomes relate to a concept-testing metric by linking originality and analogy use to consumers' willingness to pay."
+  ],
+  "context": "The paper studies the fuzzy front end of consumer new product development using a design brief about creating a product for eating while driving (\"automotive dining\") for commuting drivers. Resulting concepts are evaluated for originality and value by expert judges and commuter consumers.",
+  "design_and_data": "Study 1 used verbal protocol analysis of four two-person teams of professional industrial designers (average 17 years experience) completing a one-hour design task, with originality ratings from 19 commuter judges. Study 2 was a between-subjects experiment with 106 engineering students in a 2 (single vs multiple base access instruction) x 2 (prime vs no prime) plus control design, using a tray sketch as prime; outcomes included number of analogies, design form fixation, expert-rated originality, and commuter willingness to pay. Study 3 was an experiment with 119 engineering students across four conditions varying number of external primes (none, one, several) and access instruction, with coding of near versus far analogies and commuter ratings of originality and willingness to pay.",
+  "focal_constructs": [
+    "analogical thinking",
+    "new product ideation",
+    "design originality",
+    "external primes (benchmarking examples)",
+    "form fixation (unconscious plagiarism)",
+    "near versus far analogies",
+    "consumer willingness to pay"
+  ],
+  "main_findings": [
+    "In Study 1, a higher percentage of analogy-based idea-generation statements was associated with higher originality ratings for the final designs (beta = .24, p < .05).",
+    "In Study 2, the most original designs came from the no-prime plus multiple-base condition, and primes reduced originality mainly by increasing reliance on the primed tray form rather than by reducing the number of analogies accessed.",
+    "In Study 3, a higher proportion of far analogies increased originality and willingness to pay, while exposure to external primes reduced far-analogy use and lowered predicted willingness to pay relative to the no-prime multiple-access condition."
+  ],
+  "one_line_summary": "Across one protocol study and two experiments, the paper finds that analogical ideation improves product concept originality and value most when designers are encouraged to use multiple analogies without external benchmark primes.",
+  "relation_to_prior_work": "extends prior analogy and creativity research by providing direct protocol and experimental evidence in the new product ideation context rather than relying mainly on anecdotal or historical cases. It challenges common benchmarking advice for generative innovation by showing that concrete external examples can induce form fixation and reduce originality. It transfers the near-versus-far analogy distinction from cognitive psychology to marketing outcomes such as concept originality and willingness to pay.",
+  "research_gap": "The paper argues that despite broad claims that analogy drives innovation, evidence in design is largely anecdotal and evidence in psychology is mostly historical, with little empirical testing in new product ideation. It also notes limited understanding of when common ideation practices such as benchmarking examples help versus hinder originality.",
+  "research_question": "How does analogical thinking influence originality in the idea-generation stage of new product development? Under what conditions - including access strategy, external benchmarking primes, and analogy type - does analogy increase or reduce originality, and how do these effects relate to consumers' willingness to pay?"
+}

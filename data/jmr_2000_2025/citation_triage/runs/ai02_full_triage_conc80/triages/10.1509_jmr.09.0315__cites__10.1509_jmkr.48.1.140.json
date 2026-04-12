@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is a preference-elicitation method paper (ASE vs. ACA/FPM/SEM), while the citing paper’s stated core contribution is a complexity-adjusted mixed logit model with decision-time effects; the provided citing note does not explicitly identify ASE as a key foundation. The only linkage evidence is a single DOI-matched reference entry with no in-text citation context. Given this sparse evidence and possible but unconfirmed methodological relevance, this pair is not safe to drop but also not clearly a strong keep.",
+  "triage_decision": "uncertain"
+}

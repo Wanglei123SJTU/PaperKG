@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "First to examine how productivity metrics affect consumers' assessment of time savings and downstream willingness to pay and choice.",
+    "Shows that consumers systematically overvalue productivity increases at high productivity levels because they misunderstand the nonlinear productivity-time relationship, and that this effect is attenuated by time metrics or direct experience.",
+    "First to identify estimation versus ranking as a moderator of heuristic use in this domain: estimation elicits more proportional reasoning, whereas ranking elicits more absolute reasoning."
+  ],
+  "context": "The paper studies consumer evaluations of time-saving product and service upgrades in settings where performance is framed as output per unit time, including internet download services, food processors, and printers. Data come from U.S. MTurk participants making willingness-to-pay, choice, and judgment tasks.",
+  "design_and_data": "Study 1 used a 2 x 2 x 2 x 2 mixed design with MTurk participants (N = 805 before exclusions) for internet services: base time savings (16->10 sec vs 10->4 sec) was within-subject, and productivity metrics, time metrics, and product experience were between-subject manipulations; willingness to pay was analyzed with mixed ANOVA. Study 2 used MTurk participants (N = 811) in a 2 x 2 x 2 between-subject design for food processor choice, manipulating productivity metrics (rps), time metrics (seconds per revolution), and additional attributes; spending implied by chosen option was analyzed with ANOVA. Study 3 used MTurk participants (N = 153; final N = 147 after exclusions) in an estimate-then-rank versus immediate-rank design over five printer speed upgrades, comparing judgments with actual time savings and with proportional versus absolute productivity differences.",
+  "focal_constructs": [
+    "productivity metrics",
+    "time metrics",
+    "time savings judgments",
+    "willingness to pay",
+    "choice spending",
+    "proportional heuristic",
+    "absolute heuristic",
+    "product experience"
+  ],
+  "main_findings": [
+    "When productivity metrics were available, consumers placed a larger premium on identical time savings near zero than on identical time savings farther from zero, increasing willingness to pay for higher productivity options.",
+    "Providing linearly related time metrics or direct experience with download times attenuated this productivity-metric effect; in food processor choices, time metrics reduced spending when productivity metrics were present.",
+    "Consumers' time-saving judgments were inaccurate overall; estimated savings tracked proportional productivity changes more than absolute changes, but immediate ranking without estimation tracked absolute changes more and matched actual time savings less well."
+  ],
+  "one_line_summary": "Across three studies, the paper shows that productivity metrics (output per time) cause consumers to misjudge nonlinear time savings and overpay for high-end productivity increases, with smaller bias when time-based information or experience is provided.",
+  "relation_to_prior_work": "extends prior research on linearization of nonlinear cue-outcome relationships by showing its consequences for consumer decisions in common productivity-metric markets. It also reconciles mixed prior evidence on proportional versus absolute reasoning by demonstrating that task format (estimating vs ranking) shifts which heuristic dominates.",
+  "research_gap": "The authors argue that despite the ubiquity of productivity metrics in markets, prior work had not tested how these metrics influence consumer preferences for time-saving options. They also note unclear prior evidence on when people rely on proportional versus absolute heuristics for nonlinear relationships of the form y = 1/x.",
+  "research_question": "How does presenting performance in productivity metrics (output per unit time) affect consumers' judgments of time savings and their willingness to pay or choose higher-performance options? Do time metrics or product experience reduce any distortion, and when do consumers rely on proportional versus absolute productivity changes when judging time savings?"
+}

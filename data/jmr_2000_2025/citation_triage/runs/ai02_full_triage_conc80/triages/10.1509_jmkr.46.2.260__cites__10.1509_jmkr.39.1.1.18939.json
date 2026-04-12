@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s core method explicitly uses Bayesian spatial statistics and “kriging-based latent demand and cost maps,” which closely matches the cited paper’s main contribution of Bayesian MCMC spatial prediction/kriging for marketing data. Given this strong method-level overlap (despite only one matched reference record), the citation is plausibly methodological/foundational rather than a generic mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper is a game-theoretic multihoming/content-acquisition model, while the cited paper is a Bayesian menu-based conjoint/multivariate probit methodology study in mass customization, with no indicated shared model, data, or estimation approach in the notes. The only match evidence is a bare DOI reference (no in-text context), and the citing paper’s stated prior-work positioning focuses on multihoming/media competition theory rather than conjoint methods. This looks most likely like a peripheral background mention of multi-choice demand rather than substantive use.",
+  "triage_decision": "drop_obvious_mention_only"
+}

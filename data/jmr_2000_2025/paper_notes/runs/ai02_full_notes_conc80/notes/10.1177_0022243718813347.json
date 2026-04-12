@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper identifies a previously unrecognized interdependence between mission activities and revenue outcomes in cross-subsidizing nonprofit health care organizations.",
+    "It conceptualizes and empirically demonstrates that outreach marketing targeted to poor patients can spill over to increase demand from walk-in paying and subsidized patients.",
+    "It quantifies the incremental revenue from camps relative to camp costs, providing decision-relevant evidence for resource allocation in Aravind-like organizations."
+  ],
+  "context": "The study is set in the Aravind Eye Care System in India, focusing on Aravind-Pondicherry, a nonprofit eye hospital operating a cross-subsidization model. Outreach eye-screening camps are aimed at poor rural patients, while paying and subsidized walk-in patients come directly to the hospital in a competitive regional eye-care market.",
+  "design_and_data": "The authors use nine years of Aravind-Pondicherry data (2006-2014) on new patient visits and outreach camps, with geo-coded patient home markets and camp locations. They analyze balanced market-week panels separately for subsidized patients (541 markets x 470 weeks) and paying patients (782 markets x 470 weeks), and observe 2,496 camps over the period. They estimate spatial autoregressive panel models with spatially autocorrelated errors and market, year, and week fixed effects, allowing camp effects to vary by geographic area of influence and temporal lags. Model selection is based on likelihood comparisons across alternative camp radii and lag lengths.",
+  "focal_constructs": [
+    "cross-subsidization",
+    "mission activities (M activities)",
+    "revenue activities (R activities)",
+    "outreach camps",
+    "spillover effects",
+    "walk-in paying patients",
+    "walk-in subsidized patients",
+    "spatial and temporal carryover effects"
+  ],
+  "main_findings": [
+    "Outreach camps have significant positive spillover effects on both subsidized and paying walk-in patient traffic at Aravind-Pondicherry.",
+    "For subsidized patients, the best-fitting camp influence is within 5 miles with effects over 3 weeks; for paying patients, it is within 10 miles with effects over 5 weeks, with the largest effect in the week after a camp.",
+    "Estimated incremental revenue per camp (about US$2,273) exceeds both Aravind's average camp staffing cost (about US$450) and total average camp cost including sponsor costs (about US$710)."
+  ],
+  "one_line_summary": "Using spatial panel analysis of 2006-2014 Aravind-Pondicherry data, the paper shows that mission-focused outreach camps raise paying and subsidized walk-in demand enough for camps to more than cover their costs.",
+  "relation_to_prior_work": "challenges the classical nonprofit operations view that mission activities necessarily require financial subsidy from revenue activities by showing positive mission-to-revenue spillovers from outreach marketing. extends prior work on Aravind-like resource allocation by adding empirically estimated interaction effects between mission and revenue sides that earlier frameworks omitted.",
+  "research_gap": "Prior work on nonprofit health care cross-subsidization generally treats mission activities as cost centers that must be subsidized and does not measure whether mission-targeted marketing can increase revenue-side demand. The paper addresses this missing evidence on mission-to-revenue spillovers.",
+  "research_question": "Do Aravind's outreach camps, which are designed for poor patients and mission fulfillment, spill over to increase walk-in demand from revenue-relevant patients? If such spillovers exist, what are their spatial and temporal patterns, and are the resulting incremental revenues large enough to offset camp costs?"
+}

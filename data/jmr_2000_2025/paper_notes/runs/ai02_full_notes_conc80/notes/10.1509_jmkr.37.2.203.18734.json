@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides a systematic, theory-based investigation of how consumers process negative publicity about brands they like and use, addressing a gap left by largely case-based prior work.",
+    "Identifies consumer commitment to the brand as a key moderator of negative publicity effects and specifies different underlying processes across commitment levels.",
+    "Derives and empirically tests commitment-contingent company response strategies (counterargumentation versus diagnosticity) to mitigate negative publicity."
+  ],
+  "context": "The paper studies product-related negative publicity in consumer markets, with experiments centered on athletic shoe brands (Nike and Mizuno). Participants evaluated newspaper-style publicity messages and, in one study, company newspaper-ad responses to that publicity.",
+  "design_and_data": "The research reports three experiments with student participants using controlled message stimuli. Experiment 1 used a 2x2 between-subjects design with measured commitment (high/low) and publicity valence (positive/negative) for Nike (68 participants), with pre- and postmessage attitudes, ambivalence, thought listings, and perceived diagnosticity measures. Experiment 2 manipulated commitment for low-share Mizuno using a public-endorsement procedure, then exposed participants to negative publicity (71 participants, one dropped), with control groups used for manipulation checks and process measures collected. Experiment 3 used a 2x2 design with measured commitment (high/low) and response strategy type (counterargumentation/diagnosticity) after negative publicity for Nike (70 participants), and examined postresponse attitude recovery and ambivalence.",
+  "focal_constructs": [
+    "negative publicity",
+    "brand commitment",
+    "negativity effect",
+    "attitude change",
+    "attitudinal ambivalence",
+    "perceived diagnosticity",
+    "counterargumentation",
+    "response strategy effectiveness"
+  ],
+  "main_findings": [
+    "Low-commitment consumers showed a negativity effect: negative publicity produced larger attitude change and higher ambivalence than positive publicity, and perceived diagnosticity mediated this effect.",
+    "High-commitment consumers resisted negative publicity by generating more counterarguments to negative than positive information; for them, counterargumentation mediated attitude change and no standard negativity effect emerged.",
+    "In response-strategy tests, high-commitment consumers responded better to diagnosticity-focused company responses than to counterargumentation, while low-commitment consumers showed lower ambivalence (and directionally better attitude recovery) with counterargumentation versus diagnosticity."
+  ],
+  "one_line_summary": "Across three experiments, the paper shows that brand commitment changes how consumers process negative publicity and therefore which firm response strategy is most effective.",
+  "relation_to_prior_work": "introduces a consumer-level theoretical framework in a domain previously dominated by case studies and assumptions of uniformly damaging, homogeneous effects of negative publicity. It combines insights from negativity-effect and biased-assimilation traditions by showing that commitment determines which process dominates. It also evaluates targeted response strategies rather than only broad crisis-management recommendations.",
+  "research_gap": "The paper argues that, despite the prevalence of negative publicity, prior work offered little systematic theory on how consumers process negative information about brands they already like and use. Existing publicity and crisis literature relied largely on case studies and often assumed uniformly devastating, homogeneous consumer reactions.",
+  "research_question": "How do consumers react to negative product-related publicity about familiar, liked brands? Does commitment to the brand moderate whether consumers weight negative information more heavily or resist it through defensive processing, and through which mechanisms? Given these differences, which company response strategy is more effective for high- versus low-commitment consumers?"
+}

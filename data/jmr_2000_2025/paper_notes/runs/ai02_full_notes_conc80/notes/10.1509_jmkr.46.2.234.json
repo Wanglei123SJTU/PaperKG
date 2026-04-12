@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper establishes a nonnormative response-mode effect in consideration-set formation: exclusion versus inclusion increases weighting of ethical attributes.",
+    "It argues and tests that the mechanism is task-goal compatibility between exclusion and ethical principles, not merely positive/negative framing or loss-related emotion.",
+    "It provides both judgmental evidence (third-party evaluations) and consequential behavioral evidence (an actual purchase-related task) for the compatibility effect."
+  ],
+  "context": "The studies examine consumer product screening decisions in categories such as automobiles and shampoo, where options vary on price/performance and ethical characteristics (worker treatment and animal testing). The focal setting is prechoice consideration-set formation before final product choice.",
+  "design_and_data": "Study 1 used a 2 x 2 between-subjects design with 421 undergraduates who sorted 27 hypothetical cars into include versus exclude sets; participant-level conjoint slopes were estimated for price, performance, and a labor-practices attribute. Study 2 replicated with 321 undergraduates and manipulated positive versus negative framing of the labor attribute (lawsuits resolved versus unresolved). Study 3 used an online sample of 273 adults who evaluated a hypothetical shopper's decision in a 2 x 2 scenario design (include/exclude mode x ethicality of the resulting set). Study 4 was a consequential lab study with 28 university doctoral students/staff who formed shampoo consideration sets (include vs exclude) and then received their top-ranked shampoo plus change from a $10 budget.",
+  "focal_constructs": [
+    "ethical attributes",
+    "consideration set formation",
+    "inclusion versus exclusion response mode",
+    "task-goal compatibility",
+    "attribute weighting",
+    "attribute framing",
+    "emotional reaction",
+    "decision justifiability judgments"
+  ],
+  "main_findings": [
+    "Ethical attributes were weighted more when consideration sets were formed by exclusion rather than inclusion, including in a real monetary shampoo task.",
+    "The exclusion advantage for ethical weighting persisted beyond attribute framing and was not explained by measured emotional reactions; include/exclude did not similarly shift weights on nonethical attributes such as price and performance.",
+    "Participants judged explicitly excluding ethical options as less justifiable than the normatively equivalent failure to include them, consistent with ethics-exclusion compatibility."
+  ],
+  "one_line_summary": "Across four studies, consumers gave greater weight to ethical product attributes when forming consideration sets by excluding options rather than including options, due to response-mode compatibility.",
+  "relation_to_prior_work": "extends prior response-mode compatibility research to ethical attribute weighting during consideration-set formation. It challenges a pure pick/reject framing account by showing the include/exclude effect remains when ethical information is framed positively or negatively. It also separates the effect from affect-based coping explanations by showing emotion does not mediate the task effect.",
+  "research_gap": "Prior include/exclude research mainly documented set-size differences, and pick/reject work emphasized valence framing in binary decisions. The paper identifies an unresolved question of whether response mode itself, independent of framing, changes how strongly consumers weight ethical attributes during consideration-set formation.",
+  "research_question": "Does forming a consideration set by excluding versus including alternatives change the weight consumers place on ethical attributes such as labor practices and animal testing? If so, is this difference driven by task-goal compatibility between exclusion and ethical principles rather than by attribute framing or emotional reactions?"
+}

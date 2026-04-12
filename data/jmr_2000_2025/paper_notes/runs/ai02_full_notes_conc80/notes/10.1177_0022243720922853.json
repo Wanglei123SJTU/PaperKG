@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides one of the first empirical evaluations of private-label umbrella rebranding by studying retailers that replace many category-specific PL brands with one umbrella name.",
+    "Separates two performance channels of rebranding, intrinsic brand strength and marketing-mix effectiveness, in a quasi-experimental before-and-after with matched control design.",
+    "Shows that private-label umbrella rebranding does not fully mirror national-brand findings, because gains in intrinsic strength coexist with lower effectiveness of price promotions and assortment size."
+  ],
+  "context": "The paper studies grocery retail private labels, focusing on retailers that unified many category-specific PL brands under one umbrella brand name. The main settings are SPAR and Attent in the Netherlands (economy PL tier rebranded to OKe) and a replication at Colruyt in Belgium (standard PL tier rebranded to Boni Selection).",
+  "design_and_data": "The authors use weekly data around 2011-2015 for many rebranded categories, with 53 categories for SPAR and 47 for Attent, observed before and after category-level rebranding. They construct matched controls from seven Dutch banners in the same buying group that kept the old category-specific PL names, and estimate difference-in-differences models with category matching. The sales equations include price, price promotions, and assortment size, plus controls, and are estimated jointly across the rebranded PL tier, national brands, and the other PL tier using SUR. They address endogeneity with fixed effects and control-function instrumentation, and run robustness checks plus an external replication for Colruyt using GfK household panel data.",
+  "focal_constructs": [
+    "private-label umbrella branding",
+    "category-specific private-label brands",
+    "intrinsic brand strength",
+    "marketing-mix effectiveness",
+    "price elasticity",
+    "price-promotion elasticity",
+    "assortment-size elasticity"
+  ],
+  "main_findings": [
+    "For all three retailers, rebranding to one umbrella PL name increased the rebranded tier's intrinsic brand strength.",
+    "After rebranding, the rebranded PL tier became less price sensitive, with lower absolute price elasticity.",
+    "In contrast to national-brand umbrella-branding evidence, the effectiveness of price promotions and assortment size decreased after PL umbrella rebranding."
+  ],
+  "one_line_summary": "Using quasi-experimental evidence from three retailers, the paper finds that private-label umbrella rebranding raises intrinsic brand strength and reduces price sensitivity but lowers the effectiveness of price promotions and assortment expansion.",
+  "relation_to_prior_work": "extends prior umbrella-branding evidence from national brands to private labels in a large multi-category retail setting, where extension conditions differ markedly from parent-category national brands. challenges the expectation from national-brand studies that stronger umbrella brands should also gain in promotion and assortment effectiveness, showing the opposite for private labels.",
+  "research_gap": "Empirical evidence on umbrella-branding spillovers is limited and mostly focused on national brands, while private-label umbrella branding is common in practice. Prior work had not clearly established how shifting from category-specific PL names to one umbrella name affects both intrinsic brand strength and the effectiveness of key category-level marketing instruments.",
+  "research_question": "How does a private label's intrinsic brand strength change when a retailer shifts from multiple category-specific PL brand names to one umbrella brand? How does that shift affect marketing-mix effectiveness, specifically for price, price promotions, and assortment size?"
+}

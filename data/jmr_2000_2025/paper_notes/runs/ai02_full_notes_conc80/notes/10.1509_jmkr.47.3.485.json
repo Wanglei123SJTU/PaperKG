@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper introduces disjunctions-of-conjunctions (DOC) rules as a general noncompensatory representation for consideration decisions, nesting disjunctive, conjunctive, subset-conjunctive, and lexicographic-equivalent consideration patterns.",
+    "It proposes two machine-learning estimators for cognitively simple DOC rules, DOCMP and LAD-DOC, that incorporate complexity control and sample-level shrinkage.",
+    "It provides empirical validation showing predictive gains versus established compensatory and noncompensatory benchmarks and illustrates how DOC-based models can change managerial feature-priority decisions."
+  ],
+  "context": "The primary empirical context is handheld GPS products, where consumers form consideration sets from profiles described by multiple features. Data come from web-based respondent tasks with a representative German consumer sample and a U.S. student replication, with qualitative motivation from automobile and GPS interviews.",
+  "design_and_data": "The authors first used qualitative depth interviewing (including 39 automobile consumers, plus GPS qualitative interviews) to motivate DOC-style screening patterns. In the main quantitative study, respondents completed web-based consideration tasks for 32 orthogonally designed GPS profiles (16 features), then repeated the task on a different orthogonal profile set used only for validation after memory-cleansing tasks. The main German analysis retained 580 respondents after excluding null consideration or null nonconsideration cases, and additional tests used alternative task formats, text-only profiles, and a U.S. MBA sample. They compared DOCMP and LAD-DOC against 10 benchmarks (five decision rules estimated with machine learning and hierarchical Bayes) using validation hit rates and Kullback-Leibler-based information metrics.",
+  "focal_constructs": [
+    "consideration sets",
+    "noncompensatory decision rules",
+    "disjunctions of conjunctions (DOC)",
+    "cognitive simplicity",
+    "DOCMP",
+    "LAD-DOC",
+    "Kullback-Leibler divergence"
+  ],
+  "main_findings": [
+    "On validation data, DOC-based methods are best or not significantly different from best on hit rates and outperform all ten benchmark methods on the Kullback-Leibler information measure.",
+    "The predictive advantage of DOC-based methods is robust across four consideration-task formats, across a representative German sample and a U.S. student sample, and across picture-based versus text-only profile presentations.",
+    "Imposing cognitive-simplicity constraints improves DOC predictive performance relative to unconstrained DOC estimation; additive machine-learning models remain competitive on hit rates but are weaker on the information-theoretic criterion."
+  ],
+  "one_line_summary": "The paper proposes cognitively simple DOC screening rules for consideration-set formation and shows, in handheld GPS experiments, that DOCMP and LAD-DOC predict out-of-sample consideration better than established compensatory and noncompensatory alternatives.",
+  "relation_to_prior_work": "extends prior consideration-set and decision-rule research by generalizing established noncompensatory rules into DOC and empirically comparing this generalization with existing machine-learning and hierarchical Bayes implementations of additive, q-compensatory, disjunctive, conjunctive, and subset-conjunctive models.",
+  "research_gap": "Existing consideration-set models emphasize additive/compensatory rules or narrower noncompensatory forms, which may miss consumers who use multiple conjunctive screening patterns combined disjunctively. The paper also addresses the need for estimation methods that can recover such general rules while controlling complexity consistent with cognitive simplicity.",
+  "research_question": "Do cognitively simple disjunctions-of-conjunctions rules better represent and predict consumers' consideration-set decisions than extant compensatory and noncompensatory models? Can machine-learning estimators of DOC rules improve out-of-sample prediction of consideration across different elicitation formats, samples, and profile presentations?"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper explicitly studies seeding strategies that target “influentials” versus random customers, and reports different value outcomes by targeting type. The cited paper is directly about identifying influential users in social networks and demonstrates targeting gains, so it is a plausible method/mechanism source rather than an incidental background mention; with only DOI-level match evidence, this should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Develops an empirical framework that jointly determines a CDI's optimal customer strategy (exclusive vs nonexclusive), product strategy (targeting accuracy), and service pricing.",
+    "Models downstream manufacturer and retailer strategic responses when valuing 1:1 targeting services, instead of treating personalization as only an algorithmic problem.",
+    "Illustrates the framework for a Catalina-like 1:1 coupon intermediary and evaluates strategic implications of retailer entry/disintermediation."
+  ],
+  "context": "The paper studies a customer data intermediary in U.S. grocery retailing that sells targeted coupon services to packaged-goods manufacturers through retailer transaction data. The empirical illustration is the ketchup category at a large Springfield, Missouri retailer, with Heinz, Hunt's, and a store brand.",
+  "design_and_data": "The authors build a two-phase structural game: Phase 1 is sale of 1:1 services (history-length choice, client choice, and fee offers), and Phase 2 is sales of goods (manufacturer wholesale prices and household coupons, retailer prices, household brand choice). They estimate a latent-class household demand model with a control-function correction for price endogeneity, then estimate supply-side costs under alternative channel interaction assumptions. The data are ACNielsen scanner panel data for ketchup over 100 weeks (1986-1988), using 143 households (at least five purchases), 1,073 category purchases in 11,660 store visits, and four major SKUs. They run equilibrium simulations comparing no targeting, previous-visit targeting, previous-purchase targeting, and full-history targeting under exclusive and nonexclusive selling to compute manufacturer, retailer, and CDI profits.",
+  "focal_constructs": [
+    "customer data intermediary (CDI)",
+    "1:1 coupon targeting",
+    "exclusive vs nonexclusive client strategy",
+    "targeting accuracy via purchase-history length",
+    "CDI service pricing",
+    "manufacturer competition",
+    "retailer disintermediation incentives"
+  ],
+  "main_findings": [
+    "In the ketchup application, CDI profit is highest when the service is sold nonexclusively to both manufacturers using full purchase history (maximum available history).",
+    "Manufacturer profits increase with 1:1 targeting and generally rise with greater targeting accuracy; in this market both Heinz and Hunt's are better off when both target than when only one targets.",
+    "Because targeting also raises retailer profits from goods sold, retailers have incentives to subsidize and undercut a pure-play CDI's targeting-service price, making retailer entry a serious threat."
+  ],
+  "one_line_summary": "Using a structural model and scanner-panel simulations in ketchup, the paper finds that a CDI like Catalina should sell high-accuracy 1:1 coupon services nonexclusively and that retailers have incentives to undercut a pure-play intermediary.",
+  "relation_to_prior_work": "extends prior empirical 1:1 pricing research by endogenizing the intermediary's decisions about whom to sell to, service accuracy, and fees while incorporating manufacturer competition and retailer pricing response. It shifts focus from engineering-oriented personalization methods to CDI marketing strategy.",
+  "research_gap": "Although CDIs were growing rapidly, the authors argue that empirical work was largely engineering-focused on personalization techniques and offered little guidance on intermediary marketing strategy. Prior empirical coupon-targeting studies evaluated manufacturer targeting profitability but did not model the CDI's own customer, product, and pricing choices.",
+  "research_question": "Given available 1:1 targeting technology, what is the optimal customer strategy (exclusive or nonexclusive selling) and product strategy (targeting accuracy/history length) for a customer data intermediary? Conditional on those choices, what price should the intermediary charge for its service, and how are these choices affected by retailer incentives to provide the service themselves?"
+}

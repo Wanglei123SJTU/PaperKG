@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a three-pronged empirical framework for fashion analysis: algorithmic cycle detection, statistical identification of cycle-generating processes, and tests of social drivers.",
+    "It introduces the conditional monotonicity property for AR(p) processes and shows how to estimate dynamic models with potentially endogenous lagged outcomes using system GMM.",
+    "It provides substantive evidence in the naming context that large fashion cycles exist and are consistent with cultural capital signaling."
+  ],
+  "context": "The empirical setting is U.S. infant given-name choice, treated as a conspicuous consumption decision. The author uses national and state naming data and state-level social-capital measures to study how name popularity rises and falls over time and geography.",
+  "design_and_data": "The study uses Social Security Administration data on newborn names at national and state levels, with core analysis focused on 1940-2009 because earlier records are partial. It analyzes multiple name panels (Top50, Top100, Top200, and Top500 names by annual popularity inclusion) and first detects cycles algorithmically using minimum amplitude, local extrema dominance, and minimum length criteria, plus dormancy for repeat cycles. It then estimates dynamic panel autoregressive models and tests for nonstationarity and conditional monotonicity using two-step system GMM with internal instruments and specification tests. To test drivers, it links state-year naming outcomes to state-year economic capital (cost-of-living-adjusted median household income) and cultural capital (college attainment relative to national average) from Census and CPS sources.",
+  "focal_constructs": [
+    "fashion cycles",
+    "algorithmic cycle detection",
+    "conditional monotonicity",
+    "nonstationary AR(2) dynamics",
+    "cultural capital signaling",
+    "wealth signaling",
+    "name popularity adoption"
+  ],
+  "main_findings": [
+    "Algorithmic analysis finds widespread and often recurring cycles in name popularity, including that over 80% of names in the Top50 set experienced at least one cycle and a substantial share experienced multiple cycles.",
+    "Statistical models indicate name popularity follows an AR(2)-type dynamic with a unit root and satisfies conditional monotonicity, providing statistical evidence for cycle-generating dynamics.",
+    "Geographic and longitudinal patterns support Bourdieu's cultural capital signaling theory: higher-cultural-capital states adopt and abandon fashionable names earlier, their adoption positively predicts broader adoption, and analogous wealth-based effects are not supported."
+  ],
+  "one_line_summary": "The paper develops a three-part empirical framework to identify fashion cycles and their causes, and applies it to U.S. baby names to show recurring large cycles consistent with cultural capital signaling rather than wealth signaling.",
+  "relation_to_prior_work": "introduces an empirical framework for identifying and explaining fashion cycles in data, where prior work in fashion was largely theoretical or descriptive and had not empirically tested competing signaling theories. It also differentiates itself from business-cycle filtering and bubble-detection approaches by requiring more than nonstationarity, formalizing conditional monotonicity, and accommodating endogenous dynamics when studying cycle drivers.",
+  "research_gap": "The paper states that there was no empirical framework to reliably identify fashion cycles in data and examine their drivers. It also argues that prior literature had not empirically tested whether observed cycles are consistent with competing signaling theories of fashion.",
+  "research_question": "How can researchers empirically identify whether observed popularity patterns are true fashion cycles rather than short-term fluctuations or simple trends? In the naming context, are these cycles better explained by wealth signaling or by cultural capital signaling?"
+}

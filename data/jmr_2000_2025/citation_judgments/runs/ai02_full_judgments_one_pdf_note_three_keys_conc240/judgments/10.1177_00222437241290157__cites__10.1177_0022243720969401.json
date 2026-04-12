@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is not just listed as background; the citing paper explicitly states that it \"adopt[s] the approach from Seiler, Tuchman, and Yao (2021)\" to build aggregate quantity-weighted prices and run a policy-related price check. That is a concrete methodological use in the empirical analysis, even though it appears in a robustness section rather than the core BSCM design. The citation is also used in the introduction as an example of policy-driven consumer behavior change, reinforcing its framing role.",
+  "relation_description": "The citing study applies a measurement/analysis approach from Seiler et al. (2021) to test whether observed effects could be driven by price movements, by constructing aggregate quantity-weighted prices in its policy setting. It also uses the cited paper as prior policy evidence in framing.",
+  "relation_type": "applies"
+}

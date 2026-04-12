@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops a structural dynamic brand choice model that incorporates cross-brand learning among private labels, with both quality-level spillovers and familiarity spillovers, alongside Bayesian learning, forgetting, and risk aversion.",
+    "It provides empirical evidence from household scanner data that private-label consumption experience in one chain spills over to private-label beliefs and choices in rival chains, beyond static correlation in private-label preferences.",
+    "It uses model-based simulations to show how cross-brand learning changes private-label versus national-brand competition, including consequences for free-sample promotions and new private-label introductions."
+  ],
+  "context": "The study is set in Dutch conventional supermarket retailing, where households shop multiple chains that offer both national brands and standard private labels. Empirically, it examines liquid dish soap and breakfast cereals across nine chains and five private-label programs.",
+  "design_and_data": "The authors estimate a structural dynamic multinomial brand choice model in which consumers hold uncertain quality beliefs, update them from consumption signals, and forget over time. Cross-private-label learning is modeled through nonzero covariance in prior private-label quality beliefs, and compared against a no-cross-learning benchmark plus conditional variants based on chain naming and quality distance. Data are GfK household scanner panel purchases over 130 weeks; estimation uses the last 90 weeks with 40 weeks for initialization and a 20% holdout sample. The retained analysis samples are households buying the category in at least two chains (195 households for dish soap, 509 for cereals).",
+  "focal_constructs": [
+    "private label brands",
+    "cross-brand learning",
+    "quality belief spillovers",
+    "familiarity spillovers",
+    "brand quality uncertainty",
+    "Bayesian learning and forgetting",
+    "risk aversion",
+    "private label versus national brand choice share"
+  ],
+  "main_findings": [
+    "There is strong evidence of cross-retailer learning among private labels in both categories, with the cross-brand learning model significantly improving fit versus a no-cross-learning model.",
+    "Cross-learning appears specific to private labels: the data do not support comparable cross-brand learning among national brands, and private-label spillovers are not significantly moderated by chain-name branding or by private-label quality differences.",
+    "Familiarity spillovers dominate quality-level spillovers, so cross-learning raises private-label utility and share relative to national brands; in dish soap simulations, total private-label share rises by about 3.3 percentage points, and new private labels diffuse faster under cross-learning."
+  ],
+  "one_line_summary": "Using a structural dynamic choice model on Dutch scanner data, the paper shows that consumers learn across rival retailers' private labels and that this cross-learning improves private-label position versus national brands.",
+  "relation_to_prior_work": "extends dynamic structural brand learning models that mostly focus on within-brand updating by allowing cross-brand learning among multiple private labels across chains. It also complements prior private-label/store-loyalty work by focusing on within-store category brand choice shares and private-label-national-brand competition under learning dynamics.",
+  "research_gap": "Prior work on consumer learning in brand choice has largely emphasized within-brand learning, leaving cross-brand learning between competing brands underexplored. In private labels, existing studies on store loyalty do not directly identify whether private-label experience in one chain transfers to rival chains' private labels or how that transfer affects competition with national brands.",
+  "research_question": "Do consumers generalize consumption-based quality learning from one retailer's private label to private labels of other chains within a category? If such cross-brand learning exists, does it depend on whether private labels carry the retailer name or on quality differences between private labels? How does this learning alter private-label choice shares relative to national brands?"
+}

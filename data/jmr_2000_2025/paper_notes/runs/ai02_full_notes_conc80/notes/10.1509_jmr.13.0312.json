@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper identifies interpersonal closeness as a previously underexplored driver of WOM valence, showing that closeness to the recipient shapes whether shared WOM is more negative or more positive.",
+    "It proposes and tests a motive-based mechanism in which low interpersonal closeness activates self-enhancement motives and high interpersonal closeness activates motives to protect others, with differential effects on positive versus negative WOM.",
+    "It shows downstream implications for social transmission by demonstrating that high- versus low-closeness chains produce systematic valence distortions and diverging recipient attitudes across repeated transmissions."
+  ],
+  "context": "The study examines consumer word-of-mouth exchanges in interpersonal settings that vary in psychological closeness, including social media contexts (LinkedIn, Facebook) and offline lab interactions. The substantive messages concern products and services (e.g., restaurant experience, camera features, hotel review).",
+  "design_and_data": "The paper reports four experiments. Experiment 1 (N = 50 MBA students) manipulated interpersonal closeness by asking participants to message on LinkedIn either a close or distant peer about a balanced pros/cons article; messages were content-coded for positive and negative thoughts. Experiment 2 (N = 240) used a dyadic closeness induction task, had senders write about a restaurant experience, measured self-enhancement and protect-others motives, and tested mediation. Experiment 3 (N = 119) manipulated closeness via platform choice (Facebook vs LinkedIn) and manipulated product framing (novel vs well-established vs baseline) while coding valenced camera-related message content; Experiment 4 (N = 120) used three-person transmission chains with imagined best-friend vs acquaintance links and measured both coded message valence and attitudes over chain positions.",
+  "focal_constructs": [
+    "interpersonal closeness",
+    "word-of-mouth valence",
+    "self-enhancement motive",
+    "motive to protect others",
+    "product novelty framing",
+    "social transmission chains",
+    "consumer attitudes"
+  ],
+  "main_findings": [
+    "Higher interpersonal closeness increased negative WOM content, whereas lower interpersonal closeness increased positive WOM content, without changing total amount of content shared.",
+    "The effect was process-specific: high closeness increased the motive to protect others, which mediated negative WOM sharing, while low closeness increased self-enhancement motive, which mediated positive WOM sharing.",
+    "Product novelty amplified and well-established framing attenuated the closeness-valence effect, and across transmission chains high-closeness chains became relatively more negative while low-closeness chains became relatively more positive, with corresponding divergence in attitudes."
+  ],
+  "one_line_summary": "Across four experiments, the paper shows that people share relatively more negative WOM with close others and relatively more positive WOM with distant others because interpersonal closeness shifts motives between protecting others and self-enhancement.",
+  "relation_to_prior_work": "extends prior WOM and social transmission research by shifting attention from reach and impact of ties to how interpersonal closeness changes the valence of what is transmitted. It also extends work on information value by arguing that WOM content depends not only on recipient value but also on sender-side instrumentality for motives such as self-enhancement and protecting others.",
+  "research_gap": "Prior work had shown that interpersonal closeness affects information diffusion and influence, but it had not clearly examined how interpersonal closeness affects the valence of information people share. The paper explicitly positions this as an open question in WOM research, noting limited direct evidence on closeness and valenced content.",
+  "research_question": "How does interpersonal closeness between WOM sender and recipient influence whether shared information is positive or negative? The paper also asks whether this effect is driven by shifts in underlying motives, specifically self-enhancement versus protecting others, and how it shapes valence over repeated social transmission."
+}

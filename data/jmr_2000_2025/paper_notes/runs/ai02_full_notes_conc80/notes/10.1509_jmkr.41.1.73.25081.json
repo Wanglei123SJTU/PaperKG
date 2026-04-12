@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces a direct estimation approach for target marketing problems where the decision depends on whether a response crosses a threshold, by modeling the discretized response d(y) rather than y.",
+    "Develops asymptotic theory that compares direct and indirect estimators for predicting d(y), showing a reversal: indirect is better under correct specification, but direct is better under misspecification with large samples.",
+    "Provides simulation and two applied demonstrations and argues that managers should expand candidate models to include direct models of discretized outcomes."
+  ],
+  "context": "The paper studies threshold-based prediction problems in direct marketing, where managers must classify prospects into discrete action groups (for example, target or do not target). Empirical illustrations are a supermarket household targeting task and an automobile service customer satisfaction top-two-box prediction task.",
+  "design_and_data": "The authors derive asymptotic results for two MLE strategies under a common model family: estimate parameters from the likelihood of continuous y (indirect) versus from the likelihood of discretized d(y) (direct), and compare them using predictive log-likelihood for d(y). They run a simulation where data are generated from a nonlinear model y = beta0 + beta1 x^2 + error but estimated with misspecified linear/probit forms; a fractional-factorial design covers 834 cells varying misspecification level, sample size (100 to 20,000), error skewness, and cutoff location, with repeated estimation and validation samples. In a retail application, they use ACNielsen household panel data (7,520 households in Sioux Falls and Springfield, about 20 months) to predict whether grocery and drug spending exceeds $3,000, comparing OLS regression versus binary probit in 10-fold cross-validation. In a customer satisfaction application, they use 100,345 auto service surveys to predict top-two-box overall satisfaction from seven service attributes plus demographics, again comparing regression versus probit in holdout validation.",
+  "focal_constructs": [
+    "discretized response d(y)",
+    "direct versus indirect estimation",
+    "model misspecification",
+    "predictive log-likelihood",
+    "threshold-based target classification",
+    "expected profit from targeting",
+    "top-two-box satisfaction prediction"
+  ],
+  "main_findings": [
+    "If the response model is correctly specified, estimating on y and then reconstructing d(y) has higher expected predictive accuracy than estimating directly on d(y).",
+    "If the response model is misspecified and estimation samples are large, estimating directly on d(y) yields higher expected predictive accuracy for d(y) than the indirect approach.",
+    "In simulation and both empirical applications, the direct approach outperformed the indirect approach on holdout predictive fit; in the retail case it improved expected profits by about 30% on average across folds, and specification tests indicated misspecification of the y-models."
+  ],
+  "one_line_summary": "The paper shows theoretically and empirically that for threshold-based marketing decisions, directly modeling the discretized outcome can outperform the standard continuous-then-discretize approach when models are misspecified and samples are large.",
+  "relation_to_prior_work": "challenges the prevailing prospect-scoring practice of estimating continuous response models and then discretizing predictions by showing that this can be predictively inferior under common misspecification conditions.",
+  "research_gap": "Prior practice in direct marketing largely uses an indirect approach that models continuous response and then applies thresholds, but the paper states that conditions under which a direct model of discretized outcomes should be preferred were not established. The authors address this missing theoretical and empirical comparison of the two approaches for predicting discretized responses.",
+  "research_question": "When the managerial objective is to predict a discretized function of a response variable, should model parameters be estimated from the continuous response y or directly from the discretized response d(y)? Under what conditions does each approach deliver higher out-of-sample predictive accuracy for d(y)?"
+}

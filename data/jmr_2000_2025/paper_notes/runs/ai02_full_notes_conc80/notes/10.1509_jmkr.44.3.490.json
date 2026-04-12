@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Develops a structural model of consumer vehicle acquisition that jointly models vehicle choice and lease-versus-finance contract choice.",
+    "Treats leasing and financing for the same vehicle as differentiated alternatives and measures acquisition costs through net price, maintenance costs, and operating costs.",
+    "Shows how manufacturers can use the estimated model to evaluate promotions by incremental volume, within-brand contract cannibalization, and profitability."
+  ],
+  "context": "The study is set in the U.S. entry-luxury automobile market, using new-car dealer transactions from Southern California. It focuses on consumers choosing both a vehicle model and an acquisition contract at purchase.",
+  "design_and_data": "The authors estimate a structural nested logit model in which contract choice is nested within vehicle choice, with utility depending on annualized net price, maintenance cost, and operating cost for each vehicle-contract combination. Net price is constructed from contract terms (price, APR, down payment, term, cash incentives, residual value) using present value over a common 6-year horizon, assuming buyers hold cars for 72 months and lessees re-lease after contract end. Data come from Power Information Network and include 18,154 entry-luxury transactions for 15 models over 57 weeks (Sep 1999-Oct 2000), with an estimation sample of 15,556 observations using common lease and finance terms. Vehicle attributes were added from Edmunds.com and fuel prices from the U.S. Department of Energy, and parameters were estimated by simulated maximum likelihood with random coefficients.",
+  "focal_constructs": [
+    "joint vehicle-contract choice",
+    "lease versus financing decision",
+    "net price of contract",
+    "consumer discount rate",
+    "maintenance cost schedule",
+    "operating costs and mileage penalties",
+    "promotional effectiveness and cannibalization"
+  ],
+  "main_findings": [
+    "The estimated average consumer discount rate is about 15.2%, higher than the prevailing market rate (about 9%), implying preference for lower payment streams even when total cost is higher.",
+    "Vehicles with steeper maintenance cost schedules are more likely to be leased, indicating consumers lease less reliable cars and buy more reliable ones.",
+    "A $1,000 lease cash incentive generates more lease volume than an equivalent residual value increase, but residual value promotions can be more profitable because their effective cost is lower."
+  ],
+  "one_line_summary": "Using Southern California entry-luxury auto transactions, the paper estimates a structural joint vehicle-contract choice model and finds high consumer discounting, maintenance-driven leasing propensity, and important profitability differences across promotion instruments.",
+  "relation_to_prior_work": "extends prior automobile demand work by jointly modeling vehicle and contract choice and by incorporating explicit contract-level acquisition costs instead of relying only on vehicle price. It challenges leasing models that assume financial equivalence and consumer indifference between leasing and financing.",
+  "research_gap": "Prior leasing research is largely game theoretic and often assumes leasing and financing are financially equivalent, leaving consumer contract evaluation underexplored. In automobile demand, existing studies typically ignore nonfinancial contract-related costs and the linkage between contract choice and vehicle choice.",
+  "research_question": "How do consumers jointly choose a vehicle and an acquisition contract (lease or finance) when contracts differ in financial terms, maintenance implications, and operating costs? Can a structural model of this joint decision explain observed contract choices and be used to assess the effectiveness and profitability of manufacturer promotions?"
+}

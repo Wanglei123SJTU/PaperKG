@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "Moe (2006) uses Bradlow and Rao (2000) for a specific modeling function, not just background. In developing Stage 1 search choice, it explicitly discusses Bradlow and Rao's dispersion-based assortment approach and then adapts that dispersion idea to a sequential clickstream setting. The cited work is tied to the paper's contribution on modeling interdependencies among viewed items, and it is referenced again when summarizing how the model was built.",
+  "relation_description": "The citing paper applies and adapts Bradlow and Rao's assortment-dispersion modeling idea to represent dependence among sequential product-view choices in Stage 1. It transfers the dispersion concept from bundle-level assortment choice to a computationally feasible sequential two-stage clickstream model.",
+  "relation_type": "applies"
+}

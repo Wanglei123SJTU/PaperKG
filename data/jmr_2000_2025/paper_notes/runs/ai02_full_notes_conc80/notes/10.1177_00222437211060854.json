@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper identifies an interaction between an individual factor (moral identity) and a message factor (risk factor stigma) in determining health message effectiveness.",
+    "It shows that risk factor stigma threatens the moral self and reduces persuasion through defensive processing, documenting a moral pathway for stigma effects.",
+    "It proposes and tests actionable messaging interventions for high-stigma contexts, including moral priming, self-affirmation framing, and highlighting low-stigma risk factors."
+  ],
+  "context": "The studies are in health persuasion settings involving ads and messages about vaccination and cancer screening. Empirical contexts include fictitious disease vaccination, lung cancer screening with smoking-related stigma, and cervical cancer screening in U.S. participant samples.",
+  "design_and_data": "The paper reports five between-subjects experiments using Prolific, CloudResearch, and undergraduate lab samples (n=303, 383, 1,001, 470, and 406 in the main study of Study 5 after an earlier premeasure wave). Studies manipulate moral identity salience (banner ads, writing tasks, or message copy), risk factor stigma (sexual transmission or smoking stigma), and in process tests manipulate positive versus neutral self-affirmation; Study 4 also measures trait moral identity (Aquino and Reed internalization). Outcomes include vaccination or screening intentions and behavioral engagement with the NIH/NCI lung screening tool (interest, clicks, and choice to use). Process evidence is measured via psychological distress, counterarguments from thought listings, risk estimates, and response times, with moderated mediation analyses reported.",
+  "focal_constructs": [
+    "moral identity",
+    "risk factor stigma",
+    "stigma-by-association",
+    "health message effectiveness",
+    "defensive processing",
+    "self-affirmation",
+    "vaccination and screening intentions"
+  ],
+  "main_findings": [
+    "When risk factor stigma is low, higher or primed moral identity increases health message compliance, but this positive effect is undermined when risk factor stigma is high.",
+    "In high-stigma conditions, moral identity is associated with more defensive processing (for example, more counterarguments, higher distress in Study 1, lower risk estimates, and faster responses), which mediates lower message effectiveness.",
+    "Positive self-affirmation attenuates the stigma-by-moral-identity interaction and restores the positive moral-identity effect under high stigma, and making a low-stigma risk factor salient increases screening-tool uptake among morally primed participants."
+  ],
+  "one_line_summary": "Across five experiments, the paper shows that moral identity boosts compliance with health messages only when cited risk factors are low stigma, because high-stigma risk factors trigger defensive processing that can be reduced by self-affirmation or low-stigma risk-factor emphasis.",
+  "relation_to_prior_work": "extends moral identity research from mainly ethical and prosocial outcomes to health persuasion, and extends stigma research by documenting a moral-self threat mechanism in addition to social processes; it also transfers stigma-by-association logic from person-to-person links to risk-factor-to-health-behavior links in health messages.",
+  "research_gap": "Prior work discussed links between morality and health and documented moral identity effects in ethical or prosocial domains, but causal evidence on moral identity in health message effectiveness was limited. Stigma research largely emphasized social consequences of stigmatized people or conditions, not whether stigma attached to risk factors in a message taints the advocated health behavior and changes persuasion.",
+  "research_question": "How do consumers' moral identity and the stigma of risk factors presented in health messages jointly shape message effectiveness? Do stigmatized risk factors taint advocated health behaviors via stigma-by-association and trigger defensive processing among high moral-identity consumers, and can self-affirmation or message design interventions mitigate this effect?"
+}

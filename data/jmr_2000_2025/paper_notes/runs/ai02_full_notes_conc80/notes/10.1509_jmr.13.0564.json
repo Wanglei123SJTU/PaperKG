@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "To our knowledge, this is the first EEG study showing that neural activity recorded during passive product viewing can predict later consumer choices without asking consumers to choose during measurement.",
+    "The paper demonstrates a relatively low-cost and widely available EEG approach for forecasting future consumer preferences, relevant when direct preference elicitation is biased or infeasible.",
+    "It shows that both ordinal and cardinal information in EEG signals (N200 and theta) can be used for choice prediction, including through a neural random utility modeling framework."
+  ],
+  "context": "The study is a laboratory consumer setting using 10 everyday retail products (for example, headphones, kettle, mouse, USB drive) drawn from a large Israeli home goods retailer and priced in a narrow range (70-90 NIS). Participants passively viewed these products during EEG recording and later made incentivized pairwise choices among the same items.",
+  "design_and_data": "The authors ran a three-stage within-subject experiment with 15 participants. After product familiarization, participants passively viewed images of 10 products while EEG was recorded (19 electrodes); each product was shown 50 times (500 trials total), with 2-second product display after an 800-1200 ms fixation. About 10 minutes later, participants completed all 45 pairwise product choices, each repeated six times (270 choice trials), plus liking/wanting ratings and a full rank-ordering task, and then selected one product to receive. Analyses focused on Fz N200 amplitude (200-300 ms) and theta power (5-8 Hz, 100-400 ms), selected using the first five participants, with a posterior control electrode (Pz), ordinal prediction tests, and cardinal NRUM random-effects probit prediction (including out-of-sample checks).",
+  "focal_constructs": [
+    "electroencephalography (EEG)",
+    "future consumer choice prediction",
+    "passive product valuation",
+    "N200 event-related potential",
+    "theta band power (5-8 Hz)",
+    "rank-ordered product preferences",
+    "binary pairwise product choices",
+    "neural random utility model (NRUM)"
+  ],
+  "main_findings": [
+    "At midfrontal electrode Fz, less negative N200 amplitude and lower theta power during passive viewing were associated with higher later product preference; theta effects were not present at control electrode Pz.",
+    "Ordinal choice prediction from Fz EEG rankings was above chance for theta power (mean about 0.59) and increased strongly with neural rank distance, reaching about 0.79 for the largest distance; Pz predictions were at chance.",
+    "Cardinal NRUM analyses using Fz EEG differences predicted trial-by-trial choices above chance (about 0.64-0.65 in-sample and about 0.59-0.60 out-of-sample), and larger neural magnitude differences yielded better prediction."
+  ],
+  "one_line_summary": "EEG signals measured during passive viewing of 10 consumer products, especially Fz N200 and theta activity, predicted participants' later ranked preferences and pairwise choices.",
+  "relation_to_prior_work": "extends prior fMRI nonchoice valuation and neural choice-prediction work to EEG, showing similar dependence of predictive accuracy on neural distance and applying NRUM-style cardinal prediction with EEG data. It also refines prior EEG marketing studies by moving beyond pleasantness or concurrent-choice associations to quantified prediction of later actual choices after passive viewing.",
+  "research_gap": "Prior evidence that neural measurements can predict consumer preferences mainly relied on expensive fMRI, leaving practical marketing applicability uncertain. Existing EEG studies often involved concurrent choice or pleasantness ratings rather than later actual choices, and generally did not quantify prediction precision for future choice behavior.",
+  "research_question": "Can EEG recorded while consumers passively view products in isolation, without making choices, predict their subsequent rank-ordered preferences and binary choices among those products? Which EEG components carry this predictive information, and does prediction improve with ordinal and cardinal neural distance?"
+}

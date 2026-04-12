@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the \"Handling Very Low-Cost Media\" section, the citing paper references Zhang, Kumar, and Cosguner (2017) (alongside two related papers) to support the claim that very high email volume can annoy customers and lower effectiveness. It then uses that claim to motivate a concrete specification change: adding a negative quadratic email term and corresponding first-order condition adjustment (Eq. 26-27) to penalize excessive email contacts. Because the citation directly informs a modeling assumption used in the paper's optimization setup, it serves a meaningful functional role rather than a mere passing mention.",
+  "relation_description": "The citing paper uses Zhang et al. (2017) as empirical support for email wearout/annoyance effects and incorporates that idea by adding a quadratic penalty for email intensity in its microtargeting model.",
+  "relation_type": "other"
+}

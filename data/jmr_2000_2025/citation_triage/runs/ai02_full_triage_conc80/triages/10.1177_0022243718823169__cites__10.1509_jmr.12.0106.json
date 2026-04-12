@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper focuses on LDA-based text mining of online reviews to extract latent quality dimensions and valence, while the citing paper’s core contribution is an analytical sampling/pricing model plus a randomized field experiment on book sales and traffic with hierarchical count models. The citing note shows no use of text-mining methods or online-chatter constructs, and the match evidence is only a DOI record with no contextual citation text, so this appears likely to be a non-substantive background mention.",
+  "triage_decision": "drop_obvious_mention_only"
+}

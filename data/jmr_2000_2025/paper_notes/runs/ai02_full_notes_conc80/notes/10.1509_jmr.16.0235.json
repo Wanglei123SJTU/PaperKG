@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces and estimates the \"club store effect,\" defined as how regular warehouse-club shopping changes households' total packaged-food purchases across all retail formats.",
+    "It combines longitudinal household purchase data with item-level nutrition-label data, household health survey data, and category-level ratings (storability, impulse nature, perceived healthfulness) to study quantity, quality, and quantity-quality outcomes together.",
+    "It addresses selection on observables and unobservables using multiple approaches (rich-control OLS, an IV strategy, and difference-in-difference analyses around new club openings) and examines heterogeneity by category and household characteristics."
+  ],
+  "context": "The study is set in U.S. grocery retailing, focusing on warehouse club stores (e.g., Costco/Sam's Club type format) and households' packaged-food purchases for home consumption. It compares club-store shopping with purchases across major formats such as supermarkets, mass/supercenters, and drug stores.",
+  "design_and_data": "The empirical analysis uses SymphonyIRI nationwide home-scan panel data (2006-2009) on all barcoded household purchases across retail formats, merged with annual household health surveys (2005-2008). It links purchases to SKU nutrition-label information (calories, sugar, saturated fat, servings), with missing SKU nutrition imputed from same-brand SKUs, and adds a Mechanical Turk survey rating 165 food categories on storability, impulse nature, and perceived healthfulness. The main sample for treatment estimation includes 12,765 households after screens and trimming, with regular club shoppers (n=2,513) compared against nonshoppers; models include OLS and an IV model using renting status as a proxy for storage constraints. Additional difference-in-difference tests use households near new club-store openings (n=265) with matched and eventual-shopper control groups.",
+  "focal_constructs": [
+    "warehouse club shopping",
+    "packaged food quantity (servings per capita)",
+    "nutritional quality (calories/sugar/saturated fat per serving)",
+    "quantity-quality outcomes (calories/sugar/saturated fat per capita)",
+    "selection on observables and unobservables",
+    "storability",
+    "impulse nature",
+    "perceived healthfulness (health halo)"
+  ],
+  "main_findings": [
+    "After accounting for selection, regular club-store shopping is associated with a substantial increase in total packaged-food servings per capita and in calories, sugar, and saturated fat per capita.",
+    "There is little to no robust effect of club-store shopping on nutritional quality per serving, so the per-capita nutrition increase is primarily quantity-driven.",
+    "The increase is concentrated in storable and higher-impulse categories, and heterogeneity analyses show stronger effects for larger households while income and health consciousness do not significantly attenuate the main effect."
+  ],
+  "one_line_summary": "Using U.S. household panel, survey, and nutrition data, the paper finds that shopping at warehouse clubs raises total packaged-food volume and thus per-capita calories, sugar, and saturated fat, with little robust change in nutrition per serving.",
+  "relation_to_prior_work": "extends prior big-box health-impact research by shifting from aggregate supercenter presence measures to household-level warehouse-club shopping behavior and by separating quantity, quality, and quantity-quality outcomes. It also adds evidence on food-category and household moderators that earlier studies did not directly test.",
+  "research_gap": "Prior studies on big-box retail and health mainly examined supercenters using aggregate market-level measures (e.g., store density/share), not households' actual format choices. They also provided limited evidence on mechanisms, food-type sources of effects, household heterogeneity, and the distinct warehouse-club format.",
+  "research_question": "How does shopping at warehouse club stores affect households' total packaged-food purchases across all formats in terms of quantity, nutritional quality, and their combination? Does this club store effect vary by category characteristics such as storability, impulse nature, and perceived healthfulness? Is the effect moderated by household characteristics including needs, financial ability, and health consciousness?"
+}

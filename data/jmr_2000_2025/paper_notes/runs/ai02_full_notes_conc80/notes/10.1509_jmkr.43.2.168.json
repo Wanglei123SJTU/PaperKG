@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides direct evidence on how Internet use lowers negotiated new-car prices by separating information and referral channels.",
+    "Combines matched individual-level survey and transaction data to observe search behavior and bargaining-related consumer traits, enabling richer controls for selection than prior studies.",
+    "Shows that returns to information are heterogeneous by bargaining disutility and that independent online buying-service referrals have a distinct price effect from manufacturer referrals."
+  ],
+  "context": "The setting is new automobile retailing in California, where prices are negotiated at franchised dealerships. The study covers buyers of eight popular vehicle models and their use of online sources such as manufacturer sites, informational sites, dealer sites, and online buying services.",
+  "design_and_data": "The authors mailed a survey to 5,250 consumers who bought one of eight selected new car models in California in April-May 2002; 2,470 surveys were returned (47% response rate). Survey responses on Internet use, information collected, dealer visits, referrals, demographics, and attitudes were matched to dealership transaction records from an automotive data supplier, yielding 1,436 usable matched observations. They estimate log-price hedonic regressions with car fixed effects and extensive transaction, timing, competition, demographic, and census controls, and include survey-based measures of consumer traits; factor analysis is used to construct trait measures. Additional specifications include dealer fixed effects and interaction terms to test mechanisms and heterogeneity.",
+  "focal_constructs": [
+    "Internet use",
+    "negotiated car price",
+    "invoice price information",
+    "online buying service referral",
+    "dealer search (number of dealers visited)",
+    "bargaining disutility",
+    "willingness to search",
+    "selection on observables"
+  ],
+  "main_findings": [
+    "Controlling for demographics and survey-based buyer traits, Internet use is associated with roughly a 1% lower negotiated vehicle price.",
+    "The Internet lowers prices through two mechanisms: information (especially dealer invoice-price knowledge) and referrals from independent online buying services; the combined effect is about -1.5% of price (about 22% of dealer gross vehicle profit), while manufacturer-site referrals have no significant effect.",
+    "Internet information does not appear to help consumers find systematically low-price dealerships or replace multi-dealer search, and information gains are concentrated among buyers with high bargaining disutility, whereas referral gains are similar across buyer types."
+  ],
+  "one_line_summary": "Using matched survey and transaction data on California new-car purchases, the paper finds that Internet-related price savings come from invoice-price information and independent online-buying-service referrals, with information benefits concentrated among buyers who dislike bargaining.",
+  "relation_to_prior_work": "extends prior automobile search and Internet car-pricing research by linking detailed survey measures of consumer search and attitudes to transaction-level price outcomes. Unlike earlier work that observed mainly an online-service-use indicator, it separates information effects from referral-process effects and studies heterogeneity by bargaining disutility.",
+  "research_gap": "Prior evidence showed that Internet users paid less for cars, but did not identify which specific online activities produced the savings. Earlier transaction datasets with limited Internet-use measures could not disentangle information effects from referral/institutional effects or test how benefits differ across consumer types.",
+  "research_question": "How does Internet use lower negotiated prices in new-car purchases, and which online activities drive the effect? The paper tests whether savings come from consumers being better informed versus from the referral process of online buying services, and whether these benefits vary with buyer characteristics such as bargaining disutility."
+}

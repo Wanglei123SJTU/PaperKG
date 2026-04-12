@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides the first field test, using actual industrial procurement auction data, of the prediction that differentiated bidder quality affects bidding levels.",
+    "Develops a formal bid-level model linking observed bid increments, inferred relative bidder quality, and individual bidding aggression in buyer-determined reverse auctions.",
+    "Shows that latent bidder-quality classifications are robust across mixture, individual-coefficient, and Bayesian adaptive-belief estimators."
+  ],
+  "context": "The setting is online industrial procurement in the automotive industry, where prequalified suppliers compete in reverse auctions but buyers choose winners on both price and nonprice criteria. The data come from metal-parts and plastics auction events run by a third-party platform with anonymous bidder IDs and soft-close rules.",
+  "design_and_data": "An automotive buyer provided point-by-point bids from two auction events; after removing lots without repeat bidding by the same firm, the estimation sample includes 10 lots, 506 bid observations, and 29 unique bidders. The authors model each bidder's bid increment relative to the current leading (lowest-price) competitive bid and estimate bidder-specific aggression and competitive-response parameters in a reduced-form bid-adjustment equation. Heterogeneity is estimated with finite mixture models, individual-coefficient regressions, and Bayesian MCMC models, including adaptive-belief specifications with constant versus declining weights on new information. The buyer's nonprice evaluation variables and weights are unobserved, and the model is not a full structural equilibrium model.",
+  "focal_constructs": [
+    "buyer-determined reverse auctions",
+    "bidder quality (nonprice differential)",
+    "bid increments",
+    "bidding aggression",
+    "competitive response",
+    "relative quality inference",
+    "incumbency"
+  ],
+  "main_findings": [
+    "Across specifications, a high-quality group is characterized by positive bidding aggression and negative competitive response, whereas low-quality bidders show near-zero or positive competitive response.",
+    "Bidding aggression and competitive response are negatively related, consistent with high-quality bidders bidding above recent minima and reacting less aggressively to aggressive rival bids.",
+    "High-quality bidders bid less frequently with a different timing pattern, and incumbents exhibit significantly more negative competitive-response parameters than nonincumbents."
+  ],
+  "one_line_summary": "Using point-by-point data from ten industrial reverse-auction lots, the paper models how differentiated suppliers infer relative quality from observed bids and shows systematic heterogeneity in bidding aggression and competitive response.",
+  "relation_to_prior_work": "extends prior auction research by moving from price-only or auction-level analyses to bid-level dynamics in buyer-determined procurement auctions where bidders differ in value to the buyer and competitor quality is unobserved.",
+  "research_gap": "Prior empirical bidding studies in marketing largely focus on bidder valuations in price-determined auctions or use auction-level aggression measures, not bid-level inference about bidders' nonprice value to the buyer. The paper identifies a missing field test in real procurement auctions of whether and how latent bidder quality can be inferred from observed bid histories.",
+  "research_question": "Why do suppliers in buyer-determined procurement auctions often bid above the current lowest bid, and do these patterns reflect meaningful strategic behavior? The paper asks whether bidders infer their own relative nonprice quality from competitors' bids and adjust bid increments and aggression accordingly."
+}

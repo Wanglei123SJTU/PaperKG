@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces a multiple-goal-based choice model (MGBCM) that explicitly embeds simultaneous multiple-goal pursuit and context-driven goal-weight adaptation in a random-choice framework.",
+    "It provides empirical evidence of within-choice goal-weight adjustment based on goal attainability of the presented assortment, complementing prior work on across-occasion goal revision.",
+    "The model is designed to recover latent goals from choice data without requiring a priori specification of the number or nature of goals."
+  ],
+  "context": "The empirical setting is consumer choice of point-and-shoot digital cameras. Data come from Canadian online-panel respondents making repeated discrete choices over camera assortments with varying attribute profiles and choice-set structures.",
+  "design_and_data": "The authors develop a multiobjective optimization choice model in which each latent goal has its own attainment function, prior goal weights depend on individual characteristics, and adapted goal weights depend on context-specific expected maximum goal attainability. They estimate the model by maximum likelihood on a main survey of 1,890 Canadian adults who owned a point-and-shoot camera; each respondent completed 8 discrete-choice tasks (choice sets of size 2, 4, or 8) using full product profiles. They compare MGBCM fit against latent class and hidden Markov alternatives using BIC, and use self-reported goals only for validation of latent-goal interpretation. For out-of-sample validation, they use a separate sample of 1,002 respondents facing 16 tasks built from 10 real market cameras with varied availability and a wider price range.",
+  "focal_constructs": [
+    "simultaneous multiple-goal pursuit",
+    "goal-weight adaptation",
+    "goal attainability",
+    "prior goal weights",
+    "tendency to adapt",
+    "latent goals",
+    "context-dependent choice",
+    "multiobjective optimization"
+  ],
+  "main_findings": [
+    "In-sample, the optimal MGBCM (five latent goals) outperforms the optimal latent class model on BIC by 165 points, and removing the adaptive archetype worsens fit.",
+    "Out-of-sample on a different design and sample, MGBCM substantially outperforms the latent class model (BIC 41,373 vs. 43,613), consistent with the predictive value of modeling adaptation.",
+    "Estimated adaptation patterns are behaviorally plausible: consumers with more objective camera knowledge show greater adaptation tendency, and only some latent goals display strong across-context weight variation."
+  ],
+  "one_line_summary": "The study develops and tests a multiple-goal-based discrete-choice model that infers latent goals and within-choice context-driven goal-weight adaptation, and shows superior fit and out-of-sample prediction versus utility-based latent class alternatives in digital camera choice.",
+  "relation_to_prior_work": "extends utility-based random-choice and latent-class approaches by modeling choice as multiobjective optimization over latent goals with explicit context-dependent goal weighting. It also extends goal-based consumer research focused on across-occasion goal revision by showing within-choice adaptation tied to assortment-specific attainability.",
+  "research_gap": "Prior choice models in the random utility tradition do not explicitly model consumers pursuing multiple goals and adapting goal weights within a single choice context. Existing goal-based consumer work largely examined goal-weight changes across occasions (e.g., progress or satiation) rather than within-choice adaptation to the presented assortment.",
+  "research_question": "Can consumer choice be better modeled by representing it as simultaneous pursuit of multiple latent goals with context-driven adaptation of goal weights within a choice occasion? Does such a model improve empirical fit, prediction, and managerial inference relative to standard utility-based latent class formulations?"
+}

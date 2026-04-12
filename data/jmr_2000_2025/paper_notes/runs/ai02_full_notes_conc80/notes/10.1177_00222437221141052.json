@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper addresses four stated gaps jointly: the roles of attention quantity and attention types, their brand-level trajectories over time, the role of brand ownership, and out-of-sample ahead-of-period prediction of brand choice.",
+    "It proposes a new attention-and-choice model that links eye movements to brand-specific attention trajectories, utility accumulation, and final multi-brand choice in a complex single-choice task.",
+    "It introduces a novel use of Bayesian K-fold cross-validation to generate out-of-sample and ahead-of-time brand choice predictions from eye-movement trajectories."
+  ],
+  "context": "The empirical setting is an online smartphone comparison task in which consumers inspect attribute information and choose one brand. Participants were U.S. consumers in the market for a new smartphone choosing among Apple, Samsung, Nokia, HTC, and Motorola devices.",
+  "design_and_data": "The study uses an eye-tracking experiment run by Tobii with a stratified U.S. sample from three locations; 460 were recruited and 325 remained in the analysis after prespecified exclusions. Each participant made one choice among five smartphone brands, with random assignment to low/medium/high information displays (18/29/39 features) and randomized brand column positions. Eye movements were recorded at 60 Hz and processed into brand fixations, within-brand saccades, between-brand saccades, and other saccades, then summarized over four equal decision-time quarters. The authors estimate a Bayesian latent attention-trajectory plus conditional logit choice model and evaluate prediction using random-split (10-fold) and design-based (12-fold) K-fold cross-validation.",
+  "focal_constructs": [
+    "attention trajectories",
+    "utility accumulation",
+    "brand choice",
+    "attention quantity (fixations)",
+    "integration attention (within-brand saccades)",
+    "comparison attention (between-brand saccades)",
+    "brand ownership",
+    "out-of-sample predictive performance"
+  ],
+  "main_findings": [
+    "Brand-specific attention trajectories predict final brand choice with about 85% cross-validated accuracy, versus 20% chance for five brands, and prediction is already above chance in the first quarter (about 45%).",
+    "A double attention lift characterizes the chosen brand: attention quantity and integration attention rise over the task, while comparison and other saccade-based attention types do not significantly contribute to choice utility.",
+    "The currently owned brand attracts more initial attention quantity and integration attention, and direct ownership effects on choice are not significant once attention trajectories are included."
+  ],
+  "one_line_summary": "Using eye tracking in a complex smartphone choice task, the paper shows that brand-level attention trajectories track utility accumulation and predict out-of-sample brand choice very accurately, including early and ownership-linked patterns.",
+  "relation_to_prior_work": "extends prior attention-and-choice research by jointly modeling brand-level trajectories of fixation quantity and saccade-based attention types over time, rather than relying mainly on time-aggregated attention measures. It extends earlier work that often omitted ownership effects by explicitly modeling how owned brands shape early attention and subsequent choice prediction. It also extends prior validation practice by using Bayesian K-fold cross-validation for out-of-sample, ahead-of-period prediction in a multi-brand complex choice setting.",
+  "research_gap": "The paper argues that prior eye-tracking choice studies rarely examine the joint effects of attention quantity and attention types, rarely model brand-specific attention trajectories over time, and typically omit brand ownership in attention-choice modeling. It also argues that rigorous out-of-sample and ahead-of-period validation of how well attention predicts final brand choice is largely missing.",
+  "research_question": "How are consumers' eye-movement-based attention trajectories aligned with brand utility accumulation during complex decision making, and how well do these trajectories predict final brand choice? The paper specifically asks whether attention quantity and attention types over time, and brand ownership effects on those trajectories, improve out-of-sample and ahead-of-period prediction."
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Shows that the source of price information (human vs nonhuman), a factor incidental to the price itself, moderates how price changes affect perceived price fairness.",
+    "Demonstrates that stimulus-induced affect is an important antecedent of perceived price fairness alongside cognitive inferences.",
+    "Proposes and tests a dual-process model in which inferred motive and affect mediate source x price-change effects, with their relative influence depending on processing ability and motivation."
+  ],
+  "context": "The studies use consumer price-change scenarios in retail shopping contexts (e.g., rugs and suits). Participants learn a price increase or decrease from either a human source (owner or salesperson) or a nonhuman source (price tag), and then evaluate price fairness.",
+  "design_and_data": "The paper reports three between-subjects scenario experiments with undergraduate participants. Study 1 (N=97) uses a 2 (price change: increase/decrease) x 2 (source: human/nonhuman) design and measures perceived fairness, affect, inferred motive, and typicality; analyses test mediated moderation. Study 2 uses a 2 (processing resources: unconstrained/constrained via dual-task memory load) x 2 (price change) x 2 (source) design with 260 participants (3 excluded for failing directions) to test how resource constraints alter source x price effects on fairness. Study 3 (N=80) uses a 2 (source) x 2 (rationale for decrease: none vs anniversary sale) design, measures affect before fairness, and tests whether affect mediates the source x rationale effect.",
+  "focal_constructs": [
+    "perceived price fairness/unfairness",
+    "source of price information",
+    "price change direction",
+    "inferred marketer motive",
+    "stimulus-induced affect",
+    "processing resource constraints",
+    "rationale for price decrease"
+  ],
+  "main_findings": [
+    "When processing is unconstrained, price increases are perceived as more unfair when communicated by a human than by a nonhuman source, while source has no consistent effect for price decreases.",
+    "In Study 1, both inferred motive and affect mediate the source x price-change effect on perceived price fairness, and perceived typicality does not explain the effect.",
+    "When cognitive resources are constrained, source effects appear for both directions: human sources make increases seem more unfair and decreases seem fairer; in Study 3, for price decreases, the source x rationale effect on fairness is mediated by affect, not inferred motive or typicality."
+  ],
+  "one_line_summary": "Across three experiments, the paper shows that human versus nonhuman price sources change fairness judgments through inferred motive and affect, with affect becoming more influential when inference ability or motivation is reduced.",
+  "relation_to_prior_work": "extends prior price fairness research that focused mainly on cognitive drivers of price increases by adding affect as a causal antecedent and by examining both increases and decreases. extends source-effects work by identifying inferred motive and affect as mechanisms through which human versus nonhuman sources shape fairness evaluations.",
+  "research_gap": "The paper states that prior price fairness research has emphasized cognitive determinants, focused mostly on price increases, and examined factors intrinsic to price decisions. It identifies a gap in understanding whether incidental factors such as the source of price information, and affective reactions, shape perceived price fairness.",
+  "research_question": "How do price change direction (increase vs decrease) and the source of price information (human vs nonhuman) jointly affect perceived price fairness? Through what processes do these effects arise, specifically inferred motive and affect, and how do processing constraints or reduced motivation to infer motives change their relative influence?"
+}

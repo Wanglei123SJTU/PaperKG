@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces contingent match incentives as a donation mechanism that ties matching to the percentage of others who comply.",
+    "It identifies a 75% contingency as an effective sweet spot that combines strong social proof with plausible goal attainment.",
+    "It claims that contingent matches can outperform guaranteed standard matches and can increase both recurring commitments and one-time giving."
+  ],
+  "context": "The primary field setting is GlobalGiving.org, an online platform where donors choose projects and complete checkout donations, with an option to switch from one-time to monthly recurring giving. Two additional experiments use Amazon Mechanical Turk participants making hypothetical or small-stakes donation decisions to a GlobalGiving project helping seriously ill children.",
+  "design_and_data": "Study 1 is a randomized field experiment on GlobalGiving.org (Dec 13, 2011-Jan 23, 2012) with 12,769 donors assigned at checkout to control, prompt, standard 100% match, or contingent match thresholds of 25%, 50%, 75%, or 100%; the main outcome is switching from default one-time to monthly recurring donation. The authors also analyze entered base donation amounts and later obtain aggregate recurring-donor retention data about 23 months post-experiment, though retention records could not be matched to individual original observations because of a technical error. Study 2 is an online MTurk experiment (N = 275) with control and four contingent thresholds, measuring upgrade intention plus social proof, plausibility, perceived progress, and perceived impact. Study 3 is an MTurk behavioral task (N = 219) where participants choose whether to donate $0.50 under control, standard match, 50% contingent, or 75% contingent conditions.",
+  "focal_constructs": [
+    "contingent match incentives",
+    "recurring donation conversion",
+    "one-time donation compliance",
+    "social proof",
+    "plausibility",
+    "standard matching incentives",
+    "perceived progress",
+    "perceived impact"
+  ],
+  "main_findings": [
+    "In the field experiment, the 75% contingent match produced the highest recurring conversion rate (4.73%), significantly above control (3.31%) and standard guaranteed match (3.08%), and yielded the highest estimated average total donations per donor ($55.78).",
+    "In the MTurk recurring-donation study, conversion again peaked at 75% (58.2% vs. 30.9% in control), and mediation analyses showed significant indirect effects via social proof and plausibility, while progress and perceived impact were not significant mediators.",
+    "In the MTurk one-time donation study, willingness to donate $0.50 was highest in the 75% contingent condition (49.1%), significantly above control (26.5%), whereas standard match and 50% contingent conditions did not differ from control."
+  ],
+  "one_line_summary": "Across one field and two online experiments, the paper shows that donation matches contingent on 75% of others giving most effectively increase recurring and one-time donations because they combine strong social proof with plausible goal attainment.",
+  "relation_to_prior_work": "introduces a probabilistic, future-oriented variant of social influence in charitable giving that differs from prior retrospective social proof manipulations based on past behavior. It also adds plausibility as a limiting factor on social proof effects, showing why very high thresholds such as 100% can reduce compliance.",
+  "research_gap": "Prior social proof studies mostly report retrospective norms about others' past behavior, whereas this context involves uncertain future participation (\"if X% give\"). The paper also argues that nonprofits need better ways to convert one-time donors to recurring donors, and that the optimal contingent threshold balancing social proof and plausibility was not established.",
+  "research_question": "Can nonprofits increase donations by using contingent match incentives, where matching occurs only if a stated percentage of others also donate or upgrade to recurring giving? What contingency level is most effective, and is its effect explained by perceived social proof and plausibility relative to standard matching or no match?"
+}

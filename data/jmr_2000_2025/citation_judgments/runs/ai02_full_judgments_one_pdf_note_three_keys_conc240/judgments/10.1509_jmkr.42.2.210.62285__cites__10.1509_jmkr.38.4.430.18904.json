@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited 2001 paper is used as a core methodological baseline, not just a passing reference. The 2005 article explicitly adopts its Bayesian conjoint design setup (including the DB-error framing and design-construction procedures) and repeatedly positions homogeneous Bayesian designs from that work as the comparator. The new contribution is framed as moving from those single homogeneous designs to heterogeneous sets of subdesigns, with Monte Carlo evidence against the 2001-style benchmark.",
+  "relation_description": "The citing paper directly builds on the Bayesian conjoint design approach from Sándor and Wedel (2001) and extends it from one homogeneous design to multiple heterogeneous subdesigns assigned across respondents. It evaluates efficiency gains relative to the homogeneous Bayesian design framework established in the cited paper.",
+  "relation_type": "extends"
+}

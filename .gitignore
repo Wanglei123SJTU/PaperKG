@@ -1,0 +1,31 @@
+.vendor/
+tmp/
+__pycache__/
+*.pyc
+
+# Local PDF corpus should stay outside GitHub.
+data/jmr_2000_2025/pdfs/
+
+# Local caches and scratch files.
+data/jmr_2000_2025/openai_file_cache.json
+
+# Large raw provider payloads are not needed for collaboration by default.
+data/jmr_2000_2025/crossref_references/raw/
+
+# Excluded papers and their archived payloads do not need to go to GitHub by default.
+data/jmr_2000_2025/excluded_nonresearch/
+
+# Keep final structured outputs, but skip raw API responses and error dumps.
+data/jmr_2000_2025/paper_notes/runs/*/responses/
+data/jmr_2000_2025/paper_notes/runs/*/errors/
+data/jmr_2000_2025/paper_notes/runs/ai02_pilot_*/
+data/jmr_2000_2025/paper_notes/runs/ai02_full_notes_conc80_retry*/
+data/jmr_2000_2025/citation_triage/runs/*/responses/
+data/jmr_2000_2025/citation_triage/runs/*/errors/
+data/jmr_2000_2025/citation_triage/runs/*/retry_history/
+data/jmr_2000_2025/citation_triage/runs/ai02_pilot_*/
+data/jmr_2000_2025/citation_triage/pilot_*
+data/jmr_2000_2025/citation_judgments/runs/*/responses/
+data/jmr_2000_2025/citation_judgments/runs/*/errors/
+data/jmr_2000_2025/citation_judgments/runs/pilot_*/
+data/jmr_2000_2025/citation_judgments/runs/smoke_*/

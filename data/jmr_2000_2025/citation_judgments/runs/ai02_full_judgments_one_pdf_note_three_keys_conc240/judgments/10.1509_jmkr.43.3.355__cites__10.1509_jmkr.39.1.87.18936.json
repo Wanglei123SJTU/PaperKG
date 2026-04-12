@@ -1,0 +1,6 @@
+{
+  "citation_substance": "mention_only",
+  "rationale": "The cited paper appears once in a grouped citation used to support a broad background claim that finite mixture and hierarchical Bayes approaches often have similar performance. In the citing paper, this serves only as context for choosing an HB specification for recommendation modeling, not as a specific method, measure, or result that is reused from Andrews et al. There is no further discussion of that study, no direct comparison against its framework, and no extension or critique tied to it.",
+  "relation_description": null,
+  "relation_type": null
+}

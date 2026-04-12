@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces and conceptualizes consensus language (e.g., 'everyone') as a verbal expression of descriptive norms in everyday WOM.",
+    "Shows that WOM influence depends on a source-content interaction: weak ties can be more persuasive than strong ties when they use consensus language.",
+    "Provides process evidence that weak-tie consensus language evokes perceptions of a larger (and sometimes more diverse) agreeing group, increasing perceived validity and influence."
+  ],
+  "context": "The paper studies consumer WOM in social-network communication, especially online settings such as Facebook and Twitter, plus a classroom public-decision setting. Stimuli span product and behavior domains (news article clicks, movies, artwork comments, grocery bags, and a drinking-and-driving pledge).",
+  "design_and_data": "The authors run five experiments. Study 1 is a Facebook field experiment: 131 undergraduate confederates each messaged 5 strong and 5 weak ties (2 x 2 design with/without a consensus phrase), yielding 1,310 observed link-click decisions. Studies 2-4 are online MTurk experiments (N=206, N=401, N=403) manipulating tie strength and consensus wording (or fixing implied group size), with outcomes including perceived group size/diversity, perceived validity, attitudes, intentions, and comment word count. Study 5 is an in-class experiment with undergraduates (initial N=381, analyses on age-eligible subsamples) manipulating tie strength and public versus private decision context for a drinking-and-driving pledge; analyses include ANOVA, multilevel models, log-linear models, and mediation/SEM tests.",
+  "focal_constructs": [
+    "consensus language",
+    "tie strength",
+    "weak ties",
+    "strong ties",
+    "perceived group size",
+    "perceived group diversity",
+    "perceived validity",
+    "descriptive norms"
+  ],
+  "main_findings": [
+    "In the Facebook field test, weak ties produced higher click-through than strong ties when messages used consensus language, while weak-strong differences were not significant without consensus language.",
+    "Across experiments, weak-tie consensus statements were interpreted as referring to a larger group (and often a more diverse group) than strong-tie consensus statements; this pattern did not appear with nonconsensus wording.",
+    "Perceived validity mediated downstream influence, especially through perceived group size, and weak-tie consensus effects were more pronounced in public decision contexts (among participants without prior drunk-driving-related experience in Study 5)."
+  ],
+  "one_line_summary": "Across five experiments, the paper finds that consensus wording like 'everyone' is often more persuasive when it comes from weak ties because it implies broader consensus and greater validity.",
+  "relation_to_prior_work": "extends tie-strength WOM research by showing that strong ties are not always more influential, because weak ties gain an advantage when using consensus language. extends descriptive-norms research by examining verbal, everyday consensus expressions rather than only numerical norm cues, and linking their interpretation to network relationship strength.",
+  "research_gap": "Prior WOM research has emphasized either who speaks (source/tie strength) or what is said (content), but has rarely examined their interplay. The paper argues that consensus language is common in consumer discourse yet underexplored as a content feature whose impact may depend on tie strength.",
+  "research_question": "Does the persuasiveness of consensus language in WOM depend on whether the source is a weak tie or a strong tie? If so, is weak-tie influence driven by listeners inferring a larger and more diverse agreeing group, which raises the perceived validity of the referenced opinion or behavior?"
+}

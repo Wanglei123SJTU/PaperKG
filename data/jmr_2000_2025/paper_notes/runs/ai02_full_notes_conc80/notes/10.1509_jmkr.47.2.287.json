@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides what the authors describe as the first formal analysis of sweepstakes and contest prize-structure design.",
+    "Derives consumer value-maximizing prize formats under a fixed reward budget as a function of promotional objective (targeting high- vs low-brand-valuation consumers), risk aversion, loss aversion, and subadditivity.",
+    "Empirically tests key theoretical predictions with controlled experiments on sweepstakes format preferences."
+  ],
+  "context": "The paper studies chance-based sweepstakes/contest promotions tied to product purchase, where firms allocate a fixed prize budget across winners and prize tiers. Empirical tests use consumer packaged goods purchase scenarios (cookies, mints, and gum) with student participants.",
+  "design_and_data": "The authors build an analytical model based on cumulative prospect theory, with a fixed total reward budget and prize structures defined by prize levels and number of winners. Consumers are segmented into high-brand-valuation and low-brand-valuation groups, and optimal structures are derived as functions of risk aversion, loss aversion, and probability-weighting subadditivity. They test predictions in three experiments: Experiment 1 (n=89) uses rank-order choices among four sweepstakes formats in two product categories plus certainty-equivalent tasks to estimate risk/subadditivity; Experiment 2 (n=122) is a between-subject choice test of two prize structures; Experiment 3 (n=86) tests preference for one-prize-per-level formats and manipulates subadditivity via illusion of control.",
+  "focal_constructs": [
+    "sweepstakes prize structure",
+    "number of winners",
+    "prize levels",
+    "reward spread",
+    "brand valuation segment",
+    "risk aversion",
+    "loss aversion",
+    "subadditivity in probability weighting"
+  ],
+  "main_findings": [
+    "For high-brand-valuation consumers, a winner-take-all grand prize is value maximizing under risk neutrality/low risk aversion, while greater risk aversion implies preference for more large prizes and smaller interrank spreads.",
+    "For low-brand-valuation consumers, value-maximizing structures include many small prizes (with the minimum prize at least the switching cost) plus grand or multiple large prizes; the number of small prizes increases with loss aversion and decreases with subadditivity.",
+    "Experimental results broadly support the model: low-risk high-brand-valuation participants favored grand-prize-only formats, low-brand-valuation participants favored formats with many small prizes, higher risk aversion shifted choices toward multiple-prize formats, and participants preferred one prize at each level over many prizes at the same level."
+  ],
+  "one_line_summary": "Using cumulative prospect theory and three experiments, the paper shows how to allocate a fixed sweepstakes budget across prize tiers and winners to maximize consumer value for different target segments.",
+  "relation_to_prior_work": "introduces a formal cumulative prospect theory framework for sweepstakes prize-structure design in an area where prior sales-promotion literature emphasized importance but offered little prescriptive guidance and where industry advice was sparse or conflicting.",
+  "research_gap": "The paper states that although prior sales-promotion literature highlights the importance of prize structure in sweepstakes and contests, it provides no specific design guidance. The authors also note that prevailing industry wisdom is sparse and lacks consensus, and they position the study as the first formal analysis of prize-structure design.",
+  "research_question": "How does sweepstakes reward structure - number of winners, number of prize levels, and reward spread - affect consumers' valuation of participation when total prize money is fixed? How should firms design value-maximizing sweepstakes for different promotional objectives and consumer characteristics, especially brand valuation, risk aversion, loss aversion, and subadditivity?"
+}

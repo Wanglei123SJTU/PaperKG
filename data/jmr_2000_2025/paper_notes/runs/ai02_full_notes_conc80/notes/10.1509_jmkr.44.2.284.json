@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides what the authors describe as the first investigation of how the presence of others affects the accessibility of social desirability concerns and subsequent advertising message recall.",
+    "Proposes a novel intrapsychic framework that treats social desirability as a broad process goal automatically activated by social presence even without direct interaction.",
+    "Shows practical implications for recall-based advertising effectiveness assessment, including the importance of matching pretesting social context to likely marketplace exposure context."
+  ],
+  "context": "The paper studies advertising exposure in social versus solitary settings, including laboratory co-presence with a confederate and an imagined waiting-room context. Stimuli include single words and print advertisements, reflecting common ad-consumption environments where others may be present.",
+  "design_and_data": "The article reports three experiments. Experiment 1 combines two lexical-decision studies with female students (final N = 67) in a 2 (social vs alone context) x 2 (social-desirability-applicable vs neutral cues) x 2 (low vs high self-monitoring) design, measuring response latencies, free recall, and recognition for words. Experiment 2 uses male undergraduates (final N = 53) who view 20 print ads with nonsensical brand names in social versus alone contexts, followed by product-category recall and brand-name recognition. Experiment 3 uses undergraduates (final N = 78) in an imagined social versus alone waiting-room scenario with incidental magazine ad exposure, then tests free recall plus semantic and perceptual recognition (headline matching, ad location, logo).",
+  "focal_constructs": [
+    "social context",
+    "presence of others",
+    "social desirability concern",
+    "impression management",
+    "self-monitoring",
+    "advertising memory",
+    "semantic versus perceptual memory"
+  ],
+  "main_findings": [
+    "In Experiment 1, participants in the presence of another person responded faster to social-desirability-applicable words relative to neutral words, supporting increased accessibility of social desirability cues.",
+    "Across three experiments, social context increased free recall for information applicable to social desirability relative to neutral information, and a meta-analysis showed higher recall of social-desirability cues in social versus alone conditions.",
+    "Effects were stronger for low than high self-monitors in Experiment 1, and social-context effects appeared on semantic memory measures but not on perceptual recognition measures."
+  ],
+  "one_line_summary": "Across three experiments, actual or imagined social presence increased semantic accessibility and recall of advertising information applicable to social desirability, with stronger effects for low self-monitors and no parallel effect on perceptual recognition.",
+  "relation_to_prior_work": "introduces an intrapsychic, goal-based account of social desirability in advertising processing that moves beyond prior work focused on overt social desirability response bias and complements earlier social-context findings not centered on advertising memory.",
+  "research_gap": "The authors state that prior research had not examined whether social context at the time of advertising exposure influences advertising memory. They also note a gap between how ads are often tested and the social contexts in which ads are actually consumed.",
+  "research_question": "Does the mere presence of others, even without direct interaction, activate concern with social desirability and thereby change how advertising-related information is processed and remembered? Specifically, do social-desirability-applicable cues gain accessibility and memory advantages over neutral cues in social contexts, and are these effects moderated by chronic impression-management tendencies (self-monitoring)?"
+}

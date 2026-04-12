@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper develops a new buyer-centric method to assess how changes in mature distribution networks affect consumer choice.",
+    "It introduces three disaggregate measures of distribution intensity from geocoded buyer and dealer locations: dealer accessibility, dealer concentration, and dealer spread.",
+    "It provides empirical evidence on distribution-intensity effects and elasticities for a consumer durable category where prior evidence is limited."
+  ],
+  "context": "The study is set in the U.S. automotive industry, using California new car purchases in the midsize premium sedan category for the 1997 model year, before widespread Internet car shopping. It examines competing dealer networks across eight major makes/models.",
+  "design_and_data": "The authors use anonymized transaction-level data from the Power Information Network (J.D. Power), with 21,268 purchases covering about 80% of category sales in the studied segment. Buyer and dealer locations are geocoded, and buyer-specific intensity measures are constructed by make: -DIST1 (nearest dealer distance), -DIST10 (distance to the 10th nearest dealer), and a Gini-based spread measure. A conditional logit choice model is estimated with hierarchical Bayes at the zip-code level, with weighted likelihood to match market shares. They also estimate a hierarchical Bayes regression linking dealer gross profit per vehicle to the intensity measures and assess dealer network stability from 1997 to 2004.",
+  "focal_constructs": [
+    "distribution intensity",
+    "dealer accessibility",
+    "dealer concentration",
+    "dealer spread",
+    "new car make choice",
+    "dealer gross profit",
+    "market share elasticity"
+  ],
+  "main_findings": [
+    "All three buyer-centric intensity measures are significantly related to make choice in expected directions: shorter distance to the nearest dealer, greater local dealer concentration, and dealer locations skewed toward the buyer increase choice probability.",
+    "The full buyer-centric model (accessibility, concentration, spread) fits better than alternatives using only aggregate dealer-count intensity, and simulated share response to intensity is concave with diminishing returns.",
+    "Simulated distribution-intensity market-share elasticities average about 0.6 across models (approximately 0.4 to 1.0), and higher dealer concentration is associated with lower dealer gross profit per car, while accessibility and spread are not significantly related to dealer gross profit."
+  ],
+  "one_line_summary": "Using geocoded California new car transactions, the paper estimates a hierarchical Bayes logit model showing that buyer-level dealer accessibility, concentration, and spread significantly affect midsize sedan make choice and imply an average distribution-intensity elasticity of about 0.6.",
+  "relation_to_prior_work": "introduces a disaggregate, buyer-centric measurement of distribution intensity that goes beyond aggregate outlet-count approaches and simple distance controls common in related work. It applies this framework to shopping goods, where the paper argues prior empirical evidence on distribution response is sparse.",
+  "research_gap": "The paper states that, compared with price and advertising, empirical evidence on distribution effects is scant, and evidence is especially limited for shopping goods such as consumer durables. It argues that the empirical relationship between market share (or sales) and distribution intensity for such goods remains an open question.",
+  "research_question": "How do differences in distribution intensity across competing dealer networks affect a buyer's conditional make choice in a mature consumer durable category, specifically new cars? Can cross-sectional, buyer-level geographic variation in dealer accessibility, concentration, and spread be used to estimate these effects when longitudinal network change is limited?"
+}

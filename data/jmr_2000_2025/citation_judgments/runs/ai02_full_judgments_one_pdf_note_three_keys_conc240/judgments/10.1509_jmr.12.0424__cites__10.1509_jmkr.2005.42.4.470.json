@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper references Park and Bradlow (2005) in its model-development section as a methodological precedent for jointly modeling related behavioral processes. It specifically invokes that paper when justifying simultaneous modeling, use of latent constructs to link model components, and handling heterogeneity in content-related factors. These are not just background mentions in a long literature list; the citation helps legitimize the structure of the proposed joint sentiment-venue model. The citing paper does not dispute or directly refine Park and Bradlow's auction findings, but transfers its modeling logic to a different domain.",
+  "relation_description": "The citing paper applies methodological ideas exemplified by Park and Bradlow (2005), especially joint modeling of interrelated outcomes with latent structure, to social media sentiment and venue-format choice. It uses the auction model as precedent rather than as an object of direct extension or critique.",
+  "relation_type": "applies"
+}

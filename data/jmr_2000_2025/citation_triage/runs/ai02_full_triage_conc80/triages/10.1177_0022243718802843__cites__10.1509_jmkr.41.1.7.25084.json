@@ -1,0 +1,4 @@
+{
+  "rationale": "Keep: the citing paper explicitly states it compares its forecasts/valuation against the Gupta-Lehmann-Stuart (2004) approach in rolling holdout tests, indicating direct benchmark use rather than a passing mention. The cited paper is a core customer-based firm valuation model (discounted earnings from customer cohorts using public data), which aligns with the citing paper’s central method and positioning in prior work. The DOI match is exact (10.1509/jmkr.41.1.7.25084).",
+  "triage_decision": "keep_for_relation_judgment"
+}

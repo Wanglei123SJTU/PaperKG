@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a request mechanism in which the firm delegates salesperson incentive design to the sales manager under tight constraints, with costly requests to relax constraints, to induce truthful use of manager information.",
+    "Provides, to the author's knowledge, the first analysis of an uninformed firm delegating part of sales incentive design to an informed intermediary sales manager with potentially divergent incentives.",
+    "Shows when involving sales managers via this mechanism is optimal relative to the standard menu-of-contracts approach and positions it as an objective alternative or complement to internal negotiations and lobbying."
+  ],
+  "context": "The paper studies sales force compensation design in a hierarchical sales organization, especially first-line managers setting incentives for salespeople across territories of different difficulty. The motivating context is B2B outside sales settings where firms use commission- or quota-based plans and managers have local territory information but sales-based incentives of their own.",
+  "design_and_data": "The study is a theoretical game-theoretic model: a three-player principal-agent setting with a firm, a sales manager, and a salesperson under asymmetric information about territory difficulty. The firm sets manager compensation and compensation-design constraints, the manager chooses whether to exert costly request effort to relax constraints, and then chooses the salesperson contract; equilibrium is solved by backward induction. The paper analytically compares this request mechanism to a benchmark menu-of-contracts mechanism and includes a numerical example. Two model extensions are analyzed: endogenous optimization of manager incentive pay and costly acquisition of additional manager information.",
+  "focal_constructs": [
+    "sales force compensation design",
+    "sales manager delegation",
+    "asymmetric information",
+    "territory difficulty",
+    "request mechanism",
+    "influence activities",
+    "menu of contracts",
+    "information rent"
+  ],
+  "main_findings": [
+    "The firm can always set baseline constraints, relaxed constraints, and request requirements so the manager requests relaxation only when it is optimal for the firm given the manager's belief, making truthful information revelation feasible.",
+    "Relative to a menu of contracts designed without manager input, the request mechanism yields higher expected profit when the best menu induces salesperson exit in hard territories or when manager incentive pay is not too large.",
+    "When managers can buy additional information, they acquire it (if cost is not too high) when their prior belief is sufficiently close to decision thresholds, i.e., where information is most likely to change actions."
+  ],
+  "one_line_summary": "The paper develops a three-player sales compensation model showing that a constraint-and-request delegation mechanism can reliably elicit sales managers' private local information and can outperform standard menus of contracts under identifiable conditions.",
+  "relation_to_prior_work": "extends the standard two-player salesforce compensation principal-agent framework by explicitly modeling a sales manager as an informed intermediary with incentives that may diverge from the firm's. It departs from prior menu-of-contracts work that requires the firm to know type probabilities and from influence-activity models that rely on assumed truth-vs-lie lobbying cost differences.",
+  "research_gap": "Prior sales force compensation models largely treat the firm as a single decision maker and omit the distinct informational and incentive role of sales managers in compensation design. Existing menu-of-contracts solutions also require probability information the firm may not have when local knowledge sits with managers and salespeople.",
+  "research_question": "How can a firm efficiently involve a sales manager in designing salesperson compensation when the manager has superior local information but may strategically misreport it because of her own sales-based incentives? Under what conditions does such involvement, via a request-based delegation mechanism, outperform the traditional menu-of-contracts approach?"
+}

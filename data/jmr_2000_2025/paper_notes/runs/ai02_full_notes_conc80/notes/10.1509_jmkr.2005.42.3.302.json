@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides an explanation for how vague, noncommittal low-price advertising can still create a credible retailer price image.",
+    "Introduces seller-side selling costs (incurred per visiting consumer regardless of purchase) as a key mechanism that disciplines misleading low-price signaling.",
+    "Derives equilibrium conditions showing when noncommitment price advertising is separating versus pooling or semiseparating."
+  ],
+  "context": "The paper studies retailer price-image advertising, especially vague claims such as \"prices start at $...\" that do not pin down a specific product. It uses travel-agency advertising as an empirical illustration, based on Sunday newspaper ads in Boston and San Francisco and follow-up quoted prices.",
+  "design_and_data": "The study combines a descriptive field survey with an analytical signaling model. For the survey, the author collected 13 weeks of travel ads, then matched advertised prices to follow-up telephone quotes for the advertised destination four weeks after ad appearance, yielding 129 price observations from 71 travel agencies across airline tickets, cruises, and tour packages. The model is a perfect Bayesian game with a monopoly retailer of either low or high marginal cost, two consumer segments (zero versus positive travel cost), and a per-visitor selling cost k incurred whether or not a sale occurs. The analysis characterizes separating, pooling, and semiseparating equilibria and derives parameter conditions for each.",
+  "focal_constructs": [
+    "price image signaling",
+    "noncommitment price advertising",
+    "selling costs per visitor",
+    "retailer cost heterogeneity",
+    "consumer traveling/search costs",
+    "separating equilibrium",
+    "pooling equilibrium",
+    "semiseparating equilibrium"
+  ],
+  "main_findings": [
+    "In the travel-agency data, advertised and quoted prices are positively related overall, and informativeness varies by category: tour packages are most informative, cruises are intermediate, and airline tickets are least informative (reported correlations .97, .80, and .41, with significant differences).",
+    "In the model, truthful signaling via vague price messages is possible only when selling costs are high enough and/or cost-type differences are substantial, because a high-cost retailer that mimics a low-price message attracts many low-conversion visitors and incurs costly service to nonbuyers.",
+    "When only partial separation occurs, the high-cost retailer's mimicking probability falls as selling costs and cost differences increase, implying greater informativeness of advertising messages."
+  ],
+  "one_line_summary": "The paper shows that vague low-price advertising can credibly signal a retailer's price image when serving additional visitors is costly and retailer cost types are sufficiently different.",
+  "relation_to_prior_work": "extends Simester (1995) by analyzing nonproduct-specific, nonbinding price claims rather than commitment-based advertised prices, and by showing that seller-incurred selling costs can sustain signaling credibility in this setting.",
+  "research_gap": "Prior advertised-price signaling models emphasize commitment to specific item prices, but many real ads use vague nonbinding claims whose credibility is unclear. The paper addresses this unresolved case by studying whether and when such noncommitment messages can still be informative.",
+  "research_question": "Are vague, noncommittal low-price ads merely cheap talk, or can they credibly inform consumers about a retailer's overall price image? The paper asks under what conditions these messages become informative in equilibrium, focusing on selling costs and retailer cost heterogeneity."
+}

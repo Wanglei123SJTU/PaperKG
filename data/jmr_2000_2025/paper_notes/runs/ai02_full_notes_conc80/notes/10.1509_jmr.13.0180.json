@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides systematic empirical evidence on how retailer-initiated supermarket price wars affect third-party brands (suppliers), not just the initiating retailers.",
+    "Distinguishes four brand involvement scenarios (PW_PDrop, PW_PCst, post-PW_PLift, post-PW_PCst) and traces brand performance before, during, and after a long-lasting price war.",
+    "Shows how brand positioning, brand ownership, retailer positioning, and marketing-mix actions moderate price-war effects, and quantifies revenue implications through scenario simulations."
+  ],
+  "context": "The study is set in the Dutch grocery market during a nationwide supermarket price war from 2003 to late 2005, when major chains repeatedly cut regular prices on many products. It covers frequent-purchase consumer packaged goods categories and compares outcomes for national brands and private labels at major national retailers.",
+  "design_and_data": "The authors use a natural-experiment approach around the Dutch price war and track brands over 309 weeks (2002-2008), including pre-war, war, and post-war periods. Data combine Dutch GfK Benelux household panel measures (shares, volume and value sales, prices, distribution, feature activity) with Nielsen advertising data, yielding 97,036 observations across 324 brand-category-retailer combinations (162 unique brands) in 25 categories at 5 national retailers. They estimate multilevel multiplicative sales and share-attraction models with AR(1) errors and treat key marketing and price-war variables as endogenous using instrumental variables. Instruments include matched U.K. market prices/advertising and cost-structure proxies, and the authors run simulations to translate estimates into revenue and gross-profit implications.",
+  "focal_constructs": [
+    "retailer-initiated price wars",
+    "brand sales, share, and revenue performance",
+    "PW price drop (PW_PDrop)",
+    "PW price constant (PW_PCst)",
+    "post-PW price lift (post-PW_PLift)",
+    "post-PW price constant (post-PW_PCst)",
+    "national brands versus private labels",
+    "relative brand and retailer price positioning"
+  ],
+  "main_findings": [
+    "Brands in PW_PDrop and post-PW_PCst settings gain sales and share, while brands in PW_PCst and post-PW_PLift settings lose, with post-PW_PLift producing the largest negative effects.",
+    "Price wars are generally not strong revenue generators for most brands during the war itself; substantial gains emerge mainly after the war when rivals restore prices but the focal brand's reduced retail price is maintained.",
+    "Restoring prices after the war can severely damage brand performance without added promotion support; national brands can gain mostly if reduced prices are not restored, whereas private labels are more resilient and can still benefit when prices are restored."
+  ],
+  "one_line_summary": "Using a Dutch supermarket price war as a natural experiment, the paper shows that brand gains are limited during the war and materialize mainly when reduced prices are kept after rivals restore theirs, while post-war price restoration often harms performance.",
+  "relation_to_prior_work": "extends prior price-war research centered on retailer initiators by analyzing brand-level outcomes for suppliers caught in supermarket wars. It also tests price-promotion and reference-price insights in a sustained, multi-brand price-war setting and explicitly includes the post-war price-restoration phase.",
+  "research_gap": "The paper states that no systematic evidence exists on how supermarket price wars affect the performance of individual brands used in those wars, because prior work mainly examined retailers as direct participants. It also highlights limited knowledge about what happens to brand performance after price wars end and prices are restored or maintained.",
+  "research_question": "How do retailer-initiated supermarket price wars affect individual brand performance at participating retailers in terms of share, volume sales, and revenue? The paper asks how outcomes differ when a brand's price is reduced, kept unchanged, or later increased, and whether these effects depend on brand ownership and positioning, retailer positioning, and marketing support."
+}

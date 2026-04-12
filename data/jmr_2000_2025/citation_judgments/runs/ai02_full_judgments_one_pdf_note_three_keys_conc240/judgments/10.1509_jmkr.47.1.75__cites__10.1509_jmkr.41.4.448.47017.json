@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper references Wedel and Zhang (2004) in the methods section when justifying its use of a polynomial smoother with a random-walk prior for time-varying coefficients. That modeling choice is central to the paper's empirical design, so the citation supports a meaningful methodological component rather than a purely perfunctory literature mention. Although the citation appears in a grouped set of smoothing references, its functional role is clear: prior methodological precedent for the estimation approach used here.",
+  "relation_description": "The citing paper applies methodological precedent associated with Wedel and Zhang (2004) by using a Bayesian smoothing/random-walk structure to estimate time-varying effects in a different empirical setting (online grocery diffusion).",
+  "relation_type": "applies"
+}

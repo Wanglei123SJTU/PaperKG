@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Identifies belief in the Protestant Work Ethic (PWE) as a general antecedent of cost-benefit heuristics in goal pursuit.",
+    "Provides what the authors describe as the first systematic empirical test of PWE in marketing, extending it from work-related outcomes to consumer judgment and choice.",
+    "Offers actionable guidance that marketers can segment or infer high- versus low-PWE consumers and tailor pricing, product cues, and promotion formats accordingly."
+  ],
+  "context": "The paper studies consumer judgment and choice when multiple means to a goal differ in cost but objective outcome differences are uncertain. Empirical settings include medicine evaluation, courier service choice, task selection, health food flavor choice, and wine choice, using U.S. online samples and university lab samples including a largely nonreligious Asian sample.",
+  "design_and_data": "The article reports ten studies overall (N = 1,917), with five main studies detailed in the paper that both measure and manipulate PWE. Study 1 (U.S. MTurk, n = 152) tests a taste-efficacy judgment using a 2 x measured-PWE design; Study 2 (U.S. MTurk, n = 180) manipulates PWE via quote-ranking and measures price-quality inference for couriers. Study 3 (university lab, n = 213) uses a 2 x 2 design (PWE prime x task framing) with incentive-compatible choice between difficult versus easy pretasks; Study 4 (Asian university, n = 170 after exclusions) combines measured PWE with outcome ambiguity and real herbal-jelly choice plus coded open-ended responses for mediation. Study 5 (university sample, n = 234) adapts prior instrumentality paradigms to side-by-side effort trade-offs and tests whether PWE predicts preference for higher-effort means.",
+  "focal_constructs": [
+    "Protestant Work Ethic (PWE)",
+    "cost-benefit heuristic",
+    "goal pursuit",
+    "taste-efficacy heuristic",
+    "price-quality heuristic",
+    "instrumentality heuristic",
+    "applicability of beliefs",
+    "effort-reward link"
+  ],
+  "main_findings": [
+    "Higher (vs. lower) PWE consistently increases use of cost-benefit inferences, such as judging bad-tasting medicine as more effective and more expensive service as more likely to succeed.",
+    "Higher (vs. lower) PWE increases choice of costlier means (e.g., difficult pretask, bitter health food, distant wine) when the means is framed as applicable or left ambiguous for the focal goal.",
+    "The effect is explained by cost-benefit inference and weakens when applicability is explicitly negated; alternative explanations tested by the authors (e.g., need for cognition, trait self-control, and some competing mechanisms) do not reproduce the pattern."
+  ],
+  "one_line_summary": "Across five main experiments (plus supplementary studies), the paper shows that stronger Protestant Work Ethic increases consumers' tendency to infer that costlier means yield better outcomes and to choose those costlier means in goal pursuit when such means seem applicable.",
+  "relation_to_prior_work": "extends prior work on cost-benefit heuristics by proposing an individual-level antecedent (PWE) beyond previously discussed situational moderators and context-specific explanations such as market efficiency or reversed associations. It also extends social-science research on PWE from mostly work-related behaviors to consumer judgments and choices in marketing contexts.",
+  "research_gap": "Prior studies documented cost-benefit heuristics (e.g., taste-efficacy and instrumentality effects) but did not establish a single general antecedent for why people hold these associations. The marketing literature had also largely invoked PWE only speculatively rather than testing it empirically and systematically in consumer behavior.",
+  "research_question": "Does a person's endorsement of the Protestant Work Ethic increase the tendency to use cost-benefit heuristics in goal pursuit? Specifically, do higher-PWE consumers infer better outcomes from costlier means and choose those means more often, and under what contextual condition (applicability of the means) does this effect hold?"
+}

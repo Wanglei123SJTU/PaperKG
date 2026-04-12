@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper documents a consumer heterogeneity effect of personalized VFRs: positive effects for low-BMI consumers but negative effects for high-BMI consumers.",
+    "It identifies self-image threat from body-resembling avatars as the key mechanism behind high-BMI consumers' unfavorable product responses.",
+    "It proposes and tests a systematic set of actionable interventions to mitigate or reverse adverse VFR effects among high-BMI users: diversified beauty norms, mannequin-face avatars, prosocial engagement, and high-status products."
+  ],
+  "context": "The paper studies online apparel shopping with virtual fitting room technology that lets consumers try products on personalized avatars. The empirical settings include a large Chinese online women's apparel retailer and controlled lab studies with student participants in China and the United States.",
+  "design_and_data": "The authors run six studies: one field experiment and five lab experiments. Study 1 uses an 8-week panel around a VFR rollout at a Chinese online women's apparel store, where 307 of 917 products were randomly assigned VFR availability; after data cleaning, analyses use 29,985 purchases from 8,233 customers, estimated with a difference-in-differences framework and BMI interactions. Study 2 (N=130) tests the BMI x VFR interaction and mediation by self-image threat in a controlled setting using personalized avatars. Studies 3-6 (N=257, 151, 203, 276) test moderators via experiments: diversified vs idealized beauty norm, mannequin vs user face on avatars, prosocial opportunity vs none, and high- vs low-status products.",
+  "focal_constructs": [
+    "virtual fitting room use",
+    "body mass index",
+    "self-image threat",
+    "product evaluations",
+    "product purchases",
+    "beauty norm",
+    "avatar face personalization",
+    "product status"
+  ],
+  "main_findings": [
+    "VFR use increases favorable product outcomes for low-BMI consumers but decreases outcomes for high-BMI consumers.",
+    "Among high-BMI consumers, the negative VFR effect is driven by elevated self-image threat (and corresponding lower self-esteem in the product-status study).",
+    "The adverse effect is mitigated by priming diversified beauty norms, using mannequin-face avatars, and offering prosocial engagement opportunities, and it is reversed for high-status products."
+  ],
+  "one_line_summary": "Across one field experiment and five lab experiments, the paper shows that personalized VFRs help low-BMI consumers but hurt high-BMI consumers via self-image threat, and it identifies four practical moderators that mitigate or reverse this pattern.",
+  "relation_to_prior_work": "extends prior VFR research that mostly emphasizes average positive effects and technology attitudes by showing BMI-contingent effects on product outcomes and by introducing self-image threat as a central mechanism with boundary conditions.",
+  "research_gap": "Prior VFR work had not clearly examined whether personalized VFR effects differ across consumer body types, even though these systems highlight users' own bodies. The literature also lacked a systematic set of managerially actionable strategies to reduce potential negative effects for vulnerable segments.",
+  "research_question": "How does personalized VFR use affect product evaluations and purchases across consumers with different BMI levels? Do high-BMI consumers respond negatively because VFR avatars trigger self-image threat, and can specific interventions attenuate or reverse this adverse effect?"
+}

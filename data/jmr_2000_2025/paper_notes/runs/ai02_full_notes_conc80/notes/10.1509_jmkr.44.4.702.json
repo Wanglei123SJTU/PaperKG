@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides a fuller map of emotions in functional-versus-hedonic trade-offs by identifying four specific emotion pairs across both trade-off directions, beyond prior work focused mainly on guilt.",
+    "It documents the principle of hedonic dominance: when options meet or exceed both functional and hedonic cutoffs, consumers place greater weight on hedonic superiority, qualifying the precedence view that functionality always dominates.",
+    "It reports that emotion-intensity mediation can generate a preference reversal across elicitation modes, with functional options favored in choice but hedonic options favored in willingness-to-pay evaluation."
+  ],
+  "context": "The study examines consumer product decisions in categories where both utility and aesthetics matter, using cell phones and laptop computers. The empirical setting is scenario-based judgments by undergraduate consumers making forced trade-offs between a functionally superior option and a hedonically superior option.",
+  "design_and_data": "The paper reports three controlled experiments with undergraduate participants. Experiment 1 (n = 101) uses a cell phone choice task, measures participants' chronic promotion/prevention focus, and captures intensities of multiple specific emotions after choosing between hedonic-versus-functional options. Experiment 2 (n = 90) uses laptop scenarios that manipulate high versus low goals to create loss-loss versus gain-gain trade-off contexts, elicits anticipatory emotions while respondents imagine leaning toward each option, and tests mediation of eventual choice. Experiment 3 (n = 132) uses cell phone and laptop stimuli in joint presentation and compares choice versus willingness-to-pay elicitation (with hedonic attributes quantified) to test preference reversal.",
+  "focal_constructs": [
+    "functional attributes",
+    "hedonic attributes",
+    "specific emotions (guilt, anxiety, sadness, disappointment, cheerfulness, excitement, security, confidence)",
+    "promotion focus",
+    "prevention focus",
+    "desired versus actual cutoffs (loss-loss vs gain-gain contexts)",
+    "mode of preference elicitation (choice vs willingness-to-pay)",
+    "preference reversal"
+  ],
+  "main_findings": [
+    "Trading functional attributes for hedonic gains increased guilt and anxiety (and also excitement and cheerfulness), whereas trading hedonic attributes for functional gains increased sadness and disappointment (and also security and confidence), with intensities strengthened by matching regulatory orientation.",
+    "In loss-loss contexts, participants more often chose the functionally superior option, while in gain-gain contexts they more often chose the hedonically superior option; these patterns were mediated by emotion intensity (negative-emotion minimization in loss-loss and positive-emotion maximization in gain-gain).",
+    "In jointly presented loss-loss trade-offs, preferences reversed by elicitation mode: the functionally superior option was preferred in choice tasks, but the hedonically superior option received higher willingness-to-pay in evaluation."
+  ],
+  "one_line_summary": "Across three experiments, the paper shows that specific emotions triggered by functional-versus-hedonic trade-offs mediate consumer preferences, yielding functional dominance in loss-loss choice contexts but hedonic dominance when both cutoffs are met and in willingness-to-pay evaluation.",
+  "relation_to_prior_work": "extends Luce, Bettman, and Payne's (2001) trade-off model by incorporating differentiated positive and negative emotion types and moderators including regulatory orientation, desired-versus-actual cutoffs, and preference elicitation mode. It also provides corroborative support for Chernev's (2004) functionality-prevention and hedonics-promotion correspondence, and it qualifies Berry's (1994) precedence principle by identifying a hedonic-dominance condition.",
+  "research_gap": "Prior research had largely documented guilt when consumers trade functionality for hedonics, but did not establish the broader set of specific positive and negative emotions across both trade-off directions. It was also unclear how these emotion intensities translate into preferences under different cutoff conditions and whether elicitation mode alone can reverse functional-versus-hedonic preferences.",
+  "research_question": "How do consumers resolve trade-offs between functional and hedonic product attributes, and what emotional processes mediate this resolution? The paper asks which specific emotions are evoked when consumers trade in either direction, and how emotion intensity, desired-versus-actual cutoffs, and preference elicitation mode shape choice versus willingness-to-pay preferences."
+}

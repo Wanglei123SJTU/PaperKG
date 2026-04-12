@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "The paper presents the first direct test of whether customer satisfaction is associated with corporate bond market outcomes, specifically credit ratings and debt financing costs.",
+    "It documents a previously unobserved secondary financial consequence of customer satisfaction: lower borrowing costs associated with bondholder valuation.",
+    "It identifies firm risk as a moderator, showing that the customer satisfaction effect on debt costs is weaker when inherent firm risk is higher."
+  ],
+  "context": "The study is set in the U.S. corporate bond market and focuses on publicly traded firms covered by the American Customer Satisfaction Index (ACSI). The sample period is 1994-2004 and includes traded nonconvertible corporate bonds, largely from large U.S. firms.",
+  "design_and_data": "The authors merge ACSI firm-year satisfaction scores with debt data from Lehman Brothers Fixed Income (for earlier years) and Mergent (for later years), plus firm financial controls from COMPUSTAT. The merged sample contains 166 firms and 2,574 usable observations from 1994 to 2004, with multiple bond observations for some firms. They analyze two outcomes: credit ratings (average of Moody's and S&P, plus an orthogonalized rating measure) and log yield spread versus duration-matched U.S. Treasuries. Estimation uses panel regressions with firm, debt, industry, and year controls, plus first-difference, random-effects, and hierarchical Bayesian specifications, including interactions between ACSI and firm risk.",
+  "focal_constructs": [
+    "customer satisfaction (ACSI)",
+    "credit ratings",
+    "cost of debt financing",
+    "bond yield spread",
+    "firm risk (cash flow volatility)",
+    "bondholder valuation"
+  ],
+  "main_findings": [
+    "Higher customer satisfaction is significantly associated with higher firm credit ratings across baseline and alternative estimators.",
+    "Higher customer satisfaction is significantly associated with lower bond yield spreads, and firms with higher satisfaction have about a 2% lower cost of debt in this sample.",
+    "Firm risk significantly attenuates the negative association between customer satisfaction and yield spreads, while attenuation for credit ratings is only directional and not statistically significant."
+  ],
+  "one_line_summary": "Using ACSI data matched to U.S. corporate bond and accounting data from 1994 to 2004, the paper finds that higher customer satisfaction is associated with better credit ratings and lower debt costs, with weaker debt-cost effects under higher firm risk.",
+  "relation_to_prior_work": "extends prior research linking customer satisfaction to accounting and equity outcomes by testing the corporate bond market, a setting the authors state had not been examined before.",
+  "research_gap": "Prior studies on customer satisfaction and financial markets mainly focused on accounting outcomes and equity markets, where evidence was mixed. The paper states that the corporate bond market had not been previously examined, leaving open whether bondholders value customer satisfaction information.",
+  "research_question": "Does customer satisfaction provide information that matters to bond investors, as reflected in firms' credit ratings and cost of debt financing? The paper also asks whether these associations are weaker for firms facing higher inherent risk."
+}

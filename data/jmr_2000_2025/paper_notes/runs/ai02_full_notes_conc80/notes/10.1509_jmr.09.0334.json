@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides field evidence from actual B2B transactions that reference-price gains and losses affect both quantity demanded and transaction pricing outcomes.",
+    "Introduces a simultaneous-equation approach that models price and quantity as jointly endogenous outcomes of buyer-seller interaction while incorporating both buyer and salesperson reference prices.",
+    "Shows that buyer experience with a salesperson moderates reference-price effects, addressing calls to test reference pricing beyond consumer packaged goods contexts."
+  ],
+  "context": "The empirical setting is a European (U.K.) company selling processed timber to industrial customers such as furniture and construction-related manufacturers. Transactions are repeated and negotiated through direct interactions between customer purchasing agents and in-house salespeople.",
+  "design_and_data": "The paper specifies a simultaneous system for log quantity and log transaction price, where quantity depends on current price and buyer gain/loss relative to internal reference price, and price depends on quantity, cost, and lagged buyer and salesperson gain/loss terms. The system is estimated with 3SLS, using observed product cost as an instrument for endogenous price-related variables, and includes customer, salesperson, product, time, and regional controls, plus market price indexes, inventory, and recency measures. Data come from 2002-2003 transactional records of a timber supplier, using 10,614 transactions across 55 frequently purchased products and 33 salespeople, with customers selected for repeated purchases (at least ten purchases per product).",
+  "focal_constructs": [
+    "internal reference price",
+    "gain versus loss framing",
+    "loss aversion",
+    "transaction price outcome",
+    "purchase quantity",
+    "salesperson reference price",
+    "buyer-salesperson experience"
+  ],
+  "main_findings": [
+    "Relative to a customer's internal reference price, price increases (LOSS) reduce purchased quantity and price decreases (GAIN) increase quantity, and the LOSS effect is larger in magnitude than the GAIN effect.",
+    "Customers' past gains and losses influence current negotiated prices: prior losses are associated with lower current prices and prior gains with higher current prices, with stronger loss-side effects.",
+    "Higher buyer-salesperson interaction frequency strengthens loss effects and weakens gain effects in both quantity and pricing equations, while interactions between cost increases and gain/loss terms are not statistically significant."
+  ],
+  "one_line_summary": "Using transactional data from a U.K. B2B timber seller, the paper estimates a simultaneous price-quantity model and finds that buyer and salesperson reference prices shape both purchased quantity and negotiated prices with asymmetric loss-versus-gain responses.",
+  "relation_to_prior_work": "extends reference-price research from fixed-price consumer packaged goods and mostly laboratory negotiation settings to real-world B2B negotiated transactions by jointly estimating endogenous price and quantity and incorporating salesperson reference prices.",
+  "research_gap": "Most empirical reference-price evidence is from consumer packaged goods markets with fixed prices, and pricing-game evidence in negotiated settings is largely laboratory based with mixed findings. The paper argues that it is unclear whether these effects generalize to actual B2B transactions where price is itself an outcome of buyer-seller interaction and salespeople may have their own reference prices.",
+  "research_question": "Do reference prices affect both quantity purchased and the negotiated transaction price in B2B markets where buyers and salespeople jointly determine outcomes during the transaction? The paper also asks whether responses are asymmetric for gains versus losses and whether buyer-salesperson experience changes these effects."
+}

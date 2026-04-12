@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper shows analytically that fixed-effects estimators commonly used to control for homophily and correlated unobservables are inconsistent in installed-base adoption models, and it characterizes the asymptotic bias.",
+    "It proposes two consistent solutions for causal installed-base estimation in this setting: an instrumental-variables strategy and a new analytic bias-correction estimator that does not require valid instruments.",
+    "It demonstrates, with a large Prius diffusion application, that correcting this bias materially changes substantive inference about social influence."
+  ],
+  "context": "The empirical setting is hybrid vehicle adoption in California, focused on Toyota Prius purchases from 2001 to March 2007. Social influence is modeled over local geographic reference groups, primarily zip code by month.",
+  "design_and_data": "The authors specify a linear probability model of Prius purchase (conditional on buying a car) with installed-base as a key regressor and very rich fixed effects at the zip-quarter level, plus month-within-quarter and income controls. They derive the asymptotic bias of the within estimator (and of the usual disturbance-variance estimator) in models where installed-base is an aggregation of prior local adoptions, then construct an analytic bias-correction estimator and also outline an IV alternative. They run Monte Carlo simulations comparing OLS, random-effects, fixed-effects, random-effects probit/logit, and the bias-corrected estimator. The empirical application uses R. L. Polk individual registration records covering about 11.1 million California vehicle registrations, including the full Prius purchase history in the period, and IV specifications use installed-bases of other hybrids and flex-fuel vehicles.",
+  "focal_constructs": [
+    "causal installed-base effects",
+    "social influence in diffusion",
+    "homophily",
+    "correlated unobservables",
+    "fixed-effects estimator bias",
+    "instrumental variables identification",
+    "analytic bias correction",
+    "geographic contagion"
+  ],
+  "main_findings": [
+    "In the installed-base model, the fixed-effects within estimator is inconsistent and asymptotically negatively biased; in simulations, random-effects specifications perform even worse.",
+    "In the Prius data, naive rich fixed-effects estimation yields a negative installed-base coefficient, but both IV and bias-corrected approaches produce positive and significant installed-base effects.",
+    "The preferred Prius estimate implies economically large spillovers (about 5.3 elasticity), and estimated effects weaken with broader geographic definitions (weaker at city level and insignificant at county level); no significant social effect is found for Honda Civic Hybrid adoption."
+  ],
+  "one_line_summary": "The paper derives and corrects a negative fixed-effects bias in installed-base diffusion models and shows, using California Toyota Prius registrations, that properly identified social spillovers are positive and economically meaningful.",
+  "relation_to_prior_work": "extends dynamic panel-data bias insights to spatio-temporal social-effects models where lagged aggregates of others' adoption, rather than lagged own outcomes, enter demand, and challenges the common practice of treating rich fixed-effects controls as sufficient for causal installed-base inference.",
+  "research_gap": "Prior empirical social-effects work relies on rich fixed- or random-effects controls to address homophily and correlated unobservables, but the paper argues this strategy itself creates inconsistency in installed-base models. The literature lacked a practical correction that remains usable when credible instruments are difficult to obtain.",
+  "research_question": "How can researchers consistently estimate causal installed-base effects from observational adoption data when homophily and correlated unobservables require rich controls, but those controls induce bias in standard fixed-effects estimation? After correcting these biases, what is the sign and magnitude of social spillovers in Toyota Prius adoption?"
+}

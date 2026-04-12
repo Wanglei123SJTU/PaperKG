@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops a temporal model of new-product adoption uncertainty, showing that the relative salience of uncertainty types changes with distance to adoption.",
+    "It proposes and tests time-contingent communication strategies based on mental simulation: outcome simulation for distant-future adoption and process simulation for near-future adoption.",
+    "It shows that the effectiveness of these uncertainty-reduction strategies is contingent on product newness (initial uncertainty), with stronger intention effects for more-new products."
+  ],
+  "context": "The empirical setting is consumer adoption of innovations in a Mexican university context. Studies examine a newly introduced virtual course and, in follow-up studies, new car concepts (an automatic car and an active-cruise-control car).",
+  "design_and_data": "Study 1 combines an experiment (N=80 undergraduates; near vs distant adoption frame for a virtual course) with a two-wave longitudinal study (N=103 at Wave 1, N=63 retained) measured three months before registration and during registration week. Study 2 is a 2 x 2 experiment (N=92) crossing temporal frame (near vs distant) and simulation type (process vs outcome) for the virtual course, with later observation of actual enrollment (25-28 days later) and postconsumption satisfaction (2 weeks into class). Study 2a is a 3 x 2 experiment (N=180; outcome vs process vs control x near vs distant) on a new automatic-car concept, plus delayed intentions one week later (N=163). Study 3 is a 2 x 2 x 2 experiment (N=179) crossing simulation type, temporal frame, and product newness (more-new automatic car vs less-new active-cruise-control car).",
+  "focal_constructs": [
+    "temporal distance to adoption",
+    "switching-cost uncertainty",
+    "affective-attachment uncertainty",
+    "performance uncertainty",
+    "symbolic uncertainty",
+    "process simulation (how-thinking)",
+    "outcome simulation (why-thinking)",
+    "behavioral intentions"
+  ],
+  "main_findings": [
+    "As adoption time nears, consumers focus more on cost-related uncertainties (switching and affective) and report more anxiety and lower adoption intentions; when adoption is distant, performance-benefit uncertainty and optimism are more salient, with higher intentions.",
+    "Communication effects are time-contingent: in near-future conditions, process simulation lowers switching and affective uncertainties, reduces anxiety, and increases intentions; in distant-future conditions, outcome simulation lowers performance uncertainty, increases optimism, and increases intentions.",
+    "Matched communication has downstream effects: delayed intentions are higher in matched conditions (Study 2a), near-future/process showed higher enrollment directionally and higher satisfaction than distant-future/process (Study 2), and intention gains from matching are stronger for the more-new product than the less-new product (Study 3)."
+  ],
+  "one_line_summary": "Across four studies, the paper shows that new-product adoption concerns shift from benefit uncertainty in the distant future to cost uncertainty in the near future, and that matching outcome versus process simulation communications to temporal distance improves adoption-related outcomes.",
+  "relation_to_prior_work": "extends prior work on new-product uncertainty and intertemporal choice by modeling how specific cost- and benefit-related uncertainties shift with temporal distance to adoption. It also extends mental simulation research by applying process versus outcome simulation to new-product launch communication and linking these strategies to delayed intentions, adoption behavior, and satisfaction.",
+  "research_gap": "Prior research identified multiple uncertainties in new-product adoption, but did not specify how the relative importance of these uncertainties changes as adoption moves from distant to near. The paper also addresses the unresolved managerial question of which communication strategy can reduce time-varying uncertainties, and whether this depends on product newness.",
+  "research_question": "How does temporal distance to adoption change which uncertainties dominate consumer evaluation of a new product? Which communication strategy based on mental simulation (process/how vs outcome/why) is most effective at each temporal stage for reducing uncertainty and improving adoption outcomes? Does the efficacy of these strategies vary with product newness and initial uncertainty?"
+}

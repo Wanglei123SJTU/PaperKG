@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides a rare large-scale field dataset that links the location and time of m-coupon receipt to actual in-store redemption over almost two years.",
+    "Examines ten drivers of m-coupon effectiveness, including five mobile-specific features such as delivery location, delivery timing, and coupon order.",
+    "Introduces a consumer-level redemption modeling framework that combines a random-effects multivariate binomial probit response model with an allocation model to account for potential endogeneity."
+  ],
+  "context": "The study is a push-based SMS coupon trial in a large three-level shopping mall in a major Western city. Panelists voluntarily swiped phones at mall pods to receive coupon bundles from participating mall retailers.",
+  "design_and_data": "MobileCo ran the trial from August 2008 to June 2010, recruiting 8,534 panelists; 47,986 swipes generated 143,958 delivered coupons from 38 stores and 134 distinct offers. Each swipe triggered three SMS coupons, and redemption was observed at point of purchase via another phone swipe, allowing matched receipt-to-redemption data. The authors estimate a random-effects multivariate binomial probit model of redemption conditional on receipt, with coupon-level and individual-level random effects. To address potential coupon-allocation endogeneity, they first estimate a multinomial logit allocation model and include probit-residual control terms in the response model.",
+  "focal_constructs": [
+    "m-coupon redemption behavior",
+    "face value discount",
+    "delivery location distance",
+    "time of day and day of week",
+    "expiry length",
+    "price discount format",
+    "product type",
+    "prior redemption history"
+  ],
+  "main_findings": [
+    "Redemption is more likely for higher face-value coupons, bundled price formats, snack food offers, first-position coupons, and recipients with prior redemption in the same product type.",
+    "Location and timing matter: greater horizontal distance lowers redemption, being on the same level as the store increases redemption, and morning plus Monday and Thursday show higher redemption than baseline periods.",
+    "Longer expiry windows reduce redemption, and observed redemption happens very quickly (median 61 seconds for snack food and 118 seconds for other products, maximum 16 hours), implying m-coupons should use shorter validity periods."
+  ],
+  "one_line_summary": "Using a two-year shopping mall field panel, the paper models actual SMS m-coupon redemption and shows that while delivery place and time matter, face value, product type, and short expiry windows are stronger drivers.",
+  "relation_to_prior_work": "extends prior m-coupon research by shifting from attitude, intention, or simulated outcomes to observed redemption behavior linked to individual coupon receipt events. It also integrates traditional coupon attributes with mobile-specific delivery variables in one empirical response framework.",
+  "research_gap": "Prior m-coupon studies largely measured attitudes, intentions, or simulated behavior rather than observed in-store redemption. The paper argues that little is known about how mobile-specific features such as delivery location, timing, and display order jointly influence actual redemption relative to traditional coupon features.",
+  "research_question": "This paper asks which factors drive the redemption of SMS mobile coupons in a real retail setting, including both traditional coupon attributes and mobile-specific delivery factors. It also examines how where and when coupons are delivered, and how long they are valid, affect redemption incidence and time to redeem."
+}

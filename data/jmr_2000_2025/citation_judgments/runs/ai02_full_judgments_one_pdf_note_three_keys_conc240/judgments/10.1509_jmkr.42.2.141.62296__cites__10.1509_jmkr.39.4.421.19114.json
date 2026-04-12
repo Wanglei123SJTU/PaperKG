@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is not just listed in background references; it is explicitly included as an input study in the meta-analysis dataset (Table 1 reports 49 elasticities from Pauwels et al. 2002). This means its empirical estimates directly contribute to the pooled evidence used to derive the citing paper's generalizations. The citing paper also references it in-text as evidence on persistence/long-run promotion effects when discussing expected short- versus long-run price responses.",
+  "relation_description": "The citing meta-analysis uses Pauwels et al. (2002) as part of its empirical foundation by extracting and aggregating its elasticity estimates. It also draws on that study as prior support for arguments about long-term persistence of promotion effects.",
+  "relation_type": "foundational_for"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops and tests theory showing how borrower narratives and identity claims supplement objective information and can be used strategically in uncertain, unmediated exchanges.",
+    "It links narrative characteristics to objective two-year repayment outcomes, showing narratives are related not only to persuasion but also to transaction performance.",
+    "It proposes practical value in supplementing traditional credit-based lending criteria with narrative analysis."
+  ],
+  "context": "The study is set on Prosper.com, a U.S. peer-to-peer online loan auction platform for unsecured personal loans between anonymous borrowers and lenders. Borrowers can post voluntary open-text narratives in addition to verified financial data and assigned credit grades.",
+  "design_and_data": "The authors analyze 1,493 Prosper loan listings from June 2006 and June 2007, using stratified random sampling across funded vs. unfunded listings and seven credit grades, excluding listings with no narrative text. They coded narratives for six identity claims (trustworthy, successful, hardworking, economic hardship, moral, religious) using multiple coder pairs, with Fleiss kappa values from .66 to .96 on a common reliability set. Dependent variables were loan funding, percentage reduction in final interest rate, and loan performance two years after origination (paid ahead, current, late, default). They estimated regression models for funding and rate reduction and multinomial logit models for loan performance, with controls for financial characteristics, credit grade, and disclosed demographics, plus a robustness check using all June 2006 listings (N=4,959) for text presence.",
+  "focal_constructs": [
+    "borrower narratives",
+    "identity claims",
+    "number of identity claims",
+    "identity claim content",
+    "credit grade",
+    "loan funding",
+    "interest rate reduction",
+    "loan performance"
+  ],
+  "main_findings": [
+    "Borrowers with lower credit grades claimed more identities in their narratives.",
+    "Controlling for objective and demographic factors, a higher number of identity claims increased loan funding and increased reduction in final interest rate, but was associated with worse repayment outcomes.",
+    "Trustworthy and successful identity claims increased funding and rate reduction, but successful claims did not predict repayment performance, while moral claims related positively and economic hardship claims related negatively to loan performance."
+  ],
+  "one_line_summary": "Using Prosper.com data, the paper finds that borrower identity narratives materially shape peer-to-peer lending decisions beyond objective credit information, but some narrative signals that help secure funding do not predict better repayment.",
+  "relation_to_prior_work": "extends prior consumer narrative research from consumption-focused stories to economic exchange decisions and empirically connects identity narratives to objective long-term outcomes in unsecured lending.",
+  "research_gap": "Prior consumer research had largely examined narratives in consumption contexts rather than in economic exchange transactions. The paper also notes that narrative scholarship rarely provides empirical tests of whether narrative self-presentations predict longer-term objective outcomes.",
+  "research_question": "How do identity claims in borrower narratives influence lender decisions in peer-to-peer unsecured loan auctions, beyond objective and verifiable borrower information? Specifically, do the number and content of identity claims affect loan funding and pricing, and do these narrative features predict loan performance two years later?"
+}

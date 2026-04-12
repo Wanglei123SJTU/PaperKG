@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "First empirical study to jointly model customers' email open and purchase behaviors over time.",
+    "First study to combine hidden Markov and copula approaches in one framework to capture evolving latent relationship states and dependence between discrete open and purchase outcomes.",
+    "Develops a dynamic decision support system that uses estimated behavioral parameters to choose customer-time-specific email contact levels that maximize lifetime profit."
+  ],
+  "context": "The empirical setting is a permission-based email marketing program at a U.S. home improvement retailer selling across multiple product categories. Customers receive monthly emails and can open emails and make purchases (mostly offline).",
+  "design_and_data": "The data contain monthly customer purchase transactions, numbers of emails sent, and unique email opens. The estimation sample is a random cohort of 200 customers who opted into the email program in February 2007, stayed subscribed, and were observed for 39 months; about 95% of purchases are offline. The model is a unified hidden Markov framework with three latent relationship states, a binomial model for email opens, and a zero-inflated negative binomial model for purchases, linked by a Frank copula and random coefficients. The authors also apply a control-function endogeneity correction for email contacts and then use dynamic programming counterfactuals to derive optimal email contact policies.",
+  "focal_constructs": [
+    "email open behavior",
+    "purchase behavior",
+    "latent customer-firm relationship states",
+    "email contact frequency",
+    "state transition dynamics",
+    "copula-based dependence",
+    "short-term and long-term profitability",
+    "optimal email policy"
+  ],
+  "main_findings": [
+    "The model identifies three latent states: low open/medium purchase, high open/low purchase, and high open/high purchase, showing that email activeness and purchase activeness are not always aligned.",
+    "Email open and purchase behaviors are positively correlated in the copula component.",
+    "Email contact volume has nonlinear effects on behavior and profit, and profit-maximizing contact is state/customer/time dependent; in their counterfactual, sending 4 or 10 emails instead of the optimal 7 reduces lifetime profit per customer by about 32% and 16%, respectively."
+  ],
+  "one_line_summary": "Using 39 months of customer-level data from a U.S. home improvement retailer, the paper estimates a unified hidden Markov-copula model and dynamic programming DSS to optimize email frequency for long-term profitability.",
+  "relation_to_prior_work": "extends prior email and customer relationship research by moving from separate or average-effect analyses to a joint dynamic model of email opens and purchases, and by linking that model to an actionable optimization policy for email contacts.",
+  "research_gap": "Prior email studies mainly modeled either email responses or average purchase effects and did not jointly capture customer-level dynamics, heterogeneity, and dependence between email opens and purchases. Existing relationship-state models were largely purchase-focused and did not provide an email-frequency DSS for long-run profit optimization.",
+  "research_question": "How do latent customer-firm relationship states jointly govern email open and purchase behaviors, and how are these behaviors correlated? How does email contact volume affect outcomes in the short and long run, and what dynamic number of emails should be sent to each customer over time to maximize lifetime profit?"
+}

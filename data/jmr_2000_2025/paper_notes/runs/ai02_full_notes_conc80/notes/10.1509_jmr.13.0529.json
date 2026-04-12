@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper challenges the assumption that consumers always react to new market information when making investment decisions.",
+    "It identifies high need for cognitive closure as a condition that reduces assimilation of new uncertainty information and can break the link between risk aversion and portfolio updating.",
+    "It demonstrates two boundary conditions that can help high-NFCC consumers update portfolios in line with risk preferences: externally determined initial allocations and clear action-oriented guidance."
+  ],
+  "context": "The paper studies consumer financial decision making in stock-bond portfolio rebalancing after new information that market uncertainty has increased or decreased. Evidence comes from Dutch household holdings data and controlled online experiments with adult participants.",
+  "design_and_data": "The authors first analyze 2012 DNB Household Survey data for 934 Dutch respondents (ages 25-75), regressing safer-asset share on risk aversion, an NFCC proxy (\"I like order\"), and their interaction. They then run four experiments that manipulate or measure NFCC (noise, time pressure, and NFCC scale), vary uncertainty-change information and boundary conditions, and model change in bond share while controlling for initial bond share. Study 2 is incentive-compatible, with participant payoffs tied to investment outcomes. A follow-up simulation applies observed high- versus low-NFCC rebalancing magnitudes to 1999-2013 S&P 500 and Barclays U.S. Treasury Bond 1-3 Year index returns.",
+  "focal_constructs": [
+    "need for cognitive closure (NFCC)",
+    "risk aversion",
+    "market uncertainty changes",
+    "assimilation of new information",
+    "portfolio rebalancing",
+    "seizing and freezing processes",
+    "information clarity"
+  ],
+  "main_findings": [
+    "When new information indicated either an increase or a decrease in market uncertainty, risk aversion predicted bond-share updating under low NFCC but not under high NFCC.",
+    "In an incentive-compatible setting, the interaction between risk aversion and NFCC replicated: lower NFCC was associated with risk-aversion-consistent rebalancing, whereas higher NFCC was not.",
+    "High-NFCC participants were more likely to update in line with risk preferences when the initial allocation was externally set or when new information included clear action guidance, and a simulation showed their typical lower rebalancing implied higher portfolio return volatility than low-NFCC rebalancing."
+  ],
+  "one_line_summary": "Across field and experimental evidence, the paper shows that high need for cognitive closure reduces investors' assimilation of uncertainty-change information and weakens risk-aversion-consistent portfolio rebalancing unless specific boundary conditions are introduced.",
+  "relation_to_prior_work": "extends prior work on risk aversion in investment decisions by showing that need for cognitive closure can inhibit postdecision use of new market-uncertainty information. It also applies NFCC's seizing/freezing account to portfolio updating and tests concrete conditions under which the effect attenuates.",
+  "research_gap": "Prior research establishes that risk aversion affects investment choices, but it does not clearly explain when people fail to incorporate new information about changes in market uncertainty into subsequent allocation updates. The paper addresses this by testing whether need for cognitive closure limits such assimilation.",
+  "research_question": "Do consumers update stock-bond allocations in line with their risk aversion after receiving new information that market uncertainty has changed, or does need for cognitive closure prevent this adjustment? The paper also asks whether specific conditions can increase assimilation of new information among high-NFCC decision makers."
+}

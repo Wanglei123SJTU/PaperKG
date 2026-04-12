@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper introduces a two-component contour-as-face framework that combines a contour-based visual representation with Fourier-based modeling of face perceptions.",
+    "It is the first study to use facial contours to elicit human perceptions across 15 fundamental dimensions and characterize desirable versus undesirable inference trade-offs.",
+    "It demonstrates that the framework can be implemented in a real online dating recommendation context to support decisions while protecting facial privacy."
+  ],
+  "context": "The paper is motivated by business settings where facial information affects decisions, including online dating, social networking, professional service evaluation, employee selection/allocation, and customer relationship management. Its field test is a live online dating platform where users provide and evaluate facial contour images and receive contour-based matches.",
+  "design_and_data": "Study 1 uses 216 real face images (107 men, 109 women) and corresponding manually extracted contour images of five facial parts, with ratings from 354 participants on face images and 570 participants on contour images across 15 perceptual dimensions. The authors extract nonoutline geometric variables and outline features via centroid distance Fourier descriptors, and compare CaF against physiognomic and eigenface models using fit and leave-one-out prediction. Study 2 runs a human recognition task with 138 students, 10 target contour images, and a 260-face database to test anonymization of identity, age, and gender. Study 3 deploys a contour-based dating site (MKQ): 385 registered users in month 1, 198 users completed 13,311 contour evaluations, and six matching rounds produced 175 matched pairs.",
+  "focal_constructs": [
+    "privacy-perception trade-off",
+    "facial contour representation",
+    "identity anonymization",
+    "age and gender masking",
+    "face-based social perception",
+    "Fourier descriptors",
+    "contour-based matching"
+  ],
+  "main_findings": [
+    "Compared with physiognomic and eigenface benchmarks, the CaF model showed better overall performance for face-perception modeling (average R2 = .74, adjusted R2 = .54, leave-one-out MSE = .36).",
+    "Contour-based judgments were reasonably reliable for dimensions such as smile, pleasantness, attractiveness, approachability, arousal, confidence, and fatness, but much less reliable for age, sexual dimorphism (gender), and several related dimensions.",
+    "In the recognition experiment, top-choice identity recognition from contours was 2.68% (37/1,380), and the field dating implementation showed practical uptake, including 26 mutually interested pairs and 9 pairs exchanging off-site contact information."
+  ],
+  "one_line_summary": "The paper proposes and validates a contour-as-face framework that replaces face photos with facial contour images to preserve useful social perceptions while strongly reducing inference of identity, age, and gender.",
+  "relation_to_prior_work": "introduces an alternative to prior face anonymization and face perception modeling approaches by using facial contours that humans can evaluate directly and that can be modeled with Fourier descriptors. The paper argues this addresses limitations of masking, blurring, and face replacement methods, as well as physiognomic and eigenface methods, for privacy-perception trade-offs.",
+  "research_gap": "The paper states that existing face anonymization methods reduce perceptual utility, while existing face perception models do not provide a human-usable representation that also protects privacy. It argues that scholars had not effectively addressed Type I identity protection-perception and Type II discrimination prevention-perception trade-offs in marketing use of facial data.",
+  "research_question": "Can facial contour images serve as a practical proxy for face images that preserves decision-relevant perceptions while protecting privacy? The authors examine whether contours retain information for common face judgments, whether they mask identity and demographic cues (age and gender), and whether the approach is feasible in a real online dating application."
+}

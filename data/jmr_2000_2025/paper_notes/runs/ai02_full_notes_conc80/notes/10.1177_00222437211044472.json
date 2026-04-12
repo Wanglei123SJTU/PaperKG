@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides evidence that a celebrity doctor's positive endorsement of OTC health products can generate sustained hype across public information sources.",
+    "It identifies a risk of hype news diffusion in which credible news and consumer-generated content do not reliably correct weakly supported health claims.",
+    "It combines deep-learning text analysis with causal designs (RDIT and synthetic control) to study a multi-channel health information cascade."
+  ],
+  "context": "The study is set in U.S. over-the-counter weight loss products, where consumers can buy without prescriptions and often rely on public information. The focal trigger is ingredient endorsements on The Dr. Oz Show and subsequent information across news, research, e-commerce reviews, and online discussions.",
+  "design_and_data": "The authors use Amazon weight-loss product data (1996-2014), including 6,119 products and 150,731 reviews, and identify 10 ingredients endorsed on The Dr. Oz Show (1,864 related products). They collect parallel text data by ingredient from LexisNexis news (2,396 articles), biomedical research databases (7,116 articles), and OPD platforms (3,301 posts), with health-website articles also gathered but too sparse for regression analysis. They label 3,000 texts via MTurk and train CNN classifiers for bias correction and positive/negative emotion, and use TextBlob for sentiment. Causal effects are estimated mainly with regression discontinuity in time and checked with synthetic control and placebo tests.",
+  "focal_constructs": [
+    "hype news",
+    "Oz Effect",
+    "information cascade",
+    "bias correction",
+    "sentiment",
+    "positive and negative emotion",
+    "information intensity",
+    "consumer search interest"
+  ],
+  "main_findings": [
+    "After an ingredient is featured on The Dr. Oz Show, related news volume increases significantly, and post-endorsement news has higher sentiment with no significant increase in bias correction.",
+    "Research articles and online product discussions show no significant post-endorsement change in intensity or key language features, while customer reviews show less bias-correction content and higher sentiment overall.",
+    "Dr. Oz endorsements significantly increase consumer search interest and increase prices of products containing the endorsed ingredient; product offerings rise over time but do not show an immediate discontinuous jump in RDIT."
+  ],
+  "one_line_summary": "Using OTC weight-loss products endorsed on The Dr. Oz Show, the paper shows that endorsements trigger a multi-channel information cascade in which hype is mostly amplified rather than corrected, alongside higher consumer search and higher prices.",
+  "relation_to_prior_work": "extends prior work on information diffusion, celebrity endorsement, and media hype by analyzing a richer set of consumer-facing health information channels in one framework. It adds causal and NLP-based evidence in a domain where prior hype evidence was often case-based and where celebrity endorsement research had not focused on health-care misinformation dynamics.",
+  "research_gap": "The paper argues that it is unclear whether publicly available information sources can correct misleading health claims when hype is initiated by a credible celebrity doctor. It addresses this unresolved issue by testing whether post-endorsement information from multiple channels mitigates or amplifies the initial hype and by examining market responses.",
+  "research_question": "How does hype news from The Dr. Oz Show affect subsequent information generation in news articles, research articles, online customer reviews, and online product discussions? Do these channels mitigate or amplify the bias in the original endorsement? How does the market respond in consumer search interest, product prices, and product offerings?"
+}

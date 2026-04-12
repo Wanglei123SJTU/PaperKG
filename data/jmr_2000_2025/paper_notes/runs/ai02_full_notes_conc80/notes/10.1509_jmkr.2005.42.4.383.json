@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper demonstrates that marketing actions, especially pricing, can alter actual product efficacy, not only evaluations or subjective consumption experiences.",
+    "It provides evidence that placebo effects of marketing actions are mediated by response expectancies, and that the expectancy-to-outcome process appears to operate nonconsciously.",
+    "It argues that these results broaden placebo theory and price-quality research by showing that an extrinsic cue such as price can change realized performance outcomes."
+  ],
+  "context": "The studies are set in consumer use of an energy drink (mainly SoBe Adrenaline Rush, with a preliminary Twinlab Ultra Fuel study) presented as improving performance. Participants were mostly undergraduate students (plus a preliminary fitness-center sample) who completed behavioral tasks such as word-jumble puzzles after consuming the drink.",
+  "design_and_data": "The paper reports three randomized between-subject experiments in which participants consumed the same drink but faced different price and expectancy manipulations, with performance measured as number of puzzles solved. Experiment 1 (n=125; 2x2 price x expectancy-strength) included a no-treatment pilot control (n=31). Experiment 2 (n=193; 2x2 price x price-efficacy-salience) added a control condition and tested awareness and alternative accounts; Experiment 3 (n=204; 2x2 price x advertising-claim expectancy-strength) added a control and measured alertness, motivation, and mood. Analyses used ANOVA/ANCOVA and Sobel mediation tests, with covariates including prior product usage.",
+  "focal_constructs": [
+    "placebo effects of marketing actions",
+    "price discounts",
+    "response expectancies",
+    "actual product efficacy",
+    "price-quality beliefs",
+    "nonconscious processing",
+    "advertising efficacy claims"
+  ],
+  "main_findings": [
+    "Participants who bought the drink at a discount solved fewer puzzles than those paying full price, showing an undesirable placebo effect of price discounts.",
+    "Manipulations that strengthened or weakened expectancies changed the size of the performance effect as predicted, and expectancy measures mediated key treatment effects.",
+    "With strong efficacy claims and full price, participants outperformed the no-treatment control (a desirable placebo effect), while cognitive dissonance, distraction, and mood explanations were not supported."
+  ],
+  "one_line_summary": "Across three experiments with an energy drink, paying a discounted price reduced actual task performance relative to paying full price, largely through expectancy-based placebo effects.",
+  "relation_to_prior_work": "extends prior marketing work on price-quality and labeling effects from perceived quality and subjective experience to objective performance outcomes. It also extends placebo research beyond cues inherent to treatments by showing effects from an extrinsic marketing cue, price, and by documenting nonconscious expectancy-driven influence.",
+  "research_gap": "Prior placebo research mainly focused on treatment-inherent cues, and marketing research mostly documented effects of price and other cues on judgments or subjective experience. The paper addresses the unresolved issue of whether extrinsic marketing actions such as price promotions can causally alter actual behavioral efficacy, and whether expectancy mediation can occur outside awareness.",
+  "research_question": "Can beliefs and expectations evoked by marketing actions, especially price discounts, influence the actual efficacy of a marketed product rather than only perceived quality or subjective experience? Are any such effects mediated by response expectancies, and does the expectancy process operate nonconsciously?"
+}

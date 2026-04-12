@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the citing PDF, Acquisti et al. is cited where the authors justify a core modeled mechanism, the privacy-loss effect, not just as broad background. That mechanism is then estimated and interpreted as a key behavioral component of their dual-questioning framework. While the citing paper does not reuse the cited paper's full design, it relies on its disclosure-under-privacy-context insight to support its conceptual setup. This is a meaningful functional use rather than a passing mention.",
+  "relation_description": "The citing paper applies Acquisti et al. (2012)'s disclosure-under-privacy insight to motivate and interpret its privacy-loss order effect: when privacy protection is reduced, respondents disclose less and show more biased reporting. This prior finding is used to ground one of the central behavioral effects built into the citing model.",
+  "relation_type": "applies"
+}

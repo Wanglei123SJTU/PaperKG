@@ -1,0 +1,6 @@
+{
+  "citation_substance": "mention_only",
+  "rationale": "The citing paper references Kim, Lee, and Gupta (2020) mainly as part of broad background on quasi-experimental marketing applications and as one example of Bayesian alternatives to synthetic control. The citation appears in grouped literature mentions, not as a method the authors implement, extend, or directly evaluate in their simulations or empirical analyses. The paper's core technical development and comparisons center on factor-model inference versus Xu bootstrap/placebo and DID/SC/MSC/HCW methods, without a distinct functional dependence on Kim et al. (2020).",
+  "relation_description": null,
+  "relation_type": null
+}

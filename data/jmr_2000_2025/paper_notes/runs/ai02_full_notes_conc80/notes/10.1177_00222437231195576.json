@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and empirically tests a five-practice framework for review-platform trust: monitoring, exposure, community building, status endowment, and identity disclosure.",
+    "It introduces a distinction between firm-oriented and reviewer-oriented network governance mechanisms and estimates their individual and joint effects on platform trust.",
+    "It shows that exposure, community building, and status endowment can substitute for identity disclosure in building trust, highlighting a privacy-relevant design implication."
+  ],
+  "context": "The paper studies independent online review platforms such as Yelp, Tripadvisor, and Trustpilot, where review information is central rather than a side feature of transactions. The focal issue is fake or manipulated reviews, often linked to selling firms, and how platforms can design governance practices to preserve consumer trust.",
+  "design_and_data": "Study 1 is a ratings-based conjoint experiment with 365 students using a half-fraction 2^5 design (16 profiles), random assignment to 8 profiles, and random-effects regression for main and interaction effects. Study 2 runs three between-subject experiments (total n = 278) and serial mediation analyses to test process mechanisms via perceived firm opportunism and reviewer credibility. Study 3 codes adoption of the five practices across 25 review platforms and correlates the count of adopted practices with platform performance metrics (domain authority, recoded Alexa rank, backlinks, and organic traffic). Study 4 surveys 273 students using unaided questions plus rank ordering, and Study 5 uses a second conjoint with 304 MTurk respondents that adds review characteristics (consistency, number of reviews, expertise).",
+  "focal_constructs": [
+    "platform trust",
+    "monitoring",
+    "exposure of fake-review firms",
+    "community building",
+    "status endowment",
+    "identity disclosure",
+    "selling firm opportunism",
+    "reviewer credibility"
+  ],
+  "main_findings": [
+    "All five practices positively affect platform trust, with monitoring and exposure having the largest effects and identity disclosure the smallest.",
+    "Exposure, community building, and status endowment reduce the marginal trust benefit of identity disclosure; when these mechanisms are present, identity disclosure becomes statistically redundant, while the monitoring interaction is not significant.",
+    "The effects operate through reduced expectations of selling firm opportunism and increased reviewer credibility, and the practices are associated with platform success metrics and trust effects above and beyond review-content characteristics."
+  ],
+  "one_line_summary": "Across five studies, the paper shows that specific review-platform governance practices increase consumer platform trust and can make reviewer identity disclosure unnecessary.",
+  "relation_to_prior_work": "extends prior work on fake reviews, reputation mechanisms, and dyadic trust/governance by modeling trust in a multiparty review-platform context and testing network governance practices alongside identity disclosure.",
+  "research_gap": "Although prior research examines fake reviews and reputation systems, the paper argues there is little evidence on which platform-level practices build and safeguard trust in review intermediaries. It also identifies limited understanding of governance in network settings where platforms mediate among consumers, reviewers, and selling firms, rather than in dyadic exchanges.",
+  "research_question": "Which governance mechanisms can review platforms use to build consumer trust in the platform? Do these governance mechanisms substitute for reviewer identity disclosure in building platform trust?"
+}

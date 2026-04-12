@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Documents a manager-consumer miscalibration: managers expected privacy notices to increase consumer security, but consumers often showed lower trust and lower purchase interest.",
+    "Provides converging multi-method evidence, including a field experiment, for a backfire pattern the authors label the bulletproof glass effect.",
+    "Identifies practical boundary conditions for privacy communication, showing that expected safety, benevolence cues, and conspicuous absence of privacy details change consumer responses."
+  ],
+  "context": "The paper studies privacy communication in digital transaction settings where consumers share personal data, including online retail checkout and product evaluation contexts, a Canadian fintech enrollment funnel (Borrowell), and an Apple App Store-like app evaluation context with privacy nutrition labels. A pilot also analyzes privacy notices from publicly traded NASDAQ firms.",
+  "design_and_data": "The paper reports a pilot LIWC content analysis of 50 NASDAQ firms' privacy notices, a manager intuition survey (Prolific; final n = 70), a field experiment with Borrowell (15,864 prospective customers randomized to high vs low privacy-notice salience), and five online experiments on MTurk. The experiments manipulate notice presence/salience/content, expected safety versus prior distrust, benevolence cues, and privacy-label formats including conspicuously missing details. Outcomes include purchase interest, enrollment completion, willingness and time to view more product information, and trust. Mediation and moderated mediation are tested with PROCESS models.",
+  "focal_constructs": [
+    "privacy notices",
+    "trust",
+    "purchase interest",
+    "privacy notice salience",
+    "formal contract framing",
+    "social contract norms",
+    "benevolence cues",
+    "conspicuous absence of privacy details"
+  ],
+  "main_findings": [
+    "Most managers expected a privacy notice to make customers feel more secure (74.3%), but in the field a more salient privacy notice lowered enrollment (39.66% vs 41.48%).",
+    "Across experiments, formal privacy notices decreased purchase interest even when they emphasized objective protections or provided only opaque policy references without specific concerning practices.",
+    "Decreased trust mediated the effect; the effect was attenuated when consumers already had reason to distrust, benevolence cues attenuated and in one study reversed the effect, and in an app context both privacy details present and privacy details conspicuously absent reduced download interest versus no privacy information."
+  ],
+  "one_line_summary": "Across a field experiment and multiple online studies, the paper shows that formal privacy notices can backfire by reducing trust and purchase interest (the bulletproof glass effect), with effects moderated by expected safety and benevolence cues.",
+  "relation_to_prior_work": "challenges the common managerial and scholarly expectation that formal, protective privacy disclosures inherently reassure consumers and increase willingness to transact. It provides evidence that transparency via formal privacy notices can reduce trust and purchase interest, while also showing conditions under which this backfire weakens or reverses.",
+  "research_gap": "The authors argue that despite strong managerial and policy interest in privacy, marketing evidence on how consumers behaviorally respond to actual exposure to privacy notices is limited. They specifically note a lack of field evidence manipulating privacy notice presence or salience and measuring downstream consumer behavior.",
+  "research_question": "How do consumers respond to differences in the presence, salience, and framing of privacy-related information? Do formal privacy notices increase or decrease purchase interest, is trust the mechanism, and when is any negative effect attenuated or reversed?"
+}

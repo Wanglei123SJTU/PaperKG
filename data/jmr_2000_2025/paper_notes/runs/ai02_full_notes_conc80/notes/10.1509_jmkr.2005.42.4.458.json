@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes an accessibility-based framework with two distinct routes for updating brand personality impressions: trait inferencing and evaluative inferencing.",
+    "It identifies trait accessibility (chronic and situational) as the key moderator of which updating route consumers use after receiving new brand information.",
+    "It argues that updating can occur even when old and new information are not trait-compatible, because nonchronics can update through evaluative implications (a halo-like process)."
+  ],
+  "context": "The studies examine consumer impression formation for fictitious brands in marketing contexts (e.g., clothing and adventure travel) using brand claims similar to advertising or Web-site information. The substantive focus is how brand personality perceptions change after initial impressions are formed and new information arrives.",
+  "design_and_data": "The paper reports three controlled experiments with repeated personality ratings before and after additional brand information (Experiment 1: n = 40; Experiment 2: n = 78; Experiment 3: n = 144). Initial inferences were induced with trait-relevant brand claims, and later information was manipulated to vary trait implications versus overall evaluative implications. Trait chronicity was measured using self-descriptiveness and importance ratings (and in Experiment 3 also an open-ended chronicity measure collected two weeks earlier). Experiment 3 additionally manipulated temporary trait accessibility at Time 2 via priming and included a control condition and thought listings for a subset of participants.",
+  "focal_constructs": [
+    "brand personality inferences",
+    "inference updating",
+    "trait accessibility",
+    "chronic versus nonchronic traits",
+    "trait inferencing",
+    "evaluative inferencing",
+    "halo effect"
+  ],
+  "main_findings": [
+    "When new information had positive trait but negative evaluative implications, nonchronics lowered brand trait ratings whereas chronics did not.",
+    "When new information had negative trait but positive evaluative implications, chronics lowered trait ratings whereas nonchronics did not, and nonchronics' ratings on an irrelevant trait also shifted with evaluative valence.",
+    "Priming the focal trait just before new information caused nonchronics to show trait-based updating similar to chronics, supporting trait accessibility as the mechanism."
+  ],
+  "one_line_summary": "Across three experiments, the paper shows that brand personality impressions are updated through trait-based inference for trait chronics but through evaluative, halo-like inference for nonchronics, with trait accessibility determining the route.",
+  "relation_to_prior_work": "extends accessibility and impression-formation research from initial person/brand inferences to dynamic updating of brand personality judgments. extends Pham and Muthukrishnan's compatibility-based revision account by showing that consumers low in trait accessibility can still update via evaluative implications when trait compatibility is low.",
+  "research_gap": "Prior brand personality research had mainly examined the content of brand traits at a single point in time, with little evidence on how initial trait impressions are updated after incoming, possibly disconfirming information. The paper also notes limited understanding of why some trait inferences change while others remain stable.",
+  "research_question": "How do consumers update initial brand personality inferences when they receive later trait-relevant information? Do people high versus low in chronic accessibility of the focal trait update through different mechanisms, and does temporary trait accessibility change that process?"
+}

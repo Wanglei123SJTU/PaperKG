@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper note frames its contribution around introducing and comparing SIR with PCR/PLSR/LRR/MLR/MDA for dimension reduction, while the cited paper note is about measurement-error correction in dynamic advertising models using DLS/MKF; these are non-overlapping methodological foci in the provided summaries. With only a single DOI-level matched reference and no in-text/contextual evidence of direct use, this looks like a likely background/incidental citation rather than a core dependency.",
+  "triage_decision": "drop_obvious_mention_only"
+}

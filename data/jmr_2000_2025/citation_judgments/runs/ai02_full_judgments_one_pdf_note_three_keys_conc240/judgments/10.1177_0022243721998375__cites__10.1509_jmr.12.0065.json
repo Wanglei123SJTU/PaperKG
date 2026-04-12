@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used repeatedly as a key prior benchmark for in-store video tracking research, not just as a background list citation. The citing paper explicitly contrasts its ambulatory eye-tracking and SKU-level fixation measurement with Hui et al. (2013)'s field-of-view/category-level approach, and it states that parts of its attention-incidence annotation procedure are similar to that prior work. It also interprets its own conversion-rate patterns relative to Hui et al. (2013), showing the cited study materially informs framing, method setup, and interpretation of contribution.",
+  "relation_description": "The citing paper extends Hui et al. (2013) by advancing from in-store video tracking at category level to ambulatory eye-tracking with SKU-level attention measurement. It keeps related behavioral coding logic but adds new identification and modeling of lateral and vertical attention biases.",
+  "relation_type": "extends"
+}

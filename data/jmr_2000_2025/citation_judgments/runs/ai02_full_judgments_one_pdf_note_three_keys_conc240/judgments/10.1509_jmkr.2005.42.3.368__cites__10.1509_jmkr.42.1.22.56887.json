@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper explicitly invokes Bronnenberg, Rossi, and Vilcassim (2005) when stating that consistent estimation of structural parameters is crucial for policy simulation. That citation is used to justify the core motivation for the proposed integrated estimator: obtaining unbiased structural taste parameters while handling heterogeneity and endogeneity. Although the cited paper is not used as an operational estimation method, it plays a clear conceptual framing role in the contribution argument.",
+  "relation_description": "The citing paper relies on the cited paper's structural-policy argument as a conceptual basis for why its estimator must recover consistent structural parameters. This motivation underlies the paper's design of combining household panel and store data for policy-relevant demand estimation.",
+  "relation_type": "foundational_for"
+}

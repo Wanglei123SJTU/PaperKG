@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper disentangles positive and negative inequity using spline variables and shows that behavioral responses to inequity can depend on interdependence magnitude, including cases where classic equity theory predictions do not hold.",
+    "The paper separates supplier relative dependence and buyer relative dependence (rather than treating relative dependence as a single continuum) to show their distinct moderating roles in inequity responses.",
+    "The paper provides evidence that positive and negative inequity have different effects on perceived relationship performance, which the authors describe as previously unexplored in this context."
+  ],
+  "context": "The study is set in ongoing business-to-business buyer-supplier relationships, with Japanese suppliers reporting on relationships with their primary U.S. buyers. Japan is used as a high-masculinity, competitive-achievement cultural context.",
+  "design_and_data": "The authors use a two-wave longitudinal survey design. They drew a systematic random sample of 1,000 Japanese suppliers (durable and nondurable industries), received 317 first-wave responses, and obtained 296 matched dyads across waves (30.1% effective response rate). At Time 1, managers responsible for the focal buyer relationship reported inequity, dependence, and resource sharing; six months later, a second informant reported relationship performance. Hypotheses were tested with spline regression models that split positive versus negative inequity and supplier versus buyer relative dependence.",
+  "focal_constructs": [
+    "positive supplier inequity",
+    "negative supplier inequity",
+    "magnitude of interdependence",
+    "supplier relative dependence",
+    "buyer relative dependence",
+    "supplier resource sharing",
+    "perceived relationship performance"
+  ],
+  "main_findings": [
+    "Positive inequity and magnitude of interdependence had a significant positive interaction on supplier resource sharing, with simple slopes showing reduced resource sharing under positive inequity in low-magnitude relationships and no significant change in high-magnitude relationships.",
+    "Negative inequity had a positive direct effect on supplier resource sharing, but its interaction with magnitude of interdependence was not significant; the three-way interaction of negative inequity, magnitude of interdependence, and supplier relative dependence was significant and positive, while the corresponding buyer-relative-dependence interaction was not significant.",
+    "Positive inequity increased perceived relationship performance, whereas negative inequity decreased perceived relationship performance."
+  ],
+  "one_line_summary": "Using two-wave survey data from Japanese suppliers and spline regressions, the paper shows that responses to positive versus negative inequity in buyer-supplier relationships depend on interdependence structure and that the two inequity positions have opposite effects on perceived relationship performance.",
+  "relation_to_prior_work": "extends prior equity and dependence research by modeling positive versus negative inequity and supplier versus buyer relative dependence separately in buyer-supplier relationships, and by testing differential performance consequences of inequity positions.",
+  "research_gap": "The paper identifies limited research on behavioral responses and performance outcomes across different inequity positions in buyer-supplier relationships. It also notes that prior work commonly treats relative dependence as a single continuum and has not directly examined how positive versus negative inequity differentially affects perceived relationship performance.",
+  "research_question": "How do positive and negative inequity influence a supplier's resource sharing with its buyer, and how are these effects conditioned by the structure of interdependence (magnitude of interdependence and each party's relative dependence)? The paper also asks whether positive and negative inequity differentially affect perceived relationship performance."
+}

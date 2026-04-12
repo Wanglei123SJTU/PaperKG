@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in a specific methodological role, not just listed as background. In the control-group robustness section, the authors state they run their omnibus treatment-versus-control analysis similarly to Ailawadi et al. (2010), and then build interaction-based specifications in that spirit. This indicates the citation informs how the robustness test is structured and interpreted, even though it is not central to the nutrition theory.",
+  "relation_description": "The citing paper applies an empirical analysis template from Ailawadi et al. (2010) for its control-group omnibus robustness check, using a treatment indicator and higher-order interactions to compare experimental and control stores.",
+  "relation_type": "applies"
+}

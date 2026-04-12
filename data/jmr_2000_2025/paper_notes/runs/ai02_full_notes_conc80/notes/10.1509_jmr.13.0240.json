@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a multinomial probit with a structured covariance matrix in which cross-alternative error correlations are parameterized by perceived distance between alternatives and scaled by one additional respondent-level parameter.",
+    "Shows how this structure allows correlation to be computed for any hypothetical attribute configuration, enabling source-of-volume calculations for new product introductions where standard correlated models cannot identify new-product correlations.",
+    "Argues for and empirically supports a broader similarity concept based on overall utility (compensatory similarity), not only attribute overlap, for modeling substitution and cannibalization."
+  ],
+  "context": "The empirical setting is stated-preference conjoint choice, with a primary commercial study on coffee creamers and replications on hotels, interior paint, and hot chocolate. An external validation study uses outdoor grill choices with an expanding choice set to test predicted substitution and source-of-volume patterns.",
+  "design_and_data": "The authors estimate hierarchical Bayes choice models and compare benchmarks (HB logit, several HB probit variants, and HB nested logit) to proposed structured-covariance HB probit models where off-diagonal covariances follow sij = exp(-dij/qh) using four distance metrics (D1-D4) plus a negative-covariance extension. In the main application, 951 respondents completed 14 four-option coffee-creamer choice tasks; 13 tasks were used for calibration and 1 holdout for prediction. Replication analyses use three additional conjoint data sets (hotels, interior paint, hot chocolate) with one holdout task each. A separate grill study (179 respondents) includes paired fixed holdout tasks (before and after adding a similar entrant) for external validation of source-of-volume predictions.",
+  "focal_constructs": [
+    "source of volume",
+    "cannibalization",
+    "substitution patterns",
+    "independence of irrelevant alternatives",
+    "structured covariance multinomial probit",
+    "product similarity",
+    "utility-based distance metric",
+    "hierarchical Bayes conjoint choice"
+  ],
+  "main_findings": [
+    "Across the coffee creamer application and three replication data sets, the structured-covariance model using utility-based distance (D3) provides the best in-sample fit and strongest holdout prediction among compared models.",
+    "Similarity defined by overall utility outperforms attribute-based similarity metrics (D1, D2, D4), indicating substitution is better captured in utility space than by attribute overlap alone.",
+    "For new product introductions, standard logit/probit models over-allocate source of volume to dissimilar products, while the structured-covariance model yields more realistic non-IIA substitution; in the grill validation, its SOV prediction (62.5% from the similar product) is closer to observed data (65.0%) than HB MNL (48.2%)."
+  ],
+  "one_line_summary": "The paper develops a hierarchical Bayes multinomial probit with similarity-structured covariance and shows that utility-based similarity substantially improves substitution and source-of-volume predictions for new product introductions relative to standard logit/probit models.",
+  "relation_to_prior_work": "extends prior IIA-relaxing choice models by linking error covariance to distances computed from all alternative attributes and respondent partworths, rather than relying only on brand/order effects or fixed nesting structures.",
+  "research_gap": "Existing logit and many probit specifications impose or approximate IIA and often misrepresent substitution, leading to poor source-of-volume estimates, especially for new products. Prior correlated-error models either tie covariance to brands/presentation structure or require prespecified nests, so they do not flexibly identify correlations for novel attribute configurations in conjoint settings.",
+  "research_question": "How can a parsimonious choice model incorporate cross-alternative error correlation driven by perceived similarity so that substitution and source-of-volume calculations are accurate for new product configurations? Which similarity definition best captures this correlation in practice: attribute-based distance or overall utility distance?"
+}

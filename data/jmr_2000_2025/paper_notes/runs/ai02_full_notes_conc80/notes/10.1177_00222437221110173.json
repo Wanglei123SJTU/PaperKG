@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper derives the subjective prior rational inattention (SP-RI) empirical demand model and estimator, including an existence theorem showing that a latent subjective prior belief can satisfy the RI fixed-point conditions without imposing a parametric prior-belief form.",
+    "It provides an empirically testable RI framework that separates utility shifters (prices and attributes) from consideration/evaluation-cost shifters (for example, feature and display promotions).",
+    "It develops an SP-RI-based consumer-welfare/compensating-variation formula and uses it to evaluate value creation from new product entry when information frictions are present."
+  ],
+  "context": "The empirical application is U.S. laundry detergent brand choice, focusing on the 2012 introduction of Tide Pods. The paper studies point-of-sale settings with large choice sets and retail promotions such as in-store displays and feature ads.",
+  "design_and_data": "The author combines Nielsen-Kilts Homescan household purchases with Nielsen RMS store-week data for 2006-2016, then matches trips and store-week assortments; the final estimation sample has 170,968 choice observations and about 17 million alternative observations. Demand is estimated by maximum simulated likelihood under an SP-RI model with promotion variables entering consideration probabilities and demographics/store familiarity entering unit information costs. The paper compares FI-RUM, reduced-form FI-RUM (with promotions in utility), and SP-RI using log-likelihood, AIC, BIC, and holdout hit rates. Welfare is evaluated via counterfactual simulations that remove Tide Pods from post-entry choice sets and compare SP-RI and FI-RUM compensating variation.",
+  "focal_constructs": [
+    "rational inattention",
+    "subjective prior belief",
+    "evaluation costs",
+    "consideration probability",
+    "discrete-choice demand",
+    "consumer welfare and compensating variation",
+    "retail promotion instruments",
+    "new product entry"
+  ],
+  "main_findings": [
+    "Model specification tests select the SP-RI model over both a standard FI-RUM and a reduced-form FI-RUM in the detergent application.",
+    "Relative to SP-RI, FI-RUM overestimates key utility coefficients (including price sensitivity, Tide brand, and Gain brand effects) and implies lower optimal pricing margins.",
+    "For Tide Pods entry, FI-RUM predicts positive aggregate annual consumer-surplus gains (about $125 million), while SP-RI predicts an aggregate annual welfare loss (about $41 million) with heterogeneous signs across consumers."
+  ],
+  "one_line_summary": "The paper develops and estimates an SP-RI discrete-choice framework that separates preference and information-friction channels, and in a laundry-detergent case study finds that Tide Pods entry reduced aggregate consumer welfare despite FI-RUM predicting gains.",
+  "relation_to_prior_work": "extends discrete-choice rational inattention theory (for example, Matejka and McKay 2015; Fosgerau et al. 2020) into an empirically estimable demand and welfare framework that does not require specifying consumers' full prior-belief distribution.",
+  "research_gap": "Conventional FI-RUM demand models assume full information and confound preference effects with information-friction effects, while consumers' consideration sets are typically unobserved. Existing RI discrete-choice theory was not directly usable for empirical demand and welfare work because prior beliefs are unobserved and the fixed-point structure was difficult to operationalize in standard choice data.",
+  "research_question": "Can a rational-inattention discrete-choice model be formulated and estimated empirically when consumers' prior beliefs are unobserved, while separately identifying utility shifters and information-evaluation-cost shifters? Does this framework fit scanner-panel brand-choice data better than conventional FI-RUM, and how does it change consumer-welfare conclusions for new product entry such as Tide Pods?"
+}

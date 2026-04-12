@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides quasi-experimental estimates of the own-channel and cross-channel sales effects of faster online delivery in omnichannel retailing.",
+    "Shows that rapid delivery effects are dynamic and identifies customer learning through service encounters and existing brand presence as key drivers.",
+    "Documents heterogeneity in response by prior online usage, with different short-run and long-run patterns across customer experience groups."
+  ],
+  "context": "The study uses a major U.S. omnichannel apparel retailer with an online store and more than 300 offline stores. In late 2012, the retailer opened a western U.S. distribution center, which changed online delivery times for western zip codes without announcing the change to customers.",
+  "design_and_data": "The paper exploits a quasi-experiment from the opening of a second distribution center and compares treated western zip codes with control zip codes still served by the original eastern distribution center. It uses weekly panel data from January 2012 to December 2013: online sales at the zip-code-week level (26,464 zip codes) and offline sales at the store-week level (303 stores), plus order count, item count, and customer acquisition measures. Identification uses difference-in-differences with propensity score weighting, zip code/store fixed effects, and week fixed effects, estimated mainly with fixed-effects panel Poisson models. The authors combine retailer data with USPS delivery-time data and Esri demographics, and report robustness checks including pre-post aggregation and border zip code analyses.",
+  "focal_constructs": [
+    "rapid delivery time",
+    "online store sales",
+    "offline store sales spillover",
+    "omnichannel channel interactions",
+    "customer learning",
+    "brand presence",
+    "online store penetration rate",
+    "prior online usage frequency"
+  ],
+  "main_findings": [
+    "Opening the western distribution center increased online sales in treated zip codes by 3.79% on average, and each one-business-day delivery-time reduction increased online sales by 1.45% from a seven-day baseline.",
+    "Faster online delivery generated positive cross-channel spillovers: offline store sales rose 1.82% in treated locations, and each one-business-day delivery-time reduction increased offline sales by 0.61% on average.",
+    "Effects grew in the short-to-medium run and were primarily driven by higher order count; responsiveness was stronger where cumulative shipments and brand presence were higher, with less-experienced online customers responding more in the short run and frequent users more in the long run."
+  ],
+  "one_line_summary": "Using an unannounced delivery-speed change from a new distribution center, the paper shows that faster online delivery increases both online and offline sales in omnichannel apparel retailing, with dynamics shaped by learning and brand presence.",
+  "relation_to_prior_work": "extends omnichannel channel-interaction research by providing quasi-experimental evidence on delivery speed, a setting the paper describes as having limited prior empirical results. It adds to work on store openings and channel-integration programs by quantifying both own-channel online gains and cross-channel offline spillovers from faster delivery.",
+  "research_gap": "The paper argues that although retailers are investing heavily in faster shipping, the benefit of rapid delivery is unclear, especially in omnichannel settings where online-offline substitution and market expansion can offset each other. It also highlights limited empirical evidence on delivery speed effects when the same retailer operates both channels at scale.",
+  "research_question": "How does faster online delivery affect sales in the retailer's online channel and in its offline stores in an omnichannel setting? The paper also asks how these effects evolve over time and whether customer learning, brand presence, and prior online experience moderate the effects."
+}

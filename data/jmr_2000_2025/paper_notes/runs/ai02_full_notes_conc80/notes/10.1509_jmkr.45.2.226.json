@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces an integrated empirical analysis of both temporal and spatial price search in grocery markets and links these behaviors to retailer profitability.",
+    "Develops and implements a matched data collection approach that combines household surveys, observed purchase baskets, competitor prices over time, and household-level retail margin data.",
+    "Provides direct empirical evidence on realized savings from alternative search strategies and on the aggregate profit impact of cherry-picking."
+  ],
+  "context": "The study is set in grocery retailing with weekly promotions in four suburban areas of a midsize northeastern U.S. city, where two regional chains form effective local duopolies. Data center on one cooperating chain (Chain A) and its nearest competitor (Chain B).",
+  "design_and_data": "The authors surveyed shoppers exiting four Chain A stores during Sep-Nov 2003 and obtained 255 usable responses from loyalty-card households. They matched these respondents to live transaction records and tracked each household for 2-3 shopping trips (710 trips total), then manually collected Chain B prices for purchased items in the purchase week and the next two weeks. The final evidence base includes about 8,500 distinct purchased items and more than 25,000 manually collected competitor price observations, plus Chain A profit margin data. Profitability analyses use 52-week 2002 data for the 255 surveyed households and for 21,963 loyalty-card households from two stores.",
+  "focal_constructs": [
+    "spatial price search",
+    "temporal price search",
+    "spatiotemporal cherry-picking",
+    "price search effectiveness",
+    "household-store geographic configuration",
+    "opportunity cost of time",
+    "market mavenism",
+    "retailer profit margins"
+  ],
+  "main_findings": [
+    "Household-store geography and opportunity cost are strong predictors of stated search strategy and observed price search effectiveness.",
+    "Observed savings differ by strategy: incidental households capture about 54% of maximum potential savings, spatial about 66%, temporal about 68%, and spatiotemporal about 76%.",
+    "Retail margins are highest for incidental and lowest for spatiotemporal searchers, but even heavy searchers are profitable on average; temporal searchers generate the highest weekly profits, and extreme negative-margin cherry-pickers are rare (about 1.2%) with minimal aggregate impact."
+  ],
+  "one_line_summary": "Using matched survey, purchase, competitor-price, and margin data from a grocery duopoly, the paper shows that geography and opportunity cost shape temporal and spatial search, that spatiotemporal search captures the most savings, and that cherry-picking harms retailer profits less than commonly believed.",
+  "relation_to_prior_work": "extends prior empirical work that treated spatial search and temporal promotion response as separate streams by analyzing both dimensions jointly at the household level. It also extends scanner-based research by combining attitudinal survey measures, full-basket competitor prices, and household-level margin outcomes.",
+  "research_gap": "Prior empirical research analyzed spatial and temporal price search separately, so evidence was missing on joint household spatiotemporal search and its retailer-profit consequences. The authors also argue that survey-only or scanner-only data cannot jointly capture attitudes, full-basket savings opportunities, competitor prices over time, and household-level margins.",
+  "research_question": "What predicts whether a household follows incidental, temporal, spatial, or spatiotemporal price search in grocery shopping? How much savings do these search strategies realize relative to maximum available savings in the market? How do different search strategies affect retailer margins and profits?"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the citing paper, Andrews et al. (2002) is tied to a specific modeling decision rather than listed as generic background. The authors explicitly cite its result that discrete and continuous heterogeneity can fit similarly, then use that point to justify adopting a latent-class (discrete heterogeneity) demand model. This choice feeds directly into their estimation and equilibrium simulation framework. The citing paper does not extend or dispute Andrews et al., so the link is substantive methodological support.",
+  "relation_description": "The citing paper uses Andrews et al. (2002) as methodological evidence that discrete and continuous heterogeneity representations can perform similarly in logit choice settings. It relies on that evidence to justify using a latent-class specification for computational tractability in its CDI strategy model.",
+  "relation_type": "other"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides an empirical investigation of promotional bundle effects in consumer packaged goods under mixed bundling where consumers compose their own bundles.",
+    "It develops adapted individual-level incidence, quantity, and choice models for bundle promotions, including quantity-contingent choice regimes and within-bundle leverage in a nested choice structure.",
+    "It uses model-based simulations to compare bundle and per-unit promotions and offers tentative managerial guidelines for bundle design."
+  ],
+  "context": "The empirical setting is the snack chip category, where manufacturers and retailers run bundle promotions such as buying a required number of units from a designated SKU set for a discount. The study analyzes shopper behavior across multiple store chains using countrywide consumer panel data.",
+  "design_and_data": "The authors combine GfK consumer panel purchases with detailed promotion information from Publi Info for 1999-2000. The analysis includes 1181 panelists, 116885 shopping trips, 31745 SKU purchases, 220 SKUs, 17 brands, and 8 store chains. They estimate random-coefficient individual-level models: a two-regime choice model (MNL when total quantity is below bundle requirement, nested MNL when it is met), a zero-truncated Poisson quantity model, and a binomial logit incidence model, using simulated maximum likelihood. They then simulate alternative bundle scenarios and compare resulting SKU, brand-line, and category sales with per-unit promotions.",
+  "focal_constructs": [
+    "promotional bundling",
+    "bundle discount",
+    "bundle range",
+    "bundle quantity requirement",
+    "switching behavior",
+    "purchase incidence",
+    "leverage effect",
+    "discount communication effect"
+  ],
+  "main_findings": [
+    "Bundle promotions are much stronger at inducing switching across SKUs and brands than at increasing total category sales.",
+    "When shoppers buy enough to qualify for the bundle, bundle discounts increase bundle-item choice and bundle items reinforce each other (leverage effect); shoppers below the requirement still show positive switching toward bundle items (discount communication effect).",
+    "Quantity requirements are pivotal: they create an inverted-U impact on purchase quantity and a negative impact on incidence, so bundles can outperform per-unit promotions for SKU or brand-line sales when requirements are low, but are generally weaker for category sales."
+  ],
+  "one_line_summary": "Using snack-chip panel data and adapted incidence-quantity-choice models, the paper shows that bundle promotions mainly drive switching through leverage and discount communication effects while quantity requirements limit category-level gains.",
+  "relation_to_prior_work": "extends price-promotion and bundling research by modeling bundle promotions as a distinct mechanism in packaged goods rather than treating them as standard per-unit discounts or regular-pricing bundle decisions typical in durables/services.",
+  "research_gap": "Prior promotion research mainly examines per-unit discounts and does not analyze bundle promotions as a separate promotional form. Existing bundling and multiunit-packaging work largely focuses on regular pricing, durables/services, or single-item packs, leaving limited empirical evidence on mixed bundle promotions in packaged goods.",
+  "research_question": "How do bundle promotions in packaged goods affect consumers' choice, purchase quantity, and purchase incidence, and through which mechanisms do these effects arise? How do bundle characteristics - discount, range, and quantity requirement - translate into net sales effects at the SKU, brand-line, and category levels, relative to traditional per-unit promotions?"
+}

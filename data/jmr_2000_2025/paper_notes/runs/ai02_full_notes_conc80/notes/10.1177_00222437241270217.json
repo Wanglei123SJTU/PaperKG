@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper challenges the industry assumption that product purchase and add-on insurance purchase are independent by showing that insurance pricing feeds back into core product demand.",
+    "It introduces relative insurance price as a cross-product risk signal and shows that price can signal perceived risk, not only quality or sacrifice.",
+    "It identifies boundary conditions for the insurance price risk signal: objective risk information and the presence of other optional add-ons attenuate the effect."
+  ],
+  "context": "The paper studies optional add-on insurance offered with core products or services by retailers, service providers, and manufacturers. Empirical settings include leisure activity bookings (canyoning/rafting) and consumer electronics purchases in U.S. and European retail data.",
+  "design_and_data": "The authors run a multi-study program: an open-ended pilot survey (N=136), an analysis of the ISMS durable goods transaction dataset from a major U.S. electronics chain (48,376 observations; product-level purchase models on 5,131 products), three preregistered online experiments (N=411, N=399, N=188), and a field study with a major European online electronics retailer. The field dataset covers 10.97 million browser sessions and 80.61 million page views, with analyses including samples of 11,467,648 purchase decisions and 936,499 product-day observations. They use ANOVA and mediation analyses in experiments, plus binary logit, Poisson, and zero-inflated Poisson models in transactional data.",
+  "focal_constructs": [
+    "relative insurance price",
+    "insurance price as risk signal",
+    "perceived product risk",
+    "core product purchase decision",
+    "objective risk information",
+    "optional add-ons",
+    "add-on insurance"
+  ],
+  "main_findings": [
+    "Consumers infer higher product risk from higher insurance-to-product price ratios, and perceived risk mediates the effect of relative insurance price on product purchase intention.",
+    "Higher relative insurance prices are associated with lower core product purchase outcomes in both experiments and transactional data.",
+    "Objective risk information weakens the insurance price risk signal, and offering additional optional add-ons weakens the negative link between relative insurance price and product purchase."
+  ],
+  "one_line_summary": "Across survey, experiments, and field/transaction data, the paper shows that higher relative add-on insurance prices signal higher product risk to consumers and reduce core product purchases, with attenuation when objective risk information or other add-ons are present.",
+  "relation_to_prior_work": "extends add-on insurance research by shifting attention from drivers of insurance uptake to how insurance attributes, especially relative price, affect core product purchase decisions. It also extends price-signaling research by proposing a cross-product signal in which insurance price communicates perceived risk of the underlying product.",
+  "research_gap": "Prior add-on insurance research largely focuses on willingness to buy insurance and often treats product and insurance choices separately, while practice assumes the product decision is independent of the insurance offer. The paper also argues that price-signaling research has not examined cross-product effects in which one product's price (insurance) signals risk about another product.",
+  "research_question": "Do consumers interpret add-on insurance price, relative to the core product price, as a cross-product risk signal about the underlying product? If so, does this inferred risk reduce product purchase likelihood, and under what conditions is this effect weaker (e.g., objective risk information or other add-ons)?"
+}

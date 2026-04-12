@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited 2020 study explicitly employs Gaussian copula controls for endogeneity, which directly overlaps with the citing 2025 paper’s core topic of extending IV-free Gaussian-copula correction (2sCOPE). Because the citing paper is about limitations and improvements of existing copula-based approaches, this citation is plausibly method-relevant rather than a clearly incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

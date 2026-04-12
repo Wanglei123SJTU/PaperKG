@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper models consumers’ search phrases jointly with channel visits and latent purchase states, while the cited paper analyzes search-engine click behavior and explicitly links click heterogeneity to latent involvement/purchase-funnel stages. This is a strong conceptual overlap (search behavior + purchase-stage interpretation), so the citation could be foundational/mechanism-relevant rather than incidental, even though the match evidence is only a DOI-level bibliography match.",
+  "triage_decision": "keep_for_relation_judgment"
+}

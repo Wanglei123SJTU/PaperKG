@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces and defines differential price framing (DPF) as a distinct price presentation format for premium upgrades.",
+    "Identifies pricing focalism as the mechanism, where explicit incremental prices shift attention to the smaller difference amount and alter expensiveness perceptions and choice.",
+    "Shows that DPF is especially effective under heuristic decision processes and provides straightforward managerial guidance for pricing strategy."
+  ],
+  "context": "The paper studies consumer choices between standard and premium options in retail-like settings, including computer monitors, newspaper subscriptions, bicycles, and wine-glass sets, with supplemental tests in flights, train routes, and hard drives. Participants were mainly undergraduate lab samples plus online adult panels (Prolific Academic and Amazon Mechanical Turk).",
+  "design_and_data": "The article reports four between-subject experiments plus six supplemental studies. Study 1 (N=546) manipulates IPF vs DPF vs DPF+total price in a monitor choice; Study 2 (N=253) compares IPF, DPF, and differential quality framing in an incentive-compatible newspaper subscription choice; Study 3 (N=221) uses a 2x2 framing by buyer/seller design for bicycle transactions; Study 4 (N=571, Prolific) uses a 2x3 framing by processing-speed manipulation in a wine-glass choice. Outcomes include premium-option choice and perceived expensiveness, analyzed with logistic regression and mediation/moderated-mediation models, with supplemental robustness checks for bad deals, easy computations, and other boundary conditions.",
+  "focal_constructs": [
+    "differential price framing (DPF)",
+    "inclusive price framing (IPF)",
+    "pricing focalism",
+    "perceived expensiveness",
+    "premium option choice share",
+    "heuristic versus systematic processing",
+    "buyer versus seller role"
+  ],
+  "main_findings": [
+    "DPF increased the proportion choosing premium options relative to IPF, including when the total premium price was shown alongside the differential amount.",
+    "Perceived relative expensiveness mediated the effect: DPF made the premium option seem less expensive relative to the standard option, while differential quality framing did not produce the same choice shift.",
+    "The pattern reversed for sellers and was mitigated under slow, effortful processing, and supplemental studies showed robustness to bad deals and easy-to-compute price differences."
+  ],
+  "one_line_summary": "Across four experiments and six supplemental studies, framing a premium option as an incremental price difference (e.g., \"$60 more\") increased premium choice share versus total-price framing by lowering perceived expensiveness, especially under heuristic processing.",
+  "relation_to_prior_work": "extends research on price presentation by distinguishing DPF for voluntary upgrades from classic partitioned pricing and add-on pricing focused on mandatory surcharges. It refines prior mechanism accounts by emphasizing representational focalism and perceived expensiveness rather than only base-price anchoring or mental-accounting bundling predictions.",
+  "research_gap": "Prior literature on partitioned and add-on pricing mainly examines splitting mandatory charges and often centers on attention to base prices. The paper addresses the less examined case of framing voluntary premium upgrades as explicit price differences and tests the mechanism behind resulting choice shifts.",
+  "research_question": "Does expressing a premium option as an explicit incremental price difference (DPF) increase selection of higher-priced, higher-quality options compared with inclusive total-price framing (IPF)? The paper also asks whether this effect is driven by lower perceived expensiveness due to pricing focalism, and whether it depends on decision effort and transaction role."
+}

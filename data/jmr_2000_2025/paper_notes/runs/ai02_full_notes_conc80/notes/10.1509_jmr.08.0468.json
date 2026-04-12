@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides managerial evidence that click value is position dependent, so top sponsored-search positions do not necessarily maximize advertiser revenue or profit.",
+    "Highlights potential inefficiencies in current sponsored-search auction ranking/pricing rules that rely heavily on click-oriented metrics, and suggests value from more conversion-oriented mechanisms.",
+    "Offers behavioral insight that buying consumers, especially on more specific queries, are more likely to convert from lower positions, consistent with a recency-bias account for immediate purchases."
+  ],
+  "context": "The paper studies sponsored search advertising auctions (Google) where advertisers bid on keywords and pay per click. The empirical setting is online retail search advertising campaigns, with a main field experiment for a pet-products retailer and a robustness analysis for a specialty women's apparel online retailer.",
+  "design_and_data": "The main evidence is a field experiment in which bids were randomized for 68 phrase/exact-match keywords to rotate ad positions, while ad copy and landing pages were held fixed. The main panel has 3,187 daily keyword observations over 45 days (June-July 2009) with impressions, clicks, orders, position, and cost, and analysis focuses on positions 1-7 due sparse data below that range. The authors estimate a hierarchical Bayesian simultaneous system for CTR, conversion, and ad position to account for keyword heterogeneity and position endogeneity (triangular system, MCMC estimation). Robustness checks include holdout prediction tests, alternative position specifications, spillover checks, and a second retailer data set (225 keywords, 90 days).",
+  "focal_constructs": [
+    "sponsored search ad position",
+    "click-through rate",
+    "conversion rate",
+    "keyword specificity",
+    "cost per click",
+    "advertiser revenue and profit",
+    "auction ranking endogeneity",
+    "recency bias"
+  ],
+  "main_findings": [
+    "CTR decreases as ad position moves down the sponsored-results list.",
+    "Within the top positions studied, conversion rate increases with lower placement (higher numeric position), and this increase is stronger for more specific keywords.",
+    "Because costs rise disproportionately at top slots, the top position is often not revenue- or profit-maximizing; lower positions frequently yield higher profit."
+  ],
+  "one_line_summary": "Using randomized-bid field data and a hierarchical Bayesian simultaneous model, the paper shows that although higher sponsored-search positions get more clicks, lower top-page positions can deliver higher conversion and profit, especially for specific keywords.",
+  "relation_to_prior_work": "extends prior sponsored-search research by jointly modeling click-through, conversion, and position assignment in a field experiment focused on top slots, and by showing that CTR-based ranking intuition can misstate advertiser value when conversion and cost are incorporated.",
+  "research_gap": "The paper states that few formal studies had jointly evaluated ad position effects on clicks, conversions, and advertising cost, even though bidding decisions are driven by assumed position value. It also highlights conflicting prior theory and evidence on how conversion rate varies with position, with limited controls for keyword heterogeneity and limited focus on differences among top slots.",
+  "research_question": "How does sponsored-search ad position affect advertiser revenue and profit once both click-through and post-click conversion behavior are considered together with position-dependent costs? Do top-ranked positions actually maximize transactional performance across keywords, particularly when keyword specificity differs?"
+}

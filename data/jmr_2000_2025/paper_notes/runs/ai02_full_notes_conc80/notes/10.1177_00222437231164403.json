@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops a framework to quantify fashion choices by extracting compatibility and distinctiveness from images with deep learning and embedding these features in a dynamic structural choice model.",
+    "It provides a first systematic micro-level empirical analysis of how fast-fashion copycats affect high-end brands in a social media setting with consumer-level posting behavior.",
+    "It identifies a novel market expansion effect of copycats, with one static mechanism (mix-and-match affordability) and two dynamic mechanisms (value enhancement via popularity and cost reduction via sponsorship opportunities), and uses these to evaluate copyright-policy counterfactuals."
+  ],
+  "context": "The empirical setting is lookbook.nu, a fashion-specific social media platform where users post outfit photos, tag item brands, and receive likes from peers. The study focuses on how fast-fashion, designer, and mega couture items are chosen and combined in users' posted looks.",
+  "design_and_data": "The authors collect platform history from August 2013 to August 2017 for a random sample of 10,262 registered users (9,915 active users), yielding 64,681 fashion posts with images, brand tags, timestamps, and likes. They extract clothing and user-appearance features from images using computer vision and deep learning, including compatibility, distinctiveness, facial attractiveness, BMI, and predicted gender. They estimate a forward-looking dynamic structural model of posting, brand choice, and style choice with user heterogeneity in a hierarchical Bayesian framework, with weekly periods and popularity measured by cumulative likes. They run counterfactual copyright-ban simulations using similarity thresholds informed by external original-copycat image pairs from Fashion Copycats and Diet Prada.",
+  "focal_constructs": [
+    "fast-fashion copycats",
+    "high-end brand popularity",
+    "cannibalization effect",
+    "market expansion effect",
+    "mix-and-match mechanism",
+    "style compatibility",
+    "style distinctiveness",
+    "social media popularity (cumulative likes)"
+  ],
+  "main_findings": [
+    "Fast-fashion copycats have both a negative cannibalization effect and a positive market expansion effect on high-end brands in social media posting choices.",
+    "The market expansion effect operates through three mechanisms: a static mix-and-match affordability channel and two dynamic channels in which popularity raises posting value and lowers future costs (e.g., sponsorship-related cost reduction).",
+    "Counterfactuals show threshold-dependent policy effects: banning only extremely similar copycats increases mega couture posting, but banning moderately similar copycats decreases posting overall and reduces mega couture posting."
+  ],
+  "one_line_summary": "Using lookbook.nu data and a dynamic structural model with deep-learning image features, the paper shows that fast-fashion copycats can both hurt and help high-end brand popularity on social media, with policy outcomes depending on how strictly similarity is regulated.",
+  "relation_to_prior_work": "extends prior copycat research by estimating micro-level consumer brand-style choices in fashion social media, rather than relying only on predefined simulation mechanisms or aggregate outcomes. It introduces and empirically separates a market expansion effect that the authors position as distinct from the promotional effect in counterfeit and piracy studies.",
+  "research_gap": "The paper argues that the effect of fashion copycats on high-end brands is empirically unclear. It states that progress has been limited because fashion is hard to quantify and consumer-level data on fashion choices have been scarce.",
+  "research_question": "How do fast-fashion copycats affect the popularity of high-end fashion brands in a social media environment? The paper asks whether copycats mainly cannibalize high-end brands or can also expand their popularity, through which static and dynamic mechanisms, and how bans at different copycat-similarity thresholds would change outcomes."
+}

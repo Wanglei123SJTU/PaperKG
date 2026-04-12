@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is explicitly used as the endogeneity-correction method in the citing paper's model, not as a passing literature mention. The authors state they use a control function approach following Petrin and Train, run a first-stage regression for email contacts, and include residual controls in the HMM transition and purchase equations. They also discuss the significance of correction terms, indicating this choice materially affects estimation and interpretation. This makes the citation methodologically central in an applied sense.",
+  "relation_description": "The citing paper applies Petrin and Train's control function approach to correct potential endogeneity of email-contact intensity. It operationalizes the method via a first-stage email-contact equation and residual inclusion in subsequent behavioral equations.",
+  "relation_type": "applies"
+}

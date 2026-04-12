@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces \"emotional accounting,\" a variant of mental accounting in which money is categorized by the feelings it evokes (an affective tag).",
+    "Identifies and tests two coping strategies for negatively tagged windfalls: hedonic avoidance and laundering through utilitarian or virtuous spending.",
+    "Shows that adding affective tags to mental accounting explains windfall spending patterns that deviate from the usual prediction of frivolous windfall consumption."
+  ],
+  "context": "The paper examines consumer spending of unexpected monetary gains (windfalls) under different emotional receipt circumstances. The evidence comes from undergraduate and online-panel experiments, including both hypothetical spending scenarios and real-money choice tasks.",
+  "design_and_data": "The authors run seven experiments that manipulate whether a windfall is received under positive or negative circumstances and then observe spending choices. Studies 1-3 and 5 use between-subject vignette designs (mostly undergraduate participants) with unipolar measures of positive and negative feelings about the money, hedonic versus avoidant or utilitarian choices, and in some studies willingness to pay. Study 2 adds a condition where a negative event is unrelated to the money to test incidental affect versus integral affective tags. Studies 4a and 4b replicate laundering with real cash windfalls and real purchases, and Studies 6-7 use online panels to test option framing (hedonic vs utilitarian focus) and reappraisal effects.",
+  "focal_constructs": [
+    "emotional accounting",
+    "mental accounting",
+    "affective tags",
+    "windfalls",
+    "hedonic avoidance",
+    "laundering",
+    "utilitarian versus hedonic spending",
+    "reappraisal coping"
+  ],
+  "main_findings": [
+    "Negative receipt circumstances created more negative feelings about the windfall and increased avoidance of hedonic purchases compared with positive circumstances.",
+    "When utilitarian or virtuous options were available, participants with negatively tagged windfalls were more likely to choose those options (laundering), and this replicated with real money.",
+    "Laundering was associated with reduced negative feelings about the money, whereas avoidance showed little short-run emotional improvement; effects depended on affect tied to the money and weakened when alternative coping via reappraisal was provided."
+  ],
+  "one_line_summary": "Across seven experiments, the paper shows that windfalls received under negative circumstances are affectively tagged and then spent less hedonically and more on utilitarian or virtuous options through hedonic avoidance and laundering.",
+  "relation_to_prior_work": "extends mental accounting by adding an affective tagging mechanism that links feelings about money to spending choices. It separates this mechanism from incidental affect and from source-only income accounting by showing that negative feelings integral to a windfall shift behavior toward avoidance or laundering.",
+  "research_gap": "Mental accounting predicts that windfalls are typically spent readily and frivolously, yet windfalls are sometimes spent reluctantly or virtuously. The authors argue that prior work had not directly examined how feelings about the money itself influence these spending decisions.",
+  "research_question": "Do consumers attach affective tags to money based on the circumstances in which they receive it, and do these tags influence how windfalls are spent? Specifically, when a windfall is negatively tagged, do consumers cope by avoiding hedonic spending and by laundering the money through utilitarian or virtuous purchases?"
+}

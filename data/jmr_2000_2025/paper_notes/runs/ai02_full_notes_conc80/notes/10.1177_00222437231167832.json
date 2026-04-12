@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The authors introduce the uptrend effect: a truthful messaging strategy that highlights increasing engagement in a healthy but descriptively nonnormative behavior without stating an objective descriptive norm.",
+    "They claim new insight into subjective norm formation by showing that trajectory information can increase inferred descriptive normativity and, in turn, behavior.",
+    "They provide managerial guidance by identifying boundary conditions and showing stronger performance than tested dynamic- and descriptive-norm message formats in key health contexts."
+  ],
+  "context": "The paper studies U.S. health-promotion messaging in domains where recommended behaviors are often minority behaviors, especially vegetable and fruit consumption and physical exercise. The practical setting is social marketing and policy communication aimed at reducing preventable disease.",
+  "design_and_data": "The authors report seven experiments across lab, online, and field settings. Study 1 (n=279 undergraduates) used a real snack choice (vegetables vs. crackers), and Study 2 was a field study on a college campus (n=404 passersby) measuring whether people took free apples. Online MTurk/Prolific studies tested mechanism and moderators, including a Republican-only sample in Study 4 and a condition adding explicit low descriptive-norm information in Study 5. Study 6a used Facebook split-test ads (11,230 impressions; click-through rate outcome), and Study 6b was a preregistered Prolific experiment (n=1,202) comparing uptrend, dynamic norm, descriptive norm, and control messages.",
+  "focal_constructs": [
+    "uptrend messaging",
+    "descriptive norm perceptions",
+    "inferred normativity",
+    "health protective behaviors",
+    "reference group similarity",
+    "explicit descriptive norm disclosure",
+    "dynamic norm messaging"
+  ],
+  "main_findings": [
+    "Uptrend messaging increased healthy behavior and intentions, including higher real vegetable choice in the lab and higher apple-taking in a field setting.",
+    "The uptrend effect was mediated by higher perceived descriptive normativity of the target behavior, and this mediation persisted when alternative mediators were included.",
+    "The effect was attenuated when the increase was attributed to a dissimilar group and when explicit low descriptive-norm information was added, and uptrend messaging outperformed tested dynamic- and descriptive-norm approaches."
+  ],
+  "one_line_summary": "Across seven experiments, highlighting an upward trend in still-minority healthy behaviors increased inferred descriptive normativity and raised diet and exercise engagement, with identifiable boundary conditions.",
+  "relation_to_prior_work": "introduces a trend-based norm intervention that differs from standard descriptive norm messaging and from dynamic norm implementations that explicitly provide prevalence rates. The paper positions the mechanism as an inference-based route to norm perception formation rather than a response to directly stated objective norms.",
+  "research_gap": "Because many health-protective behaviors are descriptively nonnormative, traditional descriptive-norm messages are difficult to use truthfully and can discourage behavior when low prevalence is stated. The paper argues that prior trend-based norm research typically includes explicit descriptive norm information, leaving open whether trend information alone can shift norm perceptions and behavior.",
+  "research_question": "How can marketers encourage healthy behaviors when unhealthy behaviors are the descriptive norm? The paper tests whether uptrend messaging that highlights increasing engagement over time, without stating current prevalence, can increase inferred descriptive normativity and thereby increase health-protective behavior."
+}

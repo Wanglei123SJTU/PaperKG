@@ -1,0 +1,4 @@
+{
+  "rationale": "Keep: the two papers are tightly coupled in topic and empirical setup, both using wireless telecom churn prediction with the Teradata Center data and the same validation sample structure/metrics (top-decile lift, Gini; e.g., 51,306 and 100,462 validation sizes appear in both notes). The cited paper appears to be a direct benchmark/context source for modeling accuracy in this exact domain, and the DOI match (10.1509/jmkr.43.2.204) confirms it is an intentional reference rather than incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Identifies option attractiveness as a key moderator of how assortment size affects consumer choice among retailers.",
+    "Proposes and documents a concave assortment size-option attractiveness relationship based on diminishing marginal benefits of additional options.",
+    "Shows boundary conditions through cost-benefit trade-offs by manipulating decision focus, assortment organization, and task complexity."
+  ],
+  "context": "The paper studies consumer choice between retailers that offer different assortment sizes across multiple categories, including sandwiches, data CDs, dating services, vitamin water, jam, chocolates, and household products. It covers both simple store-choice settings and an online-style search setting in which consumers can inspect assortments before choosing.",
+  "design_and_data": "The evidence is from eight experiments. Experiment 1 is an incentive-compatible field-like choice with executive education participants (N=60) choosing between sandwich shops with different assortment sizes (9 vs. 38) under high versus low attractiveness information, then receiving the chosen sandwich. Experiments 2-6c use randomized scenario or online tasks across categories with sample sizes N=244, 141, 85, 94, 134, 82, and 91, measuring assortment choice and, in some studies, attractiveness ratings and search behavior. Manipulations include attractiveness cues (star ratings, preference fit, popularity), relative size differences (e.g., 9 vs. 18 or 54), and decision-cost conditions (assortment vs. option focus, ordered vs. unordered sets, easy vs. difficult tasks).",
+  "focal_constructs": [
+    "assortment size",
+    "option attractiveness",
+    "consumer choice among retailers",
+    "perceived benefits of variety",
+    "cognitive decision costs",
+    "diminishing marginal value",
+    "decision difficulty",
+    "information search"
+  ],
+  "main_findings": [
+    "Across studies, preference for larger assortments declines as option attractiveness rises, and in multiple studies the smaller assortment becomes the majority choice.",
+    "Results support a diminishing marginal value pattern: the larger assortment's perceived attractiveness advantage is smaller when options are highly attractive, and the attractiveness effect is stronger when the size gap between assortments is larger.",
+    "The assortment-attractiveness effect is stronger when decision costs of the larger assortment are salient or high (option-focused justification, unordered sets, difficult tasks), and it is not explained by lower search effort in high-attractiveness conditions."
+  ],
+  "one_line_summary": "Across eight experiments, the authors show that higher option attractiveness reduces and can reverse consumers' preference for larger retailer assortments because marginal benefits of extra options diminish relative to decision costs.",
+  "relation_to_prior_work": "extends prior assortment-size research by reconciling mixed findings that larger assortments can either help or hurt choice, showing that outcomes depend systematically on option attractiveness. It refines process explanations by linking the effect to a diminishing marginal value logic and to the salience of decision costs.",
+  "research_gap": "Prior literature offered conflicting predictions about whether larger assortments increase or decrease retailer choice and did not clearly specify when each pattern should occur. The paper addresses this gap by testing option attractiveness as the contingency and by examining how benefits of variety trade off against cognitive costs.",
+  "research_question": "How does assortment size influence consumers' choice among retailers when the options in those assortments are more versus less attractive? The paper also asks whether this relationship follows a diminishing-marginal-value pattern and whether it depends on the perceived costs of choosing from larger assortments."
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Agarwal et al. (2011) in its model-development section on extraneous factors, not just in a generic literature list. It summarizes that paper's key result about ad position and conversion/profit patterns, then states it will model website position effects in a way consistent with prior empirical findings. This citation therefore helps justify and shape a specific control structure in the citing paper's utility model and interpretation of ranking effects.",
+  "relation_description": "The citing paper applies insights from Agarwal et al. (2011) on position effects in online search settings to motivate and specify how hotel listing position should be controlled in its own choice model. It uses that prior evidence as empirical guidance for assumptions about how strong position effects are across top versus lower ranks.",
+  "relation_type": "applies"
+}

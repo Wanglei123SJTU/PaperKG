@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "Provides a conceptual and empirical examination of donation frames (minimum vs maximum total donation limits) in cause-related marketing, a topic the authors state has seen little or no prior direct research.",
+    "Shows a counterintuitive pattern: in minimum-frame campaigns, lower stated total donation limits can generate stronger consumer response than higher limits, while the pattern reverses for maximum frames in key tests.",
+    "Identifies perceived personal contribution as the main process and cause importance as a boundary condition, and argues that highlighting frame and amount information can improve campaign effectiveness under the right combination."
+  ],
+  "context": "The paper examines cause-related marketing campaigns where a firm donates part of sales and may communicate a minimum or maximum total donation limit. Evidence comes from campaign scenarios and a field setting, including Fage yogurt, Bank of America (RED) on Amazon, a farmers market food stand, and a shampoo campaign context.",
+  "design_and_data": "The authors run four experiments. Study 1 (N=223 students) uses a 2 (donation amount: low vs high) x 2 (donation frame: minimum vs maximum) plus control design and measures purchase likelihood for a yogurt campaign. Study 2 (N=934 MTurk) replicates with a real Bank of America (RED) campaign and measures purchase likelihood and perceived personal contribution to test mediation; Study 3 is a field experiment at a farmers market stand (N=450 customers) using actual product choice behavior. Study 4 (N=213 MTurk) uses a 2 x 2 x 2 design adding manipulated cause importance and measures willingness to pay; the paper also reports a single-paper meta-analysis across studies.",
+  "focal_constructs": [
+    "cause-related marketing campaigns",
+    "donation frame (minimum vs maximum)",
+    "total donation amount",
+    "perceived personal contribution",
+    "cause importance",
+    "consumer purchase likelihood"
+  ],
+  "main_findings": [
+    "For minimum-frame campaigns, lower stated total donation amounts produced more favorable consumer responses than higher amounts across intentions, field purchase behavior, and willingness to pay.",
+    "For maximum-frame campaigns, higher stated total donation amounts tended to produce more favorable responses than lower amounts, with stronger evidence in Study 2 and among high-importance consumers in Study 4, but less consistency across all studies.",
+    "Perceived personal contribution mediated the frame-by-amount effect on purchase intentions, and the interaction was observed when consumers viewed the focal cause as highly important."
+  ],
+  "one_line_summary": "Across four studies, the paper finds that in cause-related marketing a low minimum donation limit can outperform a high minimum because it raises perceived personal contribution, while maximum-frame results generally favor higher limits but are less consistent.",
+  "relation_to_prior_work": "extends prior cause-related marketing and CSR research by introducing donation-limit framing (minimum vs maximum) as a campaign design factor jointly analyzed with stated donation amount. It also links this framing choice to the personal-contribution motive emphasized in prosocial behavior research.",
+  "research_gap": "The authors argue that although many real campaigns specify minimum or maximum total donation limits, little or no prior research has conceptually or empirically tested how these donation frames and amounts jointly affect consumer response. They also note managerial uncertainty, with firms often relegating such information to fine print.",
+  "research_question": "How do donation frame (minimum vs maximum) and stated total donation amount jointly influence consumer responses to cause-related marketing campaigns? Do these effects arise because consumers want to feel they personally contribute to the cause, and are they contingent on how important the cause is to consumers? The paper also examines whether explicitly communicating donation frame and amount can improve response versus not providing that information."
+}

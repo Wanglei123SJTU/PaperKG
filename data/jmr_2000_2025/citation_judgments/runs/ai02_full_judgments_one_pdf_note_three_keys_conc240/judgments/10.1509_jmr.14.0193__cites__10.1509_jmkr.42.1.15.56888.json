@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in the methodology section to justify a concrete modeling decision: the authors restrict simulated promotion calendars to conditions within the observed data range to avoid the Lucas critique. This is not just background name-dropping, because it directly shapes how counterfactuals are constructed and how validity is argued. Although the citation appears briefly, its role in motivating simulation design is clear and functional.",
+  "relation_description": "The citing paper applies Van Heerde et al. (2005)'s Lucas-critique argument to its own empirical simulation setup. Specifically, it uses that work to justify limiting policy simulations to in-range calendar changes for credible inference.",
+  "relation_type": "applies"
+}

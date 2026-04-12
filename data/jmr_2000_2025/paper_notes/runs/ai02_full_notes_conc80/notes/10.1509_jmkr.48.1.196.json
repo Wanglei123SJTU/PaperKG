@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper claims to reconcile two literatures by showing that the usual bonus-pack preference depends on whether the food is a virtue or a vice.",
+    "It claims to identify and test anticipated guilt and guilt-reducing justification as antecedents of self-rationing in vice-food promotion choice.",
+    "It claims practical guidance that promotion-food congruency matters: price discounts are more effective for vice foods, whereas bonus packs are more effective for virtue foods."
+  ],
+  "context": "Consumer food choices in healthy versus unhealthy categories, including products such as chocolates, raisins, cake, fruit salad, muffins, and cookies. Evidence comes from a Starbucks intercept survey and controlled lab and simulated shopping experiments with promotional offers.",
+  "design_and_data": "After a preliminary Starbucks intercept survey (n=98), the authors run five experiments with students and local participants. Experiment 1 (n=120) uses identical chocolates described as healthy versus tasty to test promotion choice and codes thought protocols for guilt-consistent reasoning; Experiment 2 (n=323) uses a 2 x 3 between-subject design (food type x promotion/control) and manipulates reference quantity to hold offered quantity constant. Experiment 3 (n=109) measures dispositional consumption guilt in a simulated shopping task, and Experiment 4 (n=160) manipulates justification by having either the participant or a friend make the choice, including an indifference option. Experiment 5 (n=199) manipulates guilt via a prior donation task and measures subsequent willingness to buy vice and virtue foods under price discount versus bonus pack.",
+  "focal_constructs": [
+    "price discount promotions",
+    "bonus pack promotions",
+    "virtue food consumption",
+    "vice food consumption",
+    "anticipated consumption guilt",
+    "purchase justification",
+    "self-rationing"
+  ],
+  "main_findings": [
+    "Consumers were more likely to choose bonus packs for virtue foods and price discounts for vice foods, and this pattern persisted when offered quantity was held constant via a reference-quantity manipulation.",
+    "Guilt-consistent thoughts mediated the effect, and higher dispositional consumption guilt increased preference for price discounts over bonus packs for vice foods but not for virtue foods.",
+    "When justification pressure was reduced (friend chooses) or guilt was reduced through a prior donation task, preference for price discounts on vice foods diminished, while virtue foods continued to favor bonus packs."
+  ],
+  "one_line_summary": "Across five experiments, consumers preferred bonus packs for virtue foods but price discounts for vice foods because price discounts better justified vice purchases by reducing anticipated guilt.",
+  "relation_to_prior_work": "extends prior sales-promotion framing research that reports a general bonus-pack advantage by showing a reversal for vice foods. It also connects and builds on self-rationing work by specifying guilt and justification as mechanisms that shape responses to promotion format in food choices.",
+  "research_gap": "Prior promotion research largely suggests a general preference for bonus packs over price discounts, without clearly accounting for whether the product is a virtue or a vice food. The paper addresses the unresolved mechanism of how anticipated guilt and justification may alter promotion preference, especially for vice foods.",
+  "research_question": "How do price discount versus bonus pack promotions affect consumer preference for virtue (healthy) and vice (unhealthy) foods? Do guilt and purchase justification explain why vice foods often show a different promotion preference than the general bonus-pack preference reported in prior work?"
+}

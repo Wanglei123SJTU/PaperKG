@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Lim and Chen (2014) as specific prior evidence that group-based commissions can outperform individual commissions under some conditions, helping justify why group incentives deserve further design research. In the related-literature section, it then positions its own contribution against that prior line by shifting from individual-vs-group comparisons to design choices within group commissions (average vs maximum output rules) for heterogeneous teams. The citation is not just a generic list item; it supports the paper's framing and contribution claim even though its methods are not directly reused.",
+  "relation_description": "The citing paper extends the research line represented by Lim and Chen (2014): after prior work showed when group incentives can beat individual incentives, this paper studies how to design group commission rules themselves to improve effort when team members differ in ability.",
+  "relation_type": "extends"
+}

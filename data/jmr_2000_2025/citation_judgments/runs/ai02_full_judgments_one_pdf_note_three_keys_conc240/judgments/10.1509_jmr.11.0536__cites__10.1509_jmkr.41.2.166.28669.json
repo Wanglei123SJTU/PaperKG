@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in the methods section to justify a concrete modeling choice: adopting a Bayesian estimation approach to handle incomplete and unevenly spaced panel perception data. This is a specific functional use tied to how the authors estimate their SPI learning model, not just a generic literature-list mention. Although the substantive domain differs, the citation supports and informs the implementation of the citing paper's estimation strategy.",
+  "relation_description": "The citing paper applies a methodological lesson from Van Heerde, Mela, and Manchanda (2004), using it as precedent that Bayesian estimation is appropriate for missing and irregularly timed observations. It transfers that estimation logic to a different retail-pricing context (store price image formation).",
+  "relation_type": "applies"
+}

@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "Introduces psychological ownership of borrowed money as a new construct in consumer finance.",
+    "Demonstrates both individual-level and contextual-level variation in psychological ownership of borrowed money, and shows that it predicts willingness to borrow above established individual differences and demographics.",
+    "Shows that psychological ownership of borrowed money is malleable, such that lower-ownership debt language can reduce consumers' propensity to borrow."
+  ],
+  "context": "The paper studies consumer debt decisions for discretionary purchases, with a primary comparison between credit products (credit cards or credit lines) and loans. Evidence is drawn from online participant studies and U.S. online search behavior.",
+  "design_and_data": "Across six main studies, the authors use correlational measurement, Google search data, and randomized experiments. Study 1 (Prolific) measures psychological ownership of borrowed money and many related constructs, then predicts willingness to use credit cards and personal loans plus self-reported past borrowing behavior. Study 2 analyzes 52 weeks of U.S. Google Trends relative search volume for pretested high- versus low-psychological-ownership phrases paired with credit-card versus loan terms. Studies 3a-5 experimentally manipulate debt type labels and wording, use visual and scale-based ownership measures, and test mediation/moderation effects on willingness to borrow.",
+  "focal_constructs": [
+    "psychological ownership of borrowed money",
+    "willingness to borrow",
+    "debt type (credit vs loan)",
+    "discretionary borrowing",
+    "debt aversion",
+    "mental accounting"
+  ],
+  "main_findings": [
+    "Consumers vary in psychological ownership of borrowed money, and higher psychological ownership predicts greater willingness to borrow and multiple self-reported past borrowing outcomes above other measured factors.",
+    "Borrowed money presented as credit is associated with higher psychological ownership than borrowed money presented as a loan, including in both experimental responses and online search behavior patterns.",
+    "Psychological ownership partially mediates debt-type differences in borrowing interest, and adding lower-ownership language that highlights lender ownership reduces borrowing interest, especially for credit."
+  ],
+  "one_line_summary": "This paper introduces psychological ownership of borrowed money and shows across multiple studies that it varies by person and debt type, predicts borrowing interest, and can be reduced through lower-ownership framing.",
+  "relation_to_prior_work": "extends psychological ownership research from possessions and organizations to borrowed money, where legal ownership and felt ownership can diverge. It also extends consumer debt and mental accounting research by explaining differences across debt forms using psychological ownership rather than only structural debt features.",
+  "research_gap": "Prior consumer debt research emphasized demographics and structural financing features, with less focus on psychological drivers of discretionary borrowing decisions. The authors identify a missing construct: the extent to which borrowed money feels like one's own, which may explain why some debt forms are more attractive than others.",
+  "research_question": "Do consumers experience psychological ownership of borrowed money, and does this subjective ownership predict willingness to borrow for discretionary purchases? The paper also asks whether psychological ownership differs systematically across debt types (credit vs loans) and whether these differences explain borrowing preferences and can be shifted by framing."
+}

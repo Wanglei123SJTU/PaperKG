@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s design explicitly models replacement store selection with a “no-buy” option under a hypothetical closure, while the cited paper is specifically about how adding a no-choice option changes observed choice shares under forced vs. free choice. That is a direct conceptual/methodological overlap (forced choice/no-choice behavior), not an obviously incidental topical mention. With only DOI-level match evidence and no in-text snippet, it is safer to retain for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

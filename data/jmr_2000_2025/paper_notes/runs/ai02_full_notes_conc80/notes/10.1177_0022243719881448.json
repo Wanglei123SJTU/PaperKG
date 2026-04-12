@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a BBP model in which the firm's BBP adoption decision is unobservable to consumers and requires a fixed implementation cost, modeled as an endogenous signaling game.",
+    "Characterizes how BBP adoption and pricing vary by implementation cost, including a low-cost BBP equilibrium, a medium-cost no-BBP equilibrium with downward first-period price distortion, and a high-cost no-BBP equilibrium without distortion.",
+    "Compares transparent and nontransparent BBP regimes and derives policy implications that mandatory BBP disclosure can increase firm profit while reducing consumer surplus and social welfare."
+  ],
+  "context": "The paper studies firms' use of consumers' purchase history data for behavior-based pricing in repeated-purchase markets, motivated by settings such as online retail, travel, and loyalty-card programs. It is framed in the policy context of privacy and potential regulations that require firms to disclose data collection and BBP practices.",
+  "design_and_data": "This is a theoretical paper using a three-period game-theoretic model with a monopolist and a continuum of sophisticated consumers with valuations uniformly distributed on [0,1]. The firm decides whether to pay a fixed cost F to implement BBP, sets a first-period uniform price, and in period 2 either sets a uniform price (no BBP) or separate prices for previous and new consumers (BBP). The authors solve a perfect-information benchmark (BBP transparency) and an imperfect-information main model (no transparency) using perfect Bayesian equilibrium with reordering invariance refinement, and derive closed-form equilibrium thresholds and welfare expressions. They also extend the model to allow personalized enhanced service for previous consumers.",
+  "focal_constructs": [
+    "behavior-based pricing transparency",
+    "BBP implementation cost",
+    "consumer beliefs about BBP adoption",
+    "first-period price distortion",
+    "firm profit",
+    "consumer surplus",
+    "social welfare",
+    "personalized enhanced service"
+  ],
+  "main_findings": [
+    "Without transparency, the firm practices BBP when implementation cost is low (F <= (7-2*sqrt(10))/45), does not practice BBP but distorts first-period price downward when cost is moderate, and does not practice BBP with no distortion when cost is high (F > 1/16).",
+    "Without transparency, firm profit is non-monotonic in F: it falls with F at low cost and rises with F at moderate to high cost; consumer surplus and social welfare move in the reverse direction over the moderate-cost region and are maximized at the switching threshold F = (7-2*sqrt(10))/45.",
+    "Compared with no transparency, BBP transparency raises firm profit but lowers consumer surplus and social welfare; in the extension, the ability to provide personalized enhanced service can reduce firm profit when BBP cost is high but not too high."
+  ],
+  "one_line_summary": "Using a three-period signaling model, the paper shows that unobservable BBP and its implementation cost create cost-dependent adoption and price-distortion equilibria, and that BBP transparency helps firms but can hurt consumers and total welfare.",
+  "relation_to_prior_work": "extends prior behavior-based pricing research that assumes transparent and often costless BBP by modeling a costly, unobservable BBP adoption decision. extends that literature further by comparing transparent and nontransparent BBP regimes and deriving welfare and policy implications of disclosure mandates.",
+  "research_gap": "Prior BBP studies largely assume consumers observe whether firms practice BBP, and often abstract from implementation cost, so they provide limited guidance for settings where BBP use is hidden from consumers. The paper also identifies an unresolved policy question: how transparency mandates for BBP affect firm profit, consumer surplus, and social welfare.",
+  "research_question": "When consumers cannot observe whether a firm practices behavior-based pricing, how should the firm choose BBP adoption and prices? How does the cost of implementing BBP affect firm profit, consumer surplus, and social welfare in that imperfect-information setting? How do these outcomes change when BBP is transparent to consumers?"
+}

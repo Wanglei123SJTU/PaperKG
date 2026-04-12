@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "It provides a first direct test of how firm strategic emphasis maps to governance mode choice between acquisitions and alliances.",
+    "It identifies CMO presence and analyst coverage as boundary conditions that attenuate the tendency of value-appropriating firms to choose acquisitions.",
+    "It bridges transaction cost economics and the resource-based view by theorizing how differences between marketing and R&D assets (ambiguity, modularity, adaptation, tacitness) shape governance choices."
+  ],
+  "context": "The study examines inorganic growth decisions by publicly listed U.S. firms choosing between alliances and acquisitions. The empirical setting spans announced interfirm deals across industries, including public-public and public-private transactions.",
+  "design_and_data": "The authors assemble acquisitions and alliances from SDC Platinum for 2009-2016 and merge them with Compustat, 10-K filings, Thomson Reuters I/B/E/S and ownership data, and Execucomp. The preestimation sample includes 1,053 firms and 6,581 transactions, with transaction-level analysis and one-year-lagged firm predictors. Strategic emphasis is measured as (advertising - R&D expenditures)/total assets, and governance mode is coded as acquisition (1) versus alliance (0). They estimate random-effects probit models with extensive controls, LIWC- and dictionary-based deal-text controls, LDA topic controls for unobserved deal heterogeneity, and corrections for selection and endogeneity.",
+  "focal_constructs": [
+    "strategic emphasis (value appropriation vs value creation)",
+    "governance mode choice (acquisitions vs alliances)",
+    "marketing assets and R&D assets",
+    "CMO presence",
+    "analyst coverage",
+    "exchange hazards (valuation ambiguity, modularity, adaptation)"
+  ],
+  "main_findings": [
+    "Higher strategic emphasis on value appropriation relative to value creation increases the likelihood of choosing acquisitions over alliances.",
+    "CMO presence weakens the positive effect of strategic emphasis on acquisition likelihood.",
+    "Greater analyst coverage also weakens the positive effect of strategic emphasis on acquisition likelihood."
+  ],
+  "one_line_summary": "Using U.S. public-firm deal data, the paper shows that a stronger value-appropriation strategic emphasis increases acquisition choice over alliances, and this effect is attenuated by CMO presence and analyst coverage.",
+  "relation_to_prior_work": "extends prior strategic emphasis research that has focused mainly on firm performance and risk by modeling governance mode choice directly. It also links and jointly applies TCE and RBV to explain acquisition-versus-alliance decisions from firm-level asset emphasis.",
+  "research_gap": "Although strategic emphasis has been studied for firm-level outcomes, its role in interfirm governance choice has been largely unexamined. Prior governance work emphasizes transaction factors, while TCE and RBV have remained only partially connected on how firm-specific assets relate to governance structure.",
+  "research_question": "How does a firm's strategic emphasis, defined as its relative focus on value appropriation versus value creation, affect its choice between acquisitions and alliances? Under what conditions, specifically CMO presence and analyst coverage, is this relationship strengthened or weakened?"
+}

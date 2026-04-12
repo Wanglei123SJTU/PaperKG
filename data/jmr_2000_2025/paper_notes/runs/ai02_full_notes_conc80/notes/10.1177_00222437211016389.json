@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a theory of strategic group polarization in which rational agents overstate actions to influence the group outcome, showing polarization can arise even when underlying preferences are moderate.",
+    "It quantifies how action observability and speaking order affect polarization, showing exogenous sequential speaking can mitigate polarization when preferences are similar, while allowing agents to influence order exacerbates polarization.",
+    "It identifies design levers for coordinators (such as group size, speaking order, and information about others preferences) and shows that more polarized outcomes do not necessarily imply lower welfare."
+  ],
+  "context": "The paper studies group deliberation settings where members publicly voice opinions and jointly determine outcomes, including social media discussions, online reviews, corporate and academic committees, lobbying, and policy groups. The modeled environment is preference expression, not learning about an unknown true state.",
+  "design_and_data": "This is a theoretical game-theoretic paper with no empirical dataset. In the core model, agents with private preferences choose continuous public actions, and the group outcome is the mean of actions under a utility trade-off between truth-telling costs and influence over the group decision. The authors derive Bayesian Nash equilibrium for simultaneous play and perfect Bayesian equilibrium for exogenous sequential play, then analyze endogenous speaking order via a first-price sealed-bid auction. They also analyze extensions for larger groups, subgroup structure, bounded actions, asymmetric preference distributions, partial knowledge of others preferences, and welfare comparisons across game forms.",
+  "focal_constructs": [
+    "strategic group polarization",
+    "group influence motive",
+    "truth-telling versus misreporting cost",
+    "simultaneous versus sequential actions",
+    "speaking order endogeneity",
+    "first-price sealed-bid auction",
+    "group size and subgroup effects",
+    "social welfare"
+  ],
+  "main_findings": [
+    "In simultaneous play, agents strategically shade actions toward extremes relative to their true preferences, and more extreme agents shade more; this polarization does not require a polarized preference distribution under symmetric types.",
+    "In exogenous sequential play, polarization occurs when the later mover is relatively extreme, but moderation can occur when the later mover is relatively moderate; sequential play is less polarizing than simultaneous play when preferences are relatively similar and more polarizing when preferences are dissimilar.",
+    "When speaking order is endogenous through bidding, more extreme agents bid more and choose to speak second, which leads to polarized outcomes, and this endogenous sequential format is welfare enhancing relative to the other modeled game forms."
+  ],
+  "one_line_summary": "The paper develops a formal model showing that rational agents strategically exaggerate public actions to influence group outcomes, with polarization shaped by speaking order design and potentially compatible with higher welfare.",
+  "relation_to_prior_work": "introduces a strategic rational-choice explanation for polarization in observed actions that is distinct from prior accounts based on imperfect information aggregation, belief updating, or behavioral biases. It also differs from strategic communication and cheap-talk work by modeling agents who directly affect a jointly implemented group outcome rather than persuading a separate decision maker.",
+  "research_gap": "Prior literature primarily explained polarization through belief dynamics under uncertainty or behavioral biases, but did not provide a comparable strategic account of why expressed actions in preference-based group decisions become extreme. The paper addresses this gap by modeling how influence motives alone can generate polarization and by analyzing how speaking-order institutions change that outcome.",
+  "research_question": "Can polarization in group decisions arise purely from strategic incentives among rational agents, even without uncertainty about a true state and without behavioral bias? How do institutional features such as simultaneous versus sequential speaking, endogenous control of speaking order, group size, and information about others preferences affect the extent of polarization and welfare?"
+}

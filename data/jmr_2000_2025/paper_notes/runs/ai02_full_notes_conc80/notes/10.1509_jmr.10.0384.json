@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Shows that the evaluation of incongruent product form depends on positioning: moderate form incongruity helps under functional positioning but hurts under experiential positioning.",
+    "Provides a process explanation for this reversal by identifying different mediators: increased perceived hedonic benefits in functional positioning versus decreased perceived utilitarian benefits in experiential positioning.",
+    "Uses multiple replications across product categories and positioning tactics, combined in a multilevel meta-analytic framework, to demonstrate robustness and rule out risk and price alternatives."
+  ],
+  "context": "The paper examines advertising and positioning of innovative products whose physical form deviates from category expectations. Empirical settings span consumer categories including soft drinks, cars, digital cameras, and wristwatches.",
+  "design_and_data": "Study 1 uses a 2 (functional vs experiential positioning) x 3 (congruent vs moderately incongruent vs extremely incongruent form) between-subjects experiment (N = 150) with soft-drink ads, supported by pretests for form congruity and positioning manipulations. Studies 2-5 are four 2 x 2 between-subjects replications (total N = 404) across different product categories and different positioning tactics (claims, imagery, benefit statements, and brand associations). Core measures include product evaluations, perceived utilitarian benefits, perceived hedonic benefits, perceived risk, and price perception, plus thought-listing manipulation checks. The replication data are analyzed with mixed linear models treating study as a random effect and with moderated mediation tests and bootstrap conditional indirect effects.",
+  "focal_constructs": [
+    "product form incongruity",
+    "functional positioning",
+    "experiential positioning",
+    "product evaluations",
+    "perceived utilitarian benefits",
+    "perceived hedonic benefits",
+    "perceived risk",
+    "price perception"
+  ],
+  "main_findings": [
+    "When products are functionally positioned, consumers evaluate moderately incongruent form more favorably than congruent form, but when products are experientially positioned, consumers evaluate congruent form more favorably than moderately incongruent form.",
+    "The positive effect of moderate incongruent form under functional positioning is mediated by increased perceived hedonic benefits, whereas the negative effect under experiential positioning is mediated by decreased perceived utilitarian benefits.",
+    "These asymmetric effects replicate across four additional studies with different categories and positioning manipulations, and they are not explained by perceived risk or price perception."
+  ],
+  "one_line_summary": "Across five experiments, the paper shows that moderate product form incongruity is liked only when positioning clarifies functionality, because positioning shifts whether consumers focus on hedonic gains or utilitarian losses.",
+  "relation_to_prior_work": "extends schema-congruity research by introducing product positioning as a key boundary condition for the moderate incongruity effect in product form judgments. It also refines prior mixed findings on incongruity preferences by showing when favorable versus unfavorable responses emerge and through which benefit perceptions they occur.",
+  "research_gap": "Prior work on moderate incongruity reports both positive and negative evaluations and has largely been silent on the role of product positioning in these outcomes. The authors argue that this omission is important because form changes can create functional uncertainty when functionality is not explicitly communicated.",
+  "research_question": "Does the effect of product form incongruity on consumer evaluation depend on whether the product is positioned functionally or experientially? If so, are the resulting preference reversals explained by changes in perceived utilitarian versus hedonic benefits rather than by risk or price effects?"
+}

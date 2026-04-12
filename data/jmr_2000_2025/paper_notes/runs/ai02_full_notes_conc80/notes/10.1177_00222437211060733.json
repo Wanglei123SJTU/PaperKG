@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides the first systematic clinic-level empirical evidence and policy-relevant analysis on money-back guarantees in the IVF market.",
+    "Shows evidence consistent with MBG clinics delivering better quality of care outcomes rather than relying on opportunistic patient sorting or more aggressive treatment.",
+    "Offers weak empirical support for signaling and insurance roles of MBGs and expands signaling discussion to expert-service markets with provider moral hazard and patient-side adverse selection."
+  ],
+  "context": "The study is set in the U.S. in vitro fertilization (IVF) services market, an expert-service context with high information asymmetry, customized treatment protocols, and substantial financial and health risks for patients. It examines clinic marketing practice differences between clinics that offer money-back guarantee (MBG) programs and those that do not.",
+  "design_and_data": "The authors compile a longitudinal clinic-level dataset for 2010-2012 from four sources: CDC ART clinic reports, clinic websites plus Internet Archive pages, market and demographic data, and state infertility insurance mandate data; they also use CMS medical wage index data for instrumentation. The sample includes 984 clinic-year observations from clinics with websites, with outcomes and inputs observed by patient age group and focus on fresh non-donor egg cycles. They estimate t-tests and OLS models for live-birth rate, embryos transferred, multiple-birth rate, and patient fertility controls. To address endogeneity in MBG adoption and unobserved patient case mix, they run 2SLS using medical wage index x number of endocrinologists as an instrument, and report robustness checks including 3SLS, FIML/LIML, Poisson, and alternative specifications.",
+  "focal_constructs": [
+    "money-back guarantees",
+    "quality of care",
+    "live-birth rate",
+    "treatment aggressiveness",
+    "multiple-birth risk",
+    "patient fertility case mix",
+    "information asymmetry",
+    "signaling and insurance"
+  ],
+  "main_findings": [
+    "MBG clinics are associated with higher live-birth rates than non-MBG clinics after controls, and IV estimates indicate a sizable positive association.",
+    "MBG clinics transfer fewer embryos per cycle and do not have higher triplet-or-higher multiple-birth risk, consistent with less aggressive treatment.",
+    "MBG clinics do not show a more fertile observed patient mix, and MBGs are more likely in states without IVF insurance mandates, consistent with a market-based insurance role."
+  ],
+  "one_line_summary": "Using U.S. IVF clinic panel data from 2010-2012, the paper finds that clinics offering money-back guarantees are associated with better treatment outcomes and lower treatment aggressiveness after accounting for patient mix and endogeneity.",
+  "relation_to_prior_work": "extends prior IVF MBG work that focused on profitability assumptions or insurance mandate effects by empirically comparing quality-of-care outcomes between MBG and non-MBG clinics while controlling for patient mix and treatment inputs. It complements insurance-mandate studies by examining clinic-offered MBGs as a market-based alternative. It introduces weak empirical evidence consistent with signaling theory in an expert-service setting.",
+  "research_gap": "The paper states that controversy over IVF MBGs has lacked systematic empirical evidence on whether MBG clinics provide better or worse quality of care. Prior studies discussed ethics, modeled profitability, or examined insurance mandates, but did not test clinic-level quality differences between MBG and non-MBG clinics while accounting for patient mix and treatment behavior.",
+  "research_question": "Do IVF clinics that offer money-back guarantees provide better treatment outcomes, and thus higher quality of care, than clinics that do not offer MBGs? After controlling for patient case mix and treatment protocols, are MBGs associated with outcomes consistent with signaling and insurance roles rather than with opportunistic behavior?"
+}

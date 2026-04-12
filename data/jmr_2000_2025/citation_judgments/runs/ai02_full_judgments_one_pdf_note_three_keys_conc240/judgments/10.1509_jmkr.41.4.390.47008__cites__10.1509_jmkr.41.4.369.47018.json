@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper is a dedicated discussion of Bradlow, Hu, and Ho (2004), not a passing reference. Rubin explicitly evaluates the cited paper's core choices (treating partial profiles as missing data, using MCMC/Gibbs estimation, and using a multiarm experimental design) and frames them as major strengths. He also offers a concrete methodological suggestion (posterior predictive checks) for evaluating their models, indicating direct engagement with that specific study.",
+  "relation_description": "This article functions as a formal commentary on the cited paper, endorsing its missing-data framing, Bayesian/MCMC implementation, and experimental design while adding a suggested diagnostic extension for model assessment.",
+  "relation_type": "other"
+}

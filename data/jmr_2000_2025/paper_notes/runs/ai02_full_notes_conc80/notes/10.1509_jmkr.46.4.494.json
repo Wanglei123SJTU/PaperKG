@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "For last-move durable-goods survey data, the paper introduces a multistate continuous-time nonstationary Markov model with a parsimonious brand loyalty structure.",
+    "It proposes a maximum likelihood estimation approach that treats unobserved interpurchase times as latent variables and uses exact household-level likelihood contributions.",
+    "It claims to be the first marketing application showing how to estimate automobile brand loyalties from last-move data while accounting for both repeat-purchase incidence and replacement speed."
+  ],
+  "context": "The empirical setting is U.S. automobile brand replacement, analyzed at the manufacturer level (GM, Ford, Chrysler, and Other). The paper addresses the common durable-goods survey context where data are collected retrospectively at one survey date.",
+  "design_and_data": "The data come from a February 1990 mail survey with 901 respondents, of which 870 with complete information are used. For each respondent, the observed variables include currently owned brand, previously owned brand, and elapsed time since purchase of the current car, plus demographics and satisfaction. Brand names are aggregated to four manufacturer states for estimation. The authors estimate a nonstationary Markov hazard model with log-logistic baseline hazards and a parsimonious loyalty parameterization, using latent-variable maximum likelihood, and compare it with stationary and less-structured alternatives plus Colombo and Morrison's model.",
+  "focal_constructs": [
+    "brand loyalty",
+    "speed of replacement",
+    "last-move data",
+    "transition hazard",
+    "interpurchase time",
+    "nonstationary continuous-time Markov process",
+    "repeat purchasing",
+    "customer satisfaction"
+  ],
+  "main_findings": [
+    "Allowing nonstationary hazards substantially improves fit over stationary specifications and yields increasing automobile replacement hazards over elapsed time.",
+    "Among the Big Three in the study period, Ford and GM show higher estimated loyalty than Chrysler, and Chrysler appears competitively weaker with lower repeat purchase and stronger switching away.",
+    "Estimated covariate effects indicate that single, higher-income, and less educated consumers are more brand loyal, and satisfaction has a positive effect on loyalty that is overstated when nonstationarity is ignored."
+  ],
+  "one_line_summary": "Using automobile last-move survey data, the paper estimates a nonstationary continuous-time Markov loyalty model that incorporates replacement speed and finds Chrysler significantly weaker in loyalty than GM and Ford.",
+  "relation_to_prior_work": "extends prior durable-goods loyalty models based on transition counts (especially Colombo and Morrison 1989) by jointly modeling repeat choice and replacement timing, and refines Schmertmann's stationary last-move framework by estimating nonstationary hazards with household-level likelihood and covariates.",
+  "research_gap": "Existing durable-goods loyalty approaches mainly use transition matrices and therefore ignore interpurchase timing, while common joint timing-choice models require data elements unavailable in typical automobile surveys. The paper states that little attention in marketing had been given to estimating transition-time models from censored last-move data.",
+  "research_question": "How can brand loyalties for durable goods be estimated when survey data provide only last-move information (current brand, previous brand, and elapsed time since the move) rather than completed interpurchase spells? Do inferred loyalties change when replacement speed is modeled jointly with brand transitions?"
+}

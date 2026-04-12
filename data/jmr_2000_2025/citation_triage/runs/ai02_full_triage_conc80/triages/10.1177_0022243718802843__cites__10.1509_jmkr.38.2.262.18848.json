@@ -1,0 +1,4 @@
+{
+  "rationale": "Keep: the cited paper develops a joint acquisition–retention model under truncation/right-censoring (Tobit with selection), which is directly aligned with the citing paper’s core problem of modeling noncontractual customers with latent churn and censored/aggregated data. The citing note explicitly emphasizes replacing retention workarounds via a joint acquisition-order-spend framework, so this reference is plausibly a methodological/foundational source rather than an incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

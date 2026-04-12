@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper claims a more complete concurrent assessment of eight firm-generated content (FGC) elements in social media conversations, including topic matching and authenticity, which it states were not previously studied in this marketing stream.",
+    "It claims to be the first study to test whether preceding user sentiment moderates the effectiveness of FGC elements across the full spectrum of conversations, not only complaint contexts.",
+    "It claims to deliver concrete managerial guidance on how firms should tailor social media responses to improve subsequent user sentiment."
+  ],
+  "context": "The study is set in public Twitter conversations in the U.S. banking industry, focusing on Bank of America, Wells Fargo, Citibank, and JPMorgan Chase. The conversations include complaints, inquiries, and positive comments, not just negative complaint episodes.",
+  "design_and_data": "The authors collect tweets from 2011 to 2020 and reconstruct conversation threads using the Twitter API. The final conversation dataset for focal analyses contains about 969,000 tweets across about 206,000 threads; the sentiment model is estimated on 401,801 subsequent-UGC observations across 206,120 conversations. They model repeated sequences of preceding UGC -> FGC -> subsequent UGC, with sentiment measured by VADER and text-based FGC measures including empathy, topic matching (LDA plus cosine similarity), linguistic style matching, and authenticity. Estimation includes bank fixed effects, a control-function instrumental-variables correction for endogenous FGC choices, and two Heckman selection corrections for selective firm and user posting.",
+  "focal_constructs": [
+    "firm-generated content elements",
+    "user sentiment",
+    "preceding user sentiment",
+    "dialogic listening",
+    "empathetic understanding",
+    "topic matching",
+    "linguistic style matching",
+    "authenticity"
+  ],
+  "main_findings": [
+    "All eight FGC elements are significant in direct effects: empathy, positive sentiment, topic matching, linguistic style matching, authenticity, direct messaging, and agent signing increase subsequent user sentiment, while longer response time decreases it.",
+    "Topic matching is the strongest direct lever for improving user sentiment, followed by linguistic style matching, with sentiment and empathy next; response speed, agent signing, direct messaging, and authenticity have smaller direct lifts.",
+    "Preceding user sentiment moderates effectiveness: empathy, topic matching, and direct messaging are more effective when prior user sentiment is more negative, while positive sentiment and authenticity are more effective when prior user sentiment is more positive; moderation for linguistic style matching, response time, and agent signing is not significant."
+  ],
+  "one_line_summary": "Using 10 years of Twitter conversations between users and four major U.S. banks, the paper identifies which firm response elements most improve subsequent user sentiment and shows that the best response strategy depends on preceding user sentiment.",
+  "relation_to_prior_work": "extends prior social media response research by shifting from isolated features, aggregate measures, or complaint-only settings to conversation-level modeling that jointly estimates eight FGC elements and their interactions with preceding user sentiment.",
+  "research_gap": "Prior work often examined only one to three response features, aggregated content across conversations, or focused mainly on complaints, limiting guidance for thread-level response design across varied conversation types. The paper also states that prior studies had not examined how preceding user sentiment moderates the effectiveness of multiple FGC elements.",
+  "research_question": "How can firms craft response content within individual social media conversation threads to improve the sentiment of subsequent user posts? Does the impact of specific FGC elements vary depending on the sentiment users expressed earlier in the conversation?"
+}

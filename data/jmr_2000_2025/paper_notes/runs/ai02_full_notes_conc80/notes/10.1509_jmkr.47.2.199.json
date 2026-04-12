@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides an updated, marketing-focused synthesis of SDR research organized around construct/measurement, nomological correlates, and the substance-versus-style issue.",
+    "It contributes new cross-national evidence from 12,424 respondents in 26 countries to assess the reliability, discriminant validity, and nomological validity of ERT and MRT beyond U.S. student samples.",
+    "It proposes practical guidance for survey researchers, including use of separate ERT and MRT measures (rather than unidimensional SDR scales) and a procedure to evaluate whether SDR associations indicate stylistic bias or substantive overlap."
+  ],
+  "context": "The paper is set in marketing survey research, where self-report data may be distorted by socially desirable responding. Its empirical evidence comes from nationally representative consumer samples in 26 countries across four continents.",
+  "design_and_data": "The study combines a literature review with new empirical analyses on a global survey data set of 12,424 respondents in 26 countries. ERT and MRT were measured using a 20-item short form of the BIDR (10 SDE items and 10 IM items), and latent scores were estimated with hierarchical item response theory models that relax strict cross-national invariance. The survey also measured Big Five traits, Schwartz value domains, sociodemographics, and nine substantive marketing constructs. The authors used multilevel models with individual- and country-level predictors (including Hofstede individualism/collectivism and masculinity/femininity) and country-specific regressions to examine potential SDR effects on the nine marketing scales.",
+  "focal_constructs": [
+    "socially desirable responding",
+    "egoistic response tendencies",
+    "moralistic response tendencies",
+    "self-deceptive enhancement",
+    "impression management",
+    "substance versus style",
+    "Big Five personality traits",
+    "Schwartz value domains"
+  ],
+  "main_findings": [
+    "Across countries, BIDR-based ERT and MRT showed reasonable average reliability (.67 and .73) and discriminant validity, with MRT typically measured more reliably than ERT.",
+    "The nomological pattern largely generalized globally: openness and extraversion related mainly to ERT, conscientiousness and agreeableness related mainly to MRT, and emotional stability related more strongly to ERT than to MRT.",
+    "Associations between SDR and nine marketing scales varied substantially by country and construct, usually involved either ERT or MRT (not both), and were generally small in the United States except for material success and health consciousness."
+  ],
+  "one_line_summary": "The article reviews SDR theory and evidence and uses a 26-country data set to test how ERT and MRT are measured, what predicts them, and how their correlations with marketing scales should be interpreted.",
+  "relation_to_prior_work": "extends prior SDR work by moving beyond predominantly U.S. student evidence to a large international test of ERT and MRT and by challenging routine treatment of SDR correlations as automatic contamination.",
+  "research_gap": "The paper argues that marketing research has given limited and often problematic treatment to SDR, including assumptions of a unidimensional construct, interchangeable SDR scales, and simple control-variable fixes. It also notes that most prior evidence came from U.S. student samples, leaving unresolved whether SDR measurement and nomological relations generalize globally and how SDR-scale correlations should be interpreted.",
+  "research_question": "How should marketing researchers conceptualize and measure socially desirable responding, particularly the distinction between egoistic and moralistic response tendencies? Do the measurement properties and nomological correlates of these SDR dimensions generalize across countries, and when does an SDR association with a marketing scale reflect stylistic bias versus substantive overlap?"
+}

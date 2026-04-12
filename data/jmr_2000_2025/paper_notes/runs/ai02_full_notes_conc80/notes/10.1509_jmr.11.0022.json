@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and tests a novel contagion-based mechanism for origin effects, showing that beliefs in transferred brand essence affect perceived authenticity and valuation.",
+    "It experimentally distinguishes contagion from perceived evidence and quality as mechanisms underlying authenticity judgments.",
+    "It claims to be the first evidence that contagion influences authenticity perceptions for everyday consumer products and brands, not just one-of-a-kind objects."
+  ],
+  "context": "The studies examine consumer responses to branded products when manufacturing location information is provided. The focal comparison is identical products made by the same brand in the original factory versus authorized production elsewhere (with examples including Levi's, Godiva-like chocolates, Louis Vuitton-like bags, and luxury brand extensions).",
+  "design_and_data": "The article reports five online experiments with adult participants from a web-based panel. Experiment 1 (N=253) used a 2x2 between-subjects design (original vs new factory x authorized vs unauthorized retailer) for Levi's jeans and measured valuation, authenticity, transferred essence, perceived evidence, and quality, with mediation tests. Experiment 2 (N=328) compared original factory, foreign new factory, and same-city new factory conditions (plus a labor-cost manipulation) and tested mediation again; Experiments 3 (N=120) and 4 (N=200) tested process via contagion sensitivity and contagion priming with chocolates and bags. Experiment 5 (N=240) used four between-subjects conditions (original factory, specialized factory, brand label, pure control) on luxury-brand extension products to test inferences about manufacturing source and willingness to pay.",
+  "focal_constructs": [
+    "brand authenticity",
+    "contagion beliefs",
+    "transferred essence",
+    "factory of origin (FOO)",
+    "country of origin (COO)",
+    "perceived evidence",
+    "quality expectations",
+    "willingness to pay"
+  ],
+  "main_findings": [
+    "Consumers rated identical products from a brand's original factory as more authentic and more valuable than products made elsewhere.",
+    "For manufacturing-location effects, transferred essence was the main mediator of authenticity and valuation, while perceived evidence primarily mediated authorized-versus-unauthorized retailer effects.",
+    "Higher contagion sensitivity and contagion priming increased the original-factory authenticity/value advantage, and participants paid more when luxury products were described as made in the original factory rather than a specialized outside facility."
+  ],
+  "one_line_summary": "Across five experiments, the paper shows that consumers value identical branded products more when they are made in the brand's original factory because those products are seen as carrying the brand's essence and thus as more authentic.",
+  "relation_to_prior_work": "introduces a contagion-based explanation into COO and authenticity research by showing experimentally that transferred essence can drive origin-based preferences beyond quality inferences and counterfeit-verification concerns.",
+  "research_gap": "Prior COO work mainly emphasized quality stereotypes and specialization, and authenticity work had limited experimental evidence separating mechanisms. The paper identifies an untested gap: whether contagion drives authenticity judgments for everyday branded products made in different authorized locations.",
+  "research_question": "Do consumers prefer products made in a brand's original factory over identical products made elsewhere by the same brand? If so, is this effect explained by contagion-based transferred essence rather than by expected quality or perceived evidence that an item is genuine?"
+}

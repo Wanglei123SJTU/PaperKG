@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Proposes and operationalizes celebrity visual potential (CVP) as a face-based metric of celebrity likelihood that is not equivalent to attractiveness.",
+    "Develops a high-performing and interpretable deep learning method that predicts CVP and quantifies the direction and relative contribution of 11 theory-derived facial features.",
+    "Provides experimental and cross-platform validation showing CVP aligns with human judgments and predicts outcomes beyond facial attractiveness."
+  ],
+  "context": "The study is set in spokesperson, influencer, and public-facing professional contexts where facial images shape perceived charisma and influence. It uses celebrity versus noncelebrity face data and validates predictions in Instagram influencer posts and LinkedIn profiles of C-suite versus non-C-suite employees.",
+  "design_and_data": "The authors combine three celebrity and six noncelebrity benchmark face datasets, then randomly sample 22,000 images (11,000 each), using 12,000 for training/validation and 10,000 as a holdout test set. After five-step image preprocessing, they train a supervised ResNet-50-based model (with a custom dense layer and sigmoid output) to estimate CVP, defined as the probability a face is a celebrity. To study feature relationships, they build contrasting or manipulated image groups for each of 11 facial features and test CVP differences, then rank feature importance using a SHAP-based FeatureSHAP method. Validation includes two experiments with morphed faces (Experiment 1: 1,153 recruited, 1,065 usable Prolific participants; Experiment 2 conceptual replicate) plus observational studies on Instagram influencer photos and LinkedIn employee profile photos.",
+  "focal_constructs": [
+    "celebrity visual potential (CVP)",
+    "facial features",
+    "charisma",
+    "inferred personality traits",
+    "physical attractiveness",
+    "deep learning classification",
+    "explainable AI (SHAP)"
+  ],
+  "main_findings": [
+    "The CVP model achieved 95.92% accuracy on the holdout test set and outperformed support vector machine and logistic regression benchmarks.",
+    "CVP was significantly positively associated with high cheekbones, darker color, large eyes, sexual dimorphism, and symmetry, and significantly negatively associated with facial width-to-height ratio and babyfaceness; thin jaw, mouth-nose distance, mouth-chin distance, and averageness were not significant in the feature-direction tests.",
+    "Model-predicted CVP positively tracked human-rated CVP in experiments and showed external predictive validity, including positive prediction of Instagram follower growth and higher mean CVP for LinkedIn C-suite profiles than non-C-suite profiles (.85 vs .20)."
+  ],
+  "one_line_summary": "The paper introduces and validates an interpretable deep learning score of celebrity visual potential from faces, showing strong prediction and incremental explanatory power beyond attractiveness.",
+  "relation_to_prior_work": "extends prior research on facial attractiveness and endorser effects by modeling celebrity potential as a multifeature, charisma-related construct rather than attractiveness alone. It introduces large-scale, interpretable machine learning evidence where prior studies often relied on smaller samples, human ratings, or isolated facial cues.",
+  "research_gap": "The paper argues that existing guidance for spokesperson selection overemphasizes attractiveness or familiarity and offers limited ability to predict celebrity potential from facial information. It also highlights that prior studies were often small-scale and feature-isolated, making it difficult to assess composite facial effects and resolve countervailing personality-trait inferences.",
+  "research_question": "Can celebrity visual potential be measured from facial images using an AI model, and does this metric capture more than attractiveness? Which facial features are associated with CVP, and do inferred personality traits help explain why model-predicted CVP aligns with human judgments and real-world outcomes?"
+}

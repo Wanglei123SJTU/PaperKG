@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper explicitly positions SORE as generalizing/nesting Gaussian-copula joint modeling and reports simulation/applications comparing SORE against “copula/JCM approaches,” indicating substantive methodological linkage rather than a passing mention. The cited paper is a core IV-free Gaussian-copula endogeneity method (with fixed effects/correlated regressors), which is a plausible direct foundation/comparison point for the citing method.",
+  "triage_decision": "keep_for_relation_judgment"
+}

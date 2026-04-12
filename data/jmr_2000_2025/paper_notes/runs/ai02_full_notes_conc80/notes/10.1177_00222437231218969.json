@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes CSR as a strategic double-layer protection that can both reduce data breach occurrence and mitigate postbreach financial harm, rather than treating prevention and recovery as separate problems.",
+    "It distinguishes internal CSR (primary-stakeholder facing) from external CSR (secondary-stakeholder facing) and shows that this split reveals asymmetric and nonlinear effects that are obscured by aggregate CSR measures.",
+    "It provides supplementary evidence on mechanisms and boundary insights, including that internal CSR reduces both insider- and outsider-driven breaches and is linked to employee morale and satisfaction indicators."
+  ],
+  "context": "The empirical setting is U.S. publicly traded firms across industries, with observed corporate data breaches involving unauthorized access to sensitive organizational or customer information. The paper studies both breach incidence and postbreach financial-market outcomes.",
+  "design_and_data": "The authors merge KLD CSR ratings, Privacy Rights Clearinghouse breach data, and Compustat financials for 2005-2018 U.S. public firms. Study 1 uses 20,700 firm-year observations (3,089 firms; 266 breach years) and estimates logistic models with industry and year fixed effects, plus 2SLS-IV corrections for CSR endogeneity, to predict breach likelihood. Study 2a runs an event-study analysis of cumulative abnormal returns (Fama-French-Carhart four-factor CARs) around breach announcements and estimates fixed-effects 2SLS regressions on 278 usable breach events. Study 2b analyzes long-term Tobin's q with 18,971 firm-year observations (2,883 firms) using breach x CSR interaction models, and the paper adds posttests using breach-type splits, Glassdoor-based employee measures, and two consumer experiments.",
+  "focal_constructs": [
+    "data breach likelihood",
+    "postbreach financial recovery",
+    "internal CSR",
+    "external CSR",
+    "stakeholder theory",
+    "cumulative abnormal returns",
+    "Tobin's q",
+    "employee morale and satisfaction"
+  ],
+  "main_findings": [
+    "External CSR does not significantly reduce the likelihood of actual data breaches, while internal CSR does; moderate and high internal CSR are similarly effective relative to low internal CSR in breach prevention.",
+    "After a breach, only high internal CSR is associated with protection in short-term stock reaction (CAR), whereas external CSR's positive short-term association is attenuated and does not persist.",
+    "For long-term performance (Tobin's q), protection appears only at high internal CSR; external CSR shows no long-term shielding effect."
+  ],
+  "one_line_summary": "Using U.S. public-firm data, the paper shows that internal CSR provides a double layer of protection against data breaches by lowering breach likelihood and improving postbreach financial resilience, whereas external CSR offers no prevention and only short-lived recovery benefits.",
+  "relation_to_prior_work": "extends prior data-breach research by integrating prevention and recovery within one firm-level strategic framework, where earlier work largely examined technical prevention drivers or postbreach response tactics separately. It also extends CSR-breach work by separating internal and external CSR and showing that aggregate CSR can hide materially different effects.",
+  "research_gap": "Prior research largely examined either IT and organizational factors that prevent breaches or tactical consumer-facing recovery actions after breaches, without testing a unified firm-level strategy for both stages. The paper also identifies a gap in understanding how different CSR types (internal vs. external) differentially affect breach prevention and recovery.",
+  "research_question": "Can corporate social responsibility function as a strategic, firm-level solution that both prevents data breaches and mitigates financial damage after breaches occur? Do internal and external CSR, and different CSR performance levels, have distinct effects on breach incidence and short- versus long-term postbreach financial outcomes?"
+}

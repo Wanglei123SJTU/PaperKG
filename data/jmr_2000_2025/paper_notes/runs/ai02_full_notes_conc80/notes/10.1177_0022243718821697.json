@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides what the authors describe as the cleanest observational field evidence so far that prosocial motivation is an important driver of backers' behavior in reward-based crowdfunding.",
+    "It extends goal-related crowdfunding research by using high-resolution around-goal comparisons to better separate prosocial goal pursuit from opposing economic forces such as rational herding and certainty about campaign success.",
+    "It offers a more comprehensive view of backer behavior by jointly analyzing funding collection speed, likelihood of funding, and contribution size, and by testing moderators tied to prosocial motivation and creator identity."
+  ],
+  "context": "The study is set in reward-based crowdfunding on Kickstarter, which uses an all-or-nothing funding rule and allows pledging both before and after a project meets its goal. The empirical domain is entrepreneurial campaigns across Kickstarter categories during 2016-2017.",
+  "design_and_data": "The authors scraped 28,591 Kickstarter projects from September 10, 2016, to August 27, 2017, collecting live campaign information at roughly 30-minute resolution. Their main tests use 5,592 projects observed from 95% to 105% of goal, with within-project pregoal (95%-100%) and postgoal (100%-105%) observations. They estimate OLS models with project fixed effects and controls (updates, comments, staff pick), using a narrow-window approach analogous to regression discontinuity around goal attainment, and check robustness in other windows and placebo thresholds. Moderation measures include MTurk-based category prosocial ratings (123 Kickstarter backers) and MTurk coding of creator type (2,882 participants).",
+  "focal_constructs": [
+    "prosocial motivation",
+    "funding goal attainment",
+    "funding collection speed",
+    "backer likelihood of funding",
+    "average contribution size",
+    "rational herding",
+    "campaign success certainty",
+    "single-person creator status"
+  ],
+  "main_findings": [
+    "Projects that ultimately exceeded their goals collected funds faster from 95% to 100% than from 100% to 105%; the 100%-105% segment took about 2.4 times as long on average.",
+    "The postgoal slowdown reflected both margins: time to gain one new backer was about 1.84 times longer postgoal, and average contribution size was about 19% lower postgoal.",
+    "The pregoal-versus-postgoal gap was larger for projects that elicited stronger prosocial motivation (including projects whose short description used \"help\") and for projects with single-person creators versus non-single-person creators."
+  ],
+  "one_line_summary": "Using high-frequency Kickstarter data, the paper shows that projects raise money faster just before than just after hitting their funding goals, consistent with backers' prosocial goal pursuit.",
+  "relation_to_prior_work": "extends prior reward-based crowdfunding research that primarily emphasizes expected-utility considerations, quality signals, and success likelihood by documenting a prosocial mechanism in field behavior. It also extends donation-based goal-proximity findings and complements Kuppuswamy and Bayus (2017) with narrower around-goal comparisons, higher-frequency data, and outcomes that include both funding incidence and contribution amount.",
+  "research_gap": "Prior reward-based crowdfunding work largely assumes backers maximize expected utility based on project quality and campaign success prospects. The paper argues that evidence on prosocial motivation in this exchange setting is limited, and that prior goal-proximity analyses can confound helping motives with herding effects from accumulated backing.",
+  "research_question": "Do backers in reward-based crowdfunding act only on economic considerations, or do they also have prosocial motives to help creators reach funding goals? Specifically, around the goal threshold, do projects collect money faster before than after goal attainment, and is this pattern stronger when helping motives should be more salient?"
+}

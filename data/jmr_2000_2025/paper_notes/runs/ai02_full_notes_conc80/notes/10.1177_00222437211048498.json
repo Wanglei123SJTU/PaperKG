@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides evidence on the incremental effect of a voluntary, online, modular salesperson training program on sales performance for Focus versus Other products, relative to ongoing traditional local classroom training.",
+    "Examines heterogeneity in training effects across salespeople and links part of that heterogeneity to salesperson type and region.",
+    "Presents, to the authors' knowledge, the first empirical analysis of peer spillover effects in an online salesperson training context like this one, separating breadth and depth of peer training."
+  ],
+  "context": "The study is set in the Indian subsidiary of a multinational electronics manufacturer using multiple salesperson roles across cities and regions. The firm introduced a corporate online module-based program while continuing its regular localized classroom training.",
+  "design_and_data": "The authors use longitudinal archival field data on 316 salespeople observed monthly for 11 months (3,476 salesperson-month observations), with five months before and six months after the online program launch. The online program had 20 short modules, and salespeople voluntarily chose whether, when, and how many modules to take. Outcomes are monthly unit sales of Focus (newer) and Other products, with heavy zero counts. Estimation uses zero-inflated Poisson outcome models with heterogeneous training effects, peer-group controls, and a 2SRI-IV approach with a Poisson hurdle first stage for potentially endogenous training incidence and quantity.",
+  "focal_constructs": [
+    "online modular salesperson training",
+    "voluntary training participation",
+    "sales performance (Focus products, Other products)",
+    "heterogeneity in training effects",
+    "peer spillover effects",
+    "training breadth and training depth",
+    "self-selection and endogeneity"
+  ],
+  "main_findings": [
+    "Training has a positive overall incremental impact on sales: the average effect on Other-product sales is immediate, significant, and positive, while the effect on Focus-product sales is delayed through cumulative past training.",
+    "The positive impact of training declines over time, and there is substantial heterogeneity across salespeople and regions, including some salespeople with negative training effects.",
+    "Spillovers are mixed: greater peer training depth (more trainings per peer) raises focal salesperson sales, but greater peer training breadth (more peers taking training) produces a negative effect on Other-product sales and no significant effect on Focus-product sales."
+  ],
+  "one_line_summary": "Using longitudinal field data from India, the paper shows that a voluntary online modular sales training program improves sales with delayed effects for newer products, heterogeneous impacts across salespeople, and mixed peer spillovers.",
+  "relation_to_prior_work": "extends salesperson training research that has mostly focused on traditional classroom formats by analyzing a voluntary online modular gamified program and estimating both direct and peer spillover effects in this setting.",
+  "research_gap": "Prior salesperson training research has mostly examined traditional classroom programs, while online modular voluntary programs like this one are relatively new and their performance impact is not well understood. The literature also provides limited evidence on heterogeneity and very limited evidence on spillovers in such online training contexts.",
+  "research_question": "What is the incremental direct impact of participation in a voluntary online modular training program, measured by number of modules taken, on salesperson sales of Focus versus Other products over time? How heterogeneous are these effects across salespeople and regions? What indirect spillover effects do peers' training activities have on a focal salesperson's performance?"
+}

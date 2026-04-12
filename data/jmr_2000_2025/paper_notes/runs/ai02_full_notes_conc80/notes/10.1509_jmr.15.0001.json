@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides evidence across eight studies for three distinct default-related effects in charitable giving: scale-back, lower-bar, and default-distraction.",
+    "Quantifies how default amount magnitude changes donation rate, average donation, and revenue, rather than only testing whether defaults matter.",
+    "Uses an integrative multi-method approach (lab, pooled online experiments, and a natural field experiment) to inform when default nudges help or self-cancel in fundraising."
+  ],
+  "context": "The paper studies charitable fundraising appeals where donors choose from multiple donation amounts, often in online or form-based solicitation environments. Empirical settings include lab and online donation decisions for real charities and a University of Chicago Booth alumni annual-fund campaign.",
+  "design_and_data": "The authors report eight studies with 11,508 participants and 2,423 donation decisions. Study 1 is an in-person lab experiment (N=105) with low, high, or no default donation options for a Red Cross donation menu. Study 2 pools six online incentive-compatible studies (3,486 valid completions) using a conditional $20-award donation paradigm, varying default levels, framing, menu structure, charity information, and charity identity, analyzed with fixed effects. Study 3 is a large natural field experiment in an alumni mail campaign to 7,844 past donors (4x2x2 design on default level, reminder, and allocation options), yielding 76 donations.",
+  "focal_constructs": [
+    "choice-option defaults",
+    "default amount magnitude",
+    "donation rate",
+    "average donation amount",
+    "revenue per person",
+    "scale-back effect",
+    "lower-bar effect",
+    "default-distraction effect"
+  ],
+  "main_findings": [
+    "Defaulting an option modestly increased choice of that specific option, but defaults did not reliably raise revenue in the lab and pooled online studies.",
+    "Low defaults increased participation (lower-bar effect) while reducing donation amounts among donors (scale-back effect), creating countervailing effects that often offset in net revenue.",
+    "Introducing defaults reduced sensitivity to other cues (including positive charity information), and in the natural field study defaults - especially low defaults - increased participation and overall revenue, with no evidence that high defaults caused a revenue backfire."
+  ],
+  "one_line_summary": "Across eight studies of charitable appeals, default donation amounts changed giving through offsetting increases in participation and decreases in gift size, while also dampening responsiveness to other cues, with low defaults increasing revenue in a field campaign.",
+  "relation_to_prior_work": "extends prior default research from mostly passive or dichotomous settings to active, multi-option charitable donation decisions and quantifies effect sizes and moderators. The paper also challenges a simple universal prescription to use higher defaults by showing separable lower-bar, scale-back, and distraction mechanisms and little support for a broad backfire effect.",
+  "research_gap": "Prior default research largely demonstrated that defaults can matter, but offered limited evidence on effect magnitude and moderators, often in dichotomous or passive-default contexts unlike charitable giving. The authors note that existing work did not directly predict how low versus high choice-option defaults would affect donation rate, donation amount, and net revenue when giving is voluntary.",
+  "research_question": "How does setting one donation amount as a choice-option default in a charitable appeal affect donation behavior? Specifically, the paper asks how default presence and default magnitude influence donation rate, average donation amount, and total revenue, and under what conditions defaults help, hurt, or cancel out."
+}

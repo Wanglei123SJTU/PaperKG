@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces the rejectable-versus-forced choice set distinction and argues that no-choice availability shifts judgments from comparative to more evaluative processing.",
+    "It demonstrates that a no-choice option can change preferences and choices even when the no-choice option is not selected.",
+    "It shows a methodological implication for choice experiments: including versus excluding no-choice options can systematically alter recovered conjoint parameters."
+  ],
+  "context": "The studies examine consumer choices in product settings such as laptops, digital cameras, televisions, restaurants, and packaged food products. Evidence comes from university labs, online panels, and a conjoint application run with a food company in U.S. metropolitan markets.",
+  "design_and_data": "The paper reports six empirical studies (plus a replication of Study 5) with randomized manipulations of forced versus rejectable choice sets. Methods include process tracing with a Mouselab-like interface (Study 1, N=36), memory recall pattern coding (Study 2, N=87), concept accessibility via a timed word puzzle after choice (Study 3, N=151), and attribute-importance/choice-share tests using controlled trade-off stimuli (Study 4, N=46; Study 5, N=122; replication N=126). Study 6 is a choice-based conjoint field application with a food company, where participants completed 16 choice tasks of three alternatives described by six attributes, and partworths were estimated with hierarchical Bayes MCMC. The authors compare recovered preferences between forced and rejectable conjoint designs and report that incomplete surveys were omitted.",
+  "focal_constructs": [
+    "no-choice options",
+    "rejectable choice sets",
+    "forced choice sets",
+    "evaluative judgments",
+    "comparative judgments",
+    "alternative-based versus attribute-based processing",
+    "enriched versus comparable attributes",
+    "attribute-specific thresholds"
+  ],
+  "main_findings": [
+    "Compared with forced choice sets, rejectable choice sets produced more alternative-based information processing and recall, and greater accessibility of evaluative rather than comparative concepts.",
+    "When a no-choice option was available, consumers gave relatively greater weight to enriched attributes and to attributes whose levels were closer to minimum thresholds, and these weighting shifts changed alternative choice shares.",
+    "In the food-company conjoint application, including a no-choice option shifted estimated preferences: comparable attributes received lower relative weight in rejectable designs than in forced designs."
+  ],
+  "one_line_summary": "Across six studies, the paper shows that simply adding a no-choice option changes nondeferring consumers' judgment mode, attribute weighting, and final choices, including conjoint parameter estimates.",
+  "relation_to_prior_work": "challenges the assumption that an undesired no-choice option should be irrelevant for consumers who still pick one of the offered alternatives. It extends prior no-choice research focused on deferral determinants by identifying process and preference effects among nondeferring choosers.",
+  "research_gap": "Prior no-choice research mainly examined why consumers defer choice and the statistical handling of no-choice responses, with limited attention to consumers who do not defer. The paper addresses whether no-choice availability still changes these consumers' decision processes and preferences.",
+  "research_question": "Does the mere presence of a no-choice option alter the decision processes and preferences of consumers who ultimately choose one of the available alternatives? If so, does it shift judgment from comparative to evaluative, and does that shift change attribute weights and choice outcomes?"
+}

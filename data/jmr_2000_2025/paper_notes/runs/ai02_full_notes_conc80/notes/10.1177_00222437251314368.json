@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "The paper claims to be the first to show that consumers use product sound volume as a status signal.",
+    "It claims to identify a mapping between status pathways and auditory choices: dominance aligns with louder product signals, while prestige aligns with quieter product signals.",
+    "It claims to identify a boundary condition for prestige signaling: preference for quiet volume is stronger when other social-rank markers are present."
+  ],
+  "context": "The paper studies status signaling through product sounds across multiple consumer settings: multiplayer video game character selection, real-world vehicle ownership, drone design, and doorbell choice. The shared context is that consumers can choose relatively louder or quieter product volume.",
+  "design_and_data": "Study 1 uses secondary data from a large U.S. multiplayer online battle arena game, with 6,015 players and 2,050,005 character choices over five months (1,669,685 observations in the main lagged model), and measures character voice volume in dB from prerecorded voice lines. Prestige is proxied by accumulated experience points and dominance by relative kills versus opponents, with fixed effects and extensive user-, character-, and audio-related controls. Study 2 surveys Prolific vehicle owners (n=346; n=327 with matched objective noise data) on trait dominance/prestige and links these traits to subjective and objective vehicle loudness; an additional merged vehicle dataset (991 models) is used to analyze MSRP-volume patterns. Study 3 is a preregistered lab experiment (n=400) manipulating dominance vs prestige vs control in drone design, and Study 4 is a preregistered choice-based conjoint (n=300) on doorbells varying in volume and logo inscription with measured trait dominance/prestige.",
+  "focal_constructs": [
+    "product sound volume",
+    "status signaling",
+    "dominance",
+    "prestige",
+    "loud versus quiet product choice",
+    "concurrent status markers"
+  ],
+  "main_findings": [
+    "Across model, survey, experiment, and conjoint evidence, dominance-related status striving predicts preference for louder product volume, while prestige-related status striving predicts preference for quieter volume.",
+    "For prestige-driven consumers, quiet-volume preference depends on concurrent status cues: it is stronger when another marker of rank is present (such as an inscribed recognizable logo) and weaker when such cues are absent.",
+    "In the vehicle pricing analysis, MSRP follows a U-shaped relationship with engine volume, with very quiet and very loud vehicles priced higher than average-volume vehicles."
+  ],
+  "one_line_summary": "The paper shows that consumers use product volume as a status signal, with dominance-linked consumers preferring louder products and prestige-linked consumers preferring quieter products, especially when other status markers are present.",
+  "relation_to_prior_work": "extends status-signaling research beyond primarily visual cues by testing literal auditory signaling through product volume. It extends sensory-marketing research by showing that product volume is a choice-relevant attribute consumers use to communicate their status pathway.",
+  "research_gap": "Prior work has emphasized visual status signals and offered little evidence on whether auditory product cues, especially volume, are used by consumers to signal status. The paper also identifies limited research on why some consumers prefer loud versus quiet product sounds.",
+  "research_question": "Do consumers use product sound volume to signal social status through their product choices? Specifically, does pursuing status via dominance versus prestige lead consumers to prefer louder versus quieter product sounds, and is prestige-driven quiet signaling contingent on the presence of other status markers?"
+}

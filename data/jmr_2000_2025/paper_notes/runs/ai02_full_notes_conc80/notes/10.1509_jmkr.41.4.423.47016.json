@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Extends response-mode research to decisions where a no-choice option is available by contrasting an unconditional brand-choice format with a buy/no-buy-first format.",
+    "Proposes and tests that a buy/no-buy-first mode increases alternative-based evaluation, which changes the weighting of shared versus unique features and thus affects deferral.",
+    "Provides process evidence (Mouselab) and boundary-condition tests (modified buy/no-buy mode, category reference quality, and selection difficulty) for the proposed mechanism."
+  ],
+  "context": "The paper studies consumer purchase decisions where people can either choose among available options or defer and look elsewhere. The experiments use multiple product and service categories (for example, restaurants, vacations, apartments, batteries, grills, telephones, printers, lightbulbs, and personal data assistants).",
+  "design_and_data": "The evidence comes from a pilot and three lab studies with undergraduate marketing students. The pilot compares unconditional brand-choice versus buy/no-buy modes in binary sets with manipulated shared and unique good/bad features, and also collects product-liking ratings. Study 1 (n = 67) uses Mouselab process tracing across three categories to measure attribute- versus alternative-based transitions (PATTERN) and attention to unique versus shared information (COMM), with mediation tests on deferral. Study 2 (n = 238) adds a modified buy/no-buy condition (forced selection before keep/defer), and Studies 3A (n = 197, 2 x 2 mode x selection difficulty) and 3B (n = 145) test effects of category reference quality (better or worse than available options).",
+  "focal_constructs": [
+    "buy/no-buy response mode",
+    "unconditional brand-choice response mode",
+    "choice deferral",
+    "attribute-based evaluation",
+    "alternative-based evaluation",
+    "shared versus unique features",
+    "category reference information",
+    "selection difficulty"
+  ],
+  "main_findings": [
+    "Deferral was higher in buy/no-buy mode than in unconditional brand-choice mode when options had shared bad and unique good features, but lower in buy/no-buy mode when options had shared good and unique bad features.",
+    "Process-tracing results showed more attribute-based processing and greater focus on unique (vs shared) information in unconditional brand-choice mode, and this processing difference partially mediated response-mode effects on deferral.",
+    "Deferral in the modified buy/no-buy mode was similar to unconditional brand-choice mode, and category-reference effects were stronger in buy/no-buy mode: a superior reference increased deferral there, an inferior reference decreased deferral there, and mode differences were larger when selection was easy."
+  ],
+  "one_line_summary": "Across experiments, the paper shows that putting the buy/no-buy decision before brand selection shifts evaluation processes and systematically changes purchase deferral and sensitivity to reference information.",
+  "relation_to_prior_work": "extends prior work on choice deferral and response-mode effects by introducing and testing a buy/no-buy-first mode against the commonly used unconditional brand-choice mode with a no-choice option. It connects this extension to comparison-process differences and to differential effects of category references and choice conflict.",
+  "research_gap": "Prior behavioral studies of deferral generally treated no-choice as just another response option in unconditional brand-choice tasks, emphasizing selection among brands. The paper identifies a missing test of how decisions differ when consumers first decide whether to buy at all, as often happens in marketplace settings.",
+  "research_question": "How does response mode - buy/no-buy first versus unconditional brand choice with no-choice as another option - change evaluation processes and the likelihood of deferring purchase? Are observed deferral differences driven by shifts in comparative processing rather than mere salience of the no-buy option, and how are these effects shaped by category references and selection difficulty?"
+}

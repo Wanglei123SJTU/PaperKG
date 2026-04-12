@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces three constrained Bayesian finite mixture regression extensions for segmentation with variable selection: common factors, distinctive factors, and dimension constraints.",
+    "Shows how managerial implementation restrictions can be imposed directly in segment-level variable selection to increase actionability and enable confirmatory heterogeneity pattern testing.",
+    "Demonstrates with synthetic data and a SERVPERF insurance application that the constrained models can capture constrained heterogeneous response patterns and are more robust to multicollinearity than traditional alternatives."
+  ],
+  "context": "The empirical illustration is service quality evaluation in insurance, using National Insurance Company policyholders. Overall service quality is modeled from 22 SERVPERF performance items under heterogeneous customer segments.",
+  "design_and_data": "The paper develops three constrained variants of the Kim, Fong, and DeSarbo (2012) Bayesian finite mixture regression with spike-and-slab segment-level variable selection: a dimension-constrained model, a common factors model, and a distinctive factors model. Estimation is done with Gibbs/MCMC, with label-switching postprocessing; model selection uses log marginal likelihood/Bayes factors and variable inclusion uses posterior-to-prior odds ratios (cutoff 20). A Monte Carlo study with synthetic data varies generating heterogeneity pattern, predictor collinearity, number of segments, and sample size, and compares against FlexMix and RegmixMH. The empirical analysis uses 191 returned surveys from a random mailing to 1,000 National policyholders, with 22 SERVPERF predictors and a 10-point overall service quality dependent variable.",
+  "focal_constructs": [
+    "finite mixture Bayesian regression",
+    "segment-level variable selection",
+    "managerial constraints",
+    "market segmentation heterogeneity",
+    "actionability",
+    "multicollinearity",
+    "SERVPERF service quality"
+  ],
+  "main_findings": [
+    "In Monte Carlo analyses, the proposed constrained Bayesian models recovered intended heterogeneity patterns under matching data structures and were more robust to multicollinearity than FlexMix and RegmixMH.",
+    "In the National SERVPERF application, the distinctive factors model with K = 2 segments achieved the best overall fit by log marginal likelihood among all tested models and segment counts.",
+    "The selected distinctive factors solution yielded face-valid segment drivers: Segment 1 was driven by Empathy 5 and Reliability 2, while Segment 2 was driven by Reliability 1, Empathy 1, and Assurance 2, avoiding problematic negative-driver interpretations seen in several traditional results."
+  ],
+  "one_line_summary": "The paper extends Bayesian model-based segmentation with three managerial constraint structures and shows through simulation and a SERVPERF insurance case that constrained models can deliver more robust and actionable segment-level driver identification.",
+  "relation_to_prior_work": "extends Kim, Fong, and DeSarbo (2012) by adding explicit managerial-constraint structures to Bayesian segment-level variable selection. It is contrasted with latent class and Bayesian mixture regressions that do not jointly enforce these constraint types while selecting variables.",
+  "research_gap": "Existing segment-level variable-selection models were described as exploratory and could yield many significant, hard-to-implement predictors, especially in highly collinear service quality data. The authors argue that no latent structural model had simultaneously performed variable selection and accommodated managerial constraints such as common, distinctive, and dimension-based restrictions.",
+  "research_question": "How can a Bayesian finite mixture regression for segment-level variable selection be extended to incorporate managerial constraints that improve implementation actionability? Do these constrained formulations better represent heterogeneous response patterns and perform more robustly than traditional and unconstrained approaches in multicollinear service quality data?"
+}

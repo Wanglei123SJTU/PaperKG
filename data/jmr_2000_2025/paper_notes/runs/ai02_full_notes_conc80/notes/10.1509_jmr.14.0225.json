@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Applies a two-sided matching framework with transfers to sports sponsorship contracts to model sponsor-club partner choice as an equilibrium outcome rather than independent decisions.",
+    "Provides empirical evidence in English football that match value depends on sponsor-club fit factors such as geographic distance, club quality, sponsor size, and prior relationships.",
+    "Uses estimated matching parameters to run policy counterfactuals for alcohol and gambling sponsorship bans, highlighting large indirect equilibrium effects across clubs."
+  ],
+  "context": "The paper studies shirt sponsorships in English men's football clubs, where each club typically has one shirt sponsor per season and sponsorship revenues are economically important. The policy context is debate over banning controversial sponsors, especially alcohol and gambling firms, in sports.",
+  "design_and_data": "The authors build a panel of shirt sponsorship signings and renewals for 43 English clubs that appeared in the Premier League at least once, with 490 sponsorship events from 1979-2010 and a main estimation sample of 346 events from 1990-2010. They estimate a two-sided matching model using Fox's local production maximization inequalities and maximum score estimation, with markets defined by season. Match value is specified from interactions between club and sponsor characteristics (including distance, club quality, sponsor revenue, industry, and prior ties). They then simulate equilibrium counterfactual matches under bans on alcohol sponsors, gambling sponsors, and both.",
+  "focal_constructs": [
+    "two-sided matching markets",
+    "sports shirt sponsorships",
+    "controversial sponsor bans",
+    "geographic distance",
+    "assortative matching",
+    "previous sponsorship lock-in",
+    "equilibrium indirect effects"
+  ],
+  "main_findings": [
+    "Observed sponsorships show assortative matching: higher-quality clubs, especially those with higher attendance, tend to match with larger-revenue sponsors.",
+    "Geographic distance lowers match value, and this penalty is weaker for better-performing clubs, larger sponsors, and international sponsors.",
+    "Counterfactual bans on alcohol and gambling sponsors generate substantial market reshuffling; the largest losses are concentrated among lower-attendance clubs and clubs in lower-income areas, and the paper estimates about 14% total matching value loss (about GBP24 million) when both are banned."
+  ],
+  "one_line_summary": "Using a two-sided matching model of English football shirt sponsorships, the paper shows that banning alcohol and gambling sponsors can cause large indirect equilibrium losses that fall most on weaker clubs in poorer areas rather than only on currently sponsored clubs.",
+  "relation_to_prior_work": "extends sponsorship research that has largely relied on surveys by using revealed contract-level matching outcomes and a structural two-sided matching approach. It also links sponsorship and strategic alliance questions to equilibrium counterfactual analysis in matching markets.",
+  "research_gap": "Prior sponsorship studies are described as limited and often survey-based, offering little evidence from actual sponsor-club matching outcomes. The paper identifies a lack of equilibrium analysis of how sponsorship regulation affects all market participants through interdependent matching, not just directly targeted sponsors and clubs.",
+  "research_question": "What factors govern the formation and renewal of sports sponsorship matches when both clubs and sponsors must agree? How would equilibrium sponsorship outcomes change if controversial sponsors, specifically alcohol and gambling firms, were banned?"
+}

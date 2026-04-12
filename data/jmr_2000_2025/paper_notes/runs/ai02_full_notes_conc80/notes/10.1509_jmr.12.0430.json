@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Shows that common labels for equivalent prospects (e.g., lottery ticket, raffle, coin flip, gamble vs gift certificate, voucher) substantially change willingness to pay.",
+    "Introduces and tests a bad-deal aversion account in which buyers focus on negative aspects of a transaction, producing framing-sensitive WTP, while sellers rely more on objective value components, producing framing-insensitive WTA.",
+    "Provides a new account of when the uncertainty effect arises by showing that frame mismatches between a risky prospect and its lowest outcome can generate valuation below the worst outcome."
+  ],
+  "context": "The paper studies consumer valuations in online experiments where participants price gift-certificate prospects for retailers such as Best Buy and Barnes & Noble. Prospects are described with different labels that vary in perceived risk association, under buyer (WTP) and seller (WTA) roles.",
+  "design_and_data": "The evidence comes from four between-subjects MTurk experiments (N=119, 418, 533, and 605), plus pretests that measured how strongly frames are associated with risk/uncertainty. Experiment 1 used real incentive-compatible payoffs for WTP between a lottery-ticket frame and an uncertain gift-certificate frame; Experiments 2-4 used hypothetical valuations with comprehension checks and common exclusion rules. Experiment 2 crossed frame, outcome levels, and endowment status (buyer vs seller) to compare WTP and WTA sensitivities; Experiment 3 generalized to six frames. Experiment 4 orthogonally manipulated frame and objective uncertainty (certain low outcome vs risky prospect) and also measured processing disfluency.",
+  "focal_constructs": [
+    "framing of risky prospects",
+    "willingness to pay",
+    "willingness to accept",
+    "bad-deal aversion",
+    "risk association of labels",
+    "endowment status",
+    "uncertainty effect"
+  ],
+  "main_findings": [
+    "Buyers were willing to pay significantly less when equivalent prospects were framed with risk-associated labels (lottery, raffle, coin flip, gamble) than with less risk-associated labels (gift certificate, voucher), including with real payoffs and even for objectively certain offers.",
+    "WTP was sensitive to a prospect's lowest outcome and frame-associated risk but not to the highest outcome, whereas WTA was sensitive to both low and high outcomes and was not affected by frame.",
+    "The uncertainty effect emerged when a risky prospect used a high-risk-associated frame and its certain lowest outcome used a low-risk-associated frame, but it largely disappeared when risky and certain prospects were framed similarly."
+  ],
+  "one_line_summary": "Across four experiments, risk-associated labels lowered buyers' willingness to pay for equivalent prospects while leaving sellers' willingness to accept unchanged, and this framing asymmetry can produce the uncertainty effect.",
+  "relation_to_prior_work": "extends endowment-effect and valuation research by showing that a prospect's label can differentially influence buyers and sellers beyond previously studied market-price and valuation mechanisms. It also extends uncertainty-effect work by identifying frame mismatch as one specific mechanism that can create dominance-violating valuations.",
+  "research_gap": "Prior framing research focused heavily on gain/loss formulations, and existing evidence did not clearly establish how common labels for risky prospects affect WTP versus WTA differently. The uncertainty-effect literature also lacked a clear account of when the effect appears versus disappears across studies using different prospect descriptions.",
+  "research_question": "How do common labels for risky prospects that differ in perceived risk association influence consumers' willingness to pay versus willingness to accept? Are buyers and sellers affected by different prospect attributes (frame-associated risk, low outcome, high outcome), and can these framing effects explain when the uncertainty effect occurs?"
+}

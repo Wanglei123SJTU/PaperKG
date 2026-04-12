@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses a control function endogeneity correction as part of its core estimation strategy and explicitly points to Petrin and Train (2010) as methodological guidance. This citation appears in the model-estimation section where the authors implement instruments and include endogeneity-correction residuals in their habit equations. Even though it is cited alongside Wooldridge, the role is functional and central to how the empirical model is estimated.",
+  "relation_description": "The citing study applies Petrin and Train's control function logic to correct endogeneity in firm-initiated marketing variables. It operationalizes this by estimating first-stage relationships with instruments and inserting correction residuals into the main habit-strength model.",
+  "relation_type": "applies"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper explicitly models interactions (e.g., newness × time) in logit and hazard analyses, and the cited paper is a methodological guide on correctly specifying and interpreting interaction terms in moderated regression. That makes the citation plausibly a methods source rather than a purely incidental background mention. With only a DOI-level match and no quote context, it still should be retained for second-stage relation judgment rather than dropped.",
+  "triage_decision": "keep_for_relation_judgment"
+}

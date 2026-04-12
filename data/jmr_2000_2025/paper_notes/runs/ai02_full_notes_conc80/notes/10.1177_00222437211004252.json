@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper applies political identity theory to SEP preferences, a consequential and underexamined consumption domain in marketing.",
+    "It identifies self-focus as a boundary condition that determines when identity-congruent SEP preferences emerge.",
+    "It provides evidence that need for structure is an underlying mechanism linking conservatism/liberalism to conformance/independence SEP preferences."
+  ],
+  "context": "The setting is the supplemental education market (e.g., tutoring, educational materials, online programs, and language software), mainly in the United States. The focal decision makers are parents choosing programs for children, including both their own children and school-level choices for other children.",
+  "design_and_data": "The paper reports five studies. Study 1 analyzes a large U.S. parent survey (N = 7,256) on pedagogical preferences and political identity; Study 2 is a field study with parents at day care centers and schools (final N = 167) using actual gift choice after exposure to conformance vs. independence flyers. Studies 3-5 are online parent experiments (N = 571, 228, 314) with incentive-compatible choices or purchase intentions, multiple political identity measures (single item, issue-based scale, and media habits), measured or manipulated self-focus, and varied SEP stimuli (materials, math website, language software). Studies 4 and 5 test moderated mediation with need for structure.",
+  "focal_constructs": [
+    "political identity",
+    "supplemental educational programs",
+    "conformance pedagogical orientation",
+    "independence pedagogical orientation",
+    "self-focus",
+    "need for structure",
+    "parental SEP preference"
+  ],
+  "main_findings": [
+    "Across datasets and stimuli, liberals were more likely to prefer independence-oriented SEPs, whereas conservatives were more likely to prefer conformance-oriented SEPs.",
+    "The political identity effect was stronger when self-focus was high and attenuated or absent when self-focus was low.",
+    "Differences in need for structure mediated the link between political identity and SEP preference, and this indirect effect appeared primarily under high self-focus."
+  ],
+  "one_line_summary": "Across five studies, the paper shows that conservative parents prefer conformance-oriented supplemental educational programs and liberal parents prefer independence-oriented programs, especially when parents are self-focused, with need for structure explaining this pattern.",
+  "relation_to_prior_work": "extends prior political identity and consumer behavior research to supplemental education decisions and shows that effects depend on self-focus. It also adds an internal attentional moderator to identity-consistent behavior research that has often emphasized externally generated motives.",
+  "research_gap": "The authors state that despite the rapid growth of supplemental educational programs, very little is known about how parents form preferences among different pedagogical approaches. They also motivate a gap in understanding how political identity affects education-related consumption and when identity-consistent preferences are more or less likely to manifest.",
+  "research_question": "How does parents' political identity shape their preference for supplemental educational programs that differ in pedagogical orientation (conformance vs. independence)? The paper also asks when this effect is stronger or weaker (self-focus) and whether differences in need for structure explain it."
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Demonstrates the counterintuitive effect that making a self-imposed price restraint salient can increase, not decrease, spending.",
+    "Introduces and tests a two-part process account in which salient restraints (1) scale perceived quality differences and (2) shift attribute weighting toward quality and away from price.",
+    "Argues that price-restraint salience is an important factor for consumer choice theory, with implications for reference-price and multistage decision frameworks."
+  ],
+  "context": "The paper studies consumer shopping decisions in which people set a budget, target price, or maximum willingness to pay before choosing among market options. Empirical contexts include pens, HDTVs, netbooks, earphones, and six additional product categories (garage doors, mattresses, TVs, surround sound systems, Blu-ray players, and carry-on luggage).",
+  "design_and_data": "The authors report six experiments using student and online adult samples. Experiment 1 is an incentivized lab study with real pen purchases (108 recruited, 85 made a purchase choice) comparing a planned-spending prompt versus no prompt. Experiments 2-5 are controlled online choice studies (N = 103, 148, 100, 112) that vary price-restraint salience, price positions around restraints, quality-information ambiguity, and attention to price (including a concealed-price manipulation). Experiment 6 is an online multi-category study (N = 201) with budget articulation versus control, product quality ratings, choices, and an unannounced brand-recall test.",
+  "focal_constructs": [
+    "self-imposed price restraints",
+    "price restraint salience",
+    "consumer spending",
+    "quality perceptions",
+    "attribute weighting (price vs. quality)",
+    "consideration set narrowing",
+    "target restraints and upper restraints"
+  ],
+  "main_findings": [
+    "Across studies, making price restraints salient increased preference for higher-priced, higher-quality options and often increased spending relative to no-restraint-salience conditions.",
+    "Salient restraints increased perceived quality gaps between options, especially for options near the restraint, and perceived quality differences mediated the effect on choosing the more expensive option.",
+    "Salient restraints shifted decision weighting toward quality and away from price; the spending effect weakened when attention was redirected to price, and weighting measures (self-reports, mediation, and better nonprice recall) supported this mechanism."
+  ],
+  "one_line_summary": "Across six experiments, explicitly making a self-imposed price restraint salient increased preference for higher-priced options by changing perceived quality differences and the relative weight placed on quality versus price.",
+  "relation_to_prior_work": "extends prior consumer choice and reference-price work by showing that the salience of self-imposed restraints can alter choices through quality-related processes, not only through price perception effects. extends multistage decision findings by showing that even without formal prescreening instructions, a salient prior price restraint can lead to later neglect of price information.",
+  "research_gap": "Existing theories commonly include price restraints but generally do not treat the salience of those restraints as a driver of evaluation and choice, while practical advice assumes that setting a budget reduces spending. The paper addresses this gap by testing whether making a restraint salient changes choice processes and can ironically increase spending.",
+  "research_question": "How does making a self-imposed price restraint salient before choice affect consumer preferences and spending? Specifically, can salient restraints increase selection of higher-priced options, and do they do so through larger perceived quality differences and greater decision weight on quality relative to price?"
+}

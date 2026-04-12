@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Shows that PWYW payment levels differ systematically by buyer gender, with men typically paying less than women.",
+    "Introduces and tests a process account in which gender-linked agentic versus communal orientation shapes economic versus social payment motives that drive payment amounts.",
+    "Demonstrates a practical intervention: marketing communications that make social motives salient can raise men's PWYW payments while not reducing women's payments."
+  ],
+  "context": "Pay-what-you-want transactions in consumer markets, spanning an online retailer promotion for a high-priced electronics item and food purchases (cookies and pizza). Evidence comes mainly from U.S. participants in online panel studies and a university lab setting, with both hypothetical and real payments.",
+  "design_and_data": "Study 1 uses secondary aggregate sales data from an online retailer's 2013 PWYW promotion for a consumer electronics product and compares actual payments by self-identified male versus female buyers (n = 97). Study 2 is a U.S. MTurk experiment (2 x 3 between-subjects: participant gender x seller gender; n = 573 after exclusions) in a bakery PWYW scenario measuring stated payment, orientation, and payment motives. Study 3 is a U.S. Prolific experiment (2 x 2: communal-orientation prime vs control x participant gender; n = 428 after exclusions) in a PWYW pizza scenario with stated payment and motive measures. Study 4 is an in-person lab experiment (2 x 2: social vs control marketing communication x participant gender) where participants made real PWYW cookie purchases with cash; payment analyses use 190 matched observations.",
+  "focal_constructs": [
+    "pay-what-you-want pricing",
+    "consumer gender",
+    "agentic orientation",
+    "communal orientation",
+    "economic payment motives",
+    "social payment motives",
+    "marketing communications"
+  ],
+  "main_findings": [
+    "Across field, online, and lab evidence, men paid less than women in baseline PWYW conditions.",
+    "Men reported a more agentic/competitive orientation and women a more communal/cooperative orientation, and this orientation pattern predicted stronger economic and weaker social payment motives for men and the reverse pattern for women, which explained payment differences.",
+    "When communal orientation or social-motive cues were introduced, the gender payment gap attenuated; in the lab communication intervention, men's payments increased while women's payments were largely unchanged."
+  ],
+  "one_line_summary": "Using four studies, the paper shows that men generally pay less than women in PWYW contexts because men are relatively more agentic and economically motivated, and that social-focused marketing cues can increase men's payments and reduce the gender gap.",
+  "relation_to_prior_work": "extends prior PWYW research that emphasized fairness, altruism, and seller-side design by adding buyer gender as an observable predictor of payment magnitude. It also links agency-communion theory from gender and consumer behavior research to PWYW price-setting through economic versus social payment motives.",
+  "research_gap": "Prior PWYW studies identify several correlates of payment, but many buyer-side predictors are difficult for managers to observe and some effects do not generalize across contexts. The paper argues that the role of buyer gender in PWYW price-setting has received limited direct attention, leaving a practical and theoretical gap.",
+  "research_question": "In PWYW settings, do men and women systematically pay different amounts, and what mechanism explains any difference? The paper tests whether gender-linked agentic versus communal orientation alters the salience of economic versus social payment motives, and whether making social motives salient can increase payments among lower-paying consumers."
+}

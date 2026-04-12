@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper discusses Srinivasan, Vanhuele, and Pauwels (2010) repeatedly in the introduction and literature review as an \"initial foray\" linking mind-set metrics to sales. It uses that study's findings (e.g., dynamic evolution of metrics and sales-to-mind-set feedback) to motivate its own hypotheses and model design. The paper then explicitly develops beyond that prior approach by introducing latent intermediate factors, measurement-error filtering, and hierarchy testing, and it later interprets results in relation to Srinivasan et al. This is a meaningful conceptual and methodological building-on role, not a passing mention.",
+  "relation_description": "The 2012 study builds on Srinivasan et al. (2010)'s integrative mind-set-to-sales modeling line by extending it to a dynamic latent-factor hierarchy framework. It adds denoising/measurement-error treatment and explicit hierarchy and reinforcement structure while using the 2010 paper as a key prior benchmark and motivation.",
+  "relation_type": "extends"
+}

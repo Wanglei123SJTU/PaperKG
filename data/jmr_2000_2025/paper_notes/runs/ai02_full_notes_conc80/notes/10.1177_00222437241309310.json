@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides causal evidence that featuring models with disabilities can improve fashion marketing effectiveness across multiple outcomes and study settings.",
+    "It identifies perceived brand warmth and brand coolness as parallel mechanisms behind the effect, while finding no support for reduced actual or ideal self-identification as the main pathway.",
+    "It shows important boundary conditions and distinctions: benefits weaken when adoption appears reactive or follower-like, and disability representation is more effective than plus-size representation in this context."
+  ],
+  "context": "The paper studies fashion marketing communications, including social media ads, fashion brand web pages, and fashion-magazine-style campaign content. It focuses on model representation in an industry where disability representation is rare relative to the prevalence of disability in the population.",
+  "design_and_data": "The authors report ten preregistered experiments (including four supplemental studies) that combine a Facebook field A/B ad test with online lab experiments in the United States and China. The field test used Meta split testing to compare ads with vs without a prosthetic-leg model and tracked click-through rates and cost per click (4,890 users reached; 6,100 impressions). Lab studies manipulated disability type and visibility/recognizability (e.g., prosthetic leg, deafness with cochlear implant cues, nonverbal learning disability via text), compared disability vs plus-size representation, and manipulated adoption context (proactive vs reactive; first mover vs follower). Outcomes included click behavior, brand attitudes, behavioral intentions, and choice, with mediation tests for brand warmth and coolness.",
+  "focal_constructs": [
+    "disability representation",
+    "fashion marketing effectiveness",
+    "brand warmth",
+    "brand coolness",
+    "actual and ideal self-identification",
+    "disability recognizability",
+    "plus-size representation",
+    "adoption diagnosticity cues"
+  ],
+  "main_findings": [
+    "Featuring models with disabilities (vs without disabilities) generally increased fashion marketing effectiveness, including click-through performance, brand evaluations, behavioral intentions, and choice.",
+    "The positive effect was explained by higher perceived brand warmth and brand coolness, while competing accounts such as reduced self-identification, brand competence, and product performance did not explain the effect.",
+    "Benefits were stronger when disability representation was recognizable and when the brand acted proactively or as a first mover; effects attenuated under reactive or follower adoption, and disability representation outperformed plus-size representation overall."
+  ],
+  "one_line_summary": "Across preregistered field and lab experiments, disability representation in fashion marketing generally improved effectiveness by increasing perceived brand warmth and coolness, with weaker effects when recognition or adoption authenticity cues were unfavorable.",
+  "relation_to_prior_work": "extends prior DEI marketing research by showing that disability representation in fashion can improve outcomes through specific brand perception mechanisms rather than through self-identification with models. It also extends work on brand coolness and CSR by demonstrating that proactive and first-mover adoption strengthens these benefits, whereas reactive or follower adoption weakens them.",
+  "research_gap": "Despite increasing interest in inclusive marketing, it was unclear whether featuring people with disabilities helps or hurts fashion brands because real campaigns drew mixed reactions and existing theory made competing predictions. The paper addresses this unresolved issue by directly testing opposite process accounts.",
+  "research_question": "Does featuring people with disabilities in fashion marketing communications help or hurt marketing effectiveness? Through which mechanisms does this effect operate, and when does it strengthen or attenuate?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Differentiates two forms of other-benefit CSR appeals (social vs environmental) and shows they have distinct effects on consumer demand in a food waste context.",
+    "Shows that commonly used prosocial cues in marketing (environmental messaging and green color) can backfire for rescue-based food by activating physical waste associations and negative mental imagery.",
+    "Extends food-waste consumer research beyond unattractive produce to packaged and prepared foods, and offers actionable guidance on how to disclose rescued ingredients without depressing demand."
+  ],
+  "context": "The paper studies rescue-based food (RBF): products made from safe ingredients that would otherwise be discarded due to oversupply or aesthetics. Empirical settings include packaged foods and restaurant items in online studies and an on-campus restaurant field setting.",
+  "design_and_data": "The evidence includes a pilot and four studies. A pilot lab study with students (n=229) used thought-listing and coding to assess spontaneous associations with RBF; Study 1a (undergraduates, n=160) manipulated waste-associated versus non-waste promotional taglines across restaurant and packaged-food contexts; Study 1b (MTurk, n=362) compared RBF with waste associations, RBF without waste associations, and conventional products across bread, juice, and chips. Study 2 (MTurk, n=183) used a 2x2 experiment crossing benefit appeal (environmental vs social) and cognitive load, and tested mediation via mental imagery. Study 3 was an 8-week field experiment in a Dutch university restaurant (1,780 soup choices) crossing appeal type and bowl color (green vs white) and measuring actual choice of rescue-based versus conventional soup.",
+  "focal_constructs": [
+    "rescue-based food",
+    "physical waste associations",
+    "mental imagery of physical waste",
+    "disgust",
+    "environmental benefit appeals",
+    "social benefit appeals",
+    "cognitive load",
+    "green color cue"
+  ],
+  "main_findings": [
+    "In the pilot, references to physical waste were rare (7.2% of coded thoughts), indicating consumers do not strongly and automatically associate RBF with physical waste.",
+    "When marketing cues made physical waste associations salient, purchase intentions for RBF decreased; when such associations were absent, purchase intentions were comparable to conventional food.",
+    "Environmental appeals reduced demand for RBF under low cognitive load through greater mental imagery of physical waste, and in the field this penalty appeared when environmental appeals were paired with an additional environmental cue (green), whereas social appeals or fewer such cues mitigated the effect."
+  ],
+  "one_line_summary": "The paper shows that rescue-based food is penalized when marketing cues evoke physical waste imagery - especially environmental appeals combined with green cues - but demand is restored when those associations are avoided.",
+  "relation_to_prior_work": "extends prior CSR and prosocial-appeal research by distinguishing social versus environmental other-benefit appeals in food waste marketing and showing different behavioral consequences. extends mental imagery research by demonstrating a negative imagery pathway, where cue-induced visualization of physical waste lowers consumer preference.",
+  "research_gap": "The paper argues that although firms often promote rescue-based foods with waste-reduction and environmental claims, prior research had not examined whether these tactics can unintentionally trigger physical-waste associations that suppress demand. It also addresses limited evidence on distinct effects of social versus environmental CSR appeals in this domain.",
+  "research_question": "How does the way firms communicate rescue-based food influence consumer demand? Specifically, does making physical waste associations salient (for example through environmental appeals and green cues) reduce demand by increasing negative mental imagery, and can this penalty be reduced through alternative appeals or constrained cue conditions?"
+}

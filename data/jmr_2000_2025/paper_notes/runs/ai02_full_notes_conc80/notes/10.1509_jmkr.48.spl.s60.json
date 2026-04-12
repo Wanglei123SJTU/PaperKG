@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper jointly evaluates two policy-relevant interventions for credit card repayment behavior: increasing minimum required payments and disclosing supplemental loan information.",
+    "Using a multimethod design (U.S. experiments plus U.K. field transactions), it provides evidence on how minimum-payment policy and statement disclosure are linked to repayment decisions.",
+    "It documents borrower heterogeneity in these effects, highlighting moderators such as propensity to pay the minimum, credit limit, and balance due."
+  ],
+  "context": "The setting is revolving credit card debt repayment in the United States and United Kingdom, where borrowers make monthly repayment decisions from credit card statement information. The paper is motivated by lender and regulatory interventions such as higher required minimum payments and CARD Act-style repayment warnings.",
+  "design_and_data": "Study 1a is a two-cell between-subjects experiment with 127 U.S. adults who saw a hypothetical statement with or without minimum-payment information and chose a repayment amount. Study 1b is a seven-condition between-subjects experiment with 481 U.S. adults that varies minimum payment level (control, 2%, 5%) and supplemental disclosures (future interest cost, time to payoff, combined disclosures, and three-year payoff amount information). Study 2 uses anonymized U.K. credit card field data from 11 providers, covering 955,014 statements from 106,554 cardholders over 21 months; the main analysis focuses on statements with predetermined percentage minimums (n = 602,850) after exclusions (for example, automatic payments and promotional-rate/balance-transfer cases). The field analysis models relative repayment as a mixture of minimum, full, and partial repayment components and estimates effects of relative minimum payment, balance, credit limit, and their interactions.",
+  "focal_constructs": [
+    "minimum required payment information",
+    "minimum payment level",
+    "supplemental loan information disclosure",
+    "credit card repayment amount",
+    "propensity to pay the minimum",
+    "credit limit",
+    "outstanding balance",
+    "full vs partial vs minimum repayment"
+  ],
+  "main_findings": [
+    "Presenting minimum required payment information reduced repayment amounts in U.S. experiments versus statements without that information.",
+    "Raising the required minimum payment produced positive repayment effects for many borrowers, especially those with moderate to high propensity to pay the minimum, and in U.K. single-policy provider data higher minimums were associated with more full repayment and higher partial repayment; these effects were moderated by balance and credit limit.",
+    "Supplemental disclosures (future interest cost, time to payoff, and three-year payoff information) did not materially offset the negative effect of minimum-payment disclosure, and future-interest-cost disclosure alone increased the likelihood of minimum-only repayment unless accompanied by time-to-payoff information."
+  ],
+  "one_line_summary": "Across U.S. experiments and U.K. credit card field data, the paper finds that displaying minimum payment information suppresses repayment, higher required minimums can improve repayment for many borrowers, and CARD Act-style supplemental disclosures have little overall repayment benefit.",
+  "relation_to_prior_work": "extends prior minimum-payment research by replicating Stewart (2009) with U.S. consumers and testing policy interventions in both experiments and real transaction data, showing limited efficacy of supplemental disclosures and moderated effects of higher minimums.",
+  "research_gap": "The paper states that little prior research had examined how minimum-payment policy and loan-cost disclosure affect individual-level debt repayment decisions. It specifically addresses uncertainty about whether raising required minimum payments or adding supplemental cost/time information can mitigate the negative repayment effect of displaying minimum-payment information.",
+  "research_question": "How do minimum required payment policy and credit card statement disclosures influence consumers' monthly debt repayment decisions? In particular, can increasing required minimum payment levels and disclosing supplemental information (future interest cost, time to payoff, and three-year payoff amount) improve repayment behavior or reduce the negative effect of showing minimum-payment information?"
+}

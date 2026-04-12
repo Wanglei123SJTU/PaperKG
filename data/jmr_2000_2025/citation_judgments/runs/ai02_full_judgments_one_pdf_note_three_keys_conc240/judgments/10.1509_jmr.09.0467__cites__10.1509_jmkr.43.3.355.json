@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is discussed with a specific methodological role, not merely as background. In developing the model, the authors explicitly adopt a response-choice stage for nonignorable missing ratings \"as Ying, Feinberg, and Wedel (2006) suggest\" and present the corresponding conditional formulation. They also implement Ying et al. as a distinct benchmark model in the empirical comparison and show improvements over it. This shows the citation meaningfully informs both model specification and positioning of contribution.",
+  "relation_description": "The citing paper uses Ying et al.'s two-stage missing-rating treatment (selection plus rating) as a component within its own framework for recommendation data. It extends that line by adding a virtual-expert latent residual structure and demonstrating superior predictive performance relative to the Ying et al. model.",
+  "relation_type": "extends"
+}

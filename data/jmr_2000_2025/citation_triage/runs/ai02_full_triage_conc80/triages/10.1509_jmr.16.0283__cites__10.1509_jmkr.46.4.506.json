@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing study’s core method is a Bayesian dynamic state-space Tobit model on longitudinal customer behavior, while the cited paper’s main contribution is developing a hierarchical Bayesian dynamic state-space Type II Tobit model for customer-level prediction. This strong methodological overlap (state-space + Tobit + dynamics/heterogeneity) suggests the citation is plausibly a substantive method/theory source rather than an incidental background mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

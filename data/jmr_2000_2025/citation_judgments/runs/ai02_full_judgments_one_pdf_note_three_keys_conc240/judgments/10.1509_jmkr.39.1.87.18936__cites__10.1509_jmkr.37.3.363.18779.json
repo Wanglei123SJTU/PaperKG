@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citation is used in the HB model estimation section as a direct technical source: the authors point readers to Ansari, Essegaier, and Kohli (2000) for full-conditional distributions and parameterization choices in their Gibbs-sampling inference. This is not just a generic literature-list mention, because it supports how the citing paper operationalizes HB estimation and obtains model results. At the same time, the role is methodological and localized rather than a broad conceptual foundation for the whole article.",
+  "relation_description": "The citing paper applies methodological details from Ansari et al. (2000) to implement Gibbs-sampling-based hierarchical Bayes estimation (especially conditional forms and parameterization choices) in its conjoint-model comparison setting.",
+  "relation_type": "applies"
+}

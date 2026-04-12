@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Shows in WOM/UGC research that knowing a review was generated on a mobile device can positively affect consumer intentions.",
+    "Adds to mobile marketing and consumer psychology by examining inferences about information created on mobile devices, independent of review text content.",
+    "Helps address conflicting findings on mobile versus nonmobile effects by identifying when mobile cues increase persuasion and when they do not."
+  ],
+  "context": "The paper studies online consumer reviews on platforms that display device-origin cues, especially TripAdvisor's \"via mobile\" label. The empirical setting centers on hotel reviews (with one supplemental restaurant replication in experiments).",
+  "design_and_data": "The authors analyze 1,547,219 TripAdvisor hotel reviews from 2,379 hotels in the 12 largest U.S. hotel markets, posted from February 2012 to September 2015, and model review helpfulness votes using count regressions with review and reviewer controls. They also run five randomized experiments (MTurk, Prolific, undergraduate lab pool, and TurkPrime) where review text is held constant and only device cues and moderators are manipulated. Across experiments they test mediation and moderated mediation (PROCESS) using perceived review-writing effort, perceived review credibility, review helpfulness, and purchase intentions.",
+  "focal_constructs": [
+    "mobile versus nonmobile review cue",
+    "perceived review-writing effort",
+    "effort heuristic",
+    "perceived review credibility",
+    "review helpfulness",
+    "purchase intentions",
+    "review valence",
+    "reviewer external motivation"
+  ],
+  "main_findings": [
+    "In field data and controlled experiments, reviews labeled as written via mobile are evaluated more favorably (more helpfulness and higher purchase intentions) than equivalent nonmobile or unlabeled reviews.",
+    "The mobile effect operates through a process in which consumers infer higher physical effort for mobile review writing, which increases perceived review credibility and then purchase intentions.",
+    "The effect is contingent: it weakens or disappears when effort or credibility inferences are disrupted (e.g., effort-equating information, external motivation cues, stronger alternative credibility cues such as top-contributor status or long reviews) and it appears for positive but not negative reviews."
+  ],
+  "one_line_summary": "Using TripAdvisor data and five experiments, the paper finds that a \"via mobile\" review label can raise purchase intentions because consumers infer greater writing effort and therefore greater review credibility.",
+  "relation_to_prior_work": "extends prior WOM and UGC research by identifying device type as a peripheral cue that shapes review persuasiveness even when review content is unchanged. It also extends mobile marketing work that has largely focused on mobile content differences, search environments, or advertising by examining consumer inferences about mobile-created information itself.",
+  "research_gap": "Although some review platforms display whether a review was posted from a mobile device, prior research had not clearly established how this device-origin cue affects review evaluation and downstream purchase intentions. Existing mobile research mostly emphasized content differences, search context, or ads rather than the psychological inferences readers make from a mobile posting cue.",
+  "research_question": "Does knowing that an online review was written on a mobile versus nonmobile device change how consumers evaluate that review and their purchase intentions? If so, is the effect driven by inferred review-writing effort and resulting credibility, and under what conditions does this process hold or break down?"
+}

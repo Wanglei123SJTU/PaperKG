@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "The paper tests for and documents asymmetric peer effects in physician prescribing, showing that nominated opinion leaders causally influence nominators after an exogenous treatment-guideline change while reverse influence is not significant.",
+    "It documents asymmetric response to marketing activity, with nominators less responsive to detailing than opinion leaders.",
+    "It quantifies the managerial value of targeting opinion leaders by estimating detailing spillovers and social multipliers, and outlines an identification strategy for peer effects under endogenous grouping, correlated unobservables, and simultaneity."
+  ],
+  "context": "The study is in U.S. physician prescribing for a large chronic-disease therapeutic class, focusing on a combination-drug subcategory. The data span a period around NIH guideline changes in May 2003 that altered recommended treatment and increased relevance of specialist input.",
+  "design_and_data": "The authors combine a primary survey and secondary behavioral panel data. The survey (Jan-Feb 2004) sampled 1,500 physicians from about 56,000 regular prescribers and yielded 290 physician-opinion leader pairs (267 unique nominators, 182 unique opinion leaders) with self-reported influence links and interaction channels. Secondary data provide 24 months (Apr 2002-Mar 2004) of monthly physician-level new prescriptions and focal-firm detailing for Drug 2, plus aggregate detailing for Drug 1 and zip-level controls constructed from national prescription data. Empirically, they estimate fixed-effects linear models and fixed-effects IV models around the guideline shock, using opinion-leader-side detailing and zip-level prescription measures (and squared terms) as instruments for opinion leader prescribing.",
+  "focal_constructs": [
+    "asymmetric peer effects",
+    "opinion leaders",
+    "physician prescription behavior",
+    "detailing response",
+    "social multiplier of detailing",
+    "causal identification of social interactions"
+  ],
+  "main_findings": [
+    "Opinion leader prescribing has a positive and statistically significant effect on nominator physicians' prescribing after the May 2003 NIH guideline change, and this result is robust across multiple specifications.",
+    "Reverse effects are not statistically significant: nominator physicians' prescribing does not significantly affect opinion leaders' prescribing, consistent with asymmetric social influence.",
+    "Estimated spillovers imply economically meaningful social multipliers from targeting opinion leaders, about 1.05 for the average opinion leader and about 1.35 for the top opinion leader in their sample."
+  ],
+  "one_line_summary": "Using linked survey network data and panel prescription-detailing data around an NIH guideline shock, the paper finds causal and asymmetric opinion-leader influence on physician prescribing and quantifies its marketing multiplier for detailing.",
+  "relation_to_prior_work": "extends prior social-interactions research in marketing, sociology, and economics by identifying causal asymmetric peer effects in a mature pharmaceutical category with explicit physician-opinion leader network links. It also advances prior pharmaceutical diffusion studies by jointly controlling for targeted marketing and addressing endogenous group formation, correlated unobservables, and simultaneity in one empirical framework.",
+  "research_gap": "The paper argues that marketing research had little direct empirical evidence that opinion leaders causally matter in physician behavior, especially for asymmetric influence patterns. It also highlights that prior work often did not fully resolve key identification problems in peer-effects estimation, particularly with targeted marketing present.",
+  "research_question": "Do nominated specialist opinion leaders causally and asymmetrically influence physicians' prescription behavior, especially after an exogenous change in treatment guidelines? How large are these peer effects relative to detailing effects, and what do they imply for the return to targeting opinion leaders via sales force activity?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces and tests multisensory imagery, a brief pleasure-focused intervention for portion control that can be implemented with simple instructions or sensory-rich menu descriptions.",
+    "It claims that focusing on sensory pleasure can create a triple win by reducing chosen portions while preserving consumer enjoyment and maintaining or increasing willingness to pay.",
+    "It claims to extend mindful-eating and simulated-eating research to preconsumption portion-size decisions by contrasting multisensory imagery with health appeals and simulated satiation."
+  ],
+  "context": "The studies examine portion-size decisions for hedonic foods, mainly chocolate cake or brownies and soft drinks, in school, lab, and online settings. The empirical contexts include French and U.S. participants across children, young adults, and adults.",
+  "design_and_data": "The paper reports five experiments testing multisensory imagery against control and alternative interventions. Study 1 used 42 French preschool children and measured both hypothetical and real choices of cake and drink portions after food versus nonfood imagery. Studies 2, 3, and 5 used U.S. MTurk adults (Study 2: n = 200; Study 3: two-wave design with initial n = 100 and follow-up n = 79; Study 5: n = 190) to test hunger moderation, compare simulated satiation or labeling interventions, and measure portion choice, expected enjoyment, and willingness to pay. Study 4 used 367 hungry young French women in a 3 x 4 between-subject design (sensory imagery, health imagery, control x forecasters vs experiencers of different portions) to compare expected versus actual enjoyment and test moderation by dieting tendencies.",
+  "focal_constructs": [
+    "multisensory mental imagery",
+    "portion size choice",
+    "sensory-specific satiation",
+    "expected eating enjoyment",
+    "hunger satiation expectations",
+    "dieting tendencies",
+    "willingness to pay",
+    "calibration of expected and actual enjoyment"
+  ],
+  "main_findings": [
+    "Multisensory imagery reduced portion size choices among hungry and nondieting participants versus control, but had little effect or occasional backlash among sated participants and stronger dieters.",
+    "Unlike simulated satiation and health-based interventions, multisensory imagery did not reduce expected enjoyment and often supported equal or higher willingness to pay for the smaller chosen portions.",
+    "Mechanism evidence showed that multisensory imagery increased reliance on expected sensory pleasure rather than hunger satiation when choosing portions, and it improved calibration between expected and actual enjoyment in a setting where actual enjoyment declined with larger portions."
+  ],
+  "one_line_summary": "Across five experiments, prompting vivid imagery of taste, smell, and texture made hungry nondieters choose smaller hedonic food portions while maintaining expected enjoyment and willingness to pay.",
+  "relation_to_prior_work": "extends prior work on mindful eating and simulated eating by showing that a brief multisensory imagery intervention shifts preintake portion-size decisions toward sensory pleasure criteria rather than health trade-offs or imagined satiation.",
+  "research_gap": "Prior portion-control work emphasized health appeals, labeling, or food type choice, but gave limited insight into how sensory pleasure shapes portion-size choice after a food is selected. The authors also note that mindful-eating and simulated-eating streams had largely neglected preintake portion decisions and expected-versus-actual enjoyment calibration.",
+  "research_question": "Can a brief multisensory imagery intervention make people prefer smaller portions of hedonic foods without reducing anticipated pleasure or willingness to pay? The paper also asks whether this effect depends on hunger and dieting status and whether it works by shifting choice criteria from hunger satiation to sensory pleasure."
+}

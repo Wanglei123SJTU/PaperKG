@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper builds a single-source five-in-one dataset that compares OE, CBC, BDM, and ICBC on the same product task and against the same REAL purchase benchmark.",
+    "It provides a comprehensive assessment of each method's ability to recover both mean WTP and WTP distributions.",
+    "It evaluates methods with managerially relevant decision metrics by comparing implied optimal price, quantity, and profits."
+  ],
+  "context": "The empirical setting is Swiss consumers evaluating an innovative cleaning product for high-tech equipment that was not yet available in Switzerland and had no direct category competition at the time. Data were collected through an online survey plus a realistic web shop purchase setting for the REAL benchmark.",
+  "design_and_data": "The authors use a between-subjects design with five groups: OE (n=279), BDM (n=183), CBC (n=310), ICBC (n=151), and REAL (n=201), total N=1124. CBC and ICBC used 7 choice sets with 4 product alternatives plus a none option, based on 5 attributes (brand, color, durability, cleaning power, price); individual partworths were estimated with hierarchical Bayes and converted to WTP via a piecewise linear approach. REAL data came from an online-shop yes/no purchase decision at randomly assigned prices matching conjoint price levels, and incentive-aligned purchases (BDM, ICBC, REAL) were fulfilled with actual product shipment and payment invoices. Analysis compared mean WTP, distributional fit (including KS/LR style tests), and pricing outcomes from fitted demand curves.",
+  "focal_constructs": [
+    "willingness to pay measurement",
+    "hypothetical bias",
+    "incentive compatibility",
+    "open-ended valuation",
+    "choice-based conjoint",
+    "Becker-DeGroot-Marschak mechanism",
+    "incentive-aligned conjoint analysis",
+    "pricing decision accuracy"
+  ],
+  "main_findings": [
+    "BDM and ICBC perform better overall against REAL than hypothetical methods, with BDM showing the smallest absolute deviations from REAL in mean/distribution and pricing metrics.",
+    "Respondents are more price sensitive in incentive-aligned settings than in hypothetical settings and the REAL setting, and ICBC generates many more none choices than hypothetical CBC.",
+    "Even when OE and CBC show hypothetical bias, they can still produce useful demand and pricing guidance in this application; however, hypothetical methods produced profit forecasts that were statistically different from the REAL benchmark while incentive-aligned methods did not."
+  ],
+  "one_line_summary": "Using a five-group experiment with real purchase fulfillment, the study finds that incentive-aligned WTP methods-especially BDM-track real purchase behavior best, though hypothetical OE and CBC can still yield usable pricing decisions in some cases.",
+  "relation_to_prior_work": "extends prior WTP-method comparisons by evaluating OE, CBC, BDM, and ICBC against a common REAL benchmark within one unified design. It also moves beyond out-of-sample choice prediction to compare methods on mean WTP, full demand distributions, and pricing decision outcomes.",
+  "research_gap": "Prior studies either compared only subsets of methods, did not benchmark all four approaches against the same REAL purchase data in one study, or emphasized prediction tests rather than pricing-decision consequences. The paper addresses this by jointly evaluating statistical validity and managerial decision performance across all four methods.",
+  "research_question": "How do four state-of-the-art WTP elicitation approaches (OE, CBC, BDM, ICBC) compare when judged against real purchase behavior (REAL) on the same product task? Which methods best recover mean WTP and WTP distributions, and which lead to better pricing decisions (optimal price, quantity, and profits)?"
+}

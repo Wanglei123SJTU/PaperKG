@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper formally introduces Google Trends search volume as an intermediate purchase-funnel response measure in a sales response model, not merely as a predictor.",
+    "It proposes a decompositional state-space framework that jointly models search and sales to separate advertising effects on interest generation versus interest conversion, while accounting for endogeneity and competition.",
+    "It shows that using this decomposition improves fit and diagnostic insight and can alter estimated advertising elasticities relative to sales-only models."
+  ],
+  "context": "The empirical setting is the U.S. new passenger vehicle market, focusing on compact and midsize SUVs and sedans where prepurchase information search is common and increasingly online. The study examines established, high-volume models rather than niche or newly launched vehicles.",
+  "design_and_data": "The authors estimate a Bayesian dynamic linear state-space model that jointly links monthly sales and Google Trends search indexes through latent states for shopping interest, nonshopping interest, and baseline conversion. The data include 21 top-selling vehicle models from four segments in the United States over January 2004 to July 2012 (103 months). Sales data come from Automotive News, model-level ad spending from Kantar Media Ad$pender, and search indexes from Google Trends using both Vehicle Shopping and Autos & Vehicles filters with composite include/exclude query terms. The model includes controls (consumer sentiment, gasoline prices, seasonality, lagged sales), explicit ad-spend endogeneity equations, and comparison to a sales-only benchmark with in-sample AICC and 12-month holdout forecasts.",
+  "focal_constructs": [
+    "advertising response",
+    "consumer prepurchase information interest",
+    "interest conversion",
+    "Google Trends search volume",
+    "purchase funnel dynamics",
+    "sales elasticity",
+    "ad carryover effects",
+    "advertising endogeneity"
+  ],
+  "main_findings": [
+    "Across all four vehicle segments, the joint sales-and-search model outperformed the sales-only benchmark in in-sample AICC and in 12-month holdout mean absolute error.",
+    "Advertising positively affected both shopping interest and baseline conversion, but these two effectiveness dimensions were only moderately related across vehicles, and conversion showed diminishing returns as interest expanded.",
+    "Compared with the decompositional model, the sales-only model tended to underestimate short-term ad elasticity and overestimate carryover, while long-term impact estimates showed both underestimation and overestimation risk."
+  ],
+  "one_line_summary": "This paper shows that jointly modeling U.S. auto sales with Google Trends search data can decompose advertising effects into interest generation and conversion, improving fit and changing elasticity inferences versus sales-only models.",
+  "relation_to_prior_work": "introduces online search volume into advertising response modeling as an intermediate funnel measure, extending work that either modeled sales alone or used search mainly as a forecasting covariate. It complements prior mindset-sales frameworks by focusing on behavioral information search and conversion in durable-goods purchases.",
+  "research_gap": "Most advertising response models rely on sales data only because intermediate purchase-funnel measures are difficult and costly to collect, so they do not separate interest generation from conversion. The paper addresses this by evaluating whether Google search volume can serve as a practical, high-frequency proxy for prepurchase information interest.",
+  "research_question": "Can Google Trends search volume be used as a proxy for consumer prepurchase information interest in the U.S. auto market and jointly modeled with sales? If so, can advertising's sales impact be decomposed into distinct effects on generating interest versus converting interest, and does this outperform a sales-only approach?"
+}

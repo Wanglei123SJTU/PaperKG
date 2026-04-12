@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "Provides causal evidence that increasing ad variety within a mobile session affects downstream ad response, and reports this as the first study of this downstream variety effect in advertising.",
+    "Proposes an attention-based mechanism in which novelty in prior ads raises attention to the ad slot and increases clicking on the next ad, and tests multiple predictions from this account.",
+    "Develops an empirical framework for sequential variety treatments that addresses pretreatment confounding, dynamic selection, and posttreatment confounding using propensity-score weighting, imputation, and posttreatment controls under unconfounded ad assignment."
+  ],
+  "context": "The study is set in mobile in-app advertising on the leading ad network in a large Asian country, which used refreshable one-minute banner ad slots and a CPC model. The main analysis focuses on sessions in the top messenger app on that network.",
+  "design_and_data": "The authors use one month of platform data (September 30 to October 30, 2015) with 1,594,831,699 impressions overall, and a focal sample of 85,450 users, 1,197,850 sessions, and 6,805,322 impressions in the top app (327 unique ads). A session is consecutive impressions for a user within an app with less than a 10-minute gap between impressions. Treatment is a binary indicator that the ad at exposure t-1 is new relative to earlier ads in that session (a one-unit increase in breadth of variety), and outcome is click at exposure t. Estimation uses IPW-adjusted regressions with propensity scores (XGBoost), imputation for posttreatment censoring when users leave before t, and controls for posttreatment ad identity plus within-session frequency and spacing.",
+  "focal_constructs": [
+    "ad variety (breadth of variety)",
+    "click-through rate",
+    "novelty of ad exposure",
+    "user attention to ad slot",
+    "sequential ad exposures",
+    "posttreatment censoring (dynamic selection)"
+  ],
+  "main_findings": [
+    "A one-unit increase in within-session ad variety causally increases click-through on the next ad; the main estimate implies about a 13% lift relative to baseline CTR in the analyzed exposure window.",
+    "The positive variety effect is robust across alternative specifications and checks, including logistic models, conservative fixed effects, exact matching on ad sequences, and alternative imputation choices.",
+    "Mechanism tests are consistent with an attention-based novelty account: effects are larger when the control ad is less novel (more frequent or more recent), smaller for users with high prior ad exposure or recent prior exposure, and weaker when past variety is already high."
+  ],
+  "one_line_summary": "Using quasi-experimental ad assignment in a large mobile ad network, the paper finds that increasing within-session ad variety raises next-ad CTR by about 13% and presents evidence consistent with an attention-based novelty mechanism.",
+  "relation_to_prior_work": "extends prior variety and advertising-dynamics research by identifying a new dynamic effect: downstream response gains from increased ad variety across sequential exposures in a real marketplace. It also links this effect to platform-market design discussions by framing ad variety as an externality across impressions.",
+  "research_gap": "Prior work discusses diversity for exploration, fairness, or reachability, but does not clearly establish how increased intervention variety itself changes consumer behavior. In advertising, the paper argues that downstream causal evidence on variety across competing ads in real-world sequential settings is limited.",
+  "research_question": "How does an exogenous one-unit increase in ad variety within a session affect user responsiveness to the next mobile ad? What mechanism explains this effect, and what are the implications for platform decisions such as auction and targeting design?"
+}

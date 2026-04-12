@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper estimates a hedonic price equation for magazine advertising and recovers implicit prices for readership size and demographic characteristics.",
+    "It uses a semiparametric functional-form analysis (ACE with bootstrap uncertainty bounds) to guide a parsimonious parametric specification of ad-rate determinants.",
+    "It applies the estimated implicit prices to counterfactual one-shot unbundling scenarios to quantify potential price and revenue effects of selling demographic audience components."
+  ],
+  "context": "The study examines the U.S. print media market for leading consumer magazines, where advertisers buy full-page color insert space. It is motivated by publishers' growing ability to target demographic segments via multiple or customized editions rather than selling only a single bundled audience.",
+  "design_and_data": "The empirical sample includes 101 magazines that were covered by SRDS, MRI, and SMRB in 1990. The dependent variable is the ad rate for a one-time full-page four-color insert (mainly SRDS list price), with a transactions-price check from Advertising Age; readership and demographic variables come from MRI and SMRB, and explanatory variables are lagged about six months relative to price publication (mid-1990 to Jan 1991). The authors define age (4 groups), income (4 groups), and sex (2 groups), and model log ad rates as a function of log circulation, log readers per copy, and demographic shares. They first use semiparametric ACE and bootstrap to assess functional form, then estimate a parsimonious OLS hedonic model.",
+  "focal_constructs": [
+    "magazine advertising rates",
+    "audience demographic composition",
+    "circulation",
+    "readers per copy",
+    "pure bundling",
+    "pure components pricing",
+    "mixed bundling",
+    "hedonic implicit prices"
+  ],
+  "main_findings": [
+    "A parsimonious hedonic model explains about 91% of cross-sectional variation in log magazine ad rates, with strong effects for circulation and readers per copy.",
+    "Ad rates rise with circulation and readership but with diminishing returns; coefficients imply that doubling circulation raises price per insert by about 79%, while doubling readers per copy raises it by about 33%, and premiums are associated with readers age 29-39 and income above $56,000.",
+    "Counterfactual unbundling suggests sizable gains: splitting male and female audiences yields predicted price premiums roughly from 10% to almost 50%, and moving from pure bundling to pure components pricing raises predicted ad revenue by about 21.1% on average across the 101 magazines (with some titles much higher)."
+  ],
+  "one_line_summary": "Using 1990 data for 101 U.S. consumer magazines, the paper estimates hedonic implicit prices for readership demographics and finds that unbundling audiences into demographic components can generate substantial advertising price and revenue premiums.",
+  "relation_to_prior_work": "extends prior bundling and media-pricing research by empirically linking magazine ad rates to audience composition in a hedonic framework. It complements earlier theory on bundling profitability and prior media studies by quantifying one-shot unbundling effects for consumer magazines without estimating full structural demand and supply equations.",
+  "research_gap": "The authors state that little research has directly tied print media ad-space prices to the underlying demographic composition of audiences. They also note limited empirical evidence on what publishers might gain if they unbundle readership into demographic components as targeting technology improves.",
+  "research_question": "How are magazine advertising rates related to readership size and demographic composition in the U.S. consumer magazine market? Given those estimated implicit prices, what would happen to a magazine's ad prices and revenues in a one-shot deviation if it unbundled its readership into demographic components rather than selling only the full bundled audience?"
+}

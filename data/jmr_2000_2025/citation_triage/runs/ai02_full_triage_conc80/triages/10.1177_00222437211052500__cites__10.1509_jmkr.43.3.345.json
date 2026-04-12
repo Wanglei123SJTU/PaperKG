@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is a classic online-review/word-of-mouth study (valence/volume effects on sales), which is plausibly a foundational background source for a Yelp review analytics paper. However, the available match evidence is only a DOI entry with no in-text citation context, and the citing paper’s core contribution is methodological (attribute sentiment scoring and missing-data imputation) rather than sales effects. Given this sparse linkage evidence, it cannot be safely dropped, but importance is not clearly established.",
+  "triage_decision": "uncertain"
+}

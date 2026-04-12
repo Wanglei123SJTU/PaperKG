@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes an extended multidisciplinary model of marketing placebo effects that adds reward responsiveness, somatosensory processing, and cognitive top-down processing as key moderators.",
+    "It introduces a novel application of automated structural MRI analysis (voxel-based morphometry) in consumer neuroscience to study trait-level individual differences in marketing placebo responsiveness.",
+    "It links these brain-level moderators to personality traits and tests generalizability across different expectancy cues (price, health claims, artist expertise) and consumption domains (food and aesthetics)."
+  ],
+  "context": "The studies examine expectancy-driven consumption experiences in wine tasting, milkshake tasting, and evaluation of abstract art. Marketing cues include price information, healthfulness labels (organic/light vs regular), and source/expertise labels (artist vs computer-generated).",
+  "design_and_data": "Study 1 pooled structural MRI data from three prior fMRI expectancy experiments (total N = 90) and used voxel-based morphometry plus independent ROI regressions to predict each participant's expectancy-effect responsiveness. The pooled experiments included two wine price studies (N = 20 and N = 12) and one milkshake health-claim study (N = 58). Studies 2a-2c were behavioral wine-tasting experiments with price manipulations and trait measures for reward seeking (N = 89 analyzed), private body consciousness (N = 85), and need for cognition (N = 79 analyzed). Study 3 was an online aesthetic-consumption experiment with artist-versus-computer labels and all three trait measures jointly (N = 492 analyzed after exclusions).",
+  "focal_constructs": [
+    "marketing placebo effects",
+    "expectancy cues",
+    "experienced utility",
+    "reward seeking",
+    "somatosensory awareness",
+    "need for cognition",
+    "gray matter volume in striatum, posterior insula, and dmPFC"
+  ],
+  "main_findings": [
+    "In Study 1, larger gray matter volume in the striatum and dmPFC predicted stronger marketing placebo effects, while larger gray matter volume in the posterior insula predicted weaker effects.",
+    "Across Studies 2a-2c, price-based placebo effects in wine tasting were stronger among participants higher in reward seeking and need for cognition, and weaker among participants higher in private body consciousness.",
+    "Study 3 conceptually replicated the same moderator pattern in aesthetic consumption: labels implying artist expertise increased liking, with stronger effects for higher reward seeking and need for cognition and weaker effects for higher somatosensory awareness."
+  ],
+  "one_line_summary": "Across one structural MRI analysis and multiple behavioral experiments, the paper shows that marketing placebo effects are stronger for people high in reward seeking and need for cognition and weaker for people high in somatosensory awareness.",
+  "relation_to_prior_work": "extends Shiv, Carmon, and Ariely's marketing placebo framework by importing mechanism-level insights from pain placebo neuroscience. It refines prior expectancy research by identifying and testing individual-difference moderators at both neural-structural and personality levels.",
+  "research_gap": "Prior research had shown that marketing-based expectancies can alter subjective and neural consumption responses, but almost no work had examined who is more or less susceptible to these marketing placebo effects. The neural and psychological moderators of these effects were largely untested in marketing settings.",
+  "research_question": "Which individual differences make consumers more or less responsive to marketing placebo effects, where marketing cues change experienced consumption utility? Specifically, do neural and personality differences related to reward seeking, somatosensory awareness, and cognitive focus moderate expectancy effects across different cues and sensory domains?"
+}

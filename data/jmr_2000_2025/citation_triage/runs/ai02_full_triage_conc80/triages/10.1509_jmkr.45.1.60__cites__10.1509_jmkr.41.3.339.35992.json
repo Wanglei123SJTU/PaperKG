@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper is about catalog-vs-Web customer channel migration using a joint Tobit/probit Bayesian framework, whereas the cited paper analyzes pre- and postpromotion dips in grocery UPC scanner data with lead-lag models, so direct overlap is not obvious from the notes. But the matched evidence is only a single DOI reference with no in-text context, and the cited work could still be used as prior evidence on intertemporal promotion/demand dynamics. With this sparse evidence, dropping as obvious mention-only is not safe.",
+  "triage_decision": "uncertain"
+}

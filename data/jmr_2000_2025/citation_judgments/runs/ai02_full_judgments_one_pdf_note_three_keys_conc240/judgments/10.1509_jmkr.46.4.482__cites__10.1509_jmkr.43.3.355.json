@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper explicitly uses Ying, Feinberg, and Wedel (2006) as an example of the standard hierarchical Bayes approach that relies on an inverse Wishart prior for covariance structures. A core motivation of the 2009 paper is that this conventional setup is too restrictive for covariance heterogeneity in small-sample customer histories. The authors then benchmark against this conventional bivariate HB specification and report superior fit and prediction from their proposed conditional-normal model. This is a meaningful methodological positioning, not just a passing literature-list mention.",
+  "relation_description": "The citing paper refines the modeling approach represented by Ying et al. (2006) by replacing the inverse-Wishart-based covariance treatment with a conditional-normal parameterization that allows more flexible covariance heterogeneity. It uses the Ying-style conventional bivariate HB setup as a baseline and shows improved predictive performance and customer scoring outcomes.",
+  "relation_type": "refines"
+}

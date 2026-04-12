@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper gives Gupta, Lehmann, and Stuart (2004) a clear methodological role in its customer-equity section, identifying it as a key prior aggregate valuation approach for growing service firms. It then explicitly builds on that setup by modifying the growth component to include competition, churn, and disadoption, and by comparing resulting customer-equity estimates to stock market values in the same spirit. The citation is also operationalized in implementation choices (e.g., use of public-data inputs and parameter conventions referenced to Gupta et al.), not just listed as background.",
+  "relation_description": "The citing paper uses Gupta et al.'s aggregate customer-equity valuation framework as a base and extends it by integrating a competitive service-diffusion model with attrition (churn and disadoption) into future-customer value calculations. It also follows their stock-market benchmarking logic to evaluate the extended model.",
+  "relation_type": "extends"
+}

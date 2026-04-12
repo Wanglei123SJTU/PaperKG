@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper identifies and tests a psychological mechanism for SNAP households' unhealthy purchases: stronger food craving linked to lower perceived unhealthiness of hedonic foods.",
+    "It provides transaction-level evidence that SNAP households buy more hedonic and unhealthy food regardless of whether they pay by EBT card, credit/debit card, or cash.",
+    "It directly contrasts and empirically tests alternative explanations, including cashless EBT payment effects and calorie-density/value-focused price evaluation."
+  ],
+  "context": "The paper studies U.S. grocery purchasing among SNAP households versus non-SNAP households. Evidence comes from one regional grocery store's loyalty-card transactions and U.S.-based simulated shopping tasks, including an online grocery delivery context.",
+  "design_and_data": "Study 1 uses scanner panel data from one northeastern U.S. grocery store (July-November 2014): 597 households observed using EBT at least once and 600 randomly sampled non-EBT households, with 14,370 trips analyzed. Basket outcomes (calories per ounce, hedonic rating, unhealthiness rating) were modeled with random-effects and Hausman-Taylor panel regressions, plus robustness checks (fixed effects, propensity score matching, category-level Tobit). Study 2a (n=839 MTurk, quota-sampled SNAP/non-SNAP) measured purchase intentions for 30 foods, craving, unhealthiness perceptions, energy-density focus, and pain of paying; Study 2b (n=315) replicated key measures without purchase-intention questions and added self-esteem. Study 3 was preregistered (n=1,002 MTurk; 156 SNAP) using a simulated grocery delivery cart with eight products and mediation tests including cravings, unhealthiness perceptions, and value-for-price perceptions.",
+  "focal_constructs": [
+    "SNAP household status",
+    "food craving",
+    "perceived unhealthiness",
+    "hedonic versus utilitarian food",
+    "unhealthy food purchase propensity",
+    "payment mode (EBT, cash, credit/debit)",
+    "energy-density and value-for-price focus"
+  ],
+  "main_findings": [
+    "SNAP households purchased food baskets with higher calories per ounce, higher hedonic ratings, and higher unhealthiness ratings than non-SNAP households, and this pattern held even when SNAP households paid in cash.",
+    "Across simulated shopping studies, SNAP participants reported stronger cravings for both hedonic and utilitarian foods, while rating hedonic foods as less unhealthy than non-SNAP participants did.",
+    "Food craving and perceived unhealthiness mediated SNAP households' higher hedonic purchase intentions and spending, while EBT-payment effects, energy-density/value-for-price mediation, and self-esteem did not account for the pattern."
+  ],
+  "one_line_summary": "Using grocery transaction data and three simulated shopping studies, the paper finds that SNAP households' greater unhealthy hedonic purchases are linked to stronger cravings and lower perceived unhealthiness rather than to EBT card payment effects.",
+  "relation_to_prior_work": "extends prior descriptive SNAP purchase research by specifying and testing a psychological mechanism for higher unhealthy consumption. It also contrasts this mechanism with cashless-payment and calorie-density accounts and finds little support for those alternatives in these data.",
+  "research_gap": "Prior SNAP studies mainly documented higher unhealthy purchases but did not test the psychological mechanism driving this pattern. The paper addresses this by examining whether food craving and unhealthiness perceptions explain the behavior better than EBT payment mechanics or calorie-focused value judgments.",
+  "research_question": "Why do SNAP households buy more unhealthy hedonic foods than non-SNAP households? Is this pattern driven by payment method effects (especially EBT cards) or by psychological mechanisms such as stronger food craving and lower perceived unhealthiness of hedonic foods?"
+}

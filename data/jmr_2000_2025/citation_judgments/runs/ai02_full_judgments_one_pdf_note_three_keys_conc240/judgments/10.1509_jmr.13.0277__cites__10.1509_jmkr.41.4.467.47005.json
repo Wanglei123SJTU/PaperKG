@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper treats Manchanda, Rossi, and Chintagunta (2004) as a key methodological antecedent for handling nonrandom targeting/endogeneity in advertising response. It summarizes that paper's joint targeting-response setup and then explicitly explains why that approach is not suitable in this internet display context (need for exogenous predictors and identification issues with sparse individual-level variation), including reporting failed identification in their own attempt. This citation therefore plays a meaningful role in motivating the paper's experimental design choice, not just background listing.",
+  "relation_description": "The citing paper uses the cited paper as a methodological comparison point for endogeneity correction, then argues its assumptions and identification requirements are not met in the current setting. This contrast helps justify adopting a randomized field experiment instead of the cited simultaneous targeting-response approach.",
+  "relation_type": "other"
+}

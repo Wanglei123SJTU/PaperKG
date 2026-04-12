@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper identifies the multitier discount effect: offering a quantity discount with an additional discount tier can increase the likelihood that consumers take the quantity discount.",
+    "It proposes and tests a mechanism in which the additional tier changes perceived price difference/savings between the typical or original price and the quantity-discount price.",
+    "It establishes key moderators of the effect, including the additional-tier price level, consumers' prior purchase frequency, and distrust of the advertised original price."
+  ],
+  "context": "The studies examine retail discount communications in U.S. consumer settings, including Facebook social media ads and e-commerce style shopping scenarios. Product contexts include holiday apparel, hand sanitizer, cookies, and chocolate with regular or original prices and quantity-discount offers.",
+  "design_and_data": "Five studies were conducted. Study 1 used Facebook Ads Manager A/B testing of two holiday apparel ads (multitier vs. control) and observed 7,468 unique impressions and 235 clicks. Study 2 (Prolific, n = 593 after checks) was preregistered and incentive compatible, randomly assigning participants to control vs. multitier hand-sanitizer offers and measuring binary quantity-discount take-up and perceived price difference, with mediation tested via PROCESS. Study 3 (Prolific, n = 878, preregistered, incentive compatible) compared control, multitier-distant, and multitier-close cookie offers, and Studies 4-5 (MTurk, n = 588 and n = 584) tested moderation by prior purchase frequency and distrust of advertised original price, including moderated-mediation analyses.",
+  "focal_constructs": [
+    "multitier discount",
+    "quantity discount",
+    "perceived price difference",
+    "perceived savings",
+    "additional discount tier price level",
+    "prior purchase frequency",
+    "distrust of advertised original price",
+    "purchase likelihood"
+  ],
+  "main_findings": [
+    "In a Facebook A/B ad test, the multitier ad had a higher click-through rate than the control ad (3.77% vs. 2.55%; chi-square = 9.09, p = .003).",
+    "In preregistered incentive-compatible experiments, multitier (vs. control) discounts increased quantity-discount take-up and increased perceived price difference/savings, and perceived price difference mediated the effect.",
+    "The effect was boundary dependent: it was positive when the additional-tier price was distant from the quantity-discount price but negative when it was close, weaker among frequent purchasers of the product, and stronger among participants who distrusted the advertised original price."
+  ],
+  "one_line_summary": "This paper shows that adding a well-designed extra discount tier to a quantity discount can raise quantity-discount uptake by increasing perceived savings, but the effect can weaken or reverse under specific conditions.",
+  "relation_to_prior_work": "extends prior quantity-discount research by focusing on discount design and showing that an added tier can change discount uptake. It also extends reference-price and numerical-perception work by showing that an intermediate discount price can shift perceived distance between endpoint prices and thus promotional effectiveness.",
+  "research_gap": "The paper states that although quantity discounts are widely used, prior research offers relatively limited guidance on how to design them to increase appeal without further lowering prices. It addresses whether adding an extra discount tier can improve quantity-discount effectiveness and when this approach may backfire.",
+  "research_question": "Does offering a quantity discount together with an additional discount tier increase consumers' likelihood of taking the quantity discount compared with offering the quantity discount alone? If so, is the effect driven by perceived price difference/savings, and how is it moderated by additional-tier price level, consumers' prior purchase frequency, and distrust of the advertised original price?"
+}

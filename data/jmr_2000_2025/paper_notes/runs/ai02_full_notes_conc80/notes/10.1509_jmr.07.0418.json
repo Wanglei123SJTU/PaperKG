@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and tests a process account in which family branding evokes category-based processing while subbranding evokes subtyping.",
+    "It provides experimental evidence that brand name structure affects both extension evaluations and feedback effects on parent-brand equity, including dilution after direct negative product experience.",
+    "It shows that subbranding effectiveness depends on subbrand design, especially the suggestiveness and prominence of the individual name component."
+  ],
+  "context": "The studies are conducted in a beverage extension setting using established parent brands (Pepsi and Tropicana) and new cola/orange-juice variants that are designed to be similar or dissimilar to each parent brand. One study includes direct product tasting with manipulated positive versus negative trial experience.",
+  "design_and_data": "The evidence comes from three laboratory experiments (N=161 undergraduates, N=177 undergraduates, and N=366 people). Experiment 1 used a 2 x 2 mixed design (family vs subbrand naming; similar vs dissimilar category) and measured extension attitudes and parent-brand categorization response latency. Experiment 2 used a 2 x 2 x 2 mixed design plus control cells, manipulated negative trial by diluting products, and measured extension attitudes, parent-brand attitudes, signaling beliefs, and taste beliefs with planned-contrast ANCOVA. Experiment 3 used a 4 x 2 between-subject design to compare family branding with subbrand variants (suggestive parent-first, suggestive parent-last, nonsuggestive) and analyzed verbal protocols coded by two blind judges.",
+  "focal_constructs": [
+    "brand name structure",
+    "family branding",
+    "subbranding",
+    "category similarity",
+    "category-based processing",
+    "subtyping",
+    "brand extension evaluations",
+    "parent brand dilution"
+  ],
+  "main_findings": [
+    "Category similarity affected evaluations more for family-branded extensions than for subbranded extensions, with similar family extensions rated higher than dissimilar ones.",
+    "Response-latency and verbal-protocol results supported different processing modes: family branding triggered faster, less effortful parent-brand-based processing, while subbranding involved more thoughtful processing; nonsuggestive subbrand names shifted outcomes toward family-brand-like similarity effects.",
+    "Parent-brand dilution after a negative trial occurred for similar family-branded extensions but not for subbranded extensions, and subbranding increased perceptions that the name signaled a distinct product."
+  ],
+  "one_line_summary": "Across three lab experiments, the authors show that subbranded extension names change consumer processing relative to family branding, which weakens category-similarity effects on evaluations and helps protect the parent brand from dilution after negative trial.",
+  "relation_to_prior_work": "extends prior brand extension and categorization research by showing that classic similarity effects and dilution outcomes depend on naming structure, with family branding and subbranding eliciting different processing strategies.",
+  "research_gap": "Although prior studies documented naming effects for cobrand and ingredient-brand formats, this paper argues that the specific consequences of subbranding for extension evaluations and parent-brand dilution were not clearly established. It also targets mixed dilution evidence by testing these effects under direct product experience.",
+  "research_question": "How does brand name structure (family branded vs subbranded) influence consumers' evaluations of brand extensions and dilution of parent-brand attitudes? Do these effects arise because family branding evokes category-based processing while subbranding evokes subtyping, and do subbrand design features alter this pattern?"
+}

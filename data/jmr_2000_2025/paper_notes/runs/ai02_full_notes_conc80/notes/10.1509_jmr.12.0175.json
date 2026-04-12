@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper characterizes a fair-selling equilibrium in which the seller's optimal pricing and fair-minded buyers' perceived fair price are jointly and endogenously determined under seller cost uncertainty.",
+    "It shows counterintuitive welfare implications, including that seller ex ante profit can increase as the fair-minded segment grows and that buyer surplus responses to inequity aversion can be nonmonotonic.",
+    "It extends the baseline framework to analyze how direct cost disclosure, buyer learning from past prices, and seller competition change equilibrium pricing and welfare."
+  ],
+  "context": "The paper studies market transactions where buyers may care about distributional fairness relative to seller profits, but seller variable costs are not directly observed. The baseline setting is a monopoly seller with heterogeneous buyers, with extensions to a dynamic setting and a duopoly leader-follower setting.",
+  "design_and_data": "This is a theoretical modeling paper with no empirical dataset. The baseline model is a game between a monopolistic seller with privately known variable cost and two buyer segments (fair-minded and regular), where fair-minded utility follows inequity-aversion preferences and buyers update beliefs from observed prices. The analysis derives equilibrium pricing with a cost cutoff and conducts comparative statics, with closed-form results under a uniform cost distribution. Extensions add costly verifiable cost disclosure, two-period dynamic learning with persistent cost, and duopoly competition between an uncertain-cost leader and a known-cost follower.",
+  "focal_constructs": [
+    "buyer inequity aversion",
+    "distributional fairness",
+    "seller variable cost uncertainty",
+    "fair price (willingness to pay)",
+    "price signaling and buyer inference",
+    "cost disclosure",
+    "dynamic learning from past prices",
+    "seller competition"
+  ],
+  "main_findings": [
+    "With private seller costs, there is a unique equilibrium where the seller charges a high price v and serves only regular buyers above a cost cutoff, and charges a fair price below the cutoff; the equilibrium fair price falls with inequity aversion but rises with the share of fair-minded buyers.",
+    "Under uniform costs, seller ex ante profit is nonmonotonic in the fair-minded share and can increase when that share is large, while buyer ex ante monetary surplus can be nonmonotonic in inequity aversion and increases with the fair-minded share.",
+    "In extensions, optimal ex post cost disclosure occurs only for intermediate cost levels, dynamic learning can induce an initially high price followed by later price cuts, and in duopoly higher inequity aversion can raise the known-cost follower's profit by reducing the uncertain-cost leader's incentive to compete for fair-minded buyers."
+  ],
+  "one_line_summary": "The paper develops a signaling-based fair-selling equilibrium under buyer inequity aversion and seller cost uncertainty, showing that fairness concerns can raise seller profits and generate nonmonotonic buyer welfare effects depending on market composition and learning mechanisms.",
+  "relation_to_prior_work": "extends fairness and inequity-aversion research by relaxing common-knowledge cost assumptions and modeling strategic interaction in which buyers infer seller costs from pricing behavior. It also extends voluntary disclosure theory by studying cost disclosure as a tool to shape fairness perceptions and willingness to pay.",
+  "research_gap": "Prior fairness models typically assume that others' costs and payoffs are commonly known and mainly emphasize demand-side implications. The paper addresses the unresolved case where buyers care about fairness but are uncertain about seller costs, so fairness perceptions are endogenous to seller strategy and buyer inference.",
+  "research_question": "How should a seller optimally price when some buyers are inequity averse and seller variable cost is privately known to the seller? What are the resulting welfare implications for sellers, buyers, and social welfare when fairness perceptions are formed from inferred seller costs? The paper also asks when cost disclosure is optimal and how dynamic learning and competition alter the fair-selling equilibrium."
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in the mechanism-building section, not just in a generic literature list. Specifically, the citing study references Wang and Goldfarb (2017) as evidence that changes in one channel can shift behavior in another channel, which supports its channel-switching logic and cross-channel expectations after app failure. The citation also helps justify why online and offline effects may differ in the authors' hypotheses and interpretation. Although it is cited alongside other studies and not reused methodologically, it plays a meaningful conceptual framing role.",
+  "relation_description": "The citing paper draws on Wang and Goldfarb (2017) as prior cross-channel evidence to motivate its channel-switching mechanism in an app-failure context. It builds from that cross-channel spillover logic to test whether disruption in one digital channel reallocates purchases across channels.",
+  "relation_type": "foundational_for"
+}

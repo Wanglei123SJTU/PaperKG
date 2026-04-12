@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper presents a practical two-part method to complement traditional A/B or multivariate copy testing for large sets of paid search text ads.",
+    "It shows how nonexhaustive paired comparisons combined with the Elo algorithm can score and rank many ads on click performance and on awareness, interest, desire, and action perceptions.",
+    "It proposes a novel Bayesian implementation of the VANISH penalized regression model in a system of equations with correlated errors, allowing differential shrinkage of main and interaction text effects in a large p, small n setting."
+  ],
+  "context": "The study is set in paid search text advertising on search engines, where ads are short and click-through is the key immediate outcome. The main empirical application is home lighting (halogen floor lamps), with replications in two other product categories and an auxiliary mobile app ad dataset for validation.",
+  "design_and_data": "The authors assembled 284 halogen floor lamp ads, combining 140 real ads captured from Google search-result pages in a lab shopping task (about 300 participants) and 144 user-generated ads from MTurk. They collected 15,242 MTurk paired comparisons across five dimensions (click, awareness, interest, desire, action), with each respondent evaluating 21 ad pairs; Elo (Rankr implementation) was used to recover relative scores. Ad content was encoded with bag-of-words features (including header/body position), first-order interactions, and LDA topics, creating a high-dimensional predictor set. They estimated a Bayesian VANISH system with copula-based correlated errors, used a 20% holdout for predictive tests versus elastic net and intuitive LASSO baselines, and ran internal (additional 4,042 click comparisons) and external (30 ads with observed CTR over 60 days, 880 paired comparisons) validity checks.",
+  "focal_constructs": [
+    "paid search text advertisements",
+    "click-through performance",
+    "awareness-interest-desire-action perceptions",
+    "nonexhaustive paired comparisons",
+    "Elo ranking scores",
+    "bag-of-words and LDA topic features",
+    "main and interaction text effects",
+    "Bayesian VANISH penalized system"
+  ],
+  "main_findings": [
+    "Elo-based ad scores show that perceived interest, desire, and action are positively and significantly related to click performance, while awareness is not significant in the main dataset.",
+    "The paired-comparison Elo rankings are stable and externally meaningful: internal split-sample rank correlations average about 0.72, and Elo click ranks correlate with observed CTR ranks in an auxiliary dataset (Spearman about 0.71 raw and 0.63 position-adjusted).",
+    "For holdout ads, the Bayesian VANISH system gives the best prediction of perceptions and click performance versus competing regularization models, and including forecasted perceptual attributes improves click prediction over a content-only model (MSE 0.95 vs 1.16)."
+  ],
+  "one_line_summary": "The paper proposes and validates a two-stage copy-testing method that ranks many paid search ads via paired-comparison Elo scores and predicts new ads' relative click performance from text using a Bayesian VANISH model.",
+  "relation_to_prior_work": "introduces a copy-testing framework for paid search ad text that shifts attention from the dominant position/keyword/attribution focus in prior paid-search research to ad-content-driven perceptions and performance. It also introduces a Bayesian system extension of VANISH to handle high-dimensional text predictors with interactions, addressing limitations of regularization approaches that treat main and interaction effects similarly.",
+  "research_gap": "The paper explicitly notes that academic research on paid search ad content effects is scarce despite strong practitioner interest. It also argues that conventional in-market copy tests are too costly and slow for large ad sets, and that available data generally do not provide competitive ad outcomes plus subjective perception measures needed to evaluate and forecast ad performance.",
+  "research_question": "How can firms evaluate a large set of paid search text ads on relative click performance and key perceptions when standard in-market copy testing is impractical at scale? Can ad text content be used to predict perceptions and click performance of new ads relative to an existing set, including interaction effects under a large p, small n problem?"
+}

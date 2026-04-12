@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces an effective number of entries metric that discounts highly similar or lower-effectiveness products and links market share to a firm's share of effective entries.",
+    "Proposes two key measurement redefinitions: transforming attribute scores to be approximately normal across products and scoring entry effectiveness relative to a best-in-class reference.",
+    "Introduces centroid time to align development spending and sales timing, producing simple closed-form rules for optimal entries under fixed competitor portfolios and under dynamic competitive adjustment."
+  ],
+  "context": "The framework is intended for markets where firms choose between broad product proliferation and narrower product lines. The empirical illustration uses a disguised automotive manufacturer across eight vehicle segments and incorporates CAFE fuel-economy constraints.",
+  "design_and_data": "The paper develops an analytical profit model built on explicit assumptions about demand, entry effectiveness, development costs, capacity reservation, and discounting of delayed returns. It derives market share and effectiveness from a random-utility setup with normally distributed preference weights and transformed product attributes. The application estimates parameters using a conjoint study of 60,000 respondents from seven cities, attribute data from an automotive database, and internal segment-level engineering/tooling/advertising cost data for one firm (partly disguised). The model is implemented in a seven-step procedure, including segment-level optimization and sensitivity analysis.",
+  "focal_constructs": [
+    "effective number of product entries",
+    "product portfolio breadth and depth",
+    "product effectiveness",
+    "preference heterogeneity",
+    "development cost per effective entry",
+    "imputed capacity cost",
+    "centroid time",
+    "R-factor"
+  ],
+  "main_findings": [
+    "With fixed competitor portfolios, profit is concave in a firm's effective entries and is maximized when total effective entries are the geometric average of the firm's R-factor and competitors' effective entries.",
+    "With simultaneous portfolio adjustment, equilibrium total effective entries equal R*(1 - 1/F), and a firm's share is determined by its R-factor relative to the industry benchmark.",
+    "In the automotive illustration, the recommended portfolio changes increase predicted profit from 16.7 to 19.2 billion dollars (about 2.5 billion), and sensitivity analysis shows marginal profit and capacity costs matter more than entry count near the optimum."
+  ],
+  "one_line_summary": "The paper develops a tractable model that redefines product-entry counting via an effectiveness measure and uses it with cost, timing, and competition terms to compute profit-maximizing portfolio depth and breadth, illustrated in automotive data.",
+  "relation_to_prior_work": "extends prior product-line optimization models and discrete-choice demand formulations by integrating heterogeneous preferences, proximity effects, and anti-ideal-point structure into one effectiveness-based market-share representation while keeping closed-form managerial rules.",
+  "research_gap": "The paper argues that firms and studies apply inconsistent, often arbitrary definitions of what counts as a distinct product entry, especially when products are very similar. It also positions existing simple portfolio models as insufficiently realistic because they do not jointly incorporate similarity-adjusted entry counts, preference heterogeneity, investment-sales timing, and competitor readjustment in one tractable framework.",
+  "research_question": "How many product-line entries should a firm offer to maximize profit when additional variety raises market share but also increases development and capacity-related costs? To answer this, the paper asks how to define and measure an effective number of entries that accounts for product similarity and quality differences and can be used in competitive equilibrium calculations."
+}

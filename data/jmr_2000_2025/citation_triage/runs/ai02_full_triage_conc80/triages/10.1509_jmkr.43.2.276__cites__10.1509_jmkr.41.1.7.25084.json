@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper focuses on predictive methods for churn (bagging/boosting vs. logit and rare-event bias correction), while the cited paper focuses on customer-based firm valuation and the value impact of retention, so the overlap appears conceptual (retention importance) rather than clearly methodological. The only linkage provided is a single DOI-level matched reference with no in-text context or reference string details. Given this sparse evidence, it is not safe to drop as obvious mention-only, but substantive use is not demonstrable from current data.",
+  "triage_decision": "uncertain"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper gives the cited work a specific methodological role, calling it a key contribution and explicitly stating that one modeling device in the new paper follows its idea. In particular, Bodapati borrows the latent-attribute inference/data-augmentation logic from the ratings-based recommendation model and uses it in his own framework. This is more than a background mention because it is tied directly to how the citing model is constructed and positioned.",
+  "relation_description": "The citing paper builds on Ansari, Essegaier, and Kohli (2000) by carrying forward its latent utility/latent attribute modeling idea and adapting it to unary purchase data with an explicit recommendation-intervention structure. Thus, it extends the earlier model-based recommendation line into a different data and decision setting.",
+  "relation_type": "extends"
+}

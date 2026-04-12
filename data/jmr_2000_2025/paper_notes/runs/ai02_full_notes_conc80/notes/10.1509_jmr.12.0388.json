@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper identifies superficial packaging damage as a contamination cue that can generate unjustified negative consumer responses.",
+    "It demonstrates the relatively automatic nature of this effect using both cognitive load and need-for-cognition evidence.",
+    "It extends contagion research by showing process-based mitigation and amplification conditions, including organic branding, physical separation cues, and contagion priming."
+  ],
+  "context": "The studies are set in consumer evaluations of common packaged grocery goods (for example soup, baking soda, apples, barbecue sauce, mixed nuts and chocolates, and chocolates) in lab tasks and shopping scenarios.",
+  "design_and_data": "The authors report six experiments using between-participants designs with manipulated packaging states (meaningful damage, superficial damage, aesthetic flaw, or no damage) and process moderators or manipulations (cognitive load, need for cognition, product function, organic branding, physical buffer, and contagion prime). Participants evaluated products on attitude, health and safety, contamination, and purchase intention scales; one study measured an actual product choice. The studies include manipulation checks and mediation tests (including PROCESS bootstrap models) to assess contamination and health and safety pathways.",
+  "focal_constructs": [
+    "superficial packaging damage",
+    "contamination cue",
+    "cognitive load",
+    "need for cognition",
+    "health and safety concerns",
+    "product attitudes",
+    "purchase intentions",
+    "physical buffer"
+  ],
+  "main_findings": [
+    "Under cognitive load, consumers evaluated both meaningfully damaged and superficially damaged packages more negatively than undamaged packages, whereas under low load they penalized only meaningful damage.",
+    "Low need-for-cognition consumers avoided damaged packaging regardless of product function, while high need-for-cognition consumers penalized damage mainly when product use implied health and safety risk.",
+    "Negative reactions to superficial damage were tied to contamination and health and safety inferences (not just aesthetics), were reduced by organic branding and by a physical buffer between damage and product, and were strengthened by a contagion prime in a real choice task."
+  ],
+  "one_line_summary": "Across six experiments, the paper shows that superficial packaging damage can trigger automatic contamination-based avoidance and lower evaluations, and that this effect can be reduced by health-oriented branding and physical separation cues.",
+  "relation_to_prior_work": "extends prior packaging research by introducing superficial packaging damage as a distinct signal that shapes product evaluations and intentions. It also extends contagion findings beyond direct product contact by showing that package damage itself can activate contamination and health and safety concerns, especially under more automatic processing.",
+  "research_gap": "Prior packaging research emphasized cues such as size, design, and imagery, with little direct attention to packaging imperfections and their behavioral consequences. Prior contagion work focused on direct contact with people or disgusting products, leaving unclear whether superficial package damage itself serves as a contamination cue and when consumers rely on it.",
+  "research_question": "The paper asks when and why consumers avoid products with superficial packaging damage that does not objectively threaten product safety. It tests whether this avoidance is an automatic contamination response and identifies conditions that increase, reduce, or eliminate it."
+}

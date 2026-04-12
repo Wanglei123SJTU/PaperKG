@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in the empirical methods section rather than as a generic background mention. The authors explicitly state they are drawing on Mizik (2010) when implementing their portfolio-matching robustness procedure, including SIC-based matching logic when exact industry matches are not available. This is a concrete methodological borrowing, even though it is not central to the paper's main theory development.",
+  "relation_description": "The citing paper applies a portfolio construction/matching approach from Mizik (2010) in its robustness analyses of stock return effects. Specifically, it adopts SIC-based matching rules to form comparable high-versus-low marketing variable portfolios.",
+  "relation_type": "applies"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops the ghost ad methodology, which uses simulated control-group auctions to log would-be focal impressions and directly identify the counterfactual exposed group for ATET estimation without PSA ads.",
+    "The paper introduces a predicted ghost ad variant for settings with downstream publisher refusal, links it to a LATE framework, and reports platform-scale deployment generating more than 100 million predicted ghost impressions per day.",
+    "The paper applies the method to a real display retargeting campaign and claims novel causal evidence that retargeting can increase incremental visits, transactions, and sales relative to a holdout."
+  ],
+  "context": "The paper is set in digital advertising platforms that allocate impressions through real-time auctions and increasingly use in-campaign machine-learning optimization. Its empirical application is a dynamic online display retargeting campaign for an online sports and outdoors retailer on the Google Display Network.",
+  "design_and_data": "The authors develop identification and variance results comparing PSA, ITT, ghost ads, and predicted ghost ads, with ATET and LATE estimators under randomized assignment. They then run a 2-week winter 2014 field experiment for a retailer retargeting campaign, using cookie-level randomization with a 70% treatment and 30% control split. The predicted-exposed sample is 566,377 users (396,793 treatment; 169,584 control), and predicted-exposed treatment users receive 20.2 impressions on average. Outcomes are site visits, transactions, and sales from advertiser pixel data, with balance/validation tests and robustness checks against ITT estimates.",
+  "focal_constructs": [
+    "ghost ads",
+    "predicted ghost ads",
+    "average treatment effect on the treated",
+    "local average treatment effect",
+    "public service announcement control design",
+    "intent-to-treat estimation",
+    "in-campaign optimization",
+    "display retargeting lift"
+  ],
+  "main_findings": [
+    "In the retailer experiment, predicted-ghost-ad estimates show statistically significant lifts of 17.2% in site visits, 11.9% in transactions, and 10.5% in sales.",
+    "Validation checks show no significant treatment-control differences in demographics, first predicted impression characteristics, or pre-period outcomes among predicted-exposed users, and Hausman comparisons do not reject predicted-ghost-ad estimates versus ITT.",
+    "Compared with ITT, predicted ghost ads substantially improve precision in this application (reported variance ratios roughly 5.9-16.4), and compared with PSA-style tests they can achieve similar measurement precision at much lower experimental spend."
+  ],
+  "one_line_summary": "The paper proposes ghost ad and predicted ghost ad experimental methods that use simulated auctions to identify counterfactual exposed users, enabling cheaper and more precise online ad-effectiveness measurement and showing significant causal lift from a display retargeting campaign.",
+  "relation_to_prior_work": "extends prior ad-effectiveness experimentation research by replacing costly or low-power PSA and ITT comparisons with ghost-ad based identification that remains valid under optimized delivery, and by evaluating retargeting against a true holdout with revenue outcomes rather than only comparing creative variants.",
+  "research_gap": "Existing online ad experiments face a trade-off: PSA control designs can be costly and invalid when delivery is performance-optimized, while ITT designs avoid PSAs but are often too noisy because many eligible users are unexposed. The paper addresses the need for a method that is compatible with modern ad platforms while preserving validity and precision.",
+  "research_question": "How can advertisers causally measure ad effectiveness when exposure is endogenously optimized by ad-platform algorithms and many users are not exposed? Can ghost-ad based logging recover the correct counterfactual exposed control group, improve the economics of experimentation relative to PSA and ITT designs, and reveal the incremental effect of retargeting on visits and sales?"
+}

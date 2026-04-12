@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper shows that construal level operates in online search and that matching paid content to user mindset can improve click-through and search outcomes, including perceived progress along the decision journey.",
+    "It proposes a scalable text-analysis approach to infer consumers' search goals and mindsets from query language and use this signal for adaptive paid search content.",
+    "It highlights that the consumer decision journey is contextual and dynamic, and that query text offers actionable clues about stage-specific goals beyond bottom-of-funnel targeting."
+  ],
+  "context": "The paper studies online search and paid search advertising along the consumer decision journey. Empirical settings include query traffic to 13 CPG brand sites and a live Google Ads campaign for the cosmetics brand Philosophy.",
+  "design_and_data": "The research reports six studies: a pilot archival analysis, a survey, three lab experiments, and a field experiment. The pilot scored 24,039 unique CPG-related queries (22,675 scored after exclusions) for concreteness using an adapted MRC dictionary to document variation in abstract versus concrete query language. Study 1 surveyed 369 U.S. students about their most recent real search goal, query text, and first visited website; Studies 2-4 were controlled online experiments (N = 490, 357, and 427) that manipulated decision stage and result/ad concreteness. Study 5 was a Google Ads field experiment using abstract versus concrete ad copy across keyword campaigns (buy, best, how), yielding 128,143 impressions and 3,102 clicks.",
+  "focal_constructs": [
+    "consumer decision journey stages",
+    "informational versus transactional search goals",
+    "construal level (abstract versus concrete mindset)",
+    "search query language concreteness",
+    "construal matching between user mindset and ad/result text",
+    "processing fluency",
+    "search satisfaction",
+    "perceived goal progress and click-through behavior"
+  ],
+  "main_findings": [
+    "Consumers in informational stages used less concrete (more abstract) search-query language than consumers in transactional stages.",
+    "Click likelihood increased when result or ad language matched consumers' construal level, including in a large field experiment with real ad impressions.",
+    "Construal matching increased search satisfaction and perceived goal progress, and processing fluency mediated these effects."
+  ],
+  "one_line_summary": "Across six studies, the paper finds that query text reveals consumers' abstract versus concrete mindsets during online search and that matching paid search content to that mindset improves clicks, satisfaction, and perceived goal progress.",
+  "relation_to_prior_work": "extends construal level and matching research into online search and paid search advertising, where these effects had not been directly established in this way. It also introduces a text-analytic operationalization of query concreteness as a practical signal of journey-stage mindset.",
+  "research_gap": "Paid search practice often emphasizes bottom-of-funnel transactional intent and serves relatively static ad copy, leaving early informational search goals underused. The paper identifies a lack of evidence in marketing on whether construal matching in online search affects clicks, search satisfaction, and perceived goal progress.",
+  "research_question": "Can consumers' stage-specific goals in the online decision journey be detected from the abstractness versus concreteness of their search query text? If so, does matching the construal level of paid search results or ads to that inferred mindset improve click behavior, search satisfaction, and perceived goal progress, and is processing fluency a mechanism?"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is not just topically adjacent: it centers on heterogeneous retention intervention sensitivity (LIFT vs. churn risk), while the citing paper explicitly models heterogeneity in customers’ responsiveness to marketing actions under CRM cold-start conditions. Given this direct construct overlap in CRM targeting logic and only a DOI-level match (no in-text context to prove incidental mention), it is safer to retain for full relation judgment rather than drop.",
+  "triage_decision": "keep_for_relation_judgment"
+}

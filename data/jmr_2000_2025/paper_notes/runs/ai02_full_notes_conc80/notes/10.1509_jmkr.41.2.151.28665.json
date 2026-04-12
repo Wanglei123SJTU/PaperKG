@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper extends the processing fluency account of affective judgment to conceptual fluency, not just perceptual fluency.",
+    "It provides convergent evidence with multiple conceptual-fluency manipulations (predictive context and indirect semantic priming) and addresses alternative affect-transfer or mood explanations.",
+    "It shows that conceptual fluency effects are valence-contingent: when fluent processing activates negative associations, brand evaluation can decrease."
+  ],
+  "context": "The studies are in a consumer marketing setting with incidental ad-like exposures and later evaluations of words and brands. Stimuli include storyboard or print-ad mockups for products such as ketchup, mayonnaise, beer, vitamins, and hair conditioner/lice shampoo.",
+  "design_and_data": "The paper reports four controlled laboratory experiments with undergraduate participants. Experiment 1 (N = 90) used a within-subject 2 (predictive vs neutral sentence context) x 3 (target same vs semantically related vs unrelated to sentence-ending word) design plus a no-sentence control, with pleasantness ratings of target words. Experiments 2 (N = 86) and 3 (N = 60) used 2 x 2 between-subject designs crossing conceptual fluency (high expectancy predictive scenario vs low expectancy neutral scenario) and perceptual fluency (target previously shown vs not shown) in storyboard ads, then measured brand liking. Experiment 4 (N = 45) compared perceptual-prime, conceptual-prime, and control conditions; conceptual fluency was induced with a related but negatively valenced prime (lice-killing shampoo) before evaluation of a hair conditioner brand.",
+  "focal_constructs": [
+    "conceptual fluency",
+    "perceptual fluency",
+    "processing fluency",
+    "affective judgment",
+    "brand evaluation",
+    "predictive context",
+    "semantic priming",
+    "negative associations"
+  ],
+  "main_findings": [
+    "Targets were evaluated more favorably when conceptually fluent, both when presented in predictive contexts and when semantically primed by related constructs.",
+    "Prior target exposure increased evaluation (perceptual fluency), and conceptual and perceptual fluency showed additive positive effects on brand evaluation in the storyboard studies.",
+    "When conceptual fluency was induced by a related negative prime, evaluation of the target brand became less favorable than control, while control-product ratings and mood measures did not differ across conditions."
+  ],
+  "one_line_summary": "Across four experiments, the paper shows that conceptual fluency, like perceptual fluency, can improve brand evaluation, but conceptual fluency linked to negative associations can reduce it.",
+  "relation_to_prior_work": "extends mere exposure and processing fluency research by showing that conceptual fluency influences affective judgment, whereas prior consumer studies emphasized conceptual fluency effects on consideration sets and choice. It refines interpretation of earlier conceptual-fluency evidence by ruling out guessing-based affect transfer and general mood transfer accounts.",
+  "research_gap": "Prior processing fluency evidence for affective judgment was mainly based on perceptual fluency, while consumer research on conceptual fluency focused more on consideration-set membership and choice than on evaluation. Existing conceptual-fluency liking effects also left open alternative explanations such as positive affect from successful guessing.",
+  "research_question": "Does conceptual fluency, beyond perceptual fluency, influence affective judgment and brand evaluation? If conceptual fluency is created by predictive context or semantic priming, and if it is paired with negative associations, how does evaluation change?"
+}

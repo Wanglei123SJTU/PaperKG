@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides one of the first empirical analyses of both trade promotion budget size and allocation across promotion types in supermarkets, using a unique manufacturer-retailer data set.",
+    "Develops and applies a practical classification of trade promotions into four groups: off-invoices, scanbacks/accruals, billbacks, and others.",
+    "Tests alternative negotiation-process specifications (joint determination, budget-first, allocation-first) and derives implications for managers and policy makers."
+  ],
+  "context": "The study is set in U.S. supermarket manufacturer-retailer negotiations over trade promotions for consumer packaged goods. Data cover 2002 and five product categories: ready-to-eat cereal, frozen dinners/entrees, coffee, laundry detergent, and pet food.",
+  "design_and_data": "The authors collected survey data from 36 U.S. supermarket companies (about $200 billion in sales, roughly 40% of U.S. supermarket sales), with each retailer reporting on 2 randomly selected categories and 3 brands. The brand-level unit of analysis is a particular brand in 2002; 216 observations were collected and 164 were usable. Endogenous outcomes are log trade-promotion budget and percentage allocation to off-invoices, accruals/scanbacks, billbacks, and others, supplemented with secondary data on retailer sales, manufacturer sales, and retailer branding. They estimate and compare three equation-system specifications and report a joint multivariate model (one continuous equation plus censored allocation equations) using SAS QLIM with correlated errors and heteroskedasticity controls.",
+  "focal_constructs": [
+    "trade promotion budget",
+    "allocation to off-invoice allowances",
+    "allocation to scanbacks/accrual funds",
+    "allocation to billbacks",
+    "brand price premium",
+    "brand position in retailer category",
+    "retailer private-label share",
+    "formal trade promotion policy"
+  ],
+  "main_findings": [
+    "Trade promotion budgets are higher for leading/second brands, lower for brands with higher price premiums, and higher when retailer annual sales are larger.",
+    "Retailers with larger private-label shares and larger annual sales allocate more funds to off-invoices and less to performance-based types, especially accruals/scanbacks and billbacks.",
+    "Manufacturers with formal trade-promotion policies allocate less to off-invoices and more to billbacks."
+  ],
+  "one_line_summary": "Using 2002 brand-level supermarket data, the paper shows how manufacturer and retailer characteristics shape both the level of trade promotion budgets and their allocation across promotion types.",
+  "relation_to_prior_work": "introduces industry-level empirical evidence on trade promotion budget determination and allocation, which the authors argue was largely missing because negotiated supplier-retailer data are difficult to access. It complements prior work that emphasized pass-through, profitability, and conceptual models by jointly modeling budget depth and allocation across multiple trade promotion types.",
+  "research_gap": "The authors state that despite the size and variety of trade promotions, prior research had not focused on the process and factors that determine trade promotion budgets and their allocation. They also note little empirical work on allocation because confidential supplier-retailer negotiation data are hard to obtain.",
+  "research_question": "Which manufacturer and retailer characteristics determine the trade promotion budget a supermarket brand receives and how that budget is allocated across off-invoices, scanbacks/accruals, billbacks, and other types? The paper also asks whether budget and allocation are jointly determined or follow a sequential negotiation process."
+}

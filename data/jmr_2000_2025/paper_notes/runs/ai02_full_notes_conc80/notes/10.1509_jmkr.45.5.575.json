@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper endogenizes an entrant's innovation-versus-imitation choice in a model where the incumbent can react through innovation and both firms choose R&D intensity.",
+    "It incorporates costly market research into the entry game and characterizes when the entrant's strategy is separating, partially pooling, or pooling as information about future rewards.",
+    "It identifies when incumbents can infer demand conditions from observed entry strategy and therefore forgo their own market research versus when they must conduct it."
+  ],
+  "context": "The paper studies entry into a market initially dominated by a single incumbent, with emphasis on technology-intensive new product settings. The entrant chooses between a me-too product (imitation) and a superior product (innovation) while anticipating incumbent reaction.",
+  "design_and_data": "The core evidence is a formal dynamic game: entrant chooses innovation or imitation, firms then simultaneously choose R&D effort (as success probabilities with quadratic costs), and profits are realized under monopoly or duopoly outcomes. The authors solve subgame perfect equilibria for the known-rewards benchmark and perfect Bayesian equilibria when market rewards are uncertain and firms can pay a cost to conduct market research. Two uncertainty structures are analyzed separately: uncertain duopoly profits and uncertain innovation rewards. The paper also reports a managerial survey (94 invited, 53 responses) as external support for behavioral assumptions about market research and strategic inference.",
+  "focal_constructs": [
+    "innovation versus imitation entry strategy",
+    "entrant and incumbent R&D effort",
+    "strategic substitutes and complements in R&D",
+    "monopoly versus duopoly profits",
+    "incumbent dominance likelihood",
+    "market uncertainty about duopoly profits",
+    "market uncertainty about innovation rewards",
+    "costly market research and information revelation"
+  ],
+  "main_findings": [
+    "The entrant's R&D decreases when incumbent R&D rises, while incumbent R&D increases when entrant R&D rises, creating asymmetric competitive responsiveness.",
+    "Because of these R&D sensitivities and entry-mode switching, the incumbent's probability of retaining leadership is inverse U-shaped in monopoly and duopoly profit levels.",
+    "With uncertain duopoly profits, entry strategy is revealing only when upside duopoly profits are sufficiently attractive relative to monopoly profits, whereas with uncertain innovation rewards, entry is revealing when duopoly profits are relatively unattractive; in revealing regions the incumbent can infer the state and may forgo market research."
+  ],
+  "one_line_summary": "The paper shows, in a game-theoretic entrant-incumbent model, how relative profit levels and costly market research jointly determine innovation-versus-imitation entry, R&D reactions, and when entry behavior reveals demand information to incumbents.",
+  "relation_to_prior_work": "extends prior technological competition models by allowing the follower's imitation-versus-innovation choice to be endogenous while the incumbent also innovates and rewards are uncertain. It introduces strategic market research and belief updating from observed entry strategy in a new product context, connecting innovation competition with marketing work on market orientation and demand information acquisition.",
+  "research_gap": "Prior models typically either constrained followers to imitation or imposed exogenous innovation paths, and generally did not combine incumbent innovation response with uncertainty about new product rewards. The paper addresses the unresolved question of how market research and information asymmetry shape the entrant's innovation-imitation choice and incumbent reaction.",
+  "research_question": "How should an entrant choose between innovation and imitation when the incumbent can respond through R&D and when returns to new products depend on monopoly versus duopoly profits? How do different forms of market uncertainty and costly market research affect both firms' R&D choices and whether the entrant's observed strategy reveals information that the incumbent can use?"
+}

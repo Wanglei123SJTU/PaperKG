@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is directly aligned with the citing paper’s core problem (churn management) and key mechanism (heterogeneous intervention effects): the citing note studies churn-prediction implementation and moderation, while the cited note tests risk- vs lift-based retention targeting using randomized field experiments. Given this strong conceptual/method overlap, the citation could plausibly serve as a substantive prior-result or targeting-framework source rather than a generic mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

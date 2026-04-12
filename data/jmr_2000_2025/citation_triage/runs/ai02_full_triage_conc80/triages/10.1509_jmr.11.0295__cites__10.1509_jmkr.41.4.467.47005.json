@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper explicitly states it handles endogeneity by modeling marketing contact intensity as a function of customer-specific response parameters, which closely matches the cited paper’s core contribution of jointly modeling nonrandom marketing-mix allocation (Poisson detailing) with response parameters. Given this strong methodological overlap on correcting simultaneity/nonrandom allocation, the citation is plausibly foundational/method-sourcing rather than an incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Documents, in directed networks, how three distinct dyadic overlap metrics-common followees, common followers, and common mutual followers-relate to a receiver's content-sharing propensity.",
+    "Introduces a dyadic proportional hazards framework that attributes influence when multiple senders expose the same receiver, while also incorporating spontaneous sharing via a special sender.",
+    "Shows managerial implications for seeding and targeting: overlap-aware targeting can speed diffusion, and the best seed set depends on content popularity."
+  ],
+  "context": "The study examines public content rebroadcasting on directed social media platforms where users receive content from followees. The main setting is retweeting of brand-authored content on Twitter, with an external validation setting using sponsored ad sharing on Digg.",
+  "design_and_data": "The authors model time to sharing at the sender-receiver-content dyad level using a continuous-time proportional hazards model stratified by content. The specification allows multiple cosenders, includes sender/receiver/dyad controls, models spontaneous nonsocial sharing as a special sender, and uses sender-, receiver-, and dyad-level random effects with fixed-effects robustness checks. The Twitter data include 397 tweets from nine Fortune 500 brands, 12,565 senders, 869,899 receivers, and 2,972,026 sender-receiver-tweet tuples, with risk-set sampling of nonactivated followers. A second dataset from Digg (31 sponsored ads) is used to verify robustness.",
+  "focal_constructs": [
+    "network overlap",
+    "common followees",
+    "common followers",
+    "common mutual followers",
+    "content sharing propensity",
+    "content popularity",
+    "directed social networks",
+    "multiple cosenders"
+  ],
+  "main_findings": [
+    "Receivers are more likely to share content from senders with whom they share more common followees, common followers, and common mutual followers, controlling for other factors.",
+    "The effect of common followers on sharing propensity is larger than the effect of common mutual followers.",
+    "The positive effects of common followers and common mutual followers decline as content becomes more popular and can become negative; simulation results indicate overlap-aware targeting can reduce time to reach a fixed audience by roughly 35%-70%."
+  ],
+  "one_line_summary": "Using dyadic sharing data from Twitter and Digg, the paper shows that different forms of network overlap in directed networks significantly shape rebroadcasting and that these effects vary with content popularity.",
+  "relation_to_prior_work": "extends prior WOM and social-network sharing research by moving beyond content features and unitary sender/receiver metrics to dyadic overlap measures in directed networks. extends earlier dyadic work centered on reciprocity or common friends in undirected/private settings by showing distinct effects for common followers versus common mutual followers and a popularity-based boundary condition.",
+  "research_gap": "Existing studies largely focus on what is shared or on unitary network characteristics of senders and receivers, and dyadic studies have not clearly examined different overlap types in directed networks for public content rebroadcasting. The paper identifies a gap in understanding how dyadic network overlap affects sharing when receivers can be exposed by multiple senders.",
+  "research_question": "How does dyadic network overlap between a sender and receiver in a directed social network affect the receiver's hazard of sharing content? Do common followees, common followers, and common mutual followers have distinct effects, and are these effects moderated by content popularity when multiple cosenders are present?"
+}

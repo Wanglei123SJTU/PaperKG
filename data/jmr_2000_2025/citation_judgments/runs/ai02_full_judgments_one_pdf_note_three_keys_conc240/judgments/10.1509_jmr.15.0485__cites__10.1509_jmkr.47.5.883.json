@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the methodology section, the cited paper is referenced when the authors discuss simultaneity and endogeneity in peer effects, including the reflection problem and IV-based correction. This is connected to a core identification step in the empirical design rather than a purely general background mention. Although it appears in grouped citations and the citing paper does not use the cited paper's opinion-leader findings, it still plays a meaningful methodological role in how peer effects are modeled.",
+  "relation_description": "The citing paper uses Nair et al. (2010) as methodological precedent for identifying peer effects under simultaneity/endogeneity and for using IV-style correction in observational data. It applies that identification logic to a different context, salesperson turnover, within a hazard-model framework.",
+  "relation_type": "applies"
+}

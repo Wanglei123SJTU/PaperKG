@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper introduces the budget contraction effect: a given budget is allocated to fewer different items when reached from a higher prior budget than from a lower prior budget.",
+    "It argues and shows that prior allocations create item-level reference quantities, so anticipated losses from cutting many items produce narrower allocation sets.",
+    "It provides experimental causal evidence across multiple domains (money and time budgets) that budget trajectory affects allocation variety."
+  ],
+  "context": "This paper studies sequential allocation of discretionary budgets by individual consumers in controlled choice tasks. Contexts include Costco grocery purchases, retirement investment allocations, and Western Europe travel itinerary planning (time budgets).",
+  "design_and_data": "Five experiments manipulate budget trajectory (expanding vs contracting) while holding the focal budget level constant. Experiment 1 (national online panel, N = 451; 442 analyzed) uses three grocery budgets ($40/$80/$120) across nine Costco items; Experiment 2 (N = 588, plus a follow-up MBA sample N = 54) uses three investment budgets ($500/$1,000/$1,500) across four investment vehicles; Experiment 3a (N = 410) uses travel-day budgets (7/14/21 days) across European cities. Experiment 3b (N = 124 undergraduates) compares expected loss and pain for broad-cut versus focused-cut reduction strategies, and Experiment 4 (N = 416) is a 2x2 design (trajectory x prior allocation yes/no) testing whether the effect requires prior allocations.",
+  "focal_constructs": [
+    "budget contraction effect",
+    "allocation variety",
+    "budget trajectory",
+    "reference quantities",
+    "loss aversion",
+    "anticipated psychological loss",
+    "sequential budget allocation"
+  ],
+  "main_findings": [
+    "For the same middle budget, allocation variety was consistently lower under contracting than expanding trajectories in groceries, investments, and travel.",
+    "Slope comparisons showed stronger contraction-side changes, especially at lower budgets, indicating the effect is driven by reduced variety under contraction rather than increased variety under expansion.",
+    "Broad shallow cuts were expected to produce greater feelings of loss than focused deep cuts, and the contraction effect was mitigated when participants had not made prior item-level allocations."
+  ],
+  "one_line_summary": "Across five experiments, consumers allocated a given budget to fewer categories or items when arriving from a higher prior budget than from a lower prior budget, because spreading cuts across many items was anticipated as more psychologically costly.",
+  "relation_to_prior_work": "extends prior research on asymmetric responses to income changes by moving from aggregate expenditure patterns to individual-level, experimentally manipulated budget allocations. It introduces allocation variety as the focal outcome and links trajectory effects to reference-dependent loss aversion in sequential budgeting.",
+  "research_gap": "Prior work on asymmetric reactions to income changes mainly used aggregate or panel expenditure data and did not test, at the individual level, whether budget trajectory changes the variety of items chosen for the same budget. The paper also argues that standard single-path utility assumptions leave unclear whether allocations at budget X should differ depending on whether consumers came from above or below X.",
+  "research_question": "Do consumers allocate the same current budget in the same way regardless of whether their budget is contracting or expanding? Specifically, does a contracting trajectory reduce allocation variety for a given budget level, and is this driven by loss aversion around reference quantities formed by prior allocations?"
+}

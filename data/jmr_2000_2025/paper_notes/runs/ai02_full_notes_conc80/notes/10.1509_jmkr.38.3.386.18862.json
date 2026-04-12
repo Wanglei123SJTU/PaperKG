@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes that consumers strategically manage expectations, often lowering them, to increase future satisfaction.",
+    "It introduces and tests a trait-based extension in which disconfirmation sensitivity lowers expectations while perfectionism raises them.",
+    "It identifies a possible third expectation standard, as-if expectations, and offers preliminary evidence that it differs from will and should expectations."
+  ],
+  "context": "The empirical setting is consumer evaluations of car tires, using tire tread life (miles lasted) as the focal quality attribute for an unfamiliar brand (CAMAC). Evidence comes from a laboratory scenario study and a mall-intercept field study in a large Northeastern U.S. city.",
+  "design_and_data": "Study 1 is a lab experiment with 60 MBA students who reported expected tire life and satisfaction for five hypothetical performance outcomes relative to their own expectations; the authors measured disconfirmation sensitivity, perfectionism, and controls (optimism, involvement, expertise). They estimated a satisfaction equation and an expectations equation simultaneously using two-stage least squares. Study 2 uses mall intercept data from 200 respondents (196 in model estimation) with between-subject manipulated observed quality levels (20k-60k miles), a distractor task, and measures of prior and updated will, should, and as-if expectations plus satisfaction and trait measures. A three-equation system (prior expectations, updated expectations, satisfaction) was estimated with two-stage least squares.",
+  "focal_constructs": [
+    "strategic expectation management",
+    "disconfirmation sensitivity",
+    "perfectionism",
+    "performance-expectation disconfirmation",
+    "customer satisfaction",
+    "will expectations",
+    "should expectations",
+    "as-if expectations"
+  ],
+  "main_findings": [
+    "Disconfirmation sensitivity positively moderates the effect of performance minus expectations on satisfaction, so more disconfirmation-sensitive consumers react more strongly to positive and negative gaps.",
+    "Consumers with higher disconfirmation sensitivity report lower expectations, while consumers higher in perfectionism report higher expectations, consistent with the hypotheses across both studies.",
+    "As-if expectations are empirically lower than will and should expectations, and the Study 2 patterns suggest they update differently, providing preliminary evidence of a distinct expectation standard."
+  ],
+  "one_line_summary": "Across a tire-category lab study and field study, the paper finds that consumers appear to strategically set expectations, with disconfirmation sensitivity linked to lower expectations, perfectionism linked to higher expectations, and preliminary evidence for a distinct lower as-if expectation used in evaluation.",
+  "relation_to_prior_work": "extends disconfirmation-based satisfaction and expectations models by arguing that expectations are not only information-based but also strategically managed by consumers. It adds disconfirmation sensitivity and perfectionism as systematic determinants of expectations and explores an additional evaluative standard beyond the established will versus should distinction.",
+  "research_gap": "Prior satisfaction research largely treats expectations as passively formed from available information, with limited attention to consumers strategically choosing expectation levels to influence later satisfaction. The paper addresses this by testing whether stable individual differences help explain expectation formation and its role in satisfaction.",
+  "research_question": "Do consumers strategically lower expectations to improve later satisfaction rather than only passively integrating marketplace information when forming expectations? Are expectation levels systematically related to disconfirmation sensitivity and perfectionism, and does disconfirmation sensitivity amplify the effect of disconfirmation on satisfaction? The paper also explores whether consumers use a distinct as-if expectation standard in postpurchase evaluation."
+}

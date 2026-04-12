@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and documents a dynamic pattern in product expectations: optimism rises after choice and then fades before performance is revealed.",
+    "The paper resolves conflicting predictions from dissonance theory and strategic expectation management by specifying when each process dominates.",
+    "The paper introduces fading optimism to product contexts and identifies prior attitude toward the category and performance ambiguity as moderators."
+  ],
+  "context": "The studies examine consumer expectations for products whose performance is revealed after choice, using disposable cameras (photo quality) and lemon-lime soft drinks (taste). Participants were undergraduate business students in controlled experimental tasks with delayed or imminent performance feedback.",
+  "design_and_data": "The evidence comes from five experiments with undergraduate business students (N=42, 50, 50, 77, and 163) using mixed designs with repeated expectation measures from prechoice to postchoice. Experiments 1-3 use disposable cameras; Experiment 1 tests a three-time-point pattern and compares chosen versus rejected products, and Experiments 2-3 manipulate performance imminence and focus of concern. Experiments 4-5 replicate in soft drinks, test an alternative choice-versus-judgment account via cognitive load (2-digit vs 7-digit memory task), and test moderators using manipulated performance ambiguity plus measured prior category attitude. Analyses are primarily repeated-measures ANOVAs with planned contrasts.",
+  "focal_constructs": [
+    "product expectations",
+    "postchoice optimism",
+    "fading optimism",
+    "imminence of performance revelation",
+    "focus of concern (prior choice vs future performance)",
+    "prior attitude toward product category",
+    "performance ambiguity"
+  ],
+  "main_findings": [
+    "Expectations for chosen products followed an inverted-U over time: they increased after choice and decreased when performance was imminent, while rejected products did not show this pattern.",
+    "Postchoice optimism appeared when performance revelation was distant or when concern centered on prior choice, but it disappeared when revelation was imminent or concern centered on future performance.",
+    "In soft-drink studies, cognitive load did not attenuate the fading-optimism effect, and fading was strongest under future-performance focus when prior attitude was unfavorable and performance ambiguity was low, producing significant pessimism."
+  ],
+  "one_line_summary": "Across five experiments, choosing a product temporarily boosts expected performance, but this postchoice optimism fades as performance revelation nears, especially under unfavorable prior attitudes and low performance ambiguity.",
+  "relation_to_prior_work": "extends dissonance and strategic expectation-management work by showing a temporal sequence in which postchoice bolstering is followed by strategic lowering of expectations as performance approaches. It introduces the fading-optimism framework from prior social-psychology research into product expectations and postchoice marketing processes.",
+  "research_gap": "Prior literature gave conflicting predictions about postchoice expectations: dissonance research implied expectations should rise, whereas strategic management work implied they should fall. The paper argues that research had not clarified the temporal dynamics between choice and performance revelation or when optimism versus strategic reduction should occur.",
+  "research_question": "Can consumers' expectations about a chosen product change between prechoice and the period before performance is revealed, even when product information is unchanged? If so, does optimism first increase after choice and then fade as performance becomes imminent, and under what conditions is this fading stronger or weaker?"
+}

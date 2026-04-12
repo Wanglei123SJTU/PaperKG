@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper note focuses on developing and testing a Gaussian-copula endogeneity correction (2sCOPE), with comparisons to OLS, CopulaOrigin, COPE, and TSLS; it gives no indication that synthetic control methods are used, extended, or benchmarked. The cited paper is about Bayesian synthetic control for policy intervention evaluation (state-level soda tax), which appears methodologically and empirically separate here, and the matched evidence is only a bare DOI reference with no contextual cue of substantive use.",
+  "triage_decision": "drop_obvious_mention_only"
+}

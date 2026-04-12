@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited work is a CLV/RFM modeling paper (Pareto/NBD, gamma-gamma, iso-value curves), while the citing paper’s described analyses use hazard and Tobit models on cashback behavior and do not indicate direct use of those CLV methods. However, the matched evidence is only a DOI-level reference with no in-text citation context, so we cannot confidently tell whether it is purely background or a meaningful conceptual foundation.",
+  "triage_decision": "uncertain"
+}

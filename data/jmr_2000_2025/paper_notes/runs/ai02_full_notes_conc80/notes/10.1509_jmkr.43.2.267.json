@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper identifies elevated mood as a mechanism through which monetary incentives can degrade decision performance.",
+    "It demonstrates the full incentive -> mood -> performance-decrement chain across multiple experiments and two outcomes: predecisional distortion and overconfidence.",
+    "It argues that incentive-based experiments should monitor mood and include no-incentive controls because incentives can confound observed effects."
+  ],
+  "context": "The studies are controlled behavioral decision-making experiments with university students in classroom and lab settings. Tasks include sequential two-option choices (restaurants, resorts, scholarship applicants) and a factual confidence-interval judgment task, with real monetary incentives tied to stated accuracy criteria.",
+  "design_and_data": "Study 1 used incentive versus no-incentive choice conditions plus a no-choice control (108 total participants) and measured predecisional distortion with the SEP method across two choice tasks; mood was measured after choices. A follow-up replication (193 students) in a scholarship domain compared no incentive, decision-based incentive, and attribute-targeted incentive, using similar procedures and mediation analyses. Study 2 used 221 students in a 2x2 design (gain versus loss framing x surprise versus forewarning), plus no-incentive and no-choice controls, on the scholarship SEP task. Study 3 used 72 students in an incentive versus no-incentive confidence-interval quiz, with analyses including Baron-Kenny mediation, Sobel tests, and LISREL path models.",
+  "focal_constructs": [
+    "monetary incentives",
+    "mood",
+    "effort",
+    "task performance accuracy",
+    "predecisional distortion of information",
+    "overconfidence",
+    "incentive framing (gain vs loss)",
+    "forewarning vs surprise"
+  ],
+  "main_findings": [
+    "In Studies 1 and 2, incentives increased reported effort/time but also increased positive mood and increased predecisional distortion relative to no-incentive conditions.",
+    "Mediation analyses showed that mood significantly mediated the negative effect of incentives on distortion, while time/effort did not account for the performance decrement in the best-fitting models for Studies 1 and 2.",
+    "In Study 3, incentives increased overconfidence (participants captured fewer true values in 90% confidence intervals), and elevated mood again mediated part of this deterioration despite increased effort."
+  ],
+  "one_line_summary": "Across three experiments, the paper shows that performance-based monetary incentives can elevate mood and thereby worsen decision quality even when they increase effort.",
+  "relation_to_prior_work": "extends prior incentive research by adding a mood-mediated route to worse performance, beyond existing accounts centered on intrinsic motivation crowding or overeffort. It also positions this mechanism as a bridge between economist and psychologist views of when incentives help versus hurt.",
+  "research_gap": "Prior work had not demonstrated the complete causal chain from performance-based monetary incentives to elevated mood to degraded decision performance. The paper also addresses the common assumption that incentives at worst do no harm.",
+  "research_question": "Do performance-based monetary incentives always improve decision performance, or can they worsen it by elevating mood? The paper tests whether mood mediates incentive effects on predecisional distortion and overconfidence, and whether framing incentives as losses or forewarning participants can mitigate this effect."
+}

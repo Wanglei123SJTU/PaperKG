@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper introduces and documents a voice numerosity effect: hearing different voices narrate a persuasive message in succession can increase persuasion at initial video exposure.",
+    "It contributes to voice-design theory by showing that the number of narrating voices affects consumer information processing and behavior even when videos contain competing visual and audio information.",
+    "It demonstrates a scalable approach using machine learning, NLP, and text mining to extract and analyze unstructured multimedia marketing data."
+  ],
+  "context": "The paper studies asynchronous marketing communication videos, focusing on crowdfunding product videos and online video advertisements. Empirical settings include Kickstarter projects and a large ad-video dataset, plus controlled product-evaluation experiments.",
+  "design_and_data": "The paper reports four studies (plus validation and replication studies): two large field studies and two controlled experiments. Study 1 uses 11,801 U.S. Kickstarter projects with more than 3.6 million customer transactions and over USD 382 million in pledged funding, modeling pledged amount, number of backers, and project success with extensive controls and robustness checks. Study 2 analyzes 1,610 English video ads and models perceived ad effectiveness with ad, sentiment/topic, and multimedia controls. Studies 3 and 4 experimentally manipulate voice numerosity (one vs five voices; Study 3 also manipulates distraction) and test outcomes such as willingness to pay and purchase likelihood, with mediation via thought listings.",
+  "focal_constructs": [
+    "voice numerosity",
+    "consumer attention",
+    "message processing",
+    "persuasion",
+    "speech rate",
+    "processing ability (distraction)",
+    "favorability of cognitive responses"
+  ],
+  "main_findings": [
+    "Across field datasets, having more narrating voices is associated with better persuasion-related outcomes, including higher pledged funding, more backers, higher project success, and higher perceived ad effectiveness.",
+    "The voice numerosity effect is stronger when the spoken message is easier to process and when consumers have more processing capacity, and it weakens under faster speech rates and high distraction.",
+    "In experiments, multiple voices increase willingness to pay and purchase likelihood, and the purchase-likelihood effect is mediated by more favorable product-related cognitive responses."
+  ],
+  "one_line_summary": "Across large field datasets and controlled experiments, the paper finds that sequentially using multiple narrating voices in marketing videos increases persuasion by improving message processing, especially when processing conditions are favorable.",
+  "relation_to_prior_work": "extends prior research on voice in marketing that focused mainly on specific vocal qualities and often audio-only settings by examining the number of narrating voices in audiovisual video communications. It also extends persuasion research by providing moderator and mediation evidence consistent with a processing-based mechanism.",
+  "research_gap": "Prior research has given limited attention to narrator voice design in communications and has mainly examined specific voice qualities (e.g., pitch, speed, volume) and person perception effects. The paper identifies a gap on whether voice numerosity influences persuasion when consumers process simultaneous audio and visual information in modern video marketing.",
+  "research_question": "Does hearing different voices narrate the same persuasive video message (vs one voice) increase consumers' attention, processing, and persuasion at initial exposure? The paper also asks when this effect is stronger, specifically as a function of consumers' opportunity and ability to process the message, and whether cognitive responses mediate the effect."
+}

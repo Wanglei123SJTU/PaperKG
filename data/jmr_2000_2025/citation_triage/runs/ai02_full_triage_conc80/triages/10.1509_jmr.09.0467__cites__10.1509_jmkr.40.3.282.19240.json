@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s core mechanism uses others’ preference information (virtual experts, preference similarity, latent residual utility), which is conceptually close to the cited paper’s Bayesian model of interdependent consumer preferences and network-driven latent utility. Given this clear methodological/theoretical overlap in consumer preference interdependence (and a direct DOI match), this is not an obvious incidental mention and merits full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

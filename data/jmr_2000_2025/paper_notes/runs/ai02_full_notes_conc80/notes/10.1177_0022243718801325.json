@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper addresses relationship governance dynamics by testing whether prior governance choices both motivate later incremental supplier investments and buffer later ex post transaction costs.",
+    "The paper examines a plural governance mechanism by testing the interaction of initial partner selection efforts and mutual asymmetric investments, arguing that ability and motivation jointly shape transaction cost outcomes.",
+    "Using a rare two-wave matched supplier-reseller design, the paper provides longitudinal evidence on how governance effects persist over time and how specific assets accumulate incrementally."
+  ],
+  "context": "The study is set in conventional distribution channels for building materials, focusing on relationships between manufacturers (suppliers) and independent distributors/resellers for specific product categories (e.g., roofing, concrete items). The unit of analysis is a specific supplier-reseller product relationship.",
+  "design_and_data": "The authors use a longitudinal two-wave survey with a 3-year lag and matched supplier-reseller informants. Wave 1 collected governance variables and baseline investments; wave 2 collected incremental investments and ex post transaction costs for the same relationships. The final analytic sample is 100 dyadic relationships (from 105 matched cases, with 5 dropped for missing focal data). Hypotheses are tested with seemingly unrelated estimation (SUEST) using robust errors and checks for endogeneity, measurement validity, common method bias, and attrition bias.",
+  "focal_constructs": [
+    "initial reseller selection efforts",
+    "mutual asymmetric specific investments",
+    "supplier incremental specific investments",
+    "supplier ex post transaction costs",
+    "partner ability",
+    "partner motivation",
+    "plural governance interaction"
+  ],
+  "main_findings": [
+    "More stringent initial reseller selection efforts increase supplier incremental investments over time.",
+    "Greater asymmetry in initial mutual investments in the supplier's favor increases supplier incremental investments.",
+    "Supplier incremental investments tend to raise supplier ex post transaction costs, but this effect is weakened by initial selection efforts; mutual asymmetric investments alone do not significantly weaken it, while the three-way interaction with selection efforts significantly reduces the cost-increasing effect."
+  ],
+  "one_line_summary": "In supplier-reseller channels, initial partner selection efforts and mutual investment asymmetry both spur later supplier incremental investments, but transaction-cost safeguarding over time depends mainly on selection efforts and their interaction with investment asymmetry.",
+  "relation_to_prior_work": "extends transaction cost and channel governance research by moving beyond cross-sectional asset stocks to test dynamic, time-lagged effects of governance choices on incremental investments and ex post transaction costs. It also integrates sociological/agency partner-ability logic with TCE motivation logic to explain when combined governance arrangements reduce transaction costs.",
+  "research_gap": "Prior governance research often treats specific investments as cross-sectional stock variables and rarely tests whether governance arrangements chosen earlier continue to exert effects over time. The consequences of combining different governance mechanisms, especially how partner selection efforts interact with mutual investments, were also underexplored.",
+  "research_question": "How do a supplier's initial reseller selection efforts and preexisting mutual asymmetric investments affect the supplier's later incremental relationship-specific investments? Do these initial governance choices, alone or jointly, safeguard those incremental investments by reducing the supplier's ex post transaction costs over time?"
+}

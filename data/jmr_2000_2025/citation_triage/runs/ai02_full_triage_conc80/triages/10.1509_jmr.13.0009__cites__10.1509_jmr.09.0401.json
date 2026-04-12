@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited study is highly aligned in construct and approach: it analyzes social (and traditional) earned media effects on sales using daily data and dynamic autoregressive/impulse-response methods, while the citing paper also models daily social-media dynamics and links them to downstream sales/stock outcomes via VARX and impulse responses. This overlap makes it plausible that the citation serves as a substantive prior-work or methodological anchor rather than a purely incidental mention. Given only DOI-level match evidence, it should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

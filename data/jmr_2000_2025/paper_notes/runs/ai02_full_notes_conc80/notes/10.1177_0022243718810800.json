@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper shows positive state dependence in sequential risk taking: people are more likely to take a new risk when it is perceived as similar to a salient prior risk than when it is dissimilar.",
+    "The paper argues and demonstrates that perceived similarity is malleable, so framing a prior risk can predictably shift which subsequent risks people are willing to take.",
+    "The paper identifies increased self-efficacy and self-signaling from prior risk taking as process drivers, and shows the similarity effect is not moderated by prior outcome type."
+  ],
+  "context": "The studies examine everyday consumer-relevant risky choices across DOSPERT domains: financial, recreational, social, ethical, and health/safety. Evidence comes from online adult samples and includes both recalled/hypothetical prior risks and one incentive-compatible setting with real social and financial risks.",
+  "design_and_data": "The paper reports six experiments with online participants (MTurk), with study sample sizes of 701, 150, 983, 922, 961, and 379. Across studies, participants were assigned a prior risk domain or prior-risk framing and then reported likelihood of taking subsequent risks from matching or nonmatching domains; similarity, perceived risk, and process measures were also collected. Process was tested via manipulations of experience (high vs low recall) and self-signaling valence (took vs did not take a prior risk), plus mediation analyses. Study 5 used incentive-compatible tasks with real outcomes (a social disclosure risk or a financial gamble) before eliciting subsequent risk intentions.",
+  "focal_constructs": [
+    "perceived similarity between sequential risks",
+    "sequential risk-taking intentions",
+    "positive state dependence",
+    "risk domain specificity",
+    "self-efficacy",
+    "self-signaling",
+    "risk perception",
+    "outcome feedback"
+  ],
+  "main_findings": [
+    "Across studies, participants reported higher likelihood of taking a subsequent risk when it matched the prior risk domain or was rated as more similar to the prior risk.",
+    "Framing that changed perceived similarity changed subsequent risk-taking intentions in the predicted direction.",
+    "The similarity effect operated through self-efficacy and self-signaling measures, was not explained by lower perceived risk, and was not significantly moderated by positive versus negative prior outcomes."
+  ],
+  "one_line_summary": "Across six studies, the paper finds that perceived similarity to a prior risk increases willingness to take a subsequent risk, and that this state dependence is malleable via framing and linked to self-efficacy and self-signaling rather than prior outcomes.",
+  "relation_to_prior_work": "extends prior domain-specific and sequential risk-taking research by examining nonidentical sequential risks and showing that perceived similarity between risks is a key moderator of risk-taking intentions beyond individual and domain heterogeneity.",
+  "research_gap": "Prior sequential risk-taking research largely examined identical or same-domain risks, effectively holding similarity constant, leaving unclear how varying similarity between nonidentical sequential risks affects choices. Existing domain-specific risk work also did not address how malleable similarity via context or framing can shape future risk intentions.",
+  "research_question": "Does perceived similarity between a current risk and a salient prior risk affect sequential risk-taking intentions? Can this similarity be manipulated through framing to change subsequent risk-taking, and if so, is the effect driven by self-efficacy and self-signaling rather than by changes in perceived risk or prior outcomes?"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s design centers on fMRI multivoxel decoding of brand-personality representations (logo viewing, PCA-derived brand traits, cross-validated neural prediction), while the cited paper is a Bayesian item randomized-response/IRT method for socially sensitive survey measurement. There is no indication in the provided notes that randomized response, social desirability correction, or the cited model is used in the citing study; with only a bare DOI match and no contextual quote, this looks like at most a generic background mention.",
+  "triage_decision": "drop_obvious_mention_only"
+}

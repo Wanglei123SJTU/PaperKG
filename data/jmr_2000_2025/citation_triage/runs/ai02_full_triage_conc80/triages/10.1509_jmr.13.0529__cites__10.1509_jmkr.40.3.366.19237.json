@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is a methodological source on the consequences of dichotomizing continuous predictors, and the citing paper’s design relies heavily on regression modeling with continuous constructs (risk aversion, NFCC, and interactions), where coding/splitting choices are central. With only a DOI-level match and no in-text snippet, this is not clearly an incidental background mention and could plausibly be a method-defining citation.",
+  "triage_decision": "keep_for_relation_judgment"
+}

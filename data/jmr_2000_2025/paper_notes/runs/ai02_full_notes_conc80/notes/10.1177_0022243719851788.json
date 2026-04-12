@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper identifies perceived task objectivity as a central determinant of algorithm aversion, showing that algorithms are trusted and used less for tasks seen as subjective.",
+    "It shows that perceived task objectivity is malleable and that framing a task as benefiting from quantitative analysis increases trust in and use of algorithms.",
+    "It shows that increasing algorithms' perceived affective human-likeness raises perceived effectiveness for subjective tasks and can eliminate the objectivity-based gap in algorithm reliance."
+  ],
+  "context": "The paper studies consumer choice between human and algorithmic providers across tasks such as dating advice, financial advice, recommendations, and forecasting. Evidence comes from online experiments and Facebook ad markets where users can behaviorally choose whether to engage with algorithm-based versus human-based services.",
+  "design_and_data": "The article reports six studies (total N = 56,264), with four online lab studies and two online field studies. Study 1 uses MTurk samples to rate 26 tasks on objectivity, consequentialness, familiarity, and trust in humans versus algorithms; Studies 3-4 manipulate performance information and task framing in online experiments. Studies 2 and 5 are Facebook ad experiments that randomize human versus algorithm source and subjective versus objective framing and use click-through rate as a behavioral outcome. Study 6 is an incentivized Prolific judge-advisor forecasting task (S&P 500) that manipulates task framing and algorithm affective human-likeness and measures actual reliance on algorithmic advice.",
+  "focal_constructs": [
+    "algorithm aversion",
+    "perceived task objectivity",
+    "trust in algorithms",
+    "reliance on algorithms",
+    "perceived algorithm effectiveness",
+    "affective human-likeness",
+    "discomfort with algorithm use"
+  ],
+  "main_findings": [
+    "Consumers trust and use algorithms less for tasks perceived as subjective, and this pattern appears in both self-reports and field click behavior.",
+    "Providing evidence that an algorithm outperforms humans increases preference for using the algorithm, but the increase is smaller for subjective tasks than for objective tasks.",
+    "Reframing tasks as more objective and increasing perceived affective human-likeness of algorithms increase algorithm use for subjective tasks; in the final study, high affective human-likeness removes the objectivity effect on reliance."
+  ],
+  "one_line_summary": "Across six studies, the paper shows that algorithm aversion is strongest for tasks perceived as subjective and can be reduced by reframing task objectivity or by increasing algorithms' perceived affective human-likeness.",
+  "relation_to_prior_work": "extends prior algorithm aversion research by systematically testing task-level differences in trust and use and identifying perceived task objectivity as a key moderator across lab and field settings. It also extends this literature by validating interventions that marketers can use to increase adoption of superior algorithms and by examining cognitive versus affective pathways.",
+  "research_gap": "Prior research had not systematically examined how willingness to use algorithms varies across different task types and why those differences emerge. It also provided limited validated guidance on practical interventions marketers can use to increase reliance on algorithms when algorithms outperform humans.",
+  "research_question": "When are consumers less willing to trust and rely on algorithms rather than humans across different tasks? The paper asks whether perceived task objectivity explains this variation, and whether changing perceptions of the task or the algorithm's affective human-likeness can increase algorithm use."
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper gives Trusov et al. (2010) a distinct role as the closest prior marketing study that estimates tie weights and influence at the connection level, and uses it to motivate the paper's core research gap. It explicitly contrasts scope, arguing Trusov et al. is tailored to repeated login behavior in egocentric networks and is not suitable for one-time adoption seeding decisions. The paper also draws on Trusov et al. in a robustness check by testing a stochastic weighted-network construction inspired by that approach. These uses go beyond a passing mention and materially inform framing and method benchmarking.",
+  "relation_description": "The citing paper extends the line of work represented by Trusov et al. from egocentric, repeated-login influence inference to a broader seeding framework for diffusion with one-time adoption decisions and multiple relationship characteristics. It also implements a Trusov-inspired stochastic weighting specification as a robustness comparison against its proposed model.",
+  "relation_type": "extends"
+}

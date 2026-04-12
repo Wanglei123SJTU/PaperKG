@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces an expectation-based account in which consumers evaluate common-attribute information by comparing actual equal performance with expected relative performance between options.",
+    "Shows that expectancy disconfirmation can affect prepurchase choice at the attribute level, not only postpurchase satisfaction at the product level.",
+    "Identifies boundary conditions for the effect based on evaluation mode, direction of disconfirmation, strength of aggregate expectations, and attribute importance."
+  ],
+  "context": "The paper examines consumer choice settings where alternatives share one or more attributes, and firms can choose whether to display these common attributes. Empirical contexts include product comparisons for laptops, calculators, televisions, cameras, and batteries, plus a field purchase setting for pencils.",
+  "design_and_data": "The authors run seven experiments, mostly randomized between-subject studies on MTurk (Studies 1 and 3-7) and one field experiment with real purchases on a European college campus (Study 2). Core manipulations include presenting versus omitting common attributes, joint versus single evaluation, changing the added attribute's relative performance pattern, varying whether consumers hold clear relative expectations for that attribute, and varying attribute importance. Outcomes are choice shares or purchase intentions, with pretests and process measures (e.g., expected and perceived attribute performance) used to test mechanism.",
+  "focal_constructs": [
+    "common attributes",
+    "points of parity",
+    "expectation disconfirmation",
+    "relative performance expectations",
+    "prepurchase attribute evaluation",
+    "joint versus single evaluation",
+    "attribute importance"
+  ],
+  "main_findings": [
+    "Presenting information about a common attribute increased choice of the option expected to perform worse on that attribute and reduced choice of the option expected to perform better (shown in both online and field settings).",
+    "Consumers perceived performance differences on a common attribute even when stated levels were identical, and this perceived difference predicted choice toward the option seen as doing better than expected.",
+    "The effect was stronger or present when alternatives were jointly evaluated, when information disconfirmed relative expectations (equal or better-than-expected performance for the expected-worse option), when aggregate expectations about relative differences existed, and when the common attribute was important."
+  ],
+  "one_line_summary": "Across seven studies, showing an attribute that is identical across options shifts choice toward the option expected to be worse on that attribute because equal performance disconfirms relative expectations.",
+  "relation_to_prior_work": "extends prior research on common attributes by showing a distinct expectation-disconfirmation process through which non-differentiating attributes can change preference. It also extends expectancy-disconfirmation theory beyond postpurchase satisfaction to prepurchase, attribute-level choice, and extends inference research by showing expectation-based inferences even when attribute information is present and equal across alternatives.",
+  "research_gap": "Standard choice models typically imply that adding a common attribute should not change preference, and prior work on common attributes did not explicitly center consumers' relative performance expectations when that attribute is shown as equal. The paper also addresses the limited application of expectancy-disconfirmation ideas to prepurchase, attribute-level choice.",
+  "research_question": "Does presenting versus omitting information about a common (nondifferentiating) attribute change consumer choice, and does the direction of this change depend on consumers' relative expectations for which option should perform better on that attribute? The paper also asks when this effect appears, including roles of evaluation mode, disconfirmation direction, expectation strength, and attribute importance."
+}

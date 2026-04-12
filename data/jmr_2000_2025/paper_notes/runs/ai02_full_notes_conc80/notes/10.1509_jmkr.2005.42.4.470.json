@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper presents what it describes as the first formal integrated probabilistic model of Internet auction bidding over the entire bid sequence, jointly covering whether people bid, who bids, when they bid, and how much they bid.",
+    "It introduces a single latent, time-varying willingness-to-bid construct that links all four bidding modules in a parsimonious framework with tractable closed-form components.",
+    "It adds latent competing bidders and bidder panel-history variables to support auction-site customer targeting and communication strategy decisions."
+  ],
+  "context": "The empirical setting is single-item notebook computer auctions on one of the largest Internet auction sites in Korea, using an ascending first-price (English) format. The data period is July to October 2001, and buy-it-now design is common in this market.",
+  "design_and_data": "The authors develop a non-structural, reduced-form dynamic stochastic model in which latent willingness to bid drives bid speed, bidder identity, bid timing, and bid amount. Bid speed is modeled with exponentials, who/when are derived via order-statistic and truncation results, and how-much uses a normal latent bid amount with an added logit component for buy-it-now exercise. The database contains 2618 notebook auctions (including 296 with no bids) and 21,952 bids, with auction design, seller reputation, product specification, bidder characteristics, bid-specific variables, and prior bidding experience. Estimation uses Bayesian MCMC in WinBUGS, with comparisons across model variants and holdout validation on sampled auctions.",
+  "focal_constructs": [
+    "consumer willingness to bid (WTB)",
+    "whether people bid",
+    "bidder identity (who bids)",
+    "bid timing (when bids occur)",
+    "bid amount (how much is bid)",
+    "latent bidders / competition set",
+    "buy-it-now option",
+    "prior bidding experience (win/loss history)"
+  ],
+  "main_findings": [
+    "Including latent bidders and auctions with no bids improves fit for bid-amount prediction, and the full model shows high out-of-sample correlations for key summaries (.98 for bidders per auction, .92 for bid time, .95 for bid amount).",
+    "In-sample classification performance for the full model is reported as 85% hit rate for whether an auction receives bids, 87% for buy-it-now exercise (when valuation allows), and 59% for who bids.",
+    "Estimated effects indicate that the presence of buy-it-now lowers WTB while higher buy-it-now price and higher minimum bid raise WTB, longer duration lowers WTB, negative seller reputation lowers WTB, and prior bidder losses increase WTB."
+  ],
+  "one_line_summary": "Using notebook auction data from a major Korean platform, the paper proposes and validates a Bayesian integrated bid-by-bid model centered on latent willingness to bid that jointly predicts whether bidding occurs, who bids, when bids occur, and how much is bid.",
+  "relation_to_prior_work": "introduces a dynamic reduced-form framework that goes beyond prior auction studies focused on summary outcomes or isolated effects by modeling the full sequence of bids. It departs from structural equilibrium-based empirical auction models by avoiding equilibrium restrictions and emphasizing description and prediction of bid dynamics.",
+  "research_gap": "The paper argues that existing Internet auction research largely examines summary outcomes (such as final prices) or separate phenomena, leaving limited understanding of bid-by-bid dynamics across an auction's full history. It also notes a lack of a formal integrated model that jointly captures whether, who, when, and how much in one framework.",
+  "research_question": "How can bidding behavior in Internet auctions be modeled over the entire sequence of bids rather than only final outcomes? Specifically, can a single latent, time-varying willingness-to-bid construct, combined with observed and latent competition, jointly explain and predict whether bidding occurs, who bids, when bids occur, and how much is bid?"
+}

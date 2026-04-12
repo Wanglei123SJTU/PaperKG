@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper introduces horizontal versus vertical display orientation as a new visual assortment factor affecting perceived variety.",
+    "It proposes and tests a process account in which display orientation affects initial processing fluency and efficiency, which then shapes perceived variety and downstream consideration and choice outcomes.",
+    "It identifies a boundary condition showing that orientation advantages weaken or disappear when the task is to choose a single favorite option from familiar alternatives."
+  ],
+  "context": "The paper studies retail assortment presentation in both physical and screen-based shopping settings, including a U.S. mall store display, Halloween candy selection, and lab or quasi-field shopping tasks with chocolates, lollipops, and branded candies. The core manipulation is whether options are arranged for horizontal versus vertical scanning.",
+  "design_and_data": "The paper reports five studies plus a mall follow-up survey. Study 1 is a field study in a mall store (n=67) comparing horizontal versus vertical hand-sanitizer displays (32 fragrances), and Study 2 is a Halloween field study (n=34 after exclusions) comparing horizontal versus vertical candy-bin layouts; both track variety chosen, and Study 1 also tracks quantity purchased. Study 3 is a 2x2 lab experiment (n=215) manipulating orientation and exposure time (3 sec vs 15 sec) for chocolate assortments to measure processing fluency, perceived variety, and unique options chosen, followed by a mall survey extension (n=46) on perceived number of options. Study 4 uses eye tracking (n=20) with constrained-time and unconstrained-time viewing of 35-lollipop assortments, and Study 5 is a quasi-field lab purchase study (n=271) crossing orientation with single- versus multiple-option choice tasks for familiar candy brands.",
+  "focal_constructs": [
+    "horizontal versus vertical display orientation",
+    "processing fluency",
+    "processing efficiency",
+    "perceived assortment variety",
+    "consideration set size",
+    "variety seeking",
+    "choice ease, satisfaction, and confidence"
+  ],
+  "main_findings": [
+    "Across two field studies, horizontal displays led consumers to choose more variety than vertical displays, and in the mall field study horizontal displays also increased purchase quantity.",
+    "In constrained-time viewing, horizontal assortments were processed more fluently and efficiently (including more options fixated per second), and this was associated with higher perceived variety and larger consideration sets.",
+    "When multiple-option choice was allowed, horizontal displays increased unique options chosen and improved reported choice ease, satisfaction, and confidence versus vertical displays; these advantages were not evident in single-option choice."
+  ],
+  "one_line_summary": "Across five studies, the paper shows that horizontal (vs. vertical) assortment displays increase early processing fluency and perceived variety, which leads to greater variety-oriented choice when multiple-option selection is relevant.",
+  "relation_to_prior_work": "extends prior assortment-perception research by adding display orientation (horizontal vs vertical) to established drivers such as structure, partitioning, shelf space, and visual versus verbal depiction. It also extends visual merchandising research on shelf effects by showing that the scan direction induced by the whole assortment layout changes processing and choice outcomes.",
+  "research_gap": "Prior work showed many ways to influence perceived assortment variety, but it did not directly establish how horizontal versus vertical display or blocking affects assortment processing and downstream choice. The mechanism linking orientation to perceived variety and choice behavior was not clearly demonstrated.",
+  "research_question": "How does horizontal versus vertical assortment display influence consumers' processing of alternatives, perceived assortment variety, and subsequent choice outcomes? Does an orientation-based processing advantage explain why consumers choose more variety, and does this effect depend on whether the task is multiple-option versus single-option choice?"
+}

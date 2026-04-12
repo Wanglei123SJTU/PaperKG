@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "Park and Gupta (2009) is cited in the core modeling and estimation development, not just as general background. The citing paper explicitly says it builds on prior single-channel likelihood models (including Park and Gupta) to construct its multichannel nested demand specification and parameterization of unobservables. It then contrasts estimator properties and scope conditions, explaining advantages of its own approach and when Park and Gupta's approach is more suitable. This indicates a clear methodological dependence and forward extension.",
+  "relation_description": "The citing paper uses Park and Gupta (2009) as a methodological starting point for likelihood-based aggregate random-coefficient demand estimation and extends it to a multichannel nested setting. It proposes a modified estimation strategy for larger choice sets while explicitly positioning differences in assumptions and applicability versus Park and Gupta.",
+  "relation_type": "extends"
+}

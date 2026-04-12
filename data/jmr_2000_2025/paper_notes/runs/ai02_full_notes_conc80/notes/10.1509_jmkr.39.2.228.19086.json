@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper applies the Becker-DeGroot-Marschak (BDM) random pricing mechanism to point-of-purchase marketing research to elicit individual consumers' WTP.",
+    "It empirically compares BDM with non-incentive-compatible methods used in marketing research, including open-ended price matching and a double-bounded choice-bracketing format.",
+    "It shows that differences in elicited WTP are driven by the incentive constraint and examines potential strategic response behavior in BDM."
+  ],
+  "context": "The field studies were run in real purchase locations in Kiel, Germany: a public beach (Coca-Cola) and a commuter ferry (pound cake), where no substitutes were available at the site. A follow-up laboratory study at a private northeastern university used a low-cost durable good (a ballpoint pen).",
+  "design_and_data": "Studies 1 and 2 included 400 randomly selected consumers (200 per study), with random assignment within each study to BDM or hypothetical price matching (100 per condition). In BDM, respondents stated a maximum price, could revise it, then drew a random purchase price from an urn and had to buy if the drawn price was less than or equal to their stated price; uniform price distributions were used. The authors collected WTP, compliance with purchase obligations, transparency/acceptability ratings, and preference-related measures, and estimated demand functions using logit models. Study 3 was a lab experiment with 255 undergraduates randomly assigned to BDM with candy compensation, BDM without compensation, or a hypothetical double-bounded choice-bracketing procedure for a pen.",
+  "focal_constructs": [
+    "consumer willingness to pay (WTP)",
+    "incentive compatibility",
+    "Becker-DeGroot-Marschak (BDM) procedure",
+    "point-of-purchase elicitation",
+    "hypothetical contingent valuation (price matching)",
+    "strategic response behavior",
+    "reliability and validity of WTP measures"
+  ],
+  "main_findings": [
+    "BDM elicited significantly lower WTP than hypothetical methods in all studies, including Coke (DM 1.06 vs DM 1.35), cake (DM 1.12 vs DM 1.68), and pens (about $1.24/$1.33 in BDM vs $3.04 in BRACKETS).",
+    "In the field studies, BDM was feasible and well accepted, with high understanding and high compliance with purchase obligations, and it showed stronger face, internal, and criterion validity indicators than price matching.",
+    "In Study 3, BDM-with-compensation and BDM-without-compensation did not differ in mean WTP, while hypothetical BRACKETS remained higher, supporting the claim that the incentive constraint (not extra cognitive effort) explains the lower BDM WTP and showing no evidence of strategic overbidding from escalation-of-commitment motives."
+  ],
+  "one_line_summary": "The paper tests BDM as a point-of-purchase WTP elicitation method and finds it practical and valid, with lower estimates than hypothetical methods because of incentive compatibility.",
+  "relation_to_prior_work": "introduces BDM, previously used in experimental economics and behavioral decision research, into marketing research as a point-of-purchase WTP measurement method. It compares BDM with contingent valuation-style hypothetical formats and discusses it as an alternative to Vickrey auctions, which the authors describe as operationally less natural in retail settings and empirically vulnerable to overbidding.",
+  "research_gap": "Existing methods did not jointly provide incentive-compatible truth-telling and realistic point-of-purchase implementation: survey methods were hypothetical, while Vickrey auctions were costly, less natural for retail purchase decisions, and empirically prone to strategic overbidding. The paper addresses this gap by evaluating whether BDM can deliver practical, valid individual-level WTP estimates in such contexts.",
+  "research_question": "Can the Becker-DeGroot-Marschak procedure be used as an incentive-compatible and operationally feasible way to measure consumers' WTP directly at the point of purchase? How does its performance compare with non-incentive-compatible hypothetical elicitation methods in terms of reliability, validity, and susceptibility to strategic response behavior?"
+}

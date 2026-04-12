@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "A novel dynamic formulation of advertising budgeting that combines analytics-driven and heuristic rules under a bounded-rationality, 'multiple stakes in the ground' view.",
+    "An explicit treatment of uncertainty in time-varying ad effectiveness, with adaptive experimentation incorporated directly into the budget equation rather than assuming full-information optimality.",
+    "First empirical brand-level evidence from market data that managers allocate spending proportionally to ad-effectiveness uncertainty, along with estimated weights for each budgeting component."
+  ],
+  "context": "In the U.S. market, the paper studies top-advertising brands in three categories: hybrid cars (Toyota Prius, Honda Civic), beer (Bud Light, Budweiser, Coors Light, Miller Lite), and yogurt (Yoplait, Danone). These settings span durable and nondurable categories with different market maturity and uncertainty conditions.",
+  "design_and_data": "The authors build a dynamic state space model with a sales equation and a random-walk ad-effectiveness process, and an advertising-budget equation decomposed into baseline spending, adaptive experimentation, A/S ratio, and competitive parity plus controls. Parameters are estimated with a Kalman filter and robust (sandwich) inference, and the framework explicitly treats advertising as endogenous by jointly modeling observed sales and observed ad spending. Empirical data are monthly sales, advertising, and marketing-mix variables for eight brands: 68 months (Jan 2005-Aug 2010) for hybrid cars and 132 months (Jan 2001-Dec 2011) for beer and yogurt; sales come from JD Power (hybrids) and IRI (CPG), advertising from Kantar. The paper also reports Monte Carlo identification checks and holdout forecast validation against a benchmark without budget decomposition.",
+  "focal_constructs": [
+    "advertising budget decision",
+    "baseline spending",
+    "adaptive experimentation",
+    "ad effectiveness uncertainty",
+    "advertising-to-sales ratio heuristic",
+    "competitive parity heuristic",
+    "bounded rationality",
+    "dual control theory"
+  ],
+  "main_findings": [
+    "Across all eight brands, the adaptive experimentation coefficient is positive and significant, indicating that managers increase ad budgets when uncertainty in ad effectiveness is higher.",
+    "Brands generally use multiple budgeting methods, but the mix is brand-specific; hybrid car brands place relatively more weight on experimentation, while yogurt and several beer brands rely more on heuristics.",
+    "Compared with a no-decomposition benchmark, the proposed model improves prediction (average 25.4% lower MAPE and 26.5% lower RMSE), and reallocating 50% of competitive-parity spending to experimentation raises simulated sales, with double-digit lifts for hybrid brands."
+  ],
+  "one_line_summary": "The paper proposes and estimates a brand-level dynamic decomposition of advertising budgets into analytic and heuristic components and finds that managers systematically spend more on experimentation when ad-effectiveness uncertainty is higher.",
+  "relation_to_prior_work": "extends prior advertising budgeting research by unifying optimal-control style analytics and commonly used heuristics in a single empirically estimated state space framework at the brand level. It also provides a direct empirical test of the dual-control prediction that experimentation spending is proportional to uncertainty in ad effectiveness, which earlier marketing work had not tested.",
+  "research_gap": "Prior work provides limited systematic evidence on how managers actually combine budgeting methods at the brand level and how each component affects performance, with much existing evidence based on industry-level surveys. The dual-control hypothesis that experimentation budgets increase with uncertainty in ad effectiveness had not been empirically tested in marketing.",
+  "research_question": "How do managers combine analytics-based and heuristic rules when setting advertising budgets over time, and what are the sales implications of that mix? Can observed brand-level spending be decomposed into baseline spending, adaptive experimentation, A/S ratio, and competitive parity components? Do managers allocate experimentation spending in proportion to uncertainty in ad effectiveness, as dual control theory predicts?"
+}

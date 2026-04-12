@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a latent attrition model that incorporates transaction-specific attributes into customer retention and valuation while maintaining standard unobserved heterogeneity assumptions.",
+    "It derives prior and posterior expressions for discounted expected residual transactions (DERT) and introduces incremental DERT as a decision metric that can approximate an upper bound on retention investment.",
+    "It claims to be the first study to value transaction-attribute information in terms of changes in expected future customer transactions."
+  ],
+  "context": "The empirical application is a noncontractual business-to-business online freelance writing service where customers request job quality levels and the delivered quality is objectively graded by the firm's reviewers. The setting tracks repeated customer orders over time and service outcomes relative to requested standards.",
+  "design_and_data": "The authors develop a BG/NBD-type latent attrition model in which post-transaction churn probability varies by transaction attributes, with gamma-distributed heterogeneity in transaction and attrition parameters. They estimate the model by maximum likelihood and derive closed-form or summation-based expressions for expected future transactions, P(Alive), and DERT. The data include 24,059 completed jobs from 3,048 US/Canada customers (English-language jobs), from June 2008 to July 2011, with first orders before end-2010. They compare three model variants (baseline without service-quality attributes, reduced attribute model, full dynamic model) using likelihood tests and predictive checks including MAPE, RMSE, and holdout calibration.",
+  "focal_constructs": [
+    "latent attrition model",
+    "transaction-specific attributes",
+    "customer churn probability",
+    "discounted expected residual transactions (DERT)",
+    "incremental DERT",
+    "recency and frequency",
+    "service quality relative to requested level",
+    "customer retention value"
+  ],
+  "main_findings": [
+    "Falling short of a customer's requested service level increases churn risk, and repeated lower-than-requested experiences further increase this sensitivity.",
+    "The revenue loss from missing requested service is larger than the expected gain from exceeding requested service, with little evidence of a significant positive effect from overdelivery.",
+    "The impact of a service miss on customer value (incremental DERT) is nonlinear in recency and frequency: it is largest when active status is uncertain and smaller when customers are very likely active or already churned."
+  ],
+  "one_line_summary": "The paper extends latent attrition modeling to include transaction-level service attributes and shows, in B2B service data, how those attributes change DERT and the implied upper bound for retention investment across different recency-frequency profiles.",
+  "relation_to_prior_work": "extends Pareto/NBD and BG/NBD-style customer base models by embedding transaction-specific covariates in the attrition process while preserving unobserved heterogeneity and tractable estimation. It also connects this extension to customer valuation by mapping attribute effects into prior/posterior DERT and incremental DERT, addressing limits of prior analytic or less valuation-focused approaches.",
+  "research_gap": "Prior latent attrition models used in customer base analysis largely rely on recency and frequency summaries and do not empirically connect transaction-specific attributes to forecasts of residual customer value. Existing related work either is primarily analytic or does not provide a framework to quantify how transaction attributes translate into changes in expected future transactions and investment-relevant value.",
+  "research_question": "How can transaction-specific attributes be incorporated into a latent attrition framework to improve estimation of customer retention and residual value? In particular, how do deviations between requested and delivered service quality affect discounted expected residual transactions, and how does that effect vary with customers' recency and frequency histories?"
+}

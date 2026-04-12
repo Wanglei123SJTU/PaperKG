@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper provides a unified theoretical and empirical comparison of six latent moderation methods: multigroup, means, corrected means, factor scores, product indicators, and latent product.",
+    "It delivers evidence-based method selection guidelines from eight Monte Carlo studies that vary reliability, scale format, predictor correlation, loading equality, nonnormality, and misspecification.",
+    "It offers practical implementation support by providing sample code for SPSS, Stata, R, and Mplus."
+  ],
+  "context": "The study is set in marketing research where moderation analyses often involve latent constructs measured with error. It also reviews moderation practice in Journal of Marketing Research, Journal of Marketing, Journal of Consumer Research, and Marketing Science (2015-2020), documenting 885 moderation effects in 213 articles.",
+  "design_and_data": "The authors first conduct a literature review of 1,381 articles (2015-2020) in four top marketing journals and summarize method usage and typical design characteristics. They then run eight Monte Carlo simulation studies, with 5,000 replications per condition, comparing up to six latent moderation methods on parameter bias, standard error bias, RMSE, and power/Type I error. Simulation factors include reliability levels (.75, .85, .95), indicator scale type (continuous and ordered categorical), discrete versus continuous moderator, X-Z correlation, unequal loadings, nonnormal indicators, correlated measurement errors, and structural misspecification. Sample sizes vary from 100 to 1,500, with baseline parameter choices informed by the literature review.",
+  "focal_constructs": [
+    "latent moderation analysis",
+    "measurement error",
+    "reliability",
+    "parameter bias",
+    "standard error bias",
+    "factor scores method",
+    "latent product method"
+  ],
+  "main_findings": [
+    "The means method is often substantially biased when reliabilities are below 1 and is only acceptable when reliabilities are close to 1, while the multigroup method is strongly biased for continuous moderators but works well for discrete moderators.",
+    "Across most investigated realistic conditions, the factor scores method and latent product method perform best, typically with parameter and standard error bias at or below 5% and similar RMSE and power.",
+    "Method performance deteriorates under misspecification: correlated measurement errors and omitted polynomial structure can bias estimates and inflate Type I error across methods; the product indicators method can have relatively low parameter bias under severe nonnormality but its standard errors can still be notably biased."
+  ],
+  "one_line_summary": "Using a marketing literature review and eight Monte Carlo studies, the paper shows that factor scores and latent product methods are generally the most reliable choices for latent moderation, whereas the widely used means method is often biased unless reliabilities are near 1.",
+  "relation_to_prior_work": "extends prior work on measurement error and latent interactions by benchmarking six moderation methods in one common framework tied to observed marketing research conditions. It refines methodological guidance by showing when the dominant means approach is defensible and when alternatives such as factor scores or latent product should be preferred.",
+  "research_gap": "The paper states that researchers lack a comprehensive, side-by-side assessment of the six main latent moderation methods, which hinders informed method choice. This gap is especially important because the most commonly used approach in marketing (means scores) ignores residual measurement error despite known risks of bias.",
+  "research_question": "How do six methods for latent moderation analysis differ in assumptions and empirical performance when moderation variables are measured with error? Under which data conditions should marketing researchers use each method to obtain less biased estimates, valid inference, and adequate power?"
+}

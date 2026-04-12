@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces an attribute-hedonic model in which competitor effects on a target are decomposed into two indirect paths: attribute contrast and hedonic assimilation.",
+    "Shows that common versus distinct attributes are a key boundary condition, so comparison tactics based on assumed hedonic contrast can either increase or decrease willingness to pay.",
+    "Provides converging evidence across six studies, including a field analysis of home sales and a norm-based process test, to explain why the two effects differ."
+  ],
+  "context": "The paper studies consumer product comparisons used in marketing contexts such as comparative advertising, comparison tables, and purchase decisions across products (e.g., TVs, tablets, headphones, internet plans). It also examines a real market setting using single-family home sales in Boulder County, Colorado.",
+  "design_and_data": "The paper reports six studies combining controlled experiments and field data. Study 1 (Prolific, n=300; 294 analyzed) uses visual TV comparisons and parallel mediation; Study 2 (university lab pool, n=200; 187 analyzed) replicates with numeric comparisons across music services, TVs, tablets, and internet providers. Study 3 (Prolific, n=250) tests a distinct-attribute tablet case and measures mood and category-level alternatives; Study 4 (Prolific, n=700) uses a 2x2 competitor level x common/distinct attribute design with headphones. Study 5 analyzes 22,161 home sales (21,354 matched target-competitor cases) from Boulder County 2013-2018 with interaction regressions plus control-function and Heckman checks; Study 6 (MTurk, n=401) uses a 2x2 design with cameras/tablets, measures perceived megapixel norms, and tests moderated mediation.",
+  "focal_constructs": [
+    "hedonic contrast hypothesis",
+    "attribute-hedonic model",
+    "attribute judgments",
+    "hedonic judgments",
+    "contrast effects",
+    "assimilation effects",
+    "attribute distinctiveness (common vs distinct attributes)",
+    "category norms"
+  ],
+  "main_findings": [
+    "Across experiments, competitor comparisons produced opposite indirect effects: attribute judgments of the target contrasted with competitor context, while hedonic judgments assimilated.",
+    "Because the attribute path was often stronger, total judgments often looked like hedonic contrast, but when competitor appeal came from distinct attributes the attribute contrast path weakened or disappeared and the total effect could reverse.",
+    "In field home sales, competitor basement size showed a positive main association with target price but a negative interaction when the target also had a basement, consistent with assimilation plus common-attribute contrast."
+  ],
+  "one_line_summary": "Across six studies, the paper shows that apparent hedonic contrast in product comparisons is better explained by a stronger attribute-contrast path plus a weaker hedonic-assimilation path, with willingness-to-pay effects reversing when comparisons rely on distinct attributes.",
+  "relation_to_prior_work": "challenges the default interpretation that product comparisons operate through direct hedonic contrast and refines it into separate attribute and hedonic pathways. It also positions its account against ideal-point explanations by showing effects in monotonic attribute domains and with distinct-attribute comparisons that prior ideal-point models are described as not handling well.",
+  "research_gap": "Prior evidence on hedonic contrast in product comparisons is inconsistent, and existing work often confounds hedonic judgments with underlying attribute judgments. The paper argues that this confound has obscured the underlying mechanism and that prior ideal-point accounts are limited for monotonic and distinct-attribute comparison settings.",
+  "research_question": "When consumers compare a target product with a competitor, are effects on appeal and willingness to pay driven by direct hedonic contrast, or by separable attribute and hedonic processes? How does attribute distinctiveness (common vs distinct attributes) change the net comparison effect, and does a category-norm process explain this difference?"
+}

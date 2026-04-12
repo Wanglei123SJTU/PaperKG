@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes that the internal reference price is determined not only by expected price magnitude but also by confidence in that expectation.",
+    "Across four experiments, it shows that the internal reference price used in judgments can diverge from articulated price expectations.",
+    "By manipulating confidence directly (beyond repetition), it provides construct-validity evidence that confidence independently shifts price judgments."
+  ],
+  "context": "The study examines consumer price judgment in controlled laboratory tasks using hypothetical retail pricing scenarios for low-involvement products (pens and staplers), including online-store contexts. Participants are university students making repeated price evaluations and subsequent offer-price judgments.",
+  "design_and_data": "The evidence comes from four computer-based experiments with undergraduate participants from a large northeastern university. Experiments 1 and 2 manipulate repetition (repetition vs no-repetition) to induce differences in confidence while keeping articulated expectations similar, then measure high/low price judgments and response latency; Experiment 2 also measures fair price and upper/lower thresholds immediately after manipulation. Experiments 3 and 4 manipulate confidence directly by telling some participants their prior price guess was incorrect, while offer prices are generated around each participant's own articulated expectation. Outcomes include binary high/low judgments (Experiments 1-3), response times, and continuous price-attractiveness ratings (Experiment 4), plus articulated fair/expected prices and thresholds.",
+  "focal_constructs": [
+    "internal reference price",
+    "articulated price expectation",
+    "confidence in price knowledge",
+    "repetition-induced confidence",
+    "price magnitude judgment",
+    "price attractiveness",
+    "uncertainty"
+  ],
+  "main_findings": [
+    "Repetition changed price judgments even when articulated fair/expected prices did not differ between groups.",
+    "Lower-confidence participants used a higher internal reference point than more confident participants, evidenced by fewer \"high\" judgments for the same offer-price distributions and slower judgment times.",
+    "Confidence effects were concentrated on prices above expectation: low-confidence participants judged price increases less unfavorably (and rated above-expectation prices as more attractive), with little or no effect for prices below expectation."
+  ],
+  "one_line_summary": "The paper shows that confidence, including confidence induced by repetition, shifts the internal reference price used in price judgments independently of articulated price expectations.",
+  "relation_to_prior_work": "extends reference-price research by separating the internal judgment standard from self-reported fair or expected prices, and by identifying confidence as an independent determinant of that internal standard.",
+  "research_gap": "Prior work documented a conundrum: repetition/frequency affects price judgments and sensitivity, yet often does not change articulated regular or fair price estimates. The paper argues that prior research had not directly tested whether confidence can shift the internal reference price used in judgment even when articulated expectations stay constant.",
+  "research_question": "When and why do internal reference prices diverge from articulated price expectations in consumer price judgment? Specifically, does repetition-induced or directly manipulated confidence alter the internal reference price used to evaluate offer prices even when consumers report the same expected/fair price?"
+}

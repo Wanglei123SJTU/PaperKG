@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is method-focused on segment-retention criteria in finite mixture logit models, while the citing paper also uses finite-mixture latent classes and explicitly performs model selection over segment counts using BIC. Given this direct methodological overlap (despite only a single DOI-level match and no in-text snippet), this is not safely an obvious incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

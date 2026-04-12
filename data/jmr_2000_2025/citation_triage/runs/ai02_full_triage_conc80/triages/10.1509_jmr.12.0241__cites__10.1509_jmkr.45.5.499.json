@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper appears to be a plausible method/source anchor rather than a generic mention: it models retail visit incidence and spending with a (multivariate heterogeneous) Tobit II framework, while the citing paper also uses a Type II Tobit for purchase incidence and spending/profit outcomes in a retail promotion setting. Given this clear methodological and domain overlap in the notes, this pair should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

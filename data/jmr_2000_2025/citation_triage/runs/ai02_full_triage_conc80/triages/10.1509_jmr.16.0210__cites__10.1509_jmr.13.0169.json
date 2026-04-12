@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper appears highly proximal to the citing study’s core problem and methods: both analyze a permission-based email program at a U.S. home-improvement retailer, and both model cross-process dependence using copula-based frameworks (cited: trivariate vine copula for opt-in/opt-out/spending; citing: copula-linked open/purchase dynamics). Given this strong topical and methodological overlap, it is plausibly a foundational or direct prior model source rather than an incidental mention, so it should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

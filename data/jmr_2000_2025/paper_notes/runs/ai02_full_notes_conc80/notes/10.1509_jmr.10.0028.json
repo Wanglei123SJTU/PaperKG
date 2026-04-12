@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a theory of inferred sensitivity to quality differences in which consumer sensitivity equals a dispositional taste-for-quality component scaled by a market-specific importance factor inferred from observed assortment density.",
+    "It argues that product line design can shape value, not only capture value, because denser assortments change consumers price-quality trade-offs.",
+    "It provides convergent evidence from three controlled experiments and one natural experiment, and highlights prior expectations as a key moderator of the density effect."
+  ],
+  "context": "The studies examine vertically differentiated choice settings where quality is rankable and traded off against price, including dark chocolates, sauvignon blanc wines, and astronomy binoculars. Field evidence comes from London art-auction sale events where expert appraisals proxy quality and realized prices proxy willingness to pay.",
+  "design_and_data": "Experiment 1 (n = 76, UK lab) manipulated assortment density for chocolates (5 vs 21 options with fixed endpoints) and used a BDM-style incentive-compatible elicitation of reservation prices for five common items. Experiment 2 (n = 116, US online) manipulated wine assortment density (9 vs 27 options, fixed endpoints), collected willingness to pay by chosen price tier, and measured perceived prices and qualities of endpoint products. Experiment 3 (n = 204, US online) used a 3 x 2 design that crossed primed expectations of typical assortment size (10, 40, 70) with actual density (25 vs 55 binocular models) and elicited reservation prices for low-, medium-, and high-quality models. The natural experiment analyzed auction outcomes from a global art business (London, Jan 2006-Jun 2009), using regression of log realized price on log appraisal, log density, and their interaction (all departments n = 62,715; wine department n = 12,587).",
+  "focal_constructs": [
+    "product proliferation",
+    "assortment density",
+    "willingness to pay",
+    "vertical differentiation",
+    "price-quality trade-off",
+    "inferred sensitivity to quality differences",
+    "prior expectations",
+    "consumer inference from market outcomes"
+  ],
+  "main_findings": [
+    "Across experiments, denser assortments increased discrimination: participants were willing to pay more for high-quality options and less for low-quality options than in sparser assortments.",
+    "In Experiment 3, the density effect depended on prior expectations, appearing when the same assortment was interpreted as dense versus sparse relative to the prime (strongest under the 40-model expectation condition).",
+    "In auction data, the interaction between appraisal-based quality and assortment density was positive, consistent with denser sale events reducing realized prices for lower-quality lots and increasing realized prices for higher-quality lots (wine critical appraisal about GBP645; critical density index about 4)."
+  ],
+  "one_line_summary": "The paper shows, in three experiments and art-auction data, that crowding more options into a fixed quality range makes consumers more quality-discriminating, raising willingness to pay for higher quality and lowering it for lower quality.",
+  "relation_to_prior_work": "extends prior work on vertical differentiation, product line design, and choice overload by distinguishing density from variety and showing that observed assortment density can endogenously shift consumers quality sensitivity and willingness to pay among active choosers.",
+  "research_gap": "Prior choice-overload research largely emphasizes whether large assortments reduce participation, but gives less attention to how proliferation changes the preferences of consumers who do choose. The paper also notes that empirical discussions often treat proliferation as variety expansion rather than density within a fixed quality interval, leaving the behavioral role of density underexamined.",
+  "research_question": "Does a denser assortment within a fixed quality range make consumers more discriminating in price-quality trade-offs, such that they pay more for high quality and less for low quality? If so, is this driven by consumers inferring the market importance of quality from observed assortment density, and moderated by prior expectations about how dense assortments should be?"
+}

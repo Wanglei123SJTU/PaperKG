@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper tests two practical interventions to strengthen earmarking - visual goal reminders and partitioning - in a real low-income household setting.",
+    "It shows that partitioning earmarked cash and linking it to children's welfare can improve savings discipline among unbanked households.",
+    "It extends prior partitioning research from laboratory consumption contexts to field savings over repeated weeks, including the role of externally assigned savings targets."
+  ],
+  "context": "The study is set in rural India at an infrastructure construction project where laborers are paid weekly cash wages and nearby townships lack banks and post offices. The focal population is low-income households with children that operate in a cash economy and have no banking experience.",
+  "design_and_data": "A field study recruited 146 male laborers' households (out of 201 approached) who earned identical weekly cash wages of 670 rupees and had no bank accounts. A financial planner and social workers implemented a 2 x 2 x 2 between-subjects design: savings target (40 vs 80 rupees/week), envelope picture (children's photo absent vs present), and earmarked money in one envelope vs two envelopes (partitioned). Each week, social workers placed the earmarked amount in sealed dated envelopes and recorded whether envelopes were opened and how much was saved; analyses used household savings over 14 weeks and weekly opening behavior (2,044 household-week observations). The paper also reports a separate scenario-based U.S. survey as supplementary process evidence on anticipated guilt.",
+  "focal_constructs": [
+    "earmarking",
+    "partitioning",
+    "household savings",
+    "self-control",
+    "guilt from rule violation",
+    "visual reminders of savings goals",
+    "savings targets"
+  ],
+  "main_findings": [
+    "Total savings were higher when earmarked money was partitioned into two envelopes than when pooled into one envelope.",
+    "Adding children's pictures to envelopes increased savings, and the partitioning effect was stronger when pictures were present.",
+    "High savings targets increased savings only when money was partitioned; when money was pooled, high targets reduced savings, and pictures did not reduce envelope opening at high targets."
+  ],
+  "one_line_summary": "In a field experiment with unbanked low-income households in rural India, earmarked savings increased most when money was split into two envelopes and marked with children's photos.",
+  "relation_to_prior_work": "extends mental accounting and partitioning research by applying these ideas to actual saving behavior among low-income unbanked households rather than mainly laboratory consumption tasks. It also examines how external savings targets and visual goal cues interact with partitioning in the field.",
+  "research_gap": "Prior mental accounting research suggests that labeling money affects spending, but the paper states that little research has tested how such mechanisms can be used to improve real household financial management. The authors also note that evidence on partitioning was largely from lab consumption settings, not long-running field savings behavior among low-income unbanked households.",
+  "research_question": "Can earmarking wages into savings envelopes raise actual savings among low-income households in a cash economy with no access to banks? Do two interventions - visual reminders of the savings goal (children's photos) and partitioning earmarked funds into two envelopes - make earmarking more effective?"
+}

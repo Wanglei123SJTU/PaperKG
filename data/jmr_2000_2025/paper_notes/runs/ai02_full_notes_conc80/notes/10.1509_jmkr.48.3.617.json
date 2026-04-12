@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and tests an accessibility-based egocentric anchoring mechanism to explain how consumers infer the preferences of identity-ambiguous reviewers.",
+    "It shows that ambiguity effects can be attenuated both by disrupting initial self-anchor adoption (making other-related thoughts accessible) and by disconfirming the anchor with heterogeneity cues, even when reviewer identity is still unknown.",
+    "It provides evidence that responses to ambiguous reviewers are not well explained by missing-information strategies such as inferential averaging, discounting, or ignoring the source."
+  ],
+  "context": "The paper studies online consumer review forums where reviewers may provide full demographic information, dissimilar information, or no identifying information. Empirical contexts include reviews of restaurants, vacation resorts, and a music album on mock review websites.",
+  "design_and_data": "The evidence comes from a pilot plus four controlled experiments with undergraduate participants. The pilot (N=190) manipulated reviewer identity (ambiguous, similar, dissimilar) and measured response latency on self-descriptive items to test relative accessibility of the self. Study 1 (N=257) used a single resort review with positive versus negative valence and tested visit likelihood and mediation by inferred taste similarity; Study 2 (N=314) used a within-subject two-restaurant, multi-reviewer design with 12 reviewer-composition conditions, likelihood ratings, and forced choice. Study 3 (N=204) manipulated self versus others priming and coded open-ended similarity thoughts, and Study 4 (N=177) manipulated website user-population heterogeneity cues in an album-review setting and measured purchase likelihood.",
+  "focal_constructs": [
+    "reviewer ambiguity",
+    "egocentric anchoring",
+    "inferred preference similarity",
+    "source similarity and dissimilarity",
+    "online review persuasion",
+    "self versus other accessibility",
+    "reviewer population heterogeneity"
+  ],
+  "main_findings": [
+    "Consumers inferred that ambiguous reviewers had preference similarity comparable to identified similar reviewers and greater than identified dissimilar reviewers.",
+    "Reviews from ambiguous reviewers were generally as persuasive as reviews from similar reviewers and more persuasive than reviews from dissimilar reviewers, and inferred preference similarity mediated these effects.",
+    "In multi-reviewer choice settings, ambiguity had a small persuasive cost relative to explicit similarity but remained much more persuasive than dissimilarity; ambiguity effects were attenuated by other-focused priming and by cues that reviewer populations were heterogeneous."
+  ],
+  "one_line_summary": "Across experiments, the paper shows that consumers use egocentric anchoring to treat identity-ambiguous online reviewers as similar to themselves, making those reviews highly persuasive unless the self-anchor is disrupted or disconfirmed.",
+  "relation_to_prior_work": "extends prior work on source similarity and anchoring by showing that ambiguous reviewer identity triggers self-based inference and persuasion patterns that diverge from standard missing-information predictions.",
+  "research_gap": "Prior research gave clear predictions for identified similar versus dissimilar recommendation sources but did not clearly explain how consumers respond when reviewer identity is absent in online forums. The paper addresses whether ambiguous reviewers are ignored or discounted versus interpreted through a different inference process.",
+  "research_question": "How do consumers evaluate and respond to online reviews when the reviewer provides no identifying information? Specifically, does reviewer ambiguity induce egocentric anchoring that makes ambiguous reviewers seem similar and persuasive, and can this process be weakened by accessibility manipulations or heterogeneity cues?"
+}

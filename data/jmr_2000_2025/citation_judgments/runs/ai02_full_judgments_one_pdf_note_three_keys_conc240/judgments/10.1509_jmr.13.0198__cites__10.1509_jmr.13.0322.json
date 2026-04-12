@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "Lim and Chen (2014) is cited in the modeling-challenges section with a specific functional role, not just as general background. The citing paper uses it as evidence that social influence matters in sales incentive settings, which supports its argument that peer behavior can shape salesperson choices. That claim is then used to justify peer opt-ins as instruments for endogenous training participation in the paper's identification strategy.",
+  "relation_description": "The citing paper applies Lim and Chen's social-influence insight from sales incentives to motivate its own endogeneity correction. Specifically, it uses that logic to justify peer opt-in measures as instruments for salespeople's training decisions.",
+  "relation_type": "applies"
+}

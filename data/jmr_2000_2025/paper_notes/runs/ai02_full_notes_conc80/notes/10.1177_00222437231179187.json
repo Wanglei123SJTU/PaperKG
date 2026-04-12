@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops and tests a processing-fluency account of how slow motion changes the hedonic viewing experience of short-form videos.",
+    "It is presented as the first application of processing fluency theory to dynamic visual content rather than primarily text or static images.",
+    "It introduces dynamic complexity as a construct for movement in videos and provides an algorithmic measure to quantify it."
+  ],
+  "context": "The research is set in short-form video consumption and marketing communication, including social media formats such as reels, stories, shorts, and GIFs. It also uses behavioral data from a GIF-sharing platform to study virality-related outcomes.",
+  "design_and_data": "The paper reports seven studies: one large field dataset study and six online experiments. Across studies, participants evaluated short looping videos shown in slow motion versus regular speed, with key moderators including dynamic complexity, stimulus valence, processing style, and consumption goal. The field study scraped 514 GIFs (236 tagged slow motion and 278 controls) and linked speed to views, votes, ratings, and a composite liking metric; experiments used MTurk and Prolific samples and outcomes such as liking, brand liking, choice, interest, and willingness to pay.",
+  "focal_constructs": [
+    "slow motion",
+    "processing fluency",
+    "consumer evaluations",
+    "dynamic complexity",
+    "stimulus valence",
+    "processing style",
+    "consumption goal",
+    "short-form videos"
+  ],
+  "main_findings": [
+    "Slow motion generally increased consumer evaluations (e.g., liking, virality indicators, brand liking, choice, and willingness to pay), and this effect was statistically mediated by processing fluency.",
+    "The benefit of slow motion was stronger for videos with more complex movement; simple movement did not benefit unless complexity was increased by zooming in on the action.",
+    "Slow motion improved evaluations for positively valenced content but reduced evaluations for negatively valenced content, and its effect was stronger under less deliberate processing while its advantage diminished for excitement-seeking viewers."
+  ],
+  "one_line_summary": "Across experiments and field evidence, the paper shows that slow motion in short-form videos tends to improve consumer responses because it increases processing fluency, with effects bounded by content and viewer conditions.",
+  "relation_to_prior_work": "extends prior slow-motion research by shifting the focus from cognitive inferences (e.g., intentionality) to aesthetic and hedonic outcomes and by using processing fluency to explain mixed affective results. It also extends fluency theory from mostly static or linguistic stimuli to dynamic visual movement.",
+  "research_gap": "Although slow motion is widely used in social media and marketing videos, the literature offers limited guidance on its hedonic effects. Prior studies emphasize cognitive inference effects and report conflicting affective results, with no clear fluency-based account for dynamic visual content.",
+  "research_question": "When and why does slow motion in short-form videos increase or decrease consumer evaluations? The paper asks whether slow motion works by increasing processing fluency and under which content and consumer conditions this effect strengthens, weakens, or reverses."
+}

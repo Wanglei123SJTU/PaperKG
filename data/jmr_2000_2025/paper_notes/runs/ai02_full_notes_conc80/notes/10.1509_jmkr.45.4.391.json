@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a new model for brand portfolio promotions that captures brand-level effect magnitude and carryover shape, allows diminishing returns to exposure, and incorporates intertemporal effects across repeated BPP drops.",
+    "It shows that the gamma-family carryover specification is flexible and can be used for discrete promotions with unknown effect duration.",
+    "It develops model-based ROI metrics and an optimization procedure to decide which brands to include and how much exposure each should receive across multiple BPPs."
+  ],
+  "context": "The study focuses on corporate-level multibrand promotions (BPPs) used by large consumer goods firms, especially magazine-like print promotions mailed to targeted households. The empirical application uses one multinational firm's BPP program in a Western country and links targeted household coverage to store-level sales.",
+  "design_and_data": "The authors estimate a system of brand-level store sales equations with control variables for trend, seasonality, own and competitor price/feature/display, and BPP terms. BPP carryover is modeled with a gamma density (with Erlang-2 selected in tests), combined across multiple drops, and the error structure allows cross-brand and serial correlation via a VAR(1) component; store heterogeneity in control coefficients is handled with hierarchical Bayes. Data include weekly store-level observations for 10 randomly selected brands from different categories over 210 weeks, across 126 stores in 10 regions, with 14 successive BPP drops (and 56 pre-BPP weeks). Coverage is computed from household addresses in each store trading area, and brand exposure in each BPP is measured using a company point system.",
+  "focal_constructs": [
+    "brand portfolio promotions",
+    "sales lift magnitude",
+    "carryover effect shape",
+    "brand exposure",
+    "diminishing returns",
+    "intertemporal effect",
+    "feature promotion comparison",
+    "optimal exposure allocation"
+  ],
+  "main_findings": [
+    "An Erlang-2 carryover specification fits BPP effects better than exponential and uniform-duration alternatives, and BPP effects are nonmonotonic with substantial duration (95% impact about 9-26 weeks across brands).",
+    "All brands show positive BPP lift, with strong heterogeneity in both lift magnitude and carryover shape across brands.",
+    "Exposure shows diminishing returns and a negative intertemporal effect; compared by unit lift per household per promotion attempt, BPP outperforms feature for some brands, and an optimization exercise indicates a 5.32% profit improvement with reallocated exposure (including pulsing for some brands)."
+  ],
+  "one_line_summary": "The paper develops and empirically validates a hierarchical Bayesian model for targeted multibrand BPP campaigns that estimates brand-specific carryover and exposure effects, benchmarks BPP against features, and supports profit-improving exposure allocation.",
+  "relation_to_prior_work": "extends sales-promotion and advertising carryover research by modeling BPP as a discrete, targeted, repeated multibrand promotion with brand-specific gamma-shaped carryover. extends direct-mail response work by linking household-targeted promotion coverage to store-level sales when individual transaction data are unavailable.",
+  "research_gap": "Prior models did not match BPP properties: targeted but limited coverage, multibrand exposure differences, repeated drops, and potentially long carryover with unknown duration. Existing direct-mail response models also require individual transaction data, which may be unavailable for BPP programs, leaving a gap in measuring BPP effectiveness and ROI from aggregate sales data.",
+  "research_question": "How can firms model and measure the effectiveness of brand portfolio promotions that are targeted, multibrand, and repeated over time? Specifically, what are the magnitude and temporal shape of BPP effects by brand, how do BPP effects compare with feature promotions, and how should exposure be allocated across brands and BPP drops to improve ROI?"
+}

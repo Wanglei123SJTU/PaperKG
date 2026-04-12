@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited study is clearly thematically related: it focuses on sentiment measurement across venue formats (blogs/forums/microblogs), and the citing paper also uses multi-venue social media WOM data (Twitter, blogs, forums) with sentiment/tone analysis. However, the evidence provided is only a single DOI match with no in-text citation context showing whether the joint sentiment-venue model is actually used versus just background mention. Given this sparse evidence, it is not safe to drop but also not strong enough to clearly keep.",
+  "triage_decision": "uncertain"
+}

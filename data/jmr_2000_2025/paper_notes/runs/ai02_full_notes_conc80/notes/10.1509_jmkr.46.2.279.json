@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Identifies field dependency as an antecedent of how brand information is structured in memory, distinguishing global and local structural tendencies.",
+    "Shows that expertise moderates this relationship, helping explain when structural differences between consumers become stronger.",
+    "Demonstrates that these memory-structure differences have managerial implications for marketing communications, especially brand-level versus product-level advertising."
+  ],
+  "context": "The paper studies how consumers mentally organize information for familiar brands that span multiple products, and how this affects advertising responses. Evidence comes from student consumer samples in the United States and Singapore, including a focused automobile setting for expertise tests.",
+  "design_and_data": "The authors report five studies plus a follow-up test. Studies 1 and 2 use property-verification reaction-time paradigms to test facilitation from same-brand context products (Study 1: 2x2 between-subjects, n=60 U.S. students; Study 2: mixed design with within-subject baseline across two sessions, n=60 Singapore students), with field dependency measured by the Embedded Figures Test (EFT). Study 3 uses a 2x2x2 between-subjects design (field dependency x expertise x context product) with n=160 U.S. students in the automobile category and self-reported car expertise. Studies 4 and 5 are 2x2 ad experiments (each n=80 Singapore students) manipulating brand-level versus product-level ads (Nike; Johnson & Johnson) and measuring attitude toward the ad.",
+  "focal_constructs": [
+    "field dependency",
+    "brand cognitive structures",
+    "global structural form",
+    "local structural form",
+    "expertise",
+    "contextual information processing",
+    "brand-level versus product-level advertising",
+    "attitude toward the ad"
+  ],
+  "main_findings": [
+    "In reaction-time tasks, field independents showed greater facilitation from same-brand context primes than field dependents, consistent with sharing brand-level beliefs across products, whereas field dependents showed more product-specific storage.",
+    "A follow-up study with different beliefs in context versus target trials removed the facilitation pattern, supporting a belief-linkage explanation rather than simple product-to-product priming.",
+    "Expertise magnified the field dependency effect (strong among experts, weak among novices), and in two ad studies field independents preferred brand-level ads while field dependents preferred product-level ads."
+  ],
+  "one_line_summary": "Across five experiments, the paper finds that field dependency shapes whether consumers store brand beliefs globally or locally, that expertise amplifies this pattern, and that the resulting structures predict preferences for brand-level versus product-level advertising.",
+  "relation_to_prior_work": "extends prior work on brand cognitive structures by adding processing style, specifically field dependency, as a key antecedent of how brand information is organized in memory. It also refines prior global-versus-local and expertise accounts by showing both forms can occur, with dominance depending on field dependency and expertise.",
+  "research_gap": "The authors state that despite extensive work on brand cognitive structures, there has been minimal research on how processing styles affect these structures. They address the unresolved role of chronic attention to contextual information (field dependency) in shaping how brand beliefs are encoded and linked.",
+  "research_question": "Do consumers with different levels of field dependency organize brand information differently in memory, specifically in global versus local structural forms? Does expertise moderate this effect? Do these structural differences influence responses to brand-level versus product-level advertising?"
+}

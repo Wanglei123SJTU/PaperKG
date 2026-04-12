@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes the hedonic-utilitarian distinction as a pricing-relevant dimension for cross-category bundles where prior bundle-framing models offer no clear prediction.",
+    "It shows that in heterogeneous bundles, framing the same discount as savings on the hedonic item is more effective than framing it on the utilitarian item or on the total bundle.",
+    "It provides process evidence that reduced anticipated guilt (purchase justification) underlies the framing effect on bundle purchase."
+  ],
+  "context": "The paper studies cross-category, seemingly unrelated product bundles, motivated by retail and online settings such as Amazon.com \"Better Together\" offers. Empirical tests use scenario choices and an incentive-compatible university purchase setting with hedonic and utilitarian item pairs.",
+  "design_and_data": "The evidence comes from three experiments. Study 1 uses 360 participants from a national online pool in a 3 (discount frame: item 1, item 2, none) x 6 (bundle composition: homogeneous vs heterogeneous combinations) between-subjects design, with pretests for hedonic/utilitarian classification and attractiveness matching. Study 2 uses 114 university students and compares two discount frames in a hedonic-utilitarian bundle, measuring anticipated guilt before bundle purchase likelihood and testing mediation. Study 3 uses 83 female university students making real purchase decisions with cash endowments, comparing discount framing on the hedonic item, utilitarian item, or total bundle.",
+  "focal_constructs": [
+    "discount framing",
+    "cross-category bundles",
+    "hedonic products",
+    "utilitarian products",
+    "bundle purchase likelihood",
+    "anticipated guilt",
+    "purchase justification",
+    "mental accounting"
+  ],
+  "main_findings": [
+    "For heterogeneous hedonic-utilitarian bundles, bundle purchase likelihood is higher when the discount is framed on the hedonic component than on the utilitarian component.",
+    "For homogeneous bundles (hedonic-hedonic or utilitarian-utilitarian), framing the discount on one item versus the other does not significantly change bundle purchase likelihood.",
+    "Anticipated guilt mediates the framing effect: framing savings on the hedonic item lowers guilt and increases bundle choice, and in consequential choices this framing outperforms utilitarian-item framing and tends to outperform total-bundle framing."
+  ],
+  "one_line_summary": "Across three experiments, equivalent bundle discounts increase purchase more when framed as savings on the hedonic item rather than the utilitarian item or the total bundle because hedonic framing provides guilt-reducing justification.",
+  "relation_to_prior_work": "extends prior bundle discount-framing research centered on complementary bundles and value/centrality differences by showing a distinct mechanism in cross-category bundles based on hedonic versus utilitarian consumption and justification.",
+  "research_gap": "Prior bundle discount-framing frameworks mainly address related/complementary products that differ in value or centrality, so they do not readily predict outcomes for cross-category bundles of unrelated, similarly priced items. The paper addresses this gap by examining whether hedonic versus utilitarian item type changes which discount frame is most effective.",
+  "research_question": "When a bundle combines unrelated hedonic and utilitarian items, does framing an equivalent discount as savings on one component versus another change bundle purchase likelihood? Specifically, is discounting the hedonic component more effective than discounting the utilitarian component or the total bundle, and is this driven by guilt-reducing justification?"
+}

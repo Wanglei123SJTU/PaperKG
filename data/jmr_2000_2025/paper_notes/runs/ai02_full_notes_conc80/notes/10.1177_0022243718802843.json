@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops a customer-based corporate valuation methodology tailored to publicly traded noncontractual firms that uses only publicly disclosed, aggregated, and potentially censored customer data.",
+    "Introduces a joint latent-variable modeling system for acquisition, repeat ordering with unobserved churn, and spend per order, and links it directly to discounted cash flow valuation.",
+    "Shows how to produce both valuation point estimates and valuation intervals, and to analyze customer unit economics from the same framework."
+  ],
+  "context": "The paper studies publicly traded noncontractual e-commerce retailers, with empirical applications to Overstock.com and Wayfair using SEC filings and investor disclosures. These firms report different customer summary metrics (e.g., quarterly additions, active customers, orders, and revenues), creating a realistic external-stakeholder setting.",
+  "design_and_data": "The authors build a three-part model: a two-phase Weibull acquisition process tied to prospect-pool/population dynamics, a beta-geometric/mixed-log-normal repeat-order process with latent attrition, and a time-series ARPO spend model. Parameters are estimated jointly via nonlinear least squares on prestandardized quarterly disclosure metrics so differently scaled series can be fit together. They calibrate the model on public data through Q1 2017 for Overstock and Wayfair (with substantial left-censoring for Wayfair), and compare against Gupta-Lehmann-Stuart (2004), Schulze-Skiera-Wiesel (2012), and Libai-Muller-Peres (2009) using rolling two-year holdout forecasts. Valuation is produced via discounted cash flow from forecasted revenues, with 2,500 bootstrap runs used to form valuation distributions.",
+  "focal_constructs": [
+    "customer-based corporate valuation",
+    "customer equity and CLV",
+    "noncontractual customer attrition",
+    "customer acquisition diffusion",
+    "repeat purchase intensity",
+    "average revenue per order",
+    "discounted cash flow valuation",
+    "customer unit economics"
+  ],
+  "main_findings": [
+    "The proposed model outperformed benchmark CBCV approaches in rolling two-year holdout prediction for both firms, with lower MAPEs across customer and revenue metrics.",
+    "For Overstock (Q1 2017), the implied value was $16.88 per share versus an observed $15.50, and the observed price lay well inside the model's 95% valuation interval.",
+    "For Wayfair (Q1 2017), the implied value was $10.24 versus an observed $64.16; unit-economics analysis showed high acquisition cost pressure, with about +$9 expected value per newly acquired Overstock customer versus about -$10 for Wayfair."
+  ],
+  "one_line_summary": "The paper proposes and validates a public-data customer-based valuation framework for noncontractual firms and shows, via Overstock and Wayfair, that modeling latent churn and unit economics materially changes valuation conclusions.",
+  "relation_to_prior_work": "introduces a noncontractual-specific CBCV approach in a literature where most validated CBCV models were built for contractual firms and noncontractual applications often relied on proxy retention assumptions. It replaces workarounds such as equating active and alive customers with a joint acquisition-order-spend model that can be estimated from repeated cross-sectional public disclosures.",
+  "research_gap": "Prior CBCV work had advanced mainly for contractual firms, while noncontractual valuation remained underdeveloped because churn is unobserved, purchase/spend are irregular, and public disclosures are aggregated, censored, and nonstandard across firms. Existing workaround methods can produce biased and noncomparable valuations.",
+  "research_question": "How can external stakeholders value publicly traded noncontractual firms using only publicly disclosed customer and financial summaries? Can a joint model of acquisition, repeat orders, and spend that accounts for latent churn and disclosure limitations generate more accurate forecasts, valuations, and customer unit-economics insights?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides a comprehensive secondary reanalysis of the original Aaker and Keller dataset plus seven published replications using one common estimation procedure.",
+    "Shows that the broader pattern of evidence supports most components of Aaker and Keller's model, including a direct role for parent-brand quality that earlier published interpretations underemphasized.",
+    "Argues that replication and secondary analysis are essential for building empirical generalizations, and that single-study results are a weak basis for firm theoretical conclusions."
+  ],
+  "context": "The paper examines consumer evaluations of proposed brand extensions across many parent-brand and extension-category combinations. It uses eight studies conducted in multiple countries, including close replications in the United Kingdom, France, and the United States.",
+  "design_and_data": "The authors reanalyze eight existing datasets from Aaker and Keller (1990), Sunde and Brodie (1993), Alexandre-Bourhis (1994), Nijssen and Hartman (1994), Holden and Barwise (three datasets: LBS, ESSEC, Illinois), and Bottomley and Doyle (1996). In the original studies, respondents rated multiple extensions per parent brand on model variables; extension attitude was measured as the average of perceived extension quality and likelihood of trying. To handle multicollinearity in interaction terms, they apply Lance's residual-centering procedure and estimate the full-effects regression model, then use vote counts and sign tests across studies and across extension-level regressions (131 extension models, excluding Nijssen and Hartman at this level for low per-extension power). They also test cross-cultural parameter stability with F-tests across LBS, ESSEC, and Illinois, adding parent-brand usage as a control.",
+  "focal_constructs": [
+    "brand extension evaluation",
+    "parent brand quality",
+    "category fit",
+    "transferability of skills and assets",
+    "complementarity",
+    "substitutability",
+    "perceived difficulty of making the extension",
+    "quality-by-fit interaction effects"
+  ],
+  "main_findings": [
+    "After residual centering, study-level results show strong and consistent positive effects of parent-brand quality and fit variables (transfer, complement, substitute) on extension evaluations.",
+    "Interaction terms and difficulty effects are weaker and less stable: Q x Transfer and Q x Complement are significant only in some cases, Q x Substitute is often negative, and interactions add about 3.8% variance on average; the main-effects model is preferred for 113 of 131 extensions.",
+    "Cross-cultural equality of coefficients is rejected for 7 of 18 extensions (with 2 more near significance) across UK, France, and US close replications, so culture appears to affect the relative weights of model drivers."
+  ],
+  "one_line_summary": "By reanalyzing the original Aaker and Keller study with seven replications, the paper finds robust main effects of parent-brand quality and fit on brand-extension evaluations, weaker interaction and difficulty effects, and meaningful cross-cultural variation in coefficient sizes.",
+  "relation_to_prior_work": "extends Aaker and Keller's (1990) brand extension evaluation framework by testing its empirical generalizability across eight close replications with a standardized reanalysis. It shows that conflicting published replications partly reflect analytic inconsistencies and multicollinearity handling, not only theoretical failure.",
+  "research_gap": "Replications of Aaker and Keller (1990) had produced conflicting findings, leaving the model's empirical generalizability unresolved. The paper identifies a need for a consistent secondary analysis across multiple close replications to determine what findings actually generalize across studies, stimuli, and cultures.",
+  "research_question": "Do the key effects in Aaker and Keller's model of brand extension evaluation generalize when the original study and seven replications are analyzed using a common method? Across studies, individual extensions, and cultures, which predictors are robust, and can discrepancies be explained by stimulus differences or by cross-cultural variation?"
+}

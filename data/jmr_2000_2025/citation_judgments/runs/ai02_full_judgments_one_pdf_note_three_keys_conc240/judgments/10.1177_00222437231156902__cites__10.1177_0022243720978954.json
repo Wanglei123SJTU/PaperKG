@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used directly in the citing paper's empirical identification strategy, not merely as general background. In Study 1, the authors explicitly follow Shi, Grewal, and Sridhar (2021) to construct a second-degree-peer instrument and to justify why peer-of-peer instruments are preferable to direct peers for exclusion-restriction reasons. This methodological borrowing is tied to the paper's core causal tests of CMO gender effects, so the citation plays a meaningful functional role.",
+  "relation_description": "The citing paper applies Shi et al.'s second-degree-peer instrumental-variable approach to handle endogeneity in its CMO gender analyses. It transfers the peer-of-peer construction and identification logic from the advertising-disclosure context to a different marketing decision context.",
+  "relation_type": "applies"
+}

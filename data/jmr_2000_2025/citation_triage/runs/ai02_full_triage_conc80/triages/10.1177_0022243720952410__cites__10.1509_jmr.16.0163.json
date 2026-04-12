@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s stated contribution is a distributed MCMC algorithm, while the cited paper is about churn-retention targeting by LIFT vs. RISK; this suggests topical overlap in target marketing but not an obvious direct method/theory dependency from the notes. Because the matched evidence is only a DOI entry with no in-text citation context, there is insufficient evidence to confidently classify this as clearly incidental mention-only.",
+  "triage_decision": "uncertain"
+}

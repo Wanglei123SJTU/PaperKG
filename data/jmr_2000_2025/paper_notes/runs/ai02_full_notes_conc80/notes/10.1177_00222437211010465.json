@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Shows that the presence (vs. absence) of tasty food can lower enjoyment of a concurrent positive customer experience, despite prior evidence that food presence can enhance later enjoyment of the food itself.",
+    "Identifies and tests a two-step mechanism: food presence increases mental imagery of consuming the food, which reduces engagement with the ongoing target experience and lowers enjoyment.",
+    "Demonstrates theoretically derived boundary conditions that support the mechanism, including imagery instructions without food, attenuation under functional food framing, and reversal for negative target experiences."
+  ],
+  "context": "The paper examines customer and consumer experiences that occur alongside visible food, including eating dinner, listening to a live outdoor concert, coloring, and viewing pictures. Evidence comes from university field settings and controlled studies with students, adult concert attendees, and online participants.",
+  "design_and_data": "The authors report ten studies (six in the main text and four supplemental), combining field studies and randomized between-subject experiments. The central manipulation varies whether food is present or absent during a concurrent target activity; additional manipulations include guided mental imagery instructions, food framing (tasty vs. functional), and target-experience valence (positive vs. negative). Measures include multi-item self-reports of enjoyment, mental imagery, and engagement, with manipulation checks and controls such as hunger and food liking. One initial dining-hall study uses natural variation in dessert presence, followed by a randomized meal experiment for causal support in that context.",
+  "focal_constructs": [
+    "presence versus absence of food",
+    "mental imagery of food consumption",
+    "engagement with target experience",
+    "enjoyment of target experience",
+    "food framing (tasty vs. functional)",
+    "valence of target experience",
+    "delayed consumption"
+  ],
+  "main_findings": [
+    "Across multiple activities, people generally enjoyed positive target experiences less when tasty food was present versus absent during the activity.",
+    "The negative effect is consistent with serial mediation: food presence increased food-consumption mental imagery, which reduced engagement with the target activity and lowered enjoyment.",
+    "The effect attenuated when food was framed in functional rather than tasty terms, could be reproduced by explicit imagery instructions even without food present, and reversed for negative target experiences (food presence increased enjoyment)."
+  ],
+  "one_line_summary": "Across ten studies, the authors show that visible tasty food can reduce enjoyment of concurrent positive experiences because it triggers food-consumption imagery that lowers engagement, with attenuation and reversal under predicted boundary conditions.",
+  "relation_to_prior_work": "extends prior delayed-consumption research by shifting the focus from enjoyment of the delayed food itself to consequences for concurrent experiences during the delay. extends mental imagery research by documenting a negative spillover of imagery onto another ongoing activity, not just positive effects on evaluations of the imagined item.",
+  "research_gap": "Prior research on food presence and delayed consumption focused mainly on how visibility affects later enjoyment of the delayed food, leaving effects on concurrent experiences underexplored. Research on mental imagery likewise emphasized benefits for the imagined object, with limited attention to possible negative consequences for other ongoing experiences.",
+  "research_question": "Does having tasty food present while people engage in another activity improve or diminish enjoyment of that concurrent target experience? If it diminishes enjoyment, is the effect driven by increased mental imagery of consuming the food that reduces engagement with the target experience, and when does this effect weaken or reverse?"
+}

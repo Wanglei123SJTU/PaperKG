@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops an econometric framework that models both gasoline station locations and chain-level pricing, rather than pricing alone.",
+    "Introduces a structural location model for gasoline retailing (a P-median social planner model) and estimates it with observed station geography and neighborhood demographics.",
+    "Shows how unobserved demand and cost primitives can be inferred from location and price data and then used for policy simulations such as merger analysis."
+  ],
+  "context": "The empirical setting is the mainland Singapore gasoline market, where station sites are determined by government planning and retailers compete on prices conditional on locations. The market includes six chains (Shell, Caltex, Esso, Mobil, BP, SPC) during the sample period.",
+  "design_and_data": "The study uses survey data covering 226 gasoline stations in mainland Singapore (out of 229, excluding 3 with missing location data) with three waves of prices (Nov 2001, Dec 2001, Jan 2002), station attributes, and local demographics. Singapore is discretized into 1,550 grid points, and station locations are modeled via a P-median social welfare objective that minimizes consumer travel distance; parameters are estimated by minimum-distance matching of predicted and observed locations. Conditional on locations, prices are modeled as chain-level Bertrand competition with multinomial logit market shares and unobserved station demand quantities, using equilibrium first-order conditions. The pricing equation is estimated by GMM with instruments based on local competitive structure and potential demand.",
+  "focal_constructs": [
+    "potential gasoline demand",
+    "station geographic location",
+    "social welfare planner (P-median)",
+    "chain-level Bertrand pricing",
+    "travel cost",
+    "price sensitivity",
+    "station-level market share",
+    "merger effects on prices and profits"
+  ],
+  "main_findings": [
+    "Estimated potential local gasoline demand is higher in neighborhoods with larger population, higher median income, more cars, and proximity to the airport, downtown, and highways.",
+    "Estimated gasoline retail margins are about 21%, and station demand share falls with both higher price and greater travel distance.",
+    "Consumers are willing to travel about one mile for a price saving of about $0.03 per liter, and merger simulations imply higher equilibrium prices (and generally higher profits) after BP-SPC consolidation."
+  ],
+  "one_line_summary": "The paper estimates a structural location-pricing model for Singapore gasoline retailing to recover unobserved demand and costs and to evaluate competitive and merger outcomes.",
+  "relation_to_prior_work": "extends prior gasoline competition research by adding a structural model of station locations and linking it to a structural pricing model, instead of relying only on reduced-form spatial pricing effects. The authors position the study as the first attempt to model location decisions in gasoline markets.",
+  "research_gap": "Prior gasoline studies largely analyze pricing while treating locations as exogenous, and much of the spatial pricing evidence is reduced form. The paper addresses the missing structural treatment of location choice in gasoline markets and its connection to pricing competition.",
+  "research_question": "How can the geographic distribution of gasoline stations and observed prices be jointly modeled to infer local potential demand, consumer travel-price trade-offs, and firm costs when station-level demand is unobserved? In Singapore's institutional setting, the paper asks how government-chosen locations and chain-level price competition together shape market outcomes and merger effects."
+}

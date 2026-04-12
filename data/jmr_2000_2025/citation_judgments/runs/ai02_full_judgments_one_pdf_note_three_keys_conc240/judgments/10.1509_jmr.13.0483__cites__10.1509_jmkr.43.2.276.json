@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper does more than list this reference in background; it explicitly attributes specific prior findings to Lemmens and Croux (2006), especially that usage trend and usage variability predict churn. Those findings are used to justify which customer characteristics to include in the heterogeneity analysis and to interpret the signs of estimated churn effects as consistent with prior evidence. Although the citing study does not reuse the cited paper's bagging/boosting methods, the citation plays a meaningful empirical-framing role in the model setup and interpretation.",
+  "relation_description": "The citing paper uses Lemmens and Croux (2006) as prior empirical foundation for selecting churn-relevant covariates (notably trend and variability) in its campaign-response analysis. It then positions its coefficient patterns as consistent with that prior churn literature.",
+  "relation_type": "foundational_for"
+}

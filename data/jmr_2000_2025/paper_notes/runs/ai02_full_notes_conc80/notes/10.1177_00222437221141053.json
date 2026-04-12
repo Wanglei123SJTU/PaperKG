@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper identifies attending to favorite possessions as a material-consumption intervention that protects subjective well-being under income inequality.",
+    "It shows that favorite possessions can be an exception to the usual pattern in which material possessions foster social comparison.",
+    "It demonstrates that perceived income inequality does not uniformly lower subjective well-being because reducing comparison-driven relative deprivation can mitigate the effect."
+  ],
+  "context": "The studies focus on consumers' well-being under perceived and actual income inequality. Evidence comes from controlled recall/posting tasks and from Instagram posts across many countries.",
+  "design_and_data": "Five studies combine experiments and observational social media analysis. Experiments manipulate attention to possessions (favorite possession vs baseline control or all possessions) and use both manipulated and measured perceived income inequality; samples include U.S. panels and a multicountry panel (eight countries), and the paper reports experimental data from nine countries in total (N = 3,687). Study 4 uses multilevel models with country-level Gini indices to account for actual inequality. Study 5 analyzes 31,332 Instagram posts from 138 countries and links post language-based emotion scores to country-level Gini and hashtag type.",
+  "focal_constructs": [
+    "perceived income inequality",
+    "actual income inequality",
+    "subjective well-being",
+    "favorite possessions",
+    "material comparisons",
+    "relative deprivation",
+    "social comparison"
+  ],
+  "main_findings": [
+    "Subjective well-being generally decreased as perceived income inequality increased, but this negative effect was attenuated or eliminated when participants attended to a favorite possession.",
+    "The buffering effect operated through lower relative deprivation, and a serial path showed reduced material comparisons leading to lower relative deprivation and then higher subjective well-being.",
+    "Across countries, the focal interaction persisted when controlling for actual inequality, and in Instagram data the negative association between country-level inequality and expressed happiness was weaker for favorite-possession-related posts."
+  ],
+  "one_line_summary": "Across experiments and social media data, attending to favorite possessions buffered the negative link between income inequality and consumers' subjective well-being by reducing material comparisons and relative deprivation.",
+  "relation_to_prior_work": "extends research on material versus experiential consumption and social comparison by showing that favorite possessions, unlike material possessions in general, can reduce material comparisons and buffer well-being under inequality.",
+  "research_gap": "Prior work largely suggests material consumption does not improve happiness and that material possessions invite social comparison, especially under inequality. The authors argue that research had not examined whether a specific type of material possession, favorite possessions with incommensurable personal value, can instead reduce comparison and mitigate inequality's harm to well-being.",
+  "research_question": "This paper asks whether consumers can use material goods they already own, specifically favorite possessions, to protect subjective well-being when income inequality is high. It also tests whether any buffering effect works by reducing material social comparisons and feelings of relative deprivation."
+}

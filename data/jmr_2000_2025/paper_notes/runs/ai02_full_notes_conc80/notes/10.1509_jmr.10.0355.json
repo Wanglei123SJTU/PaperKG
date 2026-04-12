@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides field-data evidence, claimed as the first in this context, on advertising outcomes when a platform responds to privacy concerns by improving user privacy controls.",
+    "Shows policy relevance by suggesting that user-based privacy controls on a social network did not reduce advertising performance in this setting, contrasting with evidence that restricting data use can hurt ad effectiveness.",
+    "Contributes to privacy-control and online advertising literatures by showing that perceived control over personal information affects responsiveness to personalized ads, with stronger effects when personalization uses more unique information."
+  ],
+  "context": "The study is set on Facebook in the United States in 2010, using ads run by a nonprofit that promotes girls' education in East Africa. Campaigns targeted adult U.S. users based on affinities to selected celebrities and liberal arts colleges.",
+  "design_and_data": "The paper analyzes a randomized field experiment in which ad copy was randomized between targeted-and-personalized text and targeted-but-nonpersonalized text, with an additional untargeted baseline campaign. During the experiment, Facebook introduced a new privacy-control interface (late May 2010) that increased user control over information sharing, while the ad targeting/personalization mechanism used by advertisers remained unchanged. Data cover 79 campaigns over about five weeks (2.5 weeks before and 2.5 weeks after the privacy change), with daily campaign-level impressions and clicks (about 1.2 million users reached, 1,995 clicks). Estimation uses OLS with target-group and date fixed effects, clustered standard errors, and multiple controls for privacy-related media attention from Factiva and Google Trends.",
+  "focal_constructs": [
+    "perceived privacy control",
+    "personalized advertising",
+    "targeted advertising",
+    "click-through rate",
+    "psychological reactance",
+    "information uniqueness",
+    "social network advertising",
+    "privacy settings usage"
+  ],
+  "main_findings": [
+    "Before the privacy-control change, personalized ad copy performed relatively poorly, but after the change users were nearly twice as likely to click personalized ads.",
+    "The effectiveness of targeted ads without personalized text did not significantly change after the privacy-control change, and untargeted ads showed no meaningful shift.",
+    "The post-change lift for personalized ads was larger when personalization used rarer user information (smaller ad reach) and for target groups with higher observed use of privacy opt-out controls."
+  ],
+  "one_line_summary": "Using a randomized Facebook ad experiment interrupted by Facebook's privacy-control redesign, the paper finds that greater user privacy control substantially increased clicks on personalized ads but not on merely targeted ads.",
+  "relation_to_prior_work": "extends prior research on privacy, reactance, and online advertising by providing field evidence that perceived control over personal information can increase responses to personalized ads on a social network. It refines earlier reactance findings by showing stronger effects when personalization uses more unique information and among groups more likely to use privacy controls.",
+  "research_gap": "Prior literature documented both relevance gains from ad personalization and potential privacy-related reactance, leaving unclear whether stronger privacy controls would help or hurt ad performance. The paper identifies a lack of field evidence on advertising consequences when a platform addresses privacy concerns by expanding user controls.",
+  "research_question": "How does increasing users' perceived control over personal information affect the performance of personalized online advertising on a social network? When targeting and personalization mechanics are unchanged, does a platform-level improvement in privacy controls reduce reactance and increase click-through on personalized ad text?"
+}

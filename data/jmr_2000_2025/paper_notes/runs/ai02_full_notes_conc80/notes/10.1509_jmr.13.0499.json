@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Shows that engaging in well-defined problem solving can impair performance on a later ill-defined creative task.",
+    "Demonstrates that problem-solving mindsets influence goal setting by shifting consumers' choice toward or away from creative tasks.",
+    "Identifies the known goal state in the initial task as a key driver of the creativity-reducing carryover effect, more than the presence of explicit instructions."
+  ],
+  "context": "The studies use consumer-relevant problem-solving activities, especially LEGO construction tasks that vary in structure (kit-based versus free-form). Undergraduate participants in lab sessions complete these tasks and then perform or choose subsequent unrelated tasks.",
+  "design_and_data": "The paper reports three between-subject laboratory experiments with undergraduates (Study 1: n = 136; Study 2: n = 137; Study 3: n = 124), plus two pretests. Study 1 uses a 3 x 2 design (well-defined vs ill-defined vs control mindset induction; subsequent task ill-defined vs well-defined) and measures performance on Torrance incomplete-figures tasks and Miller analogy items. Study 2 uses a 2 x 2 design that independently manipulates instructions and target outcome in an initial LEGO task, then measures paper-clip unusual uses fluency and originality (with enjoyment as a control). Study 3 manipulates mindset via sets of well-defined versus ill-defined timed tasks, then models choice between a well-defined LEGO kit task and an ill-defined free-build task while measuring self-perceived creativity and controlling for effort and affect.",
+  "focal_constructs": [
+    "well-defined-problem-solving mindset",
+    "ill-defined-problem-solving mindset",
+    "divergent thinking",
+    "convergent thinking",
+    "creative task performance",
+    "task choice (goal setting)",
+    "self-perceived creativity"
+  ],
+  "main_findings": [
+    "In Study 1, participants who first solved a well-defined LEGO kit task scored lower on subsequent Torrance creativity than those in ill-defined or control conditions, with effects concentrated in originality and title abstractness.",
+    "In Study 2, providing a known target outcome in the initial task reduced originality on a later unusual-uses task, while providing step-by-step instructions did not significantly affect originality; fluency did not differ significantly across conditions.",
+    "In Study 3, inducing a well-defined mindset increased selection of a subsequent well-defined task (67%) versus after ill-defined induction (44%), and self-perceived creativity negatively predicted choosing the well-defined task, with no significant interaction between mindset and self-perceived creativity."
+  ],
+  "one_line_summary": "Across three experiments, the paper shows that solving well-defined problems induces a convergent mindset that lowers later creative originality and increases preference for similarly well-defined tasks.",
+  "relation_to_prior_work": "extends prior mindset research by treating problem-structure-based problem solving as a source of carryover mindset effects and showing consequences for both goal striving (task performance) and goal setting (task choice), while adding evidence on a common condition that undermines creativity in a literature often focused on creativity enhancers.",
+  "research_gap": "The paper argues that mindset research has rarely examined how consumers' mindsets affect creative task performance, and has paid little attention to how mindsets influence the choice of subsequent tasks. It also notes that creativity research has mostly examined situational factors that enhance creativity rather than those that diminish it.",
+  "research_question": "Do well-defined versus ill-defined problem-solving activities create mindsets that spill over to unrelated tasks? The authors test whether a well-defined-problem-solving mindset reduces subsequent creative performance and whether it increases consumers' tendency to choose well-defined rather than creative tasks."
+}

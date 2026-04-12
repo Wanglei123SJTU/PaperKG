@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper presents, to the authors' knowledge, the first model of a matchmaker's endogenous choice of matchmaking technology effectiveness.",
+    "It identifies three forces that jointly govern technology provision in matchmaking markets: quality enhancement, lifetime reduction, and intercohort externality.",
+    "It extends the baseline model to asymmetric two-sided markets and alternative pricing schemes, showing how these design choices affect incentives to underprovide technology."
+  ],
+  "context": "The paper studies subscription-based matchmaking intermediaries such as online dating sites, job portals, and B2B matching platforms. In these settings, users typically leave after finding a satisfactory match, so better matching can shorten customer lifetime on the platform.",
+  "design_and_data": "The study is a theoretical game-theoretic analysis with no empirical dataset. The baseline model is a dynamic Hotelling framework with strategic consumers, two periods and two consumer cohorts, endogenous platform technology choice, price competition, and network effects in match probability. The authors solve monopoly and duopoly equilibria (fulfilled-expectations equilibrium) and derive comparative statics for relationship utility, dating utility, competition intensity, network effects, and consumer patience. They add extensions for asymmetric two-sided platforms and for an upfront lump-sum pricing scheme versus per-period subscriptions.",
+  "focal_constructs": [
+    "matchmaking technology effectiveness",
+    "customer lifetime reduction",
+    "quality enhancement effect",
+    "intercohort externality",
+    "network effects",
+    "consumer patience and platform switching",
+    "competition intensity and pricing power",
+    "subscription versus upfront pricing"
+  ],
+  "main_findings": [
+    "Competition can produce either higher or lower technology provision than monopoly; duopoly provides more effective technology when relationship utility or dating utility is sufficiently high, or when competition is sufficiently intense.",
+    "Stronger network effects weakly reduce equilibrium technology provision because retaining unmatched users raises future network size and creates intercohort externality benefits for the platform.",
+    "Consumer patience does not change monopoly technology choice but weakly lowers technology provision under duopoly, because forward-looking consumers value switching options and can start with low-technology low-price platforms."
+  ],
+  "one_line_summary": "Using a dynamic subscription-platform model, the paper shows that matchmakers may strategically underprovide matching technology because better matching shortens customer lifetime and can reduce future network-based profits.",
+  "relation_to_prior_work": "introduces a matchmaking-specific technology-choice model that differs from prior search-aid and obfuscation work by centering a subscription-based customer-lifetime incentive, and it connects this mechanism to two-sided platform network effects.",
+  "research_gap": "The paper highlights that matchmakers face a conflict of interest under subscription revenue: highly effective matching can increase churn and reduce revenue duration. It argues that prior literature had not explicitly modeled how this lifetime trade-off determines a matchmaker's endogenous technology provision under competition and network effects.",
+  "research_question": "When do profit-maximizing matchmakers choose more effective versus less effective matchmaking technology in subscription markets where users exit after finding a match? How do competition, network effects, and consumer patience alter these technology incentives?"
+}

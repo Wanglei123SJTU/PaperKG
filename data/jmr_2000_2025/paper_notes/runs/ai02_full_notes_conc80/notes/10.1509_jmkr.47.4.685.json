@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces paired comparison-based preference measurement (PCPM), a modified analytic hierarchy process approach that elicits utilities for complex products through paired comparisons of attributes and levels.",
+    "Adapts AHP to consumer survey constraints by using incomplete ratio preference networks, a simple bipolar response scale, and a number-of-levels adjustment to reduce burden and handle inconsistencies.",
+    "Benchmarks PCPM against ACA and CASEMAP in two empirical consumer studies and tests how key PCPM design assumptions affect predictive performance."
+  ],
+  "context": "The paper studies preference measurement for complex, high-involvement consumer products in two domains: summer vacation packages and cell phones. Data come from online panel respondents with purchase experience and stated buying interest within the next 12 months.",
+  "design_and_data": "The authors conducted two online surveys in autumn 2007 with a total of 1460 respondents from a Survey Sampling International panel. A prior prestudy with 452 respondents (think-aloud, repertory grid, laddering, and dual questioning) was used to define attributes and levels for the two product categories. In each main study, respondents were randomly assigned to PCPM, ACA, or CASEMAP (Study 1: 241/242/245; Study 2: 244/242/246), and completed method-specific preference elicitation tasks; PCPM used two-cyclic incomplete paired-comparison designs. Predictive validity was evaluated with three holdout full-profile choice tasks per respondent using individual hit rates and aggregate choice-share errors (first-choice and powered logit).",
+  "focal_constructs": [
+    "paired comparison-based preference measurement (PCPM)",
+    "complex products",
+    "attribute importances",
+    "attribute-level desirabilities",
+    "incomplete ratio preference networks",
+    "convergent validity",
+    "predictive accuracy",
+    "survey length"
+  ],
+  "main_findings": [
+    "Aggregate partworth structures were highly similar across PCPM, ACA, and CASEMAP, indicating strong convergent validity in both studies.",
+    "PCPM achieved higher individual first-choice hit rates than ACA and CASEMAP in both studies, and CASEMAP performed significantly worse than PCPM on full-rank holdout prediction (HRAll).",
+    "PCPM produced more distinctive attribute importance distributions and significantly shorter interview times, while aggregate choice-share prediction was at least comparable to ACA and generally better than CASEMAP under the first-choice rule."
+  ],
+  "one_line_summary": "The paper proposes PCPM, a paired-comparison compositional method for complex products, and shows in two online studies that it retains convergent validity while improving individual prediction and interview efficiency versus ACA and CASEMAP.",
+  "relation_to_prior_work": "extends prior conjoint and self-explicated preference measurement research by adapting the analytic hierarchy process to complex consumer products through incomplete ratio preference networks and paired trade-off judgments. It directly benchmarks this adaptation against established approaches (ACA and CASEMAP) in realistic marketing settings.",
+  "research_gap": "Existing methods for complex products face a trade-off: conjoint tasks can become cognitively burdensome with many attributes, while self-explicated methods are often criticized for flat importances, imprecise utility elicitation, and lack of error handling. Although AHP has shown potential, its classic form had not been adapted and tested for complex consumer products where pairwise-comparison counts become large.",
+  "research_question": "Can a modified paired-comparison compositional approach (PCPM) measure consumer preferences for complex products more effectively than ACA and CASEMAP? Specifically, does PCPM improve convergent validity, predictive accuracy, and interview length in real consumer settings, and how do its underlying design assumptions influence prediction performance?"
+}

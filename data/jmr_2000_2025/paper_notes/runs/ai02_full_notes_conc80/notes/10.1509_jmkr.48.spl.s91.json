@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "The paper introduces and documents tax aversion as a dislike of taxes per se beyond monetary cost.",
+    "It shows that tax aversion produces counternormative consumer behavior across multiple domains, including retail shopping, investment choice, and commuting/job decisions.",
+    "It identifies political affiliation as a key moderator and demonstrates that making positive uses of taxes salient can mitigate tax aversion among antitax identifiers."
+  ],
+  "context": "The studies examine consumer decisions in retail purchases, financial investments, and job-location trade-offs where taxes are compared with non-tax costs. Participants are primarily U.S. residents recruited online and offline, with a reported replication pattern from a separate U.K. sample.",
+  "design_and_data": "The evidence comes from five between-subjects experiments conducted from 2009 to 2011, using mostly Amazon Mechanical Turk samples plus mall, campus, and craigslist recruits. Experiment 1 (final N=191) and Experiment 2 (final N=351) test willingness to travel or wait for tax-themed versus non-tax discounts, with Experiment 2 using titration questions on waiting time and discount size. Experiment 3a (N=117) and 3b (N=47) test taxable versus tax-exempt bond choices under equal after-tax returns, and Experiments 4 and 5 analyze political-party differences in tax aversion (Exp. 4 analysis N=132; Exp. 5 analysis N=565) plus a positive/negative tax-use listing manipulation.",
+  "focal_constructs": [
+    "tax aversion",
+    "tax-related versus non-tax costs",
+    "consumer choice trade-offs",
+    "tax-exempt bond preference",
+    "political party affiliation",
+    "salience of tax uses"
+  ],
+  "main_findings": [
+    "Participants were more willing to incur time costs (travel or waiting) to avoid taxes than to avoid equal or larger non-tax monetary costs.",
+    "Participants strongly preferred tax-exempt bonds over taxable bonds even when expected after-tax returns, and in one study risk, were explicitly equal.",
+    "Tax aversion was strongest among antitax party identifiers, and asking them to consider positive uses of tax payments reduced this tendency to the level of protax identifiers."
+  ],
+  "one_line_summary": "Across five experiments, the paper shows that people avoid taxes more than equal or larger non-tax costs, especially among antitax partisans, and that this bias can be reduced by making positive tax uses salient.",
+  "relation_to_prior_work": "extends prior work on tax framing and tax attitudes by testing whether taxes change concrete choices more than economically equivalent non-tax costs. It also connects political differences in tax attitudes to observed tax-avoidance behavior and tests a simple salience-based mitigation.",
+  "research_gap": "Prior research had documented framing effects and attitudes about tax policies, but it had not directly established whether taxes change behavior disproportionately relative to equivalent non-tax costs. The paper addresses this unresolved behavioral comparison.",
+  "research_question": "Do people show a distinct aversion to taxes per se, beyond the monetary burden of paying them? If so, does this tax aversion affect consumer decisions across shopping, investing, and job-related trade-offs, and is it moderated by political affiliation and by attention to positive uses of taxes?"
+}

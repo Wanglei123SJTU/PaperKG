@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in the core framing of the article as a key reference for the established churn-prediction paradigm, including common methods, accuracy evaluation, and the practice of targeting high-risk customers. The citing paper then positions its contribution as revisiting that paradigm by testing whether risk-based targeting is actually effective for retention interventions. This is not a mere name-check; it helps define the baseline logic that the new paper qualifies.",
+  "relation_description": "The citing paper builds on Neslin et al. (2006) as a baseline for churn-risk modeling and then refines its managerial implication by separating churn risk from treatment responsiveness. It argues and empirically shows that targeting by incremental lift can outperform targeting by predicted churn risk.",
+  "relation_type": "refines"
+}

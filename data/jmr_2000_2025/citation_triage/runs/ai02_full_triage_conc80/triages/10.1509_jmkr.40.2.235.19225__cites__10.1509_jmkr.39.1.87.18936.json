@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is not a generic background item: it is a Monte Carlo comparison of finite mixture models (vs. HB) that explicitly selects number of components using BIC/CAIC, while the citing paper’s core contribution is a Monte Carlo comparison of segment-retention criteria (AIC/AIC3/BIC/CAIC/ICOMP/LOGLV/NEC) for finite mixture logit models. The notes also state the citing study extends prior mixture/model-selection simulation work from other settings, which makes this cited study a plausible direct methodological/comparison antecedent rather than an incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

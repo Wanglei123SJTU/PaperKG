@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the citing paper, Naik and Raman (2003) is used as key prior work on cross-media interaction (synergy) and media allocation, not merely as a broad background citation. The authors explicitly compare their optimization setup to Naik and Raman's and explain they cannot use those results directly because their problem has a fixed known budget, finite horizon, individual-level data, and media-specific carryover. They then derive their own allocation expressions under these altered assumptions and use them in the attribution-vs-allocation argument.",
+  "relation_description": "The citing paper builds on Naik and Raman (2003)'s multimedia synergy/allocation line of work, but extends it to a different decision setting. It develops a fixed-budget, time-invariant, individual-level FBPM allocation framework and contrasts it with attribution-based budgeting.",
+  "relation_type": "extends"
+}

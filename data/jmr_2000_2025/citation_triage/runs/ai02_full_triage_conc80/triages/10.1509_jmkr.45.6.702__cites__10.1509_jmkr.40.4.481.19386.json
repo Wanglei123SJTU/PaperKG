@@ -1,0 +1,4 @@
+{
+  "rationale": "The only direct evidence is a single DOI-level reference match, with no in-text citation context or reference string details. The citing paper’s described core contribution is an endogeneity estimator for panel mixed-logit choice, while the cited paper focuses on promotion-bump/unit-sales decomposition, and the notes do not explicitly link this specific prior study to the method. Given this sparse evidence, it is not safe to drop as obvious mention-only, but there is also not enough support to clearly keep.",
+  "triage_decision": "uncertain"
+}

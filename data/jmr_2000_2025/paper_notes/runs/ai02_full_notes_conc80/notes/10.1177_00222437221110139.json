@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Identifies a novel effect, algorithmic transference: people generalize failure information more from one AI system to another AI system than from one person to another person.",
+    "Introduces a social-categorization account for responses to AI failures, arguing that AI systems are perceived as a more homogeneous out-group and that this perception drives transference.",
+    "Shows the social-impact relevance of this process in government by linking AI failure transference to lower willingness to use public services and, in ancillary evidence, lower trust in government agencies."
+  ],
+  "context": "The paper studies consumer responses to AI deployment in government agencies, where algorithms are used for benefits allocation, fraud determinations, consumer complaint handling, and related public functions. Empirical settings center on public-service decisions across multiple policy areas in US state/federal contexts.",
+  "design_and_data": "The article reports 13 preregistered studies (combined N = 3,724). Across studies, participants were exposed to real or constructed news-like descriptions of a failure by either an algorithm or a person in government tasks, then made inferential judgments about whether another same-type agent would fail. Samples included MTurk convenience samples, a nationally representative US sample from Prolific, and technology experts from Cloud Research. Process tests measured and manipulated perceived group homogeneity and tested alternatives (algorithmic literacy, locus of causality), and consequence studies measured propensity to apply for public services (with ancillary studies on brand transference and trust in government).",
+  "focal_constructs": [
+    "algorithmic transference",
+    "inferential judgment",
+    "algorithmic versus human failures",
+    "social categorization",
+    "out-group homogeneity",
+    "algorithmic literacy",
+    "human oversight",
+    "propensity to apply for public services"
+  ],
+  "main_findings": [
+    "Across multiple policy domains and samples, participants generalized failures more from one algorithm to another algorithm than from one person to another person.",
+    "Perceived group homogeneity of AI systems explained algorithmic transference; making algorithm heterogeneity salient or introducing human oversight eliminated the effect, while algorithmic literacy and perceived locus of causality did not account for it.",
+    "Learning about algorithmic (vs human) failures lowered reported willingness to apply for public services, and this effect was mediated by inferential transference."
+  ],
+  "one_line_summary": "Across preregistered experiments in government-service settings, people generalized failures more broadly across AI systems than across humans because AI is perceived as a more homogeneous group, which reduced willingness to use public services.",
+  "relation_to_prior_work": "extends prior research on algorithm failure responses that emphasized reliance on the same agent or moral judgments by introducing cross-agent inferential transference as a distinct response dimension. It also shifts mechanism from individual-agent beliefs to a group-level social-categorization process based on perceived out-group homogeneity.",
+  "research_gap": "The paper argues that despite rapid AI adoption in government, research has focused mainly on technical capabilities, transparency, and responses such as reliance or moral judgment, leaving consumer inferential responses to AI failures underexplored. In particular, prior work had not examined whether failure information transfers from one AI system to other AI systems, and what this implies for public-service uptake.",
+  "research_question": "When consumers learn that a government AI system failed, do they generalize that failure to other AI systems more than they generalize an analogous human failure to other people? If so, is this driven by social-categorization-based perceptions of group homogeneity, and does it affect consumers' willingness to use public services?"
+}

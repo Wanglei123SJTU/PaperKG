@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and tests that price primacy causes a qualitative shift in valuation criteria, from product attractiveness toward perceived monetary worth.",
+    "It combines time-resolved fMRI process evidence (MPFC and NAcc) with behavioral outcomes to distinguish mechanism changes from simple weighting or loss-frame accounts.",
+    "It provides a behavioral validation that price primacy can increase purchasing when product worth is easy to justify, specifically for recognized utilitarian products."
+  ],
+  "context": "The studies examine consumer purchase decisions for everyday products in a shopping-like setting where price and product information are shown in different orders. The managerial context is retail and e-commerce environments in which firms can control whether consumers see price first or product first.",
+  "design_and_data": "In an incentive-compatible fMRI experiment, 24 participants completed a within-subject shopping task and 17 were retained for neural analyses; each saw 80 discounted product offers with price-primacy and product-primacy trials mixed pseudorandomly. Each trial had three 4-second periods (first cue, combined product-plus-price display, then yes/no choice), and two randomly selected choices were implemented for real using a $40 endowment. Post-scan, participants reported product liking and willingness-to-pay, which were used to model whole-brain and a priori ROI activity (MPFC and NAcc). A follow-up incentivized online between-subjects experiment with 83 national-sample participants tested four utilitarian products; main purchase analyses used the 61 participants who consistently categorized all four items as practical or practical-and-frivolous.",
+  "focal_constructs": [
+    "price primacy",
+    "product primacy",
+    "product liking (desirability)",
+    "perceived monetary worth",
+    "price differential (consumer surplus)",
+    "MPFC value signaling",
+    "NAcc reward signaling",
+    "utilitarian product purchase"
+  ],
+  "main_findings": [
+    "In the fMRI study, MPFC activity patterns for purchased versus unpurchased items differed by information order (condition x purchase interaction significant), indicating sequence-dependent valuation dynamics.",
+    "Price primacy did not produce an overall decrease in MPFC or NAcc activity, and it did not significantly reduce overall purchase counts or product liking in the fMRI task.",
+    "In the follow-up utilitarian-product study, price primacy increased purchases and increased the share of purchases among items with nonnegative price differentials."
+  ],
+  "one_line_summary": "Using an incentive-compatible fMRI shopping task and a follow-up online experiment, the paper shows that seeing price before product shifts evaluation toward worth and can increase purchases of recognized utilitarian bargains.",
+  "relation_to_prior_work": "extends order-effect and neuroeconomic purchase research by showing that presenting price first changes the form of valuation rather than merely shifting average value levels. It challenges a pure loss-framing or pain-of-paying account in this task because price primacy did not reduce overall MPFC/NAcc responses or aggregate purchasing. It complements prior price-quality work by showing that price can trigger worth-focused evaluation before consumption.",
+  "research_gap": "Prior literature documents sequencing effects and neural correlates of purchase, but does not clearly establish how the order of price versus product information changes the valuation mechanism during single-item buying decisions. The authors also note that behavioral measures alone make it difficult to disentangle liking from monetary value as the decision unfolds.",
+  "research_question": "Does presenting price before product information (vs product before price) change the decision-making process underlying consumer purchase choices? Specifically, the paper asks whether price primacy qualitatively shifts valuation toward assessing monetary worth, as reflected in MPFC and NAcc dynamics, and whether this shift affects purchasing behavior for utilitarian products."
+}

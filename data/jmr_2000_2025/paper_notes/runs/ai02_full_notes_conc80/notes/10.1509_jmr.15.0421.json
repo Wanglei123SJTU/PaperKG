@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Develops an integrated, instantaneous household-level model of TV behavior that jointly captures show sampling, show watching, show recording, and ad viewing/avoidance under a common flow-utility framework.",
+    "Extends continuous-time dynamic discrete-choice modeling by incorporating sampling/consideration behavior in addition to viewing duration and exit decisions.",
+    "Combines set-top viewing forecasts with purchase response and ad prices to evaluate household-level TV microtargeting under cost-based and profit-based objectives, for both advance and real-time buying."
+  ],
+  "context": "The study is set in U.S. prime-time national television advertising during the rise of addressable/programmatic TV enabled by digital set-top boxes and DVRs. It examines household-level TV viewing and CPG purchasing to assess targeting decisions.",
+  "design_and_data": "The paper integrates five data sources: TiVo set-top log files, IRI purchase/trip/store data, TNS ad schedule and cost data, TMS program descriptors, and Nielsen ratings. The core panel includes 834 households with both viewing and purchase data, with TV data mainly from July 2005-July 2006 and purchase data from June 2005-June 2006. The authors estimate a household-level viewing model (sampling, watching, recording, ad avoidance) by simulated maximum likelihood and estimate category-level latent-class purchase models to measure ad response. They then run holdout-period counterfactual targeting experiments (July 2006), including cost and profit analyses for a focal brand (Charmin).",
+  "focal_constructs": [
+    "household-level TV viewing",
+    "show sampling behavior",
+    "advertising avoidance (zapping and zipping)",
+    "set-top-box microtargeting",
+    "flow utility",
+    "advertising response heterogeneity",
+    "advance vs real-time ad buying"
+  ],
+  "main_findings": [
+    "Person-specific factors dominate advertising avoidance: in recorded prime-time viewing, household effects account for much more variation than genre, brand, category, or time effects.",
+    "Advertising effects on purchase are small but generally positive and heterogeneous across consumers; across 129 segment-creative estimates, 15% are significantly positive at the 5% level.",
+    "Microtargeting substantially improves media efficiency, with advance cost-based targeting reducing costs by about 92% for the same target views, and real-time targeting in one schedule increasing target views by 47% while reducing costs by 7%; real-time profit-based targeting also improves simulated incremental profit versus the observed schedule."
+  ],
+  "one_line_summary": "Using single-source household TV and purchase data, the paper shows that modeling instantaneous show and ad viewing enables set-top-box microtargeting that can materially improve TV advertising cost efficiency and profitability, especially with real-time buying.",
+  "relation_to_prior_work": "extends prior TV viewing and ad-avoidance research by jointly modeling show sampling, viewing, recording, and ad avoidance at the household level in continuous time. It also extends empirical targeting work that focused on demographic or geographic TV targeting by optimizing household-level targeting over who gets ads, in which shows, and at what times, including a comparison of advance and real-time buying.",
+  "research_gap": "Prior empirical TV targeting studies largely emphasized demographic or geographic targeting, and existing individual-level targeting work did not explicitly model instantaneous show-viewing dynamics needed to forecast ad exposure by household-show-time. The paper addresses this gap by linking granular viewing processes to purchase response for targeting decisions.",
+  "research_question": "How do households make instantaneous TV and advertising consumption decisions, and can set-top viewing data forecast ad exposure at the household level? Are those exposures informative for purchase response, and what are the cost and profit implications for household-level TV microtargeting under advance versus real-time ad buying?"
+}

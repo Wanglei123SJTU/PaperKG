@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Identifies clarity about a partner's level of interest as a previously underexamined driver of consumers' enjoyment in shared consumption experiences.",
+    "Introduces joint navigation (decisions about pacing, sequencing, and interaction) as a key feature of real shared leisure activities that can reduce enjoyment when clarity is low.",
+    "Shows managerially actionable ways to improve shared experiences, including simple pre-activity interest-sharing prompts and reducing navigation demands."
+  ],
+  "context": "The paper studies shared consumption settings where people participate together in leisure activities such as gallery visits, movie-festival browsing, photo/exhibit viewing, sports and cultural outings, and similar paid experiences. Evidence comes from both lab-paired participants and real friends/family, including an in-field art gallery study.",
+  "design_and_data": "The authors report five main studies (plus three Web Appendix studies) using experiments and recalls of real activities. Study 1 (N = 283 students) manipulated clarity in a shared-vs-solo lab movie-festival browsing task; Study 3a (N = 244 students) manipulated navigation demands in shared-vs-solo photo viewing; Study 4 (N = 176) was a field experiment in a real art gallery that manipulated/disclosed pre-visit discussion about interests. Study 2 (N = 203 MTurk) tested mechanisms using recalled paid shared activities, and Study 3b (N = 498 MTurk) tested moderation by leisure vs nonleisure activity type. Analyses used random coefficient models for dyadic data, ANOVA/regression, and mediation/moderated mediation tests.",
+  "focal_constructs": [
+    "clarity about a partner's interests",
+    "shared versus solo consumption",
+    "joint navigation need",
+    "distraction",
+    "ability to focus on activity content",
+    "enjoyment",
+    "ability to socialize",
+    "downstream intentions (recommendation, repeat, perceived value)"
+  ],
+  "main_findings": [
+    "When shared activities required joint navigation, low clarity about a partner's interest reduced participants' ability to focus and enjoyment versus high clarity, and in multiple studies low-clarity shared experiences underperformed solo experiences.",
+    "Study 2 supported distraction as the mechanism: low clarity increased distraction, and distraction and reduced focus mediated lower enjoyment, while ego depletion did not explain the effect.",
+    "The effect of clarity was attenuated when navigation demands were lower or partner interest was less relevant for navigation (nonleisure tasks), and prompting partners to discuss interests before a real gallery visit increased clarity, focus, socializing, time spent, and several downstream outcomes."
+  ],
+  "one_line_summary": "Across lab, online, and field evidence, the paper shows that in jointly navigated shared experiences, uncertainty about a partner's interest distracts consumers and lowers enjoyment, while simple clarity-enhancing prompts improve outcomes.",
+  "relation_to_prior_work": "extends prior shared-experience research by examining jointly navigated, less-structured real-world activities rather than only tightly structured simultaneous-consumption paradigms. extends clarity/teamwork work from role or objective clarity and task performance to consumer focus and enjoyment in leisure consumption.",
+  "research_gap": "Prior evidence on whether shared experiences are more enjoyable than solo experiences is mixed, and much prior work uses structured settings that minimize joint navigation. The paper argues that prior research has not directly examined how clarity about a partner's interest affects focus and enjoyment during shared experiences that require ongoing coordination.",
+  "research_question": "How does clarity about a partner's level of interest affect a consumer's own focus and enjoyment in shared activities that require joint navigation? Specifically, can low clarity make shared leisure experiences less enjoyable than high-clarity shared experiences or solo experiences, and when are these effects weaker?"
+}

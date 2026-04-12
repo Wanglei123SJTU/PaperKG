@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citation is used in the methods section to justify and implement a two-step control-function correction for endogeneity/self-selection in channel activity variables. The authors explicitly cite Luan and Sudhir (2010) as a methodological precedent when describing first-stage equations, residual-based correction terms, and second-stage estimation. This is more than background mention because the cited work informs how key model corrections are carried out in the empirical analysis.",
+  "relation_description": "The citing paper applies the cited paper's control-function endogeneity-correction approach as methodological guidance for its own panel model of customer channel activity, discounts, sales, and profit. It uses the cited work as precedent for handling endogenous regressors via first-stage modeling and correction terms in the main outcome equations.",
+  "relation_type": "applies"
+}

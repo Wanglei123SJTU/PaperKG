@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Shows that autonomous aid appeals, which emphasize recipients' eventual self-sufficiency, can elicit higher donations than immediate aid appeals across multiple nonprofit contexts and with real donation behavior.",
+    "Provides a new theoretical link in charitable giving: autonomous aid increases perceived scope of impact, which increases hope for the recipient's future, which then increases donations.",
+    "Identifies a managerially relevant boundary condition: autonomous aid appeals are less effective when assistance is framed as recurring rather than temporary."
+  ],
+  "context": "The paper studies charitable fundraising communication by nonprofit organizations, focusing on how donation appeals are framed. Empirical settings include veterans' support, homelessness, food aid, and health care, including a field partnership with a regional nonprofit serving homeless populations in rural counties in the southeastern United States.",
+  "design_and_data": "The authors run seven studies using randomized appeal manipulations. Study 1 uses MTurk participants (N=100) who allocate a real $2 bonus to Wounded Warrior Project; Study 2 is a preregistered field mailer experiment with 1,200 households for a real nonprofit, with donation outcomes analyzed using zero-inflated Poisson models due to many zeros. Studies 3-6 use Prolific, MTurk, and undergraduate samples to test baseline comparisons, a boundary condition (temporary vs recurring assistance), serial mediation, and process-by-moderation. Measures include actual donations (field and bonus allocation) and donation intentions from hypothetical $100 allocations, plus scales for impact, hope, and warm glow.",
+  "focal_constructs": [
+    "autonomous aid appeals",
+    "immediate aid appeals",
+    "charitable donations",
+    "recipient self-sufficiency",
+    "perceived scope of impact",
+    "hope for the recipient's future",
+    "extent of assistance (temporary vs recurring)",
+    "warm glow"
+  ],
+  "main_findings": [
+    "Across studies, autonomous aid appeals produced higher donations than immediate aid appeals; in the field study, autonomous-aid mailers generated substantially more giving and higher donor response.",
+    "When assistance was framed as recurring rather than temporary, autonomous aid appeals no longer outperformed immediate aid appeals.",
+    "The effect of autonomous aid on donations was supported by a serial pathway through higher perceived impact and then greater hope for recipients' futures, while warm glow was not supported as the key alternative mechanism."
+  ],
+  "one_line_summary": "Across seven studies, donation appeals emphasizing autonomous aid (building recipient self-sufficiency) increased giving relative to immediate-aid appeals, largely via increased perceived impact and hope for recipients' futures.",
+  "relation_to_prior_work": "extends donation-appeal research by introducing autonomous aid framing as a distinct and effective positioning strategy centered on recipient self-sufficiency. It introduces a specific impact-to-hope mechanism linking perceived impact to charitable giving, addressing mixed prior findings on impact sensitivity.",
+  "research_gap": "The authors state that prior donation-appeal research has not adequately examined appeals that emphasize recipients' eventual self-sufficiency (autonomous aid) relative to immediate aid. They also highlight unresolved questions about why autonomous aid might increase donations and under what conditions it is most effective.",
+  "research_question": "Do autonomous aid appeals that stress recipients' eventual self-sufficiency increase donations compared with immediate aid appeals that stress short-term relief? If so, when does this advantage hold, and is it explained by increased perceived impact that then increases hope for the recipient's future?"
+}

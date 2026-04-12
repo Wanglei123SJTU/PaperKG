@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces a joint model that treats expressed sentiment and venue format choice as interrelated processes linked by a latent general brand impression.",
+    "Shows that social media sentiment inferences depend on where firms listen, and that single-venue monitoring or naive aggregation across venues can produce misleading sentiment metrics.",
+    "Validates a model-based sentiment measure against external benchmarks and shows it outperforms commonly used social media sentiment summaries."
+  ],
+  "context": "The empirical setting is social media listening for two major brands: one in enterprise software and one in telecommunications. Comments are drawn across multiple venue formats, mainly blogs, forums, and microblogs, with external comparison to stock prices for both brands and an offline brand-tracking survey for the enterprise software brand.",
+  "design_and_data": "The study estimates a Bayesian joint comment-level model with an ordered probit for expressed sentiment (negative, neutral, positive) and a multinomial logit for venue format choice. A latent monthly general brand impression (GBI) links the two processes, and the model includes venue-format effects, format-specific temporal shocks, domain effects, and random effects for focal products and attributes. Estimation uses WinBUGS with diffuse priors and MCMC (three chains, 10,000 iterations each, first 5,000 discarded). Data include 7,565 manually coded comments over 15 months for the enterprise software brand and 4,173 comments over 24 months for the telecommunications brand, sampled from Converseon-monitored domains.",
+  "focal_constructs": [
+    "expressed sentiment",
+    "venue format choice",
+    "general brand impression (GBI)",
+    "underlying brand sentiment",
+    "focal product",
+    "focal attribute",
+    "format-specific temporal shocks"
+  ],
+  "main_findings": [
+    "Sentiment levels and dynamics differ across venue formats, and the joint sentiment-venue model fits better than nested, conditionally independent, and sequential alternatives.",
+    "The inferred GBI measure is a leading indicator of offline brand-tracking survey movement for the enterprise software brand and correlates more strongly than aggregate or single-venue sentiment metrics.",
+    "GBI also acts as a leading indicator of stock price movements for both brands, with lagged GBI effects stronger and more reliable than concurrent effects."
+  ],
+  "one_line_summary": "The paper develops and validates a Bayesian joint model of social media sentiment and venue format choice to recover a latent general brand impression that better reflects underlying brand sentiment than common aggregate or single-venue metrics.",
+  "relation_to_prior_work": "extends prior social media research that typically studies a single platform or venue format by modeling cross-venue heterogeneity and endogenous venue format choice together with sentiment. introduces a latent-factor linkage between what people post and where they post it, and compares this framework against conditionally independent and sequential alternatives.",
+  "research_gap": "Prior research and many practitioner metrics either focus on one venue format or pool comments across venues without modeling venue differences. The paper argues that because venue choice is itself behavioral and related to comment content and sentiment, such approaches can confound true brand sentiment with shifts in posting venue.",
+  "research_question": "How can firms recover underlying brand sentiment from social media when users choose both what sentiment to express and where to post it? The paper examines whether jointly modeling sentiment expression and venue format choice produces a more valid brand sentiment measure than single-venue or aggregated metrics, and whether that measure predicts external performance signals."
+}

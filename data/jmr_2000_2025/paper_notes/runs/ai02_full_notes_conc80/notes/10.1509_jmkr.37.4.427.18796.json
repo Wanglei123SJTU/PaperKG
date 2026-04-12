@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper demonstrates that consumer choices under incomplete information can produce systematic preference intransitivity when options have common versus unique attributes.",
+    "Using process measures, it shows that consumers do not simply ignore missing values; they tend to treat missing values as less problematic for the option that is better on the common attribute and more problematic for the option that is worse on that attribute.",
+    "It reports boundary and consequence results by showing that the effect is robust across information formats and not explained by inference-based accounts, is weaker when attribute importance is considered beforehand or need for cognition is high, and can carry over to later tastes and choices."
+  ],
+  "context": "The paper studies consumer decisions in settings where alternatives are only partially described, a common situation in markets and especially relevant to Internet and catalog environments where marketers control information display. Empirical tasks use multiple choice domains, including health clubs, portable PCs, yogurt, cordless telephones, and congressional candidates.",
+  "design_and_data": "The authors run a series of experiments with approximately 3000 respondents recruited at a major airport and a science museum. Designs include within-subject and between-subject binary choice tests across categories where each pair has one common attribute and two unique attributes with missing values; key tests evaluate intransitivity via A over B, B over C, and C over A patterns. Additional studies collect written explanations and think-aloud protocols, manipulate presentation formats and inference conditions, and test moderators (prechoice attribute-importance ratings and need for cognition). Follow-up priming studies test whether choices from incomplete-information sets affect later attribute-importance ratings and subsequent full-information choices.",
+  "focal_constructs": [
+    "incomplete information",
+    "missing attribute values",
+    "common attributes",
+    "unique attributes",
+    "preference intransitivity",
+    "attribute weighting",
+    "need for cognition",
+    "postchoice attribute importance"
+  ],
+  "main_findings": [
+    "Across multiple categories, choices with missing information frequently showed the predicted intransitive pattern, with substantial implied intransitivity and minimal reverse intransitivity.",
+    "Process evidence showed that common attributes were used more often as reasons for choice, and missing values were more often treated as reasons against options that were inferior on the common attribute and less often against options superior on it.",
+    "The effects were robust across presentation formats and persisted when all three options were shown before one became unavailable, while being weaker when respondents rated attribute importance first or had higher need for cognition; choices under incomplete information also shifted later attribute-importance judgments and later choices under full information."
+  ],
+  "one_line_summary": "The paper shows across many experiments that missing attribute information makes consumers overweight common attributes, which can generate intransitive choices and can also shape later attribute importance and subsequent choices.",
+  "relation_to_prior_work": "extends Slovic and MacPhillamy (1974) from comparative judgment tasks to consumer choice by showing that overweighting common attributes can create intransitive purchase preferences. It also links this pattern to motivated reasoning style accounts by providing process evidence on how consumers use missing values to support a tentative preference.",
+  "research_gap": "Prior research had examined how consumers infer or value missing information, but the paper argues that the fundamental question of how incomplete information affects consumer choice had not been directly investigated. In particular, the possibility that missing information could systematically generate intransitive preferences and alter later preferences was not established.",
+  "research_question": "How does incomplete product information, where some attributes are common across options and others are missing for some options, affect consumer choice? The paper asks whether this structure can generate intransitive preferences, through what decision processes missing values are treated, and under what conditions these effects are stronger or weaker, including whether they influence subsequent tastes and choices."
+}

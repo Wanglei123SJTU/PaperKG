@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is a closely related prior in both method and domain: it introduces guided LDA for movie/IMDb text, while the citing paper develops a new topic model for creative documents including movies/TV and explicitly contrasts itself with LDA-based marketing topic models. Given this strong overlap and plausible role as a key comparison/foundation source, this is not an obvious incidental mention from the provided evidence.",
+  "triage_decision": "keep_for_relation_judgment"
+}

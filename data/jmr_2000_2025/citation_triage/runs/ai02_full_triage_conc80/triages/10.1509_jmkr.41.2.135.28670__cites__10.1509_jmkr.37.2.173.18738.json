@@ -1,0 +1,4 @@
+{
+  "rationale": "The two paper notes show very strong design overlap (same ACNielsen week in Nov 1995, same TV-network choice setting, and the same 1,675/1,556 estimation-holdout split), and the citing paper’s model components (latent segments, state dependence/switching structure) closely track constructs highlighted in the cited paper. Given this likely foundational/benchmark role, and despite only one DOI-level match in the raw reference evidence, this is not a clear incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is a core prior clickstream modeling study (disaggregate within-site browsing behavior with hierarchical Bayes/MCMC), and the citing paper also builds an individual-level clickstream/path model and explicitly says it moves beyond prior within-site models. That thematic and methodological alignment suggests the citation is likely part of the paper’s conceptual/method foundation rather than an incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

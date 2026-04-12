@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper gives Ansari, Essegaier, and Kohli (2000) a central role in framing and method development, explicitly stating it is \"building on\" that work. It summarizes the 2000 hierarchical Bayes model in detail, identifies specific limitations (interval treatment of ordinal ratings and missing-completely-at-random handling), and then develops a new joint selection-prediction model to address those gaps. The cited paper is also used as the key benchmark in holdout performance comparisons, helping define the citing paper's claimed contribution.",
+  "relation_description": "The citing paper directly extends Ansari et al. (2000) by retaining the hierarchical Bayes recommendation foundation while adding a nonignorable missing-data selection component and ordinal rating treatment. It positions its contribution as improving that prior framework and evaluates gains relative to the Ansari et al. benchmark.",
+  "relation_type": "extends"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Extends resource-based acquisition theory by jointly considering overlap in two resource types, innovation and relational resources, rather than focusing only on internal innovation resources.",
+    "Introduces and tests the idea that overlap effects depend on target resource quality (innovation and relational) and on acquirer absorptive-capacity factors such as CEO functional background, marketing intensity, and acquisition experience.",
+    "Adds an empirical contribution to acquisition research by explicitly modeling unobserved heterogeneity and correcting endogeneity of overlap variables in the performance regression."
+  ],
+  "context": "The study is set in the biopharmaceutical industry, a high-technology and knowledge-intensive market (SIC 28) where acquisitions are used to access external resources. The empirical setting is acquisitions between public firms announced/completed from 1995 to 2013.",
+  "design_and_data": "The authors assemble data on 319 biopharmaceutical acquisitions involving 129 unique acquirers and 319 targets from SDC Platinum, supplemented with CRSP, Compustat, USPTO patent data, and manually collected alliance and CEO-background information. Acquisition performance is measured with event-study cumulative abnormal returns around announcement, using a 250-day estimation window and a 3-day event window (-1, +1). Innovation overlap is based on common patent classes, and relational overlap is based on common alliance partners, both scaled by target resource bases. The main model is a random-effects regression with a two-step control-function correction for endogeneity of innovation and relational overlap.",
+  "focal_constructs": [
+    "innovation overlap",
+    "relational overlap",
+    "acquisition performance (CAR)",
+    "target innovation resource quality",
+    "target relational resource quality",
+    "CEO functional background (throughput vs output)",
+    "acquirer marketing intensity",
+    "acquirer acquisition experience"
+  ],
+  "main_findings": [
+    "Innovation overlap is positively related to acquisition performance, while relational overlap is negatively related to acquisition performance.",
+    "The positive innovation-overlap association is strengthened by target innovation resource quality and acquirer marketing intensity, but weakened by CEO throughput (vs output) background and by acquirer acquisition experience.",
+    "The negative relational-overlap association is attenuated by target relational resource quality and by CEO throughput (vs output) background, while interactions with acquirer marketing intensity and acquisition experience are not significant."
+  ],
+  "one_line_summary": "Using 319 biopharmaceutical acquisitions, the paper shows that innovation overlap helps but relational overlap hurts announcement-period acquisition performance, with these associations contingent on resource quality and selected absorptive-capacity factors.",
+  "relation_to_prior_work": "extends prior acquisition research by moving beyond technological relatedness alone to include relational overlap and by separating overlap quantity from target resource quality. It also extends prior empirical work by modeling endogeneity and unobserved heterogeneity in estimating overlap-performance relationships.",
+  "research_gap": "Prior acquisition work in high-technology settings largely emphasized overlap in internally developed innovation resources and gave limited attention to overlap in externally derived relational resources. It also focused more on overlap quantity than resource quality, and often did not explicitly handle endogeneity and unobserved heterogeneity in overlap-performance estimation.",
+  "research_question": "How do innovation overlap and relational overlap between acquirer and target relate to acquisition performance in high-technology industries? Do these relationships depend on the quality of the target's innovation and relational resources and on acquirer absorptive-capacity factors such as CEO functional background, marketing intensity, and prior acquisition experience?"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing study’s design note says it uses CNN-based text classification and regression discontinuity in time on review-related data, which closely aligns with the cited paper’s central methods (supervised deep learning for review content and RDiT causal identification). With this strong method-level overlap plus a confirmed DOI match, the citation is plausibly substantive rather than a generic background mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

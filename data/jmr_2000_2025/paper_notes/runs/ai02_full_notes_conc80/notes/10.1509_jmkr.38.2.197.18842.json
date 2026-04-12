@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a semiparametric regression model for deal effects in which sales are modeled nonparametrically as a function of own- and cross-item temporary price discounts and parametrically as a function of other predictors.",
+    "It demonstrates, with validation-sample comparisons, that this semiparametric approach can outperform standard parametric promotion models (Scan*Pro and Blattberg-Wisniewski) in predictive accuracy.",
+    "It highlights the substantive importance of flexible interaction effects, including interactions among item discounts and, in a separate analysis, interactions between discount magnitude and promotion support type (feature/display)."
+  ],
+  "context": "The empirical setting is weekly store-level scanner data pooled within single retail chains in three categories: U.S. canned tuna, U.S. beverages, and a Dutch packaged food category. The analysis is at the SKU level and focuses on temporary price discounts and promotional support.",
+  "design_and_data": "The authors estimate a semiparametric semilinear model where log sales equals a nonparametric function of log price indices (temporary discounts) plus a parametric part with promotion indicators, store effects, and week effects. The main nonparametric estimator is Nadaraya-Watson kernel regression; they also estimate local polynomial regression to assess boundary bias, and compare against parametric Scan*Pro and B&W benchmarks, plus GAM and parametric models with explicit interaction terms. Data include 28 stores x 104 weeks for U.S. tuna (3 items), 151 stores x 117 weeks for U.S. beverages (6 items, complete-availability observations), and 48 stores x 144 weeks for Dutch food (4 items, with discounts only for two items). For each chain, observations are split into estimation and validation halves over time.",
+  "focal_constructs": [
+    "deal effect curve",
+    "temporary price discounts",
+    "threshold effects",
+    "saturation effects",
+    "cross-item deal effects",
+    "discount interaction effects",
+    "promotion signals (feature/display)",
+    "semiparametric regression"
+  ],
+  "main_findings": [
+    "Across all three categories, the semiparametric kernel model outperforms both parametric benchmarks in fit and validation MSE, with especially strong gains in observations that include own-item discounts and with larger reductions in bias than in variance.",
+    "Estimated own- and cross-item deal curves are often nonlinear and frequently show threshold and saturation patterns, while parametric benchmarks tend to overstate effects at small and large discounts and understate effects at intermediate discounts.",
+    "Flexible interaction effects matter: models allowing flexible discount interactions perform better than models constraining interactions to zero, and a separate tuna analysis shows a crossover with feature versus display support (feature stronger up to about 20% discount, display stronger beyond that)."
+  ],
+  "one_line_summary": "Using store-level scanner data from three categories, the paper shows that a semiparametric model with flexible discount effects and interactions estimates deal effect curves more accurately than standard parametric promotion models.",
+  "relation_to_prior_work": "introduces a semiparametric alternative to prior parametric deal-effect models by combining nonparametric discount-response estimation with parametric controls, and it empirically tests this against established Scan*Pro and B&W specifications.",
+  "research_gap": "The paper states that empirical evidence on the shape of the deal effect curve is limited and mixed, despite its managerial importance. Prior studies mainly used parametric forms and did not adequately capture complex nonlinearities and interactions, especially how own-item discount response changes with simultaneous discounts on other items.",
+  "research_question": "What is the shape of own- and cross-item deal effect curves for temporary price discounts when estimated flexibly from store-level scanner data? Do flexible nonparametric main and interaction discount effects improve predictive validity relative to standard parametric promotion models, and how do promotion signals (feature/display) alter the own-item deal curve?"
+}

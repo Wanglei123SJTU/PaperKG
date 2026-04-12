@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces the comparability-based balance model (COBA), a general attribute-based bundle choice model for pure bundles with heterogeneous multi-category components.",
+    "It shows that the conjoint model and the balance model are special cases of the COBA framework.",
+    "It combines finite-mixture latent classes with within-class heterogeneity in a hierarchical Bayesian framework and applies the model to bundle-market segmentation, individual reservation prices, and optimal bundle pricing."
+  ],
+  "context": "The paper studies pure bundling of complementary products sold as complete systems by a direct marketer or reseller. The empirical application is PC system bundles consisting of a monitor, a computer, and a printer.",
+  "design_and_data": "The authors ran two pilot studies (n = 18 and n = 27) to identify salient features/attributes and classify comparability. The main study used 136 undergraduate respondents who completed 18 stated-choice tasks over PC bundles generated from 3 monitors x 3 computers x 2 printers, with 3-5 options per task including a no-buy option. For estimation, 14 tasks per respondent were used (1904 observations) and 4 tasks were held out for validation (544 observations). Estimation used a hierarchical Bayesian finite-mixture nested logit with MCMC/Gibbs sampling, and performance was compared with six alternative models.",
+  "focal_constructs": [
+    "bundle choice under pure bundling",
+    "comparability-based balance model (COBA)",
+    "attribute comparability",
+    "balancing and nonbalancing attributes",
+    "consumer heterogeneity",
+    "latent market segments",
+    "bundle reservation prices",
+    "optimal bundle pricing"
+  ],
+  "main_findings": [
+    "The two-segment COBA model provided the best in-sample and out-of-sample performance among seven models, with log marginal likelihood -701.14 and holdout hit rates of .74, .77, and .61 for choice-set sizes 3, 4, and 5.",
+    "Estimated coefficients were largely consistent with theoretical predictions: price effects were negative, nonbalancing effects were positive, and balancing effects for key comparable attributes were negative, with most attribute effects significant.",
+    "COBA produced the lowest reservation-price prediction error (MAPE 17.01 versus up to 40.00 for alternatives), and pricing simulations indicated an optimal single price of $1,197 for the example bundle and segment prices of $1,310 and $1,125 with higher expected profit under segment pricing."
+  ],
+  "one_line_summary": "The paper develops and tests a hierarchical Bayesian COBA model that generalizes conjoint and balance approaches to heterogeneous multi-category bundles and uses it for segmentation, reservation-price estimation, and optimal bundle pricing.",
+  "relation_to_prior_work": "extends prior attribute-based bundle models by relaxing the full-comparability assumption and incorporating fully comparable, partially comparable, and noncomparable attributes in one random-utility framework. It links prior conjoint and balance approaches by nesting both as special cases.",
+  "research_gap": "Existing bundle-choice models either rely on component-level representations or require all bundle components to be comparable on all attributes, making them weak for heterogeneous bundles across multiple product categories. The literature had also paid limited attention to segmentation and target pricing for such bundles.",
+  "research_question": "How can bundle choice be modeled at the attribute level when bundles contain heterogeneous components from multiple product categories with different degrees of attribute comparability under pure bundling? Can such a model, while accounting for latent classes and within-segment heterogeneity, improve prediction and support market segmentation, reservation-price estimation, and optimal bundle pricing?"
+}

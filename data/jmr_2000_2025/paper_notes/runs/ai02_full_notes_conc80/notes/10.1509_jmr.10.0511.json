@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper validates a positive but concave donation amount-WTP relationship for cause-related marketing beyond charity auction settings, using absolute donation amounts and multiple donation levels.",
+    "It introduces and tests two moderator classes of the donation amount-WTP link: donation-related predispositions and cause-related predispositions.",
+    "It identifies a counterintuitive negative moderation by company-cause fit and shows that attributed company motives mediate this effect, with stronger occurrence for utilitarian and privately consumed products."
+  ],
+  "context": "The paper studies transaction-based cause-related marketing, where a firm donates a stated amount per unit sold to a nonprofit cause. The empirical settings use consumer products (cereal bars, mineral water, chocolate) with student participants in Germany.",
+  "design_and_data": "Evidence comes from four experiments using incentive-compatible or scenario-based WTP measurement. Study 1 uses a within-subject design with 103 students, nine donation levels (1-40 cents) plus a no-donation control for cereal bars, and random coefficient regression with linear, quadratic, and interaction terms. Study 2 uses a 2 x 2 between-subjects design plus no-donation control (N = 115) manipulating donation amount (5 vs 40 cents) and company-cause fit for mineral water, and tests mediated moderation with attributed motives. Study 3 uses a 3 x 2 x 2 between-subjects design (N = 302) across utilitarian, neutral, and hedonic products, and Study 4 uses a 2 x 2 x 2 between-subjects scenario design (N = 242) manipulating private versus public consumption.",
+  "focal_constructs": [
+    "donation amount",
+    "willingness to pay",
+    "donation-related customer predispositions",
+    "cause-related customer predispositions",
+    "company-cause fit",
+    "attributed company motives",
+    "product hedonism-utilitarianism",
+    "publicness-privateness of consumption"
+  ],
+  "main_findings": [
+    "Donation amount has a positive and concave effect on willingness to pay, implying diminishing marginal WTP gains at higher donation levels.",
+    "The donation amount-WTP relationship is stronger for consumers with stronger helping attitudes, stronger warm glow motive, higher cause involvement, and higher cause organization affinity.",
+    "Lower company-cause fit strengthens the donation amount effect via attributed company motives, and this attribution-based interaction is more evident for utilitarian products and private consumption than for hedonic products and public consumption."
+  ],
+  "one_line_summary": "Across four experiments, the paper shows that higher donation amounts generally increase WTP with diminishing returns, but this effect depends on customer predispositions and an attribution-based company-cause fit mechanism with product-type and consumption-context boundary conditions.",
+  "relation_to_prior_work": "extends prior cause-related marketing research by moving from main effects to moderators of the donation amount-WTP link, generalizing donation-WTP evidence beyond charity auctions, and showing that company-cause fit can interact negatively with donation amount through motive attributions under specific conditions.",
+  "research_gap": "Prior studies document donation amount effects on outcomes such as WTP (mainly in auction contexts), but evidence on when this effect varies across situations is limited. Existing work also focuses largely on main effects of customer predispositions and does not clearly test their moderating roles or the mechanism behind fit-related moderation.",
+  "research_question": "How does a firm's donation amount in cause-related marketing affect consumers' willingness to pay for the linked product? The paper asks which donation-related and cause-related predispositions moderate this relationship, and whether company-cause fit changes the effect through attributed company motives under different product and consumption conditions."
+}

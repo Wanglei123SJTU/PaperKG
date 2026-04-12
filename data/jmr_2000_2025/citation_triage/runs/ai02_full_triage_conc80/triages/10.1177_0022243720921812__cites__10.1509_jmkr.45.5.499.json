@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s core empirical design uses a Tobit Type II system on retail panel data for promotion effects, and the cited paper is also a major retail-promotion outcome study that uses a multivariate heterogeneous Tobit II model on household panel data. This methodological and domain overlap (promotions, consumer response, panel Tobit II) makes the citation plausibly substantive (method/source-of-comparison) rather than an obvious background mention. With only DOI-level match evidence and no local citation sentence, it should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

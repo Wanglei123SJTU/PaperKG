@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in a specific methodological role: the citing paper states that it uses BIC to determine the number of latent classes and points to Andrews and Currim (2003) for this segment-retention choice. This is not just a broad literature list; it supports an estimation decision that is implemented in the paper's model comparison table (different segment counts selected via BIC). The citing paper does not extend or challenge Andrews and Currim's framework directly, but it draws on it to guide model selection practice.",
+  "relation_description": "The citing paper applies Andrews and Currim (2003) as methodological support for choosing a segment-retention criterion in its latent-class heterogeneity specification. Specifically, it uses BIC-based segment-count selection in estimation, consistent with that cited guidance.",
+  "relation_type": "applies"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s core problem is recovering individual-level preferences from aggregate market-share/coupon data, and the cited paper specifically analyzes identification and recoverability of segmentation from store-level aggregate data—making it a plausible methodological/foundational source rather than an incidental mention. The notes indicate clear conceptual overlap on aggregate-data identification limits and recoverability, and the DOI match confirms this exact reference pair. Given this likely substantive relevance, it should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

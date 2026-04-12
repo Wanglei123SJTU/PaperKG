@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "First field experiment to show that identity congruency affects the level of actual charitable contributions.",
+    "First study to test identity esteem and self/other focus as moderators of identity congruency effects, and to demonstrate their joint three-way impact on donation decisions.",
+    "Applies key identity-based constructs to nonprofit marketing and fundraising, offering a novel explanation for when social influence from prior donors is strongest."
+  ],
+  "context": "The paper studies charitable giving in nonprofit fundraising, centered on public radio pledge contexts. Evidence comes from an on-air public radio field setting plus laboratory/field scenario studies with undergraduate and adult participants.",
+  "design_and_data": "The paper reports five experiments. Experiment 1 is a randomized field experiment during a public radio fund drive with new callers (N = 76), manipulating whether the cited prior donor was gender-matched or mismatched and measuring actual pledge amounts. Experiment 2a is a lab study with undergraduates (N = 43) that manipulates gender congruency, measures gender identity esteem, and records actual donations from participant payments. Experiment 2b (adults in a city market; usable N = 182), 3a (undergraduates; usable N = 184), and 3b (adults at a concert; usable N = 91) use donation scenarios to measure donation intentions while testing interactions among identity congruency, identity esteem, and self/other focus via hierarchical regressions with controls.",
+  "focal_constructs": [
+    "identity congruency",
+    "charitable donations",
+    "gender social identity",
+    "identity esteem (collective self-esteem)",
+    "self focus vs other focus",
+    "social influence from prior donors",
+    "donation intentions"
+  ],
+  "main_findings": [
+    "In the public radio field experiment, donors gave more when the prior donor was gender-congruent rather than gender-incongruent (matched M = $141.88 vs mismatched M = $105.70; identity congruency coefficient significant).",
+    "The identity congruency effect was stronger when identity esteem was high (Experiment 2a) and when attention was focused on others rather than self (Experiment 2b).",
+    "Experiments 3a and 3b replicated a three-way interaction: identity congruency effects emerged strongest under high identity esteem plus other-focus, and did not emerge under low identity esteem regardless of focus."
+  ],
+  "one_line_summary": "Across five experiments, the paper shows that matching a prior donor's gender to a target donor increases giving, especially when the target has high gender identity esteem and is focused on others.",
+  "relation_to_prior_work": "extends prior social influence and consumer identity research by showing that who the prior donor is (identity match) shapes charitable giving, including real field donations. It introduces and tests identity esteem and self/other focus as boundary conditions for this effect in donation contexts.",
+  "research_gap": "Prior work showed that others' behavior can influence consumers and that identity can shape judgments, but evidence was lacking on whether identity congruency with a prior donor changes actual charitable donations in real fundraising settings. The role of identity esteem and self/other focus, and their joint moderation of identity congruency effects on donations, had not been tested.",
+  "research_question": "Does identity congruency between a target donor and a previous donor increase donation amounts in charitable giving? Under what conditions does this effect occur, specifically as a function of donors' identity esteem and self/other attentional focus, and do these moderators jointly amplify the effect?"
+}

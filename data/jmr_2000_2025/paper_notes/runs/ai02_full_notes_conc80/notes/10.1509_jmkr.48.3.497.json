@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper introduces STOC, a method that treats product concepts as tradable securities so market prices aggregate preference intensity.",
+    "It provides a multi-category empirical comparison of STOC with stated-choice, conjoint, virtual concept testing, simulated-store revealed preference, and longitudinal sales benchmarks.",
+    "It claims two primary managerial advantages of STOC over traditional methods: cost efficiency and scalability, and shows that trading data can also reveal individual-level bias."
+  ],
+  "context": "The study is set in early-stage new product concept screening across four categories: bike pumps, crossover vehicles, laptop PC messenger bags, and Wii video games. Experiments were conducted in controlled classroom or lab settings with MBA students, executive MBA students, and executives.",
+  "design_and_data": "The paper reports 11 STOC experiments where participants traded concept-linked virtual stocks in short-horizon double-auction markets, typically completed within 60 minutes including instructions. Trader group sizes in the experiments ranged from 16 to 62, and STOC outcomes were summarized mainly using normalized volume-weighted average prices (VWAPs). The authors compare STOC results against rank-ordered self-stated choices, conjoint analysis, virtual concept testing, constant-sum surveys, simulated-store purchases for laptop bags, and 2001-2006 unit sales for crossover vehicles.",
+  "focal_constructs": [
+    "securities trading of concepts (STOC)",
+    "new product concept preference measurement",
+    "volume-weighted average price (VWAP)",
+    "expectations of others' preferences",
+    "self-preference bias and false consensus",
+    "cost efficiency of concept testing",
+    "scalability of market research"
+  ],
+  "main_findings": [
+    "Respondents preferred STOC to equivalent survey tasks (about 90% in one executive/engineer sample and 85% in one MBA sample), and STOC studies used smaller trader samples than comparison methods.",
+    "Across most tests, STOC showed strong convergent validity and repeatability versus VCT, conjoint, and constant-sum benchmarks, but STOC did not predict actual crossover-vehicle sales and was weak on price sensitivity.",
+    "STOC prices reflected expectations of others more than pure self-preferences, participants learned during trading, and individual trading exhibited self-preference bias that allowed recovery of individual-level preference signals."
+  ],
+  "one_line_summary": "The paper proposes STOC as a concept-trading market for new product screening and shows in 11 experiments that it can efficiently and scalably aggregate preferences with strong validity against many benchmarks, while being less useful for forecasting real sales when price sensitivity matters.",
+  "relation_to_prior_work": "introduces a preference-measurement market for unrealized product concepts and distinguishes it from prediction markets focused on observable outcomes. It situates STOC against prior survey, conjoint, concept-testing, and experimental-economics literatures through direct empirical comparison.",
+  "research_gap": "The authors argue that Web 2.0-era innovation generates many integrated concepts that existing methods struggle to filter because of respondent burden, cost, and limited scalability. They also note that prior prediction markets are designed for observable outcomes, leaving open whether market trading can validly measure preferences for concepts that may never be realized.",
+  "research_question": "Can securities trading of concepts (STOC) provide a valid and more cost-efficient way to measure preferences for new product concepts? The paper tests whether STOC compares favorably with established methods, whether it captures expectations of others, and whether individual preferences can still be inferred from trading behavior."
+}

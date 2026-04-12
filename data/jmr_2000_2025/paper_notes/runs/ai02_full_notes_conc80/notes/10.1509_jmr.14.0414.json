@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Demonstrates that the synesthetic correspondence between sound frequency and color lightness guides visual attention.",
+    "Provides evidence that this attentional effect is automatic, including operation without intention/awareness and precedence over semantic and instruction-driven influences.",
+    "Shows consumer relevance by linking this correspondence to marketing-message recall and observed purchase behavior in a supermarket field study."
+  ],
+  "context": "The paper studies audiovisual cross-modal effects in controlled visual displays and then tests them in two marketing contexts: a video commercial and an in-store supermarket shelf choice setting. The substantive outcomes are attention, recall of marketing information, and product choice.",
+  "design_and_data": "Study 1 (N=40 undergraduates) used eye tracking while participants viewed light/dark objects paired with high (1,800 Hz) or low (120 Hz) tones, with no task beyond viewing; an online replication (N=125) used funneled debriefing for awareness checks. Study 2 (N=62 undergraduates, 58 analyzed) used eye tracking with ice cream trucks and buses to compare synesthetic correspondence (frequency-lightness) with simultaneous semantic correspondence (song-vehicle meaning). Study 3 (N=47 undergraduates) used eye tracking with explicit instructions to focus on a target truck while tone-color correspondence was set to conflict with that instruction. Study 4 (N=133 undergraduates) measured recall of statements in light vs dark blocks within a commercial under high- vs low-frequency soundtrack, and Study 5 was a supermarket field study observing 80 banana buyers choosing from white vs black decorated shelves under alternating high- vs low-frequency music.",
+  "focal_constructs": [
+    "cross-modal correspondence",
+    "sound frequency",
+    "color lightness",
+    "visual attention",
+    "automaticity",
+    "semantic correspondence",
+    "message recall",
+    "purchase behavior"
+  ],
+  "main_findings": [
+    "High-frequency sounds increased fixation and faster first fixations toward light objects, while low-frequency sounds increased fixation and faster first fixations toward dark objects.",
+    "The frequency-lightness attentional effect appeared without explicit goals and reported awareness, operated alongside semantic correspondence, and still affected first fixations even when explicit instructions favored the opposite target.",
+    "In marketing tasks, congruent frequency-lightness pairing improved recall of commercial statements and shifted supermarket purchases toward shelf decor that matched the music frequency."
+  ],
+  "one_line_summary": "Across five studies, the paper shows that matching sound frequency with color lightness steers visual attention and produces downstream effects on ad-message recall and in-store choice.",
+  "relation_to_prior_work": "extends prior cross-modal correspondence research by moving beyond response-latency/discrimination paradigms to direct eye-tracking evidence on attentional orientation between sound frequency and color lightness. It also extends sensory marketing research by showing effects on communication recall and real supermarket purchasing.",
+  "research_gap": "Prior work documented a high-frequency/light and low-frequency/dark correspondence mainly in discrimination and response-speed tasks, but it was unresolved whether this effect is automatic or driven by top-down decisions. The paper also identifies limited evidence about whether this correspondence affects consumer outcomes in marketing environments.",
+  "research_question": "Does the synesthetic correspondence between sound frequency and color lightness direct visual attention toward congruent visual targets? If so, is this attentional shift automatic, and does it carry over to consumer outcomes such as marketing-message recall and in-store product choice?"
+}

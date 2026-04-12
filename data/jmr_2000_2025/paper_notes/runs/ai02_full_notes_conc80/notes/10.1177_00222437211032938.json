@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a general, flexible, and scalable probabilistic machine learning framework (the First-Impression Model) to solve the CRM cold start problem using information observed at customer acquisition.",
+    "It claims to be the first CRM approach to integrate acquisition-moment information in this way to infer both future transaction propensity and responsiveness to marketing actions for newly acquired customers.",
+    "It provides a practical data-augmentation approach using product embeddings from basket co-occurrence (word2vec) so firms can leverage existing transaction databases without relying on customer-provided or external data."
+  ],
+  "context": "The empirical application is an international beauty and cosmetics retailer selling through online and offline owned channels in six markets (United States, United Kingdom, Germany, France, Italy, Spain). The firm tracks registered customer transactions and marketing contacts, and the authors also use anonymous basket data to construct product embeddings.",
+  "design_and_data": "The authors develop a Bayesian probabilistic model that combines a demand model and an acquisition-characteristics model, linked by a two-layer deep exponential family with automatic relevance determination priors; estimation uses No-U-Turn Sampling in Stan. They validate the method in simulations with known data-generating processes (linear, interaction/quadratic, and positive-part relationships) by comparing recovery of out-of-sample individual demand parameters against linear HB, full hierarchical, and Bayesian PCA benchmarks. In the retailer application, they observe 13,473 registered customers (287,584 customer-period observations) and use anonymous transaction data to build product embeddings; for model estimation with marketing variables they use 8,985 customers split into training (5,000), validation (1,000), and test (2,985). They benchmark against linear HB, Bayesian PCA, latent-attrition model variants, random forest, and a feed-forward deep neural network.",
+  "focal_constructs": [
+    "cold start problem in CRM",
+    "customer heterogeneity",
+    "acquisition characteristics from first purchase",
+    "first-impression model",
+    "deep exponential families",
+    "product embeddings",
+    "marketing action sensitivity"
+  ],
+  "main_findings": [
+    "In simulations, the proposed model performs similarly to benchmarks when the true relationship is linear, but substantially outperforms them when relationships between acquisition characteristics and demand parameters are nonlinear or involve interactions.",
+    "In the retail data, the model outperforms probabilistic benchmark models in out-of-sample fit and prediction, and identifies high-value customers better than alternatives (about 40.1% correct in top 10% and 47.7% in top 20% vs random baselines of 10% and 20%).",
+    "The model uncovers heterogeneity in marketing responsiveness from first-purchase data, including nonlinear patterns (e.g., differences in email sensitivity by first-purchase discount status appear only among customers who also bought a recently introduced product)."
+  ],
+  "one_line_summary": "The paper introduces a deep probabilistic First-Impression Model that uses first-purchase acquisition data to infer newly acquired customers' future value and marketing responsiveness, addressing the CRM cold start problem.",
+  "relation_to_prior_work": "introduces a CRM modeling framework that differs from prior CLV/customer-base models focused on repeated histories or a few prespecified covariates by extracting high-dimensional, noisy acquisition signals with flexible nonlinear structure. It also broadens acquisition-related work by modeling not only future transaction propensity but also heterogeneity in response to marketing actions immediately after acquisition.",
+  "research_gap": "Existing CRM models infer heterogeneity mainly from repeated post-acquisition behavior, so they cannot differentiate newly acquired customers when only one purchase is observed. Prior approaches can include a small set of prespecified acquisition covariates, but are not designed to extract signal from high-dimensional, redundant, partially missing, and potentially nonlinear cold start data.",
+  "research_question": "How can a firm infer individual differences in future purchasing and marketing responsiveness for newly acquired customers when only first-transaction information is available? Can a flexible probabilistic machine learning framework that uses rich acquisition characteristics solve this CRM cold start problem better than existing alternatives?"
+}

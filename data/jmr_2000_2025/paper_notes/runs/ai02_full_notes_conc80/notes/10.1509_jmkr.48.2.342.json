@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Empirically quantify short-run and long-run shortage costs by linking stockout experiences and fill rates to purchase incidence, purchase amount, and retention.",
+    "Show how customer-level heterogeneity in stockout response can be used to prioritize fulfillment using transaction-history and basket-content information.",
+    "Demonstrate category-level differences in stockout impact and use simulations to evaluate contribution and customer-equity implications of alternative inventory rationing policies."
+  ],
+  "context": "The study is set at a startup online retailer of nonperishable grocery and drugstore items. Product availability was not shown on product pages, so customers learned about stockouts only at delivery, and about 25.4% of orders were imperfectly filled.",
+  "design_and_data": "The authors analyze all transactions from the retailer's first 14 months of operation. The estimation sample is 2,283 randomly selected customers with at least two purchases, and a 500-customer holdout sample is used for validation. They estimate a joint model of purchase incidence and purchase amount with latent classes, including aggregate and category-level stockout measures and interactions with lifecycle stage. They then run two-year simulation experiments to compare broad and targeted stockout-reduction policies on revenue, contribution, retention, and customer equity.",
+  "focal_constructs": [
+    "stockouts",
+    "order fill rate",
+    "purchase incidence",
+    "purchase amount",
+    "customer retention",
+    "customer equity",
+    "customer heterogeneity",
+    "inventory rationing"
+  ],
+  "main_findings": [
+    "For a major customer segment, a stockout on the previous order is associated with higher near-term reordering and spending, but cumulative stockouts reduce long-run retention, with stronger negative effects early in the customer lifecycle.",
+    "Stockout effects vary across segments and categories, and baby-category stockouts show especially strong negative long-run effects on both incidence and spending.",
+    "Simulation results indicate a nonlinear profitability relationship: eliminating stockouts is projected to increase one-year contribution by 12.5% and customer equity by 56.2%, while a 50% stockout reduction captures much of the gain (8.8% and 37.1%), and targeted prioritization (early, loyal, and baby-product customers) captures 73.5% of potential equity gains with a 47% stockout reduction."
+  ],
+  "one_line_summary": "Using customer-level transaction data from an online grocer, the paper estimates heterogeneous short- and long-run effects of stockouts and shows via simulations that targeted fulfillment improvements can capture most customer-equity gains without eliminating all stockouts.",
+  "relation_to_prior_work": "extends prior stockout and CRM research by jointly estimating short-run and long-run behavioral effects of stockouts with longitudinal customer-level data and explicit segment/category heterogeneity. It also transfers yield-management style inventory prioritization to online retail and evaluates outcomes in terms of customer equity, not only short-term revenue.",
+  "research_gap": "The paper argues that although shortage costs are central in inventory theory, there is limited empirical work quantifying how stockouts affect long-term consumer behavior. It also notes that yield management mostly focuses on short-term profit and does not directly address long-term customer value under heterogeneous stockout responses.",
+  "research_question": "How do stockouts and fulfillment rates affect customer purchase behavior in both the short run and the long run? Do these effects differ across customer segments and product categories, and how can those differences be used to design inventory fulfillment policies that improve contribution and customer equity?"
+}

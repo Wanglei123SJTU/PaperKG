@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper is presented as the first to examine permanent sales effects of promotions across a more complete set of brands in each category, including many small brands rather than only top brands.",
+    "The paper claims a systematic test of whether brand equity and new product introductions explain cross-brand differences in long-term promotional effectiveness.",
+    "The paper contributes evidence that both cumulative and permanent promotional outcomes are shaped by brand-level resources, and validates this for both elasticity and unit-effect outcomes."
+  ],
+  "context": "The empirical setting is fast-moving consumer goods sold through Dominick's Finer Foods in the Chicago area. The study covers seven categories (bottled juice, toothpaste, laundry detergent, cheese, soft drinks, paper towel, and toilet tissue) with 100 brands including private label and national brands of widely varying size.",
+  "design_and_data": "The authors use weekly scanner panel data from September 1989 to May 1997, aggregated to the brand level, and supplement firm variables with COMPUSTAT and company Web sites. They run a two-stage approach: first, unit-root/cointegration testing and brand-level VAR (or VECM when needed) models with sales, price, display, and feature for focal brand, private label, and a composite competitor; then generalized impulse response functions to derive cumulative and permanent promotional effects. Second, they regress these long-term effects on brand equity, new product introductions, their interaction, and controls using sequential hierarchical regression and weighted least squares. Brand equity is operationalized as the residual from a revenue-premium regression that controls for market share, price, promotional activity, and category effects.",
+  "focal_constructs": [
+    "brand equity (revenue premium residual)",
+    "new product introductions",
+    "long-term promotional effectiveness",
+    "cumulative sales elasticity",
+    "permanent sales elasticity",
+    "display promotion",
+    "feature advertising",
+    "price promotions"
+  ],
+  "main_findings": [
+    "Positive sales evolution is not rare in this broader brand set: 14% of brands show positive sales evolution, and this is concentrated among smaller brands.",
+    "Brands with higher brand equity have significantly higher cumulative and permanent long-term effects from display, feature, and price promotions.",
+    "Brands with more new product introductions have higher long-term promotional effects, and the negative equity x new product introductions interaction indicates stronger introduction-related gains for lower-equity brands."
+  ],
+  "one_line_summary": "Using seven years of weekly scanner data across 100 brands and persistence modeling, the study finds that long-term promotional effects are more common than previously reported and are strengthened by brand equity and product innovation, with innovation helping lower-equity brands most.",
+  "relation_to_prior_work": "extends prior persistence-modeling promotion research that focused mainly on top brands by analyzing nearly all brands in each category and explicitly modeling cross-brand heterogeneity. It also extends work on differential short-term returns to marketing by showing that brand equity and innovation jointly shape long-term cumulative and permanent promotional outcomes.",
+  "research_gap": "Prior long-term promotion studies largely analyze only the top few brands and therefore implicitly treat brand-level differences as unimportant, leaving cross-brand variation in permanent effects underexplored. The paper also argues that little is known about how brand equity and new product introductions affect long-term promotional effects.",
+  "research_question": "Do temporary promotions (display, feature, and price promotions) generate long-term cumulative and permanent sales effects across a broad set of brands, including small brands? How do brand equity and new product introductions, including their interaction, explain cross-brand differences in those long-term effects?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The study compares the expected payoff of six price-promotion classes (mass, targeted, personalized x competitive, loyalty) across online and brick-and-mortar stores.",
+    "It applies a joint model of purchase incidence, brand choice, and purchase quantity with latent segments, then derives profit-maximizing discounts for each promotion plan.",
+    "It provides decision support insights for retailers and manufacturers on promotion-program choice, budget allocation across channels, and pricing/compensation of customized promotion services."
+  ],
+  "context": "The empirical setting is grocery retailing, comparing an Internet grocery retailer with a cooperating brick-and-mortar retail chain in the same market and period. The analyses focus on two packaged-goods categories: stick butter and liquid detergent.",
+  "design_and_data": "The authors use matched household purchase data for online and offline channels from the same market and approximately the same late-1990s period, with separate analyses for stick butter and liquid detergent. They estimate a latent-class joint model of category incidence, brand choice, and purchase quantity, using 48 weeks for estimation and 40 weeks of holdout data for profit evaluation. They then numerically optimize price cuts for current practice, mass-market, segment-level, and individual-level plans under competitive versus loyalty orientations, across brands, categories, venues, and seven profit-margin scenarios (896 optimization runs). Reported sample sizes are roughly 100-130 households per category-channel cell (offline: 115 and 105; online: 129 and 108).",
+  "focal_constructs": [
+    "customized price promotions",
+    "promotion granularity",
+    "online versus brick-and-mortar channels",
+    "competitive promotions",
+    "loyalty promotions",
+    "purchase incidence, brand choice, and quantity",
+    "optimal price cut depth",
+    "expected gross profit"
+  ],
+  "main_findings": [
+    "Optimized promotion plans at mass, segment, and individual levels yield higher expected gross profit than current practice, while optimal discounts are much smaller than observed discounts.",
+    "The incremental value of finer customization is much larger online than offline, with meaningful online gains from segment and individual customization but small differences across aggregation levels in brick-and-mortar stores.",
+    "Loyalty-oriented promotions are more profitable online, whereas competitive promotions are more profitable offline."
+  ],
+  "one_line_summary": "Using matched online and brick-and-mortar grocery panel data, the paper estimates and optimizes mass, segment, and individual price promotions and finds that loyalty promotions perform better online, competitive promotions perform better offline, and individual-level customization is especially profitable online.",
+  "relation_to_prior_work": "extends Zhang and Krishnamurthi (2003) from an online-focused personalization analysis to a matched online-offline comparison with multiple customization levels. It also translates prior online-offline behavioral differences into optimal promotion and profit implications rather than describing behavior alone.",
+  "research_gap": "Prior studies documented online-offline differences in consumer behavior, but little was known about differences in the profit potential of promotion programs across the two venues and across customization levels. Existing online personalization work did not jointly compare online versus brick-and-mortar stores or mass, segment, and individual promotion designs in one framework.",
+  "research_question": "How does the profit potential of price promotions differ between online and brick-and-mortar stores? The paper asks which promotion granularity (mass-market, segment-level targeted, individual-level personalized) and which orientation (competitive versus loyalty) produce higher expected profit in each channel for retailers and manufacturers."
+}

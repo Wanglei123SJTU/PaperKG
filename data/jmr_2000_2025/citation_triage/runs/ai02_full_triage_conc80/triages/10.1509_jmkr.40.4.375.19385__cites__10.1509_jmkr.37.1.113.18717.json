@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper explicitly relies on state-space maximum-likelihood Kalman filtering in a dynamic advertising response model, while the cited paper’s core contribution is modified Kalman filter and related estimators for dynamic advertising models with measurement error. This strong method/domain overlap (dynamic advertising budgeting/estimation) makes the citation plausibly substantive rather than incidental, even though the raw match evidence only provides a DOI link.",
+  "triage_decision": "keep_for_relation_judgment"
+}

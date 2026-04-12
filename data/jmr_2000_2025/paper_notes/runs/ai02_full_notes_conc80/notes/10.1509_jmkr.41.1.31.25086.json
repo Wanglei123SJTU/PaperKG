@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops a winback-focused SLTV framework that jointly models customer reacquisition and second-tenure duration, rather than treating winback only conceptually.",
+    "Introduces and applies a split hazard model that links reacquisition and retention while handling censoring, time-varying prices, and customer heterogeneity.",
+    "Provides decision guidance on which lapsed customers to target and how to coordinate reacquisition and post-reacquisition pricing."
+  ],
+  "context": "The paper examines restart behavior in continuously provided services where demand is driven by relationship duration and customers can lapse and return. The empirical application is a newspaper subscription business in which customers can cancel without penalty and prices may change over time.",
+  "design_and_data": "The study uses a newspaper subscription database with 566 lapsed customers targeted for reacquisition; 416 were successfully reacquired during a two-year observation horizon. The authors estimate a split hazard model with a latent probit reacquisition component and a censored continuous-time duration component for second tenure. To accommodate price changes after restart, second tenure is partitioned into price-defined subspells (582 total subspells), and estimation is Bayesian via Markov chain Monte Carlo with variance components that allow correlated reacquisition and duration preferences.",
+  "focal_constructs": [
+    "customer winback",
+    "second lifetime value (SLTV)",
+    "reacquisition probability",
+    "second tenure duration",
+    "reacquisition price",
+    "retention price",
+    "lapse duration",
+    "price difference from last pre-lapse price"
+  ],
+  "main_findings": [
+    "Reacquisition is more likely when reacquisition price is lower, first tenure is longer, and lapse duration is shorter; reacquisition likelihood also falls as the reacquisition price rises relative to the last pre-lapse price.",
+    "Among reacquired customers, second tenure is longer at higher retention prices and with longer first tenure, while lapse duration does not have the hypothesized positive effect on second tenure.",
+    "Post-restart price responses are asymmetric: price decreases relative to the prior price significantly lengthen second tenure, but price increases are not significant; simulation indicates highest SLTV in this application comes from a low reacquisition price followed by higher retention prices."
+  ],
+  "one_line_summary": "Using newspaper subscription data and a split hazard model, the paper shows that firms should separate winback and retention pricing because low reacquisition prices and higher post-reacquisition prices can maximize second lifetime value.",
+  "relation_to_prior_work": "extends prior customer winback work by moving from conceptual regain frameworks to a statistical model that jointly estimates reacquisition and post-reacquisition duration. It also links CRM and pricing research by explicitly modeling both absolute prices and price differences relative to the prior relationship.",
+  "research_gap": "CRM research had emphasized retention, while empirical modeling of customer winback and SLTV was limited. Existing pricing research also provided limited guidance for winback because it typically did not model individual-level reacquisition and subsequent relationship duration jointly.",
+  "research_question": "How should firms price lapsed customers at the moment of reacquisition and after they return in order to maximize second lifetime value? The paper also asks how prior relationship characteristics, especially first tenure, lapse duration, and prior price, influence both the probability of reacquisition and the duration of the second tenure."
+}

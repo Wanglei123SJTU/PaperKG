@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a new IRT-based ERS measurement method that allows items to differ in discrimination and difficulty and allows these item properties to vary across groups such as countries.",
+    "It adapts testlet IRT modeling to ERS so correlated items from substantive multi-item scales can be used, relaxing the low-interitem-correlation requirement of traditional ERS measures and reducing the need for dedicated ERS scales.",
+    "It integrates the extended IRT measurement model with a structural multilevel model so latent ERS and its individual- and country-level antecedents are estimated simultaneously."
+  ],
+  "context": "The study is set in survey-based marketing research, especially cross-national comparisons using Likert-type scales where response styles can bias substantive inferences. The empirical application uses consumer survey data from 26 countries on four continents.",
+  "design_and_data": "The authors formulate a hierarchical Bayesian two-parameter normal-ogive IRT model for dichotomized extreme responses, augmented with person-specific testlet effects and country-varying item parameters. They estimate parameters with Gibbs-sampling MCMC and compare nested model variants using marginal log-likelihoods and Bayes factors. A simulation study (20 countries, 300 respondents per country, 50 items grouped into five testlets, with varying testlet dependence and DIF conditions) benchmarks the method against the traditional extreme-count ERS measure. The empirical study analyzes 12,506 consumers across 26 countries using 100 five-point Likert items (19 multi-item scales plus 2 single items), then links ERS to age, gender, education, and Hofstede cultural dimensions in a multilevel structural model.",
+  "focal_constructs": [
+    "extreme response style (ERS)",
+    "item response theory (IRT)",
+    "item discrimination and difficulty parameters",
+    "testlet effects",
+    "differential item functioning across countries",
+    "sociodemographic antecedents of ERS",
+    "national culture dimensions"
+  ],
+  "main_findings": [
+    "Simulation results show the proposed IRT model recovers latent ERS more accurately than the traditional sum-score ERS approach, especially when item dependence and differential item functioning are present.",
+    "In the multinational application, the model that includes both testlet effects and cross-nationally varying item parameters fits best, showing that items differ substantially in ERS measurement properties within and across countries.",
+    "Culture explains a large share of between-country ERS variance (about 59%): individualism, uncertainty avoidance, and masculinity are positively related to ERS, while power distance is not; women and both younger and older respondents show higher ERS, and education has no cross-nationally generalizable effect."
+  ],
+  "one_line_summary": "The paper develops and validates a hierarchical Bayesian IRT model for extreme response style that handles correlated items and cross-country item heterogeneity, and applies it to 12,506 consumers in 26 countries to estimate sociodemographic and cultural drivers of ERS.",
+  "relation_to_prior_work": "extends prior marketing ERS approaches based on simple extreme-response counts by modeling ERS as a latent trait with item-specific parameters, testlet dependence, and cross-country differential item functioning. It also extends multilevel IRT applications by jointly estimating this richer measurement model and a structural model of ERS antecedents.",
+  "research_gap": "Existing ERS procedures in marketing typically use simple counts of extreme answers, which assume equal item usefulness, do not account for substantive item correlations, and are weak for cross-national settings where item functioning can differ by country. The paper identifies the need for a method that handles these measurement issues while simultaneously modeling individual- and country-level drivers of ERS.",
+  "research_question": "How can extreme response style in marketing surveys be measured more validly than with traditional extreme-response counts, particularly when items are substantively correlated and item functioning differs across countries? Can an integrated multilevel IRT framework simultaneously estimate ERS and identify individual and national-cultural antecedents of ERS?"
+}

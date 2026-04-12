@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper is explicitly about recommendation for consumer collections (personalized bundle/category generation and recommendation), while the cited paper is a marketing recommendation-system study proposing a hierarchical Bayesian framework for Internet recommendations with heterogeneity modeling. This makes the cited work a plausible foundational or comparison reference in the recommendation-methods lineage rather than an obviously incidental mention. Given this substantive topical overlap and a confirmed DOI match, it should be kept for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

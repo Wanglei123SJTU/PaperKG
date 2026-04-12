@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s core estimation approach relies on heterogeneous demand modeling (three-support latent-class logit plus an empirical Bayes step), and the cited paper is a methodological comparison of hierarchical Bayes vs. finite mixture models for recovering heterogeneity and prediction performance. Even without local citation context, this is a plausible method-source/justification citation rather than an obviously incidental mention, so it should be reviewed in second-stage judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

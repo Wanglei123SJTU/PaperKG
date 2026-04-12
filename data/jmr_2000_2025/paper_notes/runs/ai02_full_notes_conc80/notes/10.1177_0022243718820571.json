@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a four-way brand name typology for logographic languages based on sound and meaning: alphanumeric, phonetic, phonosemantic, and semantic.",
+    "It quantifies the effect of brand name types on actual market demand using field sales data and a differentiated-products discrete-choice model.",
+    "It shows that the demand effect of brand name type is moderated by country of origin and market segment, and links these patterns to standardization versus adaptation in international branding."
+  ],
+  "context": "The study is set in China's automobile market, where firms must use Chinese brand names for business activities except certain alphanumeric cases. This market includes both domestic and foreign manufacturers and many first-time buyers, making vehicle model naming a salient decision.",
+  "design_and_data": "The authors use monthly new-vehicle sales data from R.L. Polk for China from January 2008 to December 2012 at the vintage-model level. They match English and Chinese model names using MIITC records and classify names into four types, with nonalphanumeric names coded by independent language experts. After exclusions, the sample has 270 vehicle models and 10,607 vintage-model-month observations. They estimate logit and nested-logit demand models with fixed effects and instrumental variables for price, within-class share, and brand-name-type variables.",
+  "focal_constructs": [
+    "brand name types",
+    "sound dimension of names",
+    "meaning dimension of names",
+    "consumer demand",
+    "country of origin",
+    "market segment (entry-level vs. high-end)",
+    "standardization versus adaptation"
+  ],
+  "main_findings": [
+    "Chinese consumers preferred semantic brand names on average: semantic-name models sold about 7.64% more than comparable alphanumeric-name models.",
+    "Chinese consumers least preferred phonosemantic names on average: phonosemantic-name models sold about 4.92% less than comparable alphanumeric-name models.",
+    "Brand name effects were heterogeneous: semantic names performed better for domestic and entry-level models, while foreign-sounding or alphanumeric names performed better for foreign and high-end models, and semantic names underperformed for foreign and high-end models."
+  ],
+  "one_line_summary": "Using 2008-2012 Chinese automobile sales data and a discrete-choice demand model, the paper finds that model name type in a logographic language significantly shifts demand, with semantic names outperforming and phonosemantic names underperforming on average.",
+  "relation_to_prior_work": "extends prior laboratory-based brand naming research by estimating market-level sales effects of all four logographic name types using observational choice data rather than intention measures. It also extends international branding work on standardization versus adaptation by mapping name types to that continuum and testing moderation by country of origin and segment.",
+  "research_gap": "Prior brand name studies were largely lab-based, often examined only one naming dimension, and relied on perceptions or intentions rather than realized purchases. The paper identifies a lack of field evidence in a logographic-language market on how different name types affect actual demand and how those effects vary across country of origin and product segment.",
+  "research_question": "How do four brand name types in a logographic language - alphanumeric, phonetic, phonosemantic, and semantic - affect consumer demand in China's automobile market? Do these demand effects differ by brand country of origin (domestic vs. foreign) and by market segment (entry-level vs. high-end)?"
+}

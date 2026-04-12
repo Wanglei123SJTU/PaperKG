@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces a contingency framework comparing one formal mechanism (minority equity participation) and one informal mechanism (prior tie selection) for governing NPD outsourcing.",
+    "Provides a normative test of NPD outsourcing governance by linking outsourcing announcements to shareholder value through stock market reactions.",
+    "Shows that the relative effectiveness of these governance mechanisms depends on technological uncertainty and cultural uncertainty."
+  ],
+  "context": "The study examines announced NPD outsourcing deals by publicly listed firms across 15 countries and 17 industries, with providers in both domestic and cross-border settings. The context is strategic NPD outsourcing where firms face varying technological turbulence and cultural distance.",
+  "design_and_data": "Using LexisNexis, SDC Platinum, and Factiva, the authors identify 159 NPD outsourcing announcements (1994-2008) and retain 100 stand-alone events after exclusions for nonlisted firms, missing stock data, and confounding news. Stock returns and market indexes come from CRSP and Datastream, and the paper applies an event study with a market model to compute abnormal returns; the most significant event window is [-1,+1]. The authors then run cross-sectional regressions of standardized CARs on governance choices, uncertainty measures, and their interactions, with controls and country/industry/year dummies, estimated via GEE. They also report endogeneity checks indicating governance endogeneity is not a significant issue.",
+  "focal_constructs": [
+    "NPD outsourcing",
+    "minority equity participation",
+    "prior tie selection",
+    "technological uncertainty",
+    "cultural uncertainty",
+    "shareholder value",
+    "cumulative abnormal returns"
+  ],
+  "main_findings": [
+    "NPD outsourcing announcements produce a positive average stock reaction (CAAR[-1,+1] = 0.45%), but firm-level effects are highly heterogeneous.",
+    "Minority equity participation is more favorably valued when technological uncertainty is high, while its performance benefit declines as cultural uncertainty rises (positive at low cultural uncertainty, not significant at high cultural uncertainty).",
+    "Prior tie selection improves performance when technological uncertainty is low but hurts performance when technological uncertainty is high; under cultural uncertainty, its effect becomes more favorable and is significantly positive only at very high cultural uncertainty."
+  ],
+  "one_line_summary": "An event study of 100 NPD outsourcing announcements shows that market value effects depend on matching governance to uncertainty, with minority equity stakes helping under technological uncertainty and prior ties helping mainly when technological uncertainty is low and cultural uncertainty is very high.",
+  "relation_to_prior_work": "extends prior outsourcing and alliance governance research by moving from descriptive studies of governance choice to a performance-based test in strategic NPD outsourcing, and by identifying uncertainty-contingent differences between formal and informal governance.",
+  "research_gap": "Prior research has mostly described when firms choose governance mechanisms and has focused more on peripheral outsourcing contexts, with limited work on minority equity participation. The paper identifies a lack of normative evidence on the performance consequences of minority equity participation versus prior tie selection under technological and cultural uncertainty, alongside conflicting descriptive findings.",
+  "research_question": "How does the stock market value firms' decisions to outsource new product development? Specifically, when does taking a minority equity stake in the outsourcing provider versus selecting a provider with a prior NPD outsourcing tie lead to better performance under technological and cultural uncertainty?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper bridges the identity/role and mental accounting literatures by proposing that role integration increases the fungibility of funds allocated to different role-related purposes.",
+    "It shows this effect across both role-level budgeting and purchase-specific earmarking, using both measured chronic role integration and experimentally induced transient role integration.",
+    "It identifies ease of justification as the psychological mechanism and demonstrates a boundary condition: when the original earmarked goal can be met via alternative means, the role-integration effect attenuates."
+  ],
+  "context": "The research examines consumer spending decisions across life roles, initially focusing on work-life versus home-life and later using participant-selected roles. Evidence includes hypothetical purchase contexts and an incentive-compatible choice setting involving student and musician roles.",
+  "design_and_data": "The paper reports two pilot studies and five main studies. Pilot evidence includes a CloudResearch survey (N=98 usable) on role-linked earmarked purchases and six in-depth interviews with community band members. Study 1 (MTurk, N=201) measures chronic role integration and tests within-budget versus cross-budget purchase likelihood; Studies 2 (MTurk, N=201), 3 (MTurk, N=119), and 4 (MTurk, N=282; preregistered 2x2 design) manipulate role integration and test cross-role use of budgeted or earmarked funds, with mediation/moderated mediation analyses. Study 5 (Prolific, N=152; preregistered) uses an incentive-compatible raffle allocation task with prescreened student-musician participants and measures role integration after the key choice.",
+  "focal_constructs": [
+    "role integration",
+    "role segmentation",
+    "mental accounting",
+    "fungibility of mentally accounted funds",
+    "mental budgeting",
+    "earmarking",
+    "ease of justification",
+    "cross-role spending"
+  ],
+  "main_findings": [
+    "Participants with integrated (vs. segmented) roles were more likely to make cross-role purchases using funds allocated to another role, while role integration did not matter for within-role spending in Study 1.",
+    "Manipulating role integration replicated the effect, and ease of justification mediated the impact of role integration on cross-role purchase likelihood in Studies 2 and 3.",
+    "When alternative means made the original earmarked goal easier to fulfill, the role-integration effect on cross-role spending was attenuated (Study 4), and the core effect replicated with incentive-compatible trade-offs in Study 5."
+  ],
+  "one_line_summary": "Across five experiments, greater integration between life roles increased cross-role use of budgeted or earmarked funds because such spending felt more justifiable.",
+  "relation_to_prior_work": "extends mental accounting research that has emphasized account/expense framing by adding role integration as an individual-level moderator of non-fungibility. It also connects boundary theory in the role literature to consumer resource allocation and justification processes.",
+  "research_gap": "Prior work had not directly examined how role structure in the self-concept affects mental accounting, and the interaction between identity/role theory and mental accounting was largely untested. In particular, evidence on individual-difference moderators of mentally accounted fund fungibility was limited.",
+  "research_question": "Does the extent to which two life roles are integrated versus segmented change how fungible mentally accounted funds are across those roles? The paper also asks whether any such effect occurs because cross-role spending is perceived as more justifiable."
+}

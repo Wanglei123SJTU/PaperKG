@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces a two-dimensional view of employee-based brand equity by distinguishing vertical and horizontal brand differentiation and showing opposite pay effects.",
+    "It integrates employee differentiation and employee-brand complementarity into the framework and documents how bargaining-power-related firm strategies and investments moderate the brand-pay relationship.",
+    "It challenges the view that brand-enabled lower pay necessarily improves profitability by showing a false-economy effect for vertical differentiation and a positive profit pathway for horizontal differentiation via employee behaviors."
+  ],
+  "context": "The archival analysis focuses on U.S. publicly traded firms that applied to Fortune's 100 Best Companies to Work For list, matched with Brand Asset Valuator and Compustat data. The setting is the firm labor market across industries, complemented by experiments with consumers, HR managers, and student job candidates.",
+  "design_and_data": "Using a multimethod design, the authors analyze archival panel data and five experiments. The archival sample is an unbalanced panel of 526 firm-year observations from 183 public firms (2006-2017) created by intersecting BAV brand data, Great Place to Work/Fortune application data, and Compustat. Vertical and horizontal brand differentiation are measured from BAV items; pay, retention, and HR practices come from GPWI surveys, productivity is constructed via DEA, and profits are log EBITDA at t+1. The authors estimate serial and moderated mediation models with bootstrapping, include industry/year controls, and apply Heckman selection and control-function corrections for endogeneity.",
+  "focal_constructs": [
+    "vertical brand differentiation",
+    "horizontal brand differentiation",
+    "employee differentiation",
+    "employee-brand matching",
+    "brand-relevant complementarities",
+    "bargaining power",
+    "employee productivity",
+    "employee retention"
+  ],
+  "main_findings": [
+    "Vertical brand differentiation is associated with lower pay, whereas horizontal brand differentiation is associated with higher pay.",
+    "Firms high in horizontal brand differentiation pay more for employees with matched horizontal characteristics, while vertically differentiated firms do not show systematic vertical assortative matching in pay.",
+    "Leveraging vertical brand differentiation to lower pay attenuates profits through lower employee productivity and retention, whereas paying more at horizontally differentiated firms increases profits through higher productivity and retention."
+  ],
+  "one_line_summary": "Using U.S. firm archival data and five experiments, the paper shows that vertical brand differentiation lowers pay while horizontal differentiation raises pay via employee-brand matching, and these pay differences reduce or increase profits through productivity and retention.",
+  "relation_to_prior_work": "challenges prior employee-based brand equity research that primarily linked strong brands to lower pay by showing opposite labor-market effects for vertical versus horizontal brand differentiation. It extends human capital and matching perspectives by incorporating employee-brand complementarities and bargaining-power moderators across labor availability, identification, attraction, and development.",
+  "research_gap": "Employee-based brand equity research had largely documented one labor-market outcome - employees accepting lower pay at strong or prestigious brands - and had not separated vertical from horizontal brand differentiation. It also offered limited evidence on employee-brand matching and on whether brand-related pay differences ultimately help or hurt profits via employee behavior.",
+  "research_question": "How do vertical and horizontal brand differentiation shape employee pay in labor markets, and how does employee-brand matching alter these effects? The paper also asks whether brand-driven pay differences affect profits through employee productivity and retention, and whether firm strategies and investments that shift bargaining power moderate these links."
+}

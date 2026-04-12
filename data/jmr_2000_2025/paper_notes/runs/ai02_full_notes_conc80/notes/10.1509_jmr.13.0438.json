@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a \"framing-the-game\" effect: making asymmetric competition (small brand vs large brand) salient can increase support for the small brand and reduce support for the large brand.",
+    "It identifies competitive salience (especially geographic proximity) as a boundary condition, showing that the effect weakens when competition is less salient.",
+    "It introduces purchase activism as a mediating process and develops a five-item purchase activism consumption scale with reported reliability and validity evidence."
+  ],
+  "context": "The studies examine consumer choices and evaluations in U.S. marketplace settings where small local brands face large national brands, including bookstores, chocolate, coffee shops, airlines, and tire stores. Evidence includes both controlled experiments and field/archival data, including Yelp reviews.",
+  "design_and_data": "The paper reports six studies (lab and field). Study 1a is a field experiment in a local bookstore (N = 163) with randomized competitive framing and observed real purchases (purchase incidence, items, and spending); Study 1b is a lab real-choice chocolate task (N = 44). Study 2a is a lab experiment (N = 63) manipulating proximal vs distal competition between Starbucks and an independent shop, and Study 2b analyzes Yelp data for Peet's Coffee & Tea (10,445 reviews across 201 locations) using Starbucks mentions as a salience proxy. Study 3 is an MTurk experiment (N = 135) comparing competitive-salience framing with a price/quality/safety parity strategy in airlines, and Study 4 is an MTurk experiment (N = 201) in tire-shop scenarios testing mediation with a purchase activism scale.",
+  "focal_constructs": [
+    "framing-the-game effect",
+    "competitive framing",
+    "small vs large brand competition",
+    "competitive salience (proximity vs distance)",
+    "purchase activism",
+    "buycotting and boycotting",
+    "underdog support",
+    "purchase interest and brand evaluations"
+  ],
+  "main_findings": [
+    "Framing a small brand as competing with a large brand increased support for the small brand in real and stated choices, including higher purchase incidence and greater purchasing in the bookstore field study, relative to small-competitor or control framings.",
+    "When a large brand was framed against a small brand, support for the large brand decreased relative to same-size competitive contexts; this pattern appeared across multiple experiments.",
+    "The effect depended on competitive salience: proximal competition (e.g., across the street) strengthened the pattern, and higher Starbucks salience in Yelp text was positively associated with Peet's ratings; purchase activism mediated these competitive-framing effects (with identification also mediating for the small-brand case)."
+  ],
+  "one_line_summary": "Across six studies, the paper shows that making a small brand's competition with a large nearby rival salient can raise support for the small brand and lower support for the large brand via purchase activism.",
+  "relation_to_prior_work": "extends underdog and comparative advertising research by showing that simply highlighting competitive asymmetry and proximity can shift preferences even without superiority claims by the smaller brand. It also extends consumer-brand relationship work by modeling brand evaluation within a competitive web rather than only a dyadic consumer-brand relationship, and adds purchase activism as a mechanism alongside identification.",
+  "research_gap": "Prior research emphasized large competitors' structural advantages, comparative advertising effects tied to attribute claims, or underdog biographies viewed in isolation. The paper argues that less is known about whether and when merely making small-vs-large competition salient changes consumer support for both brands, and through what purchase-situation mechanism.",
+  "research_question": "Can smaller brands benefit by explicitly framing themselves as competing against large dominant rivals, rather than hiding that threat? Under what conditions does this framing help or hurt small and large brands, and is the effect driven by consumers' motivation to express views and influence the marketplace through their purchases?"
+}

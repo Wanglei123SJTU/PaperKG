@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces the space-to-product ratio effect: allocating more interstitial space to a fixed assortment improves consumer responses.",
+    "Identifies two distinct mechanisms, with higher space increasing perceived product aesthetics and perceived store prestige, and shows these mechanisms differ in processing demands.",
+    "Shows practical and theoretical relevance by documenting effects on field sales, purchase intentions, valuation, and perceived consumption experience (taste) across multiple categories and settings."
+  ],
+  "context": "The paper studies physical product displays in retail-like environments, including a real jewelry stand and a real chocolate sampling stand, plus controlled display images in lab-style experiments. Settings span jewelry, personal care products, earrings, and chocolates, with both hedonic and utilitarian items and varying brand familiarity.",
+  "design_and_data": "The evidence comes from four studies combining field and laboratory-style experiments. Study 1 is a field experiment at a Lexi Jewelry stand over two days, holding 173 items and arrangement constant while doubling table size; it tracks visitors and purchases (197 visitors) and collects exit surveys (n = 86). Study 2 is a 2 x 2 x 2 between-subjects online experiment with 512 MTurk participants manipulating space-to-product ratio, cognitive load, and product type (hedonic vs utilitarian), with measures of fair price, purchase likelihood, perceived aesthetics, and store prestige. Study 3 is a 2 x 3 between-subjects experiment with 401 undergraduates manipulating space and brand context (Tiffany & Co., Forever 21, no brand), measuring fair price, willingness to pay, purchase likelihood, and the proposed mediators; Study 4 is a field chocolate taste test (8 hours, space condition alternated every 2 hours) with 166 participants from 458 approaches, measuring taste and mediators.",
+  "focal_constructs": [
+    "space-to-product ratio",
+    "interstitial display space",
+    "product aesthetic appeal",
+    "store prestige perceptions",
+    "product valuation",
+    "purchase likelihood",
+    "cognitive load",
+    "brand cues"
+  ],
+  "main_findings": [
+    "Increasing interstitial space while holding assortment and organization constant increased product evaluations, purchase likelihood, and per-visitor spending in the field jewelry setting.",
+    "Across controlled studies, the effect of space on valuation and purchase was mediated by perceived product aesthetics and perceived store prestige; under high cognitive load and with strong brand cues, the store-prestige pathway weakened while the aesthetics pathway persisted.",
+    "In a field chocolate test, higher space-to-product ratio increased perceived taste, and this effect was mediated by perceived product aesthetics and perceived store prestige; multiple alternatives (e.g., scarcity, popularity, messiness, search difficulty) were not supported."
+  ],
+  "one_line_summary": "Across field and lab studies, increasing interstitial display space for a fixed assortment raises valuation, purchase behavior, and even perceived taste through higher perceived product aesthetics and store prestige.",
+  "relation_to_prior_work": "introduces a display-space effect that prior shelf-space and assortment work largely did not test because those studies typically varied item quantity, variety, or organization while keeping display space fixed. It also differs from white-space advertising research by examining in-store interstitial space around constant assortments and by documenting distinct prestige and aesthetics pathways.",
+  "research_gap": "Prior retail research had mainly examined quantity, variety, and organization effects under fixed display space, leaving unclear whether space around a constant set of products changes consumer judgments and behavior. White-space findings from artistic advertising were not directly applicable to in-store product displays, motivating a retail-specific test and mechanism account.",
+  "research_question": "Does increasing the space-to-product ratio in retail displays, while holding product assortment and organization constant, improve consumer valuation and choice outcomes? Through which mechanisms does this occur - perceived store prestige and/or perceived product aesthetics - and when does each pathway attenuate (e.g., under cognitive load or strong brand cues)?"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in the methods section as a concrete precedent for using causal forests in marketing and for interpreting heterogeneous treatment effects via follow-up parametric models. The authors explicitly state that they follow prior literature including Guo, Sriram, and Manchanda (2021) when specifying how they analyze CATE patterns, and they repeat this approach across studies in the paper. Although the citation is grouped with another paper, it supports a specific analytical choice rather than serving only as general background.",
+  "relation_description": "The citing paper applies an empirical strategy associated with Guo et al. (2021)-causal-forest-based heterogeneity estimation and subsequent covariate-based probing of CATEs-in a different domain (predictive sales analytics). It uses the cited work as a methodological template in a new context rather than extending its substantive disclosure theory.",
+  "relation_type": "applies"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used for more than a passing background mention. In the methods section, the authors explicitly use Bijmolt et al. (2005) to justify modeling price endogeneity as a key issue in estimating price response. In the results section, they compare their estimated own-price and promotional elasticities to the meta-analytic benchmarks from that paper. This is a meaningful empirical framing/benchmark role, though not a direct extension of the cited paper's framework.",
+  "relation_description": "The citing paper uses the cited meta-analysis as empirical support that price endogeneity materially affects elasticity estimates and therefore should be modeled. It also benchmarks its own elasticity magnitudes against the cited paper's generalizations when interpreting results.",
+  "relation_type": "other"
+}

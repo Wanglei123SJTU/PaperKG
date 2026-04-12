@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the modeling framework section, the citing paper uses Zhang et al. (2009) to justify a specific Bayesian mediation procedure: computing indirect effects as functions of model parameters and evaluating them over posterior draws. The citation supports how they quantify uncertainty and test mediation effects, not just broad background context. This is a clear methodological use with direct implications for the paper's inference strategy, even though the substantive application domain is different.",
+  "relation_description": "The citing paper applies the Bayesian mediation logic associated with Zhang et al. (2009), especially posterior-draw-based estimation and inference for indirect effects. It transfers this methodological approach to shelf-layout and categorization-congruency studies within its own broader Bayesian framework.",
+  "relation_type": "applies"
+}

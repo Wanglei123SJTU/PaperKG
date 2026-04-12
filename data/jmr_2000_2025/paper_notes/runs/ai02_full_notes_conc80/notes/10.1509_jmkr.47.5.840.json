@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The study provides a comprehensive meta-analysis of personal selling elasticity using 506 estimates from 88 empirical data sets across 75 papers.",
+    "It identifies how market-setting factors and research-methodology choices systematically shift reported personal selling elasticities, including methodology-induced biases.",
+    "It offers a method bias-corrected benchmark current-period personal selling elasticity of about 0.31 for use by managers and researchers."
+  ],
+  "context": "The paper studies proactive personal selling settings in which sales representatives visit potential buyers, spanning pharmaceuticals, military recruiting, and other business-to-business selling contexts. The evidence covers mostly U.S. and European studies over roughly four decades, with most observations from pharmaceuticals and defense recruiting.",
+  "design_and_data": "The authors compile a database from published and unpublished sources and retain elasticity estimates that meet six inclusion criteria, including objective ratio-scaled input and output measures and econometric estimation from actual data. The final sample contains 506 current-period elasticity estimates from 88 distinct data sets in 75 papers. Independent variables describing market settings and study methods are coded by two independent judges (over 90% agreement, with a third judge resolving disagreements). The analysis uses a hierarchical linear model (SAS PROC MIXED) to account for measurements nested within data sets and to estimate determinants of elasticity variation.",
+  "focal_constructs": [
+    "personal selling elasticity",
+    "current-period sales response",
+    "carryover effects",
+    "product life-cycle stage",
+    "geographic setting",
+    "endogeneity in sales response",
+    "marketing-mix interaction effects",
+    "methodology-induced bias"
+  ],
+  "main_findings": [
+    "The raw mean current-period personal selling elasticity is 0.34, and the method bias-corrected mean is approximately 0.31.",
+    "Elasticity estimates are higher for early life-cycle offerings, higher in Europe than in the United States, and lower in more recent years.",
+    "Elasticity estimates are significantly affected by modeling choices, including output measure type, lag structures, marketing interaction terms, endogeneity treatment, omission of promotions, and use of cross-sectional versus panel data."
+  ],
+  "one_line_summary": "This paper meta-analyzes 506 personal selling elasticity estimates to produce a benchmark elasticity and show how market context and modeling choices drive variation in reported effects.",
+  "relation_to_prior_work": "extends earlier, narrower work by moving beyond limited military-recruiting and pooled pharmaceutical-promotion meta-analyses to a dedicated, cross-study synthesis of personal selling elasticity with explicit controls for methodological heterogeneity.",
+  "research_gap": "Prior research had not provided a broad, high-quality empirical generalization of personal selling elasticity across econometric studies. Existing meta-analyses were either narrow (e.g., military recruiting only) or pooled unlike promotion instruments and elasticity types in ways that complicated interpretation.",
+  "research_question": "What is the generalized magnitude of current-period personal selling elasticity across prior econometric studies? Which market-setting characteristics and research-method characteristics systematically explain differences in reported elasticity estimates, and what benchmark remains after correcting for methodology-induced bias?"
+}

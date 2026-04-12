@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Demonstrates that self-focused attention is an antecedent of consumers' relative reliance on affective feelings in judgment and decision making.",
+    "Shows that self-focus increases the weight placed on affective feelings relative to cognitive reasoning, rather than merely increasing reliance on any internal input.",
+    "Identifies boundary conditions and consequences of this effect, including moderation by self-construal, dependence on hedonic versus utilitarian informativeness, and amplification of scope-insensitivity in valuations (including real donations)."
+  ],
+  "context": "The studies are set in consumer decision contexts including apartment choice, product evaluations (apartment, roommate, campus cafeteria, shampoo), travel-package valuation, and charitable giving. Participants were primarily university students in Singapore and China, with both lab tasks and a field donation setting.",
+  "design_and_data": "The paper reports five experiments that manipulate private self-focused attention using story-writing prompts, mirror presence, and self-referential appeal messages. Experiment 1 (N=173, SMU) crossed self-focus with instructed decision strategy (feeling-based vs reason-based) in an apartment choice and measured WTP; Experiment 2 (N=177, SMU) crossed self-focus with independent vs interdependent self-construal primes and measured preference for affectively vs cognitively superior options. Experiment 3 (N=265, NUS) used a mixed design across four product categories, varying attribute quality (hedonic vs utilitarian) and superiority (superior vs inferior), and measured product evaluations. Experiments 4 (N=153, NUS) and 5 (N=479, Fudan, real monetary donations) tested scope sensitivity in valuation; Experiment 4 also used thought coding and a mediation analysis with proportion of affective thoughts.",
+  "focal_constructs": [
+    "self-focused attention",
+    "reliance on affective feelings",
+    "cognitive reasoning",
+    "self-construal",
+    "hedonic versus utilitarian attributes",
+    "scope-insensitivity bias",
+    "willingness to pay",
+    "charitable donation"
+  ],
+  "main_findings": [
+    "Higher self-focus increased valuation when participants used a feeling-based strategy and decreased valuation when they used a reason-based strategy, indicating greater relative reliance on feelings.",
+    "The self-focus effect was moderated by self-construal and informativeness of feelings: it increased preference for affectively superior options under independent (not interdependent) self-construal, and affected evaluations for hedonic but not utilitarian attribute descriptions.",
+    "Higher self-focus amplified scope-insensitivity in valuations, producing weaker sensitivity to quantity/scope in both hypothetical tour-package WTP and real charitable donations."
+  ],
+  "one_line_summary": "Across five experiments, the paper finds that increasing self-focused attention shifts consumers toward feeling-based judgment, with predictable moderators and valuation consequences including scope-insensitivity.",
+  "relation_to_prior_work": "extends prior work on self-focused attention in marketing by moving beyond social and cognitive processing outcomes to affective decision style, and connects this stream to affect-based decision research by showing stronger feeling reliance and scope-insensitivity under higher self-focus.",
+  "research_gap": "Prior research had established effects of self-focused attention on social and cognitive processing in consumption, but had not directly tested its impact on consumers' relative reliance on affective feelings versus reasoning in decision making. The paper addresses this missing link and its boundary conditions.",
+  "research_question": "Does contextually induced private self-focused attention increase consumers' relative reliance on affective feelings rather than cognitive reasoning when making judgments and decisions? When does this effect emerge, particularly across self-construals and across judgments where feelings are more versus less informative (hedonic vs utilitarian)? Does increased self-focus also produce downstream valuation patterns associated with affect-based processing, such as scope insensitivity?"
+}

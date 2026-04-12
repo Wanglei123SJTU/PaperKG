@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is invoked when the authors decompose condition x BAS interactions and identify Johnson-Neyman regions of significance in Experiments 3a and 3b. This is a direct methodological use, not a generic background mention, and it informs how key moderation findings are interpreted. The citation therefore has a meaningful functional role in the analysis workflow of the citing paper.",
+  "relation_description": "The citing paper applies Spiller et al. (2013)'s interaction-probing guidance to interpret its moderated regression results. Specifically, it uses the Johnson-Neyman/simple-effects approach from that work to determine where the promotion effect is significant across BAS values.",
+  "relation_type": "applies"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper explicitly invokes Petrin and Train (2010) as the methodological basis for handling endogeneity from omitted variables. In the model section, the authors state they use the control function approach and then implement residual-based control-function corrections in their main equations via a two-step procedure. This is a functional methodological dependency in the empirical identification strategy, not a generic literature-list citation.",
+  "relation_description": "The citing study applies Petrin and Train's control function approach to correct endogeneity in its system of short-interest and abnormal-return equations. It uses auxiliary regressions to construct control terms and includes them in the focal equations as part of its estimation strategy.",
+  "relation_type": "applies"
+}

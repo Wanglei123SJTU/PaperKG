@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides a first empirical assessment of whether consumer genetics is a viable tool for improving prediction tasks relevant to segmentation, targeting, and personalization.",
+    "Quantifies how much variance in taste preferences is recoverable from currently available commercial SNP data via SNP heritability estimates.",
+    "Shows when genetic data add most value over existing data sources: especially when preferences are weakly revealed behaviorally or before behavioral histories are available."
+  ],
+  "context": "The empirical setting is food and beverage preference prediction in the United Kingdom, motivated by personalization, segmentation, and targeting in nutrition and health-related markets. The analysis uses UK Biobank participants and seven taste dimensions: bitter, fatty, salty, savory, sour, spicy, and sweet.",
+  "design_and_data": "Data come from UK Biobank adults ages 40-69; the initial sample is 182,212 participants who completed a food liking survey, with analysis samples ranging from about 149,692 to 169,077 after missing-data exclusions. Participants rated 141 foods and beverages on a 9-point liking scale; items were mapped to seven taste dimensions using separate U.K.-based Prolific surveys (N=200 per dimension), and first principal components were used as taste preference scores. Genotypes include 1,457,897 HapMap3 SNPs; the authors ran seven GWASs with BOLT-LMM in a discovery sample (about 143k) and built PGSs with PRS-CS, then evaluated out-of-sample prediction in a holdout split into prediction (18,034) and test (4,000) samples. They compared genetic models with LASSO baselines using demographics, behavioral variables, and dietary intake, and estimated large-sample genetic gains via SNP heritability of model residuals.",
+  "focal_constructs": [
+    "food taste preferences",
+    "genetic variation (SNPs)",
+    "polygenic scores (PGS)",
+    "SNP heritability (h2_SNP)",
+    "out-of-sample predictive accuracy (R2)",
+    "demographic variables",
+    "behavioral variables",
+    "dietary intake and past consumption"
+  ],
+  "main_findings": [
+    "Estimated SNP heritability for the seven taste dimensions is about 10.6% to 12.5%, indicating substantial predictability from SNP data with very large training samples.",
+    "With the authors' GWAS sample size (about 150,000), adding PGSs significantly improved out-of-sample prediction versus non-genetic baselines for all taste dimensions, except sweet when dietary intake variables were already included.",
+    "Estimated gains from large-scale GWAS-trained PGSs are much larger for tastes less common in the U.K. diet (salty, bitter, spicy, sour, with reported relative improvements up to 233%) and minimal to moderate for more common tastes (fatty, savory, sweet)."
+  ],
+  "one_line_summary": "In a large UK Biobank study of seven taste dimensions, genetic data added predictive power for food taste preferences beyond standard consumer data, with the largest gains for uncommon tastes.",
+  "relation_to_prior_work": "extends prior genetic studies of food liking and intake by directly testing the incremental out-of-sample predictive value of genetic data relative to demographics, lifestyle measures, and past consumption in a marketing prediction context.",
+  "research_gap": "Although firms and governments now hold large genomic datasets and behavioral genetics suggests taste is heritable, there has been little empirical evidence in marketing on the practical predictive value of genetic data. Prior food-genetics work had not established whether, when, and by how much genetic data improve prediction beyond commonly available variables like demographics and consumption history.",
+  "research_question": "How informative are commercially available SNP-based genetic data for predicting individual differences in food taste preferences? Do genetic predictors provide meaningful incremental out-of-sample accuracy beyond demographics, behavioral measures, and past dietary intake, and under what conditions is this added value greatest?"
+}

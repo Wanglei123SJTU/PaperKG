@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the citing paper, Bronnenberg et al. (2000) is used in the methodological positioning of prior work on time-varying market response. The authors explicitly place it in the class of parameter-path models that use moving windows, then argue this approach has estimation and interpretation drawbacks. Their proposed dynamic linear model is presented as a way to address those limitations (e.g., efficiency, nonstationarity, missing data, and evolving parameters). This is more than a passing mention because it helps motivate the core modeling contribution.",
+  "relation_description": "The citing paper refines the modeling approach represented by Bronnenberg et al. (2000) by replacing moving-window style dynamic estimation with a more general Bayesian DLM framework. It keeps the dynamic market-structure focus but proposes an improved specification and estimation strategy.",
+  "relation_type": "refines"
+}

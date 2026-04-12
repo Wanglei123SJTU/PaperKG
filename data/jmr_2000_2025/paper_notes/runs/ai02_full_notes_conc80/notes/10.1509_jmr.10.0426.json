@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper claims to be the first to provide a broad firm-level framework linking service innovativeness, customer satisfaction, firm value, and firm risk.",
+    "It claims to be the first to distinguish and compare Internet-enabled and people-enabled service innovativeness in terms of determinants and consequences.",
+    "It claims to provide managerial guidance on the direct and indirect effects of e- and p-innovativeness on firm value and firm risk."
+  ],
+  "context": "The empirical setting is U.S. public firms across nine industries, including goods, services, and human-dominated sectors such as hospitality and courier services. The study examines service innovations introduced during 2000-2004 and links them to annual customer satisfaction and stock-market-based outcomes.",
+  "design_and_data": "The authors manually assembled a panel from LexisNexis, ACSI, CRSP, Compustat, and SDC Platinum. The sample includes 90 firms and 1,049 service innovations (767 e-innovations and 282 p-innovations) introduced from 2000 to 2004, with ACSI customer satisfaction observations for 2001-2005. Innovations were content-analyzed into e- and p-types, and coding reliability with independent judges averaged .90. They estimated a six-equation system using zero-inflated negative binomial models for innovativeness counts and weighted least squares seemingly unrelated regressions for customer satisfaction, Tobin's q, idiosyncratic risk, and systematic risk with fixed industry effects.",
+  "focal_constructs": [
+    "service innovativeness",
+    "e-innovativeness",
+    "p-innovativeness",
+    "customer satisfaction",
+    "firm value (Tobin's q)",
+    "idiosyncratic risk",
+    "systematic risk",
+    "human-dominated industry"
+  ],
+  "main_findings": [
+    "P-innovativeness in human-dominated industries positively affects firm-level customer satisfaction, while e-innovativeness has no significant effect on customer satisfaction.",
+    "E-innovativeness has a positive direct effect on firm value, whereas p-innovativeness has no significant direct effect and yields positive net value effects through customer satisfaction in human-dominated industries.",
+    "Both e- and p-innovativeness are positively associated with idiosyncratic risk, and customer satisfaction is negatively related to idiosyncratic risk and partially mediates the p-innovativeness-risk relationship in human-dominated industries."
+  ],
+  "one_line_summary": "Using a panel of 90 U.S. firms and 1,049 service innovations, the paper finds asymmetric effects of e- and p-innovativeness on customer satisfaction, firm value, and firm risk.",
+  "relation_to_prior_work": "extends prior innovation research centered on goods by modeling service innovativeness and its links to customer satisfaction, firm value, and risk at the firm level. extends service innovation work by separating Internet-enabled and people-enabled innovativeness and testing their asymmetric effects across industry contexts.",
+  "research_gap": "Prior research has focused mainly on goods innovation, leaving service innovativeness and its firm-level financial and risk consequences insufficiently understood. The paper identifies a lack of evidence on the determinants of service innovativeness, the links among innovativeness, customer satisfaction, firm value, and risk, and differences between e- and p-innovativeness.",
+  "research_question": "What are the effects of service innovativeness on customer satisfaction, firm value, and firm risk, and how are these outcomes interrelated? How do e- and p-innovativeness differ in these relationships, especially in human-dominated industries, and what factors determine each type of service innovativeness?"
+}

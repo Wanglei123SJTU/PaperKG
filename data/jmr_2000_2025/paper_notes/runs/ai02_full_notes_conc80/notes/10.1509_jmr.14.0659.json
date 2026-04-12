@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces the discriminability effect as a key mechanism for how attribute representation in conjoint analysis can bias inferred attribute importance.",
+    "Demonstrates that scale expansion alone, while holding attribute range and number of levels constant, systematically changes conjoint outputs such as relative importance and screening.",
+    "Identifies a curvilinear limit to scale expansion (diminishing sensitivity) and derives practical implications for conjoint design and policy-oriented information displays."
+  ],
+  "context": "The empirical settings are consumer choices among SUVs and nut-based snack bars. The manipulated attributes are fuel efficiency (expressed as gallons per varying mileage units) and calories framed as exercise time to burn calories (days, hours, minutes, seconds).",
+  "design_and_data": "The paper reports three choice-based conjoint experiments (12 total conditions) with more than 1,700 participants from a nationwide online panel (ResearchNow) and a large university. Study 1 uses SUV choices (780 respondents; 652 analyzed after excluding apparent scale misinterpretation cases), with five fuel-efficiency scale conditions and 12 choice sets of three alternatives. Study 2 uses snack-bar choices (609 respondents), four exercise-time scale conditions, nine choice sets, and additional acceptability ratings for attribute levels; Study 3 (313 students) repeats the snack-bar setting in an incentive-compatible design where one choice is implemented for a real snack bar. Analyses use hierarchical Bayes logit models, model-free screening metrics, and HB two-stage consider-then-choose models, plus self-reported perceived-difference measures as covariates.",
+  "focal_constructs": [
+    "conjoint analysis",
+    "discriminability effect",
+    "scale expansion and contraction",
+    "attribute relative importance",
+    "partworth utilities",
+    "screening propensity",
+    "perceived differences",
+    "curvilinear discriminability"
+  ],
+  "main_findings": [
+    "Expanding an attribute's numeric scale increased the inferred relative importance of that attribute in conjoint estimates, shifting choices toward options that perform better on the expanded attribute.",
+    "Perceived differences between attribute levels, inferred relative importance, and screening generally followed an inverted-U pattern across expansion levels, consistent with diminishing sensitivity at very large numbers.",
+    "Expanded scales increased screening out of options with the worst manipulated-attribute level; two-stage HB models and covariate analyses supported this pattern and linked it primarily to perceived-difference shifts."
+  ],
+  "one_line_summary": "Across three choice-based conjoint studies in SUVs and snack bars, arbitrary scale expansion changed perceived attribute differences, choices, inferred attribute importance, and screening in a curvilinear (inverted-U) manner.",
+  "relation_to_prior_work": "extends prior conjoint-design work on range and number-of-level biases and prior discriminability research outside conjoint by isolating pure scale expansion effects in choice-based conjoint tasks. It shows that discriminability-driven choice shifts propagate into standard conjoint inferences, including partworth-based importance and consider-then-choose screening outcomes.",
+  "research_gap": "Prior conjoint research documented effects of attribute range and number of levels, but had not clearly tested whether multiplying an attribute scale by a constant (with range and number of levels held constant) changes inferred importance. The paper also addresses the unresolved question of whether any such discriminability effect in conjoint is linear or has a curvilinear limit.",
+  "research_question": "Does expanding or contracting an attribute's numeric scale in conjoint tasks, without changing objective alternatives, attribute range, or number of levels, alter inferred attribute importance and screening behavior? If it does, do these effects follow a curvilinear pattern because discriminability increases and then diminishes at very large scale magnitudes?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and empirically estimates a descriptive two-stage model of firm product line decisions that combines a discrete direction choice (expand, maintain, contract) with a conditional magnitude choice (how many models to add or drop).",
+    "It shows that different factors influence the decision to change product line length versus the decision on the size of that change, and allows asymmetric effects for increases versus decreases.",
+    "It brings together multiple influences identified in prior literature (market opportunities, industry barriers, firm position, and strategic factors) within one empirical model for product line decisions."
+  ],
+  "context": "The empirical setting is the U.S. personal computer industry from 1981 to 1992, a period of rapid sales growth, entry, and technological change across CPU generations. Product proliferation was substantial, with marketwide models and average firm line lengths rising sharply over the period.",
+  "design_and_data": "The authors build annual firm-level data from International Data Corporation's Processor Installation Census for all firms selling personal computers in the United States during 1981-92. They estimate a first-stage ordered probit for the direction of line change (decrease, maintain, increase) using lagged covariates, then estimate separate log-linear OLS equations for the magnitude of increases and decreases conditional on the first-stage outcome. To address selection bias in the conditional magnitude equations, they include a correction term derived from the first-stage model. The CHANGE equation uses 1025 observations; the increase and decrease magnitude equations use 455 and 155 observations, respectively.",
+  "focal_constructs": [
+    "product line length change direction",
+    "magnitude of product line change",
+    "industry entry barriers",
+    "market opportunities",
+    "market share",
+    "relative price",
+    "relative product line length",
+    "product line concentration"
+  ],
+  "main_findings": [
+    "Firms are more likely to expand product lines when marketwide new product activity and industry concentration are lower, and when firms have higher market share, newer technology positions, and younger firm age.",
+    "Conditional on expanding, larger increases are associated with higher market share, higher relative price, shorter relative product lines, and less concentrated sales across models.",
+    "Determinants of direction and determinants of magnitude are not the same, and magnitude effects are asymmetric across expansions and contractions (for example, firms with long lines tend to make smaller increases but larger cuts when pruning)."
+  ],
+  "one_line_summary": "Using 1981-92 U.S. personal computer data, the paper estimates a two-stage model showing that what drives firms to change product line length differs from what drives how much they change it.",
+  "relation_to_prior_work": "extends prior empirical work that typically examined only one dimension of product line behavior by jointly modeling both the discrete change decision and the conditional magnitude decision. It also broadens evidence beyond brand-extension and consumer-variety studies by focusing on firm-level product line management decisions.",
+  "research_gap": "Empirical research on the determinants of firm product line decisions is limited. Prior studies generally examined only one dimension of the decision and did not jointly model the discrete choice of whether and in which direction to change the line and the continuous choice of how large that change should be.",
+  "research_question": "What factors determine whether a firm expands, maintains, or contracts its product line? Conditional on changing the line, what factors determine the magnitude of increase or decrease, and are these determinants different or asymmetric across expansion versus contraction decisions?"
+}

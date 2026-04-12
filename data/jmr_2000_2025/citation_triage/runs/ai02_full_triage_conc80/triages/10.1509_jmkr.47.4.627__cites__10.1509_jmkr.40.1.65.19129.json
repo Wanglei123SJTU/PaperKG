@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper explicitly examines prior beliefs and whether explicit training/debiasing reduces judgment bias, while the cited paper’s central contribution is that nonanalytic priors are “stickier” and often resist analytic correction. That direct overlap in constructs and debiasing claims suggests the citation could be a substantive theory/mechanism source rather than a generic background mention. Although the current evidence is only a single DOI match (reference_index 7) without in-text context, this pair is not safe to drop.",
+  "triage_decision": "keep_for_relation_judgment"
+}

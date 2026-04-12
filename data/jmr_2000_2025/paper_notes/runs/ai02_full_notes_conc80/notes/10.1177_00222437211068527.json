@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides model-free and structural evidence on how retailers learn pricing in a new market from inception, using the 2012 Washington liquor privatization.",
+    "Introduces an empirical strategy to characterize learning through time-varying relationships between prices and demand information without imposing a specific learning mechanism.",
+    "Shows that learning heterogeneity is tied to firm experience and information precision, highlighting dynamic capabilities as a source of short-run profit advantage."
+  ],
+  "context": "The study examines off-premises liquor retailing in Washington State after June 2012 privatization, when grocery, drug, and mass retailers newly began setting liquor prices. The analysis focuses on the whiskey category, where products are highly differentiated and substitution across liquor categories is limited.",
+  "design_and_data": "The authors use Nielsen RMS data for Washington (primarily 2012-2016), with comparisons to 15 other license states, and supplement with Washington and Oregon control-state posted prices and Nielsen Homescan panel data. After sample filters, the core Washington sample contains 4,985,621 UPC-retailer-store-week observations for 276 products across six retailers and 561 stores. They combine reduced-form tests of nonstationary price-quantity relationships with a random-coefficient logit demand model (BLP-style, with micro-moments) to recover demand primitives. Assuming firms are fully informed and statically profit maximizing in the final six months, they infer marginal costs and run counterfactual full-information pricing simulations to quantify early pricing mistakes and profit losses.",
+  "focal_constructs": [
+    "firm learning",
+    "pricing mistakes",
+    "demand fundamentals",
+    "full-information optimal pricing",
+    "Bayesian versus adaptive updating",
+    "prior experience",
+    "signal precision",
+    "heterogeneous firm capabilities"
+  ],
+  "main_findings": [
+    "In Washington, prices change substantially and heterogeneously in the first two years after privatization, then stabilize; compared with experienced states, only Washington shows strong early responses of prices to lagged sales shocks that fade over time.",
+    "Prices increasingly reflect demand fundamentals over time, and by the end of the sample observed pricing behavior is consistent with static profit maximization under recovered demand and cost conditions.",
+    "At entry, median prices are about 9 percent above full-information optimal levels and imply about 9.3 percent lower profit; retailers close about one-third of the profit gap within one quarter and another third over the next six quarters."
+  ],
+  "one_line_summary": "Using Washington liquor privatization as a natural experiment, the paper shows that retailers initially misprice under incomplete demand information but learn over time to set prices close to full-information static optima, with learning speed shaped by experience and information precision.",
+  "relation_to_prior_work": "extends recent firm-learning research by studying learning dynamics without imposing a specific learning model, and by documenting that firms learn a richer demand object (consumer taste segmentation) while exhibiting price-adjustment patterns broadly consistent with Bayesian updating.",
+  "research_gap": "Existing evidence provides limited direct observation of how firms adjust prices from market entry under incomplete information, and many studies impose a learning mechanism ex ante. The paper addresses this by tracking a market from inception with observable prices, outcomes, and strong cost proxies to characterize learning empirically.",
+  "research_question": "Do firms entering a new market learn to set profit-maximizing prices, and how does this learning unfold over time? What demand information do firms appear to learn, and how do prior experience and the precision of sales signals affect the magnitude of initial pricing mistakes and the speed of convergence to optimal pricing?"
+}

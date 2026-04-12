@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s core method is a hierarchical Bayesian multivariate probit with correlated utilities for multiple product adoption, and the cited paper specifically develops a hierarchical Bayes MCMC multivariate binomial/probit approach for multiple-response data with identification handling. This is a strong methodological overlap (not just topical proximity), and the DOI-level match confirms this exact source is referenced. Given the cited work could be a direct method foundation for the citing model, it should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

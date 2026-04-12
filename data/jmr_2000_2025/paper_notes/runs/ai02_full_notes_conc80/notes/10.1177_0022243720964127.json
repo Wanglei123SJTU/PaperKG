@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces flexible individual-level measurements of internal categorization (planogram and sorting tasks) and continuous congruency measures suitable for realistic 2D shelf layouts.",
+    "It presents a unifying Bayesian framework that uses the same posterior draws for parameter inference, moderated mediation analysis, and optimization under uncertainty.",
+    "It shows how to optimize external categorization for expected conversion while accounting for heterogeneity, and contrasts this with consumer decision tree-style fit optimization."
+  ],
+  "context": "The paper studies offline retail shelf layout design where many items in a category are displayed together and grouped (co-located) on shelves. Empirical contexts are yogurt snacks in online planogram-based shopping tasks and biscuits in an in-store supermarket field setting.",
+  "design_and_data": "The evidence comes from two online lab experiments and one supermarket field experiment. Lab Study 1 (N = 334) measured internal categorization with a participant planogram-design task, manipulated external categorization (brand vs type vs flavor) between subjects for 36 yogurt snacks, and measured perceived variety, perceived complexity, purchase intention, and choice satisfaction. Lab Study 2 (N = 665; 660 analyzed) measured internal categorization with a card-sorting task and used a 3 x 2 between-subjects design (brand/type/flavor grouping x horizontal/vertical grouping orientation) with the same yogurt set and outcomes. The field study (N = 120 shoppers) used a within-subject design in a biscuit category: each shopper completed sorting and then made free choices under three layouts (brand, price, type); models were estimated in a Bayesian framework (SUR and multivariate probit), with moderated mediation and a layout optimization exercise.",
+  "focal_constructs": [
+    "internal product categorization",
+    "external categorization",
+    "categorization congruency",
+    "perceived assortment variety",
+    "perceived shelf layout complexity",
+    "purchase intention",
+    "choice satisfaction",
+    "product familiarity"
+  ],
+  "main_findings": [
+    "Higher categorization congruency increased perceived variety and reduced perceived complexity, and these perceptions mediated a positive effect on purchase intention; in the lab studies, congruency also increased choice satisfaction.",
+    "The indirect pathway through perceived variety was generally larger than the pathway through complexity in the lab studies, while in the field study complexity had a stronger mediating role overall.",
+    "In the field study, familiarity (measured as consumption frequency or subjective knowledge) strengthened the overall congruency effect and especially the pathway through perceived variety, and the optimized layout outperformed the CDT-based layout and the best experimental layout in expected purchase probability (about +2.4 and +2.8 percentage points, respectively)."
+  ],
+  "one_line_summary": "Using two online lab studies and one supermarket field experiment, the paper shows that shelf layouts more congruent with consumers' internal categorizations improve purchase outcomes via higher perceived variety and lower perceived complexity and can be optimized to raise expected conversion.",
+  "relation_to_prior_work": "extends prior co-location and categorization-congruency research (especially Morales et al. 2005) by moving from attribute-order, binary, list-based operationalizations to richer individual-level internal categorization measures and continuous congruency in realistic 2D planograms, while adding complexity alongside variety as a distinct mediator and linking the framework to conversion-oriented optimization.",
+  "research_gap": "The authors state that retailer-oriented optimization of shelf layout, especially how to co-locate products, has received limited scrutiny. They also identify limitations in prior congruency research that relied on attribute-hierarchy assumptions, binary congruent/incongruent measures, and list-based displays, with less attention to heterogeneity and to optimization based on expected behavior.",
+  "research_question": "How does congruency between a consumer's internal product categorization and a shelf layout's external categorization affect purchase-related outcomes? Through which mechanisms, specifically perceived assortment variety and perceived layout complexity, and under what role of product familiarity do these effects operate? Can these estimated relationships be used to optimize a single external categorization that improves expected conversion?"
+}

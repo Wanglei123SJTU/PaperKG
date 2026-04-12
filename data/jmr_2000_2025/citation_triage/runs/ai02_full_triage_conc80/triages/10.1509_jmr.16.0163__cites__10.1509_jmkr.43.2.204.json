@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s stated research gap is that prior churn research focuses on predicting high-risk customers rather than testing intervention effectiveness, and the cited paper is a prominent churn-prediction study on lift accuracy and campaign economics in telecom. This makes the cited work a likely foundational/direct comparison source for the citing paper’s risk-vs-lift argument rather than an incidental mention. With a confirmed DOI match (10.1509/jmkr.43.2.204), this pair should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

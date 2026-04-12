@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used for more than a passing mention: it is specifically invoked to motivate cross-product spillovers and cannibalization in digital promotions, including the idea that effects vary with product overlap. The citing paper then builds these concerns into its episode-level model and optimization setup, explicitly modeling spillover/cannibalization among promoted and nonpromoted comics. This indicates a meaningful conceptual carryover from the cited study into the citing paper's framing and model design.",
+  "relation_description": "The citing paper extends Fong et al. (2019) from targeted e-book promotions to a different promotion mechanism (wait-for-free) in serialized digital comics. It carries forward the spillover/crowding-out logic and overlap-based interaction perspective, then broadens it to platform-level optimization of promoted content sets.",
+  "relation_type": "extends"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s stated contributions and prior-work linkage emphasize aggregate-to-SKU parameter recovery (Fader/Hardie; Ho/Chong; Bucklin/Gupta), and do not explicitly indicate substantive use of the cited paper’s dynamic pre/postpromotion-dip model. However, there is topical overlap in store-level scanner promotion modeling (price/feature/display context), and the matched evidence is only a DOI entry with no in-text context, so it is not safe to drop as clearly incidental.",
+  "triage_decision": "uncertain"
+}

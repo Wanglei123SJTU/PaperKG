@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops a dynamic response model for digital display ads that jointly captures creative format, message content, and targeting/retargeting effects over time.",
+    "Introduces a Bayesian estimation approach for sparse click data by combining a dynamic zero-inflated count state-space model with particle filtering and MCMC, while accounting for potential impression endogeneity.",
+    "Provides evidence of heterogeneous carry-over and interaction patterns across ad formats, themes, and target segments, with implications for media scheduling and impression allocation."
+  ],
+  "context": "The study is set in a digital display campaign run by a major U.S. retailer in home-related products and services through an ad network. Ads are served in Flash (animated) and GIF (static) formats, in three standard sizes, across retargeted and demographic target segments, with price, product, and blank control impressions.",
+  "design_and_data": "The data are daily impressions and clicks over 154 days, arranged as a panel of 24 time series (4 targets x 2 formats x 3 sizes). Impression themes vary by format: Flash includes price and product messages, while GIF includes price and control (blank) impressions used for non-U.S. traffic. The authors estimate a dynamic zero-inflated Poisson state-space model where latent goodwill evolves with carry-over, format, size, targeting, and message effects. Estimation uses particle filtering and MCMC, and a measurement equation with product-category variables and latent components to address possible endogeneity of impressions.",
+  "focal_constructs": [
+    "digital ad engagement (click counts)",
+    "creative format (animated Flash vs static GIF)",
+    "ad size and orientation",
+    "message content (price vs product)",
+    "targeting and retargeting segments",
+    "carry-over effects",
+    "zero-inflated count dynamics",
+    "impression endogeneity"
+  ],
+  "main_findings": [
+    "Animated Flash ads have significantly higher carry-over than static GIF ads across sizes and target segments, implying longer effect duration.",
+    "Within animated formats, price-themed ads are more effective than product-themed ads, and product-themed ads are ineffective for retargeted consumers.",
+    "Retargeted ads are effective only when they include price incentives, while static GIF price ads can still be effective for retargeted and female segments."
+  ],
+  "one_line_summary": "Using retailer campaign panel data and a Bayesian dynamic zero-inflated model, the paper shows that animation increases carry-over, price messaging outperforms product messaging, and retargeting works only when ads offer price incentives.",
+  "relation_to_prior_work": "extends prior advertising dynamics and creative-content models into digital display advertising by modeling click counts with zero inflation and nonlinear state dynamics. It refines digital ad-response work that has often been cross-sectional or assumed homogeneous carry-over by estimating carry-over heterogeneity across formats and target segments. It also aligns with prior retargeting evidence by finding effectiveness mainly when consumers receive price incentives.",
+  "research_gap": "The authors argue that digital ad research has been largely cross-sectional and has mostly ignored heterogeneous carry-over effects, limiting dynamic planning insights. They also identify limited evidence on the joint effects of format, message content, and targeting/retargeting in digital display settings.",
+  "research_question": "How do creative format, message content, and targeting/retargeting jointly affect digital ad engagement over time? Specifically, the paper asks how carry-over varies across animated versus static formats and across target segments, how size and message theme influence click behavior, and which format-message combinations are most effective for retargeting."
+}

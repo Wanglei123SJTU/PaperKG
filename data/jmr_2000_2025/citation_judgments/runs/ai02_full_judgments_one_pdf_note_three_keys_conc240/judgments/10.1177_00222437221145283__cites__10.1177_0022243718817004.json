@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used for a specific argumentative role in the related-literature framing: the citing authors reference Yang, Toubia, and De Jong (2018) to support the claim that lottery-style incentive alignment can lose effectiveness when realization probabilities are small. This evidence helps justify why the citing study pursues an alternative route (modeling latent budget constraints) for high-ticket conjoint settings where full incentive alignment is costly or impractical. Although the citation is brief and not method reuse, it is more than a generic mention because it underpins a key motivation for the paper's positioning.",
+  "relation_description": "The citing paper uses Yang et al. (2018) as supporting evidence that low-probability realization can dilute incentives in incentive-aligned choice experiments. This supports the citing paper's motivation to develop a budget-constraint modeling approach instead of relying on incentive alignment for high-ticket products.",
+  "relation_type": "other"
+}

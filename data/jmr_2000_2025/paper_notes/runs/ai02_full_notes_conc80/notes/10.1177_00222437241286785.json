@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "The paper demonstrates that ending effects can increase financial risk-taking even when outcomes are not immediately realized.",
+    "The paper shows that common, socially constructed end-of-period landmarks (e.g., end of work week, month, year) can shift risk-taking, not only the final gamble in a sequence.",
+    "The paper identifies optimism as a mechanism for end-of-period risk-taking and documents that, in this P2P setting, these shifts are associated with worse investment returns."
+  ],
+  "context": "The main field context is Prosper, a large U.S. peer-to-peer lending platform where individual lenders bid on unsecured personal loan listings. The paper studies risk-taking across calendar landmarks such as Fridays, month-end, year-end, and weekdays before long weekends.",
+  "design_and_data": "Study 1 uses archival Prosper data from November 9, 2005, to October 14, 2008, covering 5,278,367 bids from 21,873 lenders, and models chosen listing reserve interest rate as a risk proxy using lender fixed effects plus lender, borrower, platform, market, and time controls. The authors run multiple robustness checks, including alternative end-of-period definitions and tests of alternatives such as payday effects, reference dependence, herding, depletion, distraction, and prosociality accounts. Study 2 is an online lab experiment (N=351, MTurk) that manipulates day framing (Tuesday/typical weekday/Friday) and includes a best-possible-self optimism intervention to test effects on financial optimism beliefs. Study 3 is a preregistered online experiment (N=456, Prolific, conducted on Tuesday October 31) that manipulates end-of-period salience (Tuesday vs last day of month), measures risky allocation between safe and risky financial options, and tests mediation by optimism (with trait optimism as a covariate).",
+  "focal_constructs": [
+    "end-of-period temporal landmarks",
+    "financial risk-taking",
+    "optimistic belief in future financial performance",
+    "state-level optimism",
+    "mental accounting temporal bracketing",
+    "peer-to-peer lending investment choice"
+  ],
+  "main_findings": [
+    "In Prosper data, lenders choose riskier loans (higher reserve interest rate listings) on Fridays versus earlier weekdays, and similar increases appear on last day of month, last day of year, and weekdays that become the last workday before holidays.",
+    "Experimental end-of-period framing increases optimism that financial risks will pay off, and direct state-optimism induction (best possible self) similarly raises financial optimism measures.",
+    "End-of-period framing increases risky financial allocation in the lab, with optimism partially mediating this effect, and in the Prosper setting end-of-period bids have significantly lower average realized returns over time."
+  ],
+  "one_line_summary": "Using U.S. P2P lending data and two experiments, the paper shows that salient end-of-period landmarks increase optimism and financial risk-taking, and that these end-of-period investments perform worse in the focal market.",
+  "relation_to_prior_work": "extends prior ending-effect research from immediate-outcome betting tasks to delayed-outcome financial investments in a real market setting. extends temporal-landmark research beyond beginning-of-period fresh-start effects by documenting end-of-period effects on risk-taking and by testing optimism as an explanatory pathway.",
+  "research_gap": "Prior ending-effect studies largely examine final gambles in sessions where outcomes are immediately realized, so it is unclear whether the effect generalizes to common calendar endpoints and longer-horizon financial decisions. The paper also addresses limited evidence on the mechanism driving such broader end-of-period effects.",
+  "research_question": "Do socially ubiquitous end-of-period temporal landmarks (e.g., end of work week, month, and year) increase financial risk-taking when outcomes are delayed rather than immediate? If so, is the effect driven by increased optimism that financial risks will pay off?"
+}

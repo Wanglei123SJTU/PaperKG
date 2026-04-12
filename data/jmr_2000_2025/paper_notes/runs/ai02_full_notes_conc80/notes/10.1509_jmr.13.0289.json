@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Uses actual new product introductions as the innovation outcome to study the going-public effect, arguing this is a more valid measure than R&D spending or patents in this context.",
+    "Shows that IPO listing changes multiple innovation dimensions at once, including level, SKU variety, breakthrough content, and entry into new-to-the-firm categories.",
+    "Applies a quasi-experimental IPO design in the U.S. CPG sector with a long pre/post window and extensive endogeneity checks, and offers initial evidence on industry conditions that mitigate the decline in breakthrough innovation."
+  ],
+  "context": "The study is set in the U.S. consumer packaged goods sector, where firms introduce products into U.S. food, drug, and mass retail channels. The observation window is 1980-2011 and centers on firms that transition from private to public status via IPO.",
+  "design_and_data": "The authors combine archival sources including Datamonitor ProductLaunch Analytics, EDGAR and SDC Platinum, Compustat, ReferenceUSA, CRSP, Factiva, and IRI Marketing Factbook. The core sample contains 40,724 product introductions by 207 firms that go public (3,954 firm-year observations), plus a private benchmark sample of 158 firms with 18,160 introductions (3,433 firm-year observations). They estimate a difference-in-difference style setup with year effects and firm fixed effects for three outcomes (log innovation count, log SKU variety, log breakthrough count) and a probit model for whether a firm enters a new-to-the-firm category. They report robustness and endogeneity checks, including self-selection corrections, reverse-causality checks, and tests against IPO-window and firm-dynamics explanations.",
+  "focal_constructs": [
+    "stock market listing (IPO/public status)",
+    "innovation level",
+    "innovation variety (SKUs per innovation)",
+    "breakthrough innovation",
+    "innovation in new-to-the-firm categories",
+    "stock market incentives (short-term pressure and disclosure)",
+    "product-market incentives"
+  ],
+  "main_findings": [
+    "After going public, firms introduce more innovations, with an estimated increase of about 12% versus the private state/benchmark.",
+    "After going public, firms increase SKU variety per innovation but reduce innovation riskiness, evidenced by fewer breakthrough innovations and lower likelihood of entering new-to-the-firm categories.",
+    "The decline in breakthrough innovation is weaker in industries with stronger sales growth, stronger value-appropriation emphasis, and higher concentration."
+  ],
+  "one_line_summary": "Using U.S. CPG data from 1980-2011, the paper finds that IPO listing increases the amount and SKU variety of innovation but shifts firms away from riskier innovation types such as breakthroughs and category expansion.",
+  "relation_to_prior_work": "extends prior stock market and innovation research that mostly examines R&D or patents in already public firms by analyzing actual new product introductions around private-to-public transitions. It broadens evidence beyond technology-heavy settings by documenting the effect in consumer packaged goods over a long pre/post IPO horizon.",
+  "research_gap": "The paper argues that prior work had not established the net effect of going public on innovation because financing benefits and stock-market-induced constraints point in opposite directions. It also notes limited evidence on how IPO listing affects market-facing innovation outcomes, especially across different innovation risk dimensions.",
+  "research_question": "How does going public change a firm's innovation behavior once financing benefits are weighed against stock market disclosure requirements and short-term performance incentives? Specifically, does IPO listing increase innovation levels while reducing innovation riskiness, as reflected in breakthrough intensity and entry into new-to-the-firm categories?"
+}

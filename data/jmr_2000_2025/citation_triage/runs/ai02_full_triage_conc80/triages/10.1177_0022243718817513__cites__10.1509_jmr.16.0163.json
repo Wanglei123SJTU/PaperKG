@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is highly aligned with the citing paper’s core targeting question: both use randomized field experiments and heterogeneous treatment-effect/uplift-style modeling to show that common targeting rules can be suboptimal (or futile) relative to incremental-response targeting. The citing note explicitly emphasizes opportunity costs of optimizing the wrong objective, which closely matches the cited paper’s lift-vs-risk targeting argument and findings on wasted retention spend. Given this conceptual and methodological overlap, this is not an obvious incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

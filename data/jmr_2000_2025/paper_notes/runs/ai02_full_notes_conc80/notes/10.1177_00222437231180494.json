@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper directly compares \"good\" assurance nudges and \"bad\" pressure nudges in one large-scale randomized field experiment and evaluates both purchases and returns.",
+    "It provides a return-aware assessment of nudge performance by incorporating immediate, early, and late returns and by using return-adjusted purchase and net sales measures.",
+    "It extends justification effects to digital nudging by theorizing and testing how assurance cues can help consumers validate purchases and lower costly returns."
+  ],
+  "context": "The study is set in online fashion retailing during drop marketing promotions for limited-edition caps, T-shirts, and jackets at a large Asian retailer. Consumers entered from SNS ads and encountered assigned nudge messages on product detail pages before ordering.",
+  "design_and_data": "The authors ran a six-week randomized between-subject field experiment in 2020 with seven groups: one control and six treatments (quantity scarcity, time scarcity, social persuasion, choice assurance, fit-style assurance, fit-size assurance). Out of 7,605 consumers who clicked campaign links, 5,938 reached product detail pages and were exposed to treatment conditions, with roughly 850 consumers per condition. The data include click trajectories, search intensity, shopping duration, purchases, and product returns, and returns were classified as immediate, early, and late; 1,221 exposed consumers also completed a follow-up survey. Estimation primarily used random-effects logistic models in a hierarchical Bayesian framework, with additional analyses of retailer net sales and consumer return costs.",
+  "focal_constructs": [
+    "pressure-based nudges",
+    "assurance-based nudges",
+    "scarcity cues",
+    "social persuasion",
+    "justification effects",
+    "purchase behavior",
+    "product return behavior",
+    "return-adjusted net sales"
+  ],
+  "main_findings": [
+    "Both pressure and assurance nudges increased purchases relative to the no-message control, with pressure nudges showing slightly larger gross sales lift.",
+    "Assurance nudges produced much lower return levels than pressure nudges (reported as more than 69.3% lower on average), and pressure and assurance nudges were not statistically different on return-adjusted purchase.",
+    "Scarcity-based pressure nudges were associated with higher late returns and higher consumer costs, while assurance nudges significantly improved retailer return-adjusted net sales and did not significantly raise consumer costs versus control."
+  ],
+  "one_line_summary": "In a six-week randomized field experiment in online fashion drop campaigns, assurance nudges generated strong purchase lift with far fewer returns than pressure nudges, making return-adjusted outcomes at least as favorable.",
+  "relation_to_prior_work": "extends prior nudge research that has focused mainly on pressure or scarcity and sales-only outcomes by jointly testing pressure and assurance interventions in the field and incorporating return behavior, including return timing, into economic evaluation.",
+  "research_gap": "Prior studies have largely examined pressure-oriented nudges, often scarcity cues, and focused on sales conversion without incorporating product returns and their costs. The authors state that no work had directly compared pressure and assurance nudges together in a randomized field experiment while evaluating return behaviors and return-adjusted performance.",
+  "research_question": "How do pressure-based nudges (quantity scarcity, time scarcity, social persuasion) and assurance-based nudges (choice and fit validation) differentially affect online consumers' purchases and product returns? When return timing and costs are included, can assurance nudges match or outperform pressure nudges on return-adjusted economic outcomes for retailers and consumers?"
+}

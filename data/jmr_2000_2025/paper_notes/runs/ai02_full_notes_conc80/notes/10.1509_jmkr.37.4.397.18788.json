@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Develops a descriptive cognitive process model for how consumers choose between flat-fee unlimited access and pay-per-use pricing, including two reasoning errors that can generate flat-rate bias.",
+    "Introduces the ratio rule: perceived likelihood of exceeding break-even usage is shaped by (maximum imaginable usage - break-even)/(break-even - minimum imaginable usage).",
+    "Shows that misperceived usage distributions can sustain overpayment under flat fees and that better usage-distribution information can reduce reliance on range-based inference."
+  ],
+  "context": "The paper studies consumer choice between flat-fee and measured-service pricing for recurring-use products and services. Empirical settings include prospective online grocery delivery use, observed residential health-club attendance, and a hypothetical apartment pool-access plan.",
+  "design_and_data": "Study 1 surveyed 100 California grocery shoppers interested in online grocery shopping and elicited minimum, expected, and maximum monthly usage, subjective likelihoods, and choices across flat-fee versus per-use schedules calibrated to each respondent. Study 2 analyzed 1,433 monthly observations from 129 individual members of a Chicago residential health club and tested whether individual usage was consistent with Poisson/NBD assumptions. Study 3 ran a 2 x 2 x 3 randomized experiment with 520 students, manipulating minimum usage (0 vs 8), maximum usage (16 vs 24), and information format (range, tabular, histogram), plus a control condition. Analyses included categorical ANOVA/CATMOD, stepwise logistic regression, and mediation-style tests of whether perceived likelihood symmetry explained plan choice.",
+  "focal_constructs": [
+    "flat rate bias",
+    "break-even usage",
+    "subjective likelihood of above- vs below-break-even usage",
+    "minimum and maximum imaginable usage",
+    "ratio rule",
+    "perceived skewness of usage distribution",
+    "usage self-prediction and calibration"
+  ],
+  "main_findings": [
+    "In Study 1, a large majority preferred the flat fee even when it exceeded expected pay-per-use spending, and this pattern was not explained by measured risk aversion differences.",
+    "Flat-fee choice was strongly related to the perceived likelihood of using above versus below break-even, and the range ratio was the only significant predictor in stepwise logistic regression.",
+    "Study 2 found actual usage patterns consistent with right-skewed Poisson/NBD behavior, while Study 3 showed that changing usage bounds changed perceived likelihood symmetry and flat-fee choice as predicted by the ratio rule; when histogram information made true frequencies salient, range-based effects no longer held in the same way."
+  ],
+  "one_line_summary": "The paper proposes and tests a cognitive model showing that consumers often choose costly flat-fee plans because they infer above-break-even usage likelihoods from perceived usage ranges rather than true usage probabilities.",
+  "relation_to_prior_work": "introduces a cognitive explanation for flat-fee bias that complements motivational accounts and departs from economic self-selection models that assume consumers can accurately predict usage and choose the cost-minimizing tariff.",
+  "research_gap": "The paper argues that prior pricing research had not directly examined flat-fee pricing for unlimited access and that behavioral work offered little on self-prediction of future usage. It positions this as a gap in explaining unintentional overpayment under flat fees beyond motivational explanations.",
+  "research_question": "How do consumers estimate future usage when choosing between a flat fee for unlimited access and pay-per-use pricing, and why do they often overpay for the flat fee? Specifically, does perceived usage range shape perceived likelihood of exceeding break-even usage, thereby driving flat-fee bias?"
+}

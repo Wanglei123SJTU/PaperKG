@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper appears plausibly substantive as a methodological precedent: both notes emphasize using causal forests to uncover heterogeneous treatment effects and both report null average effects masking strong heterogeneity. The cited note explicitly frames a causal-forest framework contribution in marketing, while the citing paper’s design heavily relies on causal forests for implementation-effect estimation, making this more than an obvious incidental background mention. With only DOI-level match evidence and no in-text snippet, it should be retained for full relation judgment rather than dropped.",
+  "triage_decision": "keep_for_relation_judgment"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops a comprehensive game-theoretic framework in which a firm's endogenous quality and price jointly signal its cost type to inequity-averse consumers.",
+    "Provides, to the authors' knowledge, the first analysis of how consumer fairness concerns affect a firm's optimal quality decision in addition to pricing.",
+    "Characterizes when the unique undefeated equilibrium is separating versus pooling and links these regimes to firm profit, consumer monetary payoff, and social surplus."
+  ],
+  "context": "The paper studies a monopolist selling a search good (or an experience good whose quality is revealed by public reviews) to consumers who differ in willingness to pay for quality and may care about price fairness. Consumers observe price and quality but not the firm's cost efficiency, so they infer cost type from these signals.",
+  "design_and_data": "The core evidence is an analytical signaling model with two firm cost types (efficient and inefficient), consumer utility that includes inequity aversion, and endogenous firm choices of quality and price. The game is solved under perfect Bayesian equilibrium, with undefeated equilibrium refinement used to select a unique outcome among separating and pooling equilibria. The analysis compares symmetric-information and asymmetric-information cases and adds an extension with heterogeneous inequity aversion across consumers. The paper also reports a survey of 170 students and a motivational experiment with 96 MBA students to illustrate fairness perceptions and managerial quality-choice responses.",
+  "focal_constructs": [
+    "consumer inequity aversion",
+    "price fairness perceptions",
+    "quality and price signaling",
+    "firm cost efficiency",
+    "cost information asymmetry",
+    "separating versus pooling equilibrium",
+    "consumer monetary payoff",
+    "social surplus"
+  ],
+  "main_findings": [
+    "Expected market quality is nonmonotone in inequity aversion because stronger fairness concerns can shift equilibrium from separating to pooling.",
+    "Stronger inequity aversion lowers the inefficient firm's profit but can increase the efficient firm's profit when pooling incentives become strong.",
+    "With unobserved cost, stronger inequity aversion can lower high-valuation consumers' monetary payoff, and expected quality and social surplus can increase when the probability of an inefficient firm rises."
+  ],
+  "one_line_summary": "The paper shows in a monopoly signaling model that fairness-concerned consumers and hidden firm costs can induce strategic quality distortion and pooling, generating nonmonotonic effects on quality, profits, consumer payoff, and welfare.",
+  "relation_to_prior_work": "extends Guo (2015) by endogenizing quality and modeling two-dimensional signaling through quality and price when consumers with fairness concerns cannot observe cost. It also situates the analysis within signaling research by focusing on settings where quality is observable (search goods or review-revealed experience goods) before purchase.",
+  "research_gap": "Prior fairness-pricing work highlighted cost-based fairness beliefs but typically treated quality as exogenous and focused on price-based inference. The paper addresses the missing joint analysis of endogenous quality and price signaling under consumer fairness concerns and cost-information asymmetry.",
+  "research_question": "How should a firm optimally choose product quality and price when consumers have fairness concerns and cannot directly observe the firm's cost? The paper also asks how these strategic choices under signaling affect firm profits, consumer monetary surplus, and social surplus."
+}

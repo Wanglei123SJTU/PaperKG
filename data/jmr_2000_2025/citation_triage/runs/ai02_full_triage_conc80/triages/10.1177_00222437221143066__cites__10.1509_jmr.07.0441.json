@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is not a generic background item: it models advertising and WOM jointly in U.S. movie demand with dynamic effects, while the citing paper also examines communication channels (FGC/UGC) and box-office outcomes in a new-movie context. Given this close construct and domain overlap, the citation could plausibly serve as a methodological or conceptual foundation/comparison point rather than an incidental mention. With only DOI-level match evidence, it is still safer to retain for full relation judgment than to drop.",
+  "triage_decision": "keep_for_relation_judgment"
+}

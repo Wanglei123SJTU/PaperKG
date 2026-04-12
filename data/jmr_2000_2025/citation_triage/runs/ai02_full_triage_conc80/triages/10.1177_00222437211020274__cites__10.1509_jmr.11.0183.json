@@ -1,0 +1,4 @@
+{
+  "rationale": "Keep because the citing paper’s design explicitly uses product/time fixed effects plus an IV/BLUP-based correction for mean reversion and measurement error, while the cited paper is a methodological paper on fixed-effects inconsistency and IV/bias-correction for causal estimation. That methodological overlap suggests the citation may be serving as a substantive identification/estimation source rather than a generic background mention. The pair is DOI-matched (10.1509/jmr.11.0183), so this is not an ambiguous reference match.",
+  "triage_decision": "keep_for_relation_judgment"
+}

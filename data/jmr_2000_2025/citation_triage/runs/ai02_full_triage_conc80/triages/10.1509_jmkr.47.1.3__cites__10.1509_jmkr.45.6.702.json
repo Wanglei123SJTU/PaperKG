@@ -1,0 +1,4 @@
+{
+  "rationale": "The pair is likely substantive: the citing paper (“A Control Function Approach to Endogeneity in Consumer Choice Models,” 2010) develops an endogeneity-correction method for discrete/mixed-logit choice, and the cited paper (“Endogeneity and Individual Consumer Choice,” 2008) also develops estimation/testing methods for endogeneity in individual choice models. Their notes overlap directly on core constructs (price endogeneity, mixed logit, IV/simulated estimation), suggesting the cited work could be a key methodological or foundational reference rather than a passing mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

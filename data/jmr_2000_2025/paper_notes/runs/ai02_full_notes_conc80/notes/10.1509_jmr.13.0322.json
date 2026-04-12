@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides direct experimental evidence that the relative efficacy of group versus individual sales incentives depends on the strength of social ties between group members.",
+    "It studies group commission designs with smaller group-based weights (50% and especially 25% teammate contribution weight), an underexamined design space in prior work, and shows when such designs can outperform individual pay.",
+    "It extends sales incentive theory with a behavioral model that combines social preferences and disutility from teammates underestimating one's effort, and shows this model fits the experimental patterns better than standard theory."
+  ],
+  "context": "The paper is set in sales force compensation, focusing on two-person groups of homogeneous salespeople under linear commission contracts, output uncertainty, and no task complementarities. The evidence comes from controlled laboratory environments that mimic weaker versus stronger teammate social ties and different feedback policies.",
+  "design_and_data": "Experiment 1a is a 3 x 2 laboratory design crossing incentive contract (individual, hybrid with 25% teammate weight, revenue-sharing with 50% teammate weight) and social condition (nonsocialized vs socialized), with 251 undergraduate business students making 15 repeated effort decisions in z-Tree. In socialized treatments, participants first interacted in small groups and then had brief face-to-face communication with teammates before decision blocks; in nonsocialized treatments matching was random and anonymous. Experiment 1b (N = 60) studies socialized hybrid and revenue-sharing incentives when teammates also observe each other's true effort, not only output. Additional validation experiments (2a-2c) vary shock range, matching structure, and cost parameters to test the behavioral model's predictions.",
+  "focal_constructs": [
+    "group incentives",
+    "individual incentives",
+    "salesperson effort",
+    "social ties among teammates",
+    "group-based pay component weight",
+    "effort feedback transparency",
+    "social preferences",
+    "effort-underestimation disutility"
+  ],
+  "main_findings": [
+    "In nonsocialized settings, effort follows the standard ordering: individual incentive > hybrid incentive > revenue-sharing incentive.",
+    "In socialized settings, effort under the hybrid incentive exceeds both individual and revenue-sharing incentives, and socialization raises effort strongly in group incentives but not in the individual incentive.",
+    "When socialized teammates can observe each other's true effort (in addition to output), effort decreases in both group incentives relative to output-only feedback, and the hybrid advantage over individual pay disappears."
+  ],
+  "one_line_summary": "Using laboratory experiments, the paper shows that two-person group sales incentives work best when teammates are socially connected, the group-pay weight is moderate, and true effort is not fully revealed to teammates.",
+  "relation_to_prior_work": "extends prior sales incentive research by experimentally comparing individual and group commissions while varying social ties, the size of the group-based pay component, and effort-information feedback, factors earlier studies did not jointly manipulate. It introduces a behavioral mechanism of loss from being underestimated on effort, alongside social preferences, to explain outcomes that standard free-riding models cannot.",
+  "research_gap": "Prior studies comparing group and individual incentives did not explicitly vary social ties among group members and mostly examined group contracts with large group-based weights. The literature also had not directly tested whether revealing teammates' true effort, beyond observable output, improves or harms effort under group incentives.",
+  "research_question": "When should sales managers use two-person group incentives instead of individual incentives? The paper asks how relative performance depends on (1) social ties between teammates, (2) the weight placed on teammate output in the compensation formula, and (3) whether teammates observe true effort versus only output."
+}

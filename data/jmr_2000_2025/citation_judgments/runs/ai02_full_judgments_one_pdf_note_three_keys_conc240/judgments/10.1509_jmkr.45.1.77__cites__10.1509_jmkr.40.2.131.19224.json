@@ -1,0 +1,6 @@
+{
+  "citation_substance": "mention_only",
+  "rationale": "The cited paper appears only in the literature review as one of several examples of model-based collaborative filtering under binary data. It is cited in a grouped sentence with other studies and is not given a distinct conceptual, methodological, or empirical role in the proposed unary-data recommendation model. The citing paper does not build directly on, test against, or refine this specific paper; it mainly uses it for broad prior-work positioning.",
+  "relation_description": null,
+  "relation_type": null
+}

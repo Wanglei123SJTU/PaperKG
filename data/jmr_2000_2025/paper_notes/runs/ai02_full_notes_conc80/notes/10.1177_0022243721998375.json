@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The study uses ambulatory eye-tracking in a real grocery store to directly measure consumer attention at the SKU level, beyond prior RFID path tracking or field-of-view video data.",
+    "Methodologically, it identifies lateral bias from exogenous variation in aisle traversal direction and vertical bias from exogenous variation in shopper eye-level positions, while controlling for shelf-level product quality differences.",
+    "It provides field-based estimates of the magnitude of lateral and vertical attention biases and shows how these estimates can be used to value shelf locations for retail shelf-management decisions."
+  ],
+  "context": "The empirical setting is a large grocery store in a major metropolitan area in the Northeastern United States, with 109 product categories across produce, meat, center-of-store aisles, health and beauty, and checkout zones. The paper studies in-store attention during natural shopping trips.",
+  "design_and_data": "The authors ran a 6-week in-store field study using Tobii Pro Glasses 2 ambulatory eye-tracking devices on intercepted shoppers who then shopped normally. After exclusions, the final sample is 175 shoppers, and manually coded video annotations yield 3,066 SKU-level attention incidences across 109 categories, with synchronized path, direction, shelf-height, and fixation information. For lateral bias, they estimate a fixed-effects logistic model leveraging variation in northward versus southward aisle traversal; for vertical bias, they estimate random utility models (with benchmarks and robustness checks) leveraging variation in shopper eye levels and controlling for shelf-level conditional purchase conversion. The paper also reports a survey of 43 retail professionals to benchmark practitioner beliefs.",
+  "focal_constructs": [
+    "in-store visual attention",
+    "lateral bias",
+    "vertical bias",
+    "aisle traversal direction",
+    "shelf height relative to eye level",
+    "handedness",
+    "category hedonicity",
+    "conditional purchase conversion rate"
+  ],
+  "main_findings": [
+    "Shoppers have a higher propensity to attend to products on their right side while traversing aisles, with an estimated magnitude of about 21% when products are otherwise equivalent.",
+    "The data reject the idea that eye level is the attention-maximizing shelf position; the estimated ideal point is about 14.7 inches below eye level (around chest level, about 47 inches for the average shopper).",
+    "The vertical bias effect becomes stronger later in the shopping trip as shoppers have more items in their carts, while moderation by category hedonicity is not significant."
+  ],
+  "one_line_summary": "Using ambulatory eye-tracking in a grocery store, the paper shows that shoppers attend more to the aisle's right side and that peak shelf-level attention occurs about 14.7 inches below eye level rather than at eye level.",
+  "relation_to_prior_work": "extends prior shopper-tracking and shelf-space research by moving from path or sales proxies to direct field measurement of SKU-level visual attention with ambulatory eye-tracking. It also challenges the practitioner rule of thumb that \"eye level is buy level\" by estimating an attention-maximizing point below eye level.",
+  "research_gap": "Prior field research did not directly measure SKU-level in-store attention, typically relying on path tracking or downstream sales outcomes, so lateral and vertical attention biases were not directly identified in real stores. As a result, widely cited practitioner beliefs about right-side attention and eye-level placement had not been directly tested with field eye-tracking evidence.",
+  "research_question": "Do grocery shoppers have a lateral attention bias toward one side of the aisle (right versus left) as they traverse aisles, and is this related to handedness? Do shoppers have a vertical attention bias across shelf heights, specifically whether eye level maximizes attention, and how this bias varies with category characteristics and trip stage?"
+}

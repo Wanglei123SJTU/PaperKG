@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper identifies three common background features of prior brand extension studies - limited attribute information, no distinction by adopter type, and single exposure - as threats to external validity.",
+    "It provides empirical tests of boundary conditions for the fit-extension evaluation relationship, a core result in brand extension theory.",
+    "It argues that basic research design choices often treated as irrelevant can materially change accepted findings, with implications for concept testing and brand strategy."
+  ],
+  "context": "The paper is set in consumer evaluations of proposed brand extensions across established brands and new product categories. It focuses on how lab-like versus market-like information and exposure conditions affect judgments of extension fit and favorability.",
+  "design_and_data": "Study 1 uses a between-subjects experiment with 229 graduate business students from three mid-Atlantic universities, randomly assigned to low-information or high-information extension descriptions (brand shown first or last in high-information conditions). Subjects evaluated one hypothetical extension tied to real parent brands (Michelin, Timex, Maytag), and the authors modeled extension evaluations with perceived fit, information condition, innovativeness, interactions, and brand liking/familiarity covariates. Study 2 uses a between-subjects exposure design (one vs three exposures) with evening students in two course sections; 45 participants completed all waves, with exposures spaced two days apart. Study 2 tests whether repeated exposure raises perceived fit and whether fit mediates exposure effects on extension evaluations.",
+  "focal_constructs": [
+    "perceived fit",
+    "brand extension evaluation",
+    "extension attribute information",
+    "information presentation order",
+    "consumer innovativeness",
+    "exposure frequency",
+    "external validity"
+  ],
+  "main_findings": [
+    "Perceived fit positively affected extension evaluations under low-information conditions, replicating prior results.",
+    "As extension attribute information increased, the fit effect weakened and became nonsignificant in high-information conditions; presenting the brand name before versus after attributes did not significantly change the fit effect.",
+    "The fit effect was stronger for less innovative consumers and nonsignificant for highly innovative consumers, and repeated exposure increased perceived fit, which mediated exposure effects on extension evaluations."
+  ],
+  "one_line_summary": "Across two experiments, the paper shows that the classic fit effect in brand extension evaluations is contingent on low-information and lower-innovativeness conditions, while repeated exposure increases perceived fit.",
+  "relation_to_prior_work": "refines prior brand extension research by showing that the strong fit-extension evaluation link is bounded by information richness, adopter innovativeness, and exposure conditions rather than universally stable. It connects these contingencies to established work on cue-based inference and diffusion/adoption differences.",
+  "research_gap": "Prior brand extension studies report that perceived fit strongly constrains extension success, yet marketplace examples show successful extensions into perceptually distant categories. The paper argues that this discrepancy reflects untested boundary conditions created by common lab designs that use sparse information, single exposure, and undifferentiated adopter samples.",
+  "research_question": "When do established findings about perceived fit and brand extension evaluations generalize to marketplace-like conditions? Specifically, does the fit effect change with richer extension attribute information, information order, consumer innovativeness, and repeated exposure to extension stimuli?"
+}

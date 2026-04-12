@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides a conceptual review of how longitudinal surveys can and cannot address common method variance and causal inference concerns in marketing survey research.",
+    "It offers an illustrative empirical comparison of cross-sectional versus longitudinal results using two collaborative new product development data sets plus a Monte Carlo simulation to probe boundary conditions.",
+    "It proposes practical guidelines to help researchers decide when the added cost of longitudinal survey data collection is warranted."
+  ],
+  "context": "The paper is a methodological study of marketing survey validity, with empirical illustration in interorganizational collaborative new product development. The two illustration settings are formal new product alliances across industries and informal information-sharing relationships in the U.S. optics industry.",
+  "design_and_data": "Using two existing marketing survey panels in collaborative new product development, the authors compare Time 1 cross-sectional estimates with Time 2 follow-up estimates from the same key informants. The alliance study surveyed U.S. firms in formal NPD alliances (Time 1 n = 106; Time 2 n = 55; 36-month lag), and the optics study surveyed U.S. manufacturing firms in optics information-sharing relationships (Time 1 n = 155; Time 2 n = 73; 30-month lag); analyses used respondents present in both waves. CMV was assessed with CFA trait-only versus trait-and-method models and by comparing path estimates with and without method factors. Causal inference was assessed via temporal-order checks, covariation and coherence tests using structural models, and Monte Carlo simulations varying method variance, trait variance, and predictor-outcome correlations.",
+  "focal_constructs": [
+    "cross-sectional surveys",
+    "longitudinal surveys",
+    "common method variance bias",
+    "causal inference",
+    "temporal order",
+    "covariation",
+    "coherence",
+    "collaborative new product development"
+  ],
+  "main_findings": [
+    "Trait-and-method models fit better than trait-only models, indicating CMV is present, but average method variance is modest (about 12 percent) relative to trait variance (about 65 percent), and Time 2 outcomes show only a small reduction in method variance versus Time 1.",
+    "In the two empirical data sets, CMV-related coefficient bias is modest and similar for cross-sectional and longitudinal estimates, and most predictor-outcome relations found at Time 1 remain significant at Time 2 with broadly similar effect sizes.",
+    "Monte Carlo results show CMV bias differences are driven mainly by method variance levels and predictor-outcome correlation size (not trait variance), implying longitudinal designs add most value when method variance is high and expected correlations are small."
+  ],
+  "one_line_summary": "The paper shows through conceptual analysis, two survey data sets, and simulation that longitudinal surveys do not uniformly outperform cross-sectional surveys on CMV and causal inference, and it provides conditions-based guidelines for when longitudinal collection is worth the cost.",
+  "relation_to_prior_work": "extends prior CMV and causality discussions, which the authors describe as heavily focused on statistical remedies and often outside marketing, by adding a marketing-specific conceptual and data-based comparison of cross-sectional and longitudinal surveys.",
+  "research_gap": "Although longitudinal data collection is frequently recommended to reduce CMV and improve causal inference, the marketing literature offers little direct empirical guidance on whether this strategy actually delivers those benefits relative to cross-sectional surveys. Existing guidance is described as emphasizing analytical fixes and drawing heavily from work outside marketing.",
+  "research_question": "Do longitudinal survey designs provide meaningful validity advantages over cross-sectional surveys in marketing research, specifically in reducing common method variance bias and strengthening causal inference? Under what conditions is the extra time and cost of longitudinal data collection justified?"
+}

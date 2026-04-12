@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and demonstrates that processing fluency, specifically response fluency, is an additional source of the mere measurement effect.",
+    "It shows that this fluency mechanism is independent from attitude accessibility and follows transfer-appropriate processing properties based on overlap between initial and later cognitive processes.",
+    "It identifies boundary conditions for fluency-based mere measurement effects, including dependence on relative fluency in the choice context and attenuation when more diagnostic attribute information is available."
+  ],
+  "context": "The studies examine consumer purchase decisions for unfamiliar snack products, mainly novel ice cream treat brands, with one study using candy bars. Participants first answer intention-related questions and later provide purchase-likelihood judgments or make actual purchase choices in lab tasks.",
+  "design_and_data": "The paper reports eight laboratory experiments using undergraduate participant pools. Designs manipulate whether and how initial intent questions are asked, including sole versus dual/general intent questions, whole versus part and general versus specific question correspondence, delay length (5 versus 30 minutes), and test set size (two versus five brands). Most studies use unfamiliar European ice cream brands and measure later purchase likelihood; one study measures actual candy-bar purchases with real money. Reported usable sample sizes in individual experiments are on the order of about 51 to 127 participants.",
+  "focal_constructs": [
+    "mere measurement effect",
+    "attitude accessibility",
+    "processing fluency",
+    "response fluency",
+    "transfer-appropriate processing",
+    "purchase intention",
+    "relative fluency",
+    "diagnostic information"
+  ],
+  "main_findings": [
+    "A sole intent question about one novel brand increased later purchase likelihood for that brand, whereas dual-intent and general-intent questioning did not produce the same effect under the novel-brand setup.",
+    "Mere measurement effects depended on transfer-appropriate correspondence: effects appeared when initial and later processes matched or when initial processing subsumed later processing, but not when initial processing was only a subset of later processing.",
+    "The effect depended on relative response fluency and replicated on actual purchase behavior (with five-brand but not two-brand choice contexts), and it disappeared when diagnostic brand attribute information was provided."
+  ],
+  "one_line_summary": "Across eight experiments, the paper shows that mere measurement effects can be driven by transfer-appropriate response fluency, not only by increased attitude accessibility.",
+  "relation_to_prior_work": "challenges the prevailing view that attitude accessibility alone explains mere measurement effects by introducing response fluency as an additional mechanism. It connects the mere measurement literature to processing fluency and transfer-appropriate processing findings and delineates conditions under which fluency-based effects emerge.",
+  "research_gap": "Prior mere measurement research mainly emphasized attitude accessibility, but several reported patterns were difficult to reconcile with that account alone, including effects for novel behaviors, persistence over time among novices, and stronger effects of intention versus attitude questions. The paper addresses this unresolved mechanism by testing whether processing fluency from redundant cognitive processing contributes to the effect.",
+  "research_question": "Does answering an initial intention question change later purchase intentions because overlapping cognitive processing creates response fluency, beyond any effect of attitude accessibility? Under what conditions does this fluency-based mechanism operate, including correspondence between tasks, relative fluency at test, persistence over time, and the presence of more diagnostic information?"
+}

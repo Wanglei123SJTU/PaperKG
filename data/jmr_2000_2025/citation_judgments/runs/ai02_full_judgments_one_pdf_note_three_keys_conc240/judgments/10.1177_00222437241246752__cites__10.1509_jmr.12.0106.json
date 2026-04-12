@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citation is not just background: the paper repeatedly places Tirunillai and Tellis (2014) in its core methodological positioning, including the literature review, comparison table, and benchmark-model setup. The authors explicitly contrast unsupervised LDA-style topic modeling with their proposed supervised, segment-level approach and report weaker benchmark performance for topic-model baselines on their tasks. This means the cited paper helps frame what the new model is improving upon, not merely the general topic area.",
+  "relation_description": "The citing paper uses Tirunillai and Tellis (2014) as a representative prior marketing application of LDA/topic-model text mining and then advances a method that addresses perceived limitations of that approach for star-rating prediction and segment-level heterogeneity. In this sense, the new model is presented as a methodological improvement over that earlier line.",
+  "relation_type": "refines"
+}

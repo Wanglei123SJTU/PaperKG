@@ -1,0 +1,4 @@
+{
+  "rationale": "The only direct evidence is a DOI match with no in-text citation context (`raw_matched_reference_evidence` has just one DOI entry and no unstructured reference text), so the citation’s role in the 2022 paper is unclear. Although the cited 2019 paper is topically adjacent (content/virality dynamics in social media) to the citing paper’s content-sharing focus, the cross-domain difference (political Twitter vs. online learning forums) makes it hard to tell whether this is foundational use or background mention from the provided notes alone.",
+  "triage_decision": "uncertain"
+}

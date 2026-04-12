@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper claims that disclosure behavior is comparative, such that willingness to disclose sensitive information depends on relative standards rather than only absolute question sensitivity.",
+    "It claims to identify two key comparative drivers of disclosure: signals about others' admissions (a herding effect) and the order of question intrusiveness within a survey.",
+    "It claims practical relevance for marketing and privacy by showing that disclosure and privacy concern are malleable to contextual, nonnormative survey design factors."
+  ],
+  "context": "The studies are conducted in online survey environments where respondents are asked about potentially embarrassing, unethical, or illegal behaviors, often using participants recruited through the online New York Times and other online panels. The application context is internet marketing and consumer privacy, where people face frequent requests for personal data and exposure to others' disclosures.",
+  "design_and_data": "Across seven online experiments (Studies 1a-1c and 2a-2d), participants answered sensitive behavior items and related ratings under randomized between-subject manipulations. Study 1a (N=1722) manipulated ostensible prior respondents' answer distributions (high admission, low admission, or missing) across six behaviors; follow-ups tested anticipated discomfort (1b, N=247) and interpretation breadth/clarity (1c, N=126). Study 2a (N=2310) manipulated intrusiveness order (increasing, decreasing, random, sudden) and email-request placement across 30 behaviors, with mechanism and boundary tests in 2b (intrusiveness ratings, N=133), 2c (privacy prime via phishing task x order, N=161), and 2d (intrusiveness-vs-wordiness priming x order, N=276). Because each respondent answered multiple items, the authors estimated random-effects probit or ordered probit panel models and report robustness checks for missing responses and attrition.",
+  "focal_constructs": [
+    "self-disclosure propensity",
+    "relative standards",
+    "herding from others' admissions",
+    "question intrusiveness order",
+    "anticipated discomfort of admitting",
+    "perceived intrusiveness of inquiries",
+    "privacy concern priming"
+  ],
+  "main_findings": [
+    "In Study 1a, participants shown high ostensible admission rates from prior respondents were significantly more likely to admit sensitive behaviors than those shown low or missing rates, and the gap grew over successive questions.",
+    "Study 1b found that high-admission feedback reduced expected discomfort of answering yes, while Study 1c found no significant effect of that feedback on how broadly participants interpreted the behavior descriptions.",
+    "In Study 2a, increasing intrusiveness order reduced admissions and decreasing order increased admissions, especially for the most intrusive items; Studies 2b-2d showed this pattern tracks perceived intrusiveness and can be nullified by priming privacy concerns or by making respondents explicitly compare intrusiveness before disclosure."
+  ],
+  "one_line_summary": "This paper shows that disclosure of sensitive information in online surveys is shaped by relative standards: people disclose more when others appear to disclose and when intrusive questions are asked in decreasing rather than increasing intrusiveness order.",
+  "relation_to_prior_work": "extends prior survey-design, self-disclosure, and privacy research by showing robust comparative effects where earlier evidence on normalization and intrusiveness order was mixed or limited. It also applies FITD/DITF-style sequencing logic to sensitive self-disclosure and adds mechanism evidence on discomfort and perceived intrusiveness.",
+  "research_gap": "Prior evidence on whether others' disclosures normalize admissions of private sensitive behaviors was mixed or null, and the impact of ordering questions by intrusiveness on sensitive self-disclosure was underexplored. The authors also note that FITD/DITF request-sequencing research had not directly examined disclosure of sensitive personal information.",
+  "research_question": "When do people disclose sensitive personal information in response to intrusive survey questions? Specifically, do relative standards - others' apparent willingness to disclose and the ordering of question intrusiveness - change admission behavior, and through what processes do these effects arise?"
+}

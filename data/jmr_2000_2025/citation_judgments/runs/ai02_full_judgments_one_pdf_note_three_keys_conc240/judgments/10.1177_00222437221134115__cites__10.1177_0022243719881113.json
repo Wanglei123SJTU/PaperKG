@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the methods section, the citation is not just a background list item: the authors use specific validation evidence from Li and Xie (2020) (accuracy and precision of face detection) to justify their own automated visual coding approach. This indicates concrete methodological borrowing for measurement of visual controls in the citing paper. The citation is also used in the discussion to compare possible voice-image-text fit effects, reinforcing a functional role beyond a passing mention.",
+  "relation_description": "The citing paper applies Li and Xie (2020) as methodological precedent for computer-vision based image coding, specifically to support use of a Google face-detection model in its video analyses. It also uses Li and Xie as a comparative reference when proposing future work on interactions between voice and image/text fit.",
+  "relation_type": "applies"
+}

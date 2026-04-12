@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides what the authors describe as the first field experiments to isolate the effect of price discounts alone on children ages 6-11.",
+    "Documents previously unreported opposing postpromotion effects of discounting healthy products based on the promoted product's relative price.",
+    "Shows that discount message complexity and repetition interact with children's developmental stage, yielding age-specific design guidance for coupon interventions."
+  ],
+  "context": "The study is set in three urban elementary schools in Panama, a developing economy where children in grades 1-6 commonly bring cash and buy food at school kiosks. In partnership with UNICEF, the interventions promoted kiosk products that met UNICEF healthy-food standards.",
+  "design_and_data": "The authors conducted three field experiments with 2,418 elementary school children (ages 6-11) across three Panamanian schools. Within grades, classes were randomly assigned to coupon message type (direct final-price message vs. derived message requiring children to compute or infer the final price), and each experiment included two 3-day promotion phases separated by about three weeks. They tracked daily purchases of the promoted healthy product across five periods (baseline, Phase 1, Rest 1, Phase 2, Rest 2) and recorded individual coupon redemptions using serialized coupons. In Experiments 1 and 2 the promoted healthy item was priced higher than most alternatives, whereas in Experiment 3 it was not priced higher than most alternatives.",
+  "focal_constructs": [
+    "price discount coupons",
+    "children's healthy purchases",
+    "postpromotion purchase effects",
+    "relative product price",
+    "discount message design",
+    "children's age groups",
+    "promotion repetition",
+    "coupon redemption"
+  ],
+  "main_findings": [
+    "Discount coupons increased purchases of promoted healthy products during promotion periods across all three field experiments.",
+    "When the promoted healthy product's original price was relatively high versus other kiosk options, postpromotion purchases dropped below baseline, but when the product was moderately priced, postpromotion purchases were above baseline.",
+    "Derived discount messages were more effective than direct messages for older children (8-11) and less effective for younger children (6-7), and repetition generally reduced redemption except that repeating derived messages increased redemption among younger children."
+  ],
+  "one_line_summary": "Across three field experiments in Panamanian elementary schools, discount coupons increased children's healthy purchases during promotion, while postpromotion and redemption effects depended on product relative price, message design, age, and repetition.",
+  "relation_to_prior_work": "extends prior discount-based healthy-eating intervention research by moving beyond developed-country, multivehicle, mixed-age studies to isolated coupon-based tests with elementary school children in a developing economy. It introduces individual coupon-redemption tracking and repeated-promotion testing alongside aggregate and postpromotion purchase outcomes.",
+  "research_gap": "Prior discount-based healthy-eating interventions with young consumers were conducted in developed countries, often used multivehicle interventions, and typically did not isolate elementary school children's responses from older consumers. Evidence was also limited on postpromotion effects, age-contingent discount message design, repetition effects, and individual-level behavioral responses.",
+  "research_question": "Can price discounts alone increase elementary school children's healthy purchases in a developing economy? How do four promotion design pillars - what to discount (relative product price), how to discount (direct vs. derived message), whom to target (age), and whether to discount again (repetition) - shape purchases during promotion, postpromotion purchases, and coupon redemption behavior?"
+}

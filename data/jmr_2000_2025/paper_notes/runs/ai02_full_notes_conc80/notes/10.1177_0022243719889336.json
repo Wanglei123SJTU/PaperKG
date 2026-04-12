@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops and tests a theory of consumer inaction traps in decisions to address or endure product malfunctions.",
+    "Demonstrates a paradoxical effect of malfunction severity: smaller malfunctions can produce worse overall consumption experiences because they are less likely to be corrected promptly.",
+    "Identifies the psychological dynamics (initial deferral and devaluation of later corrective opportunities), boundary conditions, and potential interventions that can counteract inaction traps."
+  ],
+  "context": "The paper studies consumer responses to product malfunctions that do not fully disable use of owned products. Empirical settings include video watching, game playing, music listening, and survey reports of real malfunctions across product categories such as appliances, vehicles, clothing, and toys.",
+  "design_and_data": "The evidence base includes eight experiments plus one consumer survey. Experiment 1 is a lab study with undergraduates (N = 84), and Experiments 2-8 use adult MTurk samples (roughly N = 161-484 per experiment) in interactive tasks or scenarios manipulating malfunction severity, escalation, continuity, timing of corrective opportunities, and means of corrective action. Outcomes include whether and when participants took corrective action, enjoyment, downstream behavioral intentions, and willingness to pay to correct malfunctions. The survey (N = 291) collected four recalled malfunction episodes per respondent and measured severity, duration, suffering, and brand attitude change.",
+  "focal_constructs": [
+    "product malfunction severity",
+    "corrective action",
+    "decision deferral",
+    "devaluation of subsequent opportunities",
+    "inaction inertia",
+    "inaction traps",
+    "consumption enjoyment",
+    "total suffering"
+  ],
+  "main_findings": [
+    "Across experiments, smaller malfunctions were less likely to be corrected quickly and were endured longer than larger malfunctions, which often led to lower overall enjoyment despite lower immediate annoyance.",
+    "When the chance to act immediately was removed, or when the means of corrective action changed later, the paradoxical advantage of larger malfunctions in enjoyment disappeared, consistent with the proposed inaction-trap dynamics.",
+    "Direct mechanism tests showed that forgoing earlier corrective opportunities lowered valuation of later ones, and survey data showed common severity-suffering reversals (65% of respondents had at least one), with less severe but more painful malfunctions lasting longer and greater suffering linked to more negative brand attitudes."
+  ],
+  "one_line_summary": "Across eight experiments and a consumer survey, the paper shows that smaller product malfunctions are often endured longer than larger ones because consumers defer and then devalue corrective opportunities, reducing enjoyment and downstream product outcomes.",
+  "relation_to_prior_work": "extends prior inaction inertia research by incorporating the initial inaction decision and modeling how it shapes later corrective action timing and persistence. It also moves beyond dominant purchase-choice and complaint-recovery literatures to consumer maintenance and repair decisions, and links these decisions to consumption enjoyment and downstream brand outcomes.",
+  "research_gap": "The paper states that consumer research has focused mainly on purchase decisions, with virtually no research on consumers' decisions to maintain or repair products they already own and on how such decisions affect enjoyment of consumption experiences. It addresses this missing account of consumer response to product malfunctions.",
+  "research_question": "How do consumers decide whether and when to take corrective action versus endure product malfunctions, and how does malfunction severity shape that process? The paper asks whether smaller malfunctions trigger an inaction trap through initial deferral and devaluation of later opportunities, and whether this dynamic harms enjoyment and downstream outcomes."
+}

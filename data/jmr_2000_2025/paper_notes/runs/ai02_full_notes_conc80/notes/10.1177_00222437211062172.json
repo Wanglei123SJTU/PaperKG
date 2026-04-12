@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Identifies and quantifies cross-category demand complementarity between ride-sharing (Uber/Lyft) and home-sharing (Airbnb) using a natural experiment and property-level location heterogeneity.",
+    "Shows that ride-sharing availability moderates competition between Airbnb and hotels by reducing hotels' location advantage, with substitution concentrated in lower-end lodging.",
+    "Highlights policy spillovers across sharing-economy platforms and shows that local post-exit ride-sharing entrants in Austin did not fully replace Uber/Lyft until Uber/Lyft reentered."
+  ],
+  "context": "The paper studies the U.S. travel and lodging market, centered on Austin, Texas, where Uber and Lyft exited on May 9, 2016 after local regulation, with Boston, Los Angeles, San Diego, and Seattle used as comparison cities. It examines Airbnb properties and hotels in the same urban market where local transportation access varies strongly by location.",
+  "design_and_data": "The authors use a natural experiment and estimate weighted difference-in-differences models on a matched panel of 11,536 Airbnb properties (4,698 in Austin) from January-December 2016, using AirDNA listing-month data. Demand is monthly occupancy (booked days over open days), with property and month fixed effects, control variables, and a leads-lags check for pretreatment parallel trends. They merge Walk Score transit scores to measure property access to public transportation and use RideAustin ride volume to account for local post-exit ride-sharing supply. They also analyze STR hotel occupancy data for 2015-2016 and run a 2017 Uber/Lyft reentry analysis as an additional validation test.",
+  "focal_constructs": [
+    "demand complementarity",
+    "ride-sharing exit shock",
+    "Airbnb occupancy",
+    "public transportation access (transit score)",
+    "geographic demand dispersion",
+    "low-end versus high-end lodging segment",
+    "Airbnb-hotel substitution"
+  ],
+  "main_findings": [
+    "Uber/Lyft's exit caused a significant drop in Austin Airbnb demand, with an estimated occupancy decline of about 14% relative to control cities.",
+    "The demand effect is highly heterogeneous: losses are concentrated in low-end Airbnb listings and in listings with poorer transit access, while low-end listings with excellent transit access gain demand and high-end listings show no significant occupancy change.",
+    "After the exit, Austin hotel occupancy rises mainly in midscale and economy segments, Airbnb hosts reduce nightly rates (about $9.30 on average) and open-day supply (about 4.5%), and the negative Airbnb demand effect disappears quickly after Uber/Lyft reentry in 2017."
+  ],
+  "one_line_summary": "Using Uber/Lyft's regulatory exit from Austin as a natural experiment, the paper shows that ride-sharing and home-sharing are complementary, with transportation access and lodging segment determining where Airbnb demand falls and where it shifts.",
+  "relation_to_prior_work": "extends prior sharing-economy research that mostly studies platforms in isolation by estimating interdependencies between ride-sharing and home-sharing demand. It also refines Airbnb-versus-hotel competition evidence by showing that ride-sharing availability changes substitution patterns mainly in lower-end and transit-poor locations.",
+  "research_gap": "Prior work largely examines Airbnb and Uber separately and is largely silent about demand interdependencies across sharing-economy platforms. The paper addresses the unresolved question of whether changes in ride-sharing availability causally affect Airbnb demand, and through what mechanism.",
+  "research_question": "Do ride-sharing services (Uber/Lyft) complement home-sharing demand, and what happens to Airbnb demand when ride-sharing availability is exogenously reduced? The paper also asks whether the effect is an overall demand decline or a redistribution across Airbnb properties and hotels, and whether transit access and property segment explain the pattern."
+}

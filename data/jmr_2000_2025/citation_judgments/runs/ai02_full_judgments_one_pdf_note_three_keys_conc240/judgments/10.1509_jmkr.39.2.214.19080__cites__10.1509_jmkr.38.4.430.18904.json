@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is treated as a key prior benchmark, not a passing reference. Kanninen explicitly discusses Sandor and Wedel's design search procedures and constraints (e.g., discrete-level swaps/relabeling/cycling and minimal overlap) to argue that those approaches may miss fully efficient solutions. This critique is used to motivate the new unconstrained continuous-attribute D-optimal design derivation, giving the citation a clear methodological role.",
+  "relation_description": "Kanninen positions Sandor and Wedel (2001) as an important predecessor in efficient choice design but argues that its constrained, discrete search framework may not achieve full optimality. The 2002 paper advances an alternative optimization approach intended to overcome those limits.",
+  "relation_type": "challenges"
+}

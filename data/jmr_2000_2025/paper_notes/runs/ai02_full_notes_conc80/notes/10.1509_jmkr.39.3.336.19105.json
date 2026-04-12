@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "The paper proposes that member influence in group decisions should be decomposed into two distinct components, preference revision and concession, rather than treated as a single outcome-based construct.",
+    "It develops a hierarchical Bayes model of dyadic decision making that estimates attribute-level initial preferences, revision, and concession for each member and links them formally to traditional influence.",
+    "It explicitly links preference convergence, concession, and postdecision satisfaction, including a reciprocity effect in which conceded members are more satisfied when the other member also concedes."
+  ],
+  "context": "The empirical setting is family dyadic purchase decisions, specifically parent-teenager pairs making joint choices. Two U.S. field contexts are used: personal computer purchase decisions and sweet snack purchase decisions.",
+  "design_and_data": "The authors estimate a hierarchical Bayes dyadic choice model with random effects for preferences, revision, and concession, using conjoint-style tasks before discussion, after discussion, and at joint choice. Study 1 (PCs) used 135 recruited parent-teen dyads in a Midwestern U.S. city, with 129 usable dyads, and included prediscussion individual choices, group discussion, postdiscussion individual choices, and joint choices. Study 2 (sweet snacks) used 123 dyads in an eastern university town, with 117 usable dyads, used individual profile ratings plus joint choices, and added postchoice satisfaction measures for each joint decision. The authors then test links among revised preference differences, inferred concession, and satisfaction with ANOVA/regression analyses.",
+  "focal_constructs": [
+    "member influence",
+    "preference revision",
+    "attribute concession",
+    "preference convergence",
+    "postdecision satisfaction",
+    "dyadic joint decision making"
+  ],
+  "main_findings": [
+    "Preference revision and concession vary substantially across attributes, individuals, dyads, and product categories, and are associated with demographics such as sex mix, age difference, and parent education.",
+    "Dyads with larger revised preference differences show higher concession by both parents and teenagers, supporting a negative association between preference convergence and concession.",
+    "Higher own concession is associated with lower own postdecision satisfaction, and the positive interaction term indicates concession is more acceptable when reciprocated by the other member."
+  ],
+  "one_line_summary": "Using two parent-teen field studies and a hierarchical Bayes model, the paper shows that decomposing influence into preference revision and concession reveals that preference convergence lowers concession and reciprocated concession improves satisfaction with joint choices.",
+  "relation_to_prior_work": "extends prior marketing research on family/group influence by separating outcome-based influence into revision during discussion and concession at the joint choice stage. It also brings ideas about convergence and conflict from organizational group decision work into a purchase decision context and tests them at the attribute level.",
+  "research_gap": "Prior marketing work heavily studies who influences group outcomes, but commonly used influence measures from stated reports or outcome proximity do not reveal the underlying process by which preferences change and compromises are made. The paper also identifies that the relationship between preference revision (convergence) and concession, and its implications for satisfaction, had not been directly examined in this context.",
+  "research_question": "How can group member influence be decomposed into preference revision and concession in dyadic purchase decisions, and how do these components vary across attributes and people? Do converging revised preferences reduce concession, and how does concession by each member affect postdecision satisfaction, including reciprocity effects?"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is discussed repeatedly as a close methodological antecedent, not just listed in background citations. The citing paper uses P2V-MAP to motivate neural embedding-based inference of product competition, then explicitly contrasts its own approach on key dimensions (bootstrapping for robustness, sequence-aware clickstream use, and handling products that belong to multiple submarkets). It also positions its main contribution as addressing a limitation in prior embedding-plus-map approaches such as P2V-MAP, indicating a meaningful role in framing and method development.",
+  "relation_description": "The citing paper extends the embedding-based market mapping line represented by P2V-MAP by adding an M4 framework that identifies and visualizes multimarket-membership products. It adapts the approach to clickstream search data with robustness and sequence enhancements while preserving the core idea of data-driven market structure mapping.",
+  "relation_type": "extends"
+}

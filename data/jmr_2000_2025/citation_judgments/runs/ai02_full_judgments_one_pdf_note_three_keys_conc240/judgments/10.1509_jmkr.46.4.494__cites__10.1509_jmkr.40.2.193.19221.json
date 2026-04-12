@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper explicitly states that its empirical analysis uses a mail-survey automobile dataset and directs readers to Ratchford, Lee, and Talukdar (2003) for the complete data description. This is more than a passing literature mention: the cited work is used to document the provenance and structure of the core data used in the 2009 model estimation. Although the citing paper does not build on the cited paper's Internet-search theory, it relies on that prior study as an empirical basis for its dataset context.",
+  "relation_description": "The citing paper uses the survey data context documented in Ratchford et al. (2003) and cites it as the primary source for full description of the dataset employed in its own analysis. Thus, the cited paper functions as an empirical foundation for the 2009 study's data setup.",
+  "relation_type": "foundational_for"
+}

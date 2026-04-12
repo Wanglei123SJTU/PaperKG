@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Katona et al. (2011) as a specific prior benchmark in two functional places: to represent work on receiver-side local network effects in adoption, and to illustrate an individual-level modeling approach that averages sender characteristics under multiple exposures. It then argues that this prior approach does not identify dyadic shared-network effects and motivates its own dyadic hazard model that attributes influence to individual cosenders. This is more than a passing literature-list mention because the cited paper helps frame both the conceptual gap and the modeling contribution.",
+  "relation_description": "The citing study builds on the line of work exemplified by Katona et al. (2011) on network-driven diffusion, but sharpens it by moving from receiver-level averaging to dyad-level estimation with explicit sender-receiver overlap measures and multiple-sender attribution.",
+  "relation_type": "refines"
+}

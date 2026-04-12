@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a Bayesian data-fusion method for combining individual-level panel data from some platforms with aggregate time-series data from other platforms to infer joint multiplatform behavior.",
+    "Introduces a hierarchical multivariate logit structure that separates long-run cross-user platform relationships from within-day cross-platform correlations.",
+    "Demonstrates how the method can be used with readily available industry data to gauge multiplatform usage and run counterfactual media-plan forecasts."
+  ],
+  "context": "The application studies ESPN users' World Cup media consumption across ESPN.com, ESPN3 streaming video, ESPN Mobile, and television during the 2010 FIFA World Cup. The setting reflects a common marketing problem where digital channels are tracked at the user level but traditional channels are only observed in aggregate.",
+  "design_and_data": "The authors specify a hierarchical Bayesian multivariate logit model with user-level random intercepts, day-level multivariate errors, and a spike-at-zero component for inactive users. For one platform observed only in aggregate, they integrate over latent individual outcomes and estimate via MCMC data augmentation in WinBUGS under aggregate constraints. They run synthetic-data parameter-recovery studies (including a misspecification check) to examine identification when one platform is aggregate only. Empirically, they use daily data for 2,000 registered ESPN users from June 4 to July 11, 2010 on three digital platforms, fused with Nielsen aggregate daily U.S. television ratings, and assess fit with posterior predictive checks and temporal and cross-sectional holdouts.",
+  "focal_constructs": [
+    "Bayesian data fusion",
+    "mixed aggregate and disaggregate data",
+    "hierarchical multivariate logit model",
+    "intraday cross-platform correlation",
+    "long-term cross-platform propensity correlation",
+    "multiplatform media consumption",
+    "spike-at-zero inactivity",
+    "reach and cumulative reach forecasting"
+  ],
+  "main_findings": [
+    "In simulation, the model recovers identified population parameters, including intraday cross-platform correlations, even when one platform is observed only in aggregate.",
+    "In the World Cup application, posterior predictive checks and holdouts show good fit for daily and cumulative reach and for individual usage patterns on the digital platforms.",
+    "Estimated platform relationships show no significant negative correlations across channels; mobile appears largely incremental rather than strongly cannibalistic, and removing mobile coverage is forecast to leave total cumulative reach essentially unchanged (49.7% vs. 49.7%)."
+  ],
+  "one_line_summary": "The paper proposes a Bayesian data-fusion hierarchical multivariate logit model that combines individual digital usage and aggregate television ratings to estimate cross-platform media consumption and evaluate alternative media plans.",
+  "relation_to_prior_work": "extends prior data-fusion and aggregate-data modeling by handling a multivariate usage process with mixed individual-level and aggregate outcomes. Unlike approaches that rely on individual-level linking variables, it exploits longitudinal structure and Bayesian data augmentation to connect channels when one platform has only aggregate data.",
+  "research_gap": "Prior data-fusion work typically assumes individual-level linking variables across data sets, and aggregate-data methods in marketing largely focus on multinomial choice settings rather than multivariate usage outcomes. The paper explicitly argues that, despite the prevalence of mixed aggregate/disaggregate platform data in marketing practice, a direct method for this fusion problem was lacking.",
+  "research_question": "How can firms infer joint individual-level multiplatform behavior when some channels are observed as individual panel data and others only as aggregate totals over time? Can a Bayesian model use longitudinal structure to identify cross-platform relationships, especially within-day versus long-run correlations, and support actionable media-planning forecasts?"
+}

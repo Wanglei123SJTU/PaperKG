@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used as a specific prior modeling approach, not just background: the authors explicitly state that their detailing-generation mechanism differs from Manchanda, Rossi, and Chintagunta (2004). This contrast helps define the citing paper's core contribution, namely incorporating competitive strategic behavior in physician-level detailing while jointly estimating prescription and detailing equations. In the robustness section, they also implement the Manchanda et al. heuristic as an alternative specification, so the citation directly informs model benchmarking and interpretation.",
+  "relation_description": "The citing paper builds on Manchanda, Rossi, and Chintagunta (2004) by replacing its heuristic detailing-allocation rule with a simultaneous, profit-maximizing competitive detailing model at the physician level. It treats the 2004 model as a methodological baseline and extends it to account for rival reactions when quantifying targeting gains.",
+  "relation_type": "extends"
+}

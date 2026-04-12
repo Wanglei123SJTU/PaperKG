@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper claims to be the first systematic study of how thin slices of ad information across very brief to long exposure durations affect ad and brand evaluation.",
+    "It introduces and compares three ad identification types used in practice - upfront, mystery, and false front - and tests distinct predictions for each over time.",
+    "It presents a Bayesian multilevel path and mediation analysis showing that subjective feeling of knowing what an ad promotes is a key mechanism behind evaluation effects."
+  ],
+  "context": "The paper studies ad processing in environments where consumers often view ads only briefly, such as web pages, magazines, and outdoor media. The empirical stimuli are print-like ads across multiple consumer product categories, tested in lab settings and in at-home online viewing.",
+  "design_and_data": "The authors run three controlled experiments, two in a behavioral lab with externally controlled exposure duration and one field experiment with self-controlled exposure under time pressure prompts. Experiment 1 uses 78 students and 24 target ads with exposures of 100 msec, 2 sec, 5 sec, or 30 sec, and measures ad attitude. Experiment 2 uses 150 students and 27 target ads (brand familiarity controlled by design) with exposures of 100 msec, 500 msec, 2 sec, or 10 sec, and measures identification accuracy, feeling of knowing product/brand, ad attitude, and brand attitude. Experiment 3 uses a nationally representative online panel (1,026 retained participants; 1,011 complete cases) viewing 21 ads at home; analyses use Bayesian multilevel path/mediation models with controls including picture-text relevance, visual appeal, and visual complexity.",
+  "focal_constructs": [
+    "exposure duration",
+    "thin slice impressions",
+    "ad identification types",
+    "upfront ads",
+    "mystery ads",
+    "false front ads",
+    "feeling of knowing",
+    "ad and brand attitudes"
+  ],
+  "main_findings": [
+    "Upfront ads were evaluated positively even after 100 msec exposure and stayed positively evaluated at longer durations.",
+    "Mystery ads were evaluated relatively negatively after brief exposure but improved with longer exposure, whereas false front ads showed the reverse pattern and declined with longer exposure.",
+    "Bayesian mediation results indicate that the feeling of knowing what the ad promotes, more than objective identification accuracy, mediates ad-type effects on ad and brand attitudes, with strongest mediation at brief exposures."
+  ],
+  "one_line_summary": "Across three experiments, the paper shows that ad and brand evaluation depends on exposure duration because upfront, mystery, and false front ads create different early feelings of knowing what is being promoted.",
+  "relation_to_prior_work": "extends advertising research that has mainly emphasized long exposure durations and detailed message processing by modeling rapid ad-identity impressions under brief exposure. It also complements prior creativity/message taxonomies by adding an ad-identification framework focused on how ads reveal what they promote.",
+  "research_gap": "Prior advertising research had focused largely on long exposure durations and on memory or determinants of viewing time, leaving little evidence on how very brief exposures affect evaluation. The paper argues that the fast ad-identification process and its implications for effectiveness were largely unknown.",
+  "research_question": "How does ad and brand evaluation vary with exposure duration when ads differ in how they reveal their promoted product/brand identity? Specifically, do upfront, mystery, and false front ads produce different evaluation trajectories from very brief to longer exposure, and is this explained by feeling of knowing versus identification accuracy?"
+}

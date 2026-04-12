@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops and tests a theory of product contagion in which disgusting products are believed to transfer offensive properties to other products through contact.",
+    "It argues and shows that product contagion reflects contamination beliefs rather than simple negative association, including evidence at both overall evaluation and specific attribute levels.",
+    "It shows that perceived contact is sufficient for contagion and identifies boundary conditions, including the need for disgust and for consumers to be able to visualize contact."
+  ],
+  "context": "The studies are set in consumer packaged goods contexts such as supermarket shelves and shopping carts. Source products include items such as feminine napkins and lard, and targets include cookies, notebook paper, and rice cakes.",
+  "design_and_data": "The authors report six controlled studies, mostly with undergraduate participants, using between-subject manipulations of source-target contact and related moderators. Study designs place a disgusting or nondisgusting source product near a neutral target product in carts or shelf-like displays, then measure target evaluations, quality judgments, and in one study brand choice. Key moderators include source emotion type (disgust vs irritation), package transparency (clear vs opaque), and cognitive load (3-digit vs 10-digit rehearsal), with one delayed-measure study collecting evaluations after more than one hour. A separate survey of 140 consumers and a pretest in Study 3 are used to establish that many common products elicit disgust and to validate emotion differences across source products.",
+  "focal_constructs": [
+    "disgust",
+    "product contagion",
+    "contamination beliefs",
+    "perceived contact",
+    "package transparency",
+    "target product evaluations",
+    "attribute transfer",
+    "brand choice"
+  ],
+  "main_findings": [
+    "When a disgusting source product is touching a target product, consumers report lower willingness to try and lower quality for the target than when the products are separated, and this does not spread to adjacent nontarget products.",
+    "Contagion effects persist over time, can alter choice (including selection of a less desirable cookie brand), and occur for disgusting sources but not for equally negative non-disgust sources such as income tax software.",
+    "Perceived contact and visualization are critical: effects appear with clear packaging but not opaque packaging, include transfer of a specific offensive attribute (higher perceived fat but not calories), and are mediated by disgust even under cognitive load."
+  ],
+  "one_line_summary": "Across six experiments, the paper shows that when a disgusting packaged product is perceived to touch another product, consumers treat the target as contaminated and evaluate it less favorably.",
+  "relation_to_prior_work": "extends prior social contagion research to consumer packaged goods by showing that package-level perceived contact can produce contamination effects even without actual product-to-product contact. refines mechanism claims by separating contamination from general negative association and by identifying disgust specificity and visualization as key conditions.",
+  "research_gap": "Prior consumer emotion research had paid little attention to disgust in marketplace behavior. Prior contagion work had not clearly separated contamination from associative explanations in product settings and generally emphasized actual physical contact rather than perceived contact.",
+  "research_question": "The paper asks whether physical or perceived contact with products that elicit disgust changes consumer evaluations of other products in retail settings. It also asks whether any effect reflects contamination beliefs rather than mere negative association, and when the effect appears or disappears."
+}

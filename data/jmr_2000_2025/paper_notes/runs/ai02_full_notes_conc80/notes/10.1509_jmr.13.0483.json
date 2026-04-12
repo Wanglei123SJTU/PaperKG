@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides large-scale causal evidence from a randomized field experiment on proactive churn-prevention plan recommendations.",
+    "It documents a counterintuitive backfire effect: encouraging customers to move to cost-minimizing plans can increase churn, and it presents evidence for two mechanisms (lower inertia and greater salience of past usage).",
+    "It quantifies managerial consequences and shows that simple usage-based targeting can materially improve outcomes versus broad campaigns."
+  ],
+  "context": "The study is set in a South American wireless telecommunications market with three competing carriers and menu-based monthly credit plans. Customers in the focal plan type could change plans monthly without contractual lock-in, and the firm tested proactive outbound recommendation calls.",
+  "design_and_data": "The authors ran a six-month field experiment with 64,147 eligible customers at one wireless provider, randomly assigning 10,058 to control and 54,089 to treatment. At the end of month 3, treatment customers were called and encouraged to upgrade to one of two higher-credit plans ($47 or $63), with an extra $15 credit for each of the next three months if they accepted; control customers were not contacted. For each customer, the data include plan choice and monthly revenue for three months before and after the intervention, plus churn over the three post-intervention months. The analysis compares randomized groups and estimates probit models with pre-campaign usage covariates and interactions, with robustness checks including hazard and multinomial models and propensity-score adjustments for acceptance-selection diagnostics.",
+  "focal_constructs": [
+    "customer churn",
+    "proactive plan recommendations",
+    "plan switching inertia",
+    "salience of past usage",
+    "tariff/plan choice",
+    "overage",
+    "usage variability",
+    "usage trend"
+  ],
+  "main_findings": [
+    "Proactive encouragement increased churn: 10.0% of treated customers churned within three months versus 6.4% in the control group.",
+    "The campaign increased within-firm plan switching (9.59% vs 6.54%), and treatment customers who rejected the offer still switched more than control customers, consistent with reduced inertia.",
+    "Treatment effects were heterogeneous: churn increases were larger for customers with higher usage variability and more negative usage trends, while targeting low-variability and low-overage customers yielded better churn and net-value outcomes than a mass campaign."
+  ],
+  "one_line_summary": "In a randomized telecom field experiment, proactively recommending cost-saving plan upgrades raised rather than reduced churn, with effects explained by reduced inertia and increased salience of past usage and mitigated by better customer targeting.",
+  "relation_to_prior_work": "extends customer retention and churn research by moving from correlates of churn to customers' causal responses to firm-initiated retention actions. It also extends empirical pricing-contract research by studying individualized plan recommendations rather than only the profitability of tariff menus.",
+  "research_gap": "Service firms increasingly use proactive plan recommendations to prevent churn, but there was little causal evidence on whether these interventions actually improve retention. Prior work documented churn drivers and tariff-choice biases, but did not directly test the impact of firm-initiated individual plan recommendations on churn and profitability.",
+  "research_question": "Do proactive firm recommendations that encourage customers to switch to plans predicted to save them money reduce customer churn, or can they backfire? The paper also asks why such effects occur and which customer segments are most or least suitable targets for these campaigns."
+}

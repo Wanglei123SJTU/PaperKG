@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper explicitly states that to handle endogeneity in cross-selling solicitations, it follows the approach of Manchanda, Rossi, and Chintagunta (2004). This is used in the model specification and estimation section, where solicitation is modeled as a function of household response parameters rather than treated as fully exogenous. Because the cited work informs a concrete identification/modeling choice in the empirical framework, the citation plays a meaningful methodological role beyond background mention.",
+  "relation_description": "The citing paper applies Manchanda et al. (2004)'s treatment of nonrandom marketing actions to its cross-selling setting by modeling solicitation assignment endogeneity within its hierarchical Bayesian estimation framework.",
+  "relation_type": "applies"
+}

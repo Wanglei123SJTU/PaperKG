@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces the problem of forecasting marketing-mix responsiveness before a new product launch to support launch planning decisions.",
+    "Develops a conceptually simple control function estimator that corrects slope endogeneity (in addition to intercept endogeneity) and can handle multiple endogenous marketing-mix variables and advertising carryover effects with linear regression implementation.",
+    "Provides an empirical application in the U.S. DVD market, presented as the first empirical analysis of that market in this literature, and shows how the estimates can be used for optimal advertising scheduling."
+  ],
+  "context": "The paper studies newly released movie DVDs in the U.S. home entertainment market, a short-life-cycle setting where most demand occurs soon after release and studios must set marketing decisions largely before launch. It emphasizes the sequential theatrical-to-DVD channel environment and title-level heterogeneity in response to advertising, timing, and price.",
+  "design_and_data": "The empirical application uses 526 new DVD titles released between January 2000 and October 2003, combining weekly DVD sales, retail prices, TV advertising GRPs, release timing, theatrical performance, title attributes, DVD extras, seasonality, and market competition measures. The authors estimate first-stage equations for endogenous advertising, release delay, and retail price using predetermined covariates and supply-side instruments (including studio indicators and related interactions), then include residual-based control functions in a second-stage sales equation with random-coefficient responsiveness terms. The model accommodates advertising carryover via goodwill stock and is estimated on panel data at the title-week level with robust standard errors. A 52-title holdout sample is used to forecast advertising elasticities and evaluate profit-improving advertising schedules.",
+  "focal_constructs": [
+    "marketing-mix responsiveness forecasting",
+    "slope endogeneity",
+    "intercept endogeneity",
+    "control function estimation",
+    "advertising elasticity heterogeneity",
+    "advertising carryover goodwill",
+    "DVD release delay elasticity",
+    "word of mouth and advertising interaction"
+  ],
+  "main_findings": [
+    "Advertising responsiveness varies substantially across DVD titles (release-week elasticities roughly from 0.14 to 0.02) and declines quickly over weeks after release.",
+    "Ignoring slope endogeneity materially biases responsiveness estimates: relative to the full-correction model, OLS overestimates average release-week advertising elasticity and standard IV (intercept-only correction) underestimates it, and the full model fits better.",
+    "Word of mouth positively moderates advertising effectiveness (complementarity), and profit-maximizing advertising schedules based on the model improve profits by about 12.2% on average in the holdout exercise."
+  ],
+  "one_line_summary": "Using U.S. DVD data, the paper proposes a control-function approach to forecast prelaunch marketing-mix responsiveness under slope endogeneity and shows that correcting this bias changes elasticity estimates and improves advertising-profit decisions.",
+  "relation_to_prior_work": "extends prior marketing endogeneity work that mainly addresses intercept endogeneity by explicitly modeling slope endogeneity in marketing-mix response. extends control-function ideas from labor econometrics to aggregate product-week marketing data with multiple endogenous variables and advertising carryover. extends entertainment marketing evidence by providing empirical analysis of DVD demand and advertising response.",
+  "research_gap": "The paper states that research has focused far more on forecasting new-product sales than on forecasting marketing-mix responsiveness before launch. It also argues that standard endogeneity corrections in marketing largely ignore managers' private information about heterogeneous marginal returns (slope endogeneity), especially when multiple endogenous decisions and carryover are present.",
+  "research_question": "How can firms forecast a new product's responsiveness to marketing-mix variables before launch using historical data when managers' private information makes observed marketing decisions endogenous? Specifically, can a practical estimator correct both intercept and slope endogeneity for multiple endogenous variables and advertising carryover, and what does this imply for DVD advertising planning and profitability?"
+}

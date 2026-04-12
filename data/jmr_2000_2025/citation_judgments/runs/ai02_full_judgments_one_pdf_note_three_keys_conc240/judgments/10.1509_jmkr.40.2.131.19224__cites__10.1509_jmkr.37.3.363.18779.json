@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the citing paper, Ansari, Essegaier, and Kohli (2000) is cited with a specific functional role, not just as background: the authors state it shows hierarchical Bayesian models are well suited for recommendation systems, including sparse-data settings. They then contrast prior recommendation systems as mainly focused on recommending existing items and explicitly position their own method as a generalization to customized e-mail/web design plus optimization. The cited paper also appears in the methodological framing of Bayesian heterogeneity modeling, reinforcing its contribution to the paper's setup.",
+  "relation_description": "The 2003 paper builds on Ansari et al. (2000) as a prior hierarchical-Bayesian recommendation approach and extends that line from item recommendation to personalized e-mail content and layout design. It adds a semiparametric heterogeneity model and an explicit optimization stage for communication configuration.",
+  "relation_type": "extends"
+}

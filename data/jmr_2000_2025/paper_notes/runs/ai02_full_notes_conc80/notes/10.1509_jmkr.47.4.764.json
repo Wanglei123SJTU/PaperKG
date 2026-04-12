@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The study provides an empirical test of how sales force control systems influence the success of new product introductions.",
+    "It identifies a counterintuitive mechanism in which more favorable salesperson perceptions of a new product can reduce salesperson effort on that product, with control systems moderating this effect.",
+    "It contributes a longitudinal multisource design using customer ratings and archival objective measures of effort and sales, addressing limits of prior cross-sectional single-source work."
+  ],
+  "context": "The study is set in the female health care division of a midsized pharmaceutical company, where sales representatives directly call on physicians in a missionary selling context. Each representative managed a portfolio of five products including the focal new product.",
+  "design_and_data": "The authors collected longitudinal data from three sources across three time points around a new product launch. At Time 1, 226 of 254 sales representatives completed a survey on new product perceptions, control system perceptions, and experience; at Time 2 (6 months), objective call activity for the new product was taken from CRM records and physician product perceptions were collected (428 usable physician surveys from 3000 mailed); at Time 3 (12 months), new product sales performance (percent to quota) came from company records. Measures included formative scales for salesperson and customer product perceptions and an index of behavior- versus outcome-based control from Oliver and Anderson's scale. The model was estimated with partial least squares and bootstrapping, including interaction terms.",
+  "focal_constructs": [
+    "salesperson new product perceptions",
+    "behavior-based control system",
+    "outcome-based control system",
+    "salesperson effort on the new product",
+    "customer product perceptions",
+    "new product sales performance",
+    "salesperson experience"
+  ],
+  "main_findings": [
+    "Higher salesperson perceptions of new product superiority were associated with lower salesperson effort on that new product.",
+    "Behavior-based control attenuated the negative perception-to-effort relationship, but it also weakened the positive effect of salesperson effort on customer product perceptions relative to outcome-based control.",
+    "Salesperson effort positively affected customer product perceptions, and customer product perceptions positively affected new product sales."
+  ],
+  "one_line_summary": "Using longitudinal pharmaceutical sales data, the paper shows that behavior-based control can increase mandated effort on a new product but can undermine launch success by reducing how effectively that effort improves customer perceptions and sales.",
+  "relation_to_prior_work": "extends prior research on new product introductions and sales force control by empirically linking salesperson product beliefs, control systems, customer perceptions, and objective launch outcomes in one model. It also answers prior calls for empirical work on salesperson and control-system roles in new product adoption using longitudinal multisource evidence.",
+  "research_gap": "The paper argues that research has largely neglected the sales force's role in new product success, despite its practical importance. It specifically highlights a lack of empirical evidence on how control systems and salesperson factors jointly shape new product launch outcomes, and notes that much prior work relied on cross-sectional single-source self-reports.",
+  "research_question": "How do salesperson perceptions of a new product and sales force control systems jointly influence salesperson effort during a new product launch? Do these effects carry through customer product perceptions to affect new product sales performance?"
+}

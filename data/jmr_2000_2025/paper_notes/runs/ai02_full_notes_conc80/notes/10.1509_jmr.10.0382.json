@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a behavioral model in which queue abandonment is driven by two opposing forces: increasing disutility of waiting and increasing utility of completing a near-finished wait.",
+    "Shows experimentally that this competing-forces process can generate an inverted U-shaped abandonment hazard and systematic departures from normative waiting policies in recurrent queues.",
+    "Demonstrates that contextual factors such as number of alternatives, elapsed-time salience, activity during the wait, and comparative queue information shift abandonment behavior."
+  ],
+  "context": "The core empirical setting is a lab time-management game that mimics waiting for downloads from alternative peer-to-peer servers under a fixed time budget. The paper also uses emergency call-center data from Hyderabad, India (108 system) to document real-world call abandonment and hang-up/redial behavior.",
+  "design_and_data": "The authors run three laboratory experiments in which undergraduates repeatedly choose whether to stay in or abandon download waits during 150-second games. Across studies they manipulate wait-time distribution (uniform versus multimodal), number of alternative queues, presence of a clock, delayed availability of the stop option, activity during the wait (active clicking versus passive), and feedback about unchosen-queue wait times. Analyses use hazard/survival plots, logistic models with GEE, and calibration of a competing-hazards utility model. They also analyze field data on 322,808 emergency calls in Hyderabad (plus a same-day survey of 806 callers who hung up) as external evidence and for model fit illustration.",
+  "focal_constructs": [
+    "wait abandonment (reneging)",
+    "waiting disutility",
+    "completion commitment",
+    "abandonment hazard rate",
+    "recurrent queues",
+    "time salience",
+    "alternative queue information",
+    "activity during waiting"
+  ],
+  "main_findings": [
+    "Abandonment hazard rates are inverted U-shaped over elapsed wait time in the lab tasks, including when the design controls for survivor-bias concerns.",
+    "Behavior departs from normative policy: participants often abandon when they should stay (including uniform waits where abandonment is not optimal) and also stay when they should abandon in multimodal waits, reducing achieved performance versus the optimal benchmark.",
+    "Abandonment is moderated by context: more alternatives generally increase abandonment, engaging participants in an activity during waiting reduces abandonment, and knowing the unchosen queue would be slower reduces abandonment; in the call-center data, many impatient hang-up-and-redial callers experienced longer total waits."
+  ],
+  "one_line_summary": "The paper shows that stay-or-abandon decisions in service queues reflect a trade-off between rising waiting displeasure and rising completion commitment, yielding an inverted U-shaped abandonment pattern that is often suboptimal.",
+  "relation_to_prior_work": "extends normative queueing models and prior waiting psychology by integrating myopic waiting disutility with goal-completion commitment in a single time-varying abandonment account for recurrent queues.",
+  "research_gap": "Normative queueing logic for many recurrent waiting problems implies little or no abandonment, yet real consumers frequently renege. The paper argues that prior work did not adequately model the psychological process governing stay-versus-abandon decisions over the course of a wait in such recurrent settings.",
+  "research_question": "How do consumers decide whether to stay in or abandon a service queue as waiting time unfolds in recurrent waiting tasks? Do these decisions reflect a dynamic trade-off between increasing disutility of waiting and increasing commitment to completion, and how do contextual cues shift that trade-off relative to normative optimal policies?"
+}

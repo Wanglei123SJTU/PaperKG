@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper identifies and validates a comprehensive eight-attribute framework for B2B customer satisfaction: quality, pricing, safety, sales process, project management, CSR, communication, and ongoing service and support.",
+    "It shows that attribute asymmetry is context dependent: attributes can be satisfaction balancing, maintaining, or enhancing, and both sign and magnitude vary across industry and customer subgroups.",
+    "It provides a managerial and methodological framework that links attribute-level satisfaction to financial performance in B2B settings while modeling heterogeneity and addressing potential endogeneity."
+  ],
+  "context": "The study is set in business-to-business markets, primarily using U.S. publicly traded suppliers across many industries and a separate single-firm service context in North America. The single-firm application is a modular office leasing provider that uses customer satisfaction data for strategy planning.",
+  "design_and_data": "Study 1 uses qualitative interviews/focus groups with over 50 B2B executives and text analysis of Form 10-K filings from the top 50 U.S. publicly traded B2B firms (2016) to surface and validate strategic attributes. Study 2 analyzes 11,451 survey responses from managers rating 1,785 public B2B suppliers across 25 industry groups (Jan 2017-Jun 2019), merged with Compustat data for sales outcomes. Study 3 uses 4,072 customer surveys from one national service supplier (19 customer groups) matched to transaction outcomes (dollar value of purchase, with units purchased also examined). The empirical approach models separate dissatisfaction and satisfaction effects, allows subgroup-varying slopes with Bayesian stochastic search variable selection, applies latent-IV based endogeneity correction, and links satisfaction to performance via seemingly unrelated regressions.",
+  "focal_constructs": [
+    "attribute-level customer satisfaction",
+    "overall customer satisfaction",
+    "asymmetric effects (satisfaction maintaining, balancing, enhancing)",
+    "industry subgroup heterogeneity",
+    "customer subgroup heterogeneity",
+    "strategic B2B attributes",
+    "financial performance (sales, purchase value)"
+  ],
+  "main_findings": [
+    "The authors identify eight strategic B2B satisfaction attributes, and these attributes account for most customer/client-focused emphasis in 10-K text (73.79% of extracted customer/client sentences).",
+    "In the multifirm sample (Study 2), quality, communication, and ongoing service/support are satisfaction-maintaining; pricing, safety, and project management are satisfaction-balancing; and sales process and CSR are satisfaction-enhancing, with substantial heterogeneity across industries.",
+    "Overall satisfaction is positively associated with financial outcomes: in Study 2, a one-point increase in satisfaction is associated with a 12.96% increase in sales, and in Study 3 higher overall satisfaction is associated with higher customer purchase value (and units)."
+  ],
+  "one_line_summary": "Across three studies, the paper builds an eight-attribute B2B satisfaction framework, demonstrates context-dependent asymmetry and heterogeneity in how attributes drive overall satisfaction, and shows that higher satisfaction is linked to stronger financial performance.",
+  "relation_to_prior_work": "extends prior B2B customer satisfaction research that over-relied on a narrow attribute set and often treated asymmetry as fixed by showing attribute effects are contingent on industry and customer subgroup context. It introduces evidence on underexamined attributes such as safety, project management, CSR, and especially ongoing service and support. It also broadens sparse B2B evidence on outcomes by linking satisfaction to financial performance.",
+  "research_gap": "The paper argues that B2B firms invest heavily in satisfaction programs but lack guidance on which strategic attributes matter, with prior B2B research sparse and concentrated on quality/pricing while largely ignoring attributes such as ongoing service/support and CSR. It also highlights that prior work commonly assumes invariant asymmetry and offers limited evidence on subgroup heterogeneity and financial impact in B2B contexts.",
+  "research_question": "The paper asks four questions: which strategic attributes drive B2B customer satisfaction, whether each attribute is satisfaction balancing/maintaining/enhancing, whether asymmetry varies across industry and customer subgroups, and whether satisfaction is linked to financial performance in B2B markets."
+}

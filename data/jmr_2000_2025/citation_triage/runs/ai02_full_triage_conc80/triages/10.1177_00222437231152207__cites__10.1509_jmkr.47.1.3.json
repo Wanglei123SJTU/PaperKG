@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper explicitly states it \"uses a control-function approach to address endogeneity\" in its empirical model, and the cited paper’s core contribution is introducing a control-function method for endogeneity. Given this direct method alignment (and a DOI-level match to that exact methodological paper), this is plausibly substantive rather than a generic mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

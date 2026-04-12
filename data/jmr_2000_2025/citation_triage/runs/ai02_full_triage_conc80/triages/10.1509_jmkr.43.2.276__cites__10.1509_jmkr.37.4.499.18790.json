@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper centers on bagging/boosting trees and rare-event sampling corrections for telecom churn, whereas the cited paper is about multilayer neural networks for NPD project selection; the notes show no direct methodological dependency, benchmark reuse, or mechanism transfer between them. The matched evidence is only a single DOI reference entry with no citation-context text, which is more consistent with a general background mention of prior predictive modeling in marketing.",
+  "triage_decision": "drop_obvious_mention_only"
+}

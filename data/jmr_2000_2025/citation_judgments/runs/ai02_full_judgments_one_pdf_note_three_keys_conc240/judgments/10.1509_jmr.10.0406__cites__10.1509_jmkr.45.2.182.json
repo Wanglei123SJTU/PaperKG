@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citation is used repeatedly in the theory framing, contribution map, model setup, and results discussion, not just as background. The authors explicitly position Luo, Kannan, and Ratchford (2008) as prior work that incorporates subjective characteristics but omits explicit influence from others, which motivates their new PIE component. They also implement Luo et al.-equivalent benchmark models (Models 2 and 5) and compare predictive performance against them. This shows a direct developmental role in the citing paper's argument and empirical design.",
+  "relation_description": "The citing paper builds on Luo, Kannan, and Ratchford (2008) as the immediate predecessor moving from objective attributes to (P,I), then extends that line to (P,I,E) by adding explicit external-peer influence and a group-sourced measurement mechanism. It uses Luo et al.'s framework as a benchmark baseline for model comparisons and claimed improvement.",
+  "relation_type": "extends"
+}

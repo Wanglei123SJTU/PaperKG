@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a blended choices perspective by integrating self-versus-other choice research with joint consumption research to explain choices designated for the self that may be shared with dependents.",
+    "Identifies a downstream consequence of choosing for others: after choosing healthy for a child, parents may choose less healthy for themselves when sharing is possible because they manage uncertainty about the child's eating.",
+    "Adds to family nutrition and caregiving research by showing how child-directed food choices can shape parents' own health choices and by clarifying the role of present-focused versus future-focused parenting motivations."
+  ],
+  "context": "The paper studies parent-child food decisions in joint eating situations, such as nursery school takeout ordering, restaurant or cafe ordering, meal planning service choices, and school event lunches. Participants were U.S. parents living with a child.",
+  "design_and_data": "The authors report five preregistered studies, including a nursery school field study with real meal orders (N=35) and four online experiments with Prolific parents (N=792, N=548, N=830, N=1,609). In each study, parents chose for a child first and then chose for themselves, with the key manipulation varying sharing salience, sharing intention, or whether sharing was possible. Study 2 used parallel mediation measures; Studies 3-5 tested moderators tied to parenting focus and child meal characteristics. The primary dependent variable across studies was whether the parent's own choice was healthy versus unhealthy.",
+  "focal_constructs": [
+    "caregiving food choices",
+    "possibility of sharing",
+    "blended choices for self and others",
+    "healthy versus unhealthy meal choice",
+    "parents' subsequent self-choice",
+    "present-focused parenting concerns",
+    "future-focused parenting concerns",
+    "concern that the child will not eat or enjoy healthy food"
+  ],
+  "main_findings": [
+    "After parents chose a healthy meal for their child, making sharing of the parent's meal possible or salient increased parents' likelihood of choosing an unhealthy meal for themselves.",
+    "This effect was explained by greater concern that the child might not enjoy or eat the healthy child meal, while an alternative account based on parents planning to eat the child's meal was not supported.",
+    "The effect was mitigated or eliminated when parents were prompted to be future-focused, when the child meal was unhealthy, and when healthy child options were ones the child was perceived to relatively like."
+  ],
+  "one_line_summary": "Across five studies, the paper finds that choosing healthy food for a child can backfire by making parents choose less healthy food for themselves when they anticipate sharing, largely because they worry the child will not eat the healthy option.",
+  "relation_to_prior_work": "extends prior self-versus-other choice and joint consumption work by identifying a mixed caregiving context in which a self-designated choice is made with another person's needs in mind under possible sharing. It refines sequential choice understanding by showing that initial choices for others can systematically shift later self-choices via child-focused eating concerns.",
+  "research_gap": "Prior self-versus-other research typically treats choices for self and others as separate, while joint consumption work typically studies one shared choice. The paper argues that little research examines caregiving sequences where parents choose for a child and then for themselves under possible sharing, and how those choices for others affect subsequent self-choices.",
+  "research_question": "How does making an initial healthy food choice for a child affect the healthiness of a parent's subsequent choice for the self when sharing the parent's meal with the child is possible versus not possible? The paper also asks why this happens and under what conditions the effect is reduced."
+}

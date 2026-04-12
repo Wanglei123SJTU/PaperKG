@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and tests a novel mechanism for single-entity score judgments: cumulative formats distort perceptions of the underlying raw score of a deviating episode.",
+    "It provides evidence that combined displays are judged more like incremental displays than like ready-made cumulative summaries.",
+    "It identifies score presentation format as a practical, easy-to-change lever that can upplay or downplay deviating scores and thereby influence marketing-relevant outcomes."
+  ],
+  "context": "The studies are set in common rating environments where people or offerings receive sequential scores, including peer-to-peer services, online reviews, streaming content ratings, product review aggregators, freelance marketplaces, gifting platforms, education programs, and train commute quality. The focal managerial context is how platforms and firms display ratings to consumers, workers, and managers.",
+  "design_and_data": "Before the experiments, the authors present an initial real-world illustration using scraped TV-series data from Trakt (combined format) and Simkl (cumulative format), covering 320 series and 938 seasons, and relate negative deviations to continuous adoption. The core evidence comes from nine experiments across online panels and a lab setting that manipulate score format (incremental, cumulative, combined), deviation patterns, and representativeness cues. Outcomes include inferred quality of the deviating episode, overall performance or quality evaluations, and behavioral choices such as switching to alternatives. One study uses a two-wave design with more than 24 hours between episodes, and another uses an incentive-compatible raffle choice task.",
+  "focal_constructs": [
+    "quantitative performance scores",
+    "incremental presentation format",
+    "cumulative presentation format",
+    "combined presentation format",
+    "deviating raw scores",
+    "overall performance evaluations",
+    "alternative option choice",
+    "representativeness of deviating episode"
+  ],
+  "main_findings": [
+    "When a score deviates from prior scores, cumulative displays make the deviating episode seem less extreme than incremental displays (negative deviations look less negative, and positive deviations look less positive).",
+    "For generally well-performing entities that receive a negative score, overall evaluations are less negative under cumulative displays than under incremental or combined displays, and this pattern appears even with only two scores and with delays longer than one day.",
+    "Cumulative displays reduce switching to alternatives after a negative deviation, and the format effect is weaker when the deviation is perceived as less representative and stronger when it is perceived as more representative."
+  ],
+  "one_line_summary": "Across nine experiments, the paper shows that cumulative score displays make deviating ratings seem less extreme than incremental or combined displays, which shifts overall evaluations and choice behavior.",
+  "relation_to_prior_work": "extends prior work on cumulative versus incremental information formats by moving from explicit multi-entity comparisons to single-entity score sequences with deviating episodes. It introduces an explanation based on distorted inference of underlying raw scores, rather than relying only on cumulative redundancy. It also broadens the literature by documenting effects for combined formats and delayed episodes.",
+  "research_gap": "Although incremental, cumulative, and combined score displays are widespread in the marketplace, little was known about how these formats influence judgments when evaluating a single entity. Prior format research largely examined explicit comparisons between multiple entities, leaving unclear whether and why format changes reactions to deviating episodes in single-entity settings.",
+  "research_question": "How does the format in which an entity's scores are presented affect decision makers' judgments? Focusing on deviating raw scores, the paper asks whether incremental, cumulative, and combined displays change inferred episode performance, overall evaluations, and downstream decisions."
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides an initial, theory-driven application of work-life conflict and enrichment ideas to a marketing and advertising context.",
+    "Shows that a product's inherent resource demands are a key contingency for whether work-life ad positioning helps or hurts consumer response.",
+    "Offers actionable guidance on ad content and audience targeting, challenging the common assumption that work-life messaging is uniformly beneficial."
+  ],
+  "context": "The paper studies social media advertising for products framed around work and life needs, using campaigns on Facebook, LinkedIn, and Instagram. Empirical settings include graduate business programs (resource-demanding) and a teeth-whitening product (resource-undemanding), targeted to employed consumer segments.",
+  "design_and_data": "The authors combine exploratory interviews with 14 working women with school-aged children, a survey of 118 working professionals/alumni, one secondary-data study, and four field experiments. Study 1 analyzes 23,101 daily ad observations from a private university business school's campaigns for six graduate programs, coding ads as work-life or single-domain and modeling clicks with zero-inflated negative binomial models. Studies 2-5 run A/B-tested social media campaigns with partner organizations for MBA/MS programs and a teeth-whitening product, with daily ad-level click data (n=923, 695, 259, and 706 observations). Segment tests compare groups expected to differ in baseline work-life conflict (executives vs midlevel managers, conservative vs liberal working women, and working women with vs without children).",
+  "focal_constructs": [
+    "work-life advertising content",
+    "single-domain ad content",
+    "product resource demands",
+    "work-life conflict",
+    "work-life enrichment",
+    "baseline work-life conflict",
+    "ad clicks",
+    "consumer segment targeting"
+  ],
+  "main_findings": [
+    "For resource-demanding products (graduate programs), work-life ads generated fewer clicks than single-domain ads across the secondary-data analysis and field experiments.",
+    "For a resource-undemanding product (teeth-whitening), work-life ads generated more clicks than single-domain ads in two field experiments.",
+    "The ad-type effects were stronger in segments with higher baseline work-life conflict: executives for resource-demanding products, and conservative working women and working mothers for the resource-undemanding product."
+  ],
+  "one_line_summary": "Across social media field evidence, work-life ad positioning hurts click response for resource-demanding products but helps for resource-undemanding products, with larger effects in audiences facing higher baseline work-life conflict.",
+  "relation_to_prior_work": "introduces a systematic marketing application of work-life theory by linking conflict/enrichment logic to consumer ad response rather than only employee or family outcomes. It also extends product-evaluation research by identifying product resource demands as a determinant of how positioning content is received.",
+  "research_gap": "Although firms increasingly use work-life themes in advertising, prior research had not clearly tested whether this positioning strategy is effective or when it may backfire. Existing work-life research primarily examined employees or individuals, not consumer responses to marketed products.",
+  "research_question": "When does work-life positioning in ads increase versus decrease consumer interest? Specifically, do work-life ads perform differently from single-domain ads depending on product resource demands, and are these effects amplified among consumer segments with higher baseline work-life conflict?"
+}

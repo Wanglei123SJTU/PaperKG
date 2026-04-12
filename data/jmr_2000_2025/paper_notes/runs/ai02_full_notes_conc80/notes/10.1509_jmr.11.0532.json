@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "Shows that using a brand can increase consumers' self-efficacy and improve performance on difficult tasks.",
+    "Identifies implicit self-theory as a key moderator: entity theorists benefit from brand use, whereas incremental theorists generally do not.",
+    "Demonstrates a conscious mechanism tied to brand promises, and shows that this process differs from incidental nonconscious brand priming accounts."
+  ],
+  "context": "The paper studies consumer behavior in controlled experiments where college students perform difficult cognitive and physical tasks. Brands are used as symbolic performance cues (e.g., an MIT pen, a Gatorade cup with tap water) rather than as functionally performance-enhancing products.",
+  "design_and_data": "The authors report four lab experiments with undergraduate samples (final N about 76, 103, 107, and 142). Study 1 varies pen brand (MIT vs non-MIT) during a GRE math test with difficult and easy items, with implicit self-theory measured; Studies 2-4 use a strenuous 15-minute handgrip task while participants drink tap water from branded cups, with implicit self-theory manipulated or measured. Study 3 compares two self-efficacy routes (Gatorade brand use vs training tips), and Study 4 manipulates confirmation vs disconfirmation of Gatorade's performance promise. Analyses use ANCOVA/regression with controls (time and product evaluations) and bootstrap mediation tests for self-efficacy.",
+  "focal_constructs": [
+    "brand use",
+    "self-efficacy",
+    "task performance",
+    "implicit self-theories",
+    "entity vs incremental theorists",
+    "brand promise credibility"
+  ],
+  "main_findings": [
+    "Entity theorists performed better on difficult GRE items when using an MIT pen and better on a handgrip task when drinking water from a Gatorade cup, while incremental theorists were largely unaffected by brand use.",
+    "Self-efficacy mediated performance effects, and Study 3 showed different efficacy routes: brand use increased self-efficacy and performance for entity theorists, whereas training tips increased self-efficacy and performance for incremental theorists.",
+    "When Gatorade's promise of better athletic performance was disconfirmed, the brand-use benefit for entity theorists disappeared, and mere exposure to the brand without using it did not improve performance."
+  ],
+  "one_line_summary": "Across four experiments, the paper finds that using brands with performance promises can consciously boost self-efficacy and difficult-task performance for entity theorists but not incremental theorists.",
+  "relation_to_prior_work": "extends prior brand-effect research by showing that, for difficult tasks, brand use can influence behavior through consciously experienced self-efficacy rather than only nonconscious activation. It also extends implicit self-theory branding work from attitudes and broad self-perceptions to task-specific self-efficacy and observed performance.",
+  "research_gap": "Prior work mainly examined incidental brand exposure and nonconscious goal activation, or focused on brand attitudes and self-perceptions. The paper identifies a lack of evidence on whether actual brand use can consciously raise task-specific self-efficacy and improve difficult-task performance, and for whom.",
+  "research_question": "Can using a brand that promises task-relevant benefits increase consumers' self-efficacy and improve performance on difficult tasks? Do these effects depend on consumers' implicit self-theory, especially entity versus incremental orientations, and on the credibility of the brand promise?"
+}

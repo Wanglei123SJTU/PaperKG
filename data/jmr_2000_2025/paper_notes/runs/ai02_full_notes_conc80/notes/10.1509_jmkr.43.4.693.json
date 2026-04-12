@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides an integrative meta-analysis of adaptive selling behavior and customer orientation, synthesizing findings across 155 sales force samples.",
+    "Extends prior performance-measure research by modeling self-rated, manager-rated, and objective salesperson performance outcomes together.",
+    "Compares alternative and reciprocal structural specifications (including ASB-CO and performance-satisfaction directions) and examines multiple study-level moderators."
+  ],
+  "context": "The study covers native English-speaking sales forces from 1979 onward across telemarketing, door-to-door, organizational, and retail selling contexts. Samples include both goods and services settings, such as pharmaceuticals, real estate, cars, computers/computer services, insurance/financial services, and advertising products/services.",
+  "design_and_data": "The authors extracted pairwise correlations from published and unpublished sources, including 33 journals, 48 dissertations, and 6 conference/working-paper sources, consolidating duplicate publications from the same sample. The final dataset contains 155 independent samples with 31,428 salespeople and 28 meta-analytic correlations; ASB correlations came from 42 studies and CO correlations from 40 studies (10 with both). They estimated random-effects mean correlations, assessed heterogeneity, tested moderators with weighted regression, and then used LISREL SEM on the pooled correlation matrix (harmonic mean N = 1544) with reliability corrections.",
+  "focal_constructs": [
+    "adaptive selling behavior",
+    "customer orientation",
+    "salesperson performance",
+    "job satisfaction",
+    "selling experience",
+    "salesperson gender",
+    "self-rated vs manager-rated vs objective performance"
+  ],
+  "main_findings": [
+    "Adaptive selling behavior positively affects self-rated, manager-rated, and objective performance, and also increases job satisfaction.",
+    "Customer orientation increases self-rated performance and job satisfaction, but has no significant effect on manager-rated or objective performance.",
+    "Reciprocal tests support ASB -> CO and job satisfaction -> performance (not the reverse); selling experience increases performance but not job satisfaction, and gender effects on outcomes are small."
+  ],
+  "one_line_summary": "Using a random-effects meta-analysis of 155 samples (31,428 salespeople), the paper finds that adaptive selling is a stronger and more consistent predictor of salesperson outcomes than customer orientation, especially for performance.",
+  "relation_to_prior_work": "extends earlier sales force meta-analyses by synthesizing two prominent but previously non-meta-analyzed constructs, adaptive selling behavior and customer orientation. It also extends prior work on performance measurement by jointly examining objective outcomes with self and manager ratings, and by testing reciprocal causal alternatives.",
+  "research_gap": "The paper argues that adaptive selling and customer-oriented selling were both major research streams that had not yet been meta-analyzed. Given prior meta-analyses that explained limited variance in salesperson outcomes, the field lacked an integrated estimate of how these constructs relate to different performance measures and job satisfaction.",
+  "research_question": "What are the antecedents and consequences of adaptive selling behavior and customer orientation in sales contexts? Specifically, the study tests how ASB and CO relate to performance and job satisfaction, whether ASB causes CO or vice versa, and whether performance causes satisfaction or satisfaction causes performance, while accounting for salesperson gender and selling experience."
+}

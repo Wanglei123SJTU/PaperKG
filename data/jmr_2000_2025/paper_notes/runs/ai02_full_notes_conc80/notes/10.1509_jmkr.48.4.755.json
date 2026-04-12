@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper identifies a broad class of consumer choice options that can be classified on a single self- versus other-expression (unconventionality) dimension across multiple problem types.",
+    "It provides a systematic empirical test, across four studies, that manipulations which trigger self-expression increase choice of self-expressive options, whereas expected social evaluation decreases such choices.",
+    "It argues that option characteristics offer a more parsimonious and robust account than individual-difference measures such as need for uniqueness, and shows NFU does not systematically explain the effects."
+  ],
+  "context": "The research is in consumer decision making and compares several common choice dilemmas: compromise versus extreme, sure versus risky, utilitarian versus hedonic, all-average versus mixed-value, and low-price/quality versus high-price/quality options. Evidence comes from online participants making repeated hypothetical choices in these domains.",
+  "design_and_data": "A pilot study (N=106, online pool) asked participants to rate others' choices on self-expression and other-expression descriptors across five problem types, and used confirmatory factor analysis with a random-intercept one-factor model. Study 1 (N=161) used sentence-unscrambling primes (self-expression vs other-expression vs control) and measured nine choices across three problem types. Study 2 (N=106) used recall-based risk-seeking/risk-avoidance/control primes and measured choices across four problem types to test a risk-based rival account. Study 3 (N=131) manipulated expected evaluation (accountability) versus no evaluation across ten choices in five problem types and also measured the 32-item Need for Uniqueness scale.",
+  "focal_constructs": [
+    "self-expression",
+    "other-expression",
+    "conventional versus unconventional options",
+    "extreme versus compromise choice",
+    "risky gamble versus sure gain choice",
+    "hedonic versus utilitarian choice",
+    "expected evaluation/accountability",
+    "need for uniqueness"
+  ],
+  "main_findings": [
+    "In the pilot, extreme, risky, mixed-value, high-price/quality, and hedonic options were rated as more self-expressive, while compromise, sure, all-average, low-price/quality, and utilitarian options were rated as more conventional/other-expressive, and these ratings fit a single bipolar factor.",
+    "Priming self-expression increased the share of self-expressive choices across risky, extreme, and hedonic problems, relative to control and/or other-expression priming.",
+    "Priming risk seeking increased risky-gamble choice but did not increase other self-expressive choices, and expected evaluation reduced self-expressive choices across all five problem types while NFU showed no systematic predictive or moderating role."
+  ],
+  "one_line_summary": "The paper proposes and demonstrates that several classic consumer choice dilemmas share a common self- versus other-expression dimension, with self-expression cues increasing unconventional choices and anticipated evaluation shifting choices toward conventional options.",
+  "relation_to_prior_work": "introduces a unifying option-characteristics framework that links several previously separate choice phenomena to a common self- versus other-expression dimension and tests this account against risk-seeking and need-for-uniqueness alternatives.",
+  "research_gap": "Prior work typically developed problem-specific theories for each choice dimension (e.g., risky vs safe, hedonic vs utilitarian, compromise vs extreme), which may obscure shared underlying structure across dilemmas. The paper addresses this by explicitly testing whether these options reflect one common self- versus other-expression dimension with common situational drivers.",
+  "research_question": "Can diverse consumer choice dilemmas be mapped onto a common self- versus other-expression dimension, and do situational cues that promote or suppress self-expression shift choices similarly across these dilemmas? The paper also asks whether observed effects are better explained by this common option dimension than by risk-seeking primes or individual differences in need for uniqueness."
+}

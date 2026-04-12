@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper shows that deliberately omitting crucial ad elements can improve later recall, including under very brief exposure conditions (as short as 4 seconds).",
+    "It demonstrates that recall gains are omission-specific: category-only omissions improve category recall, whereas brand-linked omissions improve brand recall as well.",
+    "It provides evidence, in advertising and visual stimuli, for a specific activation account of the generation effect rather than a purely distinctiveness-based artifact account."
+  ],
+  "context": "The studies are set in print advertising, with focal ads for cameras (Olympus/Canon) and cigarettes (Marlboro) embedded among other real print ads. The implicit omission setting relies on consumers' prior Marlboro ad schema involving the cowboy.",
+  "design_and_data": "The paper reports a series of lab experiments with undergraduate participants using real print ads, incidental learning, and subsequent recall tests. Experiment 1 (n = 118) used a 2 (element absent vs present) x 2 (4s vs 8s exposure) design plus an 8s product-unrelated omission control, with an Olympus camera ad manipulated via a missing vs filled camera image; follow-ups included a 2-day delayed recall study (n = 75) and a familiar-brand replication with Canon (n = 64). Experiment 2 (n = 146) used a 2 x 2 design (4s vs 8s) with a Marlboro ad where the cowboy was present or omitted, and recall was measured after 2 days. Follow-up Experiments 1A (n = 45) and 2A (n = 61 before exclusion checks) explicitly instructed generation of the missing element to test mechanism and also measured attitudes.",
+  "focal_constructs": [
+    "element omission in advertising",
+    "overt omission",
+    "implicit omission",
+    "self-generation effect",
+    "specific activation",
+    "distinctiveness-based elaboration",
+    "product category recall",
+    "brand recall"
+  ],
+  "main_findings": [
+    "Overt omission of a product-related visual element (camera outline) increased product category recall versus a complete ad, with no corresponding increase in brand recall or overall ad recall, and this pattern held even at 4-second exposure.",
+    "A product-unrelated omission control did not produce recall benefits and yielded lower category, brand, and total ad recall than the complete ad condition.",
+    "Implicit omission of a brand-linked element (Marlboro cowboy) improved both category and brand recall versus the complete ad, without higher total ad recall or thought listing, and forced-generation follow-ups reproduced the recall pattern."
+  ],
+  "one_line_summary": "Across multiple experiments, ads that omitted key visual elements produced better later recall on omission-related dimensions than equivalent complete ads, even under brief exposure.",
+  "relation_to_prior_work": "extends prior advertising work on incomplete/open-ended messages and object cropping by focusing on memorial outcomes of visual element omission and by testing both overt and implicit omission forms. It challenges distinctiveness-only accounts of the generation effect by showing element-specific recall gains without evidence of broader elaborative processing gains.",
+  "research_gap": "Although element omission is common in advertising, prior related advertising research mainly examined attitude effects of incompleteness rather than recall outcomes. The paper also targets an unresolved theoretical issue from generation-effect research: whether memory gains from incomplete stimuli reflect true self-generation-based activation or only the distinctiveness of incomplete items.",
+  "research_question": "Does deliberately omitting a crucial visual ad element improve subsequent recall compared with presenting the element in complete form? Do such effects occur for both overtly highlighted and implicitly inferred omissions under constrained exposure, and are they driven by specific activation of the omitted concept rather than general distinctiveness-induced elaboration?"
+}

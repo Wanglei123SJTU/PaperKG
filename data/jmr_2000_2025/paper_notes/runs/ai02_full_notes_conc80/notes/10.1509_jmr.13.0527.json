@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Investigates multiple dimensions of social contagion in a novel in-flight purchase environment and benchmarks observed patterns against predictions from classical social influence theories.",
+    "Shows that classical mechanisms alone do not explain all observed patterns and proposes omission neglect, product contagion, and goal balancing as complementary explanations.",
+    "Demonstrates that homophily and social feedback effects, often treated as confounds, can be used in behavior-based targeting to increase the social spillovers of promotions."
+  ],
+  "context": "The study is set in the in-flight marketplace of a North American airline, where passengers buy food, movies, and alcoholic beverages through seatback touch screens during U.S. domestic flights. The seating layout and line-of-sight constraints create observable local exposure to others' purchases.",
+  "design_and_data": "The author uses transaction-level data for January-February 2012, matched to Bureau of Transportation Statistics flight records and airline passenger manifests to identify occupied seats and clean flight identifiers. The final sample contains 1,966 flights, about 257,047 passengers, and 65,525 transactions. Identification uses a quasiexperimental treated-control seat pairing: a treated passenger sits laterally to a purchase initiator, while a control passenger sits one row ahead in the same seat type and with comparable neighbor structure. Estimation includes linear probability models with seat type, seat row, and flight fixed effects (clustered by flight), plus multinomial logit analyses for category-level cross-effects and targeted analyses for homophily and feedback effects.",
+  "focal_constructs": [
+    "social effects",
+    "lateral purchase exposure",
+    "homophily",
+    "social feedback effects",
+    "cross-category social influence",
+    "omission neglect",
+    "product contagion",
+    "goal balancing"
+  ],
+  "main_findings": [
+    "Observing a lateral neighbor make a purchase increases a passenger's purchase probability by about 4.5 percentage points, roughly a 29.4% relative lift over baseline incidence.",
+    "The absence of a neighbor's purchase does not significantly change purchase behavior, which is inconsistent with a symmetric informational-conformity or rational-herding prediction in this setting.",
+    "Cross-category influence can be negative and asymmetric (e.g., beverage purchases can reduce neighbors' food and movie purchases), and targeting based on homophily or social feedback yields about a 10 percentage-point incremental social effect (feedback estimate about 63% relative increase)."
+  ],
+  "one_line_summary": "Using quasiexperimental seat-based exposure in airline transaction data, the paper finds substantial lateral social influence on purchases and shows that homophily and feedback information can improve promotion targeting.",
+  "relation_to_prior_work": "extends prior social-effects identification research by applying a quasiexperimental line-of-sight design to market-level in-flight purchase behavior with precise timestamps. It challenges the sufficiency of classical contagion theories by documenting no effect of observed inaction and asymmetric negative cross-category effects. It also introduces a behavior-based targeting perspective that treats homophily and feedback as actionable signals rather than only nuisances.",
+  "research_gap": "The paper argues that social effects in purchase settings are hard to identify because exposure moments are usually unclear amid many stimuli and because unobserved shared traits can confound contagion estimates. It addresses this gap by exploiting in-flight institutional features that make local exposure and timing much more observable.",
+  "research_question": "How much does observing nearby passengers' purchases causally affect an individual's in-flight purchase behavior? Which mechanisms can explain the observed social influence patterns, and how can an airline use these effects, including homophily and social feedback, to improve real-time promotional targeting?"
+}

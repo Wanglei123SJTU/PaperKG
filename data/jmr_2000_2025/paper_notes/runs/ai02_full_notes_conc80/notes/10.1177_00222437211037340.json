@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper documents at scale a negative emotionality-brand status relationship in brand-generated social media text and images using NLP and computer vision.",
+    "It proposes and tests a mechanism in which reduced emotionality signals alignment with high-status communication norms that evoke high-status reference groups and elevate brand status inferences.",
+    "It identifies boundary conditions by showing moderation from status context and from hedonic versus nonhedonic product communication."
+  ],
+  "context": "The field setting is brand-generated social media in the luxury personal goods market, using Twitter and Weibo posts from brands selling women's shoulder bags. Experimental tests use simulated social posts for restaurant, fashion, and car brands to study status inferences.",
+  "design_and_data": "Studies 1a-1c analyze over 200,000 brand social media posts with automated text analysis and computer vision. Study 1a uses 163,905 tweets from 74 luxury brands on Twitter and regresses multiple text emotionality measures on logged median shoulder-bag price as a brand-status proxy, with brand-clustered errors and tweet-level controls. Study 1b codes 91,148 tweeted images (36,967 with faces) via Microsoft Azure Face API and estimates joint text-image emotionality effects, while Study 1c adds Weibo data (57,073 posts; 29,831 face-detected images) for cross-cultural comparison across 40 overlapping brands. Studies 2-4 are between-subjects MTurk experiments (N=629, 425, 223) that manipulate post emotionality and test moderation by status context and hedonic product type, with PROCESS mediation analyses.",
+  "focal_constructs": [
+    "brand emotionality",
+    "brand status",
+    "high-status communication norms",
+    "reference group associations",
+    "status context",
+    "hedonic product type",
+    "social media text and image content"
+  ],
+  "main_findings": [
+    "Across field text and image data, higher brand emotionality is associated with lower brand status, including on both Twitter and Weibo, with a stronger association on Twitter.",
+    "Experimental manipulations show that reducing emotionality in brand posts can increase perceived brand status via higher perceived alignment with high-status communication norms and higher-status reference group associations.",
+    "The negative emotionality-status effect is stronger in moderate/high-status contexts than in low-status contexts, and it is reduced when posts describe hedonic products."
+  ],
+  "one_line_summary": "Using large-scale social media data and experiments, the paper shows that lower brand emotionality in posts can increase perceived brand status through high-status norm alignment and reference-group inferences, with important moderators.",
+  "relation_to_prior_work": "extends canonical cultural and sociolinguistic theories linking restrained emotional expression to higher status by applying them to digital brand communication and testing them with multimodal social media data. It also refines prior social media emotionality research by identifying a status-related backfire effect beyond message-level engagement outcomes.",
+  "research_gap": "Prior work on emotionality in social media has mostly focused on message-level outcomes such as virality, engagement, and review evaluations, leaving unclear how brand emotionality shapes broader brand meaning. The branding literature had not clearly specified whether emotionality in social posts influences brand status inferences and through what process.",
+  "research_question": "How does emotionality in brand social media text and images affect perceived brand status? Specifically, can lowering brand emotionality increase status inferences, and does this occur through perceived alignment with high-status communication norms and high-status reference-group associations under different contexts and product types?"
+}

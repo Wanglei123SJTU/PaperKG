@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper appears to be a core prior in the same direct-marketing/CLV modeling stream: it formalizes joint transaction-and-spend CLV (Pareto/NBD + gamma-gamma, RFM-to-CLV) in noncontractual settings. The citing paper explicitly positions itself as extending prior CLV/customer-scoring models that assume independence between timing and quantity, which is directly related to the cited paper’s weak-dependence finding between frequency and spend. Given this likely foundational/comparison role, it should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is not a generic background mention: it directly studies identification and recoverability of disaggregate segmentation from store-level aggregate data, which closely matches the citing paper’s core problem of estimating disaggregate choice models from aggregate shares. The citing note explicitly positions its method as an alternative to prior aggregate-data discrete-choice estimators and targets a related gap (recovering richer dynamics when only aggregate data are observed), making this citation plausibly foundational/comparative. With a confirmed DOI match, this pair should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

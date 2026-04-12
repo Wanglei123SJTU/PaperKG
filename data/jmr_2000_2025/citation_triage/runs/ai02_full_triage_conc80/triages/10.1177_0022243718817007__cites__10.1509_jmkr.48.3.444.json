@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is not a generic background match: it directly models online rating social dynamics (valence/variance/volume over time) and links them to sales, which closely overlaps with the citing paper’s stated gap and contribution on WOM dynamics beyond aggregate volume/valence and revenue prediction. Given this strong conceptual and empirical alignment—and only DOI-level evidence available—it is safer to keep this pair for full relation judgment rather than drop as incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

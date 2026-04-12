@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "The paper introduces response substitution as a previously unidentified source of bias in consumer surveys, where answers to asked questions reflect unasked attitudes respondents want to express.",
+    "It provides experimental evidence for a process account in which self-expression motives drive this bias, and identifies moderators and boundary conditions.",
+    "It proposes a practical survey-design remedy by giving respondents an explicit open-ended outlet for additional thoughts, and discusses implications for attitude research and contingent valuation."
+  ],
+  "context": "The paper examines consumer survey responding in marketing-relevant settings, using U.S. participant samples. Scenarios include judgments about a wasteful versus nonwasteful person, product quality judgments of a moral versus immoral company, and restaurant decor ratings when service quality is salient.",
+  "design_and_data": "The evidence comes from three experiments. Experiment 1 is a pen-and-paper 2 x 2 between-subjects study with 137 U.S. undergraduates manipulating waste versus no-waste scenarios and question order (intelligence first vs wastefulness first). Experiment 2 is an online study with 623 U.S. adults using a 2 x 2 design (moral vs immoral company; open-ended-thought opportunity present vs absent) plus measured attitude importance. Experiment 3 is an online study with 158 U.S. adults manipulating open-ended-thought opportunity and a question-rewriting task, while measuring perceived probability that the asked response would convey the unasked attitude.",
+  "focal_constructs": [
+    "response substitution",
+    "survey bias",
+    "self-expression need",
+    "attitude importance",
+    "perceived probability of attitude conveyance",
+    "open-ended thought opportunity"
+  ],
+  "main_findings": [
+    "When respondents evaluated a wasteful person, intelligence ratings were more negative if intelligence was asked before wastefulness, but this effect was reduced when wastefulness was rated first.",
+    "In company-morality scenarios, respondents used product-quality ratings to express moral attitudes, and this substitution effect was reduced when they were told they could provide additional open-ended thoughts.",
+    "Response substitution was stronger among participants who cared more about company morality and among those who believed the asked response could convey the unasked attitude; forcing respondents to rewrite the asked question did not reduce the effect."
+  ],
+  "one_line_summary": "Across three experiments, the paper shows that survey respondents sometimes use asked questions to express unasked attitudes, and this response-substitution bias is moderated by expression motives and reduced by giving an explicit alternative outlet for expression.",
+  "relation_to_prior_work": "introduces a distinct survey-response bias and differentiates it from interpretation error, satisficing, impression management, and halo-type accounts discussed in prior work. It links this bias to self-expression and attitude-function perspectives and situates implications for debates on attitude measurement and contingent valuation.",
+  "research_gap": "Prior work documents several survey biases but had not identified whether respondents answer asked questions as substitutes for attitudes they were not asked to report. The paper also notes limited empirical attention to consumers' need to explicitly express attitudes in survey contexts.",
+  "research_question": "Do consumers sometimes answer survey questions in ways that express attitudes or beliefs they want to convey but were not asked about (response substitution)? If so, when is this bias attenuated or amplified, and what process conditions (such as expression opportunity, attitude importance, and perceived conveyance) govern it?"
+}

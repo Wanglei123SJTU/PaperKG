@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper explicitly states it \"extends prior work on preference interdependence,\" and the cited paper is directly titled and focused on \"Modeling Interdependent Consumer Preferences,\" making it a plausible foundational/theory-method source rather than a generic mention. Both notes describe hierarchical Bayesian discrete-choice modeling of endogenous interdependence, indicating strong topical and methodological alignment. Given this and the exact DOI match, this pair should be kept for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

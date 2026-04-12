@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "Dillon et al. is not just listed as background; the citing paper explicitly calls it a pioneering approach and summarizes its constrained-components decomposition in methodological detail. That decomposition directly motivates the citing paper's core structure separating a general brand factor from specific brand-image components. The authors then position their own contribution as adding Bayesian estimation and simultaneous factor-choice integration to address limitations of earlier estimation approaches.",
+  "relation_description": "The citing paper builds directly on Dillon et al. (2001)'s decomposition of brand ratings into a general/global brand effect and brand-specific associations. It extends that line by using a Bayesian higher-order confirmatory factor model for binary image data and linking the decomposed factors to conjoint choice to estimate willingness to pay.",
+  "relation_type": "extends"
+}

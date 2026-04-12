@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces the construct of incidental prices, defined as prices of unrelated goods that buyers and sellers do not view as relevant to the focal transaction, and argues they can still anchor willingness to pay.",
+    "Shows that incidental price effects arise in market-like settings with real spending commitments, not only in explicit anchor-comparison tasks.",
+    "Provides evidence on moderators of the effect, including applicability, attention, and especially sequence order, with the most recent extreme value exerting the strongest influence."
+  ],
+  "context": "The paper studies consumer pricing judgments in purchase environments where people encounter many unrelated prices, including a beach boardwalk selling setting, a laboratory auction setting, and a U.S. classic car English auction market. The substantive focus is how these incidental prices affect bids and willingness to pay for focal products.",
+  "design_and_data": "Study 1 is a field experiment with 60 beach visitors bidding on a music CD using an incentive-compatible Becker-DeGroot-Marschak mechanism while an adjacent confederate stall displayed an unrelated sweatshirt priced at either $80 or $10 (alternated in 30-minute intervals). Study 2 is a computerized lab auction experiment with 560 students (after 7 noncompletions) in a 2 x 2 x 3 factorial plus control, manipulating anchor applicability (same vs different product), attention (active vs passive), and order of numbers (HLL, LHL, LLH) before a real Vickrey bid for dinner for two. Study 3 analyzes archival data from a major U.S. classic car auction house (1995-2000), using 1,477 contiguous sold-car records with blue-book values and regressions of bid premium on an anchor variable based on the previous car's high bid, with controls for year, day, prime time, and sale status.",
+  "focal_constructs": [
+    "incidental prices",
+    "willingness to pay",
+    "anchoring effects",
+    "numeric priming",
+    "selective accessibility",
+    "anchor applicability",
+    "attention to anchors",
+    "anchor order and recency"
+  ],
+  "main_findings": [
+    "In the field study, a high incidental price ($80 sweatshirt) increased average willingness to pay for an unrelated CD versus a low incidental price ($10) by $1.71, and most participants denied any influence.",
+    "In the lab study, bids were highest when the extreme anchor appeared last (LLH: +$7.86 vs control, p < .05), applicability raised bids further (+$3.65, p < .05), and active versus passive processing did not significantly differ.",
+    "In classic car auction data, the previous car's nominal high bid significantly increased the next car's premium over blue-book value (anchor coefficient .15, p < .05), while alternative explanations based on preceding margins were not supported."
+  ],
+  "one_line_summary": "Across a field experiment, a lab auction, and archival car-auction data, the paper shows that unrelated incidental prices can anchor and systematically shift consumers' willingness to pay, especially when a high anchor is encountered most recently.",
+  "relation_to_prior_work": "extends reference price and anchoring research by showing that prices of unrelated products, encountered passively, can influence willingness to pay even when relevant market information is available and real money is at stake. It also extends prior single-anchor work by examining multiple anchors in sequence and showing the strongest effect for the most recent extreme value.",
+  "research_gap": "Prior reference-price research mostly examined prices of the same brand/product/category, and much anchoring work relied on explicit attention to a single prompted anchor. The paper identifies limited evidence on whether unrelated, incidentally encountered prices in realistic purchase settings with monetary consequences affect willingness to pay, and which anchor in a sequence matters most.",
+  "research_question": "Do incidental prices - prices for unrelated goods encountered unintentionally - anchor and alter consumers' willingness to pay for a focal product? Under what conditions is this effect stronger, particularly with respect to anchor applicability, attention, and order? Does the effect persist in real marketplace auctions where bidders have access to detailed pricing information?"
+}

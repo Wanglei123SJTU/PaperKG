@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Identifies power distance belief as a key moderator of nonparticipating consumers' preference between user-designed and designer-designed products, tested at both individual and country levels.",
+    "Introduces trust in designer-driven companies as a distinct mechanism for high-PDB consumers, alongside identification with user-driven companies for low-PDB consumers.",
+    "Shows product complexity as a boundary condition for the design philosophy x PDB effect and provides convergent evidence from experiments, field behavior, and country-level market data."
+  ],
+  "context": "The paper studies nonparticipating consumers who observe whether products are designed by users or by professional designers. Empirical settings span consumer products and services (t-shirts, cereal, umbrellas, Bluetooth earphones, coffee shop toast) and country-level software and hotel booking markets.",
+  "design_and_data": "The authors run six studies. Study 1 is a cross-country 2 x 2 experiment (design philosophy x country-level PDB proxy) with U.S. and Chinese participants (N = 391), and Study 2 is a field experiment in a Chinese coffee shop with actual purchase behavior (N = 252). Studies 3 and 4 are U.S. online experiments with manipulated PDB and design philosophy (N = 453 and N = 624), with Study 4 additionally manipulating product complexity (umbrellas vs Bluetooth earphones). Studies 5a and 5b use country-level secondary data, regressing market shares of Apache vs Microsoft (75 countries) and Airbnb vs Booking.com (50 countries) on Hofstede power distance and multiple controls.",
+  "focal_constructs": [
+    "power distance belief",
+    "user-designed products",
+    "designer-designed products",
+    "nonparticipating consumer preference",
+    "consumer identification with firm",
+    "consumer trust in firm",
+    "product complexity"
+  ],
+  "main_findings": [
+    "Across Studies 1-4, design philosophy and PDB interacted such that low-PDB consumers preferred user-designed options, whereas high-PDB consumers preferred designer-designed options.",
+    "Identification mediated the user-design advantage among low-PDB consumers, while trust mediated the designer-design advantage among high-PDB consumers.",
+    "The interaction was more evident for low-complexity products; for high-complexity products low-PDB consumers showed no significant user-versus-designer preference, and country-level analyses showed higher national power distance was associated with lower user-designed brand share and higher designer-designed brand share."
+  ],
+  "one_line_summary": "Across six studies, the paper finds that power distance belief reverses nonparticipating consumers' preference between user-designed and designer-designed products through identification and trust, with weaker moderation for high-complexity products.",
+  "relation_to_prior_work": "extends prior user-design research by introducing power distance belief as a consumer-side moderator of preference for user- versus designer-designed products. It extends the identification account in earlier work by adding trust as a distinct mechanism for high-PDB consumers and by specifying product complexity as a boundary condition. It also extends PDB research to this design-philosophy context using both individual- and country-level evidence.",
+  "research_gap": "Prior evidence on nonparticipating consumers' preference for user-designed versus designer-designed products is mixed, and existing moderators were largely product or community related. The paper argues that a theoretically grounded consumer-specific moderator and mechanism for these divergent preferences, especially preference for designer-designed products, had not been clearly established.",
+  "research_question": "When do nonparticipating consumers prefer user-designed products versus designer-designed products? Specifically, does power distance belief moderate this preference, through which psychological mechanisms (identification and trust), and does product complexity constrain the effect?"
+}

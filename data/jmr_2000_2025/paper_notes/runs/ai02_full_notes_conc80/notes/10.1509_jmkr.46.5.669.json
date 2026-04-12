@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Proposes a Bayesian mediation model to estimate how feature ad design characteristics affect sales through visual attention, with mediated-effect uncertainty computed directly from MCMC draws.",
+    "Introduces latent instrumental variables into mediation analysis to address endogeneity (including omitted-variable and measurement-error concerns) when valid observed instruments are not available.",
+    "Provides empirical evidence that gaze duration to feature advertisements affects featured-product sales beyond ad presence, and shows the method is useful for evaluating feature ad design decisions."
+  ],
+  "context": "The study examines newspaper feature advertising by supermarket retailers in the Netherlands. It focuses on short-term sales effects of featured brands and the role of visual attention to specific feature ads.",
+  "design_and_data": "Attention data came from laboratory eye-tracking tests run by Verify International on feature ads from five supermarket retailers in four Dutch national newspapers (Jan 2002 to Jun 2003), covering 110 ad display pages and about 100 adult participants per test. Sales data came from GfK household scanner panel data (4400 Dutch households) for 36 brands in soft drinks, detergent, and lager beer over the same period. The authors matched data at the feature-ad/week/retailer level, included lagged sales and own and competitive prices, and retained 107 matched feature advertisements. They estimated sequential Bayesian mediation models with MCMC and latent-instrument specifications to test and correct endogeneity in price, gaze duration, and ad surface size.",
+  "focal_constructs": [
+    "feature ad design characteristics",
+    "visual attention (average gaze duration)",
+    "featured-product sales",
+    "mediation effects",
+    "endogeneity",
+    "latent instrumental variables",
+    "advertising clutter"
+  ],
+  "main_findings": [
+    "Average gaze duration on a feature advertisement has a positive effect on sales of the featured product beyond the mere presence of the advertisement.",
+    "Ad surface size and number of advertisements on a display page affect sales indirectly through attention (complete mediation), while display-page size has both indirect and direct sales effects (partial mediation).",
+    "Models that ignore mediation and endogeneity produce biased effect estimates; price is endogenous to sales and ad surface size is endogenous to gaze duration, and correcting these changes key effect magnitudes."
+  ],
+  "one_line_summary": "Using matched Dutch eye-tracking and panel sales data, the paper shows with Bayesian mediation and endogeneity corrections that attention to feature ads predicts sales and mediates major ad design effects.",
+  "relation_to_prior_work": "introduces a Bayesian mediation framework that operationalizes the attention mechanism long suggested in visual marketing and feature advertising research. It extends standard mediation analysis by incorporating latent instrumental variables for endogenous mediator and regressors.",
+  "research_gap": "Prior research shows that feature ad presence can raise sales and that design elements affect attention, but it had not empirically established whether attention to feature ads drives sales beyond ad presence. Existing mediation approaches were also not well equipped to handle endogeneity likely in this setting.",
+  "research_question": "Do feature ad design characteristics influence featured-brand sales through consumers' visual attention to the ads? Does gaze duration have an incremental sales effect beyond ad presence, and can these direct and indirect effects be estimated consistently when key variables are endogenous?"
+}

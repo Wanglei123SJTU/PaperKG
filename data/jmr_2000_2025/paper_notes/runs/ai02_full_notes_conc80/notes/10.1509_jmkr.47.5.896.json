@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes two formal posterior predictive discrepancy statistics, KS and PC-Rq, to assess whether an assumed multivariate normal (MVN) heterogeneity distribution is adequate without fitting alternative heterogeneity models.",
+    "It introduces simulation-based concordance measures (pcon, p_tilde_con, and p_tilde_con_yrep) that account for different levels of parameter-estimation uncertainty in hierarchical Bayes model checking.",
+    "It provides practical interpretation guidelines using Type I/Type II and power studies, and illustrates the diagnostics with an empirical marketing application."
+  ],
+  "context": "The paper is set in hierarchical Bayesian models used in marketing, especially regression and discrete choice models with individual-level random coefficients. The empirical example reanalyzes camera choice data with respondents choosing among six camera options plus a none option.",
+  "design_and_data": "The authors develop posterior predictive checks that compare observed posterior draws of individual-level parameters with replicated draws implied by an MVN heterogeneity model, using KS and PC-Rq discrepancy statistics. They run simulation studies for HB regression and HB multinomial logit settings, including true MVN cases (Type I calibration) and non-MVN cases (mixture-of-normals with varying overlap, multivariate t tails, and an arc-tangent platykurtic distribution), with scenarios such as 5 vs 30 observations/choice sets per respondent. A formal power study uses repeated simulated HB regression datasets with controlled component overlap in a true MixMVN process. They also compare diagnostics to fits from MixMVN and MDP heterogeneity models on selected simulated MNL datasets, and reanalyze a real camera dataset (302 respondents, 14 choice tasks, 18 partworths) with MCMC output.",
+  "focal_constructs": [
+    "multivariate normal heterogeneity",
+    "posterior predictive model checking",
+    "individual-level posterior parameters",
+    "probability of concordance",
+    "Kolmogorov-Smirnov statistic",
+    "PC-Rq principal-component Q-Q correlation",
+    "hierarchical Bayes discrete choice models"
+  ],
+  "main_findings": [
+    "KS is more effective for detecting departures from MVN in distribution tails, while PC-Rq is more effective for detecting multimodality.",
+    "Detection is stronger when the likelihood is more informative; with low-information hierarchical settings, concordance values under the null concentrate near 0.5 and practical cutoffs around 0.45 (or about 0.35 for well-identified models) are suggested.",
+    "In simulated data, pcon, p_tilde_con, and p_tilde_con_yrep are usually very similar, and in both simulations and the camera application the diagnostics provided useful alerts when MVN heterogeneity was inadequate."
+  ],
+  "one_line_summary": "This paper develops posterior predictive concordance diagnostics (KS and PC-Rq) for checking MVN heterogeneity assumptions in hierarchical Bayes models and shows via simulations and a camera-choice application when those assumptions fail.",
+  "relation_to_prior_work": "extends posterior predictive model checking by focusing on the adequacy of the second-stage heterogeneity distribution in hierarchical Bayes models, whereas prior emphasis was often on likelihood-level fit. It also formalizes model-checking procedures that had often been applied informally in practice.",
+  "research_gap": "Although more flexible heterogeneity distributions exist, they are harder to estimate and compare, so MVN remains a default in many applications. The paper identifies a need for formal, practical diagnostics to verify MVN adequacy from standard HB output, rather than relying on ad hoc exploratory checks or fitting many complex alternatives.",
+  "research_question": "Can a researcher who has estimated an HB model with MVN heterogeneity formally verify whether that MVN assumption is adequate without estimating more complex heterogeneity models? Can posterior predictive checks based on individual-level posterior parameters diagnose specific deviations, such as multimodality versus tail misspecification, with interpretable decision guidance?"
+}

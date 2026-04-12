@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The study provides field evidence from a large, demographically proportional national database rather than small-sample laboratory experiments.",
+    "It extends survey-accuracy analysis from behavioral frequency to duration estimates of personally experienced consumer activities.",
+    "It demonstrates and characterizes regression-toward-the-mean effects in consumer usage reports and shows their aggregate market-distortion implications."
+  ],
+  "context": "The empirical setting is personal, nonbusiness communication with relatives and friends living more than 50 miles away. Respondents reported and tracked use of long-distance telephone calls, letters, cards, and visits in a U.S. national household sample assembled by AT&T.",
+  "design_and_data": "AT&T collected data from a demographically proportional national sample of 3,990 heads of households, stratified by income, marital status, age, sex, population density, and region, over 14 months. Participants completed an initial mail survey with monthly usage estimates, then kept weekly diaries for 12 months for the four communication modes; diary averages were used as proxies for actual frequency. For duration, respondents logged selected long-distance calls and 4,382 calls were matched to AT&T billing records to obtain actual call durations. Frequency-error analyses were restricted to respondents who stayed in the same self-reported usage category in initial and final surveys, yielding cleaner mode-specific samples (about 507-659 after attrition and screening).",
+  "focal_constructs": [
+    "survey response error",
+    "behavioral frequency estimation",
+    "usage duration estimation",
+    "regression toward the mean",
+    "overestimation versus underestimation",
+    "consumer usage heterogeneity",
+    "autobiographical recall reports"
+  ],
+  "main_findings": [
+    "High-frequency users tended to underreport and low-frequency users tended to overreport usage frequency, with the predicted direction in 19 of 20 tests and mostly significant results.",
+    "Long-duration calls were underestimated and short-duration calls were overestimated, and signed error showed an almost linear monotonic relation with actual duration (and similarly with frequency).",
+    "Overestimation magnitudes often exceeded underestimation magnitudes, producing overall upward bias and compression toward the mean, so surveys overstated averages and understated heterogeneity (for long-distance calls, frequency mean +14.98% and duration mean +4.93%)."
+  ],
+  "one_line_summary": "Using an AT&T national panel with diaries and billing matches, the study shows that survey reports of communication usage regress toward the mean and are upward biased, making markets look larger and more homogeneous than they are.",
+  "relation_to_prior_work": "extends prior survey-accuracy research by directly testing how actual activity levels shape error direction in self-reports and by examining duration alongside frequency. It also extends time-perception work in marketing beyond waiting-time contexts to usage-duration reporting, and shows that previously documented regressive effects apply to autobiographical consumer usage reports.",
+  "research_gap": "Prior survey research documented errors in reported behavioral frequency but had not directly tested how actual frequency affects the direction of report error. The authors also state that duration estimates for personally experienced consumer activities were largely unstudied, even though frequency and duration jointly determine usage rates.",
+  "research_question": "The paper asks whether consumers' actual behavioral frequency and duration systematically affect the direction of survey response errors. It also examines whether such systematic errors distort aggregate perceptions of average usage and heterogeneity."
+}

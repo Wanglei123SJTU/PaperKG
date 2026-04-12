@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a new data enrichment method that combines revealed data on consumer demand and competitive reactions with stated data on competitive reactions to yet-to-be-enacted, unprecedented marketing policy changes.",
+    "Extends the data enrichment literature by incorporating stated competitive-reaction data from subject-matter experts, rather than enriching only consumer-side data.",
+    "Provides a managerial ex ante scenario tool, demonstrated in pharmaceutical sales force policy, to predict consequences before implementation."
+  ],
+  "context": "The empirical application is the U.S. statin prescription drug market, focusing on four brands (Crestor, Lipitor, Pravachol, Zocor). The policy setting is pharmaceutical sales force detailing decisions to physicians, including both sales force size and allocation across doctor types.",
+  "design_and_data": "The authors use revealed monthly panel data (Aug 2003-May 2004) for 1,585 U.S. general practitioners, with doctor-level total prescriptions and detailing for four statins. They enrich these data with stated competitive-response data from an online conjoint experiment (2008/2009) with 26 screened pharmaceutical experts (from 63 invited), excluding experts from firms active in statins. Stated scenarios cover six unprecedented detailing decreases (10%, 25%, 40%) initiated by either the market leader (Lipitor) or a follower (Pravachol), with responses on both sales force size and detailing allocation. Modeling combines a hierarchical Bayesian multivariate Poisson demand system with endogeneity correction and a structural competitive-reaction model, plus base-validity tests (Chow) and holdout-based internal validation.",
+  "focal_constructs": [
+    "data enrichment",
+    "stated competitive reactions",
+    "revealed prescriptions and detailing",
+    "unprecedented marketing policy changes",
+    "sales force size changes",
+    "sales force allocation",
+    "detailing reach",
+    "Lucas critique"
+  ],
+  "main_findings": [
+    "Sales force decreases initiated by market leader Lipitor are more likely to be matched by competitors than decreases initiated by follower Pravachol, and only a 40% Lipitor decrease leads all competitors to decrease detailing.",
+    "Under the paper's cost and revenue assumptions, the 40% Lipitor decrease scenario yields significant profit increases for all four firms.",
+    "When firms reduce detailing in response to competitive changes, they mainly reduce reach across doctors rather than reducing visit intensity to the most-visited doctors."
+  ],
+  "one_line_summary": "The paper develops and validates a revealed-plus-stated data enrichment approach to predict ex ante competitive and performance consequences of unprecedented pharmaceutical sales force cuts.",
+  "relation_to_prior_work": "extends prior data enrichment research by adding stated firm competitive-reaction data to revealed market data, whereas earlier enrichment work emphasized consumer-side stated preferences. It also extends competitive-reactions research from ex post analyses of realized policy shocks to ex ante prediction of yet-to-be-enacted changes.",
+  "research_gap": "Prior competitive-reaction studies mainly evaluate unprecedented marketing policy changes after they occur, while managers need ex ante predictions before implementation. The authors also argue that revealed data alone can fail for unprecedented changes (Lucas critique), and existing data enrichment work had not incorporated stated competitive reactions.",
+  "research_question": "How can firms predict, before implementation, the consumer and competitive consequences of unprecedented marketing policy changes that are not well identified from revealed data alone? In the pharmaceutical statin market, what competitive reactions and profit outcomes arise when a leader or follower makes large sales force detailing cuts?"
+}

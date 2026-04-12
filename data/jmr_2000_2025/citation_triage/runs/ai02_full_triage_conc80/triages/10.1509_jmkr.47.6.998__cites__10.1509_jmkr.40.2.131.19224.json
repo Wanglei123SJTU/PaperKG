@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper studies DVR adoption, ad-skipping, and household CPG spending using field difference-in-differences and selection corrections, whereas the cited paper is about permission-based email customization with an MDP-probit and layout optimization. These topics/methods show little direct overlap in the provided notes, and the matched evidence is only a bare DOI reference (no citation context text). This looks most consistent with an incidental/background mention rather than substantive use.",
+  "triage_decision": "drop_obvious_mention_only"
+}

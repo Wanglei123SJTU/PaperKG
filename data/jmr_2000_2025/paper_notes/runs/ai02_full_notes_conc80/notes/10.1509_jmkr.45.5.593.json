@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops an integrated Poisson race model in which discrete choice and response time are jointly modeled as dependent variables.",
+    "The model introduces a process-based decomposition that separately identifies respondent preferences (partworths), decision diligence/effort (threshold K), and accessibility-speed factors in evidence accumulation.",
+    "The authors claim and demonstrate empirically that response times are endogenous to the choice process and that treating them as exogenous can lead to misleading inference."
+  ],
+  "context": "The empirical application is a CBC/conjoint study of television sets conducted in a mall-intercept setting with laptop-based Sawtooth software. Respondents repeatedly chose among multiattribute TV alternatives, and response time was recorded for each choice task.",
+  "design_and_data": "The authors specify a hierarchical Bayesian Poisson race model where each alternative accumulates Poisson hits until a threshold K is reached, producing both a choice outcome and a response time. The data contain 422 respondents, each completing 18 respondent-specific choice sets of five alternatives described by six attributes (brand, screen size, sound system, channel blackout, picture-in-picture, price), for 7596 observed response times rounded to seconds. Estimation uses MCMC with data augmentation for latent exact response times because some recorded times are zero after rounding. They compare four models (HB logit, Poisson race without response times, and two joint choice-time variants) using in-sample marginal likelihood and holdout tasks.",
+  "focal_constructs": [
+    "response time",
+    "discrete choice",
+    "Poisson race model",
+    "decision threshold K",
+    "respondent diligence",
+    "accessibility of attitudes",
+    "limited cognitive capacity",
+    "partworth preferences"
+  ],
+  "main_findings": [
+    "Results support endogenous response times: jointly fitting choices and times improved fit to the choice data and showed that exogenous-time treatments can mislead inference about latent processes.",
+    "Estimated thresholds are mostly above 1 in the full model, with most respondents not consistent with the logit special case K = 1.",
+    "The model-based threshold (diligence) is positively related to holdout choice consistency, and average raw response time adds little predictive value once threshold is accounted for."
+  ],
+  "one_line_summary": "Using conjoint TV choice data, the paper proposes a hierarchical Poisson race model that jointly explains choices and response times to infer preferences, diligence, and thinking speed, and finds that exogenizing response times can distort inference.",
+  "relation_to_prior_work": "extends sequential-sampling and random-utility work by embedding conjoint partworth choice in a Poisson race process and showing multinomial logit as the K = 1 special case. It contrasts with conditional approaches that treat response time as exogenous and argues this assumption is generally untenable in survey choice tasks.",
+  "research_gap": "The paper states that response times are widely used in marketing research and practice, but relatively few quantitative models jointly account for both choices and response times. It also highlights that existing uses often do not explicitly model multiple latent drivers of response time, such as deliberation/diligence, accessibility, and decision conflict.",
+  "research_question": "Can a single process model jointly account for discrete choices and their response times in conjoint tasks, rather than treating response time as an exogenous signal? If so, can this model recover respondent-level preferences, diligence/effort, and accessibility-speed components, and does it improve inference relative to standard choice-only or exogenous-time approaches?"
+}

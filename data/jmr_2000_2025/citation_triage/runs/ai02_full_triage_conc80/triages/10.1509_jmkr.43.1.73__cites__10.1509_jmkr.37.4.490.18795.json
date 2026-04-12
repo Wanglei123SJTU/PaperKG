@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper is explicitly about data fusion and states it compares against multiple-imputation approaches and prior joint-model methods, while the cited paper develops a multiple-imputation framework and includes a simulated data-fusion application. Given this strong topical/method overlap (not just generic background) and a precise DOI match, the citation is plausibly methodological or benchmark-relevant and should be reviewed in full.",
+  "triage_decision": "keep_for_relation_judgment"
+}

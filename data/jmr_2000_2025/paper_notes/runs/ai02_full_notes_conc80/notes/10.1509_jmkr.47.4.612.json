@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper models customer satisfaction as a stochastic marketplace asset and introduces a mean-variance perspective that separates satisfaction level from satisfaction heterogeneity.",
+    "It develops a first-principles shareholder value model in which satisfaction affects value through repeat sales, acquisition from competitors, and servicing costs, and allows both value level and value volatility to be analyzed.",
+    "Using longitudinal multi-source data, it shows that marketing actions can simultaneously raise satisfaction and alter satisfaction heterogeneity, which changes the economic return of satisfaction to shareholder value."
+  ],
+  "context": "The empirical setting is the U.S. domestic airlines industry, a competitive service market. The study tracks seven major airlines from 1997 to 2005.",
+  "design_and_data": "The study uses annual secondary panel data for American, Continental, Delta, Northwest, Southwest, United, and US Airways over 1997-2005. Data come from US DOT service quality reports, ACSI customer satisfaction scores, CRSP advertising and stock data, and COMPUSTAT financial variables used to compute Tobin's q and controls. The authors reduce four objective service quality indicators into ex ante and ex post service quality factors using factor analysis. They estimate mean-variance function models that decompose satisfaction into level and heterogeneity and then model next-period shareholder value and shareholder value volatility with lagged dependence and financial and competitive controls.",
+  "focal_constructs": [
+    "customer satisfaction level",
+    "customer satisfaction heterogeneity",
+    "objective service quality",
+    "advertising expenditures",
+    "shareholder value (Tobin's q)",
+    "shareholder value volatility",
+    "customer retention and acquisition sales",
+    "servicing costs"
+  ],
+  "main_findings": [
+    "Ex ante service quality increases satisfaction level and reduces satisfaction heterogeneity, while ex post service quality increases satisfaction level (with increasing returns) but does not significantly affect heterogeneity.",
+    "Lagged advertising spending (relative to industry average) increases future satisfaction level and also increases satisfaction heterogeneity.",
+    "Satisfaction level increases shareholder value, but satisfaction heterogeneity lowers shareholder value and negatively moderates the satisfaction-value link; the implied return on satisfaction drops by about 68% from low to high heterogeneity, and higher heterogeneity also reduces shareholder value volatility."
+  ],
+  "one_line_summary": "In a 1997-2005 panel of U.S. airlines, the paper finds that service quality and advertising shape both the level and heterogeneity of customer satisfaction, and that heterogeneity sharply weakens satisfaction's payoff to shareholder value while dampening value volatility.",
+  "relation_to_prior_work": "extends prior customer satisfaction-shareholder value research by modeling satisfaction with both mean and variance components instead of only average satisfaction. It also extends return-on-marketing work by linking objective service quality and advertising carryover to both satisfaction heterogeneity and subsequent shareholder value dynamics.",
+  "research_gap": "Prior research on returns to marketing activities largely emphasized average outcomes, with little systematic attention to how marketing actions change heterogeneity in customer satisfaction and how that heterogeneity affects long-term performance. The paper addresses this by explicitly modeling satisfaction heterogeneity and its interaction with satisfaction level in explaining shareholder value.",
+  "research_question": "How do service quality and advertising affect not only the level of customer satisfaction but also heterogeneity in satisfaction across a firm's customer base? How do satisfaction level and satisfaction heterogeneity jointly shape subsequent shareholder value and shareholder value volatility?"
+}

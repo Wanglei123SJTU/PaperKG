@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper argues that a charity's supportive versus combative orientation has meaningful long-run consequences for nonprofit performance.",
+    "It provides a three-pronged longitudinal test using archival IRS/NCCS data, a nonprofit field pledge study, and a longitudinal lab panel, and examines both money and time donations.",
+    "It applies a regulatory focus account to this context and links supportive framing with patterns consistent with promotion focus (less deferral and more sustained involvement)."
+  ],
+  "context": "The core setting is U.S. nonprofit organizations, using IRS tax-filing data compiled by the NCCS across 2000-2009. Additional evidence comes from a real mountain biking advocacy nonprofit's annual pledge drive and a 5-week donation panel study using charity messages in the Environment and Animal domains.",
+  "design_and_data": "The archival analysis uses approximately 400,000 public-charity records (revenue above $25,000), with charity names algorithmically coded as supportive, combative, or neutral and validated against human judges (Krippendorff alpha about .72 in the conservative test). The authors estimate survival models and hierarchical longitudinal revenue models with controls such as age, assets, class, rating, and state, and also report joint survival-longitudinal modeling and self-selection checks. A field study (n=59) randomly varies supportive versus combative message framing for the same registered nonprofit and tracks pledged volunteer hours across 10 events. A longitudinal lab study recruits 91 students (88 completed), measures weekly earned-money donations and time contributions over 5 weeks under supportive versus combative framing, and includes a separate pretest (n=80) for orientation activation.",
+  "focal_constructs": [
+    "supportive orientation",
+    "combative orientation",
+    "charity survival",
+    "charity revenue trajectory",
+    "promotion focus",
+    "prevention focus",
+    "donation deferral",
+    "affective involvement"
+  ],
+  "main_findings": [
+    "In the archival data, combative orientation is associated with higher failure risk than supportive orientation (hazard ratio about 1.18 in the main survival model), and joint modeling indicates a shorter life span for combative charities.",
+    "Revenue trajectories diverge over time: the AGE x NAME interaction is negative for combative charities, indicating lower revenue growth relative to supportive charities as charities age.",
+    "In field and lab evidence, supportive framing yields higher donations (time and money), while combative framing increases zero-donation deferral odds and shows declining affective involvement over time."
+  ],
+  "one_line_summary": "Across archival, field, and lab longitudinal evidence, supportive nonprofit framing outperforms combative framing on donations, revenue trajectory, and survival.",
+  "relation_to_prior_work": "extends message-framing research from mostly short-term, one-shot effects to longitudinal nonprofit outcomes such as survival and revenue. extends regulatory focus applications by linking supportive and combative charity framing to promotion versus prevention-consistent donation dynamics over time.",
+  "research_gap": "The paper states that prior framing research is largely based on short-term, one-time manipulations and offers limited insight into long-run outcomes. It also claims that, to the authors' knowledge, no prior work had examined differential framing effects for charitable organizations' long-term survival and revenue growth.",
+  "research_question": "Does framing a nonprofit's cause in a supportive versus combative orientation affect long-term organizational performance, especially survival and donations? If such differences exist, what mechanisms, including regulatory focus, can explain why one orientation sustains donor commitment better over time?"
+}

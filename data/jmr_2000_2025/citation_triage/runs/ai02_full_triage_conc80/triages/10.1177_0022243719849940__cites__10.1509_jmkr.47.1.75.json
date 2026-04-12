@@ -1,0 +1,4 @@
+{
+  "rationale": "The only linkage evidence is a single DOI match (10.1509/jmkr.47.1.75) with no in-text citation context, so we cannot tell how the 2010 paper is used in the 2019 article. From the notes, the citing paper is a quasi-experimental omnichannel delivery-speed DID study, while the cited paper is a Bayesian spatiotemporal imitation-diffusion model in online grocery, indicating related domain but different primary question/method. Given this sparse and mixed evidence, it is not safe to drop as obvious mention-only.",
+  "triage_decision": "uncertain"
+}

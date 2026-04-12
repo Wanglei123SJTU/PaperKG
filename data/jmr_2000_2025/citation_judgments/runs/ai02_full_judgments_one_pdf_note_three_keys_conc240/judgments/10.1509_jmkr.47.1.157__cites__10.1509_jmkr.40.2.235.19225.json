@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in the methodological setup, not just in a background list. The citing article explicitly references Andrews and Currim (2003) when discussing information criteria for determining numbers of latent segments and when justifying its use of BIC for large samples. Although the new paper develops a different model and runs its own simulation checks, the cited work materially informs how model-selection decisions are framed and defended.",
+  "relation_description": "The citing paper applies guidance from Andrews and Currim (2003) on segment-retention/model-selection criteria in finite-mixture logit settings, especially to motivate using BIC to choose dimensionality and segment counts. It transfers that prior criterion-performance evidence into its own LC-BML estimation workflow.",
+  "relation_type": "applies"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and tests a justification-based theory in which consumers are motivated to consume hedonic goods but do so less when the choice context makes justification difficult.",
+    "It identifies two systematic effects of justification pressure: a separate-versus-joint evaluation reversal in relative hedonic versus utilitarian preference, and different preferences for paying with time versus money.",
+    "It claims to generalize and extend preference-reversal work by modeling hedonism and utilitarianism as abstract attributes across potentially different product classes and by experimentally showing that reducing justification pressure shifts preferences back toward hedonic options."
+  ],
+  "context": "The paper studies everyday discretionary consumer purchases where options can be perceived as relatively hedonic or utilitarian. Evidence comes from a restaurant dessert setting, certificate choices, camera-store purchases, and student evaluations of common consumer products.",
+  "design_and_data": "The paper uses four studies combining field data and experiments. Study 1 analyzes restaurant dessert sales across three consecutive Tuesdays when a hedonic dessert, a utilitarian dessert, or both were offered. Study 2 is a repeated-session experiment with 80 undergraduates who rated and chose between a $50 dinner certificate and a $50 grocery certificate, including a condition where a friend chose on the participant's behalf. Study 3 is a field survey of 39 camera buyers measuring perceived hedonism/utilitarianism and willingness to spend travel time to save $50, and Study 4 is a repeated-session experiment with 180 undergraduates measuring hedonic/utilitarian ratings and WTP in money and time for five products.",
+  "focal_constructs": [
+    "hedonic consumption",
+    "utilitarian consumption",
+    "justification",
+    "guilt",
+    "separate evaluation (SE)",
+    "joint evaluation (JE)",
+    "willingness to pay in time",
+    "willingness to pay in money"
+  ],
+  "main_findings": [
+    "In the certificate experiment, the hedonic $50 dinner certificate was rated higher than the utilitarian $50 grocery certificate in separate evaluation, but joint choice shifted toward the grocery certificate.",
+    "In the restaurant field data, dessert demand was similar when each dessert was offered alone, but when both were offered together, the more utilitarian dessert was ordered more often.",
+    "Across the camera-store field survey and the lab experiment with five products, higher perceived hedonism was associated with relatively higher willingness to pay in time, whereas utilitarian perception was associated with relatively higher willingness to pay in money."
+  ],
+  "one_line_summary": "The paper shows that justification concerns shape consumer trade-offs by reversing relative hedonic versus utilitarian preferences across separate versus joint choice contexts and by shifting payment preferences toward time for hedonic goods and money for utilitarian goods.",
+  "relation_to_prior_work": "extends prior preference-reversal research by applying separate-versus-joint evaluation logic to hedonic versus utilitarian alternatives that can come from different product classes rather than only within-class attribute comparisons. It also complements wants-versus-shoulds and virtues-versus-vices work by arguing that justification, not only reflection, explains the observed shifts in choice.",
+  "research_gap": "Prior preference-reversal accounts and related wants-versus-shoulds work did not directly explain hedonic-versus-utilitarian trade-offs where neither option is inherently superior and where options may not share the same concrete attributes. The paper addresses this by developing a justification-based explanation for context-dependent preference shifts and resource-payment choices.",
+  "research_question": "How does consumers' need to justify hedonic consumption affect choices between hedonic and utilitarian goods in common purchase settings? Specifically, does this need produce separate-versus-joint evaluation reversals in relative preference and different willingness to pay in time versus money?"
+}

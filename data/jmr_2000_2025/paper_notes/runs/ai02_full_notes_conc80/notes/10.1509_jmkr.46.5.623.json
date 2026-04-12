@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides a systematic cross-country investigation of advertising's business-cycle sensitivity across 37 countries and four major media (magazines, newspapers, radio, television) over roughly two decades.",
+    "Shows that cross-national differences in advertising cyclicality are associated with national culture dimensions and country economic structure, especially long-term orientation, power distance, uncertainty avoidance, stock market pressure, and foreign-owned multinational presence.",
+    "Provides initial evidence that stronger procyclical advertising is linked to long-term social and managerial losses, including slower advertising-industry growth, higher private-label growth, and weaker stock-price performance."
+  ],
+  "context": "The study examines aggregate advertising markets in 37 countries across all inhabited continents, representing about 84% of global ad spending. It focuses on four major media channels and then examines country-level and firm-level consequences of cyclical advertising behavior.",
+  "design_and_data": "Using annual data (mostly 1980-2004), the authors assemble 118 country-media series with at least 17 years each from World Advertising Research Center/ZenithOptimedia and country GDP data. They extract cyclical components of advertising and GDP with an HP-filter state-space formulation that allows structural breaks around commercial television introduction, then estimate a comovement elasticity by regressing cyclical advertising on cyclical GDP. They explain cross-country/media variation in elasticity with generalized least squares using Hofstede culture scores plus controls for stock market importance, foreign-owned subsidiary presence, income per capita, and media/continent dummies. They also test consequences by linking national comovement to long-term advertising-industry growth (N=37) and private-label growth (N=30), and firm comovement to long-term stock-price growth for 26 global advertisers.",
+  "focal_constructs": [
+    "advertising comovement elasticity",
+    "business-cycle fluctuations",
+    "long-term orientation",
+    "power distance",
+    "uncertainty avoidance",
+    "collectivism",
+    "stock market pressure",
+    "private-label share growth"
+  ],
+  "main_findings": [
+    "Advertising spending is mostly procyclical and generally more elastic than the economy, with 88% positive country-media elasticities and a mean elasticity of 1.39; magazines, newspapers, and television are elastic, while radio is not significantly above one.",
+    "Advertising is less cyclical in countries higher in long-term orientation and power distance, more cyclical in countries higher in uncertainty avoidance, and not significantly related to collectivism.",
+    "Higher advertising cyclicality is associated with slower long-term growth of the advertising industry, higher long-term private-label growth (marginal evidence), and lower long-term stock-price growth for firms with more procyclical advertising."
+  ],
+  "one_line_summary": "Across 37 countries, advertising moves procyclically and often more strongly than GDP, with national culture and economic structure shaping this sensitivity and more cyclical behavior linked to poorer long-run outcomes.",
+  "relation_to_prior_work": "extends prior macro-advertising research by moving beyond mainly U.S./U.K. evidence to a multi-continent, multi-media, business-cycle-specific analysis over longer time spans. It introduces national culture as an explanation for cross-country heterogeneity in advertising cyclicality and evaluates downstream long-run consequences.",
+  "research_gap": "Prior work on advertising and macro fluctuations was geographically narrow (mainly U.S./U.K.), often used methods not targeted to business-cycle frequencies, relied on shorter series, and either aggregated all media or examined only limited media. The authors argue that a systematic cross-country, medium-specific test of advertising cyclicality and its drivers and consequences was missing.",
+  "research_question": "How strongly does aggregate advertising spending move with business-cycle fluctuations across countries and media, and is this response typically elastic or inelastic? Do national culture and country economic structure explain cross-national differences in advertising cyclicality? What long-term social and managerial outcomes are associated with stronger procyclical advertising behavior?"
+}

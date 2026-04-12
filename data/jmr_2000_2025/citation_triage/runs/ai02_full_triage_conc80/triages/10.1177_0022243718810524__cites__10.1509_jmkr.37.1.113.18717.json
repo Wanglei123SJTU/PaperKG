@@ -1,0 +1,4 @@
+{
+  "rationale": "Keep: the cited paper is methodologically and substantively close to the citing paper’s core problem (dynamic advertising models with awareness/GRP data), introducing MKF/DLS for measurement-error control in that exact setting. The citing note says it re-estimates advertising dynamics models with awareness/GRP time series and compares against EKF/parametric state-space benchmarks, making the cited work a plausible direct method/comparison foundation rather than a generic mention. The pair is also confirmed by a DOI-level reference match.",
+  "triage_decision": "keep_for_relation_judgment"
+}

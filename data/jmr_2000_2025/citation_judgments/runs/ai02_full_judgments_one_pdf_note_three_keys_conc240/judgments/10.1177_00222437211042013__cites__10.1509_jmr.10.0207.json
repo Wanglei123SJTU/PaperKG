@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper explicitly uses Teixeira, Wedel, and Pieters (2012) in its core literature positioning on video analytics, including a dedicated row in Table 1 describing that study's emotion-detection and engagement focus. The authors then state that their contribution is to extend this prior video-content stream with scalable automated feature extraction and a new online education context. This is more than a passing mention because the cited paper helps define the prior state of the art that the new framework is built against, even though the citing paper does not reuse the cited paper's specific dynamic model.",
+  "relation_description": "The citing paper extends the prior line represented by Teixeira et al. (2012) from internet video ads to online instructional videos. It broadens the approach by combining automated emotion extraction with additional video-content features to predict course-video consumption behavior.",
+  "relation_type": "extends"
+}

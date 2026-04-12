@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Lambrecht and Skiera (2006) not just as background evidence of flat-rate bias, but as a central comparison point for how that bias is modeled. It explicitly states that prior models including Lambrecht and Skiera rely on tariff-specific utility/fixed-effects structures that are ill-suited for counterfactual tariff prediction, and it contrasts this with its own Bayesian learning model. The paper also places Lambrecht and Skiera among studies that abstract from dynamic switching-cost and learning trade-offs, which the new model is designed to incorporate.",
+  "relation_description": "The citing paper challenges the explanatory approach in Lambrecht and Skiera (2006) by arguing that flat-rate bias can be generated through rational learning with switching costs, without needing tariff-specific preference terms. It positions its model as an alternative mechanism and methodological improvement for prediction and counterfactual pricing analysis.",
+  "relation_type": "challenges"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "Gilula et al. (2006) is discussed directly in the introduction, where the citing paper quotes its definition of data fusion and summarizes its core identification setup. The authors then explicitly state how their setting differs and use that comparison to motivate their own method. This is not a passing background mention; the cited paper materially informs the framing of the problem and the positioning of the new methodological contribution.",
+  "relation_description": "The citing paper builds on the data-fusion line represented by Gilula et al. (2006) by tackling a related but harder mixed aggregate/disaggregate setting without individual-level linking variables. It extends that work with a Bayesian data-augmentation approach that uses longitudinal data to recover cross-platform relationships when one platform is only observed in aggregate.",
+  "relation_type": "extends"
+}

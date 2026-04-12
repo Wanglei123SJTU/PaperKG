@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides an experimentally controlled comparison of finite mixture logit and HB-estimated mixed logit models on household-level parameter recovery, fit, and forecasting in a scanner-data choice setting.",
+    "Reports a key new finding versus the prior AAC conjoint study: HB mixed logit can perform very poorly when purchases per household are too few to identify individual-level parameters.",
+    "Shows that, outside this extreme sparse-data condition, conclusions similar to AAC hold in logit choice models: discrete and continuous heterogeneity representations yield similar recovery and prediction, while continuous models fit better."
+  ],
+  "context": "The study is set in a simulated scanner panel brand-choice environment with five alternatives and marketing variables typical of packaged-goods data (price, feature, and display). The focus is household-level logit choice modeling under realistic and extreme sample-size conditions.",
+  "design_and_data": "The authors run a Monte Carlo experiment with 360 simulated data sets (one per experimental condition) and estimate four models per data set: FM-B, FM-L, HB mixed logit, and homogeneous logit. Data are generated from multinomial logit utilities with one continuous predictor and two binary promotion predictors; five holdout purchases per household are reserved for validation in all conditions. Seven factors are manipulated: number of components (1/2/3), component separation (0.5/1.0), within-component distribution (normal/gamma), within-component variance (0.05/0.25), households (75/200/400), purchases per household (3/10/15), and error variance (standard/doubled). Performance metrics are RMSE of household-level parameters, estimation fit (LOGL[E], -2MLL), and holdout prediction (LOGL[V], average chosen-brand probability).",
+  "focal_constructs": [
+    "consumer heterogeneity representation",
+    "finite mixture logit",
+    "HB-estimated mixed logit",
+    "household-level parameter recovery",
+    "model fit",
+    "holdout forecasting accuracy",
+    "overfitting under sparse purchase histories"
+  ],
+  "main_findings": [
+    "When the three-purchases-per-household condition is excluded, HB mixed logit and finite mixture models have roughly equivalent household-level parameter recovery and holdout predictive performance.",
+    "With only three purchases per household, HB mixed logit overfits: it shows strong in-sample fit but very poor parameter recovery and LOGL(V), in some cases worse than homogeneous logit.",
+    "HB models generally have better in-sample fit (LOGL[E] and -2MLL), but the paper shows that in-sample fit is not a reliable indicator of parameter accuracy or forecast quality."
+  ],
+  "one_line_summary": "In a large scanner-data Monte Carlo comparison, finite mixture and HB mixed-logit models perform similarly on household parameter recovery and holdout prediction except in very sparse purchase histories where HB fails, even though HB tends to fit in-sample data better.",
+  "relation_to_prior_work": "extends prior AAC evidence from metric conjoint ratings to logit choice models and identifies a boundary condition where HB mixed logit is not robust, namely extremely low purchases per household.",
+  "research_gap": "Prior comparisons of discrete versus continuous heterogeneity focused on metric conjoint models, and the paper states that the empirical strengths and weaknesses of these representations in logit choice applications were still unknown. It also notes that no controlled study had compared FM and HB logit approaches on recovery, fit, and forecasting.",
+  "research_question": "How do logit choice models with discrete heterogeneity (finite mixtures) versus continuous heterogeneity (HB-estimated mixed logit) compare in household-level parameter recovery, in-sample fit, and holdout forecasting? Under which data conditions, especially sparse purchases per household, does one approach outperform or break down relative to the other?"
+}

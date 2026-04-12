@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper explicitly positions its contribution against transaction-timing summaries such as RFM and reports benchmark comparisons with Pareto/GGG-type models in holdout prediction. The cited paper is a core RFM-to-CLV/Pareto-NBD+gamma-gamma methodological source (DOI match), so this is plausibly a foundational or benchmark reference rather than an incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

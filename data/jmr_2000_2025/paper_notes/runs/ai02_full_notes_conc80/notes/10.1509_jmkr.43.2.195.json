@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops a conceptual model in which consumer uncertainty and trial-risk reduction explain why deeper acquisition discounts can produce lower repurchase rates and lower expected lifetime value.",
+    "It empirically quantifies the link between acquisition discount depth and customer value using customer-level evidence from two distinct categories: newspaper subscriptions and online grocery retailing.",
+    "It shows how survival analysis can be used for CLV estimation with marketing covariates and time-varying hazard rates, addressing limitations of standard CLV approaches."
+  ],
+  "context": "The empirical settings are a major metropolitan newspaper subscription business and an online grocer. The paper studies cohorts of newly acquired customers under different introductory discount depths and tracks their subsequent purchasing behavior and value.",
+  "design_and_data": "The paper combines a conceptual analytical model with two empirical studies. Study 1 uses newspaper data for 1,578 customers (1,204 discount-acquired, 374 regular-price acquired) and estimates repeat-buying logit models plus nonparametric and parametric survival models (including exponential and generalized gamma accelerated failure time specifications with discount terms). Study 2 uses an online grocer transaction database (first 13 months: 70,000+ orders, 30,000+ customers) and focuses on 2,862 second-quarter acquisitions, about 25% with individual-specific first-order discounts of $5-$25; it estimates repeat-buying logits, Tobit RFM-based forecasts of future quarterly revenue, and regressions of customer value on discount depth. The paper also re-estimates value relationships within repeat-buyer subsamples (newspaper n=697, online grocer n=1,049).",
+  "focal_constructs": [
+    "acquisition discount depth",
+    "customer lifetime value (CLV)",
+    "customer asset value",
+    "customer equity",
+    "repeat-buying propensity",
+    "customer uncertainty",
+    "survival/hazard rates",
+    "reservation price"
+  ],
+  "main_findings": [
+    "In both categories, deeper acquisition discounts are associated with lower repeat-buying rates; for example, newspaper renewal is about 70% for regular-price acquisitions versus about 35% for customers acquired with a $1 weekly discount, and online grocery repeat purchase falls from about 40% to below 25% at a $10 discount.",
+    "Deeper discounts are associated with substantially lower long-term customer value; in the newspaper data, gamma-model forecasts are about $280 for regular acquisitions versus about $150 at a 35% discount, and in the online grocer data value drops from about $360 (no discount) to roughly half at a $12 offer.",
+    "Negative effects persist within repeat buyers, but magnitude differs by context: the newspaper repeat-buyer value decline is modest (about 10% at a 35% discount), whereas the online grocer repeat-buyer decline remains large (about $875 to about $475 at a $10 discount)."
+  ],
+  "one_line_summary": "Using a conceptual uncertainty framework and two customer-level datasets, the paper finds that deeper acquisition discounts systematically attract lower-value customers with lower repurchase and lifetime revenue.",
+  "relation_to_prior_work": "extends customer equity and customer valuation research by linking acquisition-side promotions, not only retention actions, to expected CLV. It also introduces a survival-model approach for CLV estimation that allows marketing variables and duration dependence instead of assuming time-invariant attrition and no marketing-mix effects. The paper explicitly contrasts its negative discount-depth findings with Anderson and Simester (2004).",
+  "research_gap": "Prior work called for stronger links between marketing actions and customer asset value, with much attention on retention effects rather than acquisition-side actions. The paper addresses limited evidence on how acquisition discount depth changes expected CLV and the composition of the customer portfolio.",
+  "research_question": "How does acquisition discount depth influence the composition and long-term value of a firm's customer portfolio? Specifically, does deeper discounting at acquisition reduce repeat buying and customer asset value, and do those effects remain within the subset of repeat buyers?"
+}

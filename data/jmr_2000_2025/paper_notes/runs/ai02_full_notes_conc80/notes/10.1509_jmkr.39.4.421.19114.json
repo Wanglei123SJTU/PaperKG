@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "First study to quantify total promotional effects on category incidence, brand choice, and purchase quantity as the sum of immediate, adjustment, and permanent effects.",
+    "Develops and applies an impulse-response approach to estimate promotional adjustment periods and cumulative dynamic effects, including a long-term counterpart to Gupta's immediate-effect decomposition.",
+    "Provides store-level persistence analysis for a storable and a perishable category, enabling comparison of short-run versus long-run promotional effectiveness."
+  ],
+  "context": "The empirical setting is consumer packaged goods in the Sioux Falls scanner-panel market, focusing on canned soup (storable) and yogurt (perishable) across multiple retail stores and competing brands. The analysis is conducted at the store level rather than only at aggregate market level.",
+  "design_and_data": "The study uses ACNielsen household scanner data from July 14, 1986, to September 5, 1988, with 1826 soup panelists and 2399 yogurt panelists. Purchase-occasion data are converted to weekly store-level series for category incidence (number of category buyers), brand choice (share choosing the focal brand among category buyers), and purchase quantity (average quantity per focal-brand buyer), using major brands in top-selling stores (soup: 4 stores x 3 brands; yogurt: 3 stores x 5-6 brands). The authors run augmented Dickey-Fuller unit-root tests and estimate second-order VAR systems (with prices endogenous and feature/display controls), then use orthogonalized impulse-response functions to compute immediate, adjustment, permanent, and total effects. One soup store with anomalous storewide decline is excluded from VAR effect analysis.",
+  "focal_constructs": [
+    "price promotions",
+    "category incidence",
+    "brand choice",
+    "purchase quantity",
+    "permanent versus transitory effects",
+    "promotional adjustment period",
+    "impulse-response elasticity decomposition",
+    "product storability"
+  ],
+  "main_findings": [
+    "Permanent promotion effects are largely absent for each sales component; only one small brand-choice case shows persistence (about 6.5 percent of the immediate effect).",
+    "Adjustment effects are typically positive for category incidence and negative for brand choice, and promotion effects are short-lived (about 2 weeks on average, maximum 8 weeks, within a quarter).",
+    "Total promotional effects are positive on average, but the long-run decomposition reverses short-run emphasis on choice: incidence/choice/quantity is 66/11/23 for soup and 58/39/3 for yogurt (versus immediate 30/48/22 and 14/73/13)."
+  ],
+  "one_line_summary": "Using store-level scanner data for canned soup and yogurt, the paper shows that price promotions rarely create permanent changes but do create short adjustment dynamics that shift long-run impact toward category incidence and away from brand choice.",
+  "relation_to_prior_work": "extends prior promotion-response work by integrating persistence modeling with an incidence-choice-quantity decomposition at the store level, rather than relying only on short-run decompositions or mean-reverting dynamic consumer models. It demonstrates that long-run promotional composition differs materially from established immediate-effect patterns.",
+  "research_gap": "Prior studies either decomposed only immediate effects or modeled dynamic responses under mean reversion, leaving limited evidence on permanent effects. The authors explicitly note that no prior study had quantified the full over-time impact of promotions across all three sales components, especially at the store level.",
+  "research_question": "To what extent do price promotions have long-term effects on category incidence, brand choice, and purchase quantity, and are any of these effects permanent? The paper also asks how long adjustment effects last and how immediate, adjustment, and permanent effects combine into total promotional impact and its decomposition across the three components."
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces a unified model that compares three aggregator business models - free, micropayment-facilitating, and subscription-charging - in one competitive media framework.",
+    "It shows that aggregators can unbundle publishers' content and change the form of competition from publisher-versus-publisher to publisher-versus-aggregator, depending on what content is shared.",
+    "It provides novel theoretical insights that micropayment facilitation enables publisher price discrimination and that a powerful subscription aggregator can profit without necessarily reducing publishers' benchmark surplus."
+  ],
+  "context": "The setting is online news markets where two competing publishers interact with aggregators such as Google News (free), Blendle (micropayment-facilitating), and Apple News+ (subscription-charging). Consumers choose where to gather news, while publishers and aggregators monetize attention via consumer payments and advertising.",
+  "design_and_data": "The study is a theoretical game-theory analysis with no empirical dataset. The baseline model has two publishers, each producing two topic articles and differentiated on a unit-square consumer preference space; consumers are initially assumed to single-home and read at most two articles. The authors solve sequential games for three aggregator types (free, micropayment-facilitating, subscription-charging), deriving equilibrium pricing and content-sharing outcomes and welfare implications. They also provide model extensions on full content sharing, value from aggregator snippets, and endogenous single-homing via inconvenience costs.",
+  "focal_constructs": [
+    "news aggregation",
+    "interpublisher competition",
+    "content-sharing strategy",
+    "subscription pricing",
+    "micropayment pricing",
+    "advertising revenue",
+    "market-expansion effect",
+    "business-stealing effect"
+  ],
+  "main_findings": [
+    "Without an aggregator, publishers sell composite publications, and bundling two articles can intensify price competition enough that profits are not necessarily higher than selling one article.",
+    "With a free aggregator, collaboration is profitable only when the aggregator brings sufficient additional traffic; sharing same-topic articles can fully eliminate direct interpublisher competition, whereas sharing different-topic articles only partially does so.",
+    "A micropayment-facilitating aggregator can raise publishers' pricing power and profits even without extra traffic via price discrimination, while a powerful subscription-charging aggregator can increase its own profits and, in the main model, leave publishers no worse off than in the no-aggregator benchmark."
+  ],
+  "one_line_summary": "This paper develops a game-theoretic model to show when and how publishers should collaborate with free, micropayment, and subscription news aggregators through pricing and content-sharing choices.",
+  "relation_to_prior_work": "extends prior news-aggregation research that mainly focuses on free aggregators and traffic effects by modeling three aggregator types and publishers' endogenous pricing mix of subscription and advertising revenue. It also connects multisided media-market analysis with competitive bundling by showing how aggregation-driven unbundling alters competitive intensity and equilibrium outcomes.",
+  "research_gap": "Prior work mostly studies free aggregators and emphasizes traffic expansion versus business stealing, often with publishers relying only on advertising revenue. The paper addresses the unresolved issue of how different aggregator revenue models change publishers' equilibrium pricing and content-sharing strategies in competition.",
+  "research_question": "In a competitive media market, can publishers collaborate and compete with news aggregators, and under what conditions is collaboration profitable? How should publishers choose subscription prices and which articles to share with an aggregator when the aggregator is free, micropayment-facilitating, or subscription-charging? The paper also asks how these arrangements affect publishers, aggregators, and consumers."
+}

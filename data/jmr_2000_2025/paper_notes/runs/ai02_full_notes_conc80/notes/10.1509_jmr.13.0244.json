@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper shows that private self-signaling motives can increase charitable giving even when donation decisions are anonymous and mostly unobservable.",
+    "It demonstrates that unrelated reference products in donation appeals affect choice through self-signaling utility, not just through perceived cost or value.",
+    "It shows that referencing certain attractive outside options can increase, rather than decrease, focal choice incidence by changing the self-signal from not donating."
+  ],
+  "context": "The studies are set in charitable donation appeals for organizations such as UNICEF and Doctors Without Borders, using U.S. participants. Evidence comes from online panels, a university lab, and a university field solicitation setting.",
+  "design_and_data": "The paper reports seven between-subjects experiments (1a, 1b, 2a, 2b, 3, 4, 5) that manipulate whether appeals include hedonic, utilitarian, or no reference products. Early studies measure anticipated self-attributions from not donating, and later studies test consequential choices including real money donations and real time donations. Experiment 3 keeps the same product (a hand blender) but frames it as hedonic versus utilitarian and tests mediation through perceived product hedonicity and negative self-signal. A field experiment solicits students' own $2 donations to Doctors Without Borders using envelope-based hedonic (cookie) versus utilitarian (soap) references.",
+  "focal_constructs": [
+    "self-signaling utility",
+    "charitable donation decisions",
+    "hedonic reference products",
+    "utilitarian reference products",
+    "negative self-attributions",
+    "prosocial behavior",
+    "opportunity cost reminders"
+  ],
+  "main_findings": [
+    "Across studies, choosing not to donate was judged as signaling more negative traits (e.g., selfishness) when the appeal referenced a hedonic product than when it referenced a utilitarian product or no product.",
+    "Hedonic references increased consequential giving, including real money donations and real time donations, relative to utilitarian-reference and control conditions.",
+    "The effect of reference products on donation interest was mediated by a shift in self-attributions, and an explicit selfishness reminder was less effective than a subtle hedonic reference."
+  ],
+  "one_line_summary": "The paper finds that donation appeals mentioning an equally priced hedonic alternative increase giving because not donating then sends a more negative self-signal.",
+  "relation_to_prior_work": "extends prior work on signaling in prosocial behavior by showing that self-signaling can drive anonymous donation choices, beyond social-signaling to others. It also extends reference-product research beyond price-perception effects to self-attribution effects, and challenges a simple opportunity-cost view that tempting alternatives always reduce target choice.",
+  "research_gap": "Prior donation research on image motives has focused mainly on social-signaling in observable settings, leaving private self-signaling in anonymous giving less directly tested. Prior reference-product research has largely emphasized price/value comparisons, with limited evidence on whether hedonic versus utilitarian references alter donation behavior through self-attributions.",
+  "research_question": "How does referencing an unrelated but equivalently priced product in a charitable appeal affect willingness to donate? Specifically, does a hedonic (vs utilitarian or no) reference increase donations because it makes not donating signal more negative personal traits to the self?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides a large field quasi-experimental comparison of quota-based bonuses versus equivalent quota-based commissions, a contrast the authors note is largely missing in prior empirical work.",
+    "Empirically identifies differential effects of the two plans on timing games and on effort allocation to nonincentivized tasks, not just on sales output.",
+    "Develops a simple personnel-economics model to organize the evidence and highlights a novel implication that after quota attainment, bonus plans can reduce multitasking concerns relative to commissions."
+  ],
+  "context": "The study is set in one therapeutic-class sales force of a large pharmaceutical firm in an emerging market. Sales groups are assigned to territories with quarterly quotas and perform both doctor visits (less tied to immediate measurable output) and pharmacy visits (more tied to immediate sales).",
+  "design_and_data": "The paper uses a natural field quasi-experiment in which the firm switched from a quarterly quota-bonus plan to an equivalent quota-commission plan, with the change treated as exogenous. The data cover 458 territories over 36 months (18 pre-switch and 18 post-switch), yielding more than 14,000 monthly observations. Observables include territory sales/productivity, quotas, incentive payouts, group size, and monthly doctor and pharmacy visits. Empirical analyses use territory and month-year fixed effects, quantile regressions for heterogeneity, and quarter-end state indicators to test timing games, with additional robustness checks (e.g., turnover, ratcheting tests, single-person territories).",
+  "focal_constructs": [
+    "quota-based bonuses",
+    "quota-based commissions",
+    "sales productivity",
+    "salesperson ability heterogeneity",
+    "timing games",
+    "multitasking distortion",
+    "doctor visits",
+    "pharmacy visits"
+  ],
+  "main_findings": [
+    "Switching to the equivalent commission plan increased sales productivity by about 24 percent on average, with a conservative estimate around 22 percent across specifications.",
+    "The productivity effect was heterogeneous, with substantially larger gains in lower ability/productivity deciles than in higher deciles.",
+    "Timing-game distortions were stronger under bonuses, whereas commissions showed attenuated timing effects but greater neglect of nonincentivized tasks after quota attainment (fewer doctor visits and more pharmacy visits)."
+  ],
+  "one_line_summary": "Using a before-after field quasi-experiment at a pharmaceutical firm, the paper finds that equivalent quota-based commissions outperform bonuses on short-term productivity and timing distortions but worsen multitasking toward nonincentivized activities.",
+  "relation_to_prior_work": "extends prior empirical work on sales-force incentives by directly comparing equivalent bonus and commission contracts in the field and by testing multitasking outcomes in addition to timing games.",
+  "research_gap": "The paper argues that despite extensive theory on sales incentives, empirical evidence on the relative efficacy of bonus versus commission plans is sparse and inconclusive. It further notes that existing empirical work has focused mainly on timing manipulation and has largely ignored multitasking distortions across these plans.",
+  "research_question": "How do equivalent quota-based bonus and commission plans differ in their effects on sales productivity, including heterogeneous effects across sales-force ability levels? How do these plans differ in inducing timing games around quota periods and in distorting effort allocation across incentivized versus nonincentivized tasks?"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper’s core contribution is a hierarchical Bayesian data-augmentation approach to estimate disaggregate choice models from aggregate shares, which closely matches the citing paper’s core problem (inferring disaggregate demand/availability from aggregate data) and its Bayesian MCMC estimation setup. Given this strong methodological and topical overlap, plus a direct DOI match in the reference list, this does not look like an incidental background mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops an integrated model of customer channel migration that jointly models purchase incidence, conditional order size, and channel selection in a dynamic setting.",
+    "Provides a parsimonious methodology for handling many distinct marketing contacts by modeling communication attributes, decay, and interaction (saturation) effects with heterogeneous customer response.",
+    "Offers substantive evidence on migration mechanisms by separating the roles of customer heterogeneity, channel experience, marketing communications, and time trends in Internet migration and demand."
+  ],
+  "context": "The empirical setting is a multichannel retailer selling consumer durables and apparel through catalogs and a Web site, with identical prices across channels. The analysis covers customer behavior during 1998-2002 as Internet use expanded.",
+  "design_and_data": "The authors estimate a joint individual-level model: a Type II Tobit for purchase incidence and conditional order size, plus a binary probit for channel choice conditional on purchase. Data come from transaction histories, catalog and e-mail contact histories, and demographics; behavior is aggregated monthly. From a 40,000-customer database, they randomly sample 500 active customers over 48 months (Feb 1998-Feb 2002), yielding 19,064 estimation observations after initialization. Parameters are estimated with Bayesian MCMC and correlated random effects, with model comparisons via log-marginal likelihood and a 3-month holdout prediction check.",
+  "focal_constructs": [
+    "customer channel migration",
+    "purchase incidence",
+    "conditional order size",
+    "channel selection (catalog vs Web)",
+    "Web usage experience",
+    "catalog and e-mail communications",
+    "communication decay and interaction effects",
+    "customer heterogeneity"
+  ],
+  "main_findings": [
+    "Controlling for marketing and other factors, greater cumulative Web use is associated with lower subsequent purchase incidence, indicating a negative long-term association between Internet usage and demand.",
+    "Marketing communications have positive direct effects on purchase incidence and are associated with channel usage (for example, e-mail is associated with greater Internet use), but communication interactions are negative in the incidence model, indicating diminishing returns and cannibalization.",
+    "A Web-oriented migration segment emerged over the four-year period and showed higher sales volume, but post hoc decomposition indicates this pattern is linked to marketing and exogenous trends rather than the Web attracting already-heavy users or turning users into heavier buyers."
+  ],
+  "one_line_summary": "The paper builds and estimates a dynamic customer-level migration model for catalog versus Web purchasing and finds that marketing shapes migration and demand while Web usage itself is linked to lower future buying incidence.",
+  "relation_to_prior_work": "extends prior channel preference and channel cannibalization research by modeling individual-level migration over time with customer heterogeneity, dynamics, and explicit marketing communication effects. It also differs from retail-format choice models by focusing on migration between channel formats within a single retailer.",
+  "research_gap": "The paper states that there was no empirical work detailing how customers migrate across channels in a multichannel environment and how firms' communications strategies shape that migration. Prior studies cited either examined static channel preferences, aggregate cannibalization without heterogeneity, or retail-format choice rather than migration between catalog and Web channels over time.",
+  "research_question": "What drives customers to migrate between catalog and Internet channels, and what are the short- and long-run effects of channel usage on subsequent channel choice and demand? How do firm communications (catalogs and e-mails) and customer heterogeneity influence this migration process and the observed higher spending of multichannel customers?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper demonstrates that combining a price surcharge with an explicit unhealthy label (an \"unhealthy surcharge\") is more effective at reducing unhealthy menu-item demand than using either intervention alone.",
+    "It identifies important gender differences in intervention responses: surcharge effects are stronger for men in some contexts, unhealthy-label effects are stronger for women, and labels can backfire for men.",
+    "It provides laboratory and real restaurant field evidence, including mediation evidence that relative price-fairness perceptions and healthiness perceptions help explain why the combined intervention works."
+  ],
+  "context": "The paper studies food choice in restaurant-style menu decisions in the broader policy context of obesity and potential sin-tax interventions. Evidence comes from hypothetical menu-choice experiments with U.S. adults and a field experiment in a Durham, North Carolina restaurant.",
+  "design_and_data": "The authors run three between-subjects laboratory experiments on Mechanical Turk samples (Experiment 1a: N = 1,200; Experiment 1b: N = 894; Experiment 2: N = 1,987), manipulating menu format across no intervention, surcharge, unhealthy label, and unhealthy surcharge conditions (with a 17.5% surcharge in lab studies). Participants choose among six entrees with healthy versus unhealthy options; Experiment 1b also manipulates calorie and saturated-fat information, and Experiment 2 manipulates imagined dining alone versus with a same-sex friend. The field experiment is a 16-day randomized/counterbalanced restaurant test (464 tables, 1,063 diners) using analogous menu manipulations with a 15.5% surcharge. In the field, the authors observe orders, weigh plates before and after service to measure unhealthy-food consumption share, and collect post-meal ratings (health/well-being perceptions, meal enjoyment, likelihood to return).",
+  "focal_constructs": [
+    "unhealthy surcharge",
+    "price surcharge (sin tax)",
+    "unhealthy label",
+    "unhealthy food demand",
+    "gender differences",
+    "price fairness perceptions",
+    "healthiness perceptions",
+    "dining context"
+  ],
+  "main_findings": [
+    "Across studies, the combined unhealthy surcharge reduced unhealthy entree choice, while surcharge-only and unhealthy-label-only interventions were not consistently effective.",
+    "Gender moderated effects: surcharge-only reduced unhealthy choice for men in some settings (especially when dining alone), unhealthy labels reduced unhealthy choice for women, and unhealthy labels could increase unhealthy choice among men.",
+    "In the field experiment, the unhealthy surcharge reduced the share of unhealthy food consumed and did not reduce meal enjoyment; interventions with unhealthy labeling increased perceived restaurant concern for customers' health, and surcharge/unhealthy-surcharge menus increased stated likelihood of return versus control."
+  ],
+  "one_line_summary": "Across three lab experiments and one restaurant field experiment, unhealthy menu demand fell most when a surcharge was explicitly framed as due to unhealthy content, with strong gender differences in responses to surcharge-only and label-only menus.",
+  "relation_to_prior_work": "extends prior research on menu labeling and sin taxes by showing that single interventions are often insufficient and that pairing the financial disincentive with an explicit unhealthy label is more robust. It also extends gender-and-identity findings in food choice by documenting that unhealthy labels can backfire for men while different mediators are salient by gender.",
+  "research_gap": "Prior evidence on whether surcharges or unhealthy labels alone reduce unhealthy food demand is mixed, and each intervention can produce unintended interpretations or backlash. The paper addresses whether combining the two interventions can more reliably reduce unhealthy choices, and for whom.",
+  "research_question": "Do price surcharges and unhealthy labels reduce demand for unhealthy restaurant items, and is their combination more effective than either approach alone? How do these effects vary by gender and dining context, and are they mediated by perceived relative price fairness and perceived relative healthiness?"
+}

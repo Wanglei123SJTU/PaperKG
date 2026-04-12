@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces and applies a field-test plus SDID framework to evaluate how offline TV advertising affects online behavior beyond narrow attribution windows.",
+    "It documents and quantifies intertemporal substitution (purchase acceleration) in online browsing and sales responses to TV advertising, showing that models that ignore this can overstate ROI.",
+    "It provides new evidence on heterogeneous TV effects across paid versus owned channels, PCs versus mobile devices, and promotion-related versus nonpromotion sessions to inform coordination of TV and online marketing."
+  ],
+  "context": "This study examines a large online travel agent focused on hotel stays in one major economy. In a 2015 geo-split campaign, TV ads were aired in selected areas while other areas served as no-TV controls, and outcomes were the firm's online sessions and sales.",
+  "design_and_data": "The authors analyze about six weeks of data: four pretreatment weeks without TV ads and a 15-day treatment period with TV ads only in treated areas. The data combine clickstream records (4,920,968 sessions after excluding very short sessions) with second-level TV ad logs containing timestamps, ad length, and ad spend. The empirical setting includes 126 counties (11 treated, 115 control), with outcomes aggregated to county-time panels at 2-, 10-, 30-, and 60-minute intervals. Identification uses synthetic difference-in-differences with unit and time reweighting, and results are contrasted with event-study style narrow-window attribution estimates.",
+  "focal_constructs": [
+    "TV advertising effectiveness",
+    "online browsing sessions",
+    "online sales",
+    "attribution window length",
+    "intertemporal substitution",
+    "paid versus owned channels",
+    "device choice",
+    "promotion usage"
+  ],
+  "main_findings": [
+    "Event-study estimates using narrow attribution windows show an immediate positive lift in online sessions and, for shorter windows, online sales after TV ads.",
+    "In SDID models that separate immediate, lagged, and no-ad-period effects, positive short-run effects decay within hours and are followed by significant negative intertemporal substitution when no ad airs, so average campaign-period effects are statistically close to zero.",
+    "Effects are heterogeneous: immediate lift is stronger for paid than owned channels while negative intertemporal substitution is stronger for owned channels; campaign-level gains are concentrated on PCs rather than mobile; and TV ads are associated with stronger nonpromotion-session responses and lower promotion-session purchases over the campaign."
+  ],
+  "one_line_summary": "Using a geo-split TV field test for an online travel platform, the paper finds that TV ads create immediate online lift but also later intertemporal substitution that can offset gains at the campaign level.",
+  "relation_to_prior_work": "extends prior work linking TV advertising to online behavior by using exogenous field-test variation and SDID to identify immediate, lagged, and intertemporal substitution effects rather than only short-window lift. It also extends attribution-window research by highlighting the economic consequences of purchase acceleration and adds evidence on heterogeneity across channels, devices, and promotions.",
+  "research_gap": "Industry and many existing measurement approaches rely on short attribution windows that identify immediate responses but can miss delayed dynamics and intertemporal substitution. The paper also highlights limited evidence on how TV-driven online responses differ across channels, devices, and promotion usage in practice.",
+  "research_question": "How does TV advertising affect an online travel platform's online browsing and sales when effects are measured beyond narrow post-ad attribution windows? Specifically, do immediate and lagged responses get offset by intertemporal substitution, and how do these effects vary across channels, devices, and promotion-related behavior?"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Thomas, Blattberg, and Fox (2004) as a key prior study in second-lifetime (SLT) win-back research, not just as a generic background citation. It summarizes that paper's split-hazard approach and findings on how first-lifetime duration, lapse duration, and offered price relate to SLT duration, and includes it as a benchmark in Table 1. The 2018 article then positions its own contribution against this prior SLT-duration work by adding repeat-churn reasons, cure status, and time-varying SLT covariates.",
+  "relation_description": "The citing paper extends Thomas et al. (2004) from modeling reacquisition/SLT duration and pricing to a broader joint model of second-lifetime churn timing and churn reason. It adds a mixture cure-competing risks framework with time-varying behavioral and marketing predictors to study repeat churn after win-back.",
+  "relation_type": "extends"
+}

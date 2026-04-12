@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a search-and-alignment model of judgment revision in which counterattitudinal information triggers refutational memory search, alignment, diagnosticity assessment, and proportional revision.",
+    "It applies this model to derive and test predictions about abstract versus attribute-specific brand positioning across four experiments.",
+    "It identifies two mediating mechanisms for positioning effects on resistance: accessibility of proattitudinal information and perceived diagnosticity driven by commensurability."
+  ],
+  "context": "The empirical setting is consumer brand evaluation in advertising, using a fictitious pen brand (Omega) and challenge messages resembling consumer reports or competitor-related claims. The substantive problem is brand positioning in competitive environments where positions are likely to be challenged.",
+  "design_and_data": "Four laboratory experiments with undergraduate participants used two-session designs to separate initial evaluation from later revision. In session 1, participants saw either an abstract positioning statement or attribute-specific claims for the target brand and reported initial evaluations and confidence; learning involvement was manipulated as low or high in Experiment 3. In session 2 (after 90 minutes or two days), participants received counterattitudinal challenges that varied as specific direct attack, specific indirect competitor praise, or general negative statement, then reported revised evaluations, recall, and perceived diagnosticity. Analyses used ANOVA/ANCOVA and log-linear tests, including mediation checks with recall accessibility and diagnosticity ratings.",
+  "focal_constructs": [
+    "judgment revision",
+    "abstract brand positioning",
+    "attribute-specific brand positioning",
+    "refutational memory search",
+    "accessibility of proattitudinal information",
+    "commensurability between challenge and prior information",
+    "perceived diagnosticity of challenge",
+    "learning involvement"
+  ],
+  "main_findings": [
+    "Under low-involvement learning, evaluations based on abstract positioning were revised less, and were less likely to be revised, than evaluations based on attribute-specific positioning when challenges were specific.",
+    "The resistance advantage of abstract positioning under specific challenges was partially mediated by greater recall/accessibility of abstract information, and this advantage diminished under high involvement when recall differences largely disappeared.",
+    "When challenge type changed, effects reversed: abstract positioning produced less revision under specific challenges but more revision under a general challenge, and this crossover was mediated by perceived challenge diagnosticity."
+  ],
+  "one_line_summary": "Across four experiments, the paper shows that resistance of brand evaluations to counterattitudinal information depends on a search-and-alignment process in which abstract versus attribute-specific positioning alters information accessibility and the perceived diagnosticity of challenges.",
+  "relation_to_prior_work": "extends attitude representation theory by specifying process mechanisms for judgment revision through refutational search and alignment-based damage assessment. It contrasts with anchoring-and-adjustment style accounts that downplay the informational basis of prior judgments, showing that this basis changes revision magnitude.",
+  "research_gap": "The paper states that the classic managerial choice between abstract and attribute-specific positioning had received little theoretical and empirical analysis, especially regarding how well evaluations resist later challenges. It also argues that existing revision models often understate the role of the informational basis of prior judgments.",
+  "research_question": "How do consumers revise brand evaluations formed from abstract versus attribute-specific positioning when later exposed to counterattitudinal information? The paper also asks whether revision differences are explained by accessibility of proattitudinal information and by the perceived diagnosticity of the challenge after alignment with retrieved brand information."
+}

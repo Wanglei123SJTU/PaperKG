@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and empirically tests a cross-validation signaling argument in which investors interpret customer-directed and employee-directed activities jointly rather than in isolation.",
+    "It models achievements and lapses as separate dimensions across customers and employees in a 2 x 2 framework, instead of aggregating them with difference scores.",
+    "It identifies firm business scope as a boundary condition, showing that cross-validation effects are more important for narrow-scope firms and highlighting the joint value relevance of marketing and HR activities."
+  ],
+  "context": "The study is set in U.S. public firms across a wide range of industries, focusing on how investors value firms in capital markets. It uses firm-year observations from 1994 to 2010 for firms with both KLD stakeholder activity data and Compustat financial and segment data.",
+  "design_and_data": "The authors use an unbalanced panel of 4,643 firms and 21,447 firm-year observations (1994-2010). Customer- and employee-related achievements and lapses are measured from KLD binary indicators aggregated into four count variables, while firm value (Tobin's q), business segments, and controls come from Compustat. Firm business scope is primarily measured with an entropy index based on segment sales. Hypotheses are tested with hierarchical linear models that account for nesting/correlation across firms, industries, and years, including two-way and three-way interaction terms.",
+  "focal_constructs": [
+    "signaling theory",
+    "cross-validation of stakeholder signals",
+    "customer-related achievements",
+    "employee-related achievements",
+    "customer-related lapses",
+    "employee-related lapses",
+    "firm business scope",
+    "firm valuation (Tobin's q)"
+  ],
+  "main_findings": [
+    "Customer-related achievements and employee-related achievements positively interact, such that each has a stronger positive association with Tobin's q when the other is present.",
+    "Customer-related lapses and employee-related lapses negatively interact, such that each has a stronger negative association with Tobin's q when the other is present.",
+    "The positive and negative cross-validation effects are stronger for narrow-scope firms and largely attenuated for broad-scope firms."
+  ],
+  "one_line_summary": "Using KLD and Compustat panel data, the study finds that investor valuation reacts more strongly to customer and employee achievements/lapses when matching signals across the two stakeholder groups cross-validate each other, especially in narrow-scope firms.",
+  "relation_to_prior_work": "extends signaling theory by moving from single-signal analyses to consistency across simultaneous signals directed at different stakeholder groups. It also connects stakeholder management and service-profit chain research to investor valuation by modeling joint customer-employee effects and a business-scope contingency.",
+  "research_gap": "Prior studies often treated stakeholder management in aggregate and frequently combined achievements and lapses, which can blur distinct effects. The paper argues that research had not clearly tested whether consistency between customer- and employee-directed achievements/lapses creates a more credible investor signal, nor whether this depends on firm business scope.",
+  "research_question": "Do investors value a firm's customer- and employee-directed achievements and lapses more strongly when those signals are consistent across the two stakeholder groups? Specifically, does cross-validation amplify positive effects of joint achievements and negative effects of joint lapses on firm valuation, and are these effects stronger for narrow-scope firms?"
+}

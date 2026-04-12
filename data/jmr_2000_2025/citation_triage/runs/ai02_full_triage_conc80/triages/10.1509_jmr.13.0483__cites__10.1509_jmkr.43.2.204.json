@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper explicitly states it “extends customer retention and churn research” beyond prior correlational churn work, and the cited paper is a core wireless-telecom churn modeling study on predictive accuracy and campaign economics. Given this direct topical and domain overlap (customer churn, telecom, campaign targeting/profitability), the citation could plausibly be foundational rather than incidental. With only DOI-level match evidence and no in-text snippet, it should be retained for full relation judgment rather than dropped.",
+  "triage_decision": "keep_for_relation_judgment"
+}

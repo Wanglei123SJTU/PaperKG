@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Identifies and labels a new bias in new product screening, the customer imagery effect: considering customer needs can trigger mental imagery that inflates managerial optimism.",
+    "Shows that this bias can be strongest among prevention-focused managers who exert more vigilance and analytical effort, creating lower accuracy despite higher effort.",
+    "Tests four debiasing approaches and finds one effective method: managers can keep a customer orientation while avoiding customer mental imagery to reduce optimism bias."
+  ],
+  "context": "The paper studies the screening stage of the new product development process, where managers decide which ideas should move forward. Empirical tasks use manager evaluations of proposed consumer products and an app in U.S.-based samples.",
+  "design_and_data": "The authors report a qualitative background study with 19 experienced managers, then six empirical studies with experienced U.S. managers recruited from online panels (study ns: 268, 59, 84, 126, 170, 294). Across studies, participants evaluated new product ideas under randomized instructions that manipulated customer orientation and mental imagery (e.g., engage vs avoid imagery, customer vs competitor imagery), with several products intentionally designed to be flawed. Outcomes included product choice, monthly sales forecasts (most likely, best case, worst case), overall idea evaluations, and approval votes for further development. Analyses included between-condition tests, mediation with bootstrap indirect effects, and moderation regressions involving prevention focus.",
+  "focal_constructs": [
+    "customer orientation",
+    "mental imagery",
+    "unrealistic optimism",
+    "new product screening",
+    "prevention focus",
+    "evaluation accuracy",
+    "debiasing techniques"
+  ],
+  "main_findings": [
+    "Encouraging customer mental imagery during screening reduced managers' ability to select the stronger idea and increased optimism in product evaluations.",
+    "Inducing customer orientation increased managers' mental imagery about customers and raised sales forecasts and evaluations even for flawed products; mediation analyses supported mental imagery as a pathway.",
+    "The optimism effect was stronger for managers higher in prevention focus, and among four tested corrective methods only avoiding customer mental imagery significantly reduced the bias."
+  ],
+  "one_line_summary": "Across six manager studies, adopting customer-oriented thinking in new product screening increased customer imagery and unrealistic optimism, especially for prevention-focused managers, and this bias was reduced only by explicitly avoiding customer imagery.",
+  "relation_to_prior_work": "challenges prior work suggesting customer-focused imagery is beneficial by showing that its effects reverse in the screening (evaluation) stage versus ideation/design. extends market-orientation research by introducing an individual-manager cognitive mechanism that helps explain variability in customer-orientation outcomes.",
+  "research_gap": "Prior research and meta-analytic evidence emphasize generally positive effects of customer orientation and benefits of customer imagery in idea generation, but had not examined whether these practices create cognitive bias during idea screening. Explanations for mixed customer-orientation outcomes focused on firm or environment levels, leaving the individual-manager mechanism in screening underexplored.",
+  "research_question": "Does adopting a customer orientation during new product screening cause managers to engage in mental imagery about customers and become unrealistically optimistic in evaluating product ideas? Is this effect amplified by prevention focus, and can managers use an analytical approach that preserves customer orientation while avoiding the optimism bias?"
+}

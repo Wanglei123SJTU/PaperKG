@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides direct empirical evidence that consumers' mapping of objective future duration to subjective time is contracted and nonlinear, consistent with psychophysical principles.",
+    "It shows that this contracted subjective time perception can account for observed hyperbolic discounting patterns, with discounting becoming relatively constant when computed over subjective rather than objective time.",
+    "It identifies duration accessibility as a moderator by showing that making duration salient changes subjective time perception and can attenuate present bias."
+  ],
+  "context": "The paper studies consumer intertemporal choice, where people trade off outcomes available now versus after delays. Empirical tasks are framed as consumer decisions about delaying use of a gift certificate over future horizons.",
+  "design_and_data": "The authors report four laboratory experiments plus robustness follow-ups. Experiment 1 (N = 57) uses a between-subjects time-horizon design (3 months, 1 year, 3 years) with a gift-certificate delay-premium task and a 180-mm subjective-duration line measure; Experiment 2 (N = 106) uses within-subject repeated measures over 12 horizons (3-36 months) in randomized blocks for subjective-time judgments and discounting, with model-comparison analyses. Experiment 3 (N = 190) manipulates duration salience via priming (vs control) and measures discounting at 1- versus 3-month delays; Experiment 4 (N = 54) tests whether the priming manipulation shifts subjective time judgments and related discounting patterns.",
+  "focal_constructs": [
+    "subjective time perception",
+    "objective time horizon",
+    "prospective duration insensitivity",
+    "intertemporal preferences",
+    "hyperbolic discounting",
+    "present bias",
+    "duration salience",
+    "Weber-Fechner law"
+  ],
+  "main_findings": [
+    "Subjective prospective duration was much less sensitive to objective horizon changes and followed a concave pattern, with evidence favoring a logarithmic transformation over a linear mapping.",
+    "Standard hyperbolic discounting appeared when rates were computed using objective time, but this pattern was largely eliminated when rates were computed using participants' subjective time estimates; in Experiment 2, most participants showed hyperbolic discounting over objective time but very few did so over subjective time.",
+    "Making duration salient increased sensitivity to time horizon and reduced the degree of declining discount rates in Experiment 3, while Experiment 4 confirmed the priming effect on subjective time perception even though its direct discount-rate interaction was not significant there."
+  ],
+  "one_line_summary": "Across four experiments, the paper shows that consumers perceive future duration in a contracted nonlinear way and that this subjective-time mapping can explain much of apparent hyperbolic discounting.",
+  "relation_to_prior_work": "introduces a time-perception mechanism for present bias that is distinct from prior accounts centered on outcome valuation, impulsivity, or construal differences across near versus far outcomes. It also provides direct empirical tests for ideas that earlier work had largely treated as theoretical speculation and connects to attention-based and subadditivity findings.",
+  "research_gap": "The authors argue that prior intertemporal-choice research mostly attributes hyperbolic discounting to changes in outcome valuation over objective time and had not directly measured prospective time perception independent of outcome valuation or tested its effect on present-biased preferences. They address this missing empirical link.",
+  "research_question": "How do consumers map objective future duration onto subjective time, and does this mapping help explain present-biased intertemporal preferences? Specifically, can hyperbolic discounting over objective time be reduced or disappear when discounting is computed over subjective time, and is this mechanism moderated by making duration more salient?"
+}

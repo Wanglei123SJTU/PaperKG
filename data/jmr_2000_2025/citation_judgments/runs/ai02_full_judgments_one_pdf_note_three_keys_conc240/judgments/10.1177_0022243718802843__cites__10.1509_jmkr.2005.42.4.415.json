@@ -1,0 +1,6 @@
+{
+  "citation_substance": "mention_only",
+  "rationale": "The cited paper appears as a single methodological example when the authors discuss how, with richer data, they could model spend heterogeneity using the gamma-gamma approach. In this paper, they explicitly do not implement that approach and instead use a simpler ARPO time-series model because public disclosures are too limited. The citation is therefore a contextual reference to prior modeling options, not a core building block of the proposed CBCV framework.",
+  "relation_description": null,
+  "relation_type": null
+}

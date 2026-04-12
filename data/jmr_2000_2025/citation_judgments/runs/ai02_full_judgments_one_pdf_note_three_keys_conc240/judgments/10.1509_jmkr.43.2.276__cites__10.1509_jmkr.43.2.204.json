@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used for more than background listing: the citing paper explicitly relies on Neslin et al. (2006) to justify benchmark expectations on the same churn database (logit/tree as strong competitors). It also draws on Neslin et al.'s treatment of top-decile lift and profit linkage when presenting the incremental gain formula and interpreting managerial value. These uses inform model comparison design and result interpretation, indicating a meaningful functional role.",
+  "relation_description": "The citing paper builds on the cited paper's churn-model evaluation framing by using its benchmark findings and profit interpretation of lift, then adds bagging/boosting methods and bias-correction analysis to push predictive performance further.",
+  "relation_type": "extends"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper explicitly identifies Manchanda, Rossi, and Chintagunta (2004) as prior work that addressed the same core issue, slope endogeneity in marketing-mix response. It discusses that paper's physician-level hierarchical Bayes approach and then contrasts it with its own control-function method in terms of data level, ability to handle multiple endogenous variables and carryover, and computational simplicity. This citation is used to position the paper's methodological contribution, not just as background.",
+  "relation_description": "The citing paper builds on the methodological line opened by Manchanda et al. (2004) on nonrandom marketing-mix/slope endogeneity, and extends it to a broader forecasting setting with an alternative control-function estimator for aggregate panel data and multiple endogenous marketing variables.",
+  "relation_type": "extends"
+}

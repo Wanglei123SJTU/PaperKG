@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "citation_triage_v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "triage_decision",
+    "rationale"
+  ],
+  "properties": {
+    "triage_decision": {
+      "type": "string",
+      "enum": [
+        "drop_obvious_mention_only",
+        "keep_for_relation_judgment",
+        "uncertain"
+      ]
+    },
+    "rationale": {
+      "type": "string",
+      "minLength": 1
+    }
+  }
+}

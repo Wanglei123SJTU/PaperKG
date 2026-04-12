@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s core model explicitly includes retailer/store choice and assortment, pricing, and feature activity in a grocery scanner setting, and decomposes outcomes via store-switching mechanisms. The cited paper is directly about how multidimensional assortment, price, distance, and feature advertising drive grocery store choice using a random-effects household model, making it a plausible mechanism/foundational source rather than an obvious incidental mention. With this strong construct and modeling overlap, this pair should be kept for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

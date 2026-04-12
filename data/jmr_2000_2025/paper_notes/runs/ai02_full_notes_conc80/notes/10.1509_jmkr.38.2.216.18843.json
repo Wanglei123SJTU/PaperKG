@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper introduces social distinctiveness as a complement to numeric distinctiveness and argues that perceived social status meaning and value shape ethnic salience.",
+    "It provides empirical evidence that adding social status variables improves prediction of ethnic salience beyond numeric minority/majority composition alone.",
+    "It shows that targeted advertising can be effective even when the targeted group is a numeric majority, and that distinctiveness can operate at multiple levels of analysis."
+  ],
+  "context": "The study is set in South Africa, where Blacks are a national numeric majority but Whites are perceived to hold higher socioeconomic status, allowing numeric and social status to be disentangled. Data were collected in Johannesburg and Cape Town, which differ in local black-white population composition.",
+  "design_and_data": "The authors ran a 2 x 2 x 2 between-subjects experiment with 176 English-speaking adult women (black or white) from Johannesburg or Cape Town, randomly exposed to print ads with either a black or white spokesperson. Stimuli were two real campaigns (children's clothing and diet soda) that varied by model race. Ethnic salience was measured via spontaneous self-description, strength of racial identity, and a three-item racial-importance scale (alpha = .915); perceived intergroup social status was measured with a 0-10 ladder for blacks and whites; brand attitude used four semantic differentials (alpha = .92). Analyses used ANOVA, regressions, and a two-equation path analysis.",
+  "focal_constructs": [
+    "numeric status distinctiveness",
+    "social status distinctiveness",
+    "ethnic salience",
+    "relative social status differences",
+    "status deficit",
+    "spokesperson ethnicity",
+    "brand attitude"
+  ],
+  "main_findings": [
+    "Numeric minority consumers in the local context reported higher ethnic salience (racial importance) than numeric majorities, supporting the standard distinctiveness effect.",
+    "Perceived social status matters independently: larger perceived black-white status gaps predicted higher ethnic salience, and lower-status group membership was associated with higher ethnic salience.",
+    "A model including both numeric and social distinctiveness explained ethnic salience better than numeric factors alone, and ethnic salience significantly moderated spokesperson-ethnicity effects on brand attitudes."
+  ],
+  "one_line_summary": "Using a South African field experiment, the paper finds that both numeric minority status and perceived intergroup social status differences increase ethnic salience, which then shapes response to ethnically targeted advertising.",
+  "relation_to_prior_work": "extends prior consumer applications of distinctiveness theory that focused mainly on numeric minority status by explicitly modeling social status perceptions as an additional driver of salience and persuasion. It also replicates the local numeric minority effect reported in earlier work while showing added explanatory power from social status.",
+  "research_gap": "Prior consumer distinctiveness studies linked minority status to targeting effectiveness but often confounded numeric prevalence with social status and power, leaving the source of effects underspecified. The paper addresses this by separating numeric status from social status and testing their distinct contributions.",
+  "research_question": "Do consumers' perceptions of social status, beyond numeric minority or majority composition, influence ethnic salience and responses to ethnically targeted advertising? Specifically, can social status deficit and perceived status differences explain when spokesperson ethnicity affects brand attitudes?"
+}

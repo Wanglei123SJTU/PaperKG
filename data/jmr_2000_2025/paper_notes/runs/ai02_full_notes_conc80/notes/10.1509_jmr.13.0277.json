@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces a practical, experimentally based method for measuring online display ad effects that controls selection bias from ad targeting and browsing behavior by using randomized treatment and control cookies with identical ad serving.",
+    "Extends display advertising analysis to purchase-funnel stages (nonvisitor, visitor, authenticated user, converted customer) and estimates stage-specific effects, marginal effects, and elasticities with a model-based approach.",
+    "Shows how experimentally estimated stage elasticities can be used to reallocate impressions and demonstrates that recommendations differ materially from standard correlational methods."
+  ],
+  "context": "The study is set in a large financial services firm offering online consumer financial management tools through a dedicated website and brand. Data come from one midsized Midwestern U.S. market during a six-week campaign in 2010, with display ads served across many external websites.",
+  "design_and_data": "The evidence comes from a randomized field experiment using cookie-level tracking: at first digital interaction, users were assigned to treatment (firm ads) or control (charity ads), while targeting and ad-serving rules were otherwise the same. After filtering, the sample includes 133,058 cookies, 4,748,020 cookie-day observations, and 2,216,947 impressions; 2,164 cookies (1.6%) and 33,096 impressions are in control. Users are classified into four funnel stages from on-site behavior: nonvisitor, visitor, authenticated user, and converted customer. The authors run model-free treatment-control comparisons and Bayesian binary logit models with contemporaneous and lagged impression counts, stage interactions, and timing controls, then compute predictive effect sizes, marginal effects, elasticities, and allocation simulations.",
+  "focal_constructs": [
+    "Internet display advertising effectiveness",
+    "purchase funnel stage",
+    "selection bias from ad targeting",
+    "selection bias from browsing behavior",
+    "site visit probability",
+    "advertising marginal effects and elasticities",
+    "impression allocation across funnel stages"
+  ],
+  "main_findings": [
+    "Display advertising increases site-visit probability for nonvisitors, authenticated users, and converted customers, but has no discernible effect for users who previously visited the site without creating an account.",
+    "Effects vary by stage: nonvisitors show smaller but more persistent marginal returns, while authenticated users and converted customers show larger immediate effects with faster diminishing returns; responsive-stage site-visit elasticities from one to two impressions are around 0.09-0.12.",
+    "A stage-based reallocation of impressions is predicted to raise total visits by about 9.85% (1,241 additional visits), and estimates from the randomized approach differ significantly from standard correlational estimates, which are generally biased toward zero in this setting."
+  ],
+  "one_line_summary": "Using cookie-level data from a randomized field experiment at a financial tools provider, the paper finds that display ad effects on site visits differ across purchase-funnel stages and that stage-based impression reallocation can increase expected visits by about 10%.",
+  "relation_to_prior_work": "extends prior online display advertising research by using randomized treatment-control exposure to handle targeting and browsing confounds that can bias correlational estimates. It extends stage-dependent targeting work by estimating causal response differences across multiple purchase-funnel stages and linking those differences to allocation decisions.",
+  "research_gap": "The paper argues that common correlational measures of display ad effectiveness are vulnerable to selection bias because ad exposure is linked to both browsing intensity and targeting algorithms. It also states that it was unclear at which purchase-funnel stages display ads are most effective for a firm.",
+  "research_question": "How does Internet display advertising causally affect site visitation when selection bias from targeting and browsing behavior is controlled? Do these effects differ across purchase-funnel stages, and what do stage-specific response estimates imply for reallocating ad impressions?"
+}

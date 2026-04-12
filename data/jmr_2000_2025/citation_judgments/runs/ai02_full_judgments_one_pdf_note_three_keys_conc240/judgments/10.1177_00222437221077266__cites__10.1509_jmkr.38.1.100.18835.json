@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Irwin and McClelland (2001) in its method setup, not just in a generic literature list. It cites the paper when explaining that discretizing a continuous moderator in multigroup analysis introduces measurement-error-related problems, and again when describing centering practices in moderated regression. These points are part of how the 2022 article frames assumptions and expected weaknesses of common moderation approaches before running its simulations.",
+  "relation_description": "The 2022 paper builds its methodological framing on Irwin and McClelland's moderation-regression guidance, especially cautions about discretizing moderators and interpretation practices in interaction models. That prior guidance helps justify the comparison criteria and positioning of methods in the latent moderation context.",
+  "relation_type": "foundational_for"
+}

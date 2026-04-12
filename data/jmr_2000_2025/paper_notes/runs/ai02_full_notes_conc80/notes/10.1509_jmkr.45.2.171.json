@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces the quantity-matching heuristic, whereby consumers prefer assortments whose number of options matches intended purchase quantity.",
+    "Shows a counterintuitive implication that preference for a smaller assortment can increase as purchase quantity increases when the smaller set matches the goal.",
+    "Identifies moderators and boundary conditions of the effect, including decision uncertainty, need for justification, preference for variety, and decision focus."
+  ],
+  "context": "The paper studies consumer decisions where multiple items are bought from one category and options are grouped into assortments by store, brand, or vending machine. Empirical scenarios include choosing ice cream flavors, snacks for teammates, and chocolates for friends or instructors.",
+  "design_and_data": "The paper reports five experiments (total N = 800) using controlled choice scenarios. Participants chose between assortments that varied in number of options, while purchase-quantity goals were manipulated through consumption horizon, number of recipients, or volume-promotion cues. The studies then tested moderators by manipulating decision uncertainty (customized equal-vs-dominant options), accountability (justification vs no justification), and decision focus (assortment vs item justification), and by measuring stated variety preference. The main dependent variable was assortment choice share, with additional analyses of within-assortment item selections and coded choice reasons in one study.",
+  "focal_constructs": [
+    "purchase-quantity goals",
+    "assortment size",
+    "quantity-matching heuristic",
+    "trade-off avoidance",
+    "decision uncertainty",
+    "decision accountability",
+    "preference for variety",
+    "decision focus"
+  ],
+  "main_findings": [
+    "Across studies, assortments were more likely to be chosen when their size matched the number of items participants planned to buy.",
+    "The quantity-matching effect was significant under high decision uncertainty but was nonsignificant when a clearly preferred option reduced uncertainty.",
+    "The effect was stronger when participants expected to justify decisions, among variety-seeking participants, and when attention was directed to the difficulty of selecting specific items from the chosen assortment."
+  ],
+  "one_line_summary": "Across five experiments, the paper shows that consumers often prefer assortments whose option count matches planned purchase quantity, especially when uncertainty and decision-tradeoff concerns are salient.",
+  "relation_to_prior_work": "extends prior purchase-quantity and assortment-choice research by shifting the focus from how many items are bought within a set, or single-item choice from a set, to how purchase-quantity goals shape choice among assortments of different sizes.",
+  "research_gap": "Prior research mainly examined determinants of how many items consumers buy from a given assortment and assortment effects in single-item choice. The paper argues that how purchase-quantity goals influence choice among assortments had received relatively little attention.",
+  "research_question": "When consumers buy multiple items and must choose among assortments of different sizes, how does intended purchase quantity influence assortment choice? Specifically, does a match between assortment size and planned quantity increase preference for that assortment, and under what conditions is this quantity-matching tendency stronger or weaker?"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper uses a dynamic state-space/Kalman-filtering framework with carryover effects, and the cited paper is also a dynamic marketing model estimated in state-space form with Kalman filtering and budgeting implications, so a methodological or foundational link is plausible. However, the domains differ substantially (B2B direct communications vs. two-sided newspaper platform budgeting), and the provided evidence contains only a DOI match with no in-text citation context. Given this sparse evidence, it is not safe to drop but also not strong enough to clearly keep.",
+  "triage_decision": "uncertain"
+}

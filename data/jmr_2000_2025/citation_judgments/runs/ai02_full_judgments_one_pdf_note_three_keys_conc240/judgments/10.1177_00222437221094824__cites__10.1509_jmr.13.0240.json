@@ -1,0 +1,6 @@
+{
+  "citation_substance": "mention_only",
+  "rationale": "The cited paper appears only once, in a discussion sentence used to support a general point that MNL source-of-volume implications follow from the IIA property. The citing paper does not build its model from the cited paper's structured-covariance probit, does not reuse its estimation approach, and does not conduct a direct comparison against it. Its core theoretical development (utility-regret dual-goal model with epsilon-constraints) is developed independently of that citation.",
+  "relation_description": null,
+  "relation_type": null
+}

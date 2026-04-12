@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes Multimarket Membership Mapping (M4), presented as the first market-structure mapping framework that explicitly accommodates multimarket membership products by visualizing them in each submarket context on one map.",
+    "It introduces a multimarket membership transformation (MMT) that links overlapping clustering outputs to map projection by creating submarket-specific product instances and reallocating local and global relationships.",
+    "It applies bootstrapped neural product embedding to online search clickstreams and reports external survey evidence supporting the use of search co-consideration to infer competitive relationships."
+  ],
+  "context": "The empirical application is the DSLR camera market, where products span standard, semi-professional, and professional tiers and compete within brand-linked camera systems. Competitive relationships are inferred from consumer searches on a major price comparison website.",
+  "design_and_data": "The study builds a four-phase framework (input preparation, multimarket membership identification, multimarket membership transformation, and map projection) using SpeakEasy overlapping clustering and t-SNE projection. Competitive relationships are inferred from clickstreams of 57,144 consumers (Q1 2016) searching 111 DSLR cameras from nine brands, using bootstrapped word2vec skip-gram embeddings and aggregation of pairwise relationship weights. The paper includes a numerical example and an empirical method comparison against MDS, VOS, DRMABS, and plain t-SNE, plus robustness checks via 10-fold cross-validation. It also reports a simulation study over 2,400 synthetic market structures (12,000 maps total) and a 500-respondent survey for external validity of the search-based inference premise.",
+  "focal_constructs": [
+    "market structure maps",
+    "multimarket membership products (MMPs)",
+    "submarkets",
+    "overlapping clustering",
+    "multimarket membership transformation (MMT)",
+    "neural product embedding",
+    "online search clickstreams"
+  ],
+  "main_findings": [
+    "In the DSLR market, M4 identified 10 submarkets and 9 multimarket membership cameras (8% of 111 cameras), and these MMPs affected 50% of submarkets.",
+    "Compared with MDS, VOS, DRMABS, and plain t-SNE, M4 achieved better representation of local and global competitive structure in the empirical comparison, and simulation results showed statistically significant gains that were larger when MMP prevalence was higher.",
+    "For identified MMP cameras, most consumers searched within one or the other associated submarket rather than transitioning across submarkets (less than 25% switched), and the map revealed mismatches between some manufacturer tier positionings and consumer-perceived competitive contexts."
+  ],
+  "one_line_summary": "The paper introduces M4, a mapping framework that detects and visualizes products competing across multiple submarkets, and shows with DSLR search data that accounting for multimarket memberships yields more accurate market-structure maps than common alternatives.",
+  "relation_to_prior_work": "introduces a mapping approach that integrates overlapping clustering with map projection to handle multimarket memberships that prior market-structure maps typically miss because they assign one location per product. It also adds robustness-oriented implementation choices (including modularity filtering and bootstrap embedding aggregation) and provides external validation of a key search-based inference premise.",
+  "research_gap": "Existing market-structure mapping methods generally place each product at a single map location, which can misrepresent products that consumers view as substitutes in multiple submarkets. The paper argues that prior approaches did not provide a single-map method that automatically detects and visualizes these multimarket memberships without requiring a priori assignment assumptions.",
+  "research_question": "How can market-structure maps be constructed so products that compete in more than one submarket are identified and visualized in each local competitive context within a single map? Does explicitly modeling these multimarket memberships improve the accuracy and interpretability of local and global market-structure visualization relative to existing methods?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops a latent-segment brand choice model in which consumers can use both internal reference price (IRP) and external reference price (ERP), with segment-specific weights on the two.",
+    "It proposes a general segmentation approach, based on a Kamakura-Russell style mixture framework, that identifies and sizes reference price segments without preselecting a small set of observed customer characteristics.",
+    "It provides multi-category empirical evidence and discusses pricing implications of targeting IRP-oriented versus ERP-oriented segments."
+  ],
+  "context": "The empirical setting is household packaged-goods brand choice using ERIM/ACNielsen scanner panel data. The four categories are liquid detergents, ketchup, yogurt, and toilet tissue, with observed prices, feature/display promotions, and coupon use.",
+  "design_and_data": "The authors estimate a finite-mixture multinomial logit brand choice model with segment-specific brand constants, price/promotion responses, loyalty effects, gain/loss effects, and a segment parameter lambda governing relative reliance on IRP versus ERP. IRP is operationalized as an exponentially smoothed history of brand prices, and ERP as a loyalty-weighted average of current category prices. They calibrate on four category datasets (after initialization periods): detergents 1,397 households and 11,373 observations; ketchup 1,035 households and 8,308 observations; yogurt 482 households and 8,343 observations; tissue 465 households and 10,814 observations. Model fit is compared by BIC/log-likelihood against IRP-only, ERP-only, a Guadagni-Little style model without reference price terms, and a version constraining lambda to be equal across segments.",
+  "focal_constructs": [
+    "internal reference price (IRP)",
+    "external reference price (ERP)",
+    "reference price segments",
+    "relative IRP versus ERP salience (lambda)",
+    "brand choice",
+    "gain and loss sensitivity",
+    "brand loyalty",
+    "price promotions (feature and display)"
+  ],
+  "main_findings": [
+    "In all four categories, models allowing both IRP and ERP outperform models that force exclusive use of only IRP or only ERP.",
+    "Segment differences in relative IRP-versus-ERP use are supported in detergents, tissue, and ketchup, while yogurt is largely IRP-dominated with little lambda variation across segments.",
+    "Across categories, IRP use is higher in higher-priced and less promotion-intensive categories, and ERP use is higher in categories with more frequent feature/display activity and longer interpurchase time."
+  ],
+  "one_line_summary": "Using ERIM scanner data from four packaged-goods categories, the study shows that consumers use both internal and external reference prices but differ by latent segment in how much weight they place on each.",
+  "relation_to_prior_work": "extends prior reference-price choice models that typically operationalized reference price as either IRP or ERP by modeling both simultaneously with segment-specific salience weights. It also extends earlier evidence based on a few preselected consumer traits by identifying reference-price segments directly from choice data and estimating segment sizes.",
+  "research_gap": "Prior empirical studies generally treated reference price as either IRP or ERP at the aggregate level and had not directly segmented consumers by the type of reference price used. The paper argues that prior demonstrations of IRP/ERP differences based on a few prespecified characteristics were limited and did not provide a general latent segmentation test.",
+  "research_question": "Do latent consumer segments exist that differ in the relative importance they assign to internal versus external reference prices in brand choice? If so, does allowing this heterogeneity improve model fit, and how are IRP/ERP reliance patterns associated with consumer behavior and product-category characteristics?"
+}

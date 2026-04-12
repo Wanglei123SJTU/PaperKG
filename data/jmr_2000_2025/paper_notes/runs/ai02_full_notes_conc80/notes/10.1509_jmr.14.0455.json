@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "It defines which savings goals are more versus less likely to trigger borrowing to preserve savings.",
+    "It identifies the psychological mechanism behind this pattern, emphasizing guilt and perceived personal responsibility.",
+    "It proposes and tests an intervention, automatic replenishment of withdrawn savings, to reduce costly borrowing while preserving commitment to savings goals."
+  ],
+  "context": "The paper studies household financial decisions about how to pay for necessary emergency expenses when both liquid savings and credit are available. The empirical settings use U.S. consumer samples and compare labeled savings goals (for example child, retirement, car, vacation) against unlabeled savings.",
+  "design_and_data": "The evidence comes from six experiments with U.S. adults, including a nationally representative Qualtrics sample (n = 1,005), multiple MTurk samples, and a Qualtrics sample with oversampling of low- to moderate-income households (n = 684). Most studies use emergency scenarios where participants need $1,000 and choose between drawing from savings (typically earning 1%) and borrowing on credit cards with varying APRs. Account labels are experimentally manipulated (for example child, education, retirement, car, vacation, or unspecified), and studies measure borrowing choices plus mediators such as guilt and responsibility. One study uses an incentivized experimental game with real monetary consequences, and the final study tests an intervention that offers automatic paycheck deductions to replenish withdrawn savings.",
+  "focal_constructs": [
+    "mental accounting",
+    "earmarking/account labels",
+    "emergency spending",
+    "high-interest credit borrowing",
+    "savings goal responsibility",
+    "guilt",
+    "personal responsibility perceptions",
+    "automatic replenishment"
+  ],
+  "main_findings": [
+    "Participants were more likely to preserve savings and borrow on high-interest credit when savings were earmarked for goals perceived as more responsible (such as child, education, or retirement) than when savings were unlabeled or tied to less responsible goals.",
+    "The effect was mediated by guilt/responsibility concerns about withdrawing labeled savings; future-mindedness and broad incidental affect did not explain the borrowing pattern in their mediation tests.",
+    "Providing a credible replenishment plan (automatic future paycheck deductions to restore savings) reduced high-cost borrowing, and this reduction was mediated by lower guilt/irresponsibility concerns."
+  ],
+  "one_line_summary": "Across six experiments, the paper shows that earmarking savings for responsible goals can unintentionally increase costly credit borrowing during emergencies, and that automatic savings replenishment can mitigate this effect.",
+  "relation_to_prior_work": "extends prior mental accounting and earmarking research, which largely emphasizes boosting savings versus discretionary spending, to nondiscretionary payment situations where consumers must finance essential expenses.",
+  "research_gap": "Prior work on earmarking mainly studies how labels increase savings by reducing discretionary spending, but does not directly test what happens when spending is necessary. The paper targets this gap by examining whether intended savings purpose changes the choice between drawing down savings and taking costly credit for emergencies.",
+  "research_question": "When consumers face unavoidable emergency expenses, do they spend available savings or preserve those savings and borrow at higher interest? How does the intended purpose of earmarked savings shape this financing choice, what psychological mechanism drives it, and can a replenishment plan reduce costly borrowing?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a brand-level diffusion model in which brand adoptions draw from the common remaining category pool and aggregate to the Bass (1969) category model.",
+    "Provides a closed-form derivation for brand cumulative sales from the category-level diffusion solution, which the authors present as a new methodological contribution.",
+    "Extends the brand-level model to a late-entry setting so managers can diagnose whether a new entrant changes category and incumbent market potential, diffusion speed, or both."
+  ],
+  "context": "The empirical application is the U.S. cellular telephone service industry, observed at the market level. Categories started with two brands and later received a third entrant (around 1994), with quarterly new-subscriber adoption tracked by brand and category.",
+  "design_and_data": "The paper develops a brand-level diffusion system with brand-specific innovation and imitation parameters and a shared category adoption pool, then derives closed-form cumulative adoption expressions. It extends the model to a structural break at late entry time t_n, allowing post-entry shifts in category market potential (via k) and imitation parameters for the category and brands. The authors estimate the model using quarterly cellular subscriber data from 1983-1996 across six U.S. markets, with nonlinear simultaneous estimation (SYSNLIN in SAS). They compare model fit and forecasting against an alternative brand diffusion specification and a Bass-model benchmark using a six-quarter holdout MAPE comparison.",
+  "focal_constructs": [
+    "brand-level diffusion",
+    "late entrant effect",
+    "category market potential",
+    "diffusion speed",
+    "imitation coefficient",
+    "innovation coefficient",
+    "word-of-mouth influence",
+    "incumbent brand dynamics"
+  ],
+  "main_findings": [
+    "Late entry effects were heterogeneous across markets: in Markets 1 and 4 mainly diffusion speed changed, in Markets 2 and 5 mainly market potential changed, and in Markets 3 and 6 both changed.",
+    "Where speed effects were present, post-entry category imitation increased, and brand-level effects could differ, with Brand 1 accelerating while Brand 2 slowed in some markets.",
+    "The proposed model outperformed comparison models, showing better in-sample fit than the alternative specification and substantially lower holdout MAPE than separate Bass forecasts for each brand."
+  ],
+  "one_line_summary": "This paper proposes and empirically tests a closed-form brand-level diffusion model that identifies how a late entrant changes category and incumbent-brand market potential and diffusion speed in cellular service markets.",
+  "relation_to_prior_work": "extends diffusion research that has focused mainly on category-level growth by introducing a brand-level framework anchored to Bass (1969). It contrasts with prior brand-level formulations by offering closed-form brand solutions and an explicit decomposition of late-entry impact into market-potential and imitation-speed changes.",
+  "research_gap": "The diffusion literature is dominated by category-level models, with relatively little comprehensive brand-level modeling. The paper explicitly targets the previously unaddressed managerial question of how a late entrant affects both category diffusion and incumbent brand diffusion before category peak.",
+  "research_question": "How does the entry of a late brand into a still-growing category affect sales diffusion at both the category and brand levels? Specifically, does late entry change market potential, diffusion speed, or both for the category and for incumbent brands?"
+}

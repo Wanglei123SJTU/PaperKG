@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s stated contribution and prior-work positioning are narrowly about Gaussian-copula endogeneity correction (CopulaOrigin/COPE/2sCOPE), while the cited paper is a randomized digital-ad experiment design (ghost ads) with no apparent link to the copula estimator development. The only match evidence is a bare DOI reference entry (no contextual quote), which suggests this is likely background/domain mention rather than a method, theory, or benchmark dependency.",
+  "triage_decision": "drop_obvious_mention_only"
+}

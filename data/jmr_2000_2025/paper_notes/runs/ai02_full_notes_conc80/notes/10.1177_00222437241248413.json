@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "The paper identifies a potential downside of evoking brand simplicity: it can create low-risk expectations that increase consumer punishment after failures.",
+    "It proposes and tests a conceptual link between perceived brand simplicity/complexity and the dimensionality of consumers' mental representations of brands, which the authors claim is first in consumer research for brands.",
+    "It adapts and applies the H-statistic mental-representation complexity paradigm from cognitive/social perception research to brand representations."
+  ],
+  "context": "This research is in consumer-brand evaluation and marketing communications, where firms often signal simplicity in brand design and messaging. Evidence spans fictitious and real brands across multiple product and service categories, including Consumer Reports data for blenders, grills, mowers, and vacuums.",
+  "design_and_data": "The paper reports seven studies: six online experiments and one secondary-data analysis. The experiments manipulate perceived simplicity using visual ad complexity, competitor contrast, simple/complex brand prompts, component-based brand descriptions, and failure scenarios, then measure risk judgments, dimensionality, fluency, disappointment, recommendations, and star ratings. Study 3 adapts the H-statistic to quantify the nonredundant dimensionality of participants' brand representations. Study 6 analyzes 2018 Consumer Reports customer survey data (147,460 usable observations after exclusions, 63 brands across four categories) merged with independent brand simplicity ratings collected from 478 participants.",
+  "focal_constructs": [
+    "perceived brand simplicity",
+    "perceived brand complexity",
+    "dimensionality of mental representation",
+    "judged risk of product and service failures",
+    "redundancy framing",
+    "postfailure dissatisfaction and recommendation"
+  ],
+  "main_findings": [
+    "Across manipulations, brands perceived as simpler were judged less likely to experience product or service failures.",
+    "Higher dimensionality of brand mental representations predicted higher judged failure risk beyond fluency, and framing added dimensions as redundancy attenuated the complexity-risk relationship.",
+    "When failures occurred, simpler brands were penalized more, with greater disappointment and lower recommendation and star ratings, and this pattern was mediated by lower ex ante judged risk."
+  ],
+  "one_line_summary": "Across experiments and Consumer Reports data, the paper shows that perceived brand simplicity lowers expected failure risk but can backfire by increasing consumer penalties when failures occur.",
+  "relation_to_prior_work": "extends prior risk-perception research by documenting perceived brand simplicity as a subjective, manipulable antecedent of judged product and service failure risk. It also extends brand-as-association-network perspectives by linking simplicity judgments to the dimensionality of consumers' brand representations, and introduces an adapted H-statistic approach for measuring that dimensionality in marketing contexts.",
+  "research_gap": "Although simplicity is widely promoted in marketing practice, the academic marketing literature has limited evidence on how consumers' perceived brand simplicity/complexity affects downstream outcomes. The paper also argues that prior work had not documented brand simplicity as an antecedent of failure-risk judgments or tied these perceptions to dimensionality of brand mental representations.",
+  "research_question": "How do consumers' perceptions that a brand is simple versus complex influence judgments of product and service failure risk and responses after failures? Do these perceptions reflect the dimensionality of consumers' mental representations of brands, and is the simplicity-risk link attenuated when added complexity is framed as redundancy?"
+}

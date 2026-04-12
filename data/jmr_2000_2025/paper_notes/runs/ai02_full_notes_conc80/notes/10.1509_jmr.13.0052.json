@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper shows that relationships among alternatives in a choice set, specifically dominance cues, can shift decision strategy and reduce reliance on a prominent attribute when evaluating focal trade-off options.",
+    "It proposes and tests a strategy-stickiness account in which decision makers initially use dominance and continue using it even when it does not discriminate between focal alternatives.",
+    "It identifies boundary conditions and interventions, including prompting prominence via reference points and changing evaluation order, and discusses implications for context effects, contingent decision behavior, and choice architecture."
+  ],
+  "context": "The studies use hypothetical multiattribute decisions in consumer and prosocial settings (televisions, apartments, cars, restaurants, and disaster-relief donations) with online participants recruited via MTurk.",
+  "design_and_data": "The paper reports seven experiments with between-subject manipulations of choice-set structure, typically comparing a two-option focal set [A, B] against sets that add dominating and/or dominated decoys (plus variants with a phantom dominant decoy, a dominated-only decoy, and a superior-but-not-dominating decoy). Main-study samples are MTurk adults (Ns reported as 149, 219, 330, 304, 176, 363, and 214), and pretests confirmed which attribute was more prominent in each scenario. Outcomes include forced choice, likelihood ratings, and willingness-to-pay ratings; later studies also measure attribute-importance ratings and manipulate reference points and option-evaluation order to test mechanism.",
+  "focal_constructs": [
+    "attribute prominence",
+    "dominance relationships",
+    "decoy options",
+    "decision strategy stickiness",
+    "preference construction",
+    "context effects",
+    "independence of irrelevant alternatives"
+  ],
+  "main_findings": [
+    "Across multiple domains, the relative preference for the option superior on the prominent attribute is higher in two-option sets and decreases when dominating and/or dominated decoys are added.",
+    "The effect persists when the dominating decoy is unavailable (phantom) and when only a dominated decoy is present, and it is tied to clear dominance structure rather than mere superiority of an added option.",
+    "Attribute-importance judgments remain largely unchanged across set structures, but prominence has less impact on preference when dominance cues are present; prompting prominence or forcing evaluation of focal options first attenuates the effect."
+  ],
+  "one_line_summary": "Across seven experiments, adding clearly dominating or dominated decoys reduced preference for the option superior on the prominent attribute because people stuck with a dominance-based evaluation strategy, and this effect was moderated by prominence prompts and evaluation order.",
+  "relation_to_prior_work": "extends context-effects and contingent-weighting work by showing that dominance relationships can suppress reliance on a clearly prominent attribute through strategy use rather than changes in stated attribute importance. It also refines hierarchical and adaptive strategy views by documenting stickiness of an initially cued dominance strategy.",
+  "research_gap": "Prior context-effects research was largely framed around uncertainty in attribute trade-offs or roughly equal attribute importance, leaving open how choice-set structure operates when one attribute is clearly more prominent. The effect of dominance cues on whether decision makers actually use prominence in constructing preferences had not been directly tested.",
+  "research_question": "Do dominance relationships created by decoys in a choice set change how consumers choose between two focal options that trade off a prominent and a nonprominent attribute? Specifically, does the presence of dominating/dominated options reduce reliance on prominence because decision makers persist with a dominance-based strategy, and can this be mitigated by interventions that direct attention to prominence?"
+}

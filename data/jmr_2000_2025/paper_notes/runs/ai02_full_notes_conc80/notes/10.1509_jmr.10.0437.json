@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces a conjoined stochastic model that separates latent choice set formation from conditional choice to explain diversification.",
+    "Provides evidence that discounting of previously chosen options occurs in set formation for simultaneous choices, not in conditional choice.",
+    "Shows how favorite-item dominance affects expected choice set size and the observed simultaneous-versus-sequential diversification pattern."
+  ],
+  "context": "The study uses a controlled snack-choice setting designed to parallel classic diversification experiments. Participants choose among participant-specific sets of six branded snacks for consumption over three weeks.",
+  "design_and_data": "The authors ran a four-session lab experiment with 139 undergraduate participants. Session 1 measured prior ratings and rankings for 12 snacks; sessions 2-4 implemented a 2 x 3 between-subjects design crossing choice mode (simultaneous vs sequential) with favorite dominance (strong, moderate, weak) via customized available sets. Participants selected three snacks total from six options and consumed one snack per week. Data were analyzed with a joint latent set-formation and conditional-choice model, with additional tests for alternative error covariance structures, temporal variance inflation, and latent classes.",
+  "focal_constructs": [
+    "diversification effect",
+    "choice set formation",
+    "conditional choice",
+    "simultaneous versus sequential choice",
+    "structural state dependence",
+    "favorite dominance",
+    "expected choice set size"
+  ],
+  "main_findings": [
+    "Observed diversification was higher in simultaneous than sequential choice overall, but this difference was not significant when the available set had a strongly dominant favorite.",
+    "Estimated latent choice sets were larger in simultaneous than sequential choice (about 4.20 vs 3.01 items), and expected set size increased as favorite dominance weakened.",
+    "Negative carryover consistent with variety seeking appeared only in simultaneous set formation (not in conditional choice), and the data did not support alternative accounts based on latent error correlations, temporal stochastic inflation, or unobserved heterogeneity."
+  ],
+  "one_line_summary": "Using a customized snack-choice experiment and a joint set-formation/choice model, the paper shows that diversification in simultaneous choice is primarily driven by latent choice set formation rather than by final conditional choice.",
+  "relation_to_prior_work": "extends prior diversification research by formally modeling latent choice set formation jointly with conditional choice instead of inferring mechanisms from observed choice alone, and it reinterprets apparent variety-seeking effects as arising mainly in set formation for simultaneous decisions.",
+  "research_gap": "Prior diversification work mainly analyzed observed final choices and commonly treated all available options as if they were considered, leaving the mechanism underspecified. The paper identifies an explicit gap in distinguishing whether prior choices are discounted during set formation or during conditional choice, and notes no prior formal modeling of this distinction in diversification.",
+  "research_question": "Does the diversification effect in simultaneous versus sequential multi-item choice arise from differences in final conditional choice, from differences in latent choice set formation, or both? The paper also asks how favorite-item dominance and lagged prior choice affect choice set composition and observed diversification."
+}

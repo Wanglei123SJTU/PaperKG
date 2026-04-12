@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper empirically studies how Chile's mandatory warning labels affected equilibrium cereal prices, not just demand substitution.",
+    "It develops and estimates a structural demand-supply model with vertical pricing to rationalize observed post-regulation price changes as an outcome of heterogeneous consumer responses (a composition effect).",
+    "It decomposes policy effects into a pure label effect and a total effect with price reoptimization, showing self-enforcing market effects that can strengthen the policy goal."
+  ],
+  "context": "The study is set in Chile's ready-to-eat breakfast cereal market around the July 2016 mandatory front-of-pack warning-label regulation. The policy targets products high in nutrients such as calories and sugar, in a country where obesity concerns are especially salient for lower-income groups.",
+  "design_and_data": "The authors use Kantar Worldpanel Chile household purchase data from 2014-2017 (about 2.5 years pre and 1.5 years post policy), focusing on cereal purchases in the top six retail chains. After sample restrictions, the demand estimation uses 1,442 households and 34,297 cereal purchase incidents, with product-level label status, demographics, and advertising expenditure data from Megatime. They estimate a hierarchical Bayesian multinomial logit demand model with flexible heterogeneity and a control-function correction for price endogeneity using world sugar prices and a sugar-label interaction as instruments. They then combine demand estimates with a vertical supply model (manufacturer-retailer Nash-Bertrand structure) to recover marginal costs and run counterfactual equilibrium simulations, including a decomposition into pure label versus label-plus-price-adjustment effects.",
+  "focal_constructs": [
+    "front-of-pack nutritional warning labels",
+    "equilibrium price adjustments",
+    "consumer price sensitivity heterogeneity",
+    "composition effect",
+    "labeled versus unlabeled cereals",
+    "socioeconomic status segments",
+    "market share decomposition"
+  ],
+  "main_findings": [
+    "After the warning-label regulation, labeled cereals face higher equilibrium prices, which the model attributes to a composition effect in which more price-sensitive consumers shift away and remaining demand is less price sensitive.",
+    "Unlabeled cereals tend to experience lower prices (or smaller price increases), because they attract more price-sensitive consumers and therefore face more elastic demand.",
+    "Price reoptimization amplifies policy objectives: labeled cereals lose additional share and unlabeled cereals gain additional share relative to a fixed-price counterfactual, with stronger beneficial effects for low-socioeconomic-status households."
+  ],
+  "one_line_summary": "Using Chilean cereal purchase data around the 2016 warning-label mandate, the paper shows with a structural demand-supply model that labels increase prices of labeled cereals and reduce prices of unlabeled cereals, reinforcing shifts toward healthier choices.",
+  "relation_to_prior_work": "extends prior warning-label research that mostly documents consumer demand substitution by modeling equilibrium manufacturer and retailer pricing responses and quantifying how those responses change policy impact.",
+  "research_gap": "Prior studies on nutritional warning labels mainly examine consumer purchase responses, while evidence on supply-side price-setting and resulting equilibrium prices is limited. This leaves open whether firms' pricing reactions might offset or reinforce the intended health effects of labeling policies.",
+  "research_question": "How does the mandatory introduction of front-of-pack nutritional warning labels affect equilibrium prices of labeled and unlabeled products in the cereal category? The paper also asks whether endogenous price reoptimization amplifies or dampens the regulation's intended market-share shifts, including across socioeconomic segments."
+}

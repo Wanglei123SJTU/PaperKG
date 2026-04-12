@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper documents systematic cross-cultural variation in consumer impatience, showing that Western-oriented consumers value immediate consumption more than Eastern-oriented consumers.",
+    "It argues and shows that impatience depends not only on culture but also on regulatory goal framing and gain/loss outcome framing, and it provides process evidence via attention.",
+    "It demonstrates a methodological contribution to marketing by using random assignment and cultural priming of bicultural participants to reduce confounds common in cross-country comparisons."
+  ],
+  "context": "The studies examine online purchase and delivery choices for a novel, focusing on preferences for expedited shipping versus standard delivery. The participants are bicultural Singaporean university students whose U.S. or Singapore cultural orientation is made salient through visual primes.",
+  "design_and_data": "The paper reports two web-based, between-subject experiments with 2 x 2 x 2 designs: culture prime (U.S. vs Singapore), goal frame (promotion vs prevention), and outcome frame (gain vs loss). Study 1 uses 149 Singaporean student participants and measures willingness to pay for one-day versus standard five-day delivery after cultural and message manipulations. Study 2 uses 160 participants from the same pool, updates the collages to remove consumption cues, measures impatience with two scale items, and records time spent reading key framing text as an attention proxy. The authors test interactions with ANOVA and use a Baron-Kenny style mediation test with reading time as a covariate.",
+  "focal_constructs": [
+    "consumer impatience",
+    "time discounting",
+    "intertemporal choice",
+    "cultural orientation (Western vs Eastern)",
+    "regulatory focus (promotion vs prevention)",
+    "gain versus loss framing",
+    "willingness to pay for expedited delivery",
+    "attention to message"
+  ],
+  "main_findings": [
+    "Participants primed with U.S. culture showed higher willingness to pay for expedited delivery and higher self-reported impatience than participants primed with Singapore culture.",
+    "Loss framing increased impatience relative to gain framing.",
+    "Impatience depended on a culture x goal x outcome interaction: under U.S. priming, promotion loss increased impatience versus promotion gain, while under Singapore priming, prevention loss increased impatience versus prevention gain, and attention fully mediated key framing effects in Study 2."
+  ],
+  "one_line_summary": "Across two experiments with bicultural Singaporeans, the paper finds that Western cultural priming heightens impatience for immediate consumption and that promotion/prevention and gain/loss framing jointly shape this effect through attention.",
+  "relation_to_prior_work": "extends intertemporal choice and time-discounting research that has relied largely on U.S. samples by testing culture-bound variation in impatience through bicultural priming. It integrates regulatory focus and prospect-theory style framing to explain when loss aversion in impatience is strongest.",
+  "research_gap": "Existing empirical work on intertemporal choice and discounting was based mainly on U.S. participants, leaving uncertain whether discounting patterns are culture-bound. The paper also addresses the unresolved question of how cultural orientation interacts with regulatory goals and gain/loss framing in shaping impatience.",
+  "research_question": "Do Western-oriented and Eastern-oriented consumers differ in how strongly they discount the future and value immediate consumption? How do promotion versus prevention goals and gain versus loss framing interact with culture to change consumer impatience for expedited consumption?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Generalizes the IV-free Gaussian-copula endogeneity approach of Park and Gupta (2012) to linear fixed-effects panel models by combining fixed-effects transformations with GLS.",
+    "Introduces a likelihood-based copula specification that models the joint distribution of the error and all explanatory variables, allowing endogenous and exogenous regressors to be correlated while enforcing exogeneity through zero error correlations.",
+    "Shows via simulations and an empirical example that the generalized estimator is a useful alternative to IV and GMM-style instrumentation, including in dynamic panels with serial correlation."
+  ],
+  "context": "This is a methodological marketing-econometrics paper on linear panel regressions with endogeneity, fixed effects, and dynamic specifications. The empirical illustration uses IRI store-level paper towel category sales data from 90 stores in Chicago, Illinois, over 573 weeks (2001-2012), yielding an unbalanced panel with 22,625 observations.",
+  "design_and_data": "The paper derives a maximum-likelihood estimator by applying first-difference or within fixed-effects transformations, then a GLS transformation to handle the induced nonspherical error covariance, and then specifying a Gaussian-copula joint distribution for transformed endogenous regressors, exogenous regressors, and the error. Marginal regressor distributions are estimated in a data-driven way and exogeneity is imposed by restricting copula correlations between exogenous regressors and the error to zero. Finite-sample performance is assessed with Monte Carlo simulations (1,000 replications) across N={100,200} and T={5,10}, comparing against OLS, IV with weak/strong instruments, the original Park-Gupta copula estimator, and difference/system GMM in dynamic panels. Additional robustness checks cover unbalanced panels, multiple endogenous regressors, heterogeneous endogeneity, non-Gaussian dependence, and identification-failure scenarios, followed by an empirical demand application.",
+  "focal_constructs": [
+    "regressor endogeneity",
+    "Gaussian copula joint estimation",
+    "fixed-effects panel models",
+    "GLS transformation",
+    "correlated endogenous and exogenous regressors",
+    "dynamic panel models",
+    "serial correlation",
+    "instrumental variable-free identification"
+  ],
+  "main_findings": [
+    "Direct application of the original Park and Gupta copula estimator to fixed-effects-transformed panel data can be biased, while the proposed FE-plus-GLS copula estimator is unbiased in the reported simulation settings.",
+    "Ignoring correlation between endogenous and exogenous regressors produces substantial bias (including for coefficients on exogenous controls), whereas modeling the full joint distribution of all regressors and the error removes this bias.",
+    "In dynamic panel simulations with small T and serially correlated errors, the proposed estimator remains unbiased and more robust than difference/system GMM with internal instruments; in the paper towel application, it indicates endogeneity for price and lagged sales but not clear feature-advertising endogeneity."
+  ],
+  "one_line_summary": "This paper develops and validates a GLS-adjusted Gaussian-copula estimator for fixed-effects linear panel models that handles endogeneity without instruments while accommodating correlated regressors.",
+  "relation_to_prior_work": "extends prior copula-based joint estimation work, especially Park and Gupta (2012), from cross-sectional and independence-assumed settings to fixed-effects linear panel models with correlated regressors. It challenges common augmented-OLS copula implementations that omit endogenous-exogenous regressor dependence by showing that omission causes bias.",
+  "research_gap": "Existing copula-based joint estimation studies had not addressed fixed-effects-transformed panel data, where transformed errors are nonspherical and can invalidate direct use of cross-sectional estimators. Prior work also typically assumed independence between endogenous and exogenous regressors, leaving unrecognized the omitted-variable bias that arises when regressors are correlated.",
+  "research_question": "How can IV-free copula-based endogeneity correction be generalized to linear panel models with fixed effects, given that fixed-effects transformations alter the error covariance structure? Can a likelihood-based Gaussian-copula approach that jointly models the error with all explanatory variables identify and estimate parameters when endogenous and exogenous regressors are correlated, and how does it perform relative to IV and GMM alternatives?"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper jointly models the dynamic and heterogeneous effects of economic marketing communication (EM) and relational marketing communication (RM) in one framework, including their interaction.",
+    "It applies a state-space customer analytics approach in a B2B setting to recover latent communication stock and evolving customer perceived importance of economic and relational value from transaction data.",
+    "It operationalizes EM and RM from actual message content using content analysis of firm-initiated direct contacts, then links these measures to customer purchase revenue."
+  ],
+  "context": "The study is set in B2B direct marketing for shipping services at a Fortune 500 service firm. The focal customers are U.S. small and medium business clients that receive frequent firm-initiated contacts (e.g., email, phone, in-person).",
+  "design_and_data": "The authors analyze a customer-level longitudinal dataset from January 2011 to December 2014 (48 months) for 675 U.S. business clients that began relationships around Dec 2010-Jan 2011. Data include monthly purchase transactions, firm-initiated direct marketing contacts, qualitative action comments for each contact, and customer firm characteristics. They code 111,710 contacts into EM and RM via a three-step content analysis and convert communications into monthly dollar investments by type. They estimate a Bayesian state-space Type I Tobit model with data augmentation and Kalman filtering, and address potential endogeneity with an instrumental-variable control-function approach.",
+  "focal_constructs": [
+    "economic marketing communication (EM)",
+    "relational marketing communication (RM)",
+    "customer purchase revenue",
+    "latent stock of direct marketing communication",
+    "perceived importance of economic value",
+    "perceived importance of relational value",
+    "time-varying customer response heterogeneity"
+  ],
+  "main_findings": [
+    "EM and RM both positively affect purchase revenue, and their interaction is also positive, with effects that vary across customers and over time.",
+    "A latent stock of direct marketing communication significantly influences purchase behavior, indicating meaningful carryover effects of past contacts.",
+    "The inferred perceived importance of value evolves dynamically: past EM increases perceived importance of economic value, past RM increases perceived importance of relational value, and RM shows more persistent long-run impact than EM on average."
+  ],
+  "one_line_summary": "Using longitudinal customer data from a Fortune 500 B2B shipping-services firm, the paper codes direct contacts into economic versus relational messages and shows with a state-space Tobit model that their interactive, time-varying, and carryover effects drive purchase revenue through evolving perceived value importance.",
+  "relation_to_prior_work": "extends prior B2B CRM studies that used aggregated communication measures or single intervention types by explicitly separating EM and RM message content and estimating their joint dynamic effects on observed purchase behavior. It also moves beyond largely cross-sectional perception work by recovering evolving value importance from transaction and contact data.",
+  "research_gap": "Prior B2B empirical work has often treated direct marketing communication as aggregate activity or focused on one intervention type, with limited analysis of message content that differentiates economic versus relational value. Existing studies also provide limited evidence on how these effects evolve over time and how customers' value importance can be inferred dynamically from behavioral data rather than static survey measures.",
+  "research_question": "How do EM and RM affect customer purchase behavior over time, including cross-customer heterogeneity and interaction between the two communication types? Can firms recover customers' evolving perceived importance of economic versus relational value from transaction and marketing-contact data, rather than relying on survey measures?"
+}

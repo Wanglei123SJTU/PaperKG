@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper presents a two-stage econometric framework that jointly models director selection, production budget, distribution screens, and box office revenue when studying gender and race disparities among film directors.",
+    "It provides evidence that observed female/minority revenue shortfalls are driven by supply-side biases in project assignment, budgeting, and distribution rather than by lower director performance after correcting for selection and endogeneity.",
+    "It documents heterogeneity in bias by lead actor gender/race, director clout, and director international status, and corroborates core patterns with matched-sample analyses."
+  ],
+  "context": "The study is set in Hollywood and examines movies widely released in the United States, where studios choose directors and budgets and exhibitors allocate screens. It focuses on the 1994-2016 period and compares women and directors of color with male nonminority directors.",
+  "design_and_data": "The authors analyze 2,386 widely distributed U.S. films, using 29,547 weekly revenue observations and 28,451 weekly screening observations from BoxOfficeMojo, plus IMDb variables on budgets, director and cast characteristics, genres, and ratings. They estimate a two-stage least squares system with weekly and movie-level equations for revenue, screens, and budget, including movie fixed effects, and a first-stage probit for female/minority director selection with inverse Mills correction terms. Endogenous variables are instrumented using population-weighted precipitation (revenue), net screen closures (screens), average other-studio budgets (budget), and reviewer-level rating tendencies (audience ratings). They also run matched-sample analyses for female-directed (n=123) and minority-directed (n=257) films against closest comparison films.",
+  "focal_constructs": [
+    "director gender",
+    "director minority status",
+    "project assignment bias",
+    "production budget allocation",
+    "distribution intensity",
+    "box office revenue",
+    "director clout",
+    "lead actor gender and race"
+  ],
+  "main_findings": [
+    "Once selection and endogeneity are modeled, female/minority director status is not a statistically significant predictor of box office revenue.",
+    "Selection effects show bias favoring male nonminority directors in assignment to higher-potential projects, larger production budgets, and greater screen allocation.",
+    "Biases are stronger when lead actors are female or minority and weaker for higher-clout and international directors; matched samples show women directors achieve similar revenues with lower budgets, and minority directors achieve higher revenues with similar budgets."
+  ],
+  "one_line_summary": "Using a two-stage IV and selection-correction approach on U.S. film data, the paper finds that apparent underperformance of women and minority directors is explained by biased project assignment, budgeting, and distribution rather than lower intrinsic performance.",
+  "relation_to_prior_work": "extends prior box office and leadership research by explicitly modeling director gender and race and isolating supply-side assignment, budgeting, and distribution biases from observed revenue outcomes.",
+  "research_gap": "Prior motion picture marketing studies mainly emphasized forecasting and factors such as stars, reviews, and distribution, with little direct analysis of director gender/race effects and often too few female/minority directors for robust testing. The paper argues that prior leadership research also did not isolate how project assignment and support decisions like budgets and screens generate observed performance disparities.",
+  "research_question": "Do female and minority directors truly generate lower box office revenues than male nonminority directors once nonrandom assignment and endogeneity are accounted for? The paper also asks how biases in project assignment, budgeting, and distribution vary with lead actor gender/race, director clout, and whether the director is international."
+}

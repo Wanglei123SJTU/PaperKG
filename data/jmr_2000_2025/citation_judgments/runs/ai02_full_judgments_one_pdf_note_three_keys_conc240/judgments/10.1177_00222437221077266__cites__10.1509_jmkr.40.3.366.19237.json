@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the Method 1 (multigroup) discussion, the authors explicitly cite Irwin and McClelland (2003) for a specific methodological claim: splitting a continuous Z into groups adds measurement error and uses only partial information. This is not a generic literature-list mention; it directly supports their conceptual setup for why multigroup can be biased when moderators are continuous. The citation informs framing and interpretation of simulation results, even though the paper's main contribution is a broader six-method comparison rather than extending the 2003 paper itself.",
+  "relation_description": "The citing paper uses Irwin and McClelland (2003) to justify that discretizing a continuous moderator (e.g., median split in the multigroup method) discards information and introduces measurement error. It applies this prior warning to motivate expectations and interpretation of poorer multigroup performance in its latent moderation method comparisons.",
+  "relation_type": "applies"
+}

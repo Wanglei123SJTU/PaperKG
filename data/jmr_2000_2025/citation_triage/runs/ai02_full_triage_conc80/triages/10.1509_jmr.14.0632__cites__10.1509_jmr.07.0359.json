@@ -1,0 +1,4 @@
+{
+  "rationale": "The pair has only one DOI-level match and no in-text citation context (`matched_reference_count`: 1; raw reference has no title/unstructured text), so we cannot see how the citation is used. The cited study is about U.S. home-video multichannel demand/windowing, while the citing study is about Hong Kong theatrical pricing; this suggests possible methodological/background relevance but not clear substantive dependence from current evidence. Because usage is plausible yet unverified, it is not safe to drop.",
+  "triage_decision": "uncertain"
+}

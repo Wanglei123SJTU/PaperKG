@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides one of the first empirical estimates of how consumers respond to firms' misleading health claims using actual purchase behavior rather than lab intentions.",
+    "Uses FTC consent-order timing as quasi-exogenous claim-termination events and models demand while accounting for prices, advertising, and competitor responses.",
+    "Documents heterogeneity in response, with stronger effects for newcomers than existing users, and quantifies the economic magnitude of penalties and gains around deceptive campaigns."
+  ],
+  "context": "The paper studies U.S. packaged consumer goods with health-related credence claims, focusing on Kellogg's Frosted Mini-Wheats (RTE cereal), Dannon Activia (yogurt), Dannon DanActive (yogurt drink), and Airborne (nutritional supplements). The regulatory setting is FTC consumer-protection enforcement via public consent orders and press releases.",
+  "design_and_data": "The authors combine Nielsen Homescan household UPC-date purchases (about 40,000-60,000 households, 2004-2012), Nielsen Retail Scanner prices (about 35,000 stores, 2006-2012), and Nielsen Media advertising data (2004-2012). They exploit FTC consent-order dates as shocks that terminated false-claim campaigns and publicly revealed deception. Empirically, they run reduced-form market-share regressions, a sales difference-in-differences against other brands, and household-level alternative-specific logit demand models with controls for prices, ads, and competitive environment, plus placebo windows and heterogeneity analyses.",
+  "focal_constructs": [
+    "false health claims",
+    "FTC consent orders",
+    "consumer demand",
+    "market share and sales",
+    "deceptive advertising",
+    "newcomer vs existing consumers",
+    "price and advertising responses"
+  ],
+  "main_findings": [
+    "All four focal brands show significant post-order demand declines, and the declines persist after controlling for prices, advertising, and competitors.",
+    "Estimated monthly revenue losses relative to pre-order peaks are about 12%-67%, or approximately $0.40 million to $3.82 million across the four products.",
+    "The response is stronger among newcomers than existing users; for Frosted Mini-Wheats, households with no pre-claim purchase history show the sharpest post-order decline."
+  ],
+  "one_line_summary": "Using FTC enforcement events for four major products, the paper shows that terminating false health claims leads to large demand and revenue losses, with the largest effects on newcomer consumers.",
+  "relation_to_prior_work": "extends prior information and regulation research by focusing on misleading health claims and measuring realized purchase responses in market data, rather than relying mainly on policy shifts that improve information or lab-based stated intentions.",
+  "research_gap": "The paper states that, despite extensive work on information disclosure and advertising regulation, the consumer-purchase consequences of misleading or false health claims have received little empirical attention. Prior deception studies are largely laboratory based and centered on beliefs or intentions, not observed market purchases.",
+  "research_question": "What demand consequences do firms face when false health claims are exposed and terminated through FTC action? How large are these effects after accounting for firms' and rivals' strategic responses in prices and advertising, and which consumers are most affected?"
+}

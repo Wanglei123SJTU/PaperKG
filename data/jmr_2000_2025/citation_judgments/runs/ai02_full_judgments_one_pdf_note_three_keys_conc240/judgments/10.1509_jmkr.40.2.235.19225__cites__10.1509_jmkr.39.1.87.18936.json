@@ -1,0 +1,6 @@
+{
+  "citation_substance": "mention_only",
+  "rationale": "The cited paper is used only as part of grouped background citations to support a general claim that finite mixture models remain competitive with newer heterogeneity methods. In the citing paper, it appears in brief parenthetical references (with other studies) in the motivation/conclusion sections, without any detailed engagement of its design, findings, measures, or assumptions. The citing study does not build its segment-retention criteria, simulation setup, or analysis logic directly on that specific paper.",
+  "relation_description": null,
+  "relation_type": null
+}

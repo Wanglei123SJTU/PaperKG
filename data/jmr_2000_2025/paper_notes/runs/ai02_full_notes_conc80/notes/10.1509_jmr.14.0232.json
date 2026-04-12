@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces a \"mere measurement plus\" effect: beginning a survey with an open-ended positive prompt adds spending lift beyond traditional mere measurement.",
+    "Provides field-experimental evidence with actual purchase behavior that open-ended positive feedback solicitation influences spending in both B2C and B2B settings.",
+    "Argues that firms can proactively shape customer feedback effects through solicitation framing, because prompting positive recall and expression makes positive memories more salient for later behavior."
+  ],
+  "context": "The paper studies post-transaction customer feedback surveys in two real-world settings: a U.S. national B2C portrait studio chain (phone survey) and a B2B software manufacturer with free-trial users (online survey). It focuses on how the opening prompt in feedback requests affects later purchasing.",
+  "design_and_data": "Study 1 is a longitudinal field experiment at a national portrait studio chain. Customers who called the feedback hotline were assigned to a survey that either began with an open-ended positive prompt (n = 7,260) or used closed-ended questions only (n = 14,468), and nonresponders during the period were also included (n = 5,338), for a total of 27,066 customers. The main outcomes were customer-level spending and transactions over the following 12 months from archival transaction data, with controls including past spending, historical quality ratings from prior surveys, and income. Study 2 is a B2B field experiment with software trial users using four groups (no survey sent N = 10,628; survey invited but not completed N = 8,198; closed-ended survey completed N = 90; survey with open-ended positive start completed N = 96), with spending tracked for 30 days after all groups received the same 20% promotion code; planned contrasts tested mere solicitation, mere measurement, and the incremental positive-solicitation effect.",
+  "focal_constructs": [
+    "open-ended positive solicitation",
+    "solicitation frame",
+    "mere solicitation effect",
+    "mere measurement effect",
+    "mere measurement plus effect",
+    "customer repurchase behavior",
+    "customer spending"
+  ],
+  "main_findings": [
+    "In Study 1, customers whose survey began with an open-ended positive prompt spent 8.25% more over the next year than customers completing a closed-ended-only survey ($143.16 vs. $132.25), and they also made more transactions.",
+    "Study 2 showed a significant hierarchy of effects: mere solicitation, mere measurement, and an additional significant open-ended positive solicitation effect on spending.",
+    "In Study 2, starting the survey with an open-ended positive prompt increased spending by 32.88% relative to the closed-ended survey condition ($8.85 vs. $6.66)."
+  ],
+  "one_line_summary": "Across two field experiments, the paper finds that starting customer surveys with an open-ended positive feedback prompt increases subsequent spending beyond standard mere measurement effects.",
+  "relation_to_prior_work": "extends mere measurement and question-behavior research by showing that the framing of survey solicitation, not only asking closed-ended questions, changes actual purchase behavior. extends customer feedback research that emphasized complaint handling and feedback use by testing how soliciting open-ended positive feedback affects later spending in field settings.",
+  "research_gap": "Prior work largely examined how firms use feedback and often emphasized negative feedback, while giving little attention to how solicitation framing itself changes customer behavior. Existing mere measurement field studies focused on closed-ended measurement and had not tested whether open-ended positive solicitation produces incremental effects on real purchases.",
+  "research_question": "Does beginning a feedback survey with an open-ended positive solicitation increase subsequent customer purchase behavior? If so, does this effect add incremental lift beyond mere solicitation and traditional mere measurement from closed-ended surveys?"
+}

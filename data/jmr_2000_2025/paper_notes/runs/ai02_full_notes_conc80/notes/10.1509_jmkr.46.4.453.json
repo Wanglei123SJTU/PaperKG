@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops and estimates a discrete strategic game in which Wal-Mart, Kmart, and Target choose whether to operate in each local market and which format (discount store or supercenter) to use.",
+    "It combines the market-structure game with store-level revenue regressions that include correction terms to account for endogenous market structure.",
+    "It allows rich firm- and format-specific heterogeneity in both market-condition effects and competitive effects, exploiting the small set of identifiable chains."
+  ],
+  "context": "The study examines the U.S. retail discount industry, focusing on Wal-Mart, Kmart, and Target in 2003. Competition is analyzed across local U.S. markets where each chain may operate discount stores and/or supercenters.",
+  "design_and_data": "The data include locations of all U.S. Wal-Mart, Kmart, and Target stores operating in 2003, plus each store's format, opening date, and average weekly revenue (from Trade Dimensions). The authors partition the contiguous United States into 7,698 local markets (census tracts sharing the first three tract digits, excluding very small markets) and merge market demand and cost variables from the 2000 U.S. Census, Bureau of Labor Statistics, and Economic Census, along with distances to headquarters and distribution centers. They estimate a sequential-move discrete game with subgame-perfect Nash equilibrium by simulated maximum likelihood to explain market structures. They then estimate store-level log-revenue regressions using a two-stage correction approach (in the spirit of Heckman/Mazzeo) to address endogenous market structure.",
+  "focal_constructs": [
+    "endogenous market structure",
+    "retail entry and format choice",
+    "strategic interaction among discount chains",
+    "firm and format heterogeneity",
+    "subgame-perfect Nash equilibrium",
+    "store-level revenues",
+    "competitive effects",
+    "break-even market size"
+  ],
+  "main_findings": [
+    "Wal-Mart and Kmart have similar monopoly break-even population thresholds in typical markets (roughly 29-31 thousand), while Target requires a much larger threshold (about 78 thousand), consistent with Target serving different market types.",
+    "Competitive effects are strongly asymmetric: Wal-Mart's presence harms Kmart and Target much more than their presence harms Wal-Mart, and the implied Wal-Mart effect on each rival is more than twice the reverse effect.",
+    "After correcting for endogenous market structure, competitor presence reduces store revenues for all chains, with the largest losses for Kmart and Target when Wal-Mart is present; without correction, competition effects are understated and can lead to misclassification of store performance."
+  ],
+  "one_line_summary": "Using U.S. 2003 data on Wal-Mart, Kmart, and Target, the paper estimates a strategic entry/format model and corrected revenue regressions, finding Wal-Mart's dominant competitive impact, Target's niche positioning, and Kmart's weaker position.",
+  "relation_to_prior_work": "extends empirical entry and market-structure models by estimating a strategic game with identified firms and format-specific competitive effects in discount retailing. It also applies a Mazzeo/Heckman-style correction framework when relating outcomes (store revenues) to market structure so competition effects are estimated under endogenous market structures.",
+  "research_gap": "The paper states that despite the size and importance of discount retailing, rigorous empirical evidence on strategic competition among major discount chains has been limited, largely because detailed price and sales data are hard to obtain. It also highlights that analyses linking outcomes to market structure need to handle the nonrandom, endogenous determination of market structures.",
+  "research_question": "How do local market characteristics and rivals' decisions jointly determine whether Wal-Mart, Kmart, and Target operate a store in a local market and which format they choose? How does local competitive structure affect store revenues once the endogeneity of market structure is explicitly corrected for?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The article provides a nontechnical synthesis of the econometric properties required for marketing models used in policy simulation, with emphasis on exogeneity, parameter stability, expectations, and the Lucas critique.",
+    "It compiles practical diagnostics and remedial actions for descriptive, forecasting, and policy-simulation models, including a summary checklist and stepwise guidance.",
+    "It reports a structured review of 1998-2003 Journal of Marketing Research articles to document how often key diagnostics are used in applied marketing econometrics."
+  ],
+  "context": "The paper is set in marketing decision contexts where managers change controllable instruments such as price or advertising to affect outcomes such as sales or market share. It discusses time-series, cross-section, and panel modeling settings and includes a review of diagnostics used in Journal of Marketing Research articles from 1998 to 2003.",
+  "design_and_data": "This is an invited methodological review and guidance paper, not a new empirical estimation study on a single market dataset. The author develops stylized econometric examples (for example, sales-price equations with expectation terms) to illustrate conditions for description, forecasting, and policy simulation. The paper also screens six volumes of Journal of Marketing Research (1998-2003), excluding technical method-introduction articles, and tabulates which diagnostics were reported.",
+  "focal_constructs": [
+    "policy simulation",
+    "exogeneity and endogeneity",
+    "parameter stability",
+    "Lucas critique",
+    "consumer expectations",
+    "model diagnostics",
+    "forecast evaluation",
+    "reduced-form VAR impulse responses"
+  ],
+  "main_findings": [
+    "Models intended for policy simulation must satisfy standard descriptive and forecasting requirements and additionally address stability and expectation formation in both the outcome and instrument equations.",
+    "When policy changes are anticipated, ignoring expectations can induce parameter instability and unreliable policy elasticities, which is the core practical implication of the Lucas critique in this setting.",
+    "In the 1998-2003 JMR review, diagnostics are reported in many studies but concentrate on in-sample fit and residual correlation; explicit exogeneity checks appear increasingly, while stability and specific time-series diagnostics receive less attention."
+  ],
+  "one_line_summary": "The article argues that reliable marketing policy simulation requires structurally credible econometric models with exogeneity and parameter stability checks, explicit treatment of expectations and policy regimes, and disciplined diagnostic testing, and it documents diagnostic practice in JMR 1998-2003.",
+  "relation_to_prior_work": "synthesizes prior econometric work on model adequacy, exogeneity, time-series properties, and the Lucas critique, and translates these ideas into marketing policy-simulation guidance. It also clarifies limits of reduced-form VAR impulse responses for policy interpretation when shocks are not cleanly identified.",
+  "research_gap": "The paper identifies that marketing studies often draw managerial or policy implications from econometric models without a consolidated framework for judging whether those models are truly reliable for policy simulation. It also notes the need to document actual diagnostic practice in the marketing literature to assess this reliability concern.",
+  "research_question": "What properties must an econometric model satisfy to be useful for marketing policy simulation rather than only description or forecasting? How should researchers diagnose and address problems such as endogeneity, parameter instability, expectation effects, and Lucas-critique vulnerabilities, and to what extent are such diagnostics used in recent JMR studies?"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The pair is plausibly substantive because both papers center on automated extraction of structured information from online review text: the citing paper uses supervised deep learning to code theory-driven review content dimensions, while the cited paper proposes an automated pipeline to derive product attributes from reviews. The citing note explicitly frames its contribution as extending prior online review/text-analytics work, and the cited article is a clear methodological predecessor in that space. This is not an obvious incidental mention based on the provided evidence.",
+  "triage_decision": "keep_for_relation_judgment"
+}

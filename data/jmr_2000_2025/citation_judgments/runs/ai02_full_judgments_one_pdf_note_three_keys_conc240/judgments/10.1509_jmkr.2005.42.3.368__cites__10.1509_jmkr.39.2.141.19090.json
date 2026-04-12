@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in the methods/data implementation, not just in a background list. The citing paper explicitly points to Chintagunta (2002) when justifying key empirical choices, including wholesale prices as instruments for retail prices and an alternative store-traffic-based market size construction. These choices feed directly into its endogeneity-handling estimation setup, so the citation has a meaningful functional role.",
+  "relation_description": "The citing paper applies specific empirical ideas discussed in Chintagunta (2002), especially instrumenting retail prices with wholesale prices and related market-size/no-purchase-share setup choices, within its combined household-plus-store estimation framework.",
+  "relation_type": "applies"
+}

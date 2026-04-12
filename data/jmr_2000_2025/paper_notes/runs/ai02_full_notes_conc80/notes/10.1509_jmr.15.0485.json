@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper presents a holistic framework that jointly models own and peer antecedents of actual salesperson turnover behavior.",
+    "It provides an empirical test on longitudinal salesperson data using a proportional hazards approach with explicit treatment of unobserved heterogeneity and peer-effect endogeneity.",
+    "It demonstrates a managerial risk-identification application that classifies salespeople by turnover risk and helps diagnose turnover drivers."
+  ],
+  "context": "The empirical setting is a Fortune 500 U.S. telecommunications service provider with customer-facing retail stores. Salespeople sell devices and services in a business-to-consumer, individual-selling environment across stores nationwide.",
+  "design_and_data": "The authors analyze longitudinal salesperson- and store-level data for 6,727 salespeople across 1,058 stores over 27 months (January 2010 to March 2012). They observe 1,996 voluntary quits, with the remaining salespeople right-censored, and structure the data as salesperson-month observations. The main model is a Cox proportional hazards model with gamma frailty for unobserved heterogeneity and a control-function instrumental-variable approach to address potential endogeneity in voluntary peer turnover. Robustness checks include fixed-effects linear probability models and alternative peer-turnover operationalizations.",
+  "focal_constructs": [
+    "salesperson turnover behavior",
+    "relative performance",
+    "customer satisfaction",
+    "goal achievement",
+    "voluntary peer turnover",
+    "involuntary peer turnover",
+    "peer performance variance",
+    "identity theory and social identity theory"
+  ],
+  "main_findings": [
+    "Higher relative performance and higher customer satisfaction are associated with lower salesperson turnover probability.",
+    "Goal achievement has an inverted U-shaped relationship with turnover, with moderate goal achievers showing the highest likelihood of leaving.",
+    "Peer effects are significant and, on average, larger than own effects: higher voluntary and involuntary peer turnover increase turnover probability, while higher peer performance variance decreases it."
+  ],
+  "one_line_summary": "Using longitudinal data from a U.S. telecommunications retailer, the paper estimates a hazard model showing that salesperson turnover is driven by both own factors and peer dynamics, with peer effects having greater average impact.",
+  "relation_to_prior_work": "extends prior salesperson turnover research by modeling actual turnover behavior with longitudinal firm data, jointly estimating own and peer antecedents that were often studied separately, and introducing frailty-based unobserved heterogeneity with distinct voluntary and involuntary peer turnover effects.",
+  "research_gap": "Prior sales turnover research has largely relied on turnover intentions and offers limited empirical analysis of actual turnover behavior using longitudinal data. Existing studies also tend to examine own effects and peer effects in isolation and give limited explicit treatment to unobserved heterogeneity in turnover risk.",
+  "research_question": "The paper asks which own factors (relative performance, customer satisfaction, and goal achievement) and peer factors (peer performance variance and peer turnover) predict actual salesperson voluntary turnover. It also examines whether peer effects have stronger influence than own effects on turnover behavior."
+}

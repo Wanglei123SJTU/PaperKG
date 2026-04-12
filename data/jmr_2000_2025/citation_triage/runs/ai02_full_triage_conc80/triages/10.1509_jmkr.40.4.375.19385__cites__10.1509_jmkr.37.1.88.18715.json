@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s methods and constructs center on a dynamic state-space/Kalman filter advertising model with TV, print, carryover, and synergy, with no indication that sliced inverse regression or any dimension-reduction procedure is used. The cited paper is specifically a methodological introduction of SIR for high-dimensional data-rich settings, which does not align with the citing study’s low-dimensional model setup described in the notes. With only a bare DOI match and no contextual in-text evidence, this looks like a likely background/method-list mention rather than substantive use.",
+  "triage_decision": "drop_obvious_mention_only"
+}

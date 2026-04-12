@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper is among the first to explicitly study the social-plus-product dual-network structure in e-commerce/content sites and its role in exploratory search.",
+    "It combines large-scale network topology analysis with behavioral web experiments to show that user pages and user-generated links have distinctive brokering roles that algorithmic product links alone do not reproduce.",
+    "It proposes and tests dynamic recommendation policies that vary link exposure over time or by user feedback, offering practical guidance for improving online exploration outcomes."
+  ],
+  "context": "The main setting is online video exploration on YouTube, where a product network of related videos coexists with a social network of user pages connected through user-generated links. A replication is conducted in a music setting using Last.fm.",
+  "design_and_data": "The authors crawled YouTube to build a dual-network dataset of approximately 700,000 videos, 50,000 users, and about 10 million links, then compared the real dual network with a product-only network and a synthetic rewired network with dummy users. They computed network indexes (e.g., closeness, betweenness, PageRank, assortative mixing) to characterize structural differences between user and product nodes. They then ran seven web studies on a YouTube-like site (over 500,000 videos) where participants browsed for about 15 minutes and rated videos under different recommendation conditions, analyzing outcomes with Cox hazard models, ANOVA/OLS, and difference-in-differences where appropriate. They also report replications in a lab sample (351 students) and on Last.fm data (50,000 users, 150,000 tracks, >1 million links; 120 participants).",
+  "focal_constructs": [
+    "dual-network structure",
+    "user-generated links",
+    "product network recommendations",
+    "exploratory search",
+    "exploration efficiency",
+    "exploration effectiveness",
+    "content brokerage",
+    "dynamic recommendation strategy"
+  ],
+  "main_findings": [
+    "In the YouTube dual network, user nodes exhibit much higher betweenness than product nodes and much lower assortative mixing, indicating that user-generated links bridge across content categories and act as brokers.",
+    "Across experiments, dual-network recommendations outperform product-only and user-generated-only conditions by helping users find liked content faster and by increasing average ratings, high-rating share, and overall satisfaction; these effects replicate in Last.fm and in a lab setting.",
+    "Alternative explanations are not supported: random links, additional variety from another recommender, high-quality-only product links, or label changes do not match the dual-network effect, while dynamic switching to dual links (especially after dissatisfaction) further improves ratings and satisfaction."
+  ],
+  "one_line_summary": "Using large-scale YouTube/Last.fm network data and seven web experiments, the paper shows that combining algorithmic product links with user-generated social links in a dual network improves the speed and quality of online exploratory content discovery, with additional gains from dynamic switching policies.",
+  "relation_to_prior_work": "extends prior work on keyword search and algorithmic product-network recommendations by studying exploratory browsing in integrated social-product dual networks and by empirically testing user-generated links as structurally distinct discovery paths.",
+  "research_gap": "Prior studies emphasized directed keyword search or product-network recommendations, leaving limited evidence on how users explore content without a predefined target. The effect of integrating social-network user-generated links with product links in a dual network on exploration performance had not been directly tested.",
+  "research_question": "Does integrating user-generated social links with algorithmic product recommendations in a dual-network structure make online exploratory search more efficient and effective than product-network or user-generated links alone? If so, can dynamic changes in the recommendation structure over time or after user dissatisfaction further improve exploration outcomes?"
+}

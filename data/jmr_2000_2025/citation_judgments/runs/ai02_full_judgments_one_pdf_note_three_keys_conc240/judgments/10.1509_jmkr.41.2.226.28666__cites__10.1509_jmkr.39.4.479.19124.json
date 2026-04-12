@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "Andrews et al. is cited in the core motivation section, where its conclusion that discrete and continuous representations are similarly effective frames the methodological debate the new model addresses. The citation is not just a background list item; it informs why the authors seek a model that combines latent-class structure with continuous mixing. The paper cites Andrews et al. again for the predictive log-likelihood comparison approach, showing concrete methodological carryover.",
+  "relation_description": "The citing paper treats Andrews, Ainslie, and Currim (2002) as a key prior benchmark in the discrete-versus-continuous heterogeneity debate, then extends that line by introducing and testing a hybrid augmented latent class model against both approaches. It also follows Andrews et al.'s predictive log-likelihood benchmarking logic in its model-comparison setup.",
+  "relation_type": "extends"
+}

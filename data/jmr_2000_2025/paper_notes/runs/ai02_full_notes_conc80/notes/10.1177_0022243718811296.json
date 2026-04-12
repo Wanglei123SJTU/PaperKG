@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "Develops and validates the Persistence-Licensing Response Measure (PLRM) to capture chronic individual differences in responses to subgoal success.",
+    "Shows that consumers can experience multiple persistence-promoting and licensing-promoting responses concurrently, and that their net balance predicts behavior better than single-response accounts.",
+    "Demonstrates managerial use of the PLRM for segmentation and for designing interventions that increase persistence among licensing-prone consumers."
+  ],
+  "context": "The paper studies consumer self-regulation after subgoal success in long-term goals such as saving, debt reduction, dieting, fitness, and academics. Empirical settings include scenario tasks, a college course field setting, and lab tasks with real behavioral choices.",
+  "design_and_data": "The authors run 10 studies, with Studies 1-5 focused on scale development and validation using MTurk and undergraduate samples across eating, financial, and fitness domains. Item generation combines literature-based themes with open-ended responses to subgoal-success scenarios, then uses factor analyses to refine the scale to a two-factor, 10-item PLRM and test reliability and nomological validity. Predictive validity tests compare PLRM performance against multiple existing self-regulation and related trait measures under subgoal success versus no-subgoal-success conditions. Studies 6-10 test moderation and interventions in academic, fitness, and financial contexts, including field-reported study behavior and lab/choice outcomes such as equations practiced, exercise persistence time, and credit-card payment allocation.",
+  "focal_constructs": [
+    "subgoal success",
+    "persistence",
+    "licensing",
+    "Persistence-Licensing Response Measure (PLRM)",
+    "sequential self-regulation",
+    "short-term versus long-term rewards"
+  ],
+  "main_findings": [
+    "The validated PLRM has two factors (persistence-promoting and licensing-promoting responses), shows temporal stability, and is moderately related to but distinct from existing self-regulation constructs.",
+    "PLRM predicts behavior after subgoal success but not when subgoal success is absent, while alternative related scales generally do not show this predictive pattern.",
+    "Across contexts, high-PLRM consumers persist more and low-PLRM consumers license more after subgoal success, and low-PLRM persistence can be improved by shifting focus to long-term rewards or by adding short-term rewards to long-term behaviors."
+  ],
+  "one_line_summary": "This paper develops a two-factor PLRM and shows across ten studies that chronic responses to subgoal success systematically shape persistence versus licensing and can be used to target interventions that increase persistence.",
+  "relation_to_prior_work": "extends prior work by moving beyond manipulations of situational factors or single interpretations of subgoal success to a measured individual-difference account of naturally occurring, concurrent responses. It introduces evidence that subgoal-success responses constitute a distinct sequential self-regulation dimension with incremental predictive value over established self-control-related measures.",
+  "research_gap": "Prior studies mainly manipulated situational characteristics or isolated single cognitive or emotional responses to subgoal success, leaving unclear how consumers naturally experience multiple responses at once and how these combine to drive behavior. Existing self-regulation measures were not designed to capture processes specifically activated by subgoal success, limiting prediction in sequential goal contexts.",
+  "research_question": "Do chronic individual differences in how consumers cognitively and emotionally respond to subgoal success explain whether they persist at long-term goals or license into short-term alternatives? Can a measure of these responses predict behavior beyond existing self-regulation constructs, and can marketers use this knowledge to increase persistence after subgoal success?"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "Keep: the citing paper explicitly frames its contribution as a dynamic, measurement-error-aware advertising model estimated with state-space/Kalman methods, and the cited paper is specifically about controlling measurement error in dynamic advertising models via DLS and a modified Kalman filter. Given this strong construct and method overlap (measurement error, GRPs/tracking data, Kalman/state-space), the citation is plausibly methodological/foundational rather than an obvious incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

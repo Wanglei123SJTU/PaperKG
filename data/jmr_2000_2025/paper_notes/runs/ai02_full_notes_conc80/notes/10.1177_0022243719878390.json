@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Shows that haptic cues appealing to the dominant hand can improve responses to unrelated nongraspable targets, including services, extending beyond prior work on graspable targets and functionally related utensils.",
+    "Identifies perceived ownership creation and transfer from cue to target in the same visual field as the key underlying process.",
+    "Demonstrates a boundary condition: compatible haptic cues do not enhance responses when the target itself is graspable."
+  ],
+  "context": "The paper examines promotional effectiveness in consumer marketing communications, including in-store posters and online ad-like displays. Empirical settings include a French hypermarket loyalty-program promotion and controlled lab/online evaluations of wall art, wall clocks, tax software, and yogurt branding stimuli.",
+  "design_and_data": "The evidence includes one field study and multiple lab/online experiments. Study 1 observed 7,962 shoppers in a French hypermarket and modeled loyalty-program sign-up from poster haptic-cue compatibility. Controlled studies (students and MTurk samples) manipulated compatibility via handle direction, cue side-of-space placement, banner-ad placement, and a pointing-hand manicule, then measured purchase intentions and perceived ownership. Process was tested with mediation analyses and with direct mediator manipulation (owned vs nonowned cue), and a boundary condition was tested by manipulating whether the target appeared graspable.",
+  "focal_constructs": [
+    "handedness",
+    "compatible haptic cues",
+    "nongraspable targets",
+    "perceived ownership",
+    "ownership transfer",
+    "purchase intentions",
+    "target graspability"
+  ],
+  "main_findings": [
+    "For nongraspable targets, compatible haptic cues (vs noncompatible or no cue) increased outcomes, including higher hypermarket loyalty-program sign-ups (.6% vs .2%) and higher purchase intentions across experiments.",
+    "The effect operated through perceived ownership: compatible cues increased perceived ownership of the cue, which transferred to perceived ownership of the target and then to purchase intentions; direct cue-ownership manipulations produced corresponding target effects.",
+    "The compatibility effect attenuated when the target was made graspable, and in simulated web contexts right-handers showed rightward advantages only when a haptic cue was present, while left-handers showed weaker lateralized effects."
+  ],
+  "one_line_summary": "Across field, lab, and online studies, dominant-hand-compatible haptic cues in the same visual field as unrelated nongraspable targets increase promotional effectiveness via perceived ownership transfer, but this advantage disappears when the target is graspable.",
+  "relation_to_prior_work": "extends prior handedness and haptic-cue research by showing effects for unrelated cues and nongraspable products/services, introduces perceived ownership transfer as the mechanism linking cue compatibility to target response, and refines prior boundary understanding by showing attenuation when the target itself is graspable.",
+  "research_gap": "Prior research on dominant-hand compatibility largely focused on graspable products or functionally related utensils, leaving limited guidance for marketers of nongraspable products and services. The role of perceived ownership in these effects, especially transfer of ownership feelings from one object to another in the same visual field, had not been clearly established.",
+  "research_question": "Can an unrelated haptic cue that appeals to a viewer's dominant hand increase response to a nongraspable target product shown in the same visual field? If so, is the effect driven by perceived ownership created for the cue and transferred to the target, and does it weaken when the target itself is graspable?"
+}

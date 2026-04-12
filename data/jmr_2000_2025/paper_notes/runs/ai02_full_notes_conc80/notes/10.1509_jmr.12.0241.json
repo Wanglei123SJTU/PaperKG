@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a low-cost method for building single-source multimedia advertising data by combining loyalty-program transactions, firm contact history, and an online media exposure survey.",
+    "It claims to fill a literature gap by examining ten media channels with individual-level hard outcomes (purchase incidence, dollar sales, and profit) rather than only awareness, recall, or intentions.",
+    "It demonstrates how estimated channel elasticities can be used to derive optimal media budget allocation across channels."
+  ],
+  "context": "The study is a case of a large Australian upscale department-store retailer running a 27-day nationwide promotional blitz campaign targeted to women aged 25-54. The campaign used ten channels: television, newspapers, radio, magazines, online display, sponsored search, social media, catalog, direct mail, and e-mail.",
+  "design_and_data": "The authors drew a random sample of 20,000 loyalty-program members in Sydney, Melbourne, and Brisbane and fielded an online media survey immediately after the sale; 3,007 respondents were retained for analysis. They matched self-reported exposure for eight media channels to each respondent's loyalty-card purchase history (before, during, and after the sale) and to firm-recorded mail and e-mail contacts, creating individual-level single-source data. The empirical model is a Type II Tobit framework (purchase incidence plus purchase outcome), with log-log media terms to estimate GRP-based elasticities and with instruments for potentially endogenous channels (search, social, catalog, mail, e-mail). They also compared a main-effects model with synergy-interaction alternatives and used estimated elasticities for budget optimization.",
+  "focal_constructs": [
+    "multimedia advertising effectiveness",
+    "single-source data",
+    "media exposure opportunities to see",
+    "GRP-based advertising elasticity",
+    "purchase incidence",
+    "dollar sales and gross profit",
+    "media synergy",
+    "optimal media budget allocation"
+  ],
+  "main_findings": [
+    "Seven of the ten media channels were significantly associated with purchase incidence, dollar sales, or profit in this campaign.",
+    "Catalogs, television, and direct mail were the strongest drivers of offline purchase outcomes, with radio and newspaper also contributing; among newer channels, e-mail and sponsored search showed effects while magazines, online display, and social media did not show significant purchase effects.",
+    "Online display and social media significantly increased visits to the retailer's website, and the optimization exercise suggested reallocating spend away from newspapers toward radio and mail while keeping television and catalog levels closer to current allocation."
+  ],
+  "one_line_summary": "Using loyalty-program single-source data from a ten-channel retail blitz campaign, the paper estimates channel-level advertising elasticities for purchase incidence, sales, and profit and applies them to media budget allocation.",
+  "relation_to_prior_work": "extends prior multimedia advertising research by moving from small media sets and softer outcomes to a ten-channel setting with individual-level sales and profit outcomes. It also extends single-source advertising analysis beyond mostly television packaged-goods settings to a short-term retail promotional campaign with both traditional and newer media.",
+  "research_gap": "The paper states that most prior multimedia studies examine only two or three media and often use awareness, recall, or purchase intentions. It identifies a critical gap in evidence on many-media campaigns using individual-level sales or profit outcomes.",
+  "research_question": "How can firms measure individual-level exposure across many advertising channels in a practical, low-cost way and link it to actual purchasing outcomes? Using such data, which channels are relatively more effective for driving purchase incidence, sales, and profit in a multimedia campaign, and how should budgets be allocated across channels?"
+}

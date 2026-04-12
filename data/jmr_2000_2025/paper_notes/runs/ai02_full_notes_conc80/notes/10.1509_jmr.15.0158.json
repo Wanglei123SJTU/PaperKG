@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper claims to provide the first empirical customer-level linkage from marketing-driven behavior to both future cash flow level and cash flow volatility, and thus to shareholder value.",
+    "It claims that habit-based behavioral measures are theoretically grounded and statistically reliable proxies for explaining variation in future customer cash flow outcomes.",
+    "It claims methodological and managerial advances by modeling heterogeneity in habit formation and marketing response, correcting for endogeneity, and showing how differentiated targeting can manage cash flow level and volatility simultaneously."
+  ],
+  "context": "The empirical setting is a large publicly listed U.S. Fortune 500 retailer in a noncontractual market where customers can freely switch and often show polygamous loyalty. The firm operates 900+ stores and an online channel and sells home improvement, furniture, appliance, and gardening products.",
+  "design_and_data": "The data span 2005-2008 and combine daily customer transactions, customer-level firm marketing contacts (email, coupons, direct mail), SKU-level product margins, appended customer characteristics from Acxiom, and macroeconomic data (housing starts). After excluding single-purchase customers and the top 1% highest cash flow volatility customers, the final panel contains 666,992 customers, representing about 86% of firm revenue in the period. The authors construct four habit-strength measures (purchase, promotion, return, and low-margin) from behavior frequency and temporal consistency, estimate hierarchical habit models with customer-level heterogeneity, and apply an IV control-function approach to address marketing endogeneity. They then estimate random-effects panel models linking habit strengths to next-period customer cash flow volatility and cash flow level with controls such as cross-buying and seasonality.",
+  "focal_constructs": [
+    "customer habit strength",
+    "purchase habit",
+    "promotion habit",
+    "return habit",
+    "low-margin habit",
+    "future cash flow level",
+    "future cash flow volatility",
+    "shareholder value"
+  ],
+  "main_findings": [
+    "All four habit measures significantly explain customers' future cash flow volatility and future cash flow level.",
+    "Purchase habit decreases future cash flow volatility and increases future cash flow level, return and low-margin habits increase volatility and decrease level, and promotion habit increases both level and volatility.",
+    "A 1% desired combined change in the four habits (increase purchase and promotion, decrease return and low-margin) corresponds to a 4.61% decrease in future cash flow volatility and a $39.42 million increase in future cash flow level, and selectively targeted marketing is about 1.9-3.2 times more effective than random targeting."
+  ],
+  "one_line_summary": "Using customer-level panel data from a Fortune 500 retailer, the study shows that recurring behavior habits have distinct effects on future cash flow level and volatility and that differentiated targeting substantially improves marketing effectiveness on both outcomes.",
+  "relation_to_prior_work": "extends prior customer equity and CRM work that mostly emphasized profit or cash flow level by empirically modeling customer-level drivers of cash flow volatility alongside level, and builds on Shah, Kumar, and Kim (2014) by applying habit measures to financial risk outcomes with heterogeneity and endogeneity corrections.",
+  "research_gap": "Prior marketing research largely examined marketing effects on future cash flow level while giving little empirical attention to customer cash flow volatility. The paper explicitly states that no prior empirical study had assessed the relative importance of customer-level behavioral factors in driving future cash flow volatility.",
+  "research_question": "Can habit-based measures of recurring customer behavior explain variation in individual customers' future cash flow volatility and cash flow level? What is the relative importance of purchase, promotion, return, and low-margin habits for these outcomes, and can differentiated customer-level marketing interventions manage both outcomes more effectively than untargeted marketing?"
+}

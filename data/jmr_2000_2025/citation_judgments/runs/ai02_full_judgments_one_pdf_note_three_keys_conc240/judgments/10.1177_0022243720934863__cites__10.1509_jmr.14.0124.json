@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in the methods section as a precedent for key estimation choices, specifically the semiparametric latent-support-point approach and the latent instrumental variable endogeneity correction. These modeling steps are central to the field-study analysis and hypothesis testing, not a passing background mention. The citation therefore plays a meaningful technical role in how the citing paper executes its empirical design.",
+  "relation_description": "The citing paper applies methodological elements referenced from Wang, Gupta, and Grewal (2017), especially latent-class support-point and LIV-style endogeneity corrections, to its own service-website context. The relation is methodological transfer rather than theoretical extension of the cited paper's executive-mobility topic.",
+  "relation_type": "applies"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a decompositional model that separates each observed brand rating into a brand-specific association (BSA) component and a general brand impression (GBI) component.",
+    "Provides a constrained components analysis approach for standard brand-tracking ratings that yields variance decompositions and component scores usable for analyzing attitudes, purchase intentions, or choice.",
+    "Shows in three empirical applications that decomposed ratings provide more diagnostic insight into brand positioning and sources of brand equity than raw perceptual ratings alone."
+  ],
+  "context": "The paper analyzes consumer brand-rating data in multiple product settings, including automobiles, toothpaste, and paper towels with a private-label extension. Illustrative and empirical data span different markets and respondent groups, including low- and high-experience consumers.",
+  "design_and_data": "The authors specify basic and extended constrained components analysis models in which each brand-attribute rating loads on one attribute-specific latent component (BSA) and one brand-level latent component (GBI), estimated by alternating least squares under loading and orthogonality/correlation constraints. They run a simulation (5 brands x 4 attributes; sample sizes 50, 200, 500) using data generated from known CFA structures to evaluate model selection, convergence/admissibility issues, and parameter recovery. Empirical Application 1 uses automobile ratings from low-experience students (n = 117) and high-experience owners (n = 158; Mercedes, Porsche, Toyota owners) on 3 brands and 8 attributes. Application 2 uses a national toothpaste tracking panel (Aquafresh, Colgate, Crest; 6 attributes plus brand like/dislike), and Application 3 uses 500 respondents rating paper towel brands (PL, Bounty, Brawny; 4 attributes) plus purchase intentions for a PL scouring-pad extension concept.",
+  "focal_constructs": [
+    "brand-specific associations (BSAs)",
+    "general brand impressions (GBIs)",
+    "brand rating bias",
+    "halo error",
+    "response style bias",
+    "brand equity",
+    "brand positioning",
+    "brand-related experience"
+  ],
+  "main_findings": [
+    "In simulation, the CCA approach recovered the underlying structures reasonably well, correctly distinguished when correlated attribute components were needed, and avoided the frequent inadmissible/improper estimation outcomes seen with comparable CFA specifications.",
+    "In the automobile study, high-experience consumers' ratings were driven primarily by BSAs, while low-experience consumers' ratings were driven primarily by GBIs, even when mean brand ratings looked similar across groups.",
+    "In toothpaste and private-label extension analyses, BSAs were strongest on dimensions a brand clearly owned and were more predictive for core users, whereas GBIs were stronger on less-owned dimensions and among lower-experience or noncore users."
+  ],
+  "one_line_summary": "The paper develops and tests a constrained decomposition of brand ratings into brand-specific associations and general brand impressions, showing that this split improves diagnosis of positioning and brand equity effects across simulation and three empirical studies.",
+  "relation_to_prior_work": "extends prior brand equity and brand-rating research by separating attribute-linked brand associations from holistic brand impressions in observed ratings, which the authors argue helps assess the strength and uniqueness of associations emphasized in existing frameworks.",
+  "research_gap": "Conventional analyses of brand attribute ratings often produce near-unidimensional, highly collinear patterns that mainly reflect overall brand favorability or market penetration, yielding poor diagnostic value for attribute-level strategy. The paper identifies a need for a practical method to disentangle true brand-attribute associations from holistic or bias-like effects embedded in routine rating data.",
+  "research_question": "How can systematic nonattribute effects embedded in brand ratings be disentangled from attribute-specific brand associations? Do these separated components - BSAs and GBIs - have different managerial implications for understanding and leveraging brand equity, including effects on attitudes and brand extension evaluations?"
+}

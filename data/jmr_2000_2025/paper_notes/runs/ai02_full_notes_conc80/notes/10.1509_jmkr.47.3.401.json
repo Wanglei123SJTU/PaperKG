@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces the concept of consumer options in marketing, where a firm sets an upfront option price and a later exercise price for consumers facing outcome uncertainty.",
+    "Develops a simple analytical model that identifies when consumer options can outperform advance selling and shows that advance selling is a special case of option pricing.",
+    "Provides an empirical application in NCAA Final Four ticketing showing that consumer options can raise league profits while also increasing fan surplus, and lays a foundation for future research on consumer options."
+  ],
+  "context": "The paper studies pricing of tickets for late-stage sports tournament games, especially NCAA Division I men's Final Four games, where fans are uncertain about which teams will play. Tickets are typically sold in advance and often sell out before uncertainty is resolved.",
+  "design_and_data": "The authors build a stylized two-fan analytical model with uncertainty about whether a favorite team reaches the final game, comparing option pricing, advance selling, and full-information pricing. They derive optimal option and exercise prices under different utility orderings and discuss extensions (including risk-averse fans and resale of unexercised options, with details in web appendices). Empirically, they run a within-subject computer study with 155 undergraduates (151 retained after comprehension screening) who report willingness to pay under all three pricing mechanisms at probability levels gamma = .25, .50, and .75. Using stated WTP (with a real-ticket lottery incentive), they infer demand and compute profit-maximizing prices and implied profits/surplus by mechanism.",
+  "focal_constructs": [
+    "consumer options",
+    "option price",
+    "exercise price",
+    "advance selling",
+    "full information pricing",
+    "fan heterogeneity",
+    "risk aversion",
+    "willingness to pay"
+  ],
+  "main_findings": [
+    "In the analytical model, consumer options are always weakly better than advance selling, and can exceed or equal full-information pricing depending on fans' utility ordering.",
+    "Higher profitability of option pricing is driven by heterogeneity, especially the presence of team-based fans with low or zero valuation for nonpreferred outcomes and lower expected valuation than game-based fans.",
+    "In the empirical Final Four setting, option pricing yields higher profits than advance selling and full-information pricing across tested probabilities, with the largest option advantage when favorite-team probability is low; options also increase fan surplus and are generally viewed as fair and easy to understand."
+  ],
+  "one_line_summary": "The paper introduces and tests consumer options for sports tickets, showing theoretically and empirically that two-part option/exercise pricing can outperform advance selling under outcome uncertainty and fan heterogeneity.",
+  "relation_to_prior_work": "introduces a marketing-specific option-pricing framework distinct from financial and real options by modeling how firms set option and exercise prices to segment heterogeneous consumers under demand uncertainty. It also builds on advance-selling research by showing conditions where advance selling is nested within, and can be dominated by, consumer options.",
+  "research_gap": "Prior pricing work in this setting focused on advance selling and did not model a firm-designed consumer option contract for consumers with uncertain, heterogeneous valuations. The paper also notes that existing advance-selling assumptions often require positive valuations across outcomes, which can miss team-based fans who value nonpreferred outcomes at or near zero.",
+  "research_question": "Can a league facing uncertainty about which teams will play in a final event improve outcomes by selling consumer options (an upfront option plus later exercise decision) instead of relying on advance selling or waiting for full information pricing? Under what conditions on fan heterogeneity and uncertainty do consumer options increase firm profits and fan welfare?"
+}

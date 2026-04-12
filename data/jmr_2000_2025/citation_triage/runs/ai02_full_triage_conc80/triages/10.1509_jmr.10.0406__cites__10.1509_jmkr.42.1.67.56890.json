@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper appears directly relevant to the citing paper’s core method claim: the citing note emphasizes an “incentive-aligned” preference measurement mechanism and improved out-of-sample prediction versus conjoint benchmarks, while the cited note is specifically about incentive-aligned conjoint improving holdout prediction with real consequences. Both notes also describe closely related empirical modeling setups (conjoint-style choice tasks with HB/MNL estimation), suggesting the citation is likely methodological/foundational rather than incidental.",
+  "triage_decision": "keep_for_relation_judgment"
+}

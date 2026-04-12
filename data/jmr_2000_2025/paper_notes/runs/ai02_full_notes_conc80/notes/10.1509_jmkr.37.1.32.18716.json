@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops a disaggregate hourly model that estimates which TV creative works, on which station, at what time of day, and for how long in a direct-response setting.",
+    "It offers a managerially oriented framework that translates estimated advertising response into profitability by station-time slot and by creative for scheduling decisions.",
+    "By applying the model across multiple markets, it provides tentative generalizations about advertising size, decay, and duration effects in this context."
+  ],
+  "context": "The study examines a firm that advertises a toll-free number to connect consumers to medical service providers and records referrals as successful call connections. The analyses are conducted in multiple U.S. city markets where television is the primary advertising medium.",
+  "design_and_data": "The authors use hourly field data on referrals and advertising from five markets: Sacramento, Chicago, Miami, Minneapolis-St. Paul, and Washington, DC, with samples ranging from 2,784 to 19,632 hours. The full model includes lagged referrals; current and lagged TV ads; morning-ad terms; creative-level and station-level ad terms; station x hour terms; and hour/day controls interacted with service-open indicators. They compare transfer function analysis and regression on a simpler specification to choose method and lag structure, then estimate the full model via regression with three referral lags and four ad lags. They compute cumulative and partial advertising effects to trace decay and then calculate profitability of station-time placements and creatives using referral value implied by client fees and media costs.",
+  "focal_constructs": [
+    "direct television advertising",
+    "hourly referrals",
+    "current advertising effect",
+    "advertising carryover and decay",
+    "ad creative effectiveness",
+    "station effectiveness",
+    "station x time-of-day effects",
+    "advertising profitability"
+  ],
+  "main_findings": [
+    "Television advertising significantly increases referrals, but its carryover is short and mostly dissipates within about 8 hours.",
+    "Advertising effectiveness varies substantially across creatives, stations, and station x time-of-day combinations, with both strongly positive and strongly negative relative effects.",
+    "Profitability varies widely, with many station-time placements and creatives unprofitable and only a small subset producing strong positive profits."
+  ],
+  "one_line_summary": "Using hourly data from five U.S. markets, the paper models direct TV advertising response for a medical referral service and shows that effects are real but short-lived, highly heterogeneous by creative/station/time, and often not profitable.",
+  "relation_to_prior_work": "introduces an hourly, highly disaggregate field model that goes beyond prior studies of average advertising effects by simultaneously estimating heterogeneity by creative, station, and time of day together with short-run carryover.",
+  "research_gap": "The paper argues that most field studies focused on whether advertising works in aggregate and on technical estimation issues, rather than on actionable scheduling detail. It states that prior research had not examined creative, vehicle/station, and time-of-day effects simultaneously in one model.",
+  "research_question": "How does television advertising affect hourly referrals for a direct-response toll-free medical referral service, both immediately and with lagged carryover? Which creatives, stations, and station x time-of-day placements work better, and are those effects profitable after media costs?"
+}

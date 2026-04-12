@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a multiattribute benefits-based choice model that jointly estimates direct attribute-to-choice effects and multiple indirect effects through a priori specified latent benefits, enabling formal mediation tests.",
+    "It is presented as the first model to incorporate process heterogeneity across the full mediation process, including heterogeneity in attribute-to-benefit effects, benefit-to-choice effects, and correlation among unobserved benefit components.",
+    "It introduces a DCE-based reflective measurement approach for latent benefits and a simultaneous multinomial indicator framework as an alternative to rating-scale based latent variable and mediation approaches."
+  ],
+  "context": "The empirical illustration is supermarket bread choice in an Australian city. Consumers evaluate branded bread alternatives that vary on flour type, claims, ingredients, size, expiry date, and price, with health and value for money as focal perceived benefits.",
+  "design_and_data": "The study uses an online survey of 265 adult grocery shoppers who had purchased supermarket bread in the prior two weeks. Respondents completed a discrete choice experiment with 8 choice sets of 3 bread options to indicate preferred choice, and then used the same sets to nominate which option was healthiest and which offered best value for money. The model is formulated as a generalized/multivariate probit system estimated simultaneously, and the authors also estimate a two-segment latent class version via EM to capture unobserved process heterogeneity. Model fit is compared with standard choice models using in-sample and holdout tasks (6 calibration sets, 2 holdout sets).",
+  "focal_constructs": [
+    "benefit-based choice",
+    "perceived healthiness",
+    "perceived value for money",
+    "multiple mediation",
+    "direct and indirect attribute effects",
+    "process heterogeneity",
+    "product positioning",
+    "discrete choice experiments"
+  ],
+  "main_findings": [
+    "Perceived health and perceived value for money both have positive significant effects on choice, and the unobserved components of these mediators are significantly correlated.",
+    "Brand and flour type are major drivers of positioning and choice in the bread application; Helga's is strongly positioned on health, supermarket bread on value, and gluten-free bread is strongly disfavored in utility.",
+    "The model uncovers complete, partial, and competing mediation effects, and a two-segment solution shows process heterogeneity, including a health-conscious segment that places little weight on value in choice."
+  ],
+  "one_line_summary": "The paper develops and demonstrates a DCE-based multivariate probit mediation model that decomposes multiattribute product choice into direct effects and multiple benefit-mediated effects while allowing heterogeneity across the full decision process.",
+  "relation_to_prior_work": "extends prior latent-variable choice and mediation research by combining random utility modeling with explicit direct and multiple indirect paths so mediation can be tested rather than assumed. It extends benefit- and goal-based models by allowing each attribute to affect multiple benefits and by modeling heterogeneity in both perception formation and benefit-to-choice effects. It also replaces rating-scale reflective measurement with DCE-based reflective indicators for latent benefits.",
+  "research_gap": "Prior hybrid and benefit-based choice models generally do not directly test whether selected benefits mediate attribute effects on choice because they often omit a full direct attribute-to-choice path, restrict how attributes map to mediators, and aggregate over key stages of the process. Existing reflective measurement commonly relies on rating scales that do not capture holistic trade-offs and can suffer response-style bias.",
+  "research_question": "How do multiple product attributes influence choice directly and indirectly through multiple perceived benefits, and to what extent do selected benefits fully explain observed choice effects? Can this mediation process vary across consumers in both perception formation and the use of benefits in choice (process heterogeneity)?"
+}

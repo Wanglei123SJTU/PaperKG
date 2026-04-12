@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citation is used in the core methodology, not just as background. The authors explicitly say they adopt the control function approach from Petrin and Train (2010) to address endogeneity/simultaneity in peer turnover, and they implement its logic via a first-stage equation and residual inclusion in the hazard model. This method is central to their identification strategy and robustness claims.",
+  "relation_description": "The citing paper applies Petrin and Train's control function approach to correct endogeneity in its salesperson turnover hazard model. It transfers the two-stage residual-based correction idea to this new empirical context to identify peer turnover effects.",
+  "relation_type": "applies"
+}

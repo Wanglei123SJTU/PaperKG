@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a task-completion modeling framework that predicts online purchase as a chain of conditional probabilities over sequential nominal user tasks instead of a single buy/no-buy decision.",
+    "Develops a hierarchical binary probit approach that links first-time task completion to clickstream-based measures of visitor behavior and idiosyncratic page exposure, while accounting for county-level heterogeneity.",
+    "Shows through holdout validation that the multitask approach provides better prediction and earlier identification of likely buyers, with more diagnostic information for site management than single-stage benchmarks."
+  ],
+  "context": "The empirical setting is a major U.S. e-commerce website in the automotive industry where users research and configure new vehicles, submit personal information, and place orders with a credit card deposit. Visitors come from many local markets across the continental United States, and the study models regional differences at the county level.",
+  "design_and_data": "The authors use clickstream data collected by the site's tracking system over 70 days (Dec 1, 2000 to Feb 15, 2001). The final sample includes 96,498 visitors from 2,045 U.S. counties and 1,969 orders (about 2% conversion), and defines three sequential tasks: complete vehicle configuration, input complete personal information, and confirm order with credit card data. They estimate county-level hierarchical binary probit models in a Bayesian MCMC framework for first-time completion of each task conditional on prior task completion, using covariates for browsing, repeat visitation, decision-aid use, information search/processing, and page-exposure controls. Predictive performance is tested out of sample with a one-third holdout (32,166 visitors) against single-stage benchmark models.",
+  "focal_constructs": [
+    "online purchase conversion",
+    "nominal user tasks",
+    "conditional task completion probabilities",
+    "clickstream browsing behavior",
+    "repeat visitation",
+    "interactive decision aid use",
+    "information search and processing",
+    "county-level heterogeneity"
+  ],
+  "main_findings": [
+    "The multitask conditional model outperformed single-stage benchmarks in holdout prediction, with higher lift and better identification of buyers, especially before early task completion.",
+    "Behavioral effects varied across tasks: total repeat sessions were not predictive, while exit-and-return behavior was positively associated with completing personal-information input but negatively associated with final order completion.",
+    "Use of the site's comparison decision aid was negatively associated with completing the first task and was not predictive for later tasks, implying that offering a decision aid did not automatically increase conversion."
+  ],
+  "one_line_summary": "The paper develops and validates a county-level hierarchical task-completion probit model showing that decomposing car-site conversion into sequential tasks improves out-of-sample prediction over single-stage purchase models.",
+  "relation_to_prior_work": "extends prior e-commerce conversion modeling by decomposing purchase into sequential nominal user tasks and incorporating within-visit behavior, page exposure, and county-level heterogeneity; unlike cited approaches, it explicitly models first-time task completion and allows conversion to occur in current or subsequent visits.",
+  "research_gap": "The paper states that little is known about how what visitors do at a site and what they are exposed to while browsing affect online buying propensity. It also argues that one-step conversion models face rare-event prediction problems and do not provide task-level diagnostic insight into where and why users drop out.",
+  "research_question": "Can online buying be predicted more accurately by modeling completion of sequential nominal user tasks rather than using a single buy/no-buy model? Which clickstream-based measures of browsing, visitation, decision-aid use, information processing, and page exposure predict completion at each task level and final purchase conversion?"
+}

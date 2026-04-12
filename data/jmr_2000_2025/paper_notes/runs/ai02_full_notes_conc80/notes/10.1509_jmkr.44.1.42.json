@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides a systematic empirical test of the counterintuitive prediction that competition among information sellers can produce a negative price-quality relationship.",
+    "Implements a longitudinal experimental information market (built on MARKSTRAT) in which both sellers and buyers optimize profits and both prices and purchase quantities are endogenous.",
+    "Shows, in additional experiments, that for low-quality information prices are highest under limited competition and lower under monopoly or strong competition."
+  ],
+  "context": "The study examines markets where firms buy paid information products (market-size forecasts) to improve repeated business decisions. The empirical setting is a MARKSTRAT-based experimental market with MBA teams acting as information buyers and competing MBA teams acting as information sellers.",
+  "design_and_data": "In the main longitudinal experiment, 101 MBA students formed 20 MARKSTRAT firm teams (buyers) across 4 industries, and 33 MBA students formed 10 research-firm teams (sellers). Buyers and sellers were assigned to high- versus low-quality information conditions, with quality manipulated through forecast reliability and historical forecast records that participants used to infer quality; sellers priced two forecast bundles each period and buyers chose whether and from whom to buy. The simulation ran for 7 periods, and analyses excluded the last period because of potential end-gaming; the paper reports 255 transactions for hypothesis tests. A second experiment kept information quality low and varied competition (monopoly vs five sellers) to test boundary conditions on pricing effects.",
+  "focal_constructs": [
+    "information quality (reliability/accuracy)",
+    "competitive pricing of information",
+    "substitutes versus complements",
+    "number of competing sellers",
+    "equilibrium prices",
+    "information purchase quantity",
+    "price convergence and learning"
+  ],
+  "main_findings": [
+    "Transaction prices were significantly higher for low-quality (unreliable) information than for high-quality (reliable) information, supporting a negative price-quality relationship under limited competition.",
+    "Prices showed early experimentation but then converged, with lower dispersion over time, to stable levels that differed strongly by quality condition.",
+    "Buyers purchased multiple information products in both quality conditions, and in additional experiments low-quality prices were higher with few competing sellers than under monopoly or strong competition."
+  ],
+  "one_line_summary": "Using a longitudinal MARKSTRAT market experiment, the paper shows that with few competing sellers, unreliable information is priced higher than reliable information and that this premium falls under monopoly or strong competition.",
+  "relation_to_prior_work": "extends Sarvary and Parker (1997) by empirically testing its competitive information-pricing predictions in a repeated market with endogenous prices and quantities. It also builds on prior information-acquisition experiments that treated information cost as fixed by incorporating strategic seller pricing and competition.",
+  "research_gap": "The paper states that despite suggestive anecdotes and theory, no systematic empirical study had tested the counterintuitive predictions of competitive information pricing. It also argues that industry data are inadequate for this test because comparable benchmarks across controlled quality conditions are typically unavailable.",
+  "research_question": "Do competitive information markets with few sellers generate higher equilibrium prices for low-quality (unreliable) information than for high-quality (reliable) information, as theory predicts? The paper also asks whether prices converge through learning in repeated interaction and whether changing the number of sellers overturns the low-quality price premium."
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a new quantitative way to construct entertainment-product features, grounded in media psychology and the positive psychology character-strengths taxonomy.",
+    "It develops guided LDA, an NLP method that uses seed words tied to psychological themes while still allowing additional topics to emerge from data.",
+    "It positions these automatically extracted features as scalable inputs to existing content-based and hybrid consumer prediction models, rather than as a replacement for those models."
+  ],
+  "context": "The study is in the movie industry and uses publicly available movie text, primarily IMDb synopses, to represent content. Empirical tests use U.S.-based online panel respondents evaluating Oscar-winning films and top box-office blockbusters.",
+  "design_and_data": "Guided LDA is estimated from textual descriptions of 429 movies, using a seed-word dictionary of 2,677 unique words mapped to 24 psychological themes from Peterson and Seligman (2004), with model variants that assign 1-4 topics per theme and selection via DIC. The authors estimate the topic model with Gibbs sampling and use movie-level topic weights as features. They test predictive performance in two MTurk studies of binary viewing decisions (Study 1: N=599, 39 Oscar-winning movies; Study 2: N=542, 40 top-2013 box-office movies) using hierarchical Bayes logistic choice models and content-boosted collaborative filtering. They also insert guided LDA features into aggregate-performance models (bagged-CART and kernel-based models adapted from Eliashberg, Hui, and Zhang) with repeated calibration/holdout splits.",
+  "focal_constructs": [
+    "psychological themes in entertainment content",
+    "character strengths taxonomy",
+    "guided latent Dirichlet allocation",
+    "seed words",
+    "movie content features",
+    "individual movie-watching behavior",
+    "content-based and hybrid recommendation models"
+  ],
+  "main_findings": [
+    "Guided LDA fit the text corpus better than traditional LDA in their comparison, and the best DIC among tested specifications occurred with four topics per psychological theme.",
+    "In both individual-level studies, using guided LDA features improved predictive performance over models using standard movie variables plus LSA bag-of-words features, including out-of-sample hit-rate gains in pure content-based models.",
+    "In hybrid content-boosted collaborative filtering and in aggregate box-office prediction models, guided LDA features also improved out-of-sample prediction relative to comparable specifications based on prior text-feature sets."
+  ],
+  "one_line_summary": "The paper introduces a positive-psychology-guided LDA method for extracting movie features from text and shows that these features improve individual-level and aggregate prediction versus standard and LSA-based descriptors.",
+  "relation_to_prior_work": "extends prior entertainment recommendation and forecasting work by shifting the methodological focus from new prediction algorithms to theory-guided feature construction for content. It introduces supervised topic guidance using positive-psychology seed words as an alternative to relying only on genres or unsupervised text representations such as LSA.",
+  "research_gap": "The paper argues that prior work has emphasized improving collaborative, content-based, and hybrid prediction algorithms more than improving the quality of content features fed into these models for entertainment products. Existing feature options such as broad genres or very large manual tag systems are either too coarse, costly, category-specific, or hard to generalize.",
+  "research_question": "Can entertainment products be represented with automatically extracted features that reflect psychologically meaningful themes from their textual descriptions? If so, do these guided features improve prediction of movie-watching behavior at the individual level, relative to standard movie descriptors and unsupervised text features, in both content-based and hybrid models?"
+}

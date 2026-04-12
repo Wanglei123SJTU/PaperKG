@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides a large-sample, general firm-level empirical test of myopic management using simultaneous deviations in profitability, marketing intensity, and R&D intensity.",
+    "Documents that capital markets do not fully and timely price potential myopic cuts in marketing and innovation support, with valuation corrections appearing later.",
+    "Shows that real-activities myopic management has more severe long-term financial consequences than accruals-based earnings inflation."
+  ],
+  "context": "The study examines publicly listed U.S. firms across industries in a broad firm-level setting rather than a single event context. It focuses on periods when firms report stronger-than-expected profitability while cutting support for marketing and R&D activities.",
+  "design_and_data": "The author merges COMPUSTAT accounting data and CRSP monthly returns for 1986-2005, yielding an unbalanced panel (76,875 firm-year observations; 6,642 firms), restricted to December fiscal year-end firms. Potentially myopic firms are identified via fixed-effects autoregressive forecast models for ROA, marketing intensity, and R&D intensity, and are classified as firms with positive ROA surprises and negative marketing and R&D surprises. Immediate and 1-4 year ahead abnormal returns are tested with multiple methods (CAR using Fama-French plus momentum factors, BHAR with time-varying characteristics, and matched-firm abnormal returns) and alternative benchmark portfolios. Discretionary accruals are estimated with a Kothari-type model to compare pure myopic management with accruals-based earnings inflation.",
+  "focal_constructs": [
+    "myopic management",
+    "real activities manipulation",
+    "marketing intensity",
+    "R&D intensity",
+    "earnings surprises",
+    "discretionary accruals",
+    "abnormal stock returns",
+    "firm value"
+  ],
+  "main_findings": [
+    "Same-year abnormal returns for potentially myopic firms are not significantly lower than those of other firms with positive earnings surprises, indicating limited immediate market discounting.",
+    "Potentially myopic firms experience significantly lower future abnormal returns, with a worsening adjustment over 1-4 years (approximately -33% by year 4 in CAR/BHAR analyses).",
+    "When initial-year effects are included, total long-run consequences of myopic management are negative, and myopic firms underperform both comparable positive-surprise firms and, by year 4, even negative-surprise benchmarks; long-run damage is generally larger than for accruals-based earnings inflation."
+  ],
+  "one_line_summary": "Using a broad U.S. public-firm panel, the paper finds that cutting marketing and R&D to boost earnings is not penalized immediately but leads to substantial delayed stock underperformance and worse long-run outcomes than accrual-based earnings inflation.",
+  "relation_to_prior_work": "extends prior empirical work on managerial myopia by moving beyond narrow settings to a large-sample, context-general firm-level analysis and by using a three-part myopia identification screen. It also extends comparisons with earnings management research by directly contrasting long-term effects of real-activities myopia and discretionary-accrual inflation.",
+  "research_gap": "The paper states that empirical research on managerial myopia is sparse, has rarely examined long-term consequences, and is often limited to narrow contexts. It also notes limited evidence on whether markets properly value marketing and innovation investments in the presence of potential myopic behavior.",
+  "research_question": "Does the stock market properly and timely value firms that improve current profitability while cutting marketing and R&D support, or does it underreact to potential myopic management? What are the total long-term valuation consequences of this behavior, and are they more severe than those of accruals-based earnings inflation?"
+}

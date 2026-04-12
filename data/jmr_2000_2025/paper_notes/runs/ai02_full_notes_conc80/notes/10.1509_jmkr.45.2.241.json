@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides a head-to-head empirical test of two rival sociological models of trust in markets: the functionalist substitution view versus the institutional legitimation view.",
+    "Shows that trust in firms and representatives is a necessary mediator through which trust in the broader business context affects customer outcomes.",
+    "Uses customer-level measures of broad-scope and narrow-scope trust in two country settings, addressing prior work that often relied on macro proxies of trust."
+  ],
+  "context": "The empirical setting is financial services, focusing on customers working with financial advisers. Study 1 is in the United Kingdom pension market after a well-publicized pension mis-selling crisis, and Study 2 is in Taiwan with trust in both government regulation and a professional association considered.",
+  "design_and_data": "The authors conducted two survey studies and estimated structural equation models to compare an institutional mediation model against a functionalist direct-effects model. Study 1 surveyed U.K. pension clients from four financial services companies (6999 contacted, 586 responses; 419 with purchase-share data) and measured satisfaction and percentage of investments placed with the adviser. Study 2 surveyed Taiwanese financial-services clients from one firm (750 contacted, 261 responses), added system trust in a professional association, and used satisfaction as the outcome. The analyses included confirmatory factor analysis, mediation tests (including Sobel and indirect-effect tests), and controls for common method variance and acquiescence bias.",
+  "focal_constructs": [
+    "broad-scope trust",
+    "narrow-scope trust",
+    "system trust",
+    "generalized trust",
+    "interpersonal trust",
+    "firm-specific trust",
+    "customer satisfaction",
+    "customer purchase"
+  ],
+  "main_findings": [
+    "Across both studies, higher broad-scope trust is associated with higher narrow-scope trust, supporting the institutional prediction rather than the functionalist substitution prediction.",
+    "The effect of broad-scope trust on customer outcomes is fully mediated by narrow-scope trust: direct broad-scope-to-outcome paths are not significant in the full models.",
+    "The mediation pattern replicates across the United Kingdom and Taiwan despite differences in mean levels of broad-scope trust."
+  ],
+  "one_line_summary": "Using two financial-services surveys in the United Kingdom and Taiwan, the paper finds that trust in the broader business context increases customer outcomes only indirectly by first building trust in specific firms and representatives.",
+  "relation_to_prior_work": "introduces a direct empirical comparison of rival functionalist and institutional trust theories that prior marketing work had not jointly tested, and it uses individual-level trust measures instead of relying mainly on macro trust proxies.",
+  "research_gap": "Prior work discussed both positive and negative links between contextual trust and firm-level trust, but no published study had directly tested these rival models against each other. In marketing, research had mostly examined antecedents within specific relationships and rarely measured trust in the broader exchange context directly.",
+  "research_question": "How does customer trust in the broader business context influence trust in specific firms and representatives? Does broad-scope trust substitute for narrow-scope trust (functionalist view) or foster it (institutional view), and are effects on customer satisfaction and purchase direct or mediated through narrow-scope trust?"
+}

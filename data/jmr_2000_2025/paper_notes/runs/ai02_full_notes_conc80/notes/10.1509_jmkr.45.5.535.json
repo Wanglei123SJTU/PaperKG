@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops and estimates a structural dynamic programming model of MLB owners' payroll choices that incorporates dynamic customer-demand (customer equity) effects.",
+    "Provides empirical estimates of how local-market population changes the return to payroll investment and winning, including implied dollar returns to wins by market size.",
+    "Evaluates the 1997 revenue-sharing intervention and demonstrates an alternative revenue-sharing design based on market size and attendance incentives."
+  ],
+  "context": "The paper studies Major League Baseball teams operating in heterogeneous local markets under collective bargaining rules, including the introduction of revenue sharing in 1997. The substantive issue is league competitive balance versus individual team incentives to invest in player payroll.",
+  "design_and_data": "The author estimates a structural dynamic programming model of annual team payroll decisions, with rewards depending on relative payroll, lagged attendance load factor, prior divisional finish, market population, and revenue-sharing interactions. Expectations for next-period attendance and divisional finish are modeled with ordered logit structures and embedded in the dynamic optimization; estimation uses maximum likelihood with a nested dynamic programming algorithm. The analysis uses MLB team-level historical data on payrolls, winning rates, attendance/capacity (load factor), divisional finish, and metropolitan population over the free-agency era (figures report 1977-2006), and the fit table reports 822 observations. The revenue-sharing adoption is treated as a policy intervention to compare incentives before and after sharing.",
+  "focal_constructs": [
+    "competitive balance",
+    "team payroll investment",
+    "market size heterogeneity",
+    "revenue-sharing incentives",
+    "customer equity dynamics",
+    "attendance load factor",
+    "returns to winning",
+    "collective bargaining design"
+  ],
+  "main_findings": [
+    "Market population significantly increases returns to payroll investment; before revenue sharing, implied return per win is about $625,507 in a 2.5 million market versus about $1,179,225 in a 15 million market.",
+    "The implemented revenue-sharing structure reduces small-market incentives to invest: for a 2.5 million market, optimal payroll drops from about 60% to about 27% of league average, with implied return per win falling to about $314,309.",
+    "Dynamic customer-base considerations raise optimal payrolls above static myopic policies, and a proposed sharing rule tied to population and attendance is predicted to reduce payroll dispersion by raising small-market optimal payrolls."
+  ],
+  "one_line_summary": "Using MLB data and a structural dynamic model, the paper finds that larger markets earn higher returns to winning, existing revenue sharing weakens small-market payroll incentives, and attendance- and population-based sharing could better support competitive balance.",
+  "relation_to_prior_work": "extends prior competitive-balance and customer-equity research by modeling team payroll choice as a dynamic investment problem in which winning affects future attendance and market size conditions returns.",
+  "research_gap": "Prior work left unresolved whether market size systematically drives competitive outcomes and did not clearly identify how the 1997 revenue-sharing design changed small-market teams' incentives to invest in talent. The paper addresses this by estimating a dynamic behavioral model that links payroll, winning, and attendance over time.",
+  "research_question": "How do MLB owners optimally choose payroll given heterogeneous local-market populations, dynamic attendance loyalty effects, and collective bargaining incentives? Did the 1997 revenue-sharing system improve or weaken small-market teams' incentives to remain competitive, and what type of sharing rule would better align team incentives with league competitive-balance goals?"
+}

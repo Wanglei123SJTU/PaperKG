@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides what the authors describe as the first longitudinal investigation of how interfirm cooperation affects changes in a firm's customer orientation over time.",
+    "Distinguishes competitor-dominated versus channel-dominated new product alliances to explain differential customer-orientation trajectories.",
+    "Identifies structural and behavioral remedies in competitor alliances, showing roles for third-party monitoring and relational ties."
+  ],
+  "context": "The study examines U.S. firms participating in formal new product alliances filed with the U.S. Department of Justice under the National Cooperative Research Act and National Cooperative Research and Production Act. The focal alliances involve joint R&D and, in many cases, product development and commercialization activities.",
+  "design_and_data": "The authors use a two-wave longitudinal survey of alliance participants, with the second wave fielded about three years after the first. The sampling base is Federal Register filings (1989-1995); Time 1 yielded 106 responses from 70 alliances, and Time 2 yielded 55 usable longitudinal responses from 39 alliances. Alliance type is coded from partner composition (50%+ competitors = competitor-dominated; otherwise channel-dominated), and customer orientation is measured at both waves with Narver and Slater-based items. Hypotheses are tested with a repeated-measures general linear model including controls for number of alliance partners and alliance duration.",
+  "focal_constructs": [
+    "customer orientation",
+    "interfirm cooperation",
+    "competitor-dominated alliances",
+    "channel-dominated alliances",
+    "third-party monitor",
+    "relational ties",
+    "new product alliances"
+  ],
+  "main_findings": [
+    "Firms in competitor-dominated alliances show a significant decline in customer orientation over time, whereas firms in channel-dominated alliances remain essentially stable.",
+    "In competitor-dominated alliances, the presence of a neutral third-party monitor attenuates the decline in customer orientation compared with alliances without such monitoring.",
+    "In competitor-dominated alliances, stronger relational ties with collaborators are associated with a smaller decline in customer orientation than weaker ties."
+  ],
+  "one_line_summary": "Using three-year longitudinal survey data on U.S. new product alliances, the paper finds that collaboration with competitors decreases firms' customer orientation, but this decline is mitigated by third-party monitoring and strong relational ties.",
+  "relation_to_prior_work": "extends prior interfirm-alliance and market-orientation research by moving beyond alliance-internal outcomes to test firm-level, longitudinal customer-orientation effects of cooperation and the governance conditions that shape those effects.",
+  "research_gap": "Prior alliance research mainly examined antecedents and alliance or firm outcomes, not effects on customers, and economic/legal debates on procompetitive versus anticompetitive effects had little firm-level empirical evidence. The authors state that longitudinal primary-data evidence on how cooperation changes firms' customer orientation over time was largely absent.",
+  "research_question": "How does participation in different types of new product alliances affect a firm's customer orientation over time? Specifically, do competitor-dominated alliances reduce customer orientation relative to channel-dominated alliances, and can third-party monitoring or relational ties alter this effect in competitor alliances?"
+}

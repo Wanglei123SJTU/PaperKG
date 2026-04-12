@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "First empirical and theoretical examination of combined-currency pricing (prices expressed in multiple currencies such as dollars and miles).",
+    "Formal mathematical proof of when combined-currency prices are superior to single-currency prices, and when single-currency corner solutions are optimal, based on the curvature of consumers' perceived-cost functions.",
+    "Three studies providing experimental and field evidence consistent with the model's predictions about interior versus corner payment preferences."
+  ],
+  "context": "The paper studies loyalty-program markets where consumers hold alternative currencies, especially frequent flier miles, and can pay with money, miles, or both. The empirical applications center on airline-ticket purchase decisions using dollars and miles.",
+  "design_and_data": "The authors first derive analytic results from an optimization model where firm revenue is fixed and consumer psychological cost is f(c1)+g(c2), showing conditions for corner (single-currency) and interior (combined-currency) solutions. Study 1 is a scenario experiment with 670 undergraduate business students; analyses focus on 363 respondents with active frequent flier accounts making low- versus high-price choices between single- and combined-currency options. Study 2 surveys 164 airport passengers with frequent flier accounts, elicits choices among dollars-only, miles-only, and 50/50 mixed payments tied to each respondent's recalled ticket price, and estimates a multinomial logit of choice on price. Study 3 uses a within-subject design with 99 MBA frequent fliers (from 113 surveyed) who rank five equivalent dollar-mile bundles; observed ranking profiles are compared with profiles implied by concave-concave and linear valuation assumptions.",
+  "focal_constructs": [
+    "combined-currency pricing",
+    "perceived psychological cost",
+    "frequent flier miles as currency",
+    "convexity and concavity of perceived-cost functions",
+    "interior versus corner solutions",
+    "transfer function between currencies",
+    "incommensurate resources"
+  ],
+  "main_findings": [
+    "Consumers often prefer combined-currency prices, but preferences shift with magnitude: low-price conditions favor dollars, middle ranges favor mixed payments, and high-price conditions favor miles.",
+    "In the airport sample, mixed payment was the largest overall choice share, and multinomial-logit results show that payment choice changes significantly with ticket price.",
+    "Individual-level rankings are largely inconsistent with strictly concave or linear valuations for both currencies, implying convexity for at least one currency over relevant ranges and supporting the feasibility of superior combined-currency pricing."
+  ],
+  "one_line_summary": "The paper shows mathematically and empirically that splitting payment between dollars and loyalty currency can lower perceived purchase cost versus single-currency prices when at least one currency's perceived-cost function is locally convex.",
+  "relation_to_prior_work": "introduces a direct theory-and-evidence account of combined-currency pricing, a topic the authors state had not been examined per se. It links this problem to prior work on utility curvature for losses, mental accounting, and incommensurate resources.",
+  "research_gap": "The authors explicitly note that although firms increasingly offer money-plus-miles deals, prior research had not examined how consumers evaluate combined-currency prices or when such prices should outperform single-currency prices.",
+  "research_question": "How do consumers evaluate prices that require payment in more than one currency, such as dollars plus frequent flier miles? Under what conditions can a combined-currency price reduce consumers' perceived psychological cost for a given revenue target, or increase revenue for a given perceived cost, relative to single-currency pricing?"
+}

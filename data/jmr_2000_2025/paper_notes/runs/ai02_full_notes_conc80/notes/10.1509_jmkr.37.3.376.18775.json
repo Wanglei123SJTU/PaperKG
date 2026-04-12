@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a gamma-regression filtering approach to adjust conjoint response times for sequence/order effects before modeling.",
+    "Develops a response-time-scaled random coefficients multinomial probit (SRC) model in which filtered latencies scale utility (co)variances.",
+    "Provides empirical evidence that incorporating filtered response latencies improves model fit and holdout prediction, and offers a tentative explanation for why the latency effect can differ across studies."
+  ],
+  "context": "The paper studies computer-based conjoint choice experiments (CBC) where respondents repeatedly choose among product profiles, including a no-choice option. The empirical application is a confidential technological product category with brand and feature attributes.",
+  "design_and_data": "The application uses a random sample of 200 respondents, each completing 20 individualized choice sets with 4 alternatives; the first 12 sets are used for estimation and the last 8 for holdout prediction. Response times were screened (kept between 4 and 180 seconds) and filtered for order effects via a gamma regression baseline B(t_jk)=exp(alpha_0+alpha_1 ln(k)), with filtered time defined as observed/base. The authors estimate and compare three models: independent probit (IP), random coefficients probit (RC), and a scaled RC model (SRC) where filtered time scales covariance, using simulated maximum likelihood with the Geweke-Hajivassiliou-Keane simulator.",
+  "focal_constructs": [
+    "response latency",
+    "filtered response time",
+    "order effects",
+    "multinomial probit conjoint model",
+    "random coefficients heterogeneity",
+    "utility covariance scaling",
+    "choice uncertainty",
+    "holdout prediction"
+  ],
+  "main_findings": [
+    "The RC model fits significantly better than the IP model, and the SRC model with response-time scaling fits significantly better than RC (LR tests reported at p < .01).",
+    "In the main application, the estimated response-time parameter is negative and significant (tau = -1.300), implying longer filtered decision times are associated with lower random-utility variance and more systematic (more extreme-probability) choices.",
+    "The SRC model improves holdout log-likelihood versus RC even when holdout response times are not used, and performance improves further when holdout response times are included."
+  ],
+  "one_line_summary": "The paper shows that filtering conjoint response latencies for order effects and using them to scale utility covariance in a multinomial probit model improves fit and holdout choice prediction.",
+  "relation_to_prior_work": "extends conjoint multinomial probit modeling by integrating response-latency information, linking prior response-time research on choice uncertainty/error to utility covariance specification in conjoint analysis.",
+  "research_gap": "Conjoint choice models typically rely only on observed choices and design profiles, despite response times being automatically collected in computer-assisted studies. The paper identifies the need to correct raw times for task-order effects and to incorporate the resulting information into choice estimation.",
+  "research_question": "Can response latencies recorded in conjoint choice experiments, once adjusted for order effects, improve estimation of partworths and prediction of choices? The paper also asks whether filtered response times capture variation in random utility error (choice uncertainty) within a multinomial probit framework."
+}

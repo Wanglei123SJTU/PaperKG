@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper claims to be the first to document negative consequences of scheduling for leisure activities and to propose a remedy through rough scheduling without fixed times.",
+    "It claims to contribute to intrinsic motivation research by showing that a self-imposed and well-intentioned behavior, scheduling, can make fun activities feel like work.",
+    "It highlights implications for consumer well-being and for marketers designing leisure and experiential offerings."
+  ],
+  "context": "The paper studies short, common leisure activities that consumers often plan, such as getting frozen yogurt, watching movies or videos, playing Frisbee, and taking a coffee break. Evidence comes from undergraduate and MTurk experiments plus a campus field setting during finals.",
+  "design_and_data": "The article reports 13 studies (including six appended replications) using mostly between-subjects experimental designs. Core manipulations vary scheduling format: specific scheduling vs impromptu, rough scheduling vs specific scheduling, start time only vs start and end times, and temporal partitioning; one study also crosses scheduling with task type (leisure vs work). Outcomes include work construal measures, perceived free-flow/flexibility, anticipation utility (emotion-based scales and cancellation desire), and consumption enjoyment. The final studies use nonhypothetical consumption: MTurk participants watch a chosen fun video either immediately or at a scheduled time, and students redeem coffee-break tickets with either specific times or broad windows.",
+  "focal_constructs": [
+    "scheduling",
+    "impromptu behavior",
+    "specific vs rough scheduling",
+    "temporal structure",
+    "perceived free-flow",
+    "work construal",
+    "anticipation utility",
+    "consumption utility"
+  ],
+  "main_findings": [
+    "Specifically scheduling leisure activities (vs experiencing them impromptu) makes them feel more work-like and lowers anticipation utility.",
+    "The effect is driven by temporal structuring: adding structure to impromptu activities increases work construal, setting only a start time is sufficient, and rough scheduling without fixed times eliminates the utility drop.",
+    "The negative effect is unique to leisure rather than work tasks and also appears for experienced utility, with lower enjoyment for specifically scheduled videos and coffee breaks."
+  ],
+  "one_line_summary": "Across 13 experiments, the paper shows that specifically scheduling short leisure activities makes them feel less free-flowing and more work-like, which reduces both anticipatory excitement and experienced enjoyment, while rough scheduling avoids this cost.",
+  "relation_to_prior_work": "extends prior scheduling and time-management research, which has mainly emphasized benefits and work-domain outcomes, by identifying a leisure-specific downside of precise scheduling. It also extends work on intrinsic motivation and leisure framing by showing that a subtle planning act can shift unambiguous leisure toward a work construal.",
+  "research_gap": "Prior research had established benefits of scheduling (e.g., time management and precommitment) but had not clearly examined its potential downsides for leisure experiences. The paper addresses the unresolved question of how scheduling changes the construal and utility of activities that are clearly intended as leisure.",
+  "research_question": "How does scheduling affect the way leisure activities are construed, anticipated, and experienced? The paper tests whether specific scheduling imposes temporal structure that makes leisure feel work-like and lowers utility, and whether less structured rough scheduling can prevent this effect."
+}

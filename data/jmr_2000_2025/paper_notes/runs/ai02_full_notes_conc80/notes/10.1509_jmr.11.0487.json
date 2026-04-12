@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper reconciles opposing views of formal control by theorizing and showing curvilinear performance effects: output control has an inverted U-shape and process control has a U-shape.",
+    "It answers calls to study governance spillovers across connected relationships by showing that subsidiary-distributor control effects depend on HQ-subsidiary relationship attributes.",
+    "It advances MNC channel governance research by documenting how country of origin conditions the role of HQ-subsidiary relational disharmony in the effectiveness of output versus process control."
+  ],
+  "context": "The study examines multinational marketing channels where foreign subsidiaries manage local distributors while interacting with corporate headquarters. Empirically, it focuses on German and Japanese MNC subsidiaries operating in the United States.",
+  "design_and_data": "The authors use cross-sectional field survey data from top managers of U.S. subsidiaries of German and Japanese MNCs. After pilot work, they mailed 1,000 surveys and obtained 175 usable responses (17.5% effective response rate). Constructs are modeled as latent variables in a Bayesian structural equation model that corrects for measurement error, incorporates latent-instrument endogeneity correction for control mechanisms, allows country-of-origin heterogeneity, and estimates quadratic and interaction effects.",
+  "focal_constructs": [
+    "output control",
+    "process control",
+    "distributor performance",
+    "HQ-subsidiary relationship",
+    "task coordination",
+    "subsidiary decision involvement",
+    "relational disharmony",
+    "MNC country of origin"
+  ],
+  "main_findings": [
+    "Subsidiary output control shows an inverted U-shaped relationship with distributor performance, while process control shows a U-shaped relationship.",
+    "Output control and process control interact positively, indicating that higher process control strengthens the performance effect of output control.",
+    "HQ-subsidiary attributes moderate control effectiveness: task coordination strengthens output control effects (and weakens process control effects for German firms), and relational disharmony has opposite country-specific interactions (output-control interaction negative for Japanese but positive for German firms; process-control interaction positive for Japanese but negative for German firms)."
+  ],
+  "one_line_summary": "Using survey data from German and Japanese MNC subsidiaries in the United States, the paper shows that output and process controls have nonlinear effects on distributor performance and that these effects are strongly contingent on HQ-subsidiary relationship characteristics and country of origin.",
+  "relation_to_prior_work": "extends marketing channel governance research by showing that formal controls are not uniformly beneficial but have nonlinear performance effects linked to goal clarity, commitment, and reactance. It also extends work on connected exchange relationships by empirically demonstrating governance spillovers from HQ-subsidiary ties to subsidiary-distributor outcomes in MNCs.",
+  "research_gap": "Prior research gives little empirical attention to how connected HQ-subsidiary and subsidiary-distributor relationships jointly shape channel performance in MNCs. Existing control research also tends to assume monotonic benefits of formal control, leaving limited evidence on nonlinear effects and on how internal HQ-subsidiary conditions alter control effectiveness.",
+  "research_question": "How do subsidiary output control and process control affect foreign distributor performance in MNC channels, including possible nonlinear effects? How do HQ-subsidiary relationship attributes - task coordination, subsidiary decision involvement, and relational disharmony - and MNC country of origin moderate these control-performance relationships?"
+}

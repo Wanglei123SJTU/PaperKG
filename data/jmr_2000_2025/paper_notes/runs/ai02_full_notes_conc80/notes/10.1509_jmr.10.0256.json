@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides direct empirical quantification of Wal-Mart entry effects on a supplier's profits, wholesale prices, and shipments using a unique vendor-collected panel that includes Wal-Mart transaction records.",
+    "Introduces a quasi-experimental approach for this setting by combining propensity score matching with a hierarchical Bayesian difference-in-differences model to address nonrandom entry and market-level heterogeneity.",
+    "Shows that postentry supplier gains are linked to retail assortment structure, especially incumbent assortment breadth and lower overlap with Wal-Mart."
+  ],
+  "context": "The study examines Wal-Mart store entry across U.S. zip-code markets in a packaged goods category supplied by one major manufacturer. The retail setting includes supermarkets, convenience and drug stores, mass merchandisers, and Wal-Mart.",
+  "design_and_data": "The authors use weekly supplier-level data from December 1999 to January 2005 for more than 200 products, with complete U.S. retail coverage and 756 observed Wal-Mart entries. Outcomes are supplier profits, wholesale prices, and shipments, observed before and after entry. To reduce selection bias in Wal-Mart's entry decisions, they estimate propensity scores with market demographics and competition variables, trim to common support, and match entry and nonentry markets one-to-one. They then estimate a hierarchical Bayesian difference-in-differences system and relate treatment heterogeneity to incumbent assortment size and assortment overlap with Wal-Mart, with robustness checks using fixed-effects DID, alternative matching, and Bayesian IV.",
+  "focal_constructs": [
+    "Wal-Mart market entry",
+    "supplier profits",
+    "wholesale prices",
+    "supplier shipments",
+    "propensity score matching",
+    "difference-in-differences treatment effects",
+    "incumbent assortment size",
+    "assortment overlap with Wal-Mart"
+  ],
+  "main_findings": [
+    "Average postentry supplier profits increase by 18.36% for the total market, while profits from incumbents decline only marginally by 0.89%.",
+    "Wholesale prices change little on average and are not the main driver of supplier profit changes, whereas shipments are: total-market shipments rise by 17.01% on average and increase significantly in about half of markets.",
+    "Supplier shipment and profit gains are larger where incumbents carry broader assortments and have lower assortment overlap with Wal-Mart; for example, a 1% decrease in overlap is associated with higher postentry supplier profits."
+  ],
+  "one_line_summary": "Using matched U.S. market data from one packaged-goods manufacturer, the paper finds that Wal-Mart entry generally raises supplier profits mainly through shipment-driven market expansion rather than wholesale price changes, with stronger gains when incumbents differentiate assortments from Wal-Mart.",
+  "relation_to_prior_work": "extends prior Wal-Mart entry research that largely focused on incumbents and consumers by providing supplier-side estimates of entry impact and by testing mechanisms tied to prices, shipments, and assortment structure.",
+  "research_gap": "Prior empirical work on dominant retailers provided scarce and inconsistent evidence on manufacturer outcomes, and the authors state that no study had quantified Wal-Mart entry's impact on supplier performance. Limited access to Wal-Mart-related data also constrained causal empirical analysis of supplier effects.",
+  "research_question": "Does Wal-Mart market entry affect supplier profits? What processes drive postentry profitability changes?"
+}

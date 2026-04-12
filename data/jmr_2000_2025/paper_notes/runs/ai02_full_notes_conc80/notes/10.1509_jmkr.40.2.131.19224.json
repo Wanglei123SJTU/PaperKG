@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops an integrated statistical and optimization framework for Internet customization that personalizes both email content and layout at the individual level.",
+    "It introduces a Bayesian semiparametric MDP probit implementation for model-based collaborative filtering that jointly captures user, email, and link heterogeneity.",
+    "It provides an exact assignment-based optimization procedure that selects which links to include and where to place them in each customized email."
+  ],
+  "context": "The application is permission-based outbound email marketing for a large, anonymous content Web site (described as one of the top-ten most trafficked sites). The firm sends editorial email links to registered users and aims to increase traffic back to the site through clicks.",
+  "design_and_data": "The study uses a two-phase approach: first a random-utility click-through model is estimated, then predicted probabilities are used in combinatorial optimization of email design. Data combine email files and clickstream logs collected in 1999, with 1048 users available; model estimation uses a random sample of 100 users, with 11,436 calibration observations and two validation sets (Extant: 3,735; Novel: 3,900). The authors estimate and compare three models: no-heterogeneity probit, hierarchical normal random-effects probit, and a Dirichlet process (MDP) random-effects probit with user, email, and link effects. Optimization is solved exactly via linear assignment subproblems under objectives of maximizing expected clicks or probability of at least one click.",
+  "focal_constructs": [
+    "Internet customization",
+    "permission-based email marketing",
+    "click-through probability",
+    "user preference heterogeneity",
+    "contextual email heterogeneity",
+    "Dirichlet process mixture probit",
+    "model-based collaborative filtering",
+    "content and layout optimization"
+  ],
+  "main_findings": [
+    "Models that account for heterogeneity outperform the no-heterogeneity model, and the MDP model is favored over the normal random-effects model by pseudo-Bayes factors with slightly better ROC prediction.",
+    "Link position has a negative effect on click-through, the time-since-last-click variable is negative, and substantial unobserved heterogeneity exists across users and emails.",
+    "Customized targeting and design can substantially improve outcomes; in the reported extant validation setting, optimal customization can raise expected clicks by about 62 percent relative to the original configuration."
+  ],
+  "one_line_summary": "Using clickstream and email data, the paper proposes an MDP-probit-plus-optimization system that customizes permission-based emails and shows large potential click-through gains.",
+  "relation_to_prior_work": "extends one-to-one marketing and recommendation research by moving from recommending single items to jointly optimizing communication content and design, while embedding collaborative filtering in a Bayesian semiparametric heterogeneity model.",
+  "research_gap": "The paper states that despite the Web's strong customization potential, few marketing models operationalize one-to-one Internet targeting at the individual level. It also argues that existing recommendation approaches focus on suggesting items and do not directly solve the joint content-selection and layout-design optimization problem for complex communications such as emails.",
+  "research_question": "How can firms model individual click behavior on Internet communications and then optimally customize both the content and design of each permission-based email to increase site traffic? The paper also examines whether a semiparametric MDP representation of heterogeneity can improve prediction and support better customization than conventional normal random-effects models."
+}

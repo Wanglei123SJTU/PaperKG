@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a structural dynamic factor analysis (SDFA) model for quantitative trendspotting that can analyze many time series jointly and extract a small set of latent common trends.",
+    "The model extends standard DFA by structurally decomposing latent factors into seasonal and nonseasonal components, with the nonseasonal part following a locally quadratic stochastic trend (level, slope, and slope-change processes).",
+    "The paper provides a practical framework for quantitative trendspotting and demonstrates, with online search data, how to interpret, project, and validate uncovered trends for marketing intelligence."
+  ],
+  "context": "The empirical illustration is U.S. vehicle shopping interest, using Google Insights for Search query volume indexes for major light-vehicle makes. The study tracks consumer search behavior from January 2004 to September 2010.",
+  "design_and_data": "The authors develop a state-space SDFA model in which observed indicators load on latent dynamic factors, and each factor is decomposed into a seasonal component and a nonseasonal locally quadratic trend component. They apply the model to monthly Google Insights for Search data for 38 major vehicle makes over 81 months, using make-specific keyword bundles (including abbreviations and misspellings), then log-transforming and standardizing the series. The number of factors is selected by BIC, yielding a seven-factor solution. They assess projections and validity via rolling six-step-ahead trend extrapolations, 12-month out-of-sample forecasts versus ARIMA/VAR/Bayesian VAR benchmarks, and external analyses with make-level sales and macro/event variables (unemployment, consumer sentiment, gas prices, GM employee discount, Cash for Clunkers).",
+  "focal_constructs": [
+    "quantitative trendspotting",
+    "market sensing",
+    "latent common dynamic factors",
+    "seasonal cyclic movements",
+    "nonseasonal nonstationary trend lines",
+    "online keyword search volume",
+    "co-movement patterns across indicators",
+    "structural dynamic factor analysis"
+  ],
+  "main_findings": [
+    "A seven-factor SDFA solution explained 89.4% of variance across the 38 search series and produced interpretable common factors (e.g., Foreign Mass, U.S. Mass, Euro Lux) with distinct seasonal patterns.",
+    "The extracted nonseasonal trends suggested declines in Foreign Mass and U.S. Mass near the end of the sample, an upswing in Euro Lux after a 2009 trough, and a sustained decline in the GM-canceled/Isuzu factor opposite growth in Hyundai, Kia, and Suzuki interest.",
+    "SDFA trend projections and forecasts performed well: six-month-ahead latent trend projections tracked realized trends, out-of-sample errors beat ARIMA/VAR/Bayesian VAR for most series, and latent trends explained sales substantially better than single search indexes on average (mean R2 about 73.9% vs 31.6%)."
+  ],
+  "one_line_summary": "The paper introduces a structural dynamic factor approach that extracts and projects common seasonal and nonseasonal trends from many online search series, illustrated with U.S. vehicle-make search data.",
+  "relation_to_prior_work": "extends standard dynamic factor analysis by imposing a structural, directly interpretable law of motion for latent factors that separates seasonal cycles from nonseasonal locally quadratic trends and improves trend projection use in marketing intelligence. It also brings DFA-based high-dimensional trend extraction into marketing, where the authors argue common univariate and VAR-style approaches are less suited to this trendspotting objective.",
+  "research_gap": "Existing online trend-monitoring practice typically tracks individual indicators, which can be noisy and idiosyncratic, and therefore can miss reliable common trajectories in co-moving indicators. The paper argues that marketing lacks a suitable high-dimensional method for uncovering interpretable common trend lines (especially with explicit seasonal vs nonseasonal decomposition and flexible projection), and addresses this gap.",
+  "research_question": "How can marketers improve quantitative trendspotting by jointly analyzing many co-evolving indicators rather than reading single series in isolation? Can a structural dynamic factor model recover a small set of interpretable common seasonal and nonseasonal trends and project them reliably enough to support marketing intelligence?"
+}

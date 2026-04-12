@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "Shows a causal effect of power distance belief on the persuasiveness of cognitive versus affective education marketing appeals.",
+    "Identifies process/outcome learning mindset as the mechanism linking PDB to education product preferences.",
+    "Provides actionable guidance for global education marketers, including a boundary condition based on free versus paid education offers."
+  ],
+  "context": "The paper is set in education marketing, including online courses and apps, offline tutoring services, and university websites. Evidence spans U.S.-based experiments, a field campaign with a Chinese English-tutoring company, and cross-country university website content from 37 countries.",
+  "design_and_data": "The authors report six studies: four experiments, one field study, and one content analysis. Experiments manipulate PDB and appeal type (cognitive vs affective), and in additional studies manipulate learning mindset salience and price condition (free vs paid), with outcomes such as attitude, purchase intention, and choice. The field study randomly distributed 5,000 tutoring ads (cognitive vs affective) to Chinese high-school students and tracked 442 registrations, with PDB measured among registrants. The content analysis coded 581 homepage screenshots from 183 universities in 37 countries and related cognitive/affective appeal usage to Hofstede power distance with controls.",
+  "focal_constructs": [
+    "power distance belief (PDB)",
+    "cognitive versus affective appeal",
+    "process learning mindset",
+    "outcome learning mindset",
+    "education product preference",
+    "free versus paid education"
+  ],
+  "main_findings": [
+    "Low-PDB consumers responded more favorably to affective education appeals, whereas high-PDB consumers responded more favorably to cognitive appeals.",
+    "Process/outcome learning mindset mediated this interaction, and directly priming process or outcome mindset attenuated the PDB-based difference.",
+    "The PDB effect replicated for paid or unspecified-price education products but was attenuated for free products, and external evidence showed higher effectiveness/usage of cognitive appeals in higher power-distance settings."
+  ],
+  "one_line_summary": "Across six studies, the paper finds that PDB shapes whether affective or cognitive education messages are more persuasive via process versus outcome learning mindsets, with the effect weakening for free education offers.",
+  "relation_to_prior_work": "extends prior research on power distance belief and cross-cultural persuasion into education marketing by connecting PDB to cognitive-versus-affective appeal effectiveness through process/outcome learning mindset.",
+  "research_gap": "The paper argues that education marketers lack clear theory for designing persuasive messages, especially across cultural backgrounds. It also highlights limited prior research on how PDB affects education consumption and message appeal effectiveness.",
+  "research_question": "Does consumers' power distance belief influence whether cognitive or affective education marketing appeals are more persuasive? The paper further asks whether this effect is driven by process versus outcome learning mindsets and whether it changes when education products are free rather than paid."
+}

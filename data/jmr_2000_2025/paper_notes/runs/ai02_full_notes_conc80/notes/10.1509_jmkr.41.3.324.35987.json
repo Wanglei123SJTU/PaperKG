@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops a comprehensive conceptual model of product-use compliance built around salience/mindfulness, consumer costs and benefits, advertising and distribution cues to action, and perceived threats of noncompliance.",
+    "Tests compliance using observed individual-level longitudinal behavior with a regression mixture framework, rather than relying on attitudes or intentions in single-period settings.",
+    "Provides segment-level evidence that advertising and distribution cues affect compliance heterogeneously, offering new managerial insight for pharmaceutical compliance programs."
+  ],
+  "context": "The study is set in U.S. prescription pharmaceuticals for chronic conditions, using drugs for arthritis, diabetes, hyperlipidemia, and hypertension. The substantive focus is compliance with intended medication use between provider prescription renewals.",
+  "design_and_data": "The authors use Ipsos-Insight PharmaTrends diary panel data (2001-2002) with monthly individual purchase records, including 1040 arthritis patients (4617 purchases), 851 diabetes patients (8270), 1629 hyperlipidemia patients (8604), and 2718 hypertension patients (22,854). Compliance is operationalized as expected interpurchase time under prescribed usage minus actual interpurchase time. They estimate category-specific regression models and latent-class regression mixture models, with three segments per category fitting best. Explanatory variables map to baseline propensity, salience/mindfulness dynamics, costs and benefits, advertising and distribution cues, with cross-category interpretation for perceived threat and symptom salience.",
+  "focal_constructs": [
+    "product-use compliance behavior",
+    "salience/mindfulness",
+    "consumer costs and benefits of compliance",
+    "advertising cues to action",
+    "distribution channel cues to action",
+    "perceived threat of noncompliance",
+    "drug efficacy satisfaction",
+    "dosage frequency"
+  ],
+  "main_findings": [
+    "Results strongly support a dynamic four-stage compliance pattern between provider interventions: early increase, plateau, decline, and rebound as the next intervention approaches.",
+    "Baseline propensity to comply is highest for diabetes and lower for hyperlipidemia and hypertension, consistent with differences in perceived immediate threat of noncompliance.",
+    "Advertising effects are heterogeneous across latent segments (positive in some, negative in others), while dosage frequency is a more consistent predictor of noncompliance than out-of-pocket price; simulation in diabetes shows larger compliance gains from reducing dosage frequency than from increasing advertising spend."
+  ],
+  "one_line_summary": "Using individual-level prescription diary data from four chronic drug categories, the paper models product-use compliance and finds dynamic compliance cycles between clinical interventions plus substantial segment heterogeneity in advertising and channel effects.",
+  "relation_to_prior_work": "extends prior compliance research by shifting from mainly attitudinal/intention, static, and single-factor analyses to a comprehensive dynamic model of observed individual behavior in prescription drugs, while nesting the health belief model.",
+  "research_gap": "The paper argues that prior marketing compliance research largely examines attitudes or intentions, not observed behavior, and often uses static or single-factor explanations. It also identifies a lack of comprehensive, dynamic individual-level evidence in pharmaceuticals despite high managerial and social stakes.",
+  "research_question": "What factors drive consumers to use a product as intended, and how does this compliance evolve over time between provider interventions? In chronic prescription drug categories, how do salience, perceived costs and benefits, advertising and distribution cues, and perceived threats jointly explain individual compliance heterogeneity?"
+}

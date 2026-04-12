@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is a marketing-methods recommender model for experience products (hybrid collaborative filtering + attribute-based utility), which is directly adjacent to the citing paper’s core task of preference/link prediction in music recommendation settings. The citing note explicitly positions its contribution against prior recommender and dyadic preference-model approaches, so this reference is plausibly methodological/foundational rather than a purely incidental mention. With this topical and methodological alignment, it should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

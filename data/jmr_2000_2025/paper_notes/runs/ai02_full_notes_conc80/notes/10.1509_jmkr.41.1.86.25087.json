@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper claims to be the first in this literature to explicitly model uncertainty, consistency over time, perceived quality, and consumer risk/price/quality attitudes as drivers of cross-country store-brand share differences.",
+    "It claims to be the first brand-choice-under-uncertainty application that allows store brands and national brands to have different prior uncertainty levels.",
+    "It contributes cross-country scanner-panel evidence that differences in store-brand equity components are associated with differential store-brand performance."
+  ],
+  "context": "The setting is frequently purchased grocery packaged goods sold as store brands and national brands. The main analysis uses laundry detergent in the United States, United Kingdom, and Spain, with additional analyses for toilet paper and margarine in the United States and Spain.",
+  "design_and_data": "The authors estimate a structural consumer choice model under uncertainty in which consumers hold prior beliefs about quality, learn through Bayesian updating from use experience, and have heterogeneous sensitivities to price, quality, and risk. They estimate the model by simulated maximum likelihood using ACNielsen scanner-panel data. Detergent data include U.S. (314 households, 110 stores), U.K. (214 households, 176 stores), and Spain (167 households, 84 stores) panels over roughly 1998-2000; toilet paper and margarine are analyzed for the U.S. and Spain. Cross-country comparisons are based on ratio measures of relative prior uncertainty, experience variability, risk vs. price sensitivity, quality vs. price sensitivity, and national-brand versus store-brand quality differentials.",
+  "focal_constructs": [
+    "store-brand versus national-brand choice",
+    "consumer quality uncertainty",
+    "perceived risk (variance of quality beliefs)",
+    "Bayesian learning from use experience",
+    "quality consistency over time",
+    "perceived quality differentials",
+    "price sensitivity",
+    "risk aversion"
+  ],
+  "main_findings": [
+    "Estimated prior uncertainty parameters are statistically significant, supporting the presence of consumer uncertainty about quality in these categories.",
+    "In detergent, the United States shows much higher uncertainty and noisier experience for store brands relative to national brands than do the United Kingdom and Spain, where store-brand shares are higher.",
+    "Across categories, consumer learning and perceived risk, along with consumer sensitivities to risk, quality, and price and perceived quality gaps, help explain cross-country differences in store-brand market shares."
+  ],
+  "one_line_summary": "Using a Bayesian learning choice model on multi-country scanner data, the paper finds that uncertainty, perceived risk, and consumer risk/quality/price preferences are important in explaining why store brands are relatively more successful in Europe than in the United States.",
+  "relation_to_prior_work": "extends the information-economics brand equity framework and prior Bayesian brand-choice-under-uncertainty models to cross-country store-brand competition. It operationalizes and tests the roles of prior uncertainty, learning precision, and risk/price/quality trade-offs in explaining market share differences.",
+  "research_gap": "The paper states that despite large cross-country differences in store-brand shares, there had been little empirical marketing research on why store brands were relatively stronger in Europe than in the United States. It also responds to a prior call (Erdem et al. 1999) to test whether higher European store-brand equity explains this pattern.",
+  "research_question": "Do cross-country differences in store-brand success reflect differences in store-brand equity between Europe and the United States? Specifically, do uncertainty about quality, consistency of store-brand offerings over time, perceived quality relative to national brands, and consumer sensitivities to price, quality, and risk explain these market share differences?"
+}

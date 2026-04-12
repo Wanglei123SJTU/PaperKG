@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops a theory-based framework for when and why shareholder value effects of new product preannouncements appear in the short run versus the long run, combining agency/signaling logic with structural uncertainty (rational learning).",
+    "It applies a calendar-time portfolio approach for long-term abnormal returns in a marketing setting, which the authors present as a methodological contribution relative to standard short-window event studies.",
+    "It contributes to vaporware-related research by arguing that although preannouncements may have strategic benefits, failing to deliver or communicate credibly undermines future financial value from preannouncements."
+  ],
+  "context": "The empirical setting is high-tech computer markets, specifically software and hardware firms. The study examines public new product preannouncements made by publicly traded firms between 1984 and 2000.",
+  "design_and_data": "The authors compile a sample of 419 new product preannouncements made by 100 firms using LexisNexis sources (including Computerworld and Newsbytes), with stock return data from CRSP and accounting controls from COMPUSTAT. Short-term performance is measured with 5-day event-window cumulative abnormal returns using market and market-adjusted models in cross-sectional regressions. Long-term performance is measured with calendar-time portfolio regressions over one year after preannouncement (or until product introduction), using Fama-French factors and a Carhart momentum control. Key constructs are operationalized from content analysis and archival tracking: preannouncement specificity, firm preannouncement reliability, and post-preannouncement updating.",
+  "focal_constructs": [
+    "new product preannouncements",
+    "shareholder value",
+    "preannouncement specificity",
+    "preannouncement reliability",
+    "preannouncement updating",
+    "short-term abnormal returns",
+    "long-term abnormal returns",
+    "vaporware credibility"
+  ],
+  "main_findings": [
+    "Average short-term abnormal returns around preannouncement dates are not significantly different from zero overall, but higher specificity preannouncements generate significantly positive short-term abnormal returns.",
+    "Preannouncement reliability does not show a significant direct short-term effect, but it positively moderates the specificity effect on short-term abnormal returns.",
+    "Long-term abnormal returns after preannouncement are significantly positive on average, and they are higher when firms provide post-preannouncement updates; this updating effect is stronger for firms with higher preannouncement reliability."
+  ],
+  "one_line_summary": "Using software and hardware preannouncements, the study finds that shareholder value gains are mainly long-run and are strongest when firms make specific promises, keep credibility, and continue updating the market.",
+  "relation_to_prior_work": "extends prior research on innovation and signaling by moving from the reasons and timing of preannouncements to their short- and long-term shareholder value consequences, and by importing calendar-time long-horizon abnormal-return methods from finance into marketing.",
+  "research_gap": "Prior work largely examined why and when firms preannounce, but offered little direct evidence on whether preannouncements create shareholder value. The paper argues that evidence is especially lacking on long-run returns and on the conditions that govern both short-run and long-run value effects.",
+  "research_question": "Do the benefits of new product preannouncements outweigh their risks from a shareholder value perspective? Specifically, are abnormal returns to preannouncements positive and economically meaningful, when do they accrue (short run versus long run), and how are they shaped by preannouncement specificity, firm reliability, and subsequent updating?"
+}

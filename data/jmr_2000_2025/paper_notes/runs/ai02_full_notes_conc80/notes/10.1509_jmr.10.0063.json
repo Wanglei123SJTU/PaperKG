@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and tests a stage-contingent theory in which perceived velocity can either increase or decrease goal-pursuit motivation.",
+    "It identifies a mechanism in which consumers shift from an attainability concern (can I get there) to a timing concern (when will I get there) as goal attainment becomes relatively certain.",
+    "It demonstrates managerial relevance by showing how velocity-based reward structures can improve loyalty-program and nonprofit campaign effectiveness."
+  ],
+  "context": "The studies span consumer and social-goal settings, including a nonprofit volunteer campaign and a campus coffee-shop loyalty program, plus controlled lab tasks with student participants. Goals involve accumulating points or effort toward thresholds that trigger rewards.",
+  "design_and_data": "Evidence comes from five experiments (three lab, two field). Study 1 is a 2 x 2 field experiment with 132 students recruited on campus for Relief Nursery, manipulating campaign progress level and sign-up velocity and measuring volunteer incidence and committed hours. Studies 2-4 are lab experiments with undergraduate samples (N = 159, 229, and 225) that manipulate progress, perceived velocity via comparative feedback, and certainty of attainability; outcomes are persistence and time investment, with Study 2 also measuring can-I-get-there and when-will-I-get-there concerns and testing moderated mediation. Study 5 is a field loyalty-program test in a coffee shop (120 cards distributed; 38 returned) comparing a uniform versus variable point-accumulation velocity while holding required purchases constant.",
+  "focal_constructs": [
+    "perceived velocity in goal progress",
+    "level of goal progress",
+    "consumer motivation in goal pursuit",
+    "goal attainability certainty",
+    "time frame of goal attainment",
+    "loyalty program point structure",
+    "volunteer contribution behavior"
+  ],
+  "main_findings": [
+    "When progress was low, participants showed higher motivation under high versus low perceived velocity, but when progress was high, motivation was higher under low versus high perceived velocity.",
+    "Process evidence showed that high velocity increased motivation at low progress through higher perceived attainability, whereas at high progress low velocity increased motivation by raising concern about reaching the goal soon; this concern shift depended on certainty of attainability.",
+    "In the coffee-shop field test, the variable-velocity card increased redemption (40.35% vs. 23.80%) and accelerated return and completion times relative to a uniform-velocity card."
+  ],
+  "one_line_summary": "Across five studies, the paper shows that perceived progress velocity has opposite effects on motivation depending on progress level: high velocity motivates when progress is low, but low velocity motivates once progress is sufficient.",
+  "relation_to_prior_work": "extends goal-gradient and self-regulation research by showing that, beyond distance to goal, perceived velocity has an independent and stage-dependent informational effect on motivation. It also refines expectancy-based accounts by arguing that attainability inferences dominate early, while timing-related discrepancy reduction becomes more diagnostic later when attainment is relatively secured.",
+  "research_gap": "Prior work mainly examined how the level of progress affects motivation and paid much less attention to the rate of progress. The paper addresses the unresolved informational role of velocity and whether the same velocity cue is interpreted differently across stages of goal pursuit.",
+  "research_question": "How does perceived velocity in moving toward a goal affect consumer motivation to continue goal pursuit, and does this effect vary across early versus advanced stages of progress? The paper also asks whether stage-specific concerns about attainability versus timing of attainment explain these effects."
+}

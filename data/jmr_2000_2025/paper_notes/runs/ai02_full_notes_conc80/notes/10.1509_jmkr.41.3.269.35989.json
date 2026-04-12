@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces attribute resolvability as a basis for explaining longitudinal, asymmetric shifts in how attribute satisfaction influences satisfaction with product quality.",
+    "Shows that the ownership stage within the warranty period changes which attribute evaluations matter more for overall product-quality satisfaction.",
+    "Links the findings to customer equity and customer relationship management by arguing that firms should manage different attribute concerns at different ownership stages."
+  ],
+  "context": "The study is set in automobile ownership during a manufacturer warranty period, using data from one U.S. automotive brand. It examines customer evaluations of vehicle attributes, recent service experiences, and vehicle-quality satisfaction over the first three years of ownership.",
+  "design_and_data": "The authors use manufacturer tracking-survey data collected by an independent party from owners who purchased vehicles between 1992 and 1996, with observations at 9, 21, and 33 months of ownership. Reported wave sample sizes are 2,886 (9 months), 10,153 (21 months), and 4,479 (33 months), with stable demographics across waves. A pretest of 68 vehicle owners classifies nine attributes into four resolvable and five irresolvable attributes. Empirically, they estimate a two-stage sequential hierarchical regression: first modeling attribute satisfaction trends over time, then modeling satisfaction with product quality using residualized attribute satisfaction and time interactions (plus covariates).",
+  "focal_constructs": [
+    "satisfaction with product quality",
+    "attribute resolvability",
+    "resolvable product attributes",
+    "irresolvable product attributes",
+    "ancillary service satisfaction",
+    "ownership time during warranty",
+    "asymmetric longitudinal effects"
+  ],
+  "main_findings": [
+    "Attribute satisfaction declines over time, and satisfaction with resolvable attributes declines faster than satisfaction with irresolvable attributes.",
+    "As ownership progresses through the warranty period, the effect of resolvable attribute satisfaction on satisfaction with product quality strengthens, while the effect of irresolvable attribute satisfaction weakens.",
+    "Ancillary service satisfaction has a positive main effect on satisfaction with product quality, but its marginal effect weakens over time during the warranty period."
+  ],
+  "one_line_summary": "Using longitudinal automobile warranty-period data, the paper finds that attribute resolvability drives asymmetric shifts over time in both attribute satisfaction decline and in the attributes' impact on satisfaction with product quality.",
+  "relation_to_prior_work": "extends prior satisfaction and perceived-quality research by modeling longitudinal, asymmetric changes in attribute effects rather than a static cross-sectional structure. It extends organizational equity and coping perspectives to postpurchase product ownership by distinguishing resolvable from irresolvable attributes.",
+  "research_gap": "Prior work had not clearly examined whether drivers of satisfaction with product quality shift asymmetrically over time based on the kind of attribute customers use in their evaluations. The paper specifically addresses the underexplored role of attribute resolvability during the ownership and warranty period.",
+  "research_question": "How do the drivers of satisfaction with product quality evolve during product ownership, especially over a warranty period? Do resolvable versus irresolvable attributes and ancillary service experiences show different time paths in both their own satisfaction levels and their effects on overall satisfaction with product quality?"
+}

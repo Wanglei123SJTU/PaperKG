@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited 2003 paper develops a disaggregate clickstream modeling framework (type II tobit, hierarchical Bayes/MCMC, heterogeneity control), and the citing 2006 paper also relies on cookie-level web behavior data with hierarchical Bayesian MCMC and browsing covariates in its purchase hazard model. Given this strong methodological/domain overlap and the DOI-verified reference match, this does not look like an obvious incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

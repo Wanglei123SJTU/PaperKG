@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper introduces a scalar subscale-distance metric based on item administration order to quantify how clustered or dispersed items from the same subscale are.",
+    "It compares a standard ANOVA-style dummy-variable approach with a refined model that replaces clustering indicators with the distance metric, showing the analytic value of the metric.",
+    "It jointly examines item labeling, item grouping, and item clustering in a computer-mediated survey environment, which the authors state had not been studied together before."
+  ],
+  "context": "The study is conducted in a computer-mediated self-administered survey setting using the 22-item SERVQUAL instrument (five dimensions) framed around students' experiences with University of Pennsylvania administrative services. The focus is on questionnaire design context effects in marketing research surveys.",
+  "design_and_data": "The authors ran a 2 x 2 x 2 between-subjects experiment with 98 University of Pennsylvania undergraduates randomly assigned to eight conditions. Manipulations were subscale item clustering (contiguous vs randomized), explicit item labeling (labeled vs unlabeled), and screen presentation (single item vs grouped items). Participants answered all 22 SERVQUAL items on a 1-100 continuous slider scale, and response latency was also recorded. Analyses included regression/ANCOVA with main and interaction effects plus item administration order, followed by a refined model that replaced the clustering dummy with a computed subscale-distance metric Dis(u), with u selected by grid search (best at u = 1).",
+  "focal_constructs": [
+    "subscale distance",
+    "item clustering",
+    "item labeling",
+    "item grouping",
+    "subscale variance",
+    "subscale reliability",
+    "question context effects"
+  ],
+  "main_findings": [
+    "In the standard model, clustering, grouping, and labeling each significantly reduced subscale variance (thus increasing reliability), while key interaction terms were not statistically significant.",
+    "When clustering was represented by the distance metric, greater subscale distance significantly increased subscale variance (about 2.91 points per unit, p = .019), and labeling and grouping main effects were no longer significant.",
+    "Correlation analyses showed clustering increased within-subscale correlations and correlations between successive items from the same subscale, while clustering and labeling reduced generic correlation between adjacent administered items."
+  ],
+  "one_line_summary": "Using a CMSE experiment with SERVQUAL, the paper shows that greater within-subscale item spacing raises subscale variance and that a new subscale-distance metric explains this reliability effect more directly than a binary clustering indicator.",
+  "relation_to_prior_work": "introduces a one-dimensional survey-item distance metric, adapted from Hoch, Bradlow, and Wansink (1999), to measure clustering intensity in questionnaire orderings. It extends prior context-effects research by jointly testing labeling, grouping, and clustering in a computer-mediated survey rather than focusing mainly on paper-versus-computer mode differences.",
+  "research_gap": "Prior survey context-effects research had not simultaneously examined labeling, grouping, and clustering in the same study, especially in computer-mediated survey environments. The authors also identify a methodological gap: existing analyses typically use coarse clustering indicators and do not quantify the degree of subscale item spacing across randomized orderings.",
+  "research_question": "How do item clustering, explicit item labeling, and grouped versus single-item presentation affect subscale variance (and reliability) in a multi-item self-administered survey? Can a continuous subscale-distance metric based on administration order provide a better explanation of variance effects than a simple clustered/not-clustered indicator?"
+}

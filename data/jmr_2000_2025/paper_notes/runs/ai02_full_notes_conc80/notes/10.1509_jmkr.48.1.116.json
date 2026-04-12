@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Demonstrates proof of concept that unstructured direct elicitation (UDE) can be implemented in an incentive-aligned way by having respondents write an email that teaches an agent how to form their consideration set.",
+    "Provides an initial comparative test showing UDE predicts consideration at least as well as leading decompositional methods in a feasible mobile-phone design and better than additive decomposition and Casemap in a more complex automobile design.",
+    "Shows that an unstructured format yields better predictive performance than a structured direct-elicitation format and discusses practical strengths and challenges of UDE for managerial use."
+  ],
+  "context": "The paper studies consumer consideration-set formation in feature-rich product categories, using a Hong Kong mobile-phone setting and a U.S. automobile setting. It focuses on situations with many alternatives and attributes where consumers may use consider-then-choose heuristics.",
+  "design_and_data": "Two incentive-aligned experiments compare UDE with structured direct elicitation and decompositional benchmarks for predicting consideration sets. In mobile phones, 143 Hong Kong university respondents completed a within-subject design with 32-profile calibration, SDE and UDE tasks, an initial validation task, and a delayed validation task 3 weeks later; models were evaluated mainly with rescaled KL divergence and cross-sample RMSE. Benchmarks included HB additive logit, q-compensatory HB, greedoid dynamic program, and logical analysis of data. In automobiles, 204 U.S. university respondents faced a much larger design (20x7x5^2x4x3^4x2^2); task order among decomposition, Casemap, and UDE was randomized, validation was delayed, and incentives used lottery mechanisms with prize indemnity insurance for a $40,000 automobile prize.",
+  "focal_constructs": [
+    "unstructured direct elicitation",
+    "structured direct elicitation",
+    "consideration set formation",
+    "compensatory decision rules",
+    "non-compensatory decision rules",
+    "incentive alignment",
+    "decompositional conjoint models",
+    "training effects"
+  ],
+  "main_findings": [
+    "In the mobile-phone study, UDE predicted consideration significantly better than the tested structured direct-elicitation format and performed comparably to the best decompositional benchmark on validation metrics.",
+    "In the automobile study, UDE achieved higher predictive KL divergence than both HB additive decomposition and Casemap, while all tested methods outperformed null models.",
+    "Training from prior tasks substantially improved UDE performance, whereas training effects for decomposition and Casemap were not significant in the automobile study."
+  ],
+  "one_line_summary": "Across incentive-aligned mobile-phone and automobile experiments, an unstructured email-based elicitation of decision rules predicted consideration sets better than structured direct elicitation and matched or exceeded key decompositional benchmarks, especially in a complex automotive design.",
+  "relation_to_prior_work": "extends prior conjoint, self-explication, and consideration-set modeling work by introducing and empirically testing an incentive-aligned unstructured direct-elicitation format that can capture mixed compensatory and non-compensatory rules and scale to complex designs.",
+  "research_gap": "The paper argues that existing decompositional methods become difficult or infeasible in very high-dimensional product designs and that prior direct-elicitation evidence is mixed, especially for non-compensatory rules. It also notes the authors were unaware of comparisons to non-compensatory direct-elicitation approaches for consideration decisions.",
+  "research_question": "Can an incentive-aligned unstructured direct-elicitation task, where respondents freely describe rules to an agent, recover consideration decision rules accurately? How does its predictive performance compare with established structured direct-elicitation and decompositional compensatory and non-compensatory methods, and does it scale better to complex product categories?"
+}

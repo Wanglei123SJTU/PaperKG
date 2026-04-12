@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Shows that choice construal level systematically shifts trade-off-relevant context effects: high construal decreases compromise and background-contrast effects but increases the attraction effect.",
+    "Proposes and tests a trade-off mechanism in which high construal reduces attribute-level compensatory comparisons.",
+    "Demonstrates that managerially relevant cues such as shipping delay and pickup distance can induce construal shifts and change context effects."
+  ],
+  "context": "The paper studies consumer choices among multiattribute alternatives where trade-offs are salient, using categories such as laptops, tires, grills, digital photo albums, apartments, and airline tickets. The studies use lab/classroom and online survey-style choice scenarios with temporal and spatial distance manipulations.",
+  "design_and_data": "The article reports six experiments with between-subject manipulations of construal level (high vs low, with control in some studies), primarily via temporal distance prompts and spatial distance cues. Reported samples include university participants and national online subject pools (e.g., n = 106, 125, 228, 196, 159, 244), and Study 3 also includes a shipping-time vignette with n = 333. The authors implement standard context-effect choice sets to test compromise, background-contrast, and attraction effects. Mechanism evidence comes from coding open-ended choice reasons for trade-off content and from response latency as a proxy for trade-off effort, with mediation tests reported.",
+  "focal_constructs": [
+    "choice construal level",
+    "psychological distance",
+    "compensatory attribute trade-offs",
+    "compromise effect",
+    "background-contrast effect",
+    "attraction effect",
+    "decision difficulty"
+  ],
+  "main_findings": [
+    "High construal reduced the compromise effect relative to low construal.",
+    "High construal weakened the background-contrast effect, with greater choice of options otherwise disfavored by prior exchange-rate comparisons.",
+    "High construal increased the attraction effect, and process evidence (coded reasons, mediation, and shorter response times) supports reduced attribute-level trade-offs as the mechanism."
+  ],
+  "one_line_summary": "Across six experiments, the paper shows that construing a choice at a high level reduces compensatory attribute trade-offs, thereby lowering compromise and background-contrast effects while increasing the attraction effect.",
+  "relation_to_prior_work": "extends construal level theory into choice-in-context by showing that high versus low construal changes compensatory trade-off processing in multiattribute choice. It also extends context-effect and adaptive decision-making research by identifying construal level as a common moderator across multiple context effects.",
+  "research_gap": "Prior research documents both construal-level effects in judgment and context effects in choice, but the paper argues that it is unclear whether construal level changes the compensatory trade-off process that underlies these context effects. The authors address this by testing construal as a common driver across compromise, background-contrast, and attraction effects.",
+  "research_question": "Does construing the same choice at a high versus low level change consumers' likelihood of making compensatory attribute trade-offs? If so, how does this shift alter the compromise, background-contrast, and attraction effects, and is reduced trade-off processing the underlying mechanism?"
+}

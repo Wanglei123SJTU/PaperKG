@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper explicitly uses IV estimation for ad-attention effects, and the cited paper is a methodological IV/endogeneity-correction study in advertising (latent IV for paid-search conversion), so a substantive method/background linkage is plausible. However, the evidence provided includes only a DOI match with no in-text citation context, and the topical settings differ (news display ads vs. paid search keywords), so importance cannot be confirmed from current data.",
+  "triage_decision": "uncertain"
+}

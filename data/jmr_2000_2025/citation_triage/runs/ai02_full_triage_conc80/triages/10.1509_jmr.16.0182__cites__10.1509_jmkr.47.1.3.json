@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s design note explicitly states it uses “a control-function approach for potential quality endogeneity,” which is a core methodological element of its estimation strategy. The cited paper (10.1509/jmkr.47.1.3) is specifically about introducing a control function approach to endogeneity in consumer choice models, so this looks like a likely method-source citation rather than an incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

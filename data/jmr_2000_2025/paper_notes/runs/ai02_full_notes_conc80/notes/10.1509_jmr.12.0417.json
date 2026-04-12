@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a dynamic integrative framework that links firm networking activities, evolving ego-network structure, and online success over time.",
+    "It models heterogeneous effects of multiple marketer-controlled activities on both network measures and outcomes using managerially observable one-step ego-network data.",
+    "It combines time-varying fixed effects with instrumental variables from an independent social network, and uses a plausibly exogenous robustness analysis, to support causal interpretation of activity effects."
+  ],
+  "context": "The study is set in a European online social network dedicated to music, where artists and fans maintain profiles, form friendship ties, and post public comments. The focal outcome is artist song plays on that platform, analyzed through each artist's ego network.",
+  "design_and_data": "The empirical analysis uses monthly panel data for 441 music artists observed for 11 months; artists were active users (joined at least 12 months earlier) and had at least one song uploaded. Observed variables include friend requests sent, comments sent, new song uploads, ego-network degree, ego-network density, ego betweenness, controls, and monthly song plays. The authors estimate a hierarchical Bayesian dynamic system of equations for activities, network evolution, and success, with random coefficients, lagged dependencies, and time fixed effects. To address endogeneity in key activities, they use control-function IVs built from lagged U.S. artist activities on an independent U.S. platform and check robustness with the Conley-Hansen-Rossi plausibly exogenous method.",
+  "focal_constructs": [
+    "networking activities",
+    "egocentric network structure",
+    "online success",
+    "degree centrality",
+    "ego network density",
+    "ego betweenness centrality",
+    "short-term and long-term effects"
+  ],
+  "main_findings": [
+    "Friend requests and comments sent both increase song plays in the short term, and degree centrality and ego-network density positively predict song plays, while ego betweenness is not significant.",
+    "Friend requests increase ego-network size but reduce ego-network density and raise ego betweenness, whereas comments sent increase both size and density.",
+    "Indirect long-term effects through network dynamics are substantially larger than direct short-term effects, with cumulative long-term effects about 2.6-2.8 times short-term effects (for example, one additional comment: about 9.23 short-term and 25.40 long-term incremental plays; one additional friend request: about 0.93 short-term and 2.40 long-term incremental plays)."
+  ],
+  "one_line_summary": "Using panel data from 441 music artists, the paper builds a dynamic Bayesian ego-network model showing that marketer networking actions reshape network size and density and generate long-run song-play gains that exceed immediate effects.",
+  "relation_to_prior_work": "extends prior work on social networks and online success by endogenizing ego-network structure as a dynamic outcome of marketer actions rather than treating structure as a fixed or externally given snapshot. It also contrasts with actor-based network models such as SIENA by modeling multimode firm-customer settings with multiple marketing activities and outcome effects.",
+  "research_gap": "Prior studies largely examine influence and diffusion with network structure treated as static or outside marketer control, and closely related success studies rely on static snapshots. The paper addresses the lack of longitudinal evidence on how marketer networking activities dynamically shape ego-network structure and, through that structure, business outcomes.",
+  "research_question": "How do firm-controlled networking activities on social platforms affect the evolution of ego-network structure and online success? Do these activities create not only direct short-term effects on success but also indirect long-term effects through changes in degree, density, and betweenness?"
+}

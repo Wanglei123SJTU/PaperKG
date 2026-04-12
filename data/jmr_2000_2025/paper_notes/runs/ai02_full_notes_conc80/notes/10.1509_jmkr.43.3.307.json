@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper describes major generalizations of standard utility and game-theoretic equilibrium concepts, arguing that behavioral economics can retain formal rigor while improving realism and fit.",
+    "It demonstrates each of six models with a concrete marketing application and discusses implications for price, product, promotion, and place decisions.",
+    "It outlines research implications for behavioral researchers and modelers, proposing this approach as a way to integrate consumer behavior insights with economic modeling in marketing."
+  ],
+  "context": "The paper is set in marketing decision making by consumers and firms, especially pricing, contracts, channels, and competitive strategy. Illustrative applications include business-to-business two-part tariffs, sales force compensation, gym membership pricing, differentiated-product price competition, market entry, and lowest-price guarantees.",
+  "design_and_data": "This article is a tutorial-style conceptual review rather than a new primary empirical study. It organizes six behavioral economics models into three preference extensions (reference dependence/loss aversion, inequality aversion, quasi-hyperbolic discounting) and three strategic alternatives (QRE, cognitive hierarchy, self-tuning EWA learning). For each model, the authors provide formal setup and a marketing application, often contrasting standard-theory predictions with reported results from prior experiments or field evidence cited in the literature.",
+  "focal_constructs": [
+    "reference dependence",
+    "loss aversion",
+    "inequality aversion",
+    "social preferences",
+    "present bias",
+    "quantal response equilibrium",
+    "cognitive hierarchy",
+    "experience-weighted attraction learning"
+  ],
+  "main_findings": [
+    "Behavioral economics models can be built as parsimonious extensions of rational-choice and equilibrium models, allowing empirical measurement of when standard assumptions fail.",
+    "In the two-part-tariff channel example, reference dependence with loss aversion accounts for observed deviations from the standard prediction, including wholesale prices above marginal cost, low fixed fees, and contract rejections.",
+    "In the reviewed strategic examples, QRE, cognitive hierarchy, and self-tuning EWA explain noisy choices, limited strategic depth, and adaptive dynamics that strict Nash equilibrium often misses."
+  ],
+  "one_line_summary": "This paper reviews six behavioral economics models and shows how they can be formally applied to marketing problems to better capture actual consumer and firm behavior.",
+  "relation_to_prior_work": "transfers behavioral economics tools, previously reviewed mostly for economics audiences, into a marketing-oriented tutorial with domain-specific applications. It also frames these tools as extensions of rational-choice and Nash approaches rather than replacements.",
+  "research_gap": "The paper argues that although economics and psychology both underpin marketing, relatively few marketing studies had integrated psychological insights with formal economic models. It also notes that existing behavioral economics reviews were mainly aimed at economists and did not show how these models map to typical marketing problems.",
+  "research_question": "How can behavioral economics models that relax strict rationality be used to model consumer and firm behavior in marketing? The paper asks whether six specific preference and strategic models can improve psychological plausibility and empirical descriptiveness while preserving the formal precision and generality valued in economic modeling."
+}

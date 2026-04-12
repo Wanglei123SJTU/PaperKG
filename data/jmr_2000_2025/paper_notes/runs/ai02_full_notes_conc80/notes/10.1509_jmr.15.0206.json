@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper introduces a \"varieties-of-variety\" framework that defines dietary variety by time frame, aggregation level, and categorization level.",
+    "It applies this framework to longitudinal, naturally occurring dietary data from women actively trying to lose weight, rather than laboratory single-episode intake settings.",
+    "It provides exploratory evidence that some forms of greater variety (especially daily breakfast and afternoon snack variety, linked to vegetable variety) can support weight loss, countering a uniformly negative view of dietary variety."
+  ],
+  "context": "The empirical setting is a 16-week clinical weight-loss intervention with overweight/obese premenopausal women recruited from a metropolitan area. Participants were free-living and selected their own foods while trying to meet individualized daily calorie goals.",
+  "design_and_data": "Data come from a 16-week trial with 144 recruited women; 91 completed the intervention, and 134 had multiple post-baseline weight observations for mixed-model analyses. Dietary intake was collected through random telephone 24-hour recalls using trained dietitians, NDSR software, and the USDA multi-pass method, and body weight was measured weekly. The authors operationalized dietary variety across cumulative vs daily time frames, overall vs meal-specific aggregation (breakfast, lunch, dinner, snacks), and individual/specific/broad food categorizations. They used correlational analyses and conditional growth-curve mixed models to relate these variety measures to weight change.",
+  "focal_constructs": [
+    "dietary variety",
+    "daily variety",
+    "cumulative variety",
+    "episode-specific meal variety",
+    "food categorization level",
+    "weight loss",
+    "vegetable variety"
+  ],
+  "main_findings": [
+    "Cumulative overall dietary variety was not significantly associated with weight loss, whereas daily overall variety was positively associated with greater percentage weight loss.",
+    "Daily breakfast variety and daily snack variety were the strongest positive predictors of weight loss over time, while daily lunch and dinner variety were not significant.",
+    "The snack effect was stronger for afternoon snacks than morning snacks, and the breakfast/snack variety effects were largely explained by greater vegetable variety."
+  ],
+  "one_line_summary": "Using 16-week longitudinal diet-recall data from overweight/obese women in a weight-loss trial, the paper shows that more daily (not cumulative) dietary variety-particularly at breakfast and afternoon snacks and via vegetable variety-is associated with greater weight loss.",
+  "relation_to_prior_work": "extends prior single-episode variety-effect research by modeling dietary variety across longer time horizons and meal-specific patterns and linking these distinctions to actual weight loss outcomes.",
+  "research_gap": "Prior research on dietary variety largely examines single eating episodes and immediate intake, leaving limited empirical evidence on how naturally occurring variety over longer periods relates to sustained human weight loss. The paper also argues that prior work has not jointly distinguished time frame, aggregation level, and food categorization when operationalizing variety.",
+  "research_question": "How is naturally occurring dietary variety related to weight loss among people actively trying to lose weight? The paper asks whether this relationship depends on how variety is conceptualized across time frame (cumulative vs daily), aggregation level (overall vs meal-specific), and categorization level (individual foods vs food groups)."
+}

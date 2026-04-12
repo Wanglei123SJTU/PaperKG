@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides one of the first empirical tests of the sow's ear hypothesis by linking raw ideas as originally proposed to actual market outcomes.",
+    "Builds a novel dataset from a transparent innovation platform that connects raw ideas, final product designs, and sales results.",
+    "Decomposes value creation into two stages (raw idea to final design, and final design to market outcomes) and compares consumer and expert idea-quality measures."
+  ],
+  "context": "The empirical setting is Quirky.com, a community-driven product development company that runs weekly idea contests and sells developed products through its online store. The products are mainly household and office consumer goods, typically under $150 and without integrated software.",
+  "design_and_data": "The authors assemble data on 160 Quirky products sold in the store and 149 associated raw ideas, plus a random sample of 100 raw ideas from the full contest population. They track market outcomes including units sold, sales rate, revenue, days in store, and Bass-model projected units, with observations collected during March-November 2011 and December 2012-March 2013. Raw-idea quality is measured via online consumer purchase-intent surveys (1,438 responses) and via seven experts rating 148 ideas; final-design quality is measured with a separate priced consumer purchase-intent survey (363 responses). Empirical models include price and category controls, and 2SLS specifications instrument price with estimated manufacturing cost.",
+  "focal_constructs": [
+    "raw idea quality",
+    "innovation success",
+    "market outcomes",
+    "purchase intent",
+    "final design quality",
+    "expert ratings",
+    "idea selection"
+  ],
+  "main_findings": [
+    "Consumer purchase-intent ratings of raw ideas significantly predict market outcomes, and a one-standard-deviation better raw idea corresponds to about a 51% increase in sales rate.",
+    "Consumer panels are more robust predictors of market outcomes than expert ratings, and small consumer samples can be predictive.",
+    "The predictive relationship is stronger from raw idea quality to final-design purchase intent than from final-design purchase intent to market outcomes."
+  ],
+  "one_line_summary": "Using Quirky.com data, the paper shows that better raw ideas predict better market performance, with economically large effects, and that consumer purchase-intent ratings outperform expert judgments as an early screening tool.",
+  "relation_to_prior_work": "extends prior work on idea generation and concept evaluation by using raw ideas as originally proposed rather than retrospective or fully developed concepts, and by linking them to realized market outcomes. It also extends premarket evaluation research by comparing expert and consumer measures and by decomposing effects across development stages.",
+  "research_gap": "Prior research had not empirically examined, with actual raw ideas and actual market outcomes, how strongly raw idea quality predicts innovation success. The literature also lacked evidence on the relative contribution of the raw idea versus later development and commercialization stages.",
+  "research_question": "How much does the quality of a raw idea, as initially proposed, determine eventual innovation success in the market? The paper asks how much variation in outcomes can be explained by raw idea quality, how economically large that effect is, and which practical measure of idea quality is more predictive."
+}

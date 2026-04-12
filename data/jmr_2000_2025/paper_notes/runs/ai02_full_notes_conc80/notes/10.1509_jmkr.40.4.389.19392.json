@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper explicitly demonstrates a potential upward bias in logit-estimated promotion-induced brand-switching elasticities when consumers are forward looking.",
+    "It develops a dynamic structural model of joint purchase incidence and brand choice under promotion uncertainty, incorporating inventory, stockout, state dependence, and continuous heterogeneity.",
+    "It shows, through simulation, empirical estimation, and policy simulation, that reduced-form incidence models can only partially mitigate this bias."
+  ],
+  "context": "The empirical setting is the U.S. ketchup category with weekly scanner panel data and frequent price promotions across major Heinz, Hunt's, and Del Monte brand-size alternatives. The calibration data are from Sioux Falls, South Dakota, and holdout validation data are from Springfield, Missouri.",
+  "design_and_data": "The authors run three analyses: a synthetic-data simulation, model estimation on real panel data, and a promotion-policy counterfactual. The synthetic simulation generates 50 weeks of decisions for 200 consumers from the dynamic structural model and compares five alternatives (stand-alone logit, nested logit, logit with no-purchase alternative, static structural, dynamic structural). The empirical application uses ACNielsen household data with 8823 observations from 173 households over 51 weeks (1473 purchases), plus a holdout sample of 4131 observations from 81 households over 51 weeks. The structural model is a dynamic programming model with first-order Markov promotion expectations and is estimated via simulated maximum likelihood with interpolation for the value function.",
+  "focal_constructs": [
+    "promotion-induced brand switching",
+    "forward-looking purchase timing",
+    "dynamic structural choice-incidence model",
+    "promotion expectations",
+    "inventory and stockout costs",
+    "state dependence (last purchase effect)",
+    "promotion frequency policy change"
+  ],
+  "main_findings": [
+    "In synthetic data where the structural model is true, reduced-form models overestimate promotion-induced switching elasticities, with the stand-alone logit model most upward biased and nested logit only partially correcting the bias.",
+    "In real ketchup data, the dynamic structural model fits better than reduced-form alternatives and produces lower switching elasticities, with the pattern logit > nested logit > structural.",
+    "When promotion frequency is increased by 50% for Heinz 28/32 oz, reduced-form models predict much larger sales gains than the dynamic structural model, indicating overprediction under policy change."
+  ],
+  "one_line_summary": "Using simulation and ketchup scanner panel data, the paper shows that reduced-form logit promotion models overstate brand-switching effects when consumers are forward looking and that a dynamic structural model gives better fit and more conservative elasticity and policy predictions.",
+  "relation_to_prior_work": "extends prior logit-based promotion-response research by integrating forward-looking purchase timing, promotion expectations, and inventory dynamics into a structural incidence-choice framework to reassess switching elasticities.",
+  "research_gap": "Prior work separately examined promotion-driven brand switching with reduced-form logit models and dynamic rational purchase timing with structural models. The paper identifies a specific unresolved issue: whether ignoring forward-looking timing adjustments causes upward bias in measured promotion-induced brand switching and in policy-change forecasts.",
+  "research_question": "Do conventional reduced-form logit models overestimate promotion-induced brand-switching elasticities because they do not model forward-looking consumers' purchase-timing adjustments? Can a dynamic structural model of incidence and brand choice under promotion uncertainty recover less biased switching effects and produce more credible predictions under promotion policy changes?"
+}

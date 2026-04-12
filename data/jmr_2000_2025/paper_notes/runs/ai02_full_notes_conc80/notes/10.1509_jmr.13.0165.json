@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Models how marketing efforts to attract new and existing buyers and sellers contribute to platform search advertising revenue.",
+    "Simultaneously examines sellers' click price and buyers' click rate as dual mediating mechanisms between incentives and revenue.",
+    "Compares effects across launch versus mature stages of a newly introduced search advertising service and computes economic returns using platform cost data."
+  ],
+  "context": "The study is set in a leading global business-to-business electronic platform that uses a freemium model and launched keyword search advertising in 2009. The platform connects small-business buyers and sellers and runs second-price style keyword auctions for sponsored listings.",
+  "design_and_data": "The authors use 882 days of platform-level daily data from April 1, 2009, to August 31, 2011, covering buyer and seller incentives, click rate, click price, and advertising revenue. They identify a 258-day launch stage and a 284-day mature stage using rolling-window augmented Dickey-Fuller tests and structural-break logic. They estimate separate seven-variable VAR models by stage, then use impulse response functions and variance decomposition to assess dynamic direct and indirect effects. Supplementary analyses use individual-level data on about 10,000 buyers and sellers and keyword-level data (more than 3,000 keyword-seller observations) to probe behavioral assumptions.",
+  "focal_constructs": [
+    "incentivized new buyers",
+    "incentivized existing buyers",
+    "incentivized new sellers",
+    "incentivized existing sellers",
+    "buyers' click-through rate",
+    "sellers' price per click",
+    "platform search advertising revenue",
+    "launch and mature service stages"
+  ],
+  "main_findings": [
+    "Attracting new buyers has stronger positive effects than attracting existing buyers on click rate and direct advertising revenue in both stages, and these differences are larger in the mature stage.",
+    "Incentivizing existing sellers raises buyer click rate more than incentivizing new sellers in the launch stage, but in the mature stage new sellers have the stronger effect on click rate and also drive click price more strongly than existing sellers.",
+    "Cross-network effects are evident: buyer-attraction activities affect sellers' click price and seller-attraction activities affect buyers' click rate; economically, a $1 investment to attract new buyers yielded more than $5 in launch and more than $10 in mature, while $1 in seller bidding credits yielded about $0.07 to $0.26 in advertising revenue."
+  ],
+  "one_line_summary": "Using stage-specific VAR analysis on a B2B platform, the paper shows that new versus existing buyers and sellers have different direct and mediated effects on search advertising revenue through click rate and click price, with stronger new-buyer effects in the mature stage.",
+  "relation_to_prior_work": "extends prior search advertising and two-sided platform research by jointly modeling buyer clicking and seller bidding, distinguishing new versus existing participants, and testing how these relationships shift between launch and mature service stages.",
+  "research_gap": "Prior studies largely examined seller-side bidding or buyer-side clicking separately, leaving limited joint evidence on how both sides of a platform simultaneously shape search advertising revenue. The paper addresses this gap by linking new versus existing buyer and seller incentives to revenue through both click price and click rate, and by testing stage differences after service launch.",
+  "research_question": "How do incentives to attract new and existing buyers and sellers affect a platform's search advertising revenue in a two-sided B2B market? Through which direct paths and indirect paths via buyers' click rate and sellers' click price do these effects operate, and how do they differ between launch and mature stages of the search advertising service?"
+}

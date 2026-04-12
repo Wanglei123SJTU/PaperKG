@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used for more than background: the citing article explicitly positions it as prior work that linked banner exposure to actual purchasing and then discusses its modeling approach in detail. The citing paper then argues that Manchanda et al.'s browsing controls were suitable for untargeted campaigns but can become endogenous when individual-level targeting is present. This methodological limitation helps motivate the citing paper's randomized treatment-control design and its identification strategy, so the citation materially informs framing and method choice.",
+  "relation_description": "The citing paper builds on and qualifies Manchanda et al. (2006) by arguing that its correlational browsing controls are limited under targeted ad serving. It introduces a randomized field-experiment framework to improve causal identification and to estimate display-ad effects by purchase-funnel stage.",
+  "relation_type": "refines"
+}

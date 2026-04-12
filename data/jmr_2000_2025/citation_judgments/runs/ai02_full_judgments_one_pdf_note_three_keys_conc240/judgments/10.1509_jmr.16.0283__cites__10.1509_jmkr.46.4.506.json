@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in the methods core, not only in general background. The citing paper references Zhao, Zhao, and Song (2009) when motivating state-space modeling of evolving latent parameters and again when describing Kalman-filter-based estimation of unobserved states. This indicates a concrete methodological role in how the model is set up and estimated, even though the empirical context differs.",
+  "relation_description": "The citing paper applies methodological ideas associated with Zhao, Zhao, and Song (2009), using state-space treatment of latent dynamics and related estimation logic in a new B2B direct-marketing setting.",
+  "relation_type": "applies"
+}

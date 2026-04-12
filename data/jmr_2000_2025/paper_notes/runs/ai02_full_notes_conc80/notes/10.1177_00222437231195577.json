@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "A general and flexible IV-free endogeneity-correction framework (SORE) that models regressor-error dependence with semiparametric odds ratios and nests joint copula modeling as a special case.",
+    "A novel IV-free approach for discrete endogenous regressors with few levels (including binary and low-mean count regressors) that avoids inverse-CDF latent-variable mapping and related nonidentifiability issues.",
+    "A one-step likelihood-based estimation and inference approach (with profile likelihood) that requires no tuning parameters for endogenous-regressor distribution modeling, supports likelihood-based model comparison, and provides direct standard errors."
+  ],
+  "context": "The paper addresses causal estimation in observational marketing regressions where key regressors (such as price) may be endogenous. The empirical illustration uses weekly category-level paper towel sales and marketing variables for two Eau Claire, Wisconsin stores from 2001-2005.",
+  "design_and_data": "The authors develop a semiparametric joint model for the structural error and endogenous regressors conditional on exogenous regressors, combining odds-ratio dependence functions with nonparametric baseline distributions. Parameters are estimated by maximizing regular likelihood or profile likelihood, and endogeneity is tested with Wald and related likelihood-based tests. Identification results are derived for different odds-ratio specifications (including Gaussian-copula-type and log-bilinear forms), with model selection via AIC/BIC. Evidence includes extensive simulation studies (continuous, binary, count, and multiple endogenous regressors, plus misspecification/identification scenarios) and an empirical reanalysis of the Park and Gupta paper towel data with comparisons to OLS, TSLS, and copula/JCM approaches.",
+  "focal_constructs": [
+    "regressor endogeneity",
+    "regressor-error dependence",
+    "semiparametric odds ratio models",
+    "instrument-free joint estimation",
+    "profile likelihood inference",
+    "Gaussian copula and log-bilinear dependence",
+    "discrete endogenous regressors"
+  ],
+  "main_findings": [
+    "In simulations where the true dependence followed a Gaussian copula, SORE and JCM both corrected OLS endogeneity bias, and SORE showed somewhat smaller estimate variability.",
+    "When dependence was non-copula or endogenous and exogenous regressors were correlated, JCM could remain biased, while correctly specified SORE removed bias; AIC/BIC usually selected the correct odds-ratio form in larger samples.",
+    "SORE successfully handled binary and low-support count endogenous regressors, and in the paper towel application it detected price endogeneity in Store 1 (but not Store 2) and produced Store 1 price effects closer to TSLS than OLS."
+  ],
+  "one_line_summary": "The paper proposes SORE, an instrument-free one-step likelihood framework that corrects regressor-endogeneity bias by semiparametrically modeling regressor-error dependence and demonstrates it for continuous, binary, and count endogenous regressors.",
+  "relation_to_prior_work": "extends IV-free endogeneity correction by generalizing Gaussian-copula joint modeling into a broader semiparametric odds-ratio framework, connecting to heteroskedasticity and higher-moment identification strategies, and adding low-level discrete-regressor handling with one-step likelihood inference.",
+  "research_gap": "Existing endogeneity corrections either rely on valid IVs and exclusion restrictions or use IV-free approaches with restrictive assumptions (for example, Gaussian copula dependence, independence constraints, tuning-parameter dependence, or poor handling of discrete regressors with few levels). The paper targets the need for a more flexible IV-free joint estimation method that can model broader dependence structures and work with discrete endogenous regressors.",
+  "research_question": "Can endogeneity bias be corrected without instrumental variables by jointly modeling endogenous regressors and structural errors using semiparametric odds-ratio models? If so, can this framework provide identifiable, likelihood-based inference across continuous and discrete endogenous regressors, including binary and low-support count cases?"
+}

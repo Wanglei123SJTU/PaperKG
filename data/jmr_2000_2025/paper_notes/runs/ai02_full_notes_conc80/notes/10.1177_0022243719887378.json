@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Shows theoretically that dynamic effort-gaming profiles that look inefficient - hockey stick, giving up, and resting on laurels - can be optimal outcomes of profit-maximizing sales incentive contracts.",
+    "Characterizes when the optimal two-period contract is gradual versus extreme and explains this via a demand effect versus incentive-effect trade-off, with rewards concentrated on extreme outcomes under some frictions.",
+    "Extends the baseline to interdependent periods (sales push out/pull in and limited inventory) and shows the core insight persists, including under repeated short-horizon contracting in the demand-transfer setting."
+  ],
+  "context": "The paper studies quota-based sales force compensation in multiperiod settings where firms employ salespeople over extended horizons and pay variable bonuses based on realized sales. The focal environment is a two-period sales cycle with uncertain demand and end-of-horizon reward determination.",
+  "design_and_data": "This is an analytical theory paper with a stylized principal-agent model of repeated moral hazard over two periods. In the baseline, period demands are conditionally independent, effort is binary and unobservable, demand is binary, and both firm and agent are risk neutral while the agent has limited liability and reservation utility. The authors solve for optimal contracts and induced effort profiles across parameter regions, comparing one-period, two-period, and period-by-period contracting. They then extend the model to allow sales transfer across periods (push out/pull in) and to impose a fixed inventory cap across periods.",
+  "focal_constructs": [
+    "multiperiod sales force compensation",
+    "repeated moral hazard",
+    "limited liability",
+    "extreme versus gradual contracts",
+    "effort gaming",
+    "hockey stick effort profile",
+    "sales push out and pull in",
+    "limited inventory"
+  ],
+  "main_findings": [
+    "Under the optimal two-period contract, the firm may optimally induce either constant effort, a hockey stick profile, or a giving-up profile; high effort in every period is not always optimal.",
+    "Extreme contracts that pay only for extreme cumulative outcomes can be optimal because they lower incentive cost per unit of expected demand, even though they reduce expected demand relative to gradual contracts.",
+    "When periods are made interdependent, the core result remains: with sales transfer, hockey stick, giving up, and resting on laurels can be optimal under short-horizon contracting, and with limited inventory the optimal profile can include hockey stick or resting-on-laurels behavior with possible advantages of period-by-period contracts in some regions."
+  ],
+  "one_line_summary": "In a two-period principal-agent model with moral hazard and limited liability, the paper shows that contracts inducing hockey stick, giving up, or resting-on-laurels effort patterns can be profit-maximizing rather than dysfunctional.",
+  "relation_to_prior_work": "introduces an optimal-contracting explanation for dynamic salesperson gaming that contrasts with prior behavioral/suboptimality and demand-shifting explanations, and situates the results within repeated moral hazard models with limited liability.",
+  "research_gap": "Prior empirical and theoretical discussions document dynamic effort gaming under quota plans, but it is unclear whether such profiles are necessarily suboptimal for firms under optimal contracting. The paper addresses the unresolved question of which dynamic effort profiles and contract forms are optimal when moral hazard and limited liability frictions are present.",
+  "research_question": "Are observed dynamic effort-gaming patterns in multiperiod quota contracts necessarily signs of ineffective compensation design, or can they be optimal for the firm? What contract structure (gradual versus extreme rewards, and long- versus short-horizon forms) optimally induces effort across periods under moral hazard and limited liability?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper empirically evaluates a new item-based loyalty program design in which item-level price discounts are replaced by reward-point promotions that are redeemed later.",
+    "It develops a unified household-level model that jointly captures store visits, shopping-trip spending, and LP membership conversion, while allowing responses to own and competitor promotions to differ before and after the switch.",
+    "It uses policy simulations to quantify revenue implications and shows that post-switch promotion intensity and pre-switch LP status are central to program outcomes."
+  ],
+  "context": "The empirical setting is a European online grocery retailer that implemented a storewide switch from a conventional LP to an item-based LP in September 2005. Competitive conditions are captured using weekly promotion data from four major supermarket chains in the same market.",
+  "design_and_data": "The study uses household purchase histories and LP membership records over 120 weeks (January 2004 to April 2006), with 35 weeks used for initialization and 85 weeks for estimation (52 pre-switch and 33 post-switch). The estimation sample includes 2,104 existing customers who purchased both before and after the switch (1,429 pre-switch LP members and 675 pre-switch nonmembers). The authors estimate a joint model of weekly store visit incidence, shopping-trip spending, and LP membership conversion (discrete-time hazard), with a four-segment finite mixture and pre-switch LP status as a concomitant variable. Inputs include inflation-adjusted household-specific price/promotion measures and competitor promotion measures, followed by policy simulations and additional adjustments for attrition and new-customer acquisition.",
+  "focal_constructs": [
+    "item-based loyalty program (IBLP)",
+    "reward point promotions",
+    "price discounts",
+    "store visit incidence",
+    "shopping trip spending",
+    "LP membership conversion",
+    "cumulative reward points",
+    "competitive promotions"
+  ],
+  "main_findings": [
+    "After the switch, consumers became more responsive to the retailer's reward-point promotions than to price discounts of equal monetary value in store-visit decisions, and responsiveness to competitors' reward-point promotions largely disappeared.",
+    "The IBLP had limited direct impact on shopping-trip spending, while cumulative reward-point effects on store visits strengthened for several consumer segments.",
+    "Under observed post-switch promotion levels, spending by pre-switch LP members decreased by 4.8% and spending by pre-switch nonmembers increased by 15.2% (about 0.3% net gain in the retained existing-customer sample), and most total store revenue gains came from reduced attrition and increased new-customer acquisition."
+  ],
+  "one_line_summary": "Using a natural experiment at a European online grocer, the paper shows that replacing item price discounts with loyalty points primarily changes store-visit behavior and customer retention/acquisition, and its revenue payoff depends on maintaining sufficient promotion levels.",
+  "relation_to_prior_work": "extends prior empirical loyalty-program research that mainly studied spending-based conventional programs by analyzing a storewide switch to an item-based design and its interaction with promotion strategy, competitor promotions, and membership conversion.",
+  "research_gap": "Prior empirical loyalty-program studies primarily examine programs tied to total store spending and provide little evidence on what happens when item-level price discounts are replaced by delayed LP reward points. The paper addresses this by evaluating a real policy switch from a conventional LP to an item-based LP and estimating its net behavioral and revenue effects.",
+  "research_question": "How does switching from a conventional loyalty program to an item-based loyalty program, where item price discounts are replaced by reward-point promotions, affect consumer purchase behavior and retailer sales revenue? The study also asks whether effects differ between pre-switch LP members and nonmembers and how the switch changes responses to competitors' promotions and LP membership conversion."
+}

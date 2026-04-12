@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper extends slang research to marketing by showing how brand slang use affects persuasion outcomes (brand attitudes and social media engagement), not just interpersonal dynamics.",
+    "It identifies a mechanism in which slang in brand messages triggers expectancy violations that reduce perceived authenticity and harm brand evaluations.",
+    "It specifies boundary conditions based on source characteristics - brand personality and influencer versus brand sender - to show when slang is more or less appropriate in social media marketing."
+  ],
+  "context": "The research is set in brand social media communications, especially Twitter (X) posts by brands and influencers. Empirical contexts include beverage brands (Monster Energy and Arizona Iced Tea), Peloton-related posts, and controlled experiments using fictitious brand posts.",
+  "design_and_data": "The authors analyze two observational Twitter datasets coded for slang use: 679 original tweets from Monster Energy and Arizona Iced Tea (2020-2021) and 870 Peloton-related tweets from official brand and influencer accounts (2021-2022). Slang was manually coded by trained coders, and negative binomial regressions estimated effects on total engagement, likes, and retweets with controls for tweet content and timing. They also conducted seven experiments (three in the main paper and four in the Web Appendix); the main text reports randomized studies with N=402, N=285, and N=1,003. Experimental measures include brand attitudes, expectancy violations, and perceived authenticity, with mediation and moderated mediation tests using PROCESS.",
+  "focal_constructs": [
+    "slang use in brand communications",
+    "expectancy violations",
+    "perceived authenticity",
+    "brand attitudes",
+    "brand personality (sincere vs exciting)",
+    "message source (brand vs influencer)",
+    "social media engagement"
+  ],
+  "main_findings": [
+    "When brand personality is unknown/ambiguous or sincere, using slang lowers brand attitudes; in Twitter beverage data, slang reduced engagement more for sincere Arizona than for exciting Monster.",
+    "The negative effect is explained by higher expectancy violations and lower perceived authenticity, with evidence for serial mediation in experiments.",
+    "Source characteristics attenuate the penalty: exciting brand personality weakens the negative effect, and influencer-posted slang removes the negative brand-attitude effect and in field data can increase engagement relative to brand-posted slang."
+  ],
+  "one_line_summary": "Across Twitter field analyses and experiments, the paper finds that brand slang often backfires by violating communication expectations and reducing perceived authenticity, but this penalty is attenuated for exciting brands and influencer-delivered messages.",
+  "relation_to_prior_work": "extends prior slang literature from interpersonal settings to brand communication effectiveness by showing how mainstream slang can reduce persuasion outcomes in marketing. It refines expectancy-violation work by identifying perceived inauthenticity as a mechanism and by showing that expectations shift with source characteristics such as exciting versus sincere brand personality and influencer versus brand sender.",
+  "research_gap": "Prior slang work has focused mainly on antecedents and social outcomes in interpersonal communication, leaving unclear how slang in brand messaging affects persuasion and brand evaluations. The paper also addresses limited understanding of when consumer expectations for brand communication norms change across different senders.",
+  "research_question": "Does using mainstream slang in brand marketing communications help or hurt consumer responses to the brand? Through what process (expectancy violations and perceived authenticity) and under what source conditions (brand personality and influencer versus brand sender) does the effect of slang on brand outcomes change?"
+}

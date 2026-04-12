@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Among the first studies to theorize and empirically test how financial analysts react to customer satisfaction information.",
+    "Contributes to the marketing-finance interface by showing that customer satisfaction is relevant for analyst-based outcomes, not only traditional accounting metrics.",
+    "Identifies analyst stock recommendations as a mechanism linking customer satisfaction to firm value, and extends prior work by examining mediation, return and risk outcomes, and contextual moderators."
+  ],
+  "context": "The study examines publicly traded firms covered by the American Customer Satisfaction Index and followed by Wall Street analysts. It links Main Street customer satisfaction information to analyst recommendations and stock-market-based firm value outcomes.",
+  "design_and_data": "The authors combine ACSI, I/B/E/S, CRSP, and COMPUSTAT data from 1995 to 2006. After quarter-level alignment and differencing, the final unbalanced panel includes 1032 usable firm-year observations across 24 two-digit SIC groups; analyst recommendation data come from I/B/E/S consensus ratings and recommendation dispersion. Firm value is measured as abnormal return, systematic risk, and idiosyncratic risk using an extended Fama-French-Carhart specification. They estimate first-difference equations with simultaneous GMM and test mediation with a Baron-Kenny procedure and Sobel tests.",
+  "focal_constructs": [
+    "customer satisfaction changes",
+    "analyst stock recommendations",
+    "recommendation dispersion",
+    "product market competition",
+    "financial market uncertainty",
+    "abnormal return",
+    "systematic risk",
+    "idiosyncratic risk"
+  ],
+  "main_findings": [
+    "Positive changes in customer satisfaction are associated with more favorable analyst stock recommendations and lower dispersion in recommendations.",
+    "The satisfaction effects are stronger when product market competition is high, and financial market uncertainty strengthens the satisfaction effect on recommendation level but not on recommendation dispersion.",
+    "Analyst recommendations mediate the effect of customer satisfaction on firm value, with partial mediation for abnormal return and idiosyncratic risk and full mediation for systematic risk."
+  ],
+  "one_line_summary": "Using a longitudinal multi-source panel, the paper shows that improvements in customer satisfaction lead to better and less dispersed analyst recommendations, which in turn help transmit satisfaction information into stock return and risk outcomes.",
+  "relation_to_prior_work": "extends prior customer satisfaction-firm value research, especially Jacobson and Mizik, by modeling analyst recommendations as an intermediary channel rather than only direct satisfaction-return effects. It broadens prior evidence by adding systematic and idiosyncratic risk outcomes and by testing moderation from product market competition and financial market uncertainty.",
+  "research_gap": "No published work across marketing, accounting, and finance had explicitly linked customer satisfaction to analyst stock recommendations. The literature also had not tested whether analyst recommendations are a channel through which customer satisfaction affects firm value.",
+  "research_question": "Do positive changes in a firm's customer satisfaction lead to more favorable analyst stock recommendations and lower recommendation dispersion? Are these effects contingent on product market competition and financial market uncertainty? To what extent do analyst recommendations mediate the impact of satisfaction changes on abnormal return, systematic risk, and idiosyncratic risk?"
+}

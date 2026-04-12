@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper uses a natural experiment around a multichannel retailer's first store opening in a state to identify the causal effect of newly enforced sales-tax collection on direct-channel demand.",
+    "It documents that the tax effect differs by channel and argues that boundaries of the effect are tied to customer search conditions rather than only tax salience or personal interaction.",
+    "It links customer-level tax effects to firm strategy by showing that multichannel retailers with higher direct-channel dependence are less likely to open a first store in high-tax states."
+  ],
+  "context": "The setting is U.S. state sales-tax nexus rules, where a retailer that gains physical presence in a state must collect sales tax on Internet and catalog shipments to that state. The customer analysis uses a multichannel apparel retailer, and the firm analysis uses U.S. multichannel retailers across apparel, jewelry, sporting goods, and home furnishings.",
+  "design_and_data": "For customer behavior, the authors study a natural experiment in which one multichannel apparel retailer opened its first store in a focal state (sales tax 4%-6%), triggering tax collection there, while a neighboring no-sales-tax state serves as control. They analyze 13,021 customers near the state border and more than 100 miles from the new store, observed over 51 months (39 months before and 12 months after), and estimate differences-in-differences models (Poisson with household random effects, plus linear robustness, clustered bootstrap inference). They run robustness checks on pretrends, marketing contacts, alternative periods without openings, customer comparability, and product categories, and examine mechanisms using mail vs telephone orders and discounted vs full-price items. For firm behavior, they build a 14-retailer panel from Multichannel Merchant 150 and Retail Tenants Directory, with 450 state-retailer opportunities to open a first store between 2001 and 2004, and estimate logistic models including the interaction of state tax rates with each retailer's direct-channel share.",
+  "focal_constructs": [
+    "sales-tax collection obligation",
+    "physical presence nexus",
+    "Internet demand",
+    "catalog demand",
+    "customer search behavior",
+    "discounted vs full-price items",
+    "first-store opening decision",
+    "direct-channel revenue share"
+  ],
+  "main_findings": [
+    "When the retailer became required to collect sales tax in the focal state, Internet orders fell significantly (about 11.6%), while catalog orders showed no significant change.",
+    "The channel difference is consistent with search frictions: tax effects are concentrated in full-price Internet purchases, while discounted-item purchases show no significant tax effect in either Internet or catalog channels.",
+    "In the retailer panel, the interaction between state tax rates and direct-channel share is negative for first-store entry, indicating that direct-heavy retailers are less likely to open first stores in high-tax states."
+  ],
+  "one_line_summary": "Using a first-store-opening natural experiment and a multiretailer panel, the paper finds that sales-tax collection reduces Internet but not catalog demand and that direct-heavy retailers avoid first-store entry in high-tax states.",
+  "relation_to_prior_work": "extends prior tax-and-e-commerce evidence that relied mainly on cross-state tax variation by identifying within-retailer, within-household changes when tax collection begins, and by connecting those customer effects to multichannel firms' store-entry choices.",
+  "research_gap": "Prior work largely inferred tax effects from cross-state variation, where tax rates can be confounded with unobserved state demand characteristics and retailer presence. The paper identifies a gap in evidence on what happens when the same retailer is newly required to collect tax and whether this rule also changes firms' physical expansion behavior.",
+  "research_question": "How does the obligation to collect state sales taxes, triggered by opening a first physical store in a state, affect customer demand in Internet versus catalog channels? Do multichannel retailers, especially those with greater direct-channel dependence, avoid opening first stores in high-tax states because of these demand effects?"
+}

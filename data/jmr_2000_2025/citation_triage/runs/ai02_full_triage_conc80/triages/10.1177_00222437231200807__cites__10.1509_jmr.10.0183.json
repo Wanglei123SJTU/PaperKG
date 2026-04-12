@@ -1,0 +1,4 @@
+{
+  "rationale": "The only matched evidence is a DOI-level reference with no in-text snippet or reference-string context (`matched_reference_count=1`, empty `ref_article_title`/`ref_unstructured`), so there is no direct sign of how it is used. Although the topics differ (CMP sales promotions vs. new-product NB/PL competition), both papers share FMCG retail competitive constructs (e.g., brand leadership/price positioning), so a substantive framing use is plausible and it is not safe to drop as obviously incidental.",
+  "triage_decision": "uncertain"
+}

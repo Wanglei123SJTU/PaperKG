@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper plays a central modeling role, not a passing mention. The 2015 authors explicitly treat Dreze and Nunes (2004) as the foundation for a two-account cash-versus-points mental-accounting setup, then state and implement several concrete changes to that framework. They use the citation to position their contribution as adapting and expanding the earlier model to linear loyalty programs and redemption timing behavior.",
+  "relation_description": "The citing paper builds directly on Dreze and Nunes (2004)'s two-account framework and extends it to a different problem setting. It adds transaction costs, forgone point earnings, subjective point valuation, and non-full-stockpile cases to model redemption decisions in linear loyalty programs.",
+  "relation_type": "extends"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces and tests a previously unaddressed decoy dynamic: an option is initially selectable but unexpectedly exits before final choice.",
+    "It shows that this entry-then-exit sequence can increase the final choice share of the most similar remaining option relative to a case where the decoy is unavailable from the outset.",
+    "It offers process evidence that the effect is driven mainly by shifts in decision-criterion weights and similarity-based substitution rather than by a simple value-shift/reference-point account."
+  ],
+  "context": "The paper is motivated by settings where options disappear after consideration, including political elections with third-party candidates and consumer markets such as travel listings and preannounced products. Empirical tests use hypothetical multiattribute choices in domains including political candidates, beer, health plans, cruises, housing, and automobiles.",
+  "design_and_data": "The authors run a series of experiments with control versus experimental conditions: in control, a decoy is identified as unavailable from the start; in experimental, the same decoy is initially available and then becomes unavailable before a final choice. The pilot study uses 113 undergraduates and political-candidate stimuli; later studies use beer choices (including asymmetrically dominated and compromise decoys), five additional personalized scenarios with repeated choices from 48 undergraduates, and a condition that requires only initial consideration (not explicit choice) with 118 participants. A final process study with 109 undergraduates measures attribute-importance weights, perceived attribute values, similarity to the unavailable decoy, and ease of justification, and analyzes mediation using logistic regression and ANOVA.",
+  "focal_constructs": [
+    "attraction effect",
+    "phantom decoy",
+    "decoy disappearance",
+    "choice share",
+    "attribute weight shift",
+    "similarity heuristic",
+    "value shift",
+    "loss aversion"
+  ],
+  "main_findings": [
+    "When a decoy is initially available but later becomes unavailable, the target's final choice share is higher than when that decoy is unavailable from the start, with reported increases typically around 16-20 percentage points.",
+    "The disappearance-based attraction effect replicates across multiple stimulus domains and decoy locations, and it occurs even when participants only ponder options initially instead of making an explicit first choice.",
+    "Process analyses show that increased weight on the attribute favoring the target/decoy and higher perceived similarity mediate the effect, while measured perceived-value shifts do not support the proposed reference-point value-shift explanation."
+  ],
+  "one_line_summary": "Across multiple experiments, the paper finds that a decoy's unexpected exit after initial availability boosts the similar target's choice share compared with immediate decoy unavailability, mainly through criterion-weight and similarity shifts.",
+  "relation_to_prior_work": "extends attraction-effect and phantom-decoy research by analyzing a dynamic sequence in which a decoy is first selectable and then removed, rather than only added or unavailable from the beginning. It compares mechanism classes discussed in prior work and reports stronger support for weight-shift and similarity accounts than for value-shift accounts.",
+  "research_gap": "Prior work established effects of adding decoys and of phantoms that are unavailable from the start, but it did not directly test what happens when a previously selectable decoy unexpectedly disappears. The paper addresses whether shares revert to baseline or remain systematically shifted, and which option benefits.",
+  "research_question": "Does the unexpected elimination of an option after initial consideration or choice leave the remaining options at the same shares as a choice set in which that option was unavailable from the outset, or does it systematically change shares? If shares change, does the similar target benefit, and is the effect explained by criterion-weight shifts, value shifts, or similarity-based processes?"
+}

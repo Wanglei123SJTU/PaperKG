@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Fisher, Gallino, and Xu (2019) in its identification section as a methodological precedent for checking the parallel trends assumption in DID. It explicitly follows that prior work for both a model-free pretrend visualization and a regression-based pretrend test, indicating functional use in empirical design rather than a purely topical mention. While the citation appears alongside other references, it is tied to specific analytic steps the authors implement.",
+  "relation_description": "The citing paper applies methodological practices from the cited paper to validate its own DID identification strategy, especially in parallel-trends diagnostics. The role is primarily empirical-design guidance rather than extending the cited paper's substantive delivery-speed findings.",
+  "relation_type": "applies"
+}

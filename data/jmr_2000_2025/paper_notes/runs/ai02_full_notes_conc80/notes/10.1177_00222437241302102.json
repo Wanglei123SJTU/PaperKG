@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces the conditional sure independence screening (CSIS) method to marketing for competitor identification in geographical markets.",
+    "Shows that CSIS provides computational efficiency by estimating marginal regressions for each candidate competitor instead of a full high-dimensional demand model.",
+    "Demonstrates that the approach can handle asymmetric competition and remains robust under different spatial dependence specifications."
+  ],
+  "context": "The empirical setting is the U.S. hotel industry, where competition is local and location-dependent. The application emphasizes a dense market (Washington, DC) and a sparse market (Amarillo, Texas), with segment-level competition across six hotel market segments.",
+  "design_and_data": "The authors specify a segment-level log-linear system of hotel demand equations where a focal hotel's demand depends on own price, competitors' prices, hotel-segment fixed effects, and time fixed effects. They address price endogeneity using Hausman-style instruments based on matched hotel prices in other regions and estimate first-stage price equations for each hotel-segment-region combination. Method validation uses extensive simulations (384 datasets with random prices and 1,536 datasets with actual prices) that vary spatial data-generating processes, time windows, market size, true competitor counts, coefficient magnitudes, region density, and segments, and compares CSIS with Lasso, elastic net, sequence Lasso, Gaussian graphical models, and proximity/brand heuristics. The empirical data come from 1,313 hotel properties across five U.S. regions from 2015-2016, with daily hotel-segment-check-in-date reservation aggregates; competitor identification is illustrated mainly for DC and Amarillo.",
+  "focal_constructs": [
+    "competitor identification",
+    "conditional sure independence screening (CSIS)",
+    "geographical market structure",
+    "demand system with cross-price effects",
+    "spatial dependence",
+    "asymmetric competition",
+    "hotel market segments"
+  ],
+  "main_findings": [
+    "Across most simulated scenarios, CSIS outperforms alternative selection methods on AUC, balanced accuracy, and F1-score, and it remains effective under spatial misspecification.",
+    "In the hotel application, competitive structures differ strongly by region and segment, and competition is largely asymmetric rather than reciprocal.",
+    "Identified competitors are not limited to nearby same-tier hotels, and competitive sets are generally larger in peak seasons than in off-peak seasons."
+  ],
+  "one_line_summary": "The paper applies CSIS to demand-based competitor identification in geographic hotel markets and shows via simulations and U.S. hotel data that it yields more accurate, spatially robust competitive sets than common alternatives.",
+  "relation_to_prior_work": "introduces the CSIS variable screening method from high-dimensional statistics into demand-based competitor identification in marketing. Relative to prior approaches such as penalized regressions, mapping methods, and price-correlation rules, it emphasizes robustness to spatial dependence and accommodation of asymmetric competition in geographical markets.",
+  "research_gap": "Prior competitor-identification methods used in marketing generally do not explicitly account for spatial dependence in geographical markets, and full demand-model estimation becomes computationally difficult when potential competitors are numerous. The paper targets this gap by proposing a method that can screen competitors efficiently while being robust to different spatial structures.",
+  "research_question": "How can firms identify the most relevant competitors in geographical markets when potential competitors are numerous, competition can be asymmetric, and spatial dependence may be present or misspecified? Can CSIS recover true competitors more accurately than common variable-selection or heuristic methods, and what competitive patterns does it reveal in U.S. hotel markets across regions and segments?"
+}

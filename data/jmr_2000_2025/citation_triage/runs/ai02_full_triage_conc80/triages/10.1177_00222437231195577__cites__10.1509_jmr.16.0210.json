@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper is methodological on IV-free endogeneity correction and explicitly discusses Gaussian-copula/joint modeling, while the cited paper uses a copula-based joint behavioral model and includes an endogeneity correction for email contacts. That creates a plausible methodological/background connection, but the provided evidence is only a DOI match (no in-text citation context or reference text), so substantive use is not confirmable from current data.",
+  "triage_decision": "uncertain"
+}

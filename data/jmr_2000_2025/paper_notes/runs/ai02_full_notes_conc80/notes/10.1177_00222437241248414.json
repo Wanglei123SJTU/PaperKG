@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "It adds a relational and historical perspective to research on public brand messages that reference competitors by showing that consumers' perceptions of brands' historic relationships change message responses.",
+    "It offers a more nuanced account of message valence effects by showing that, in rivalry contexts, negatively valenced messages can be as effective as or more effective than positive messages, with differences across consumer loyalty groups.",
+    "It contributes to rivalry research by identifying perceived story embeddedness of reference as a mechanism and by showing rivalry effects among neutral observers, not only actors or strongly attached supporters."
+  ],
+  "context": "The paper studies public brand-to-brand communications, especially social media posts (Twitter and Facebook), where brands reference competitors. Empirical settings span consumer markets and product categories (e.g., fast food, soft drinks, telecom, sports, and 20 total categories in archival data).",
+  "design_and_data": "The authors run five studies using mixed methods: two archival Twitter studies and three preregistered experiments. Study 1 analyzes 1,241,450 tweets from six U.S. brands over 2015-2020, coding rivalry-reference vs nonrival competitor-reference vs standard tweets, using likes as engagement, LIWC-based valence, extensive controls, and control-function endogeneity corrections. Study 2 analyzes 412,676 tweets from 100 brands in 20 categories (2020-2022), with a continuous brand rivalry intensity measure based on Google search-result counts and brand-to-brand mentions, and engagement measured as likes plus retweets. Studies 3-5 experimentally manipulate rival vs nonrival references (and in Study 5 also positive vs negative valence and brand preference groups), and measure consumer engagement, perceived story embeddedness of reference, and purchase intentions.",
+  "focal_constructs": [
+    "brand rivalry perceptions",
+    "rival vs nonrival competitor references",
+    "consumer message engagement",
+    "perceived story embeddedness of reference (PSER)",
+    "message valence",
+    "brand preference",
+    "purchase intentions"
+  ],
+  "main_findings": [
+    "Across archival and experimental studies, referencing a rival rather than a nonrival competitor in a public brand message increases consumer engagement.",
+    "Perceived story embeddedness of reference mediates the rivalry reference effect on engagement, and rival references have a positive indirect effect on purchase intentions through PSER and engagement.",
+    "The rivalry reference effect is stronger for negative versus positive messages overall; in Study 5, positive rival references backfire among loyal consumers of the focal brand, while rival-brand consumers engage more with positive rival references."
+  ],
+  "one_line_summary": "Across large-scale social media data and preregistered experiments, the paper shows that public messages referencing a rival rather than a nonrival competitor increase engagement because they feel embedded in an ongoing rivalry story, with important boundary conditions for message valence and brand preference.",
+  "relation_to_prior_work": "extends prior comparative advertising and brand-to-brand communication research by introducing historically grounded rivalry between brands as a key determinant of responses beyond one-off message factors. It refines work on valence by showing that negative references can be especially effective when the target is a rival and that effects vary across loyalty segments. It also extends rivalry research by documenting effects on neutral consumers and by specifying PSER as an explanatory mechanism.",
+  "research_gap": "Prior research on messages that reference competitor brands has mainly emphasized consumer and message characteristics and often treated such messages as one-off interactions, with little attention to the brands' historical relationship. Marketing research has also rarely distinguished rivalry from nonrival competition when studying consumer responses.",
+  "research_question": "Does referencing a rival competitor, rather than a nonrival competitor, in public brand messages increase consumer engagement and downstream purchase intentions? If so, is this effect driven by consumers perceiving the reference as part of an ongoing rivalry story, and when does it vary by message valence and consumers' brand preference?"
+}

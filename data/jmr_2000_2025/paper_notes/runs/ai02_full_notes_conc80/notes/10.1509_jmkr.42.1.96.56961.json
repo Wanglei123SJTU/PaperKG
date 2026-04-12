@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper theoretically specifies the nature and shape of loyalty-determinant effects by framing trust as a motivator, satisfaction as a hygiene factor, and value as a bivalent candidate mechanism.",
+    "It tests the simultaneous and differential effects of multiple loyalty determinants, including linear, quadratic, and interaction terms, within one relational-exchange model.",
+    "It derives implications for relationship marketing theory and managerial allocation across satisfaction, trust, and value mechanisms."
+  ],
+  "context": "The study examines ongoing consumer relationships in two service settings: retail clothing purchases and nonbusiness airline travel. Respondents were consumers in a large Midwestern U.S. metropolitan area who met prequalifying criteria indicating relational exchange with a focal provider.",
+  "design_and_data": "For each service category, 1230 consumers (income at least $35,000) were randomly sampled and contacted by two mail-survey waves separated by four weeks. Qualifying responses were 246 in retail (from 325 returns) and 113 in airline (from 301 returns), based on criteria such as repeated recent interactions with a focal provider. Established multi-item 10-point measures were used for transaction-specific satisfaction, relational trust, relational value, and loyalty intentions. The authors estimated multigroup SEM with latent quadratic and interaction terms using Ping's two-step single-indicator approach, while modeling common method, acquiescence response-style, and demographic controls.",
+  "focal_constructs": [
+    "transaction-specific satisfaction",
+    "relational trust",
+    "relational value",
+    "loyalty intentions",
+    "curvilinear effects",
+    "hygiene and motivator mechanisms",
+    "relational exchanges"
+  ],
+  "main_findings": [
+    "Relational trust showed positive linear and positive quadratic effects on loyalty intentions in both service contexts, supporting the proposed motivator role.",
+    "Transactional satisfaction had a weak positive linear effect and a negative quadratic effect on loyalty intentions, with the hygiene curvature significant in retail but not in airline data.",
+    "Relational value had a positive linear but negative quadratic effect on loyalty intentions across contexts, so its pattern aligned with a hygiene mechanism rather than the hypothesized bivalent mechanism."
+  ],
+  "one_line_summary": "Using multigroup latent SEM in retail and airline service relationships, the study finds differential curvilinear loyalty effects in which trust acts as a motivator, satisfaction acts mainly as a hygiene factor, and value behaves more like hygiene than bivalent.",
+  "relation_to_prior_work": "extends prior satisfaction-trust-value loyalty research by theorizing distinct nonlinear forms for each determinant and testing them jointly in relational exchanges. It builds on earlier relational models that emphasize mediation (e.g., trust and value pathways) while shifting the core test from linear to curvilinear mechanisms.",
+  "research_gap": "The literature is divided on whether satisfaction, trust, or value is the key driver of loyalty, and few studies estimate these determinants simultaneously in one model. The authors state that prior work had not empirically tested the full set of proposed curvilinear relationships among these determinants and loyalty intentions in relational exchanges.",
+  "research_question": "How do transaction-specific satisfaction, relational trust, and relational value differentially influence loyalty intentions through curvilinear mechanisms in ongoing relational exchanges? The study also asks whether these effects remain when determinants are modeled simultaneously and measurement, common method, and response-style error sources are accounted for across two service contexts."
+}

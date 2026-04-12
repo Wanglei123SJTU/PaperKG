@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a tuition myopia model in which students psychologically realize college costs before benefits, creating a perceived intertemporal tradeoff in HC-HR vs LC-LR choices despite deferred loan repayment.",
+    "Provides a quantitative model comparison against a rational cash flow benchmark and reports converging evidence from simulations, surveys, and experiments.",
+    "Shows that a decision-aid format that aligns cost and benefit realization after graduation can reduce preference for LC-LR colleges."
+  ],
+  "context": "The paper examines U.S. college choice decisions when students compare pairs of colleges while assuming student loans can cover attendance costs. It uses Department of Education College Scorecard data and participant samples including undergraduates, MTurk adults, a nationally representative Lucid sample, and Prolific adults.",
+  "design_and_data": "The authors scraped College Scorecard data for 498 U.S. colleges (operating in 2016, bachelor's degree granting, enrollment above 5,000), generated 123,753 pairwise comparisons, and focused on 83,250 HC-HR vs LC-LR pairs. They simulated predictions from cash flow and tuition myopia models across these pairs under varied loan rates, repayment horizons, income growth assumptions, and sign-effect configurations. They then ran seven studies: timing-measurement studies (student sample n=388 after exclusions, with direct replications on MTurk n=501 and Lucid n=80), a retrospective MTurk study linking ToAD discount rates to attained education and attended college rank (n=595; 460 matched colleges), and hypothetical-choice experiments varying rthreshold, ROI gaps, cost gaps, information richness, and loan descriptions (analytic samples roughly 84-294). A final Prolific experiment (n=180) manipulated cost display format (annual attendance cost vs annual loan repayment) and measured choices plus perceived employment likelihood.",
+  "focal_constructs": [
+    "tuition myopia",
+    "psychological realization timing",
+    "intertemporal tradeoff",
+    "individual discount rate",
+    "rthreshold",
+    "LC-LR vs HC-HR college choice",
+    "student debt aversion",
+    "decision aid framing"
+  ],
+  "main_findings": [
+    "Participants psychologically realized college costs earlier than both actual loan-payment timing and the realization of returns, while returns were realized around graduation.",
+    "Higher individual discount rates were associated with greater preference for LC-LR options and lower-ranked attended colleges, and LC-LR choice shares increased when pair-level rthreshold was lower.",
+    "ROI maximization, debt aversion alone, and differential uncertainty about employment prospects did not account for the pattern, and presenting annual loan repayment (instead of annual attendance costs) reduced LC-LR choice share (72.25% to 45.38%)."
+  ],
+  "one_line_summary": "Using U.S. college data, simulations, and seven studies, the paper finds that early psychological realization of tuition costs increases choice of lower-cost lower-return colleges and that synchronizing cost-benefit timing in a decision aid reduces this tendency.",
+  "relation_to_prior_work": "extends prior intertemporal-choice research in higher education from the attend-vs-not-attend decision to pairwise choices between colleges under deferred student loans. It challenges explanations based only on rational cash-flow optimization or debt aversion by showing that asynchronous psychological timing of costs and returns predicts choices.",
+  "research_gap": "The paper argues that although agencies provide college cost and earnings metrics, little is known about the psychological decision process students use to weigh those metrics or how information format may bias choices. It also notes that prior intertemporal-choice work has mainly examined whether to attend college, not how students choose between colleges when loans defer actual payments.",
+  "research_question": "Do students psychologically realize the financial costs of college earlier than the financial returns, even when student loans defer actual repayment until after graduation? If so, does this early cost realization create an intertemporal-choice frame that shifts preferences toward LC-LR over HC-HR colleges as a function of discounting, and can alternative information framing attenuate that shift?"
+}

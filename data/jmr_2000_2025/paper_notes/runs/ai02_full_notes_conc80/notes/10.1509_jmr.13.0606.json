@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "Introduces human single-neuron recording to marketing and consumer researchers, with a practical description of how studies are run and analyzed.",
+    "Identifies where prior single-neuron findings can inform marketing topics such as categorization, sensory discrimination, novelty/familiarity, recall, and thought regulation.",
+    "Provides an illustrative application on fear enhancement in communications and uses it to clarify what conclusions single-neuron studies can and cannot support."
+  ],
+  "context": "The empirical illustration is conducted in a hospital setting with epilepsy patients who had intracranial probes implanted for clinical seizure localization. The substantive application is fear appeals in communication, using a spider video and a climate-change video segment from An Inconvenient Truth.",
+  "design_and_data": "Eight patients with pharmacologically intractable epilepsy participated while implanted probes and microwires recorded neural spikes from clinically chosen brain regions. In Stage 1, participants viewed 30-60 emotion-evoking still images (IAPS plus participant-specific images), allowing spike detection/sorting and classification of responsive units; 128 neuron units were detected from 656 microwires, including 33 fear-responsive units. In Stage 2, a within-subject 2 x 2 design crossed video type (spider vs climate change) with instruction (natural viewing vs enhance emotion), with repeated viewings per participant. Analyses compared mean firing rates across conditions using nonparametric tests (mainly Wilcoxon rank-sum).",
+  "focal_constructs": [
+    "single-neuron recording",
+    "neuron firing rates",
+    "fear-responsive neurons",
+    "emotion up-regulation",
+    "fear appeals",
+    "natural vs enhanced viewing"
+  ],
+  "main_findings": [
+    "During natural viewing, fear-responsive neurons fired much more for the spider clip than baseline, while firing for the climate-change clip was near baseline.",
+    "Instructions to enhance emotion significantly increased firing of fear-responsive neurons for the climate-change clip, but not for the spider clip.",
+    "The enhancement-related increase for the climate-change clip was stronger for fear-responsive neurons than for other neurons, and repeated viewings produced only a small change relative to willful regulation."
+  ],
+  "one_line_summary": "This paper introduces single-neuron recording to marketing and shows that participants could voluntarily raise firing in fear-responsive neurons for a low-fear climate-change video but not for an already highly fear-evoking spider video.",
+  "relation_to_prior_work": "introduces human single-neuron evidence to a marketing literature that has primarily used fMRI, EEG, and non-neural measures, and frames the method as complementary when neuron-level specificity and millisecond timing are needed.",
+  "research_gap": "Single-neuron research in humans had been largely absent from marketing despite potential relevance for consumer questions that require very high spatial and temporal neural resolution. The paper also notes that prior single-neuron work had not examined voluntary regulation of emotion at the level of specific emotion-responsive neurons.",
+  "research_question": "How can human single-neuron recording be used to study marketing and consumer behavior, and what are its methodological strengths and limits relative to other approaches? In the illustrative study, can people willfully up-regulate fear while watching videos, and does this depend on whether the stimulus already evokes substantial fear automatically?"
+}

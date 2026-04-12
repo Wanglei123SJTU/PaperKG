@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and demonstrates that incidental exposure to broad versus narrow categorizations creates a mind-set that transfers to subsequent, unrelated decisions.",
+    "It causally links situational category width to information-processing style: broad exposure promotes reliance on fewer salient cues, whereas narrow exposure promotes use and integration of multiple cues, including less salient ones.",
+    "It shows that these mind-set effects influence both consumer outcomes (e.g., new product evaluations) and general decision tendencies (e.g., susceptibility to heuristic bias)."
+  ],
+  "context": "The studies use consumer decision environments where options are externally organized into broad or narrow categories, including shopping assortments, survey-style response formats, and online product pages. Subsequent decisions are in unrelated contexts such as grouping objects, evaluating a wireless-speaker new product, and judging products under diagnostic versus irrelevant information.",
+  "design_and_data": "The article reports six laboratory experiments with undergraduate participants (Ns reported as 68, 96, 95, 120, 103, and 47). Prior exposure to broad versus narrow categorizations was manipulated through three tasks: a personality-response task with broad versus fine-grained response categories, a shopping task with identical options but different category granularity, and an incidental Web-page evaluation task. Dependent tasks included fruit and insect grouping, ambiguous face categorization, new-product evaluation of wireless speakers (with innovation/risk focus manipulations), and a dilution-effect paradigm across computer/apartment/car judgments. Analyses relied mainly on ANOVAs, thought-listing/process measures, and a mediation test, with multiple controls (mood, involvement, difficulty, expertise, completion time).",
+  "focal_constructs": [
+    "broad versus narrow categorizations",
+    "mind-set spillover",
+    "information-processing style",
+    "multidimensional processing",
+    "salient versus nonsalient information use",
+    "new product evaluation",
+    "dilution effect",
+    "conceptual complexity"
+  ],
+  "main_findings": [
+    "Participants previously exposed to narrow categorizations created more and smaller groups in subsequent unrelated sorting tasks, whereas broad-exposure participants created fewer and larger groups.",
+    "In new-product evaluations, broad-exposure participants relied more on the currently salient dimension (innovation or risk), while narrow-exposure participants incorporated both salient and less salient dimensions; accordingly, attitudes shifted more with salience manipulations in the broad condition.",
+    "In the dilution-effect task, broad-exposure participants showed significant dilution, but narrow-exposure participants did not, and these differences were not accompanied by higher time, effort, or involvement in the narrow condition."
+  ],
+  "one_line_summary": "Across six experiments, the paper shows that prior exposure to broad versus narrow categorizations creates a transferable mind-set that changes how much and which information consumers use in later unrelated decisions.",
+  "relation_to_prior_work": "extends prior categorization and assortment research by showing effects of category structure beyond the immediate choice context and into subsequent unrelated tasks. It also complements individual-difference category-width work by situationally manipulating category breadth to establish a causal effect on processing complexity.",
+  "research_gap": "Prior research mainly showed that how options are categorized affects decisions within the same context, but did not establish whether category breadth in one task carries over to unrelated later decisions. The authors also note that a causal link between exposure to narrow versus broad categories and multidimensional information processing had not been directly demonstrated.",
+  "research_question": "How does exposure to broad versus narrow external categorizations in one decision context affect information processing and judgments in subsequent, unrelated contexts? Specifically, does broad exposure cue reliance on fewer salient dimensions while narrow exposure cues multidimensional processing that includes less salient information, and do these shifts alter product evaluations and susceptibility to heuristics?"
+}

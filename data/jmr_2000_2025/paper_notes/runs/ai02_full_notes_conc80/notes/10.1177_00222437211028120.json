@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Documents the role of advertising in the U.S. television service market and in the growth of satellite entrants.",
+    "Provides empirical evidence on the interaction between scale of entry and cost efficiencies in television advertising.",
+    "Applies a variant of the border strategy to cable markets that span DMA borders and discusses its advantages and potential identification threats."
+  ],
+  "context": "The study examines the U.S. pay television market in 2004-2010, where local cable operators competed with national satellite operators such as DirecTV and Dish Network. It leverages the mismatch between cable-market and DMA boundaries in television advertising exposure.",
+  "design_and_data": "The authors merge Nielsen Ad Intel TV advertising data (occurrences, spend, viewership, national/local channel; 2004-2010) with Forrester Technographics household survey data on operator-level subscriptions and demographics (2006-2010, interpreted as 2005-2009 choices). For demand, they estimate a household discrete-choice model with state dependence and operator-cable market-year fixed effects, identified using border cable markets that span multiple DMAs; the estimation sample includes 3,076 households (16,928 choice observations) across 51 cable markets. For supply-side evidence, they analyze advertising changes around the Adelphia-Comcast-Time Warner transactions using fixed-effects regressions. They also use variation in political advertising intensity across DMA-months as a cost shifter to study substitution between local and national advertising.",
+  "focal_constructs": [
+    "television advertising",
+    "advertising elasticity of demand",
+    "state dependence and switching costs",
+    "national versus local advertising",
+    "market coverage",
+    "advertising cost efficiencies",
+    "border cable market strategy",
+    "entry scale of satellite operators"
+  ],
+  "main_findings": [
+    "Television advertising is a positive and statistically significant utility shifter in household pay-TV choice, indicating advertising-elastic demand despite strong state dependence.",
+    "Estimated own-ad elasticities are larger for satellite operators than for cable operators (about .05-.06 for satellite versus about .02 for cable), and evidence indicates national advertising has a larger effect than local advertising.",
+    "Supply-side analyses provide suggestive evidence that advertising decisions reflect coverage and cost conditions: local ads rise where cable coverage expanded after the Adelphia transactions and fall where coverage shrank, and higher political-ad pressure is associated with substitution from local toward national ads, especially for satellite operators."
+  ],
+  "one_line_summary": "Using U.S. household subscription and advertising data, the paper finds advertising-elastic pay-TV demand and presents suggestive evidence that satellite entrants benefited disproportionately from cheaper national TV advertising given their national coverage.",
+  "relation_to_prior_work": "extends prior pay-TV research that focused on prices, quality, welfare, and switching costs by analyzing advertising as part of the entry and competition process. extends advertising scale-economy work, typically framed as national incumbents versus local entrants, to a setting with national entrants and local incumbents. introduces a cable-market-based border design in the advertising-effects literature.",
+  "research_gap": "Despite substantial television ad spending by pay-TV operators, prior studies of this market largely focused on pricing, quality, welfare, and switching costs rather than advertising's role in entry success. The paper also highlights limited empirical evidence on advertising scale economies in settings where entrants operate nationally while incumbents are local.",
+  "research_question": "Does television advertising causally influence U.S. households' pay-TV subscription choices in a market with strong state dependence? Do differences in geographic coverage and in national-versus-local advertising costs create a supply-side advertising advantage for satellite entrants over cable incumbents?"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper explicitly positions itself in a niche with “relatively few quantitative models” that jointly model behavior and timing, and the cited paper is itself an integrated Bayesian model that jointly explains whether/who/when/how much bidding with a time component. Given this strong methodological overlap (joint latent-process modeling of event outcome + timing in marketing) and a confirmed DOI-level reference match, this does not look like an obvious incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

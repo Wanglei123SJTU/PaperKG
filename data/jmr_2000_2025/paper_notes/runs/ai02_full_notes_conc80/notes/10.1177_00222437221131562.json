@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Extends app and service monetization research to an ad-free context where revenue must come from user payments rather than advertising.",
+    "Shows the joint role of pricing strategy (hard vs. soft landing) and product design (exclusive secondary offerings), including a positive interaction in subscriptions.",
+    "Provides actionable guidance for app managers and reports implementation evidence from the focal firm after adopting the best-performing strategy."
+  ],
+  "context": "The paper studies a Chinese ad-free mobile education app that provides e-reading content to K-12 students and transitioned from a fully free service to a paid subscription model. The focus is monetizing existing users during this transition.",
+  "design_and_data": "The authors ran a large randomized field experiment with about 1.9 million existing users across 99 Chinese cities, with city-level random assignment in a 2x2 design: hard vs. soft landing (limited free content) and ESO vs. no ESO, over 80 days. They estimate subscription choice models with city-clustered errors and conduct heterogeneity analysis using generalized random forests. A second randomized field experiment on the same app used about 1.14 million existing users in 72 different cities, varying hard vs. soft landing via a 3-day free voucher and a price-scheme manipulation, over 50 days. Mechanism evidence is supplemented by a firm-run customer survey (889 responses) and a Prolific experiment (984 valid responses).",
+  "focal_constructs": [
+    "ad-free app monetization",
+    "hard-landing paywall",
+    "soft-landing free option",
+    "exclusive secondary offerings",
+    "existing-user subscription conversion",
+    "perceived value of subscription",
+    "perceived exclusivity",
+    "user churn"
+  ],
+  "main_findings": [
+    "Soft landing decreases existing users' subscription likelihood relative to hard landing in both field experiments.",
+    "Exclusive secondary offerings have a negative main effect on subscription, but their interaction with soft landing is positive, partially mitigating soft landing's negative effect.",
+    "In the second experiment, a lower introductory price (1 CNY for 14 days vs. 7 days) increases conversion, and the negative soft-landing effect remains."
+  ],
+  "one_line_summary": "Using two large randomized field experiments on an ad-free K-12 reading app, the paper finds hard landing outperforms soft landing for converting existing free users, ESO hurts conversion on average, and ESO is less harmful under soft landing due to interaction effects.",
+  "relation_to_prior_work": "extends prior online content monetization research from ad-based and freemium settings to ad-free apps transitioning from fully free to paid, with a specific focus on existing-user conversion. It also provides causal evidence via randomized field experiments, addressing limits of observational app-store studies emphasized in prior work.",
+  "research_gap": "Prior marketing research on monetization mainly studies ad-based or freemium contexts and often emphasizes new-user adoption rather than converting existing users after a free-to-paid switch. The literature and managerial beliefs offered conflicting predictions about hard vs. soft landing and the role of exclusive secondary offerings, leaving no clear guidance in ad-free settings.",
+  "research_question": "How does a hard- versus soft-landing monetization policy affect existing users' conversion when an ad-free app moves from free to paid service? What is the effect of offering exclusive secondary offerings to paying users, and how does ESO interact with soft landing in shaping conversion?"
+}

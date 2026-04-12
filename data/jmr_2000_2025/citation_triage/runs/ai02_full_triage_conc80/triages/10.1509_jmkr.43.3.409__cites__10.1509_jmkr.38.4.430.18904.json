@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s note explicitly states it “adopts the Bayesian perspective of Sandor and Wedel” while extending the design framework to compare DB/AB/GB/VB criteria and changing the search algorithm, which indicates direct methodological dependence rather than a generic mention. The cited paper is a core Bayesian conjoint design method paper (DB-error with prior uncertainty and design-search heuristics), making it plausibly foundational to the citing study’s approach.",
+  "triage_decision": "keep_for_relation_judgment"
+}

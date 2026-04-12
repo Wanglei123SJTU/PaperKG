@@ -1,0 +1,4 @@
+{
+  "rationale": "Keep this pair because the citing paper explicitly tests debiasing interventions (especially piecemeal decomposition versus disclosure/incentives), and the cited paper’s core contribution is about analytic vs. nonanalytic judgment and when decomposition can/cannot debias forecasts. That construct-level overlap suggests the citation may be a substantive theory/mechanism source rather than a purely incidental mention, despite only one DOI-level match in the reference metadata.",
+  "triage_decision": "keep_for_relation_judgment"
+}

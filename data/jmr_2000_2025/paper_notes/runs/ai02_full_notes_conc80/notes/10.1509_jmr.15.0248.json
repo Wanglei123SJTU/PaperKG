@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces endorsement styles in word of mouth, distinguishing implicit endorsements (e.g., \"I liked it\") from explicit endorsements (e.g., \"I recommend it\"), and shows that these styles differ in persuasive impact.",
+    "It identifies two mechanisms for why explicit endorsements are more persuasive: recipients infer that the sender likes the product more and has greater domain expertise.",
+    "It contributes to consumer knowledge research by proposing a social facet of knowledge: awareness of preference heterogeneity, and showing that lower-knowledge consumers are more likely to use explicit endorsements because they are less aware that tastes differ across people."
+  ],
+  "context": "The paper studies consumer-to-consumer word of mouth across online and interpersonal settings, including online book reviews and scenarios involving hotels, restaurants, and wine. The focus is on situations where endorsement language is observed and explicit source-credential cues may be limited.",
+  "design_and_data": "Five studies combine field text analysis and experiments. Study 1 analyzes 1,421 English book reviews (from a random sample of 1,500 reviews) from a large North American online retailer, with endorsement language coded from review text and reviewer purchase history used as category experience. Study 2 is an MTurk experiment (N = 604) that measures category expertise and manipulates attention to preference heterogeneity (and self-enhancement), then observes explicit versus implicit endorsement choice. Study 3 (undergraduates, N = 143) manipulates endorsement style to test persuasion and mediation by perceived expertise and perceived sender attitude, and Studies 4-5 use a yoked MTurk wine-choice design (N = 264 and N = 407, with replications) linking sender knowledge, endorsement style, and recipient choice outcomes.",
+  "focal_constructs": [
+    "word of mouth",
+    "endorsement style",
+    "explicit endorsements",
+    "implicit endorsements",
+    "persuasion",
+    "consumer knowledge",
+    "preference heterogeneity",
+    "perceived source expertise"
+  ],
+  "main_findings": [
+    "Explicit endorsements are more persuasive than implicit endorsements and no-endorsement baselines, increasing expected liking and choice likelihood.",
+    "The persuasive advantage of explicit endorsements is mediated by higher perceived sender expertise and stronger inferred sender liking of the product.",
+    "Lower-knowledge consumers are more likely to use explicit endorsements because they are less aware of preference heterogeneity, and in a yoked choice setting this pattern can increase recipients' selection of inferior options."
+  ],
+  "one_line_summary": "Across five studies, the paper shows that explicit endorsement language (\"I recommend it\") is more persuasive than implicit language (\"I liked it\"), even though novices are more likely than experts to use explicit endorsements.",
+  "relation_to_prior_work": "extends prior word-of-mouth research that often treats positive WOM as homogeneous by showing that endorsement wording itself changes persuasion. It also extends source-credibility work by showing that linguistic form can cue expertise and adds a social-awareness component to consumer knowledge research.",
+  "research_gap": "The paper argues that prior work has paid limited attention to how positive word-of-mouth opinions are linguistically expressed, often treating all positive WOM as equivalent. It also highlights an unresolved issue of whether consumer knowledge affects endorsement language through awareness of others' heterogeneous preferences.",
+  "research_question": "How does the language used in word of mouth, especially explicit versus implicit endorsement style, shape persuasive impact? Which consumers are more likely to use each style, and what process explains those usage differences?"
+}

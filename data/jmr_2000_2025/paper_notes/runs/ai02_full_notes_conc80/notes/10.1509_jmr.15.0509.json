@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper claims to reconcile competing prior findings about whether positive or negative deviations from performance norms are more effective at motivating prosocial behavior.",
+    "It claims to extend donor identity and descriptive norm research by identifying self-construal as a specific donor-identity facet that shapes responses to norm deviations.",
+    "It claims that norm deviations imply different regulatory frames (performance/promotion vs need/prevention), which can be used to design more effective charity appeals."
+  ],
+  "context": "The paper is set in charitable giving and prosocial support communications, including workplace giving updates and point-of-sale donation asks. Empirical contexts include appeals for The Mustard Seed, Ronald McDonald House, The Hope Center, and SPCA International.",
+  "design_and_data": "The article reports a pilot and four studies. The pilot (MTurk, N=119) manipulated positive versus negative deviations from a donation norm and measured perceived need and perceived charity performance. Study 1 (MTurk, N=154) used measured self-construal with a norm-deviation manipulation and donation intentions; Study 2 was a field experiment at a music store checkout (606 transactions) manipulating norm deviation and independent/interdependent appeal wording to observe actual donations. Study 3 used a student sample with a behavioral effort donation task (matrix puzzles), measured mediators, and controlled for need for uniqueness; Study 4 (MTurk, N=286) used a 2x2x2 design crossing norm deviation, construal appeal, and promotion/prevention framing on donation intentions.",
+  "focal_constructs": [
+    "performance norm deviations",
+    "charitable donations",
+    "prosocial behavior",
+    "independent self-construal",
+    "interdependent self-construal",
+    "regulatory focus",
+    "perceived need",
+    "perceived charity performance"
+  ],
+  "main_findings": [
+    "Positive norm deviations increased donation intentions/behavior for independent construal consumers, whereas negative norm deviations increased donation intentions/behavior for interdependent construal consumers.",
+    "For independent consumers, the positive-deviation effect was mediated by perceived charity performance; for interdependent consumers, the negative-deviation effect was mediated by perceived need.",
+    "Donation intentions were lowest when neither the implicit cue from norm deviation nor the explicit appeal frame matched the consumer's construal (independent with negative-prevention cues; interdependent with positive-promotion cues)."
+  ],
+  "one_line_summary": "Across four studies, the paper shows that whether positive or negative deviations from charitable performance norms increase giving depends on donor self-construal and corresponding regulatory focus.",
+  "relation_to_prior_work": "extends prior descriptive norm and prosocial behavior research by showing that self-construal determines whether positive versus negative performance-norm deviations motivate donation. It also connects this moderation to promotion versus prevention mechanisms from regulatory focus research.",
+  "research_gap": "Prior work reports conflicting effects of norm deviations in prosocial contexts: positive deviations can increase giving via social proof, while negative deviations can increase giving via perceived need. The paper addresses the unresolved conditions under which each deviation is most effective.",
+  "research_question": "When charities communicate that support is above or below a performance norm, which type of deviation is more effective at increasing prosocial behavior? The paper tests whether donor self-construal (independent vs interdependent) moderates this effect and whether the mechanism operates through performance- versus need-based inferences linked to promotion/prevention focus."
+}

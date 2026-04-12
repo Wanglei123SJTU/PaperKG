@@ -1,0 +1,4 @@
+{
+  "rationale": "The pair shows strong methodological overlap: the citing paper centers on Bayesian segment-level variable selection under heterogeneity, and the cited paper develops hierarchical Bayesian heterogeneous variable selection models with MCMC. The titles and notes both focus on variable selection in heterogeneous marketing models, making this plausibly a substantive prior-method reference rather than an incidental mention. With only DOI-level match evidence (no in-text snippet), it is still safer to retain for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

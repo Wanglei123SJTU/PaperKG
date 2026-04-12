@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in the methods section as a direct precedent for the paper's two-stage estimation strategy. The authors explicitly say they follow Che et al. (2007) and Pancras and Sudhir (2007) when estimating demand first and then moving to supply-side estimation, and they discuss why this limited-information approach is advantageous. This is not just background citation; it supports a core empirical design choice in the study.",
+  "relation_description": "The citing paper applies the two-stage demand-then-supply estimation approach associated with Pancras and Sudhir (2007) to its own nonlinear pricing setting. The cited work serves as a methodological template for the estimation strategy rather than a domain-specific CDI input.",
+  "relation_type": "applies"
+}

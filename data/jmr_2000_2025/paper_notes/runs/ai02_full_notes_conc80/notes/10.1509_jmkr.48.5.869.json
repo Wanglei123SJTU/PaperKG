@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper distinguishes immediate WOM from ongoing WOM and argues that different psychological drivers matter across these time horizons.",
+    "It uses a unique large-scale data set of face-to-face conversations from WOM marketing campaigns across more than 300 products and many categories to study product-level drivers of WOM.",
+    "It provides additional managerial evidence on which campaign giveaways are associated with higher WOM and complements observational results with field and lab causal tests."
+  ],
+  "context": "The paper studies offline, face-to-face WOM generated in BzzAgent campaigns across many consumer product categories (e.g., packaged food, books, household products, personal care). It also includes a U.S. multi-city field experiment in a Boston Market campaign and a controlled lab conversation setting.",
+  "design_and_data": "The main analysis uses BzzAgent campaign data from August 2002 to January 2009, with a stratified sample of 2,000 agents, 335 campaigns, and nearly 11,000 agent-in-campaign observations of reported conversation counts. Product characteristics (interest, environmental cues, public visibility) were coded by independent coders, and WOM was modeled with a multilevel Poisson log-normal hierarchical model, including controls and separate immediate versus ongoing periods (first 3 weeks vs. remaining campaign weeks). A field experiment with 1,687 agents manipulated cue-focused campaign messaging for Boston Market and measured WOM effects with preexisting dinner associations as a moderator. A lab experiment with 120 participants in dyads manipulated visibility and environmental cues during real conversations and coded whether focal products/topics were discussed.",
+  "focal_constructs": [
+    "word of mouth",
+    "immediate WOM",
+    "ongoing WOM",
+    "product interest",
+    "environmental cues",
+    "public visibility",
+    "product accessibility",
+    "promotional giveaways"
+  ],
+  "main_findings": [
+    "Products cued more by the environment and products with higher public visibility receive more WOM overall, and both factors predict more immediate and more ongoing WOM.",
+    "More interesting products receive more immediate WOM but not more ongoing WOM, and they do not receive more overall WOM across the campaign period.",
+    "In campaign data, giving away the full product and giving nonproduct extras are associated with higher WOM, whereas samples and coupons/rebates are not; experiments provide causal support that increasing cues and visibility increases discussion."
+  ],
+  "one_line_summary": "Across observational campaign data plus field and lab experiments, the paper finds that environmental cues and public visibility drive both immediate and sustained WOM, whereas product interestingness mainly boosts only immediate WOM.",
+  "relation_to_prior_work": "extends prior WOM research by shifting focus from consequences and network structure toward product-level psychological drivers of what people talk about. It refines the literature by separating immediate from ongoing WOM and showing that drivers differ across these horizons. It introduces empirical evidence on how different promotional giveaways relate to WOM volume.",
+  "research_gap": "Prior research had emphasized the consequences of WOM and social-network factors, with less empirical attention to product-level causes of WOM. The literature also largely ignored whether drivers differ for immediate versus ongoing WOM and had not tested which common WOM campaign giveaways are linked to more WOM.",
+  "research_question": "Why are some products talked about more than others, both right after first experience and in the weeks and months that follow? Specifically, do product interest, environmental cues, and public visibility differentially drive immediate versus ongoing WOM, and which campaign giveaways are associated with increased WOM?"
+}

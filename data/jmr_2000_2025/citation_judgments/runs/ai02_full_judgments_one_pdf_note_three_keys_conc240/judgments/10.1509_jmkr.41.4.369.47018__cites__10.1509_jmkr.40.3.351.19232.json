@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in the core model-development section, not just in a general literature list. Bradlow et al. state that their imputation probability parameterization is based in part on Ho and Chong (2003) for representing learning and memory decay over time, which feeds directly into their decay-weighted experience-count updating structure. Although the citation is grouped with several related sources, it plays a clear methodological role in motivating how dynamic updating is modeled.",
+  "relation_description": "The citing paper adapts the learning and memory-decay idea referenced from Ho and Chong (2003) to its own conjoint-imputation setting. Specifically, it uses that prior dynamic-updating logic as part of the basis for decay-weighted experience counts in the new model.",
+  "relation_type": "applies"
+}

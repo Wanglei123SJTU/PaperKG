@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper is heavily Bayesian (hierarchical structure, MCMC, random effects), and the cited paper is a marketing Hierarchical Bayes model estimated via MH-within-Gibbs, so it could be a methodological/foundational source rather than an incidental citation. However, the provided evidence includes only a DOI match with no in-text citation context or reference text to show substantive use. Given this sparse evidence, it is not safe to drop as obvious mention-only.",
+  "triage_decision": "uncertain"
+}

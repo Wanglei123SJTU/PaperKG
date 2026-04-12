@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops a formal utility-based duopoly model that incorporates consumers' desire for uniqueness and conformity into conspicuous-goods demand and pricing.",
+    "Models snobbishness and conformism as direct consumption externalities rather than as wealth-signaling behavior, generating different demand implications.",
+    "Derives comparative statics for prices, profits, market shares, and differentiation, and provides laboratory evidence for a key prediction that higher price can increase snob demand."
+  ],
+  "context": "The paper studies conspicuous-goods markets where products provide social value in addition to functional value, with examples such as cars, jewelry, perfumes, and watches. It focuses on competitive pricing when firms try to maintain exclusivity and when consumers differ in uniqueness versus conformity motives.",
+  "design_and_data": "The authors build a two-firm Hotelling duopoly model with two consumer segments: snobs (fraction beta) and conformists (1-beta). Consumer utility includes quality, price, horizontal mismatch, and a social term based on expected total buyers; equilibrium is solved under rational expectations, with explicit conditions for existence and uniqueness and comparative statics for demand, prices, profits, and market shares. They then run a laboratory test of a discrete version of the model with 40 business-school students in two groups of 20, each group containing 10 Type A (snob) and 10 Type B (conformist) buyers over 60 trials. Product 1 price is manipulated between 5 and 7 francs (Product 2 fixed at 6) to test whether higher price raises demand in the snob segment.",
+  "focal_constructs": [
+    "conspicuous-goods pricing",
+    "desire for uniqueness",
+    "desire for conformity",
+    "snob and conformist segments",
+    "consumption externalities",
+    "rational-expectations equilibrium",
+    "quality differentiation",
+    "horizontal product differentiation"
+  ],
+  "main_findings": [
+    "In a duopoly with both snobs and conformists, snob demand can increase with own price under stated parameter conditions, while conformist demand and total demand decrease with own price.",
+    "Greater snobbishness raises equilibrium prices and profits, whereas greater conformism lowers equilibrium prices and profits by intensifying price competition.",
+    "When products differ in quality and consumers value quality similarly, strong snobbishness can make more snobs buy the lower-quality product, and the lab experiment found that raising Product 1's price increased purchases by the snob segment and decreased purchases by the conformist segment."
+  ],
+  "one_line_summary": "The paper develops and experimentally probes a duopoly model of conspicuous consumption showing how uniqueness and conformity motives can invert segment-level demand responses to price and reshape firms' equilibrium prices, profits, and shares.",
+  "relation_to_prior_work": "extends traditional economic consumer-choice and competition models by embedding uniqueness and conformity motives as consumption externalities in utility. It contrasts with wealth-signaling models by not requiring status signaling and by allowing an upward-sloping demand segment for snobs under identifiable conditions. It also connects behavioral evidence on uniqueness and conformity to firm-level pricing outcomes.",
+  "research_gap": "Prior behavioral work documented uniqueness and conformity motives but did not formally analyze their competitive implications for firm pricing and profits. The paper addresses unclear managerial claims about when lower prices can reduce demand, whether exclusivity increases profits, and how functional differentiation affects conspicuous-goods competition.",
+  "research_question": "How do consumers' desire for uniqueness and desire for conformity affect demand, pricing, profits, and market shares in a competitive conspicuous-goods market? In particular, under what conditions can higher price increase demand among uniqueness-seeking consumers, and how do social effects interact with quality and product differentiation in duopoly?"
+}

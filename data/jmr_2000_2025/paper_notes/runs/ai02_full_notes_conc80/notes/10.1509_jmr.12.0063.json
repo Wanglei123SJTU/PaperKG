@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper identifies temporal contiguity cues as a previously unexplored moderator that mitigates the online WOM negativity bias.",
+    "It advances an attribution-based account in which positive reviews are discounted because they are seen as more reviewer-driven, and shows that temporal contiguity cues weaken this discounting.",
+    "It extends temporal contiguity from physical causality judgments to social evaluation of others' information, with implications for managing online reviews."
+  ],
+  "context": "The empirical setting is online consumer reviews, especially Yelp restaurant reviews in five U.S. cities. The authors also test the effects in controlled scenarios using restaurant and cruise reviews.",
+  "design_and_data": "Study 1 analyzes 65,531 Yelp restaurant reviews from 98 highly reviewed restaurants in Atlanta, Chicago, Los Angeles, San Francisco, and New York, with review useful votes as the value outcome and negative binomial models including review, reviewer, and restaurant controls. Temporal contiguity cues were coded with a hand-built text dictionary and automated text parsing validated against hand coding. Studies 2a, 2b, and 3 are 2 x 2 between-subject experiments manipulating review valence and temporal contiguity cue presence (Ns = 73, 69, 98) to measure review value and causal attributions. Study 4 (N = 180) tests choice between a target restaurant and alternatives.",
+  "focal_constructs": [
+    "online word of mouth",
+    "negativity bias",
+    "temporal contiguity cues",
+    "causal attributions",
+    "review valence",
+    "review value (usefulness)",
+    "product vs reviewer attribution",
+    "choice likelihood"
+  ],
+  "main_findings": [
+    "In the Yelp field data, review value declined as reviews became more positive, but this negativity-bias pattern disappeared for reviews containing temporal contiguity cues.",
+    "Across experiments, temporal contiguity cues increased the perceived value of positive reviews but did not significantly increase the value of negative reviews, removing the positive-versus-negative value gap.",
+    "Temporal contiguity cues shifted positive reviews toward product (vs reviewer) attributions, this attribution shift mediated value effects, and cues increased choice of a positively reviewed option while showing no significant parallel effect for negative reviews."
+  ],
+  "one_line_summary": "Using Yelp field data and four experiments, the paper shows that temporal contiguity cues in reviews mitigate the online WOM negativity bias by making positive reviews seem more caused by product experience than by the reviewer.",
+  "relation_to_prior_work": "extends prior WOM and negativity-bias research by showing that temporal contiguity cues can attenuate the stronger impact of negative versus positive reviews. It challenges frequency-based explanations by showing attenuation even in a setting where negative reviews are relatively rare and by linking the effect to attributional shifts.",
+  "research_gap": "Prior research documents negativity bias in WOM but gives limited attention to moderators that can reduce it. The role of temporal contiguity cues and their attributional mechanism in online review evaluation had not been directly tested.",
+  "research_question": "Do cues that a review was written close in time to consumption reduce the usual tendency for negative online reviews to be valued more than positive reviews? If so, does this occur because such cues shift causal attributions from the reviewer to the product experience, and does this change choice outcomes?"
+}

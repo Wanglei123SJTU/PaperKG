@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper demonstrates that screening alternatives can cause neglect of prescreening information and greater reliance on postscreening information in final choice.",
+    "It shows that this screening effect can systematically alter choice shares, so a brand's strength on screening criteria may have limited influence on the final choice.",
+    "It tests potential mechanisms and presents evidence that active categorization of retained alternatives drives the effect more than noncompensatory processing or resource depletion explanations."
+  ],
+  "context": "The paper studies consumer decisions made in a two-stage process where people first screen options to form a consideration set and then make a final choice. The empirical setting is a laboratory brand-choice task using microwave popcorn options described by prescreening and postscreening attributes.",
+  "design_and_data": "The evidence comes from four between-subject lab experiments with undergraduate participants (N = 120, 239, 250, and 272). Participants ranked attribute desirability, viewed six brands on prescreening attributes, and in screening conditions selected three brands for further consideration before final choice after additional attribute information was shown. Stimuli were constructed so prescreening and postscreening performance for focal brands were negatively correlated, and outcomes were primarily brand choice shares, with response time and rating-variance measures in Experiment 4. Later experiments manipulated hedonic dispersion of postscreening attributes, inclusionary versus rejection screening, and the order of rating and screening tasks.",
+  "focal_constructs": [
+    "screening effect",
+    "prescreening information",
+    "postscreening information",
+    "consideration set formation",
+    "active categorization of retained alternatives",
+    "attribute weighting in multistage choice",
+    "inclusionary versus rejection screening"
+  ],
+  "main_findings": [
+    "Participants who screened before choosing were less likely than control participants to choose the brand strongest on prescreening attributes and more likely to choose a brand favored by postscreening attributes.",
+    "Increasing hedonic dispersion in postscreening attributes strengthened the shift toward the postscreening-favored brand in screening conditions but not in non-screening choice conditions.",
+    "The effect appeared with inclusionary screening but was mitigated with rejection screening, and it disappeared when a rating task followed screening; ratings after screening were less dispersed, consistent with categorization-based homogenization of retained options."
+  ],
+  "one_line_summary": "Across four experiments, the paper shows that screening alternatives before choice shifts attention away from prescreening criteria toward later information, changing which brand is chosen and implicating active categorization as the key mechanism.",
+  "relation_to_prior_work": "extends prior research on multistage choice and consideration sets by moving beyond descriptive set-formation questions to show that screening itself shifts attribute emphasis, and by providing evidence for a categorization-based mechanism.",
+  "research_gap": "Prior screening research was mainly descriptive (for example, whether consumers screen and how large consideration sets are) and left unclear whether screening systematically changes later information processing and choice. Existing evidence for a screening effect was suggestive, with limited direct tests of mechanism beyond objective homogeneity accounts.",
+  "research_question": "Does the act of screening alternatives to form a consideration set change how consumers weight prescreening versus postscreening information in final choice? If such a shift occurs, is it due to noncompensatory screening usage or to categorization of retained alternatives?"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s design explicitly includes household-level choice modeling with control functions for price endogeneity, while the cited paper’s core contribution is a method to test/correct endogeneity in panel individual choice (mixed-logit) settings. This strong methodological overlap suggests the citation may be serving as a substantive method/theory source rather than a generic mention. With a confirmed DOI match, it should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

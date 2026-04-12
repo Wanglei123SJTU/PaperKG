@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Identifies content characteristics that predict real-world online virality by combining large-scale field data with controlled experiments.",
+    "Shows that emotion effects on sharing are not explained by valence alone and highlights physiological arousal as a key mechanism.",
+    "Provides actionable guidance for designing viral marketing content and managing social transmission."
+  ],
+  "context": "The core field setting is New York Times online articles and whether they appear on the newspaper's most e-mailed list. The experiments test sharing intentions for marketing-relevant stimuli, including an advertising campaign story and a customer service story.",
+  "design_and_data": "Study 1 analyzes 6,956 New York Times articles that appeared on the home page from August 30 to November 30, 2008, collected by a crawler every 15 minutes; 20% reached the most e-mailed list. Positivity and emotionality were measured with LIWC text analysis, and a random subsample of 2,566 articles was hand-coded for awe, anger, anxiety, sadness, surprise, practical utility, and interest; logistic regressions with day fixed effects included extensive controls (home-page placement/time, print placement, section/topic, author factors, length, and writing complexity). Studies 2a, 2b, and 3 were lab experiments (N=49, N=45, N=47) that manipulated amusement, anger, or sadness in stories and measured sharing likelihood and self-reported activation. Mediation tests examined whether activation accounted for emotion effects on sharing.",
+  "focal_constructs": [
+    "online content virality",
+    "social transmission",
+    "word of mouth",
+    "emotional valence",
+    "physiological arousal",
+    "awe",
+    "anger and anxiety",
+    "sadness"
+  ],
+  "main_findings": [
+    "In the field data, more positive and more emotional content was more likely to make the most e-mailed list, with positive content more viral than negative content overall.",
+    "Specific emotions showed an arousal pattern: awe, anger, and anxiety were positively associated with virality, while sadness was negatively associated, controlling for practical utility, interest, surprise, and placement-related attention drivers.",
+    "In experiments, increasing high-arousal emotions (amusement or anger) increased sharing intentions, increasing sadness decreased sharing intentions, and these effects were mediated by activation."
+  ],
+  "one_line_summary": "Using NYT field data and lab experiments, the paper shows that content is shared more when it evokes high-arousal emotions (including positive awe and negative anger or anxiety), whereas low-arousal sadness reduces sharing.",
+  "relation_to_prior_work": "extends prior word-of-mouth and diffusion research that focused on consequences or network structure by identifying content-level psychological drivers of sharing. It refines valence-based accounts by showing that activation is a central predictor of transmission beyond positivity versus negativity.",
+  "research_gap": "Prior work had documented the impact of word of mouth on outcomes like diffusion and sales, but had paid less attention to what causes people to share specific content. The paper also notes that claims about negative information spreading more than positive had not been rigorously tested for transmission behavior.",
+  "research_question": "Why do some pieces of online content become more viral than others? Specifically, does emotion shape social transmission through valence alone, or do specific emotions and the arousal they induce better predict whether content is shared?"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in the methods argument, not just as a background list item. The citing paper repeatedly references Bruce, Peters, and Naik (2012) as a prior latent-factor identification approach that relies on founder indicators, and then argues that this can overweight selected indicators and bias inference. It introduces sparse Bayesian loadings and nonparametric factors specifically to avoid those restrictions while estimating advertising effects. This is a clear methodological improvement positioning relative to the cited work.",
+  "relation_description": "The citing paper builds on the latent-factor advertising modeling stream represented by Bruce, Peters, and Naik (2012) but replaces its founder-variable identification strategy with sparse, data-driven loadings and nonparametric factor assumptions. It presents this as a more robust identification and estimation approach for linking ad content cues to sales effects.",
+  "relation_type": "refines"
+}

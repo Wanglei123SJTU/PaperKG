@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper formulates retailer category pricing as a multi-objective problem that combines category profit maximization with store-brand share maximization.",
+    "It provides an empirical decomposition of each brand's retail price into wholesale price, demand-implied markup, net side-payment effects, store-traffic effects, and store-brand-objective effects.",
+    "It applies and jointly estimates a random-coefficients logit demand system and retailer pricing equations with aggregate scanner data for a specific category."
+  ],
+  "context": "The study is set in the analgesics category at a single large Midwestern grocery chain in a market dominated by two chains. The analysis is at the brand-chain-week level for major national brands plus the retailer's store brand.",
+  "design_and_data": "The author uses weekly UPC scanner data from about 80 stores, aggregated to chain-level brand series, over 196 weeks (first four years of data) for five analgesic brands: Tylenol, Advil, Bayer, Motrin, and the store brand. Demand is modeled as a random-coefficients logit with an outside good, estimated with Berry/BLP-style inversion and simulation. Demand and pricing equations are estimated jointly by GMM, with price endogeneity addressed using wholesale prices and their interactions as instruments. The pricing side includes observed wholesale prices, unobserved brand-specific net side payments (side payments minus additional retailer costs), a store-brand-share objective weight, and a lagged cumulative store-traffic proxy for retail competition.",
+  "focal_constructs": [
+    "retailer pricing behavior",
+    "category profit maximization",
+    "store brand share maximization",
+    "manufacturer wholesale prices",
+    "net side payments",
+    "store traffic and retail competition",
+    "random coefficients logit demand"
+  ],
+  "main_findings": [
+    "Estimated net side-payment effects are positive for all four national brands, indicating that side payments exceed additional variable retailer costs and are reflected in lower retail prices.",
+    "The retailer assigns a significant weight to store-brand share, and this leads to store-brand pricing below the level implied by pure category profit maximization.",
+    "Store traffic as a competition proxy affects pricing for some brands, with lower traffic associated with lower subsequent prices for Tylenol."
+  ],
+  "one_line_summary": "Using chain-level analgesics data and a joint demand-supply model, the paper finds that retail prices are shaped by net manufacturer side payments, store-brand share objectives, and store-traffic-driven competitive responses.",
+  "relation_to_prior_work": "extends prior empirical retailer-pricing work by jointly incorporating manufacturer-side terms and retail-competition effects instead of analyzing only one driver at a time. It also extends category pricing models by estimating store-brand share objectives and unobserved net side payments within the same empirical framework.",
+  "research_gap": "The paper argues that most empirical retailer-pricing studies do not simultaneously account for both manufacturer-side influences (including unobserved payments beyond standard promotions) and retail competition in explaining observed prices. It also addresses the lack of empirical treatment of retailer store-brand-specific objectives within category pricing behavior.",
+  "research_question": "How much of observed brand-level retail pricing within a category can be explained by three forces: manufacturer-related net side payments/costs, retailer store-brand objectives, and retail competition captured through store traffic? The paper also asks whether retail prices can be decomposed into wholesale cost, markup, side-payment, competition, and store-brand-objective components in an estimable framework."
+}

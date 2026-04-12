@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper explicitly states that its core latent class regression with variable selection setup (its Equations 1-3) comes from Kim, Fong, and DeSarbo (2012). It then defines its own contribution as a modification of that model: replacing independent word selection with an Ising-prior group selection structure to capture co-occurring words/topics in text reviews. The cited paper is also used as a central benchmark in both simulation and Yelp applications, with detailed comparative discussion of strengths and limitations. This is a direct methodological build-on, not a passing literature-list mention.",
+  "relation_description": "The citing paper extends Kim, Fong, and DeSarbo (2012)'s segment-level variable-selection latent class regression by adding dependence-aware group variable selection (Ising prior) for topic-level word structures in unstructured text. It keeps the base segmentation-regression framework while augmenting it for topic interpretability and heterogeneous text-driver discovery.",
+  "relation_type": "extends"
+}

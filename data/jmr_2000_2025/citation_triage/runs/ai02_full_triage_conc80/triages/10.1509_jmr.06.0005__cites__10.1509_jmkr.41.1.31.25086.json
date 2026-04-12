@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s core model (Erlang interpurchase + Markov card-use process for SOW under incomplete information) is quite different from the cited paper’s winback/SLTV split-hazard framework, and no direct methodological dependence is shown in the provided notes. However, the citing paper explicitly positions a lifetime-value extension (LT(C)V), where the cited SLTV work could plausibly be a conceptual/foundational reference; with only a DOI-level match and no in-text citation context, this is not safe to drop.",
+  "triage_decision": "uncertain"
+}

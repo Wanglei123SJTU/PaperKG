@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the measures section, the citation is discussed in a dedicated methodological paragraph rather than a generic literature list. The authors explicitly use Irwin and McClelland (2003) on the consequences of dichotomization (e.g., median splits, multiple dichotomized predictors, distributional conditions) to justify how they code a key explanatory variable. This citation therefore informs their empirical specification and interpretation of potential power/significance effects.",
+  "relation_description": "The citing paper applies Irwin and McClelland (2003) as methodological guidance when choosing to dichotomize its unconstrained mix-and-match variable. It uses the cited paper's boundary conditions to argue why the expected harms are more limited in its setting and pairs this choice with robustness checks using the continuous measure.",
+  "relation_type": "applies"
+}

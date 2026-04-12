@@ -1,0 +1,6 @@
+{
+  "citation_substance": "mention_only",
+  "rationale": "The cited paper is used once in a grouped citation to illustrate prior churn-propensity modeling methods, specifically that bagging and boosting had been used in churn prediction research. In this citing paper, that role is broad background for the literature history and problem setup. The article does not build directly on Lemmens and Croux (2006) in its core method, hypotheses, or empirical design, which center on uplift-based targeting and field-experiment treatment heterogeneity.",
+  "relation_description": null,
+  "relation_type": null
+}

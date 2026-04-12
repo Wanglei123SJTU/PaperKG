@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper isolates and compares psychologically equivalent retirement wealth information formats (lump sums vs lifetime monthly income) to test format-dependent sensitivity.",
+    "It documents an illusion-of-wealth pattern and its reversal across wealth levels under the market conditions studied.",
+    "It shows that information format affects not only perceived retirement adequacy but also intentions to change saving rates, with implications for retirement policy disclosures."
+  ],
+  "context": "The paper studies retirement decision making in the context of U.S. 401(k) communication and policy debate over lifetime income disclosure. Participants evaluate hypothetical retirement resources shown either as total balances (lump sums) or equivalent monthly income for life.",
+  "design_and_data": "The authors run three experiments. Study 1 uses Amazon Mechanical Turk adults (N = 310; N = 278 analyzed after excluding nonmonotonic responders) in a 2 (format: lump sum vs annuity) x 7 (wealth level) mixed design, with adequacy ratings on a 7-point scale. Study 2 uses a national online panel of middle-aged adults (N = 960; ages 45-64; household income $40,000-$150,000) in a 2 x 4 between-subjects design with an attention check, measuring adequacy on a 7-point scale. Study 3 uses a similar national panel sample (N = 959 analyzed) in the same 2 x 4 between-subjects structure, measuring intended change in savings rate on a 5-point scale; annuity equivalents are based on calculator rates in Study 1 and a lump-sum/200 approximation in Studies 2-3.",
+  "focal_constructs": [
+    "information architecture",
+    "retirement wealth presentation format",
+    "lump sum vs monthly annuity equivalents",
+    "perceived adequacy for retirement",
+    "format-dependent sensitivity to wealth changes",
+    "illusion of wealth and its reversal",
+    "saving intentions"
+  ],
+  "main_findings": [
+    "Across studies, responses were more sensitive to wealth changes when amounts were presented as monthly income than as lump sums, with significant format-by-wealth interactions in regressions.",
+    "At lower wealth levels, equivalent lump sums were judged more adequate than monthly amounts, but this pattern reversed at higher wealth levels.",
+    "Format influenced intended saving behavior: monthly framing produced higher intentions to increase saving at low wealth levels and lower intentions at high wealth levels relative to lump-sum framing."
+  ],
+  "one_line_summary": "Across three experiments on retirement scenarios, monthly-income framing produced steeper adequacy and saving-intention responses than equivalent lump-sum framing, generating an illusion of wealth at lower amounts and a reversal at higher amounts.",
+  "relation_to_prior_work": "extends prior retirement disclosure research, including studies that added income projections to account balances, by experimentally isolating lump-sum and monthly formats and testing differential sensitivity and behavioral intentions.",
+  "research_gap": "Prior evidence suggested that adding projected monthly income can raise saving, but did not cleanly isolate the psychological effects of lump-sum versus monthly formats. The paper also identifies uncertainty about whether an illusion-of-wealth pattern and its reversal occur under current annuity market conditions and whether such effects influence saving intentions.",
+  "research_question": "Are people more or less sensitive to changes in retirement wealth when it is presented as a lump sum versus an equivalent monthly income stream for life? Do these format effects produce an illusion of wealth at lower levels and a reversal at higher levels, and do they affect intentions to save more for retirement?"
+}

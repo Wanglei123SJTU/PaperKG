@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper appears methodologically and substantively close: it develops a dynamic advertising response state-space/Kalman framework with carryover and model comparison, while the citing paper also builds a dynamic state-space advertising model with carryover, endogeneity handling, and AICC/holdout evaluation. Given this strong overlap in core modeling approach and constructs (advertising effectiveness dynamics), the citation could be a methodological/foundational source rather than a casual mention. With a precise DOI match, this pair should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

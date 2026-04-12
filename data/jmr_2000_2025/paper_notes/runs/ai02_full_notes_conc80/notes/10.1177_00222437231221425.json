@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Sets out a three-part editorial agenda for JMR: encourage integrative problem-driven research, promote triangulation across methods and data sources, and strengthen research transparency.",
+    "Introduces implementation details of JMR's Research Transparency Policy, including Dataverse submission requirements and alternative disclosure plans when raw data cannot be shared.",
+    "Positions JMR's cross-domain scope and reviewer expertise as a mechanism to deliver both rigor and relevance for marketing stakeholders."
+  ],
+  "context": "Academic marketing research, centered on the Journal of Marketing Research and its behavioral, quantitative, and strategy domains. The editorial discusses implications for stakeholders including academics, firms, consumers, and policy makers.",
+  "design_and_data": "This paper is an editorial and policy essay, not an original empirical study. It synthesizes prior JMR editorials and descriptive evidence about JMR publications (e.g., about one-third of 2013-2019 JMR articles used multiple methods) and uses examples from articles in the same issue. It also specifies operational elements of JMR's July 2023 Research Transparency Policy, including conditional-acceptance uploads of stimuli, data, and code to JMR's Dataverse, with approved alternatives when confidentiality prevents raw-data sharing.",
+  "focal_constructs": [
+    "problem-driven research",
+    "marketing stakeholders",
+    "cross-domain integration",
+    "triangulation across methods",
+    "multiple data sources",
+    "research transparency policy",
+    "rigor and relevance"
+  ],
+  "main_findings": [
+    "The editorial concludes that triangulating across methods and data sources improves credibility because single methods have inherent limitations (e.g., endogeneity in observational data and external-validity limits in experiments).",
+    "It concludes that JMR can better serve marketing stakeholders by encouraging integrative, cross-domain research on substantive marketing problems.",
+    "It reports that JMR's Research Transparency Policy requires materials for replication and validation at conditional acceptance, while allowing confidentiality-sensitive alternative disclosure plans."
+  ],
+  "one_line_summary": "This editorial proposes that JMR can leverage new data and tools while managing credibility risks by emphasizing problem-driven cross-domain research, multi-method triangulation, and stricter transparency practices.",
+  "relation_to_prior_work": "extends prior JMR discussions of rigor, relevance, and publishing credibility by formalizing a three-path agenda and detailing a transparency policy designed to align closely with the Journal of Marketing.",
+  "research_gap": "The editorial argues that despite rapid growth in data, tools, and new research contexts, marketing research faces credibility risks from siloed expertise, weak links between theory and practice, and rising retractions. It identifies a need for journal-level practices that simultaneously improve reliability and stakeholder relevance.",
+  "research_question": "How can JMR and the marketing field leverage new data, analytical tools, and novel contexts while reducing credibility risks? The paper asks what editorial priorities and policies can help produce research that is both rigorous and relevant to marketing stakeholders."
+}

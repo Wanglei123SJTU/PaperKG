@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces a probabilistic hybrid choice model in which consumers can process attributes in either an actual value mode (AVM) or an ordered value mode (OVM), with a consumer-specific propensity to use AVM.",
+    "Develops two panel-data likelihood formulations for this hybrid process, a time-invariant version and a time-varying version, and estimates them with a hierarchical Bayes MCMC approach.",
+    "Shows that incorporating ordered value processing improves model performance relative to single-mode AVM or OVM specifications in real purchase data."
+  ],
+  "context": "The empirical setting is supermarket bacon brand choice from an IRI scanner panel in one Midwestern U.S. city over two years. Choices are among three leading brands (Oscar Mayer, Wilson Corn King, Lazy Maple) in 16-ounce packages.",
+  "design_and_data": "The authors analyze 252 households making 2,950 purchase occasions, restricted to three major bacon brands and the 16-ounce size. Utility includes brand dummies, price, feature advertising, and display indicators. They estimate four models: AVM-only, OVM-only, hybrid with time-invariant mode membership, and hybrid with time-varying mode switching. Estimation uses hierarchical Bayes with Gaussian heterogeneity in WinBUGS MCMC, and model comparison is based mainly on DIC (with BIC yielding the same ranking).",
+  "focal_constructs": [
+    "actual value mode (AVM)",
+    "ordered value mode (OVM)",
+    "hybrid probabilistic choice model",
+    "attribute value ordering",
+    "decision mode propensity",
+    "brand choice probabilities",
+    "context-dependent utility"
+  ],
+  "main_findings": [
+    "The time-varying hybrid model fits best (DIC 1736.1), followed by the time-invariant hybrid model (1800.4), with OVM-only (1848.8) outperforming AVM-only (1900.1).",
+    "Estimated prevalence measures indicate substantial ordered-value processing: about 62.2% of purchase occasions are OVM in the time-varying interpretation, and OVM dominates in about 55.8% of households in the time-invariant interpretation.",
+    "Predicted price-share curves from hybrid models show discontinuities when Brand 3's price crosses competitors' prices, while still allowing nonzero response to order-preserving price changes."
+  ],
+  "one_line_summary": "Using supermarket scanner panel data, the paper proposes and estimates a hybrid brand-choice model that combines actual-value and ordered-value processing and finds that this hybrid, especially the time-varying version, predicts choices better than AVM-only or OVM-only models.",
+  "relation_to_prior_work": "extends econometric choice modeling by incorporating ordered-value processing directly alongside standard actual-value utility in one estimable framework. It operationalizes behavioral decision ideas about constructed, context-dependent preferences and is consistent with prior comparative-information work cited by the authors.",
+  "research_gap": "Traditional multinomial choice models largely assume consumers respond to actual attribute magnitudes, while behavioral evidence indicates heavy use of relative order information. The paper addresses the lack of an econometric panel-choice model that jointly represents both processing types and quantifies their prevalence in real market data.",
+  "research_question": "Do consumers' brand choices reflect only actual attribute values, only ordered attribute values, or a mixture of both? Can a hybrid model that allows AVM and OVM decision modes predict scanner-panel choices better than single-mode models, and how prevalent is ordered-value processing in this setting?"
+}

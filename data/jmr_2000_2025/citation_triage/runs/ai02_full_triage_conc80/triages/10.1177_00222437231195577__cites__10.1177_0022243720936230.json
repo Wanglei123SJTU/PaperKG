@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper focuses on Bayesian synthetic control methods, whereas the citing paper’s described contributions and empirical comparisons are about IV-free endogeneity correction (SORE) versus OLS/TSLS/copula-type approaches, with no explicit SCM role in the provided notes. The matched evidence is only a DOI-level reference entry without in-text citation context, so the current evidence is too sparse to safely drop as obvious mention-only.",
+  "triage_decision": "uncertain"
+}

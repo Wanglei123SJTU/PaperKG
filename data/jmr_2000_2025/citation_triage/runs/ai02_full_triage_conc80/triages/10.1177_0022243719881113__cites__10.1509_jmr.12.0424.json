@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is highly topically aligned with the citing study: it models social-media sentiment jointly with venue format choice, while the citing paper explicitly analyzes cross-platform differences (Twitter vs. Instagram) and uses sentiment/text features in its engagement models. Given this potential methodological/foundational relevance and only a DOI-level match (no in-text snippet to prove it is incidental), this is not safe to treat as an obvious mention-only citation.",
+  "triage_decision": "keep_for_relation_judgment"
+}

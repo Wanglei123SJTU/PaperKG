@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper formulates a dynamic spatiotemporal advertising model that jointly captures sales dynamics, neighborhood effects, spatial heterogeneity, and spatial and serial dependence while distinguishing national and regional advertising effects.",
+    "It derives closed-form analytical solutions for the profit-maximizing total advertising budget, the national-versus-regional split, and region-level allocations from a multi-state, multi-control HJB problem.",
+    "It develops an estimation and inference approach that extends Baltagi et al. (2007) to this setting and applies it to firm data to diagnose over- and underspending."
+  ],
+  "context": "The empirical application is a leading German cosmetics company in the decorative cosmetics segment, operating across the seven Nielsen regions of Germany. The decision setting is how to allocate spending between national media and region-specific media and across regions.",
+  "design_and_data": "The authors specify a regional sales response system with lagged own sales, lagged neighboring sales, regional advertising, and national advertising, with region-specific parameters and a spatially and serially correlated error structure. They convert the model to continuous time and solve a stochastic control problem via the HJB equation to obtain closed-form optimal spending rules. Empirically, they use proprietary monthly data for 29 months from seven regions plus national spending (about 200 million units sold and 214 million EUR ad spend in total), and estimate parameters with maximum likelihood and instrumental variables to address ad endogeneity. They report in-sample fit and holdout cross-validation and run robustness checks against alternative functional forms and model specifications.",
+  "focal_constructs": [
+    "spatiotemporal advertising model",
+    "optimal advertising budget allocation",
+    "national advertising",
+    "regional advertising",
+    "sales dynamics",
+    "neighborhood effects",
+    "spatial dependence",
+    "serial dependence"
+  ],
+  "main_findings": [
+    "The estimated model fits well (systemwide R2 about 98.45%, holdout R2 about 97.12%-98.06%), and key effects are significant, including a positive neighborhood effect (about 0.1065), positive spatial dependence, and negative serial dependence.",
+    "Relative to actual policy, the optimal monthly total budget is lower (about EUR 5.9M vs EUR 7.9M), and the optimal national share is lower (about 85.9% vs 92.4%), implying a shift toward regional spending.",
+    "Compared with actual profit, BDI-based allocation improves profit by about 0.37%, whereas the proposed approach improves profit by about 5.07% and identifies concrete regional over- and underspending (for example, overspending in Regions 6 and 7 and underspending in Regions 2, 3, 4, and 5)."
+  ],
+  "one_line_summary": "The paper develops and estimates a dynamic spatiotemporal model that yields closed-form optimal total, national, and regional advertising budgets and shows that reallocating a German cosmetics firm's spending could increase profit by about 5.07%.",
+  "relation_to_prior_work": "extends spatial and spatiotemporal marketing work that models regional variation but typically lacks analytical budgeting rules by deriving closed-form optimal advertising allocations in a dynamic multiregion setting. It also extends Baltagi et al. (2007) by adapting estimation to include sales dynamics, neighborhood effects, and spatial heterogeneity alongside spatial and serial dependence.",
+  "research_gap": "The paper states that prior research had not jointly estimated a spatiotemporal advertising model and derived optimal total and regional advertising allocations while accounting for spatial heterogeneity, neighborhood effects, spatial dependence, serial dependence, and sales dynamics. It also notes that normative advertising allocation studies generally ignored spatial effects, while spatial studies generally did not provide closed-form optimal budgeting results.",
+  "research_question": "How should a firm choose the profit-maximizing total advertising budget, the split between national and regional advertising, and the allocation across multiple regions when sales evolve dynamically with spatial interactions and correlated shocks? Can a model that captures these spatiotemporal effects be estimated from market data to produce actionable allocation diagnostics?"
+}

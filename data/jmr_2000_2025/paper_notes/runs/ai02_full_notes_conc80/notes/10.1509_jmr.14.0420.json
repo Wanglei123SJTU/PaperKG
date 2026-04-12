@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper introduces a novel cue-of-the-cloud effect: in offline purchase settings, reminding consumers that product information is online can increase purchase intentions and choice behavior.",
+    "It proposes and supports a process account in which the cue delegates memory-retention responsibility to the Internet, increasing confidence in access to product information and thereby improving purchase responses.",
+    "It identifies boundary conditions showing when the effect appears or reverses, especially information load in the offline environment and whether the cue points to currently available information versus additional online information."
+  ],
+  "context": "The studies examine offline consumer decisions in brick-and-mortar contexts where online information is made salient, including real winery settings and lab purchase scenarios. Empirical contexts include a Canadian wine festival, a Canadian winery retail store, and U.S. student lab studies on a sleep-aid product (Sleep Sheets).",
+  "design_and_data": "The paper reports four experiments, including two field studies and two lab studies. Study 1 is a 3-condition field experiment at a wine festival (N = 431 analyzed) comparing no cue, cue-of-information-sheet, and cue-of-the-cloud, with purchase intention as the outcome. Study 2 is a lab experiment with undergraduates (N = 164) using a Sleep Sheets scenario and the same three cue conditions; it measures purchase intentions and confidence in information access and tests mediation with PROCESS bootstrapping. Study 3 is a winery field experiment (N = 133 customers; 75 transactions) with a 2 x 2 design crossing cue-of-the-cloud and low vs high information scripts, using actual spending as the key dependent variable; Study 4 is a lab 4 x 2 experiment (N = 251) crossing cue type (no cue, more-info, same-info, unspecified) and information amount, with purchase intentions as the outcome.",
+  "focal_constructs": [
+    "cue-of-the-cloud",
+    "purchase intentions",
+    "offline choice behavior",
+    "confidence in information access",
+    "information amount in the environment",
+    "online versus offline information source cues",
+    "same-information versus additional-information cueing"
+  ],
+  "main_findings": [
+    "A cue-of-the-cloud increased purchase intentions versus no cue in field and lab settings, and in the controlled lab study it also outperformed a cue to an offline information source (printed brochure).",
+    "Confidence in information access partially mediated the effect of cue-of-the-cloud on purchase intentions in Study 2.",
+    "The cue-of-the-cloud benefit depended on context: it appeared under high information load, did not improve outcomes under low information load (with some backfire patterns), and disappeared when the cue emphasized additional online information rather than currently available information."
+  ],
+  "one_line_summary": "Across four studies, the paper shows that reminding offline shoppers that product information is available online can raise purchase intentions and spending under high information load by increasing confidence in access to that information.",
+  "relation_to_prior_work": "extends prior online-offline and Internet cognition research by showing that merely cuing online information can change offline purchases even without website visitation. It links transactive-memory ideas from Internet research to marketing outcomes and identifies a moderator of information-overload effects in purchase contexts.",
+  "research_gap": "Prior work largely focused on showrooming and online channel competition or on cognitive downsides of Internet reliance, leaving unclear how simple in-store reminders of online information affect purchases made offline. The paper also notes limited attention to positive consumer decision consequences of Internet-related transactive memory.",
+  "research_question": "How does an in-store reminder that product information is available online (a cue-of-the-cloud) influence purchase decisions that are made offline? Does the effect operate through increased confidence in access to product information, and is it moderated by information load and by whether the cue references currently available versus additional online information?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a new incentive-aligned upgrading method for eliciting preferences in complex products that combines advantages of self-explicated and conjoint-style approaches.",
+    "Implements a Web-based, one-attribute-at-a-time upgrading procedure with BDM-based willingness-to-pay elicitation so truthful reporting is in participants' interest.",
+    "Shows empirically, in a digital camera application, that the upgrading method yields better predictive performance than the self-explicated benchmark and reveals different preference structure."
+  ],
+  "context": "The empirical application is a Web-based consumer preference study for digital cameras, a complex product category with many attributes and levels. Participants were university students at a major U.S. university.",
+  "design_and_data": "The study uses a within-subject experiment with 88 participants, comparing a self-explicated task and an upgrading task, with task order randomized across four conditions. The product space includes 11 digital-camera attributes and 60 levels; participants also completed two external holdout choice tasks with 17 camera options each (plus a no-purchase option) and a short survey. In upgrading, participants started from a bare-bones camera, selected attributes to upgrade one at a time, and stated WTP for desired levels; random cutoff prices (BDM-style) determined upgrade outcomes, with two mandatory sets and optional extra sets. Upgrading data were estimated with a hierarchical Bayesian logit using paired comparisons, and predictions were evaluated out of sample.",
+  "focal_constructs": [
+    "complex products",
+    "web-based upgrading method",
+    "incentive alignment",
+    "willingness to pay",
+    "Becker-DeGroot-Marschak procedure",
+    "self-explicated method",
+    "hierarchical Bayesian estimation",
+    "out-of-sample predictive validity"
+  ],
+  "main_findings": [
+    "The upgrading method achieved higher out-of-sample prediction accuracy than the self-explicated method in both holdout tasks (42% vs 27% for computer-generated profiles, and 26% vs 19% for Bestbuy.com profiles; naive baseline 6%).",
+    "Modeling upgrading responses with an inequality interpretation produced better predictive performance than an indifference-equality interpretation.",
+    "Compared with self-explicated responses, upgrading-based estimates indicated quantitatively different partworth patterns, including more nonlinear within-attribute preferences for some attributes."
+  ],
+  "one_line_summary": "This paper proposes a Web-based, incentive-aligned upgrading method for complex products and shows in a digital camera experiment that it predicts choices better than the standard self-explicated approach.",
+  "relation_to_prior_work": "extends prior preference-measurement work by addressing the complex-product setting where full conjoint tasks are burdensome and by improving on self-explicated methods that are easy to use but not incentive aligned.",
+  "research_gap": "The paper argues that existing methods leave a gap for complex products: conjoint analysis becomes impractical with many attributes and levels, while the widely used self-explicated method has compositional limitations and lacks incentive alignment. It seeks a method that is realistic, cognitively manageable, and truth-inducing.",
+  "research_question": "Can a Web-based, one-attribute-at-a-time upgrading mechanism with BDM incentives elicit truthful attribute preferences and willingness to pay for complex products? Does this method provide better external predictive validity than the benchmark self-explicated approach?"
+}

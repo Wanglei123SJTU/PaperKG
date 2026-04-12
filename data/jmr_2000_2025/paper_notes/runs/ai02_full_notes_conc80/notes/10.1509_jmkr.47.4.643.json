@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a nonstandard Bayesian shrinkage method for high-dimensional social-network influence inference that pools strength across friend variables within each user rather than across users.",
+    "It provides an ego-centered Poisson framework that estimates both direction and strength of influence on site usage and can reconstruct an influence-based network from longitudinal log-in data.",
+    "It demonstrates that the method identifies influential users considerably better than simpler alternatives, with practical gains for ad targeting and retention planning."
+  ],
+  "context": "The empirical setting is a major anonymous Internet social networking site whose business model relies heavily on user activity and advertising impressions. The study infers influence among friendship-linked members from observed longitudinal log-in behavior.",
+  "design_and_data": "The authors model each user's daily log-ins as Poisson counts with self effects and lagged friend-activity effects, and use a latent-class variable-selection prior so each friend effect can be zero (not influential) or nonzero (influential). Friend covariates are exponentially weighted averages of each friend's lagged log-ins over the previous 7 days, with user-specific smoothing parameters. Field data cover 12 weeks for 330 focal users, their 29,478 friends, and 2,298,779 friends-of-friends (average 2.48 log-ins per day), estimated with MCMC via ego-centered analyses. They compare against benchmark models using DIC and run simulations with a 3x3x3x3 design (81 settings, 20 users per cell), including comparisons to a univariate non-Bayesian alternative.",
+  "focal_constructs": [
+    "user influence on site usage",
+    "daily log-in activity",
+    "ego-centered friend networks",
+    "susceptibility to peer influence",
+    "friend-specific influence probabilities",
+    "Bayesian shrinkage across friends",
+    "Poisson count regression"
+  ],
+  "main_findings": [
+    "The proposed model fit the field data substantially better (DIC 72,863.45) than benchmark models with only self effects (76,613.66) or with all friends forced influential (76,010.93).",
+    "Influence is sparse: on average about 22% of a user's friends (about 10 people) are influential, and for 32% of users adding friend effects does not improve fit over a no-influence benchmark.",
+    "In simulations, the Bayesian approach identified influential friends far better than a univariate non-Bayesian method (about 90% vs 65% correct classification), and model-based top-user targeting captured much more cumulative influence than rankings by friend count or profile views."
+  ],
+  "one_line_summary": "The paper develops and validates an ego-centered Poisson model with within-user Bayesian shrinkage to identify which friends significantly influence each member's social-network log-in activity from longitudinal data.",
+  "relation_to_prior_work": "introduces a Bayesian variable-selection approach for social-network influence settings where each user has a different friend-level predictor set, unlike scanner-panel contexts with common covariates. It extends prior online-community and social-influence research by estimating individual-level peer effects on site usage across many connected users rather than only dyads or aggregated group outcomes.",
+  "research_gap": "Prior online-community studies in marketing had not directly examined peer influence on individual-level site usage, and existing approaches were often survey-based, dyadic, or aggregate-level. Standard Bayesian shrinkage used in panel data was not directly applicable because each user has a different set of friend-level predictors.",
+  "research_question": "How can an SN site infer, from longitudinal daily log-in records, which specific friends in each user's network truly influence that user's activity level and by how much? Can this be done accurately in sparse, high-dimensional settings where each user has many potential friend effects but relatively few time observations?"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s methods note explicitly says it corrects for endogeneity using “a control-function approach with industry-level instruments.” The cited paper’s central contribution is a control-function method for endogeneity, so this is plausibly a direct method source rather than a generic background mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

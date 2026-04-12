@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Adiguzel and Wedel (2008) as a concrete methodological source for its split-questionnaire data collection design to reduce respondent burden. It also cites that work in the modeling section as prior work on imputing missing-by-design data, then states that it extends that approach to an ordinal-data Bayesian factor model. This is more than background listing because the cited paper directly informs how the data are gathered and handled in estimation.",
+  "relation_description": "The citing study adopts the split-questionnaire idea from Adiguzel and Wedel (2008) for its survey design and builds on its missing-data treatment by extending the approach to an ordinal factor-model setting.",
+  "relation_type": "extends"
+}

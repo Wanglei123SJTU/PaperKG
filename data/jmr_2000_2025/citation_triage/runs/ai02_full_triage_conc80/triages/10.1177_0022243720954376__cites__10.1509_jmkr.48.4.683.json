@@ -1,0 +1,4 @@
+{
+  "rationale": "Although the match evidence is only a DOI-level reference (no in-text snippet), the cited paper’s core model (latent evolving states with hidden-state dynamics and multichannel purchase response) closely overlaps with the citing paper’s integrated CTM-HMM framework for latent purchase states, channel visits, and purchase decisions. Given this methodological/conceptual alignment, the citation could plausibly be a foundational method or prior dynamic-state benchmark rather than an incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

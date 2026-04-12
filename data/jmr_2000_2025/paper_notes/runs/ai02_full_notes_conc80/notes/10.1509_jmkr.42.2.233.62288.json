@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces a structural panel-data cross-selling model that jointly estimates product positions and household demand maturity to derive sequential purchase patterns for naturally ordered products.",
+    "It provides a behavioral explanation of sequential multi-product adoption by linking purchase decisions to maturity dynamics, competition, overall satisfaction, switching costs, and demographic heterogeneity.",
+    "It demonstrates in a consumer banking application that adding sequential ordering effects improves fit and prediction relative to several plausible benchmark models."
+  ],
+  "context": "The empirical setting is consumer banking at a large Midwestern bank. The study examines household adoption of eight financial services, including checking, savings, debit card, credit card, installment loan, CD, money market, and brokerage.",
+  "design_and_data": "The authors use monthly household-level panel data for 1201 randomly selected households that identified the focal bank as their primary bank, covering July 1997 to June 1998, plus demographics and a preperiod satisfaction survey. They estimate a hierarchical Bayesian multivariate probit model with correlated errors, where latent utility depends on the distance between a product's position and each household's latent financial maturity. Financial maturity is constructed from prior ownership/purchase indicators, cumulative account counts, balances, and holding duration across products. They compare this model against four alternatives (Markov, independent probits, multivariate probit, and multivariate probit plus switching costs) using Bayes factor, DIC, and holdout prediction with mean absolute error and gains charts.",
+  "focal_constructs": [
+    "natural ordering of products",
+    "customer demand maturity",
+    "financial maturity continuum",
+    "cross-selling opportunities",
+    "multivariate probit with correlated utilities",
+    "switching costs",
+    "overall satisfaction with the bank",
+    "household demographic heterogeneity"
+  ],
+  "main_findings": [
+    "The estimated acquisition sequence is checking -> savings -> debit card -> credit card -> installment loan -> CD -> money market -> brokerage.",
+    "Cumulative account ownership, balances, and holding time all positively increase latent financial maturity, and purchase likelihood rises as household maturity gets closer to a product's position.",
+    "The full model with heterogeneity, switching costs, and sequential ordering outperforms benchmark models in fit and holdout prediction, and estimated heterogeneity indicates faster progression for more educated, male-headed, older, and higher-income households, while women and older customers are more sensitive to overall satisfaction."
+  ],
+  "one_line_summary": "Using one year of household banking panel data, the paper estimates a hierarchical Bayesian multivariate probit with latent financial maturity to explain and predict sequential cross-buying of naturally ordered financial products.",
+  "relation_to_prior_work": "extends prior cross-sectional cross-selling models by modeling the time evolution of individual demand maturity in panel data and deriving purchase sequence from that latent state. It also builds on multivariate probit approaches by adding explicit sequential ordering effects and behavioral covariates for competition, satisfaction, switching costs, and heterogeneity.",
+  "research_gap": "Prior work in this area is described as largely cross-sectional, inferring cross-selling opportunities from one-time ownership snapshots and often yielding recommendations close to market-share rankings. The paper argues that this misses the over-time development of individual demand and the behavioral drivers of sequential acquisition.",
+  "research_question": "How does household demand for multiple naturally ordered banking services evolve over time, and how does that evolution determine the sequence of product adoption? Can a panel-data structural multivariate probit with latent demand maturity and household heterogeneity better explain and predict cross-selling opportunities than common alternative models?"
+}

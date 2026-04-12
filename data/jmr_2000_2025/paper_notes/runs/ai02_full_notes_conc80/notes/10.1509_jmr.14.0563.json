@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Identifies a direct-touch effect: using touch interfaces increases selection of affect-laden options over cognitively superior alternatives.",
+    "Proposes and tests a mechanism in which direct touch increases mental product interaction (mental simulation/action affordance) for hedonic options.",
+    "Shows boundary and robustness tests (choice-button proximity, cognitive load, stylus use, and same-device response modes) with implications for digital food ordering and policy."
+  ],
+  "context": "The paper examines consumer choice in digital food-ordering-like settings where pictured options are selected on devices such as iPads, desktops, and a touchscreen laptop. Participants were Hong Kong undergraduates making choices between hedonic and utilitarian alternatives.",
+  "design_and_data": "Five between-subject experiments were run with Hong Kong undergraduates (Study 1 N=85; Study 2 N=228 with 207 analyzed; Study 3 N=124; Study 4 N=132; Study 5 N=202 with 193 analyzed). Studies 1-3 compared iPad finger touch versus desktop mouse input in binary choices between pretested hedonic and utilitarian foods; Study 2 also manipulated choice-button distance (close vs distant) and measured preference and mental product interaction, and Study 3 manipulated cognitive load (2-digit vs 12-digit memory task). Study 4 added an iPad-stylus condition and used a food versus nonfood pair (ice cream vs USB) to test response mode versus interface explanations. Study 5 used one touchscreen laptop with both response modes (finger touch vs mouse click), varied food type (cheesecake vs fruit salad), and tested moderated mediation with mental product interaction and purchase intention.",
+  "focal_constructs": [
+    "direct-touch effect",
+    "touch versus nontouch interfaces",
+    "hedonic versus utilitarian choice",
+    "mental product interaction",
+    "embodied mental simulation",
+    "action affordance",
+    "choice-button proximity",
+    "cognitive load"
+  ],
+  "main_findings": [
+    "Touch input increased hedonic choice/preference relative to nontouch input across studies (e.g., Study 1: cheesecake choice was 95% on iPad vs 73% on desktop).",
+    "The effect depended on congruence between response mode and product-directed action: in Study 2 it appeared when choice buttons were close to product images (83% vs 66%) and disappeared when buttons were distant (63% vs 73%).",
+    "Mediation analyses in Studies 2 and 5 linked the effect to greater mental product interaction for hedonic options, while cognitive-load and interface-confound tests did not support the amount-of-deliberation or inherent-interface accounts."
+  ],
+  "one_line_summary": "Across five experiments, the paper finds that direct-touch interfaces increase hedonic choice versus nontouch interfaces, with evidence that enhanced mental product interaction helps drive the effect.",
+  "relation_to_prior_work": "extends prior interface and consumer-behavior research by moving beyond psychological ownership outcomes to show that response mode shifts hedonic versus utilitarian choice. It also extends embodied mental simulation/action-affordance work from visual depiction manipulations to direct-touch interactions in digital choice contexts.",
+  "research_gap": "The authors state that evidence on how computer interfaces shape consumer choice is limited, especially in marketing contexts. They also note that prior mental simulation research mainly manipulated object depiction/orientation, leaving unclear whether direct-touch response modes alter mental interaction and choices between affective and cognitively superior options.",
+  "research_question": "Do direct-touch interfaces (e.g., iPad finger touch) versus nontouch interfaces (e.g., desktop mouse click) increase consumers' tendency to choose hedonic over utilitarian options? If so, is this driven by stronger mental simulation of interacting with hedonic products, and when is the effect more or less likely to occur?"
+}

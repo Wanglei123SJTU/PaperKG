@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "First, the study introduces item randomized response models to marketing research for socially sensitive measurement contexts.",
+    "It extends prior item randomized response work from dichotomous to polytomous survey items and combines randomized response with graded-response IRT so individual-level latent construct inference is possible while item-level privacy is preserved.",
+    "It proposes a fully explanatory specification with person and item covariates, includes a latent class for respondents who do not follow RR instructions, and provides Bayesian residual-based model-fit checks."
+  ],
+  "context": "The empirical application examines consumer desires for legal adult entertainment products and services in the Netherlands, a stigmatized domain where direct self-reports are likely to be underreported. Data come from a national household panel and compare direct questioning with randomized response questioning.",
+  "design_and_data": "The paper develops a model that combines forced-response randomized response with Samejima's graded-response IRT model for ordinal multi-item responses, estimated with Bayesian MCMC and posterior predictive residual diagnostics. A randomly drawn sample of 1260 CentERdata panel members in the Netherlands was randomly assigned to direct questioning (n=684) or randomized response questioning (n=576). Respondents answered 15 five-point items on adult entertainment desires; the RR group used a die-based protocol with truthful responding probability 4/6 and forced responses otherwise. Analyses included gender, age, and income covariates, and a later wave in the direct-question group measured impression management for comparison with SDR-scale adjustment.",
+  "focal_constructs": [
+    "social desirability responding",
+    "item randomized response",
+    "forced-response randomization",
+    "graded-response item response theory",
+    "latent adult entertainment desire",
+    "instruction noncompliance latent class",
+    "impression management"
+  ],
+  "main_findings": [
+    "Participants in the randomized response condition reported significantly higher latent adult entertainment desire than participants in direct questioning (posterior mean difference 0.507, 95% credible interval excluding 0).",
+    "The model estimated a noncompliance class of about 10% of respondents, and accounting for this class materially changed the estimated direct-versus-RR difference.",
+    "Randomized response altered substantive covariate inferences: women still reported lower desire than men but with a smaller gap under RR, and younger and lower-income groups showed larger upward corrections under RR; in contrast, controlling for an impression-management SDR scale did not significantly change socio-demographic relationships."
+  ],
+  "one_line_summary": "The paper proposes a Bayesian polytomous item randomized response model that preserves item-level anonymity while enabling individual-level latent inference, and shows in a Dutch adult-entertainment survey that it reduces social desirability bias more effectively than direct questioning or SDR-scale adjustment.",
+  "relation_to_prior_work": "introduces item randomized response modeling to marketing and extends prior randomized response and IRT approaches by providing a polytomous, covariate-enabled framework with individual-level latent-trait estimation and explicit handling of noncompliance.",
+  "research_gap": "Existing marketing practice that adjusts for social desirability using dedicated SDR scales is contested and may be weak for domain-specific sensitive surveys. Traditional randomized response methods are mainly aggregate and dichotomous, which limits use with typical polytomous marketing items and prevents individual-level analysis of antecedents and consequences.",
+  "research_question": "Can a polytomous item randomized response model reduce social desirability bias in sensitive marketing surveys while preserving respondent privacy and still allow individual-level inference on a latent construct? In the adult entertainment application, do direct and randomized response formats yield different desire levels and different relationships with gender, age, and income?"
+}

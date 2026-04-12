@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "First empirical quantification of both net unit and net profit impact of promotions from a retailer perspective, explicitly incorporating manufacturer funding and promotional versus regular margins.",
+    "A practical large-scale method to estimate gross lift and decompose it into switching, stockpiling, incremental lift, and cross-category halo for individual promotions.",
+    "Evidence that promotion, brand, category, and store characteristics can have opposite associations with net unit versus net profit impact, implying managerial trade-offs in promotion planning."
+  ],
+  "context": "The study is set in CVS, a leading U.S. drugstore chain using a high-low promotional pricing strategy. It analyzes front-store product promotions across health, beauty, edible, and general merchandise categories.",
+  "design_and_data": "The authors assemble CVS data for 2003 promotions, including weekly item-store POS scanner data, two years of ExtraCare loyalty panel data, and internal financial records on wholesale cost, activity-based costs, margins, and manufacturer funding, plus store demographics and competition data. CVS offered about 36 million promotions in 2003 across 189 categories and 3808 stores; after exclusions and sampling, the promotion-impact analysis uses 12.9 million observations from 177 categories and 1816 stores, and the correlates analysis uses 10.9 million observations in 140 categories. Methodologically, they estimate baseline sales via moving averages, estimate switching and halo with random-coefficients regressions, estimate stockpiling from matched promotional versus nonpromotional panel purchases, and then compute net unit and net profit impact with explicit formulas. They then use a four-level hierarchical model (promotions nested in brands, categories, and stores) to decompose variance and estimate correlates of net impact.",
+  "focal_constructs": [
+    "gross promotional lift",
+    "switching within category",
+    "stockpiling",
+    "incremental lift for the retailer",
+    "halo effect across categories",
+    "net unit impact",
+    "net profit impact",
+    "promotional versus regular margin"
+  ],
+  "main_findings": [
+    "At the median, about 46% of gross lift comes from switching within the store and about 10% from stockpiling, leaving roughly 45% as incremental lift for CVS.",
+    "Promotions have a positive average halo effect: each unit of gross lift is associated with about 0.16 additional units sold elsewhere in the store.",
+    "Although median net unit impact is positive, median net profit impact is negative and more than half of promotions are unprofitable because promotional margins are often substantially below regular margins; deep featured promotions on high consumer-pull brands illustrate this units-versus-profit trade-off."
+  ],
+  "one_line_summary": "Using chain-wide CVS promotion, loyalty, and cost data, the paper decomposes promotion lift and shows that promotions often increase net units but reduce retailer profit because promotional margins are frequently lower than regular margins.",
+  "relation_to_prior_work": "introduces a retailer-focused empirical framework that moves beyond largely manufacturer-centered unit-impact studies by quantifying net profit effects and linking lift decomposition components to promotion, brand, category, and store correlates.",
+  "research_gap": "Prior promotion research is mostly from the manufacturer perspective and focuses on unit effects, while empirical analysis of retailer profit impact has been limited by lack of cost and funding data. The paper addresses the lack of evidence on retailer-level net unit and net profit effects of promotions and their drivers.",
+  "research_question": "How much net unit impact does each retailer promotion generate after decomposing gross lift into switching, stockpiling, and incremental components and accounting for halo effects on other categories? When promotional and regular margins and manufacturer funding are included, what is the net profit impact of each promotion, and how do promotion, brand, category, and store characteristics explain variation in these impacts?"
+}

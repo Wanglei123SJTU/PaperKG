@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a choice-theoretic model in which consumers' priors depend on a multiproduct firm's observable profile, defined by firm image (mean attributes) and precision (inverse variance), creating a new behavioral source of loyalty.",
+    "Shows how profile-based informational loyalty can be distinguished empirically from state dependence and unobserved heterogeneity within one structural framework.",
+    "Provides a parsimonious framework for brand extension and spillover analysis, and shows that omitting firm profiles can bias standard choice-model estimates."
+  ],
+  "context": "The substantive setting is media and entertainment, with empirical analysis in U.S. prime-time television. Products are shows aired by ABC, CBS, NBC, and Fox, and choices include these networks plus nonnetwork viewing and TV-off.",
+  "design_and_data": "The paper develops a structural discrete-choice model with product differentiation, heterogeneous consumers, uncertain product attributes, Bayesian updating from noisy product signals, and priors based on firm profiles. It estimates the model with ACNielsen people-meter panel data from one week in November 1995, observing quarter-hour choices across 60 time slots for East Coast viewers, combined with coded show genre and cast-demographic attributes. The estimation sample includes 1,675 viewers (with 1,556 held out for predictive validation), and estimation uses maximum simulated likelihood with discrete unobserved segments and state-dependence terms.",
+  "focal_constructs": [
+    "multiproduct firm profile",
+    "firm image",
+    "firm precision",
+    "consumer uncertainty about product attributes",
+    "informational attachment",
+    "excess loyalty",
+    "state dependence",
+    "unobserved heterogeneity"
+  ],
+  "main_findings": [
+    "Firm profiles significantly affect product choices; estimated weights imply consumers often rely heavily on network image when forming expected utility.",
+    "The informational source of loyalty is quantitatively more important than loyalty attributed to unobserved heterogeneity in the paper's decomposition exercises.",
+    "The profile-based model fits and predicts better than a benchmark without profile information, and Monte Carlo results show sizeable bias (including about a 40 percent downward bias in a taste parameter) when firm profiles are omitted."
+  ],
+  "one_line_summary": "The paper shows theoretically and empirically that consumers use multiproduct firms' attribute profiles as informational beacons under uncertainty, generating excess loyalty across a firm's products beyond standard state dependence and unobserved heterogeneity.",
+  "relation_to_prior_work": "extends prior branding and choice-model work by shifting from brand signals of unobserved quality to observed nonquality attribute profiles of multiproduct firms. It contrasts with black-box heterogeneity explanations of loyalty by giving a behavioral informational mechanism, while still controlling for state dependence and unobserved heterogeneity.",
+  "research_gap": "Prior work emphasized brand effects through quality signaling or treated excess loyalty largely as unobserved heterogeneity, leaving unclear whether brand names convey information about nonquality attributes in increasingly complex product environments. The paper addresses this by modeling and testing the informational role of observable multiproduct firm profiles.",
+  "research_question": "Do consumers use a multiproduct firm's profile as part of their information set when choosing among uncertain products, and does this generate loyalty to the firm across its products? Can this profile-based informational mechanism be identified separately from state dependence and unobserved heterogeneity in observed choice data?"
+}

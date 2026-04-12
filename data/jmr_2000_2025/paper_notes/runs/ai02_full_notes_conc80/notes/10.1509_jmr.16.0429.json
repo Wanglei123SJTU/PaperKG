@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces a bidimensional measurement approach to perceived investment risk, using prediction distributions (mean and dispersion) and a two-factor risk scale to separate expected performance from uncertainty.",
+    "It shows that sense of understanding what a company does predicts perceived risk but is not related to objective stock risk measures, implying poor ecological validity as a risk cue.",
+    "It demonstrates that this effect is not reducible to familiarity and has causal and behavioral consequences, including portfolio allocations by both novice and seasoned investors."
+  ],
+  "context": "The paper studies consumer judgments about investing in individual company stocks, primarily using S&P 500 firms and company descriptions from Yahoo Finance. Participants include MTurk respondents, undergraduate business students, and members of an online investing community.",
+  "design_and_data": "The authors run five studies. Studies 1-2 use broad company-level data from the S&P 500: participants rate understanding and risk (Study 1) or generate stock-return prediction distributions with a distribution builder (Study 2), and these perceptions are compared with objective measures such as rate of return and CAPM beta. Study 3 (MTurk, N = 100) manipulates familiarity by changing company names while holding profile content constant, then examines prediction means and standard deviations. Study 4 (MTurk, N = 1,000) manipulates understanding by presenting structured versus sentence-shuffled company descriptions and tests mediation with structural equation modeling; Study 5 (N = 334; MTurk plus an investing community sample) uses an incentivized portfolio-construction task for risk-averse versus risk-tolerant clients.",
+  "focal_constructs": [
+    "sense of understanding",
+    "perceived investment risk",
+    "objective investment risk",
+    "prediction distribution dispersion",
+    "prediction distribution central tendency",
+    "familiarity",
+    "epistemic and aleatory uncertainty",
+    "portfolio allocation"
+  ],
+  "main_findings": [
+    "Across correlational studies, higher sense of understanding is associated with lower perceived risk: lower risk ratings and prediction distributions with lower dispersion and higher means.",
+    "Sense of understanding is not associated with objective risk measures (rate of return and CAPM beta) in these data.",
+    "Reducing understanding via unstructured company descriptions increases perceived risk, and understanding differences affect investment behavior, with participants allocating relatively more to hard-to-understand companies for a risk-tolerant client than for a risk-averse client."
+  ],
+  "one_line_summary": "Across five studies, the paper shows that investors use their feeling of understanding what a company does as a cue for lower risk, even though this cue is unrelated to objective stock risk and can misguide portfolio choices.",
+  "relation_to_prior_work": "extends prior work on subjective knowledge in financial decisions by identifying perceived risk as a mechanism and decomposing that mechanism into uncertainty and expected-performance components. It also separates sense of understanding from familiarity-based accounts and from epistemic versus aleatory uncertainty constructs used in earlier risk research.",
+  "research_gap": "Although \"invest in what you know\" is widely promoted and prior research shows subjective knowledge affects financial choices, the literature had not clearly tested whether sense of understanding is used as a cue for investment risk, whether it maps onto distinct risk dimensions, and whether it tracks objective stock risk.",
+  "research_question": "Do consumers use their sense of understanding of what a company does as a cue to judge investment risk? If so, does this cue influence both uncertainty and expected-outcome components of perceived risk, does it reflect objective stock risk, and does it shape downstream portfolio decisions?"
+}

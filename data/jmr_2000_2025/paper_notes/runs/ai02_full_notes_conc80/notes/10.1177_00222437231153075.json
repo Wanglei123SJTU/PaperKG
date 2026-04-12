@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper reconciles inconsistent findings on whether online versus offline shopping increases or decreases brand loyalty by integrating uncertainty avoidance into the channel-loyalty relationship.",
+    "It enriches cross-cultural brand loyalty research by showing that the effect of uncertainty avoidance on loyalty is context dependent and changes across shopping environments.",
+    "It advances the loyalty literature by proposing perceived predictability of product experience as a key antecedent and by identifying intangibility of product value salience as a boundary condition."
+  ],
+  "context": "The paper studies consumer brand loyalty in the shift from offline to online retail shopping. Empirical settings span multiple product categories and markets, including cross-country market-share data and individual consumers in the United States and China.",
+  "design_and_data": "Evidence comes from eight studies that combine secondary data, field studies, and experiments. Study 1a uses Euromonitor data on IKEA online and offline market share (2017) across 38 countries after exclusions, merged with Hofstede cultural scores and GDP controls. Studies 1b-1d use individual-level data from a U.S. grocery field survey (n=331), a Chinese fruit-store quasi-field experiment (n=186), and Chinese fashion shoppers recruited from online and offline channels (n=218). Studies 2-4 use U.S. undergraduate, Prolific, and MTurk experiments (n=415, n=805, n=418, n=707), including a behavioral gift-card choice measure and manipulations of UA, predictability-related factors, and intangibility salience.",
+  "focal_constructs": [
+    "brand loyalty",
+    "online versus offline shopping environment",
+    "uncertainty avoidance",
+    "perceived predictability of product experience",
+    "intangibility of product value",
+    "product information availability",
+    "variability of product performance"
+  ],
+  "main_findings": [
+    "Across studies, uncertainty avoidance moderates channel effects on loyalty: high-UA consumers are more brand loyal online than offline, while low-UA consumers show the opposite tendency.",
+    "Perceived predictability of product experience mediates this interaction; online shopping is perceived as less predictable, which increases staying with prior brands for high-UA consumers but decreases it for low-UA consumers.",
+    "The interaction is attenuated when predictability differences are reduced, including when product performance variability is absent, information availability is high, or intangible product value is salient."
+  ],
+  "one_line_summary": "Across eight studies, the paper finds that online shopping increases brand loyalty for high-uncertainty-avoidance consumers but tends to reduce it for low-uncertainty-avoidance consumers because online product experience is perceived as less predictable, and this interaction weakens when intangible value is salient.",
+  "relation_to_prior_work": "extends prior online-versus-offline loyalty research by identifying perceived predictability of product experience as the key channel distinction and showing that uncertainty avoidance explains why earlier findings were mixed.",
+  "research_gap": "Prior research provides conflicting conclusions about whether online versus offline shopping increases or decreases brand loyalty, and it lacks consensus on the core environmental distinction between these channels. The authors argue that earlier work did not adequately incorporate individual-level differences, especially uncertainty avoidance, to explain heterogeneous responses to channel differences.",
+  "research_question": "How does online versus offline shopping affect brand loyalty, and why are prior findings inconsistent? The paper asks whether uncertainty avoidance moderates channel effects because online shopping offers lower predictability of product experience, and whether this effect is attenuated when intangible product value is salient."
+}

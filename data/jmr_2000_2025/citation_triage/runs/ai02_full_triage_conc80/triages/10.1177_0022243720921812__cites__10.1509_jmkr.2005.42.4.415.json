@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s constructs and methods center on free-shipping effects on risky basket mix, returns, and profit (Tobit Type II, field experiment, survey, lab), with no indication in its note of using RFM/CLV modeling. The cited paper is specifically a Pareto/NBD + gamma-gamma RFM-to-CLV framework with iso-value curves, which does not align with the citing paper’s described design. With only a single DOI match and no citation-context evidence, this looks like a likely background/mention citation rather than substantive use.",
+  "triage_decision": "drop_obvious_mention_only"
+}

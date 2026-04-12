@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces agency theory boundary conditions for myopic reactions to analyst forecasts by distinguishing monitoring costs and bonding costs.",
+    "It brings bonding costs, an agent-side concept, into marketing governance research that has largely emphasized principal-side monitoring costs.",
+    "It adds evidence that unanticipated advertising and R&D cuts affect not only future stock returns but also cash flow levels and volatility and stock return volatility."
+  ],
+  "context": "The study examines publicly traded firms facing quarterly earnings pressures from security analysts. The empirical setting is technology-driven manufacturing industries (SIC 3570-3695) over 2001-2009.",
+  "design_and_data": "The authors build a quarterly panel of 515 firms (about 30 quarters per firm on average) by merging Compustat, I/B/E/S, ExecuComp, SEC filings (10-K, 10-Q, DEF 14-A), Capital IQ, and Kantar Media data. Unanticipated advertising and R&D budgets are constructed as residuals from firm-level budget persistence models with time effects. They estimate an aggregate panel model with firm and time effects and a hierarchical Bayesian model (MCMC in WinBUGS) to obtain firm-specific coefficients and compare fit via DIC. They also estimate a simultaneous system for changes in cash flow level, cash flow volatility, stock returns, and stock return volatility using indicators for episodes where firms meet or beat forecasts while making unanticipated ad/R&D budget cuts.",
+  "focal_constructs": [
+    "analyst earnings forecasts",
+    "unanticipated advertising and R&D budget adjustments",
+    "monitoring costs",
+    "bonding costs",
+    "CEO bonus-versus-equity compensation ratio",
+    "analyst forecast dispersion",
+    "CEO output versus throughput experience",
+    "firm marketing and R&D intensity"
+  ],
+  "main_findings": [
+    "Higher analyst earnings forecasts are associated with unanticipated decreases in both advertising and R&D budgets.",
+    "The forecast effect is stronger when CEO bonus relative to equity compensation is higher and when CEOs have throughput experience, but weaker when CEOs have output experience and when firm marketing and R&D intensity is higher; aggregate moderation by analyst forecast dispersion is not significant.",
+    "Episodes combining forecast beating and unanticipated ad/R&D cuts show short-run improvements but are followed roughly 4-6 quarters later by lower cash flow and stock return levels and higher cash flow and stock return volatility."
+  ],
+  "one_line_summary": "Using quarterly data from 515 technology-oriented manufacturing firms, the paper shows that analyst earnings forecasts can induce unanticipated cuts in advertising and R&D, with the response shaped by agency-theoretic monitoring and bonding costs and with adverse longer-term performance effects.",
+  "relation_to_prior_work": "extends prior marketing and accounting work on real activity manipulation by directly linking analyst forecasts to unanticipated advertising and R&D budget cuts and by identifying agency-based contingencies that govern when managers react myopically.",
+  "research_gap": "Prior studies often inferred advertising and R&D budget manipulation post hoc and did not directly test analyst earnings forecasts as a motivating pressure for those budget changes. The literature also offered limited evidence on boundary conditions, especially agent-side bonding costs, that determine when managers respond to forecast pressure with myopic budget adjustments.",
+  "research_question": "Do quarterly analyst earnings forecasts lead managers to make unanticipated cuts in discretionary advertising and R&D budgets? Under what agency-theoretic conditions related to monitoring costs and bonding costs is this response stronger or weaker, and what are the longer-term consequences for firm cash flows, stock returns, and risk?"
+}

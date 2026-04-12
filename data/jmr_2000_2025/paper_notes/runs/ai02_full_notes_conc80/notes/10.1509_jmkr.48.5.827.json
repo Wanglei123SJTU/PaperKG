@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper orthogonally manipulates simulation type (process vs outcome) and information-processing mode (cognitive vs affective) to isolate their unique effects on product evaluation.",
+    "It proposes and shows a general pattern: under cognitive processing, simulating the naturally underweighted product aspect improves evaluation, whereas under affective processing, simulating the naturally salient aspect improves evaluation.",
+    "It identifies and demonstrates two boundary conditions that reverse effects by shifting attention from usage process to benefits: product type (utilitarian vs hedonic) and temporal frame (near vs distant future)."
+  ],
+  "context": "The studies examine consumer evaluation of products for which people do not have well-formed preferences, using mock advertising and imagination prompts. Stimuli include an AudioPC, a Sony Tablet versus Apple iPad comparison, and a video-editing software package evaluated for near versus distant future use.",
+  "design_and_data": "The paper reports three between-subjects experiments with student samples (Experiment 1: n = 121; Experiment 2: n = 305; Experiment 3: n = 184). Experiment 1 used a 2 x 2 design crossing simulation type (process/outcome) and processing mode (cognitive/affective) for an AudioPC; Experiments 2 and 3 added moderators in 2 x 2 x 2 designs (product type in Experiment 2, temporal frame in Experiment 3). Dependent measures were multi-item product evaluation scales in all studies, with purchase intention also measured in Experiments 1 and 2. Analyses relied on ANOVA interaction tests, with manipulation checks for simulation/mode adherence, product type perceptions, and time-frame perceptions.",
+  "focal_constructs": [
+    "process simulation",
+    "outcome simulation",
+    "cognitive processing mode",
+    "affective processing mode",
+    "product evaluation",
+    "purchase intention",
+    "utilitarian versus hedonic product type",
+    "near versus distant temporal frame"
+  ],
+  "main_findings": [
+    "In Experiment 1, simulation type and processing mode interacted: under cognitive focus, outcome simulation increased evaluations more than process simulation, while under affective focus process simulation was more effective (marginal on evaluation, significant on purchase intention).",
+    "In Experiment 2, the interaction reversed by product type: for the utilitarian Sony Tablet the Experiment 1 pattern replicated, but for the hedonic iPad the opposite pattern emerged (cognitive: process > outcome; affective: outcome > process).",
+    "In Experiment 3, temporal frame produced the same reversal: near-future evaluation replicated the baseline pattern, whereas distant-future evaluation reversed it (with the affective simple effect marginal)."
+  ],
+  "one_line_summary": "Across three experiments, the paper shows that whether process or outcome mental simulation improves evaluation of unfamiliar products depends on cognitive versus affective processing mode and on whether attention is centered on usage process or product benefits.",
+  "relation_to_prior_work": "extends prior mental simulation research by unconfounding simulation type from cognitive versus affective focus and showing that process simulation is not uniformly superior for product evaluation. It also links these effects to salience shifts highlighted in work on product type and temporal construal.",
+  "research_gap": "Prior mental simulation work either confounded process simulation with cognitive focus and outcome simulation with affective focus, or combined cognitive and affective elements within each simulation type. As a result, it did not clearly establish the unique effects of process versus outcome simulation under isolated cognitive versus affective modes, especially for products without well-formed consumer preferences.",
+  "research_question": "How do process versus outcome mental simulations affect evaluations of products for which consumers lack well-formed preferences when processing is cognitive versus affective? The paper also asks when this effect changes, specifically whether shifting consumers' natural focus from usage process to benefits (via hedonic product type or distant-future framing) reverses the pattern."
+}

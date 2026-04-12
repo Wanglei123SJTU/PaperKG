@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and tests a model of alternative persuasive pathways from graphic warning exposure to young smokers' quit thoughts, combining affective (fear), cognitive (negative health beliefs), and smoking-frequency factors.",
+    "It identifies incremental effects of warning graphicness and a graphicness x smoking frequency moderation on quit thoughts beyond mediated pathways.",
+    "It extends evidence from adolescents to a longitudinal young-adult sample, showing broadly similar patterns and policy-relevant attenuation among heavier smokers."
+  ],
+  "context": "The study examines cigarette package health warnings in the U.S. regulatory context of proposed graphic warnings under the Family Smoking Prevention and Tobacco Control Act. The empirical focus is on adolescent and young adult smokers evaluating warnings about addiction, harm to children, and fatal lung disease.",
+  "design_and_data": "A pilot study with 104 adolescent smokers (ages 13-18) rated 27 candidate images to select nine visuals that differed in perceived graphicness and matched three warning themes. Study 1 used 145 adolescent smokers (ages 13-18), randomly assigned to one of nine package warnings, with path analysis of graphicness, smoking frequency (days smoked in past 30 days), evoked fear, negative health beliefs, and quit thoughts plus controls. Study 2 used a longitudinal design with young adult smokers: 240 recruited at Time 1 (238 complete), exposed to the same warning stimuli, and 150 recontacted one week later (Time 2) for negative health beliefs and quit thoughts. Analyses used LISREL path models, invariance checks across warning levels/themes, and tests of direct incremental and interaction effects.",
+  "focal_constructs": [
+    "warning graphicness",
+    "evoked fear",
+    "negative health beliefs about smoking",
+    "thoughts of quitting",
+    "smoking frequency",
+    "graphicness x smoking frequency interaction"
+  ],
+  "main_findings": [
+    "Across both samples, higher perceived graphicness increased evoked fear, while higher smoking frequency reduced evoked fear.",
+    "Graphicness had a positive direct incremental effect on thoughts of quitting beyond fear and negative health beliefs, and the graphicness x smoking frequency interaction was negative, indicating weaker graphic-warning effects for more frequent smokers.",
+    "In adolescents, smoking frequency lowered negative health beliefs and fear increased negative health beliefs, whereas in the young-adult longitudinal model these links to negative health beliefs were not supported even though both fear and negative health beliefs predicted quit thoughts."
+  ],
+  "one_line_summary": "Using adolescent and young adult smoker samples, the paper shows that more graphic cigarette-package warnings increase quit thoughts through fear and direct effects, but these benefits are attenuated among more frequent smokers.",
+  "relation_to_prior_work": "extends prior warning-label and fear-appeal research by modeling both mediated and direct effects of warning graphicness for adolescent smokers and then testing whether the pattern generalizes in a longitudinal young-adult sample.",
+  "research_gap": "Prior research had limited evidence on how adolescent smokers respond to highly graphic cigarette warnings and whether quit thoughts are driven by fear, health beliefs, or both. The paper also addresses uncertainty about whether smoking frequency moderates warning effectiveness and whether adolescent findings hold for young adults with more entrenched smoking patterns.",
+  "research_question": "The paper asks how perceived graphicness of cigarette package warnings affects young smokers' thoughts of quitting. It tests whether graphicness and smoking frequency influence evoked fear and negative health beliefs, whether these in turn predict quit thoughts, and whether graphicness has incremental and smoking-frequency-moderated effects on quit thoughts."
+}

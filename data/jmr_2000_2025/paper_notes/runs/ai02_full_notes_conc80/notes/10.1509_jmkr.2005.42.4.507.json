@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes an ex ante potential-conflict framework for concurrent channel design and specifies five environmental conditions that should shape how much firms use direct and indirect channels simultaneously.",
+    "Using original primary data from prominent B2B manufacturers operating globally, the paper empirically models the extent of concurrent channel usage rather than only a binary make-or-buy channel choice.",
+    "For firms that use concurrent channels, the paper models realized destructive interchannel competition and tests three supplier interventions: differentiated channel offers, order-ownership rules, and double compensation."
+  ],
+  "context": "The study is set in business-to-business manufacturing, where suppliers may use both vertically integrated (direct) and independent (indirect) channels to sell the same product line in the same geography. Data come from large multinational manufacturers across industries such as chemicals, IT, electronics, and industrial components, covering multiple countries and regions.",
+  "design_and_data": "The unit of analysis is the channel decision for a product line by an SBU in a specific territory. The authors use a cross-sectional survey of knowledgeable SBU sales/marketing managers in 11 prominent B2B manufacturers; 115 surveys were returned (76% response rate), and 108 observations were used for the channel-structure model after removing cases with excessive missing data. The main dependent variable is concurrence (derived from degree of integration, i.e., share of sales through integrated channels), estimated with EGLS and checked with a discrete logit adoption model. A second model on destructive competition uses a subset of concurrent-channel users (54 usable observations) and is estimated with OLS.",
+  "focal_constructs": [
+    "concurrent channels",
+    "potential for channel conflict",
+    "market growth",
+    "customer behavior variability across purchase occasions",
+    "group buying",
+    "product standardization",
+    "destructive interchannel competition",
+    "order-ownership rules and double compensation"
+  ],
+  "main_findings": [
+    "Firms use concurrent channels more in higher-growth markets and less when customer behavior varies across occasions, when buyers purchase as groups, and when offerings are perceived as standardized; market heterogeneity is not supported as a driver in the predicted direction.",
+    "Among firms using concurrent channels, destructive competition between direct and indirect channels is lower when channel offers are differentiated, when order ownership rules are clearer, and when suppliers double-compensate channels involved in a sale.",
+    "After controls, the degree of concurrence itself does not significantly increase destructive competition, while customer demands that reserve business for one channel type (insistence on direct service or integrated supply contracts via intermediaries) are associated with less destructive competition."
+  ],
+  "one_line_summary": "The paper shows that prominent B2B manufacturers limit concurrent direct-indirect channel use when potential interchannel conflict is high and, when they do use both channels, reduce destructive rivalry through offer differentiation, ownership rules, and double compensation.",
+  "relation_to_prior_work": "extends the small empirical dual-distribution literature that focused mainly on field selling by modeling broader direct-indirect channel structure choices and conflict-management mechanisms in B2B markets.",
+  "research_gap": "The paper states that there is little research to guide managers on when and to what extent to use concurrent direct and indirect channels. It also notes that existing empirical work on concurrent systems is limited and largely focused on selling-force arrangements rather than broader channel structure and conflict dynamics.",
+  "research_question": "When should B2B manufacturers use concurrent direct and indirect channels to serve the same product market, versus concentrating on one channel type? How do environmental conditions that raise potential conflict affect this structural choice, and which governance mechanisms reduce destructive rivalry when both channels contact the same customers?"
+}

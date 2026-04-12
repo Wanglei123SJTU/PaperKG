@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops a conceptual framework for hard-discounter entry that treats grocery shopping as a multiple-store pattern decision and explicitly includes interstore complementarities, not only substitution.",
+    "It proposes and estimates a nested store choice and spending-allocation model linking SSS versus MSS, separate versus combined trips, store-set choice, and within-set spending, with household heterogeneity.",
+    "Using a large before-after set of hard-discounter openings, it provides managerial implications for incumbent response strategies that differ from recommendations derived from large-discounter (Wal-Mart-type) entry research."
+  ],
+  "context": "The study is set in Dutch grocery retailing, focusing on local entry of hard discounters Aldi and Lidl versus incumbent traditional supermarket chains. It analyzes household shopping behavior in local markets before and after hard-discounter outlet openings.",
+  "design_and_data": "The authors combine outlet census data from Reed Business Information with household scanner and survey data from the GfK national panel. The empirical setting covers 194 hard-discounter openings in the Netherlands between 2002 and 2006 (54 Aldi, 140 Lidl) and controls for other openings/closures. The estimation sample contains 703 households observed for 56 months (39,368 household-month observations), with purchases in the top nine grocery chains; they estimate a latent-class nested model and assess holdout prediction.",
+  "focal_constructs": [
+    "hard-discounter entry",
+    "multiple-store shopping (MSS)",
+    "single-store shopping (SSS)",
+    "store complementarity",
+    "acquisition utility",
+    "transaction utility",
+    "store-set choice",
+    "spending allocation"
+  ],
+  "main_findings": [
+    "Hard-discounter entry causes substantial incumbent losses, with average reductions around 9.3% in patronage and 9.2% in spending, while entrant customer-share gains exceed spending-share gains.",
+    "Unlike findings for large-discounter entry, losses are not mainly due to incumbents losing their best single-store loyal customers; hard discounters primarily attract private-label-prone shoppers and many switch within existing multiple-store patterns.",
+    "Incumbents close to the new hard discounter are not necessarily hurt more; losses are lower for upscale and more complementary chains, and simulations show responses that reinforce categories where the incumbent is already strong (thus preserving complementarity) recover more than trying to match the hard discounter in weak categories."
+  ],
+  "one_line_summary": "Using a multiple-store shopping model on Dutch household panel data around 194 Aldi/Lidl openings, the paper shows that hard-discounter entry creates sizable but distinct incumbent losses shaped by shopper type, chain complementarity, and relative location.",
+  "relation_to_prior_work": "extends prior discounter-entry research centered on large discounters by modeling hard discounters as potential complements to traditional supermarkets in multiple-store shopping rather than strict substitutes.",
+  "research_gap": "Prior entry studies largely examine large discounters (especially Wal-Mart), while academic evidence on hard-discounter entry is scarce. Because hard discounters have a lean, private-label-heavy format that may induce complementary multiple-store shopping, existing large-discounter conclusions on who is lost, which incumbents are most vulnerable, and how to respond may not transfer.",
+  "research_question": "How does local hard-discounter entry affect incumbent supermarkets when consumers can shop across multiple stores rather than choose a single substitute? Which shoppers and incumbent chains are most vulnerable, how do store complementarity and distance shape defection patterns, and what does this imply for incumbent response?"
+}

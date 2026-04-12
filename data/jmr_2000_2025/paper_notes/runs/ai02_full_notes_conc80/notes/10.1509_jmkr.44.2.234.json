@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides additional evidence that decision satisfaction and consumption satisfaction are distinct constructs, and that decision satisfaction increases consumption satisfaction.",
+    "Shows that five choice goals (justifiability, choice confidence, anticipated regret, evaluation costs, and final negative affect) explain decision and consumption satisfaction, with external factors operating mainly through these goals.",
+    "Demonstrates downstream effects of satisfaction on loyalty, willingness to recommend, and word-of-mouth outcomes, with consumption satisfaction carrying most of the impact."
+  ],
+  "context": "The empirical setting is consumer electronics purchases, including products such as digital cameras, DVD/MP3 players, computers, and accessories. Respondents were German panel members reporting real purchases priced roughly EUR50 to EUR3000.",
+  "design_and_data": "The study uses a two-part online survey of a probability sample of actual buyers from a German university panel. In wave 1, 661 usable responses were obtained from 1,480 contacts (45%) from people who had bought a consumer electronics product above EUR50 in the prior three months; measures were assessed and purified with confirmatory factor analysis. In wave 2, conducted 4.5 months later, 419 of the wave-1 respondents participated (63.4% of wave 1), adding consequence measures such as loyalty and word of mouth. The authors estimate structural equation models in LISREL and compare multiple alternative model specifications.",
+  "focal_constructs": [
+    "decision satisfaction",
+    "consumption satisfaction",
+    "justifiability",
+    "choice confidence",
+    "anticipated regret",
+    "evaluation costs",
+    "final negative affect"
+  ],
+  "main_findings": [
+    "Choice goals mediate the effects of individual factors, choice-set factors, and social factors on satisfaction; when goals are included, direct exogenous effects on satisfaction largely vanish.",
+    "Decision satisfaction is primarily driven by emotional avoidance goals (especially anticipated regret and final negative affect), while consumption satisfaction is driven mainly by decision satisfaction plus justifiability, choice confidence, and evaluation costs.",
+    "Consumption satisfaction strongly predicts loyalty, willingness to recommend, and word-of-mouth valence, but explains little variance in word-of-mouth amount; decision satisfaction adds little incremental effect on word-of-mouth outcomes."
+  ],
+  "one_line_summary": "Using two-wave survey data from actual consumer electronics buyers, the paper shows that attainment of five choice goals mediates how individual, choice-set, and social factors shape decision and consumption satisfaction and their behavioral consequences.",
+  "relation_to_prior_work": "extends prior consumer satisfaction and behavioral decision-making research by integrating them in a single goal-attainment framework. It builds on earlier work distinguishing decision from consumption satisfaction and links that distinction to Bettman, Luce, and Payne's choice-goal perspective.",
+  "research_gap": "Prior research had identified decision satisfaction and consumption satisfaction as distinct but offered limited evidence on their linkage and on their broader antecedents and consequences. The paper argues that the two literatures - consumer satisfaction and behavioral decision making - were relatively isolated and had not clearly tested whether external factors influence satisfaction through choice-goal attainment.",
+  "research_question": "How do individual differences, choice-set characteristics, and social influences affect attainment of key choice goals, and how do these goals determine decision satisfaction and consumption satisfaction? How are decision and consumption satisfaction related, and how do they affect loyalty, willingness to recommend, and word-of-mouth amount and valence?"
+}

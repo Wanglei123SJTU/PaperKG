@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s design note says it explicitly compares results to the Andrews and Manrai model, and its findings report substantial improvements versus an “A&M benchmark” in both fit and prediction (including hit ratio). The cited article is a parsimonious SKU choice model, so this looks like a substantive benchmark/method reference rather than an incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "Both papers are in online recommendation modeling, and the cited 2006 JMR paper contributes a specific statistical framework (joint selection/prediction with nonignorable missing ratings) that is plausibly a methodological or benchmark antecedent for the 2008 paper’s stated departure from prior recommender approaches. Given this close topical/method overlap and only DOI-level evidence (no in-text context), it is not safe to treat this as an obvious incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

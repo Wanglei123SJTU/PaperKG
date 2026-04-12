@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "Park and Gupta (2009) is used in the core methods discussion, not as a passing literature mention. The citing paper explicitly relies on it to justify using a simulated likelihood approach with aggregate shares, especially to accommodate sampling error in observed market shares relative to Berry-style assumptions. It is also cited in the demand-model setup for random-coefficient heterogeneity, indicating a direct methodological role in the first-stage estimation pipeline.",
+  "relation_description": "The citing paper applies the Park and Gupta aggregate-data simulated likelihood approach as methodological support for its first-stage demand estimation. It transfers this estimation logic to its nested-logit demand system in an emerging-market competition context.",
+  "relation_type": "applies"
+}

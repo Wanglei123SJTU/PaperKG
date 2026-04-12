@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper is explicitly about quantifying individual-level targeting, and the cited paper (“E-Customization”) is a prior JMR study on one-to-one customization with Bayesian heterogeneity modeling and optimization, making it a plausible foundational prior-targeting/method reference rather than a generic mention. The notes indicate the citing work “extends prior targeting research,” and this cited paper squarely fits that stream. Given this substantive conceptual overlap (despite only DOI-level match evidence), it should be kept for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides empirical evidence on the existence, magnitude, regularity, and time persistence of flat-rate and pay-per-use tariff-choice biases using transactional data.",
+    "Classifies and jointly tests four proposed causes of flat-rate bias (insurance, taxi meter, convenience, and overestimation) and provides evidence that underestimation is a major cause of pay-per-use bias.",
+    "Quantifies behavioral and financial consequences of tariff-choice biases for tariff switching, churn, short-run profitability, and customer lifetime value."
+  ],
+  "context": "The empirical setting is optional DSL Internet access tariffs at a European Internet service provider, where customers choose among two allowance-based tariffs and one unlimited flat rate. Additional evidence comes from tariff-choice survey scenarios and matched survey-transaction data for this provider's customers.",
+  "design_and_data": "The paper reports four empirical analyses based on three data sets. Analysis 1 uses transactional data for 10,882 ISP customers over up to five months and identifies biases using two rules: choosing a non-cost-minimizing tariff overall and in every month. Analysis 2 uses a survey experiment with 241 MBA students, multi-item scales for insurance/taxi meter/convenience, and manipulated minimum/maximum usage scenarios to test overestimation effects via logit models. Analysis 3 uses an online customer survey (1078 responses, 941 matched to transactions) and estimates multinomial/binomial logit and Tobit models with direct measures of usage misestimation; Analysis 4 uses transactional data to model switching/churn (including nested logit) and customer lifetime value with a migration model.",
+  "focal_constructs": [
+    "flat-rate bias",
+    "pay-per-use bias",
+    "insurance effect",
+    "taxi meter effect",
+    "convenience effect",
+    "usage overestimation and underestimation",
+    "tariff switching and churn",
+    "customer lifetime value"
+  ],
+  "main_findings": [
+    "Flat-rate bias is more prevalent, more regular, and more time-persistent than pay-per-use bias in the ISP transaction data, and many biased customers overpay by substantial amounts.",
+    "Insurance effect, taxi meter effect, and overestimation (especially of maximum usage) increase flat-rate bias, while convenience effect is not significant in this setting; underestimation of usage is associated with pay-per-use bias.",
+    "Flat-rate bias raises short-run and long-run profitability because it does not significantly increase churn, whereas pay-per-use bias raises churn strongly so that its short-run profit gains are largely offset in the long run."
+  ],
+  "one_line_summary": "Using ISP transactions and two surveys, the paper shows that flat-rate bias is common and persistent, is driven by insurance, taxi meter, and usage misestimation effects, and is more profitable long term than pay-per-use bias because pay-per-use bias triggers much higher churn.",
+  "relation_to_prior_work": "extends prior work by jointly examining existence, causes, and consequences of both flat-rate and pay-per-use biases, rather than studying these elements separately, and by linking tariff-choice biases to customer lifetime value.",
+  "research_gap": "Prior evidence on tariff-choice biases was described as scarce and fragmented, with limited evidence on relative prevalence, regularity, persistence, and consumer overpayment. The literature also lacked a comprehensive simultaneous test of proposed causes and had little evidence on downstream effects on switching, churn, profitability, and customer lifetime value.",
+  "research_question": "Do consumers choosing optional Internet access tariffs systematically select non-cost-minimizing tariffs, and how prevalent, regular, and persistent are flat-rate and pay-per-use biases? Which mechanisms explain these biases, especially among insurance, taxi meter, convenience, and usage misestimation effects? What are the consequences of these biases for tariff switching, churn, and short- versus long-run customer profitability and lifetime value?"
+}

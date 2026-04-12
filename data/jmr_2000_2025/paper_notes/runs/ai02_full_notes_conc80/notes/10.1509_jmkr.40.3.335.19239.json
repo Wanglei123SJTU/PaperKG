@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper claims to be the first marketing study to examine buying of modular systems by separating two buyer decisions: outsourcing system integration and concentrating component purchases with one versus multiple suppliers.",
+    "It develops a combined production-cost and transaction-cost framework tailored to technology-intensive markets, including buyer know-how, tacit know-how leakage, and technological volatility.",
+    "It empirically tests this framework in the telecommunications systems market using a field survey with conjoint-style experimental tasks."
+  ],
+  "context": "The empirical setting is telecommunications operators purchasing modular telecommunications systems composed of switching, transmission, and billing components. The study is global and includes operators from 19 countries.",
+  "design_and_data": "The authors use a field survey with conjoint-style experimental tasks and senior telecom executives as key informants. Each respondent completed eight full-profile buying scenarios that orthogonally manipulated seven binary factors and then rated six buying options on 1-7 preference scales. Buyer know-how and acquisition expertise were measured separately with semantic differential items rather than manipulated. The final sample is 55 usable company responses (from 329 contacted; 16.7 percent response rate), producing 2,640 observations analyzed with random-coefficient ordered probit models estimated via simulated maximum likelihood and Wald tests.",
+  "focal_constructs": [
+    "outsourcing versus in-house system integration",
+    "purchase concentration of system components",
+    "buyer technological know-how",
+    "leakage of tacit know-how",
+    "technological volatility",
+    "technological heterogeneity",
+    "component-supplier specialization",
+    "transaction-specific assets"
+  ],
+  "main_findings": [
+    "Buyer know-how has nonlinear effects: preference for outsourcing is highest at moderate know-how (inverted U), and preference for single sourcing is lowest at moderate know-how (U-shape).",
+    "Greater expected leakage of buyer tacit know-how lowers preference for outsourcing and also lowers preference for single sourcing (favoring multiple sourcing under high leakage risk).",
+    "Greater technological volatility increases preference for outsourcing system integration and decreases preference for single sourcing of components."
+  ],
+  "one_line_summary": "Using a global field conjoint study of telecom operators, the paper shows that buyer know-how, tacit know-how leakage, and technological volatility are key drivers of outsourcing and single-versus-multiple sourcing preferences for modular systems.",
+  "relation_to_prior_work": "extends production-cost and transaction-cost views of organizational sourcing to modular-system buying in technology-intensive markets, where prior research had focused more on standardization and network externalities than on buying decisions. It incorporates TI-specific constructs such as know-how, tacit leakage, and technological volatility into this governance-choice framework.",
+  "research_gap": "Prior research in technology-intensive markets had emphasized topics such as standardization and network externalities, but had not directly addressed how firms buy modular systems. The literature also offered limited theory on component purchase concentration and rarely adapted production-cost and transaction-cost logic to technology-specific factors like know-how and technological volatility.",
+  "research_question": "What conditions make different modular-system purchasing options attractive for organizational buyers in technology-intensive markets? Specifically, how do production-cost and transaction-cost factors shape preferences for outsourcing versus in-house system integration and for single versus multiple sourcing of system components?"
+}

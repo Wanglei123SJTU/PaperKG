@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited 2005 paper directly studies ketchup household choice with common demand shocks and tests price endogeneity, while the citing 2008 paper develops an endogeneity-correction method for panel mixed-logit choice in the same ketchup setting and constructs (price/display/feature endogeneity, common shocks). The citing note explicitly frames itself as extending prior panel endogeneity work, making this citation plausibly methodological/foundational rather than a generic background mention. With a confirmed DOI match, this pair should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

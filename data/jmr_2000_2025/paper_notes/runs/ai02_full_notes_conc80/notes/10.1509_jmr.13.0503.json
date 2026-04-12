@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides what the authors describe as the first extensive field-data study of mobile display advertising effectiveness across many campaigns.",
+    "Uses a multicampaign meta-analytic field approach to identify which product classes are better suited to MDAs rather than evaluating only average effects.",
+    "Offers an ELM-based explanation that MDAs work as memory cues that trigger recall and central-route processing, and translates this into guidance for MDA investment and positioning decisions."
+  ],
+  "context": "The study examines U.S. mobile display banner ads shown on mobile web pages and in mobile apps. It covers campaigns from 10 industries run between 2007 and 2010 through advertising networks and mobile service providers.",
+  "design_and_data": "The authors analyze 54 test-control field experiments (39,946 completed participants) in which mobile users were randomly assigned to an exposed condition (MDA shown) or control condition (no MDA). Outcomes were survey-based favorable product attitude and purchase intention, each measured on five-point scales, with additional controls such as prior awareness, recent ad exposure, category usage, targeting match, and campaign characteristics. Campaign products were classified as higher versus lower involvement and utilitarian versus hedonic using agency/author coding validated with independent consumer judges. Estimation used participant-level random-effects regressions with treatment-by-product interactions and a Heckman two-step correction for survey noncompletion selection.",
+  "focal_constructs": [
+    "mobile display advertising (MDA) effectiveness",
+    "favorable product attitudes",
+    "purchase intentions",
+    "product involvement",
+    "utilitarian versus hedonic product type",
+    "memory recall cues",
+    "central-route elaborative processing (ELM)"
+  ],
+  "main_findings": [
+    "Across the 54 campaigns, average treatment effects were generally small, and about two-thirds of campaigns had null or negative effects on both attitude and intention.",
+    "Significant positive MDA effects occurred for products classified as both higher involvement and utilitarian, with exposed consumers showing higher attitude and intention than controls.",
+    "For other product classes, effects were generally not positive, and prior product or brand awareness strengthened treatment effects in a way consistent with the proposed memory-recall mechanism."
+  ],
+  "one_line_summary": "Using 54 U.S. test-control mobile display ad campaigns, the paper finds that MDAs are usually weak on average but significantly improve attitudes and purchase intentions when advertising high-involvement utilitarian products.",
+  "relation_to_prior_work": "extends prior advertising-effectiveness field-experiment work in TV and online display into the mobile display context, and applies the ELM persuasion perspective to explain cross-campaign heterogeneity by product involvement and utilitarian versus hedonic type.",
+  "research_gap": "The paper states that mobile advertising spending was rising rapidly while marketers reported mixed results and often used a \"spray-and-pray\" approach. It argues that existing academic evidence was sparse, especially for mobile display ads, and did not establish under what product-related conditions MDAs improve attitudes and purchase intentions.",
+  "research_question": "Under what product-related conditions are mobile display advertisements effective in shifting consumers' favorable attitudes and purchase intentions? Specifically, do product involvement and utilitarian versus hedonic type explain variation in MDA treatment effects across campaigns?"
+}

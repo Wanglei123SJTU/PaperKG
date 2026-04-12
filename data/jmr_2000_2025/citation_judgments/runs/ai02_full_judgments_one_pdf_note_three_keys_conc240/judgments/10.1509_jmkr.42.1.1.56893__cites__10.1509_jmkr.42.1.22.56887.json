@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Bronnenberg, Rossi, and Vilcassim (2005) in the body text to support specific methodological points, not just as a background name check. Wittink explicitly relies on their discussion of the bias-variance trade-off and their argument about adding supply-side structure with potential misspecification costs. He then uses those points to justify his own recommendation that complex models be diagnosed and compared against simpler alternatives. This indicates a meaningful conceptual support role in the citing paper's framing of policy-model evaluation.",
+  "relation_description": "Wittink draws on Bronnenberg et al. (2005) as conceptual support for how marketing econometric models should be evaluated for policy use. Their arguments about bias-variance trade-offs and demand-supply modeling trade-offs are used to ground his call for comparative testing of advanced versus simplified models.",
+  "relation_type": "foundational_for"
+}

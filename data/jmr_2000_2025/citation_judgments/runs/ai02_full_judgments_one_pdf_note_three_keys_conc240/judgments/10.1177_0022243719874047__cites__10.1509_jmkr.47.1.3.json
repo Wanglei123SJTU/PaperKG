@@ -1,0 +1,6 @@
+{
+  "citation_substance": "mention_only",
+  "rationale": "The citing paper references Petrin and Train (2010) only in a brief extensions discussion, noting that endogeneity corrections such as a two-stage control-function approach could be combined with their model. It does not implement, test, or build its core framework around that method, and no results or claims in the paper depend on Petrin and Train specifically. The citation functions as a generic example of prior endogeneity-handling methods rather than a direct conceptual or empirical pillar of the study.",
+  "relation_description": null,
+  "relation_type": null
+}

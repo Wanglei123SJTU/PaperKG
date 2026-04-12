@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper is positioned as a first study of selling strategy and sales force incentive design for two-sided market platforms.",
+    "It shows that direct versus indirect and positive versus negative network effects change the agency relationship by jointly affecting selling effectiveness and compensation risk.",
+    "It proposes a new compensation design that ties a seller-side agent's pay to buyer-side mobilization as an additional metric to better manage risk spillovers from network effects."
+  ],
+  "context": "The study is set in two-sided market platforms where buyers are typically subsidized and sellers are monetized (e.g., advertising, reservation, software, and financial platforms). The focal managerial setting is a platform using sales agents to recruit the paying side while the other side grows more organically.",
+  "design_and_data": "The paper develops an analytical principal-agent model with a risk-averse sales agent, unobservable effort, and linear incentive contracts. Platform demand is modeled on buyer and seller sides with direct and cross-market network effects, rational expectations, and stochastic demand shocks on both sides. The authors solve for equilibrium effort, optimal commission rates, and expected profit under a classical seller-only contract and then under a two-metric contract that also includes buyer-side mobilization. They also analyze extensions with endogenous seller-side pricing and with active selling on both sides (two agents), with additional numerical simulation discussion referenced in the Web Appendix.",
+  "focal_constructs": [
+    "two-sided market platforms",
+    "sales force compensation",
+    "principal-agent model",
+    "direct network effects",
+    "indirect cross-market network effects",
+    "network mobilization",
+    "commission rate design",
+    "risk sharing under demand uncertainty"
+  ],
+  "main_findings": [
+    "The agent's effort responds to all network effects, but under a classical seller-only linear plan the optimal commission rate is lower than in nonnetwork settings and is decreasing in buyer-side direct effects and seller-side cross-market effects.",
+    "When compensation is based only on seller-side mobilization, stronger positive network effects can reduce expected profit because cross-market effects import additional uncertainty from the buyer side and alter optimal risk sharing.",
+    "Adding buyer-side mobilization as a second performance metric in compensation (with the derived optimal weighting) yields higher expected profit than the classical plan and restores a positive link between stronger positive network effects and profit."
+  ],
+  "one_line_summary": "Using a principal-agent model of platform selling, the paper shows that compensating a seller-side agent on both seller and buyer mobilization outperforms seller-only incentives and prevents stronger positive network effects from hurting profit.",
+  "relation_to_prior_work": "extends sales force compensation theory by embedding direct and indirect network effects from two-sided platform demand into the incentive contracting problem. introduces active salesperson incentive design into a platform literature that had largely emphasized pricing, product design, and competition rather than sales compensation.",
+  "research_gap": "Existing sales force compensation research does not specify how incentive plans should account for direct and indirect network effects, and platform research had not considered the active role of salespeople in mobilizing platform participation. The paper targets this gap at the intersection of platform economics and sales incentive design.",
+  "research_question": "How should a platform optimally design sales-agent incentives when adoption is driven by direct and indirect network effects? Should compensation depend only on mobilization of the side assigned to the agent, or also on mobilization of the other side, and can stronger positive network effects ever lower profit under standard compensation designs?"
+}

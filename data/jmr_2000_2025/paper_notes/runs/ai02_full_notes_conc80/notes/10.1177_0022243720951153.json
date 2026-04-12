@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper argues and shows that proactively revealing seller cost at the start of negotiation can build trust and improve profits, challenging the standard view that revealing reservation-price information is always harmful in bargaining.",
+    "It introduces a two-part negotiation perspective by linking a relatively information-symmetric front end to an information-asymmetric aftermarket back end, and studies how front-end behavior affects back-end outcomes.",
+    "It contributes to personal selling theory by showing that early cost disclosure can function as both a relational and a transactional selling behavior."
+  ],
+  "context": "The focal empirical setting is automobile retailing, where buyers negotiate vehicle price first and then face a finance-and-insurance aftermarket with add-ons, warranties, and related services. The paper positions this as representative of negotiated markets in which front-end information has become widely available online while back-end information remains more asymmetric.",
+  "design_and_data": "The authors run five studies: one observational field study and four experiments. Study 1 observes 400 successful buyer-seller negotiations in a large U.S. dealership chain, combines observer and salesperson survey measures with dealership CRM profit data (front end and F&I back end), and tracks service outcomes up to one year later; treatment categories are early, late, reactive, and no cost disclosure. The field analysis reports OLS plus robustness checks using multivalued propensity-score weighting and multinomial selection modeling. Studies 2-4 are controlled experiments (lab negotiation and scenario designs; n=480, n=586, n=700) that manipulate disclosure timing and information/verifiability (and channel in Study 2), and Study 5 in the Web Appendix provides an additional scenario replication with an alternative true-value operationalization.",
+  "focal_constructs": [
+    "early cost disclosure timing",
+    "seller cost transparency",
+    "customer trust in salesperson",
+    "customer trust in seller firm",
+    "front-end information verifiability",
+    "back-end aftermarket profits",
+    "information symmetry vs asymmetry",
+    "purchase channel (face-to-face vs online)"
+  ],
+  "main_findings": [
+    "In the field study, early cost disclosure is associated with substantially higher back-end profits (about $1,400 more on average than late/no disclosure) and higher total profits, while front-end profits are not significantly lower than in the no-disclosure condition.",
+    "Across experiments, early disclosure increases back-end spending/profits relative to late or no disclosure only when customers can verify front-end cost information (informed or verifiable conditions), not when customers are uninformed.",
+    "Trust mediates the effect of early disclosure on back-end outcomes, including a sequential path from trust in the salesperson to trust in the seller, and the effect is weaker in online negotiations than in face-to-face negotiations."
+  ],
+  "one_line_summary": "The paper shows that revealing seller cost at the beginning of a negotiation can increase back-end aftermarket profits by building verifiable trust, especially in face-to-face settings and when customers can verify the disclosed information.",
+  "relation_to_prior_work": "extends bargaining and negotiation research that, under information asymmetry, generally predicts sellers should not reveal reservation-price information and treats information sharing mainly as a consequence of trust. It also extends front-end-focused negotiation work by showing that disclosure timing and front-end verifiability shape downstream aftermarket profitability.",
+  "research_gap": "Prior negotiation research largely assumes information asymmetry, emphasizes front-end negotiated outcomes, and rarely examines explicit disclosure of sensitive value information such as seller cost. It has not examined two-part negotiations where front-end information is symmetric but back-end information remains asymmetric, nor how disclosure timing across stages affects trust and back-end profits.",
+  "research_question": "Can salespeople improve back-end aftermarket profitability by proactively disclosing seller cost at the beginning of the front-end negotiation? Does this effect operate through customer trust, and does it depend on customers' ability to verify the disclosed information and on negotiation channel (face-to-face vs online)?"
+}

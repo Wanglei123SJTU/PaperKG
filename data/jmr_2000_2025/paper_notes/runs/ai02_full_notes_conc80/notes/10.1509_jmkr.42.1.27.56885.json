@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper reframes the policy-simulation debate into three questions that should be answered before a marketing econometric model is used for policy analysis.",
+    "It argues that model assessment should go beyond coefficient significance and include diagnostics, expectations, and endogeneity considerations tied to the model's intended use.",
+    "It points to two underattended research areas in marketing: how consumers and competitors form expectations, and how model implementation is affected by decision makers' loss functions."
+  ],
+  "context": "The article discusses econometric models used for marketing-mix decisions such as pricing and promotion, with examples involving retailer actions and consumer and competitor responses (e.g., Albert Heijn price cuts). The focus is on when such models can support what-if policy analysis rather than only description or forecasting.",
+  "design_and_data": "This is an invited rejoinder and conceptual article, not a new empirical study. It synthesizes arguments from Franses (2005) and the contemporaneous JMR commentaries, and uses illustrative examples and prior literature to motivate methodological guidance. No original dataset, sampling procedure, or new estimation exercise is reported.",
+  "focal_constructs": [
+    "policy analysis",
+    "model diagnostics",
+    "model-reality fit",
+    "expectations formation",
+    "Lucas critique",
+    "endogeneity and exogeneity",
+    "marketing-mix variables"
+  ],
+  "main_findings": [
+    "For policy use, a model must adequately summarize the relevant reality at the right level of abstraction, and its assumptions should be diagnostically checked.",
+    "If consumers or competitors can anticipate policy changes, ignoring expectation formation can invalidate policy simulations, consistent with the Lucas critique concern.",
+    "In marketing settings where managers set actions based on expected responses, marketing-mix variables are often endogenous, so naive exogeneity assumptions and mindless instrumental-variable use are both problematic."
+  ],
+  "one_line_summary": "This rejoinder argues that econometric marketing models are useful for policy analysis only when researchers establish diagnostic adequacy, account for expectations, and handle endogeneity.",
+  "relation_to_prior_work": "extends Franses (2005) and the accompanying commentaries by converting their methodological concerns into three explicit screening questions for policy-oriented marketing models.",
+  "research_gap": "The paper argues that running scenario simulations from estimated marketing models is often treated as sufficient for policy advice, while key validity conditions are not always addressed. It also states that marketing research has given limited attention to modeling expectation formation and to the implementation stage where decision makers' loss functions matter.",
+  "research_question": "What conditions must be satisfied before an econometric marketing model can be considered useful for policy analysis? The paper asks whether the model matches the relevant reality, whether agents can form expectations about policy changes, and whether marketing-mix variables are endogenous to those expectations."
+}

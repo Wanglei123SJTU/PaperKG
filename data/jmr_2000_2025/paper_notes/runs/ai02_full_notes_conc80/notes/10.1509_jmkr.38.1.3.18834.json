@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Examines intentional vaporware as an entry-deterrence strategy by a dominant firm, a mechanism the authors argue prior work had not formally explained.",
+    "Develops a game-theoretic model that explicitly incorporates development time-cost trade-offs, asymmetries in development costs, and penalties for false preannouncements.",
+    "Provides software-industry evidence consistent with the model, including a curvilinear pattern linking costs and announcement accuracy."
+  ],
+  "context": "The paper is set in the personal computer software industry, where firms often preannounce products before launch and sometimes miss announced release dates. The empirical window covers software announcements and shipments from 1985 to 1995.",
+  "design_and_data": "The authors compile 123 software products from P.C. Letter's Official Vapor List, recording first announcement date, announced release date, and actual ship date; they define announcement accuracy V as announced release date to actual ship date. They examine frequency distributions, mean tests, and correlations, and report checks controlling for firm size, ownership type, and announcement year. They also build a stylized two-firm game in which a dominant firm preannounces entry timing, rivals infer development-cost type, and false announcements incur convex penalty costs. For additional empirical support, they analyze 82 observations with lagged relative sales per employee (from Soft-Letter and Hoover's Guide) as a productivity proxy and regress V on linear and quadratic terms.",
+  "focal_constructs": [
+    "intentional vaporware",
+    "new product preannouncements",
+    "entry deterrence",
+    "interfirm signaling",
+    "product development costs",
+    "announcement accuracy",
+    "penalty costs for false announcements",
+    "dominant-firm entry timing"
+  ],
+  "main_findings": [
+    "In the 123-product sample, announcement delays are nonrandom: mean V is 3.5 months (significantly above zero), and V is not related to how far in advance the release date was announced.",
+    "In the model, a low-cost dominant firm can use preannouncements to signal low development costs and deter rival entry; with moderate penalties it may optimally enter later than announced (intentional vaporware).",
+    "The model predicts a curvilinear relationship between development costs and announcement accuracy: very low-cost and high-cost firms announce accurately, while intermediate-cost firms are most likely to engage in intentional vaporware; the software data show supporting patterns (including an inverted-U with productivity and higher accuracy for larger firms)."
+  ],
+  "one_line_summary": "Using software-industry data and a two-firm signaling model, the paper argues that dominant firms can strategically use intentional vaporware to signal low development costs and deter entry.",
+  "relation_to_prior_work": "extends preannouncement and signaling research by modeling product preannouncements as interfirm signals of development costs in an entry-timing game. challenges prior vaporware analyses that concluded firms have no incentive to make false announcements by deriving equilibria in which intentional vaporware is profitable and entry-deterring.",
+  "research_gap": "The paper states that existing literature on vaporware and preannouncements largely concludes firms have no incentive to lie and therefore does not explain observed intentional vaporware in practice. It addresses this mismatch by analyzing whether false preannouncements can be a rational strategy for deterring entry.",
+  "research_question": "Can a dominant firm rationally use new product preannouncements, including intentionally inaccurate timing claims, as a strategic signal to deter competitors from entering? Under what conditions on development costs and penalties for false announcements does intentional vaporware emerge versus accurate preannouncements?"
+}

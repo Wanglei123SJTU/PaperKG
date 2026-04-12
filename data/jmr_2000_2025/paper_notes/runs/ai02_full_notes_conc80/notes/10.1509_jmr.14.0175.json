@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper identifies a context in which less, rather than more, perceived variety improves product evaluation.",
+    "It shows that perceived variety across multiple usage experiences with the same product influences postpurchase evaluation, beyond the quality or valence of individual experiences.",
+    "It advances understanding of frequency judgments by proposing and testing perceived experience variety as a cue that changes perceived usage frequency and downstream responses."
+  ],
+  "context": "The research is set in consumer durable-goods usage contexts, including participants' own purchases (e.g., sneakers, electronics, household products) and a coffee mug scenario. Participants evaluate products after purchase (and in one study before purchase) based on recalled or imagined usage situations.",
+  "design_and_data": "The paper reports five studies using both experimental and correlational evidence. Studies 1, 2, 4, and 5 experimentally manipulate perceived experience variety (e.g., similar vs different experiences, identical vs varied situations), and Study 3 measures naturally perceived variety. Samples include MTurk participants (N = 86, 129, 212, 240 across Studies 1-4) and a university community sample (N = 212 in Study 5). Core measures are product evaluation (liking/happiness/enjoyment and satisfaction/repurchase/recommendation) and perceived usage frequency, with mediation and moderated mediation analyses in later studies.",
+  "focal_constructs": [
+    "experience variety",
+    "postpurchase product evaluation",
+    "perceived usage frequency",
+    "satisfaction",
+    "repurchase intention",
+    "recommendation intention",
+    "hedonic vs utilitarian product framing",
+    "prepurchase vs postpurchase evaluation"
+  ],
+  "main_findings": [
+    "Perceiving product usage experiences as less varied led to more positive postpurchase evaluation, including higher satisfaction, repurchase intentions, and willingness to recommend.",
+    "Less perceived variety increased perceived usage frequency, and this higher perceived frequency mediated the effect on product evaluation.",
+    "The negative effect of experience variety on evaluation was attenuated for hedonic framing (vs utilitarian/control framing) and for prepurchase (vs postpurchase) evaluation."
+  ],
+  "one_line_summary": "Across five studies, consumers evaluated products more positively when their usage experiences were perceived as less varied because those experiences implied more frequent product use.",
+  "relation_to_prior_work": "extends prior variety and postpurchase evaluation research by shifting focus from assortment-level or single-episode variety to variety across repeated uses of the same product, and by linking this effect to frequency-judgment mechanisms.",
+  "research_gap": "Prior work showed that variety often improves evaluations of assortments or consumption sequences and that features of individual experiences affect product evaluation, but it did not clearly establish how perceived variety across multiple experiences with one product influences postpurchase evaluation. The paper addresses this gap by testing whether experience variety changes evaluation through perceived usage frequency.",
+  "research_question": "Does the perceived variety among multiple usage situations of the same product affect how positively consumers evaluate that product after purchase, holding usage quality constant? If so, is the effect driven by perceived usage frequency, and when is it attenuated (e.g., hedonic products or prepurchase evaluation)?"
+}

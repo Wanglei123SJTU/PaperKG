@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "Identifies and tests a price order effect in simultaneous menu-based brand choice: descending (vs. ascending) price presentation increases the price level of chosen options.",
+    "Shows that consumers' price-quality perceptions are a necessary condition for the price order effect by manipulating whether quality is positively related to price, absent, or unrelated to price.",
+    "Provides nomological and process evidence by showing moderation by product knowledge and mediation through relative weighting of quality versus price."
+  ],
+  "context": "The paper studies consumer choice from price-ordered menus, a format common in online retail sorting tools and offline menus (e.g., restaurants). The focal setting is choosing among different brands/options at one point in time, where perceived quality can vary with price.",
+  "design_and_data": "The authors run five studies. Study 1 is an unobtrusive 8-week field experiment in a pub that alternated ascending versus descending beer menus, using 1,195 bottle purchases as observations. Studies 2-4 are lab between-subjects experiments with undergraduates: marker pen choice (N=219; real vs. hypothetical), spaghetti choice/ranking (N=130), and spaghetti choice with manipulated quality information (N=143; no quality info, positive price-quality correlation, zero correlation). Study 5 is a lab experiment with nine real digital camera models (N=112) that tests moderation by subjective product knowledge and mediation via relative importance of quality versus price.",
+  "focal_constructs": [
+    "price presentation order",
+    "consumer choice price level",
+    "reference price and reference quality",
+    "loss aversion",
+    "price-quality perceptions",
+    "product knowledge"
+  ],
+  "main_findings": [
+    "Across studies, descending (vs. ascending) price order led consumers to choose higher-priced options.",
+    "The effect appeared in both real and hypothetical choices and in a ranking task, which the authors use to rule out incomplete search as the main explanation.",
+    "When perceived price-quality linkage was removed (quality unrelated to price), the price order effect disappeared; it was stronger for lower-knowledge consumers and was mediated by greater relative emphasis on quality versus price."
+  ],
+  "one_line_summary": "The paper shows that ordering options from high to low price increases chosen price levels because consumers treat early prices as references and, when price signals quality, avoid perceived quality losses in descending lists.",
+  "relation_to_prior_work": "extends prior price-presentation research by moving from sequential same-product price evaluations to simultaneous menu-based choices among different brands where quality can covary with price, and by identifying a boundary condition tied to price-quality perception.",
+  "research_gap": "Prior work on ascending versus descending prices largely examined the same product over time, often with sequential exposure and context-price confounds at evaluation. The authors argue this leaves unclear whether those effects generalize to common simultaneous menu-based brand choice contexts where quality inferences can vary with price.",
+  "research_question": "Does presenting identical choice sets in descending versus ascending price order change the price level consumers choose in simultaneous menu formats? If so, is the effect explained by reference-dependent trade-offs between price and inferred quality, and contingent on consumers perceiving a positive price-quality relationship?"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used beyond background: the citing paper adopts Naik and Raman's definition of media synergy, presents their two-media interaction formulation as a modeling benchmark, and discusses their empirical synergy finding as a reference point. In the methods section, the authors explicitly build and test a multi-media version of that line of modeling and compare allocation implications to Naik and Raman's proposition on optimal spend shares. The citation therefore meaningfully informs framing, model specification, and interpretation of results.",
+  "relation_description": "The citing paper extends Naik and Raman's multimedia synergy work from a two-medium setting to a ten-channel retail campaign with individual-level single-source data. It uses their synergy framework as a benchmark, then evaluates its scalability and reports that full pairwise interaction synergy is difficult to estimate in this higher-dimensional setting.",
+  "relation_type": "extends"
+}

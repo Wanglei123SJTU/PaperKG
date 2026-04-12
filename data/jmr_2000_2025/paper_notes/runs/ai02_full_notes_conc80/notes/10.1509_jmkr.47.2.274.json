@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper identifies base preference as a key moderator of analogical persuasiveness and examines how preference for a disparate base is integrated into target evaluation.",
+    "It introduces and tests an emotional knowledge transfer account of experiential analogies, separating effects of base preference, emotional knowledge (emotional inferences), and experienced emotion.",
+    "It provides the first empirical investigation of experiential analogies in persuasion and demonstrates their value relative to more general emotion-oriented appeals."
+  ],
+  "context": "The paper is set in advertising persuasion, where ads compare a target product to a familiar life experience to communicate the product experience. Experimental contexts include massage chairs, eco-tour packages, and sports cars with university participants.",
+  "design_and_data": "The authors run three between-subjects experiments in which participants from a large West Coast university view print advertisements and then report attitudes. Study 1 (n = 126) compares an experiential analogy ad with emotional appeal and neutral controls, measures base preference, and codes open-ended emotional inferences. Study 2 (n = 118) manipulates cognitive load (2-digit vs 13-digit memory task) in analogy and emotional-appeal conditions and measures experienced emotion, ad attitude, and product attitude. Study 3 (n = 180) manipulates analogy soundness (sound vs less sound base-target pairing), measures base preference and emotional inferences, includes an emotional-appeal control, and tests interaction effects with regression.",
+  "focal_constructs": [
+    "experiential analogy",
+    "base preference",
+    "emotional knowledge transfer",
+    "emotional inferences",
+    "experienced emotion",
+    "analogy soundness",
+    "cognitive load",
+    "ad and product attitudes"
+  ],
+  "main_findings": [
+    "In the experiential analogy condition, base preference moderated the effect of emotional inferences: more emotional inferences improved ad attitudes when base preference was favorable, but not when it was less favorable.",
+    "High cognitive load reduced emotional inferences and weakened persuasive effects; with favorable base preference, low-load participants reported more positive ad and product attitudes than high-load participants.",
+    "Analogy soundness mattered: a significant soundness x base preference x emotional inferences interaction predicted ad and product attitudes, and the sound analogy outperformed less sound and emotional-appeal ads when base preference was favorable and emotional inferences were high."
+  ],
+  "one_line_summary": "Across three ad experiments, the paper shows that experiential analogies are most persuasive when consumers like the base experience, can transfer many emotional inferences, and process a structurally sound comparison.",
+  "relation_to_prior_work": "extends prior analogy research from functional, comprehension-focused comparisons to experiential analogies and persuasion outcomes, and specifies the roles of base preference, emotional knowledge transfer, cognitive load, and soundness.",
+  "research_gap": "Prior analogy research in marketing and psychology largely examined functional analogies and comprehension, with little empirical work on experiential analogies that involve emotion. The role of consumers' base preference, and the distinction between transferred emotional knowledge and momentary experienced emotion in analogical persuasion, had not been clearly tested.",
+  "research_question": "Do experiential analogies in advertising persuade by transferring emotional knowledge from a familiar base experience to a target product experience? The paper tests whether base preference moderates the effect of emotional inferences on ad and product attitudes, and whether this process depends on cognitive resources and analogy soundness rather than only experienced emotion."
+}

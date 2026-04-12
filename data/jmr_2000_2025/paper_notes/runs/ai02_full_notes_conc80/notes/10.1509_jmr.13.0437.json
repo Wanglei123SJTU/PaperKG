@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces customization via starting solutions (CvSS), a two-stage customization architecture in which consumers first choose a prespecified product and then freely refine its attributes, as a remedy for the customization paradox.",
+    "Provides evidence from nine studies, including three field settings, that CvSS improves outcomes for both consumers and firms relative to standard attribute-by-attribute customization.",
+    "Identifies and tests two psychological mechanisms underlying CvSS effects - reduced perceived process complexity and enhanced mental simulation of product use - and examines how the number of starting solutions affects effectiveness."
+  ],
+  "context": "The paper studies online product and service configurators where consumers customize offerings. Empirical contexts include shirts, automobiles, vacation packages, jewelry, and financial investment portfolios.",
+  "design_and_data": "The paper reports nine studies comparing CvSS with standard attribute-by-attribute customization. Three studies use field data or field experiments: shirts (transaction/process data for 842 purchases on a manufacturer website), automobiles (random assignment on a manufacturer website; 160 buyers who ordered), and vacation packages (random assignment on a resort website; 323 starters, analyses on 194 buyers). Five controlled online experiments test mediating mechanisms and a boundary condition in jewelry, investment portfolios, and automobiles (sample sizes from 100 to 336), and a final online study (n = 100) measures architecture preference across 36 product domains. Measures include feature richness, price, completion time, perceived process complexity, mental simulation of product use, and choice satisfaction.",
+  "focal_constructs": [
+    "customization via starting solutions (CvSS)",
+    "attribute-by-attribute customization",
+    "customization paradox",
+    "perceived complexity of customization process",
+    "mental simulation of product use",
+    "choice satisfaction",
+    "feature richness of customized product",
+    "deviation from starting solutions (DSS)"
+  ],
+  "main_findings": [
+    "Across studies, CvSS led consumers to configure more feature-rich products and often pay higher prices than attribute-by-attribute customization.",
+    "CvSS increased satisfaction with customized products, and this effect was explained by lower perceived process complexity and higher mental simulation of product use.",
+    "CvSS benefits were robust across multiple domains but weakened when too many starting solutions were shown; in the automobile test, effects began to taper when the number of starting solutions exceeded about 8 to 16."
+  ],
+  "one_line_summary": "A two-stage customization interface that starts from prespecified solutions and then allows free refinement outperforms standard attribute-by-attribute customization by lowering perceived complexity, increasing mental simulation, and improving both satisfaction and revenue-related choice outcomes.",
+  "relation_to_prior_work": "extends product customization research by integrating a choice-architecture approach that contrasts with the dominant attribute-by-attribute format. It refines distinctions from defaults and additive/subtractive option framing by emphasizing that CvSS uses multiple consumer-chosen starting solutions with bidirectional modification. It also extends mental simulation work by showing that architecture-induced top-down processing during customization changes both evaluations and chosen feature richness.",
+  "research_gap": "Prior research documents a customization paradox: attribute-by-attribute customization can increase decision complexity and reduce net satisfaction despite offering preference fit. The paper argues that the literature lacked a customization architecture that lowers process burden without reducing consumers' freedom to configure any attribute combination.",
+  "research_question": "Can product customization be redesigned so consumers retain full configurational freedom but experience less decision burden than under standard attribute-by-attribute interfaces? Specifically, does a two-stage CvSS format change perceived complexity, mental simulation, feature richness of chosen products, and choice satisfaction, and are these effects mediated by complexity reduction and mental simulation?"
+}

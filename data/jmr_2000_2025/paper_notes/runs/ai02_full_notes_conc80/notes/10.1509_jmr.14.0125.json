@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Shows that being less versus more physically involved in helping oneself to food increases unhealthy eating decisions, including both incidence of taking unhealthy food and portion size selected.",
+    "Extends self-serving attribution and motivated reasoning accounts by proposing and showing that food healthiness creates the need to deflect responsibility, while low physical involvement creates the opportunity to do so.",
+    "Identifies a new actionable lever for healthier eating interventions by highlighting physical involvement in serving as distinct from previously studied cues such as portion size, glassware, or server characteristics."
+  ],
+  "context": "The paper studies food decisions in settings common to eating away from home where consumers choose food but may be less physically involved in obtaining it (e.g., preportioned snacks, server-plated meals, catered events, cafeteria-style contexts). Evidence comes from university student and MTurk participant samples across field, lab, scenario, and taste-test settings.",
+  "design_and_data": "The authors run five experiments. Study 1 is a university lobby field study (N = 189) comparing prefilled cups versus self-scooping for healthy dried fruit versus unhealthy candy and measuring take-versus-forgo behavior; Study 2 (N = 75) uses a scenario experiment where participants choose ordinal portion sizes for healthy almonds versus unhealthy M&Ms under prefilled versus self-serve setups. Study 3 (MTurk, N = 160) holds portion fixed in a scenario (self-served vs friend-served; healthy vs unhealthy plate) and measures attributed responsibility and self-evaluative feelings; Study 4 (N = 179) lets participants choose portion size (self-served vs server-served; healthy vegetables vs unhealthy macaroni and cheese) and tests moderated mediation with responsibility. Study 5 is an in-person taste test with Canadian undergraduates (N = 184) measuring grams served and consumed for healthy bread versus unhealthy cake when self-served versus served by an assistant using industry-style predetermined portions.",
+  "focal_constructs": [
+    "physical involvement in obtaining food",
+    "perceived food healthiness",
+    "self-serving attribution of responsibility",
+    "perceived responsibility for consumption",
+    "portion size choice",
+    "unhealthy food consumption",
+    "positive self-evaluative feelings",
+    "consumption guilt"
+  ],
+  "main_findings": [
+    "When obtaining food required less physical involvement, participants were more likely to take unhealthy snacks and selected larger portions of unhealthy foods, while effects for healthy foods were weak or nonsignificant.",
+    "For fixed portions, lower physical involvement reduced perceived personal responsibility for unhealthy (but not healthy) eating and increased positive self-evaluative feelings after unhealthy eating.",
+    "With actual food consumption, being served by another person increased both portion obtained and amount consumed for unhealthy cake versus self-serving, while differences were much smaller for healthy bread."
+  ],
+  "one_line_summary": "Across five experiments, lower physical involvement in obtaining food increased unhealthy choice and portion size because it enabled consumers to deflect responsibility and protect self-evaluative feelings.",
+  "relation_to_prior_work": "extends prior self-serving attribution and motivated reasoning research by identifying physical involvement in serving food as a concrete agency cue that changes responsibility attributions in consumption decisions. It also extends food-choice nudge research by isolating physical involvement as a distinct mechanism that selectively affects unhealthy eating.",
+  "research_gap": "Prior food-consumption research had examined factors like portion size, glassware, and server characteristics, but had not directly tested whether being less versus more physically involved in helping oneself to food changes unhealthy eating decisions. The paper addresses this untested link and its attribution-based mechanism.",
+  "research_question": "Does requiring less versus more physical involvement in helping oneself to food increase unhealthy eating decisions, including taking unhealthy foods and choosing larger portions? If so, does this occur because low physical involvement allows consumers to reject responsibility for unhealthy eating and thus feel better about themselves?"
+}

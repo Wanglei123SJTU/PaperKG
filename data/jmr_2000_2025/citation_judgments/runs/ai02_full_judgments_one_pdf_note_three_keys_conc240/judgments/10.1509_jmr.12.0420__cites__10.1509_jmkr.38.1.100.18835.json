@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "Irwin and McClelland (2001) is cited in core methodological sections, not just in passing: as prior work on spotlight analysis, as authority on misinterpreting interaction-model coefficients as main effects, and as evidence against dichotomizing continuous moderators. The citing paper explicitly states it is reiterating key principles from this stream and then advancing practice with new recommendations (focal-value spotlights, floodlights, and extensions to additional designs). This indicates a meaningful methodological dependency and development beyond background citation.",
+  "relation_description": "The citing paper builds on Irwin and McClelland (2001) as prior methodological guidance on interpreting moderated regression coefficients and avoiding dichotomization and median splits. It extends that line by providing a broader tutorial on spotlight tests, introducing floodlight (Johnson-Neyman) reporting guidance, and showing implementations for more complex designs.",
+  "relation_type": "extends"
+}

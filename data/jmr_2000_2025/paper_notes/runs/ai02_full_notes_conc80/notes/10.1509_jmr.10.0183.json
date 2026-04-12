@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops an event-level multibreak model that estimates each new product introduction's effect on both the level and growth of own share, rival NB share, rival PL-tier share, and category sales, instead of only average effects.",
+    "Provides an empirical NB-perspective test of nonprice new product competition between national brands and private labels.",
+    "Treats private labels as multitiered incumbents (standard, economy, premium) and incorporates their own new product introductions and cross-effects."
+  ],
+  "context": "The study is set in the U.K. grocery market across 35 consumer packaged goods categories at Asda, Sainsbury, and Tesco. It examines competition between top national brands and retailer private-label tiers within these categories.",
+  "design_and_data": "The data cover introductions from 2003-2006 and include 222 new NB lines plus PL launches at each retailer (Asda 95, Sainsbury 126, Tesco 106), with more than 4,000 cross-competitive effects observed. Weekly Kantar panel data (260 weeks per brand-category-retailer) provide volume shares, category sales, prices, and promotions; ACNielsen data provide advertising, and Kantar experts rate product newness (intrinsic, extrinsic, usage) and brand vigor. Step 1 estimates a dynamic cross-effects market share attraction system with event-specific level and trend breaks for each introduction, using SUR and additional equations to address endogeneity in pricing, promotion, launch counts, and category sales. Step 2 uses three-level weighted least squares models to explain heterogeneity in long-run competitive effects of NB launches.",
+  "focal_constructs": [
+    "new product introductions",
+    "national brands (leader and followers)",
+    "private label tiers (standard, economy, premium)",
+    "cross-competitive market share effects",
+    "category sales impact",
+    "brand strength gap",
+    "price gap",
+    "intrinsic, extrinsic, and usage newness"
+  ],
+  "main_findings": [
+    "Launches by the leading NB, standard PL, and premium PL are more likely to increase category sales, while launches by follower NBs and economy PLs are not.",
+    "New products by leader and follower NBs more often increase own share, and except for economy PL launches, introductions generally reduce rivals' shares.",
+    "NB introductions hurt rival NBs more often than PLs, and only the leading NB is likely to steal share from all three PL tiers; NB inroads against PLs are stronger with larger price gaps and products with new intrinsic or usage benefits, while fighting economy PLs requires a smaller price gap and less emphasis on intrinsic and usage benefits."
+  ],
+  "one_line_summary": "Analyzing event-level effects of more than 300 NB and PL introductions in U.K. grocery categories, the paper shows that successful new products can defend NB share but competitive gains are asymmetric across NB and PL tiers and depend on brand positioning and the type of product newness.",
+  "relation_to_prior_work": "extends prior NB-PL competition research by moving from average, mostly price-focused analyses to event-level empirical estimation of nonprice new product effects on both NB and PL rivals. It also incorporates the multitier nature and innovation activity of private labels rather than treating PLs as a single homogeneous tier.",
+  "research_gap": "Prior work mainly examined average introduction effects, often from the PL perspective and with strong emphasis on price and promotion rather than nonprice new product competition. It also typically did not account for private labels as heterogeneous, multitier incumbents with their own innovation activity.",
+  "research_question": "When and to what extent do new product introductions by national brands and private labels change competitive outcomes in categories where both coexist? The paper asks whether launches shift own share, rival NB and PL-tier shares, and category sales, and how these effects vary with focal brand positioning (brand strength, price gap) and product newness (intrinsic, extrinsic, usage)."
+}

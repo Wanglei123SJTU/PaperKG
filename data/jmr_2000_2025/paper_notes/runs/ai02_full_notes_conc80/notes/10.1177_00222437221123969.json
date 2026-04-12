@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "Identifies the amount of self-control exerted to choose a goal-consistent action as a novel driver of perceived goal progress.",
+    "Shows an unexplored consequence of overcoming temptation in self-control contexts: consumers perceive more progress despite identical objective task completion.",
+    "Demonstrates a mechanism in which greater self-control exertion signals higher goal commitment, which makes future goal pursuit feel easier and raises progress perceptions, with implications for marketer messaging."
+  ],
+  "context": "The paper studies consumer pursuit of personal goals in contexts such as fitness workouts and app-based exercise challenges, plus to-do list completion and a budgeting/savings challenge. Situations involve common self-control conflicts (e.g., attractive alternatives, low mood, procrastinated tasks) where objective task completion can be held constant.",
+  "design_and_data": "The article reports eight experiments (total N = 7,515) using online samples (MTurk and Prolific), with preregistered studies that combine hypothetical scenarios and real-behavior tasks. Self-control exertion is manipulated through temptation and mood scenarios, reflective prompts, and app-style messages, while outcomes include perceived goal progress, perceived commitment, and perceived ease of future goal pursuit. Process evidence includes mediation and serial mediation analyses, plus moderation-by-manipulation tests that externally raise commitment (money precommitment) or make future pursuit easier (reduced distraction). Real-behavior evidence includes completing short workouts and a multi-stage to-do-list task with follow-up completion behavior.",
+  "focal_constructs": [
+    "self-control exertion",
+    "goal progress perceptions",
+    "goal commitment",
+    "perceived ease of future goal pursuit",
+    "goal-consistent versus goal-inconsistent choice",
+    "motivation"
+  ],
+  "main_findings": [
+    "Across studies, consumers perceived greater progress when they had to exert more versus less self-control to choose and complete an otherwise identical goal-consistent task.",
+    "Perceived commitment mediated this effect, and Study 4 supported a serial path in which self-control increases commitment, which increases perceived ease of future pursuit, which increases perceived progress.",
+    "When commitment or future ease was externally increased, the self-control effect on progress was attenuated; in applied studies, self-control-focused framing increased perceived progress and was associated with more downstream task follow-through and higher perceived app helpfulness."
+  ],
+  "one_line_summary": "Across eight studies, consumers judged that they made more goal progress after identical goal-consistent actions when choosing those actions required more self-control because this effort signaled stronger commitment and easier future pursuit.",
+  "relation_to_prior_work": "extends prior work on goal progress perceptions by identifying self-control exertion at the choice stage as an antecedent of perceived progress. It also links self-control and commitment research by showing that effortful resistance to temptation serves as a self-signal of commitment that shapes progress judgments.",
+  "research_gap": "Prior research largely shows how perceived progress affects motivation, but offers limited evidence on what determines progress perceptions in the first place. The paper addresses the underexamined question of whether, and why, the amount of self-control exerted to choose goal-consistent actions changes perceived progress.",
+  "research_question": "Does exerting more versus less self-control to choose a goal-consistent action over goal-inconsistent alternatives change consumers' perceived progress, even when objective progress is the same? If so, is the effect explained by greater inferred commitment and a belief that future goal pursuit will be easier?"
+}

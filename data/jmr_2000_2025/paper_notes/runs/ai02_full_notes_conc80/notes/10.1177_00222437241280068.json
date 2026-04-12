@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a conceptual and formal impression-formation model in which judgments depend on recalled story elements, and recall probabilities vary with emotional arousal and modality.",
+    "It provides multi-experiment evidence that listening versus reading changes interpretation of the same news content through selective processing of emotionally arousing details, not just lower overall recall.",
+    "It identifies moderators and a boundary condition: restricting readers' information-flow control induces listener-like bias, and surprising positive information can reverse the usual listener negativity bias into a positivity bias."
+  ],
+  "context": "The paper studies modern news consumption contexts where people can read text or listen to audio versions of the same content (e.g., podcasts, streaming spoken-word channels, text-to-speech, radio-like formats). Empirical settings include news stories about a shampoo ingredient's risks/benefits and screen-time effects on adolescents.",
+  "design_and_data": "The research reports six main experiments and three supplemental experiments (total N = 14,744), mostly randomized between-subject comparisons of listening versus reading matched news stories. Designs manipulate story valence composition (mixed, primarily positive, primarily negative), control over information flow (natural reading vs listening vs restricted scrolling-text reading), and surprise of positive versus negative details. Measures include sentence-level arousal ratings, separate sentence valence ratings, behavioral intentions, safety/positivity beliefs, cued recall for positive and negative details, and coded retellings, with mediation and moderation tests for mechanism.",
+  "focal_constructs": [
+    "listening versus reading modality",
+    "selective attention",
+    "emotional arousal",
+    "negativity bias",
+    "surprise",
+    "impression formation",
+    "information-flow control",
+    "behavioral intentions"
+  ],
+  "main_findings": [
+    "For mixed-valence news, listeners formed more pessimistic interpretations than readers, including lower intentions toward the featured product, lower perceived safety, and retellings that emphasized risks over benefits.",
+    "Listeners showed a stronger negative-versus-positive arousal differential and more selective recall of negative details than readers, and this differential arousal statistically mediated modality effects on behavioral intentions.",
+    "When readers' control over information flow was restricted, they showed listener-like negativity biases, and when positive information was more surprising than negative information, listeners showed a relative positivity bias compared with readers."
+  ],
+  "one_line_summary": "Across multiple experiments, listening rather than reading made consumers process emotionally arousing news details more selectively and therefore form systematically different interpretations of mixed, positive, and negative stories.",
+  "relation_to_prior_work": "extends prior reading-versus-listening comprehension research, which has largely emphasized recall differences, by theorizing and testing modality effects on interpretation and judgment. It integrates findings on emotional arousal and negativity bias with serial information-integration logic to explain when listeners and readers diverge.",
+  "research_gap": "Prior work mostly compares reading and listening on memory for narrative details, leaving unclear whether modality changes the overall interpretation people draw from the same news story. The paper also notes limited direct evidence on whether listeners and readers differentially encode negative versus positive news elements.",
+  "research_question": "How does listening versus reading the same news story change the interpretation consumers form from it? The paper asks whether listeners' reduced control over incoming information causes more selective attention to emotionally arousing details, and whether this mechanism predicts different impressions across mixed-valence, mostly positive, and mostly negative stories."
+}

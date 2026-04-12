@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is a paid-search keyword conversion study proposing a Bayesian latent IV model, while the citing paper’s stated contributions are about credit-card minimum-payment defaults using matched DiD and a peer-switching IV design. In the citing note, there is no indication that this specific latent-IV paid-search framework is a core theory, data source, benchmark, or direct comparison point. With only a bare DOI match in the reference evidence and strong topical/method-context mismatch, this looks like an incidental mention at most.",
+  "triage_decision": "drop_obvious_mention_only"
+}

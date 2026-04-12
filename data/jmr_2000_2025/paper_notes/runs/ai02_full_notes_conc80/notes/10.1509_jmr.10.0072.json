@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "Introduces and operationalizes customer preference for closeness as a preference for frequent, diverse, and mutually influential customer-firm interactions.",
+    "Develops and tests a relationship-specific, firm-focused attachment-style framework showing how attachment anxiety and avoidance shape closeness preferences and loyalty outcomes.",
+    "Provides new segmentation criteria based on attachment styles and closeness preference to help firms tailor relationship marketing activities and allocate resources more effectively."
+  ],
+  "context": "The study is set in the business-to-consumer insurance division of a large North American financial services company operating under one brand. Customers can hold multiple insurance categories and interact with the firm through exclusive agents, call centers, and a website.",
+  "design_and_data": "A market research firm contacted a probability sample of 7,500 customers by phone; 1,223 agreed and 1,199 valid respondents completed a 15-20 minute structured interview (16% response rate). The survey measured customer attachment anxiety and avoidance, preference for closeness, repurchase intentions, and multiple control variables. The authors linked survey data to firm records and used complete longitudinal purchase records for 975 customers to compute change in relationship breadth from 2007 to 2010 (increase, no change, decrease in number of insurance categories). They estimated OLS models for preference for closeness and repurchase intentions, and a multinomial logistic regression for change in relationship breadth.",
+  "focal_constructs": [
+    "customer attachment anxiety",
+    "customer attachment avoidance",
+    "preference for closeness",
+    "repurchase intentions",
+    "relationship breadth change",
+    "cross-buying behavior"
+  ],
+  "main_findings": [
+    "Customer attachment anxiety was positively related to preference for closeness, while customer attachment avoidance was negatively related to preference for closeness.",
+    "Repurchase intentions decreased with higher attachment anxiety, higher attachment avoidance, and their interaction, controlling for established antecedents.",
+    "Preference for closeness increased the likelihood of cross-buying (increasing relationship breadth) over three years, and preference for closeness partially mediated the effect of attachment anxiety on cross-buying behavior."
+  ],
+  "one_line_summary": "Using survey and longitudinal purchase data from insurance customers, the paper shows that relationship-specific attachment styles explain closeness preferences and loyalty outcomes, with closeness partially mediating anxiety's effect on cross-buying.",
+  "relation_to_prior_work": "extends prior marketing attachment research by measuring relationship-specific, firm-focused attachment anxiety and avoidance rather than primed or general/interpersonal attachment styles. It also links these constructs to interdependence-based closeness and objective longitudinal loyalty behavior.",
+  "research_gap": "Relationship marketing research offered limited theory-based guidance on why some customers seek closeness while others avoid it and how to identify these differences. Prior marketing studies using attachment theory largely focused on primed or general/interpersonal attachment and did not examine relationship-specific firm-focused attachment effects on objective loyalty behavior over time.",
+  "research_question": "Can relationship-specific customer attachment anxiety and avoidance explain customers' preference for closeness to a firm and inform tailoring of relationship marketing efforts? Do attachment styles and preference for closeness predict loyalty outcomes - repurchase intentions and changes in relationship breadth - beyond established loyalty antecedents?"
+}

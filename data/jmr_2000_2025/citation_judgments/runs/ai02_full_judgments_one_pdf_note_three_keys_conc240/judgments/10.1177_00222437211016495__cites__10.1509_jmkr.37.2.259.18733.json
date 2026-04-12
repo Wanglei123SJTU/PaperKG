@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Bradlow and Rao (2000) to frame albums/playlists as assortments whose outcomes depend on attribute balance across items. It then explicitly adopts this idea in measurement, constructing album-level means and standard deviations of acoustic features \"as in the balance model.\" This is a concrete conceptual and operational input to the model design, not just a passing background citation.",
+  "relation_description": "The citing paper applies the balance-model insight from Bradlow and Rao (2000) to a new domain (music), treating albums as assortments of songs and modeling both central tendency and dispersion of song attributes. This imported representation directly informs the covariate construction in the success-prediction framework.",
+  "relation_type": "applies"
+}

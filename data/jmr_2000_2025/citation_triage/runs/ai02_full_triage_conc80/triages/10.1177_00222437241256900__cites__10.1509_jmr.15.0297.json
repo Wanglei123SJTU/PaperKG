@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is a core methodological study on causal online ad-effectiveness measurement (ghost/predicted ghost ads, ATET/LATE, and lift in visits/transactions/sales), while the citing paper also centers on causal ad effectiveness in online display settings with randomized experimentation and downstream outcomes (recall and incentivized choice). Given this strong topical and methodological overlap in the notes, the citation could be foundational or a comparison point rather than a trivial mention. With only a DOI-level match and no in-text snippet, it should be retained for full relation judgment rather than dropped.",
+  "triage_decision": "keep_for_relation_judgment"
+}

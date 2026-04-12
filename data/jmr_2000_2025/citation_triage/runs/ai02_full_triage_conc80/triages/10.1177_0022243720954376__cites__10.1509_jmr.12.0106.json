@@ -1,0 +1,4 @@
+{
+  "rationale": "Keep: the citing paper’s core method is topic-model based (integrated CTM-HMM), and its notes explicitly position the contribution against prior two-stage LDA-style approaches and include an LDA benchmark in results. The cited paper is a marketing-methods LDA framework for extracting latent dimensions from online text, making it a plausible methodological/foundational prior rather than an incidental mention; the DOI match confirms this exact reference.",
+  "triage_decision": "keep_for_relation_judgment"
+}

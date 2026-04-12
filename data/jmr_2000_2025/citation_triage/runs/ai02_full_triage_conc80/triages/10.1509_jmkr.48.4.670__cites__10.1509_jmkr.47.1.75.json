@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper appears highly relevant rather than incidental: it models zip-code-level online buyer adoption with spatiotemporal Poisson diffusion (proximity/similarity imitation), while the citing paper also uses zip-code online demand data and count models with cumulative buyers to explain geographic variation in online demand. The citing note explicitly frames its contribution as extending prior geography-based online demand work, so this citation is plausibly a substantive theory/method/comparison source and should be reviewed in full.",
+  "triage_decision": "keep_for_relation_judgment"
+}

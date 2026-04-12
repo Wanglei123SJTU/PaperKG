@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides an empirical study of multidimensional sales force compensation that separately incentivizes customer acquisition and customer maintenance in a relationship-management context.",
+    "Introduces salesperson private information as a source of moral hazard in sales settings and shows how maintenance incentives can discipline acquisition-stage adverse selection.",
+    "Introduces an identification strategy to detect and disentangle customer adverse selection and customer moral hazard by exploiting time-varying incentive states and exogenous job transfers."
+  ],
+  "context": "The empirical setting is a Mexican microfinance bank where loan officers acquire and maintain collateral-free loans to low-income small-business borrowers. Officers are paid a salary plus a multiplicative bonus based on acquisition and repayment maintenance metrics, and the bank periodically applies random branch transfers.",
+  "design_and_data": "The paper combines a stylized analytical model with panel-data regressions. The data cover 461 loan officers and 129,839 loans over 14 months (January 2009 to February 2010), matching officer performance/compensation/transfer records to loan origination and repayment outcomes. Identification relies on conditioning on observable borrower and loan characteristics while using variation in officers' incentive states, plus random transfers as exogenous shocks to officer private information and relational capital. The authors estimate fixed-effects models for newly originated loan IRR, ongoing delinquency, and salesperson-month total NPV productivity.",
+  "focal_constructs": [
+    "multidimensional sales force compensation",
+    "acquisition performance metric",
+    "maintenance performance metric",
+    "salesperson private information",
+    "customer adverse selection",
+    "customer moral hazard (loan delinquency)",
+    "salesperson-customer relational capital",
+    "job transfers"
+  ],
+  "main_findings": [
+    "Higher acquisition performance pressure is associated with lower IRR of newly originated loans, conditional on observables, consistent with adverse customer selection driven by salesperson private information.",
+    "Higher maintenance pressure lowers delinquency for loans in good standing and is associated with better quality of newly acquired loans, indicating that maintenance incentives improve monitoring and moderate adverse selection.",
+    "Random transfers reduce private information, which improves acquisition-stage selection but worsens maintenance repayment; the productivity gain from reduced adverse selection outweighs the maintenance loss, and acquisition incentives alone would not yield positive productivity absent maintenance incentives."
+  ],
+  "one_line_summary": "Using matched loan-officer and customer panel data from a Mexican microfinance bank, the paper shows that acquisition incentives can induce private-information-based adverse selection, while maintenance incentives and random transfers discipline this behavior and increase net productivity.",
+  "relation_to_prior_work": "extends empirical sales force compensation research from mostly unidimensional, transactional settings to multidimensional incentives in ongoing customer relationships with salesperson private information. It also connects CRM implementation and asymmetric-information literatures by showing both the value and the hazard of salesperson relational capital and by using a new supply-side identification approach.",
+  "research_gap": "Prior CRM research has largely focused on salaried marketers using customer databases and has not addressed how incentivized salespeople manage both customer acquisition and maintenance. Existing empirical sales force compensation work is largely unidimensional and does not explicitly study private-information-driven moral hazard and selection in relationship settings.",
+  "research_question": "How do acquisition and maintenance incentives jointly shape salesperson behavior when salespeople hold private information about customers in CRM settings? Specifically, the paper asks whether acquisition incentives induce advantageous or adverse customer selection, whether maintenance incentives improve repayment and moderate selection, and how transfers that reduce private information affect acquisition quality, maintenance performance, and overall productivity."
+}

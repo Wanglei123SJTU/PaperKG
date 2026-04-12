@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper explicitly compares simple contracts and buyer-supplier joint ventures as alternative governance structures, addressing prior work that often did not operationalize integration at the level of legal and financial combination and often excluded JVs.",
+    "It responds to limitations in the literature by using secondary financial and reputation proxies (Compustat and Fortune) to complement key-informant approaches and by testing financial consequences with event-study methods.",
+    "It separates vertical buyer-supplier JVs from horizontal JVs and examines whether their shareholder-value consequences differ."
+  ],
+  "context": "The study examines bilateral transactions among publicly traded, for-profit, U.S.-based firms announced in the Wall Street Journal in 1993-1994, covering 20 industries. The focal comparison is vertical buyer-supplier contracts versus vertical buyer-supplier JVs, with horizontal JVs analyzed as a contrast in financial outcomes.",
+  "design_and_data": "The authors collect Wall Street Journal announcements and identify 264 contracts and 194 JVs, then retain 208 usable vertical buyer-supplier transactions with needed data (166 contracts, 42 JVs). Supplier characteristics come from Compustat proxies (3-year average R&D-to-sales for asset specificity and market-to-book for performance ambiguity) and Fortune Most Admired reputation rankings (available for 107 suppliers). Determinants of JV versus contract are estimated with logistic regression. Financial consequences are tested with CRSP-based event studies using a 2-day announcement window and a decontamination screen for confounding news.",
+  "focal_constructs": [
+    "buyer-supplier transaction governance",
+    "simple contracts",
+    "joint ventures",
+    "supplier asset specificity",
+    "supplier performance ambiguity",
+    "supplier reputation",
+    "abnormal stock returns",
+    "vertical versus horizontal JVs"
+  ],
+  "main_findings": [
+    "Supplier R&D-to-sales and supplier market-to-book are positively and significantly related to choosing a vertical JV instead of a contract.",
+    "Supplier reputation is negatively related to choosing a vertical JV instead of a contract.",
+    "Vertical JVs and contracts show similar announcement-return patterns, with abnormal gains accruing to suppliers but not buyers, while horizontal JVs show bilateral positive gains."
+  ],
+  "one_line_summary": "Using U.S. public-firm transaction announcements, the paper finds that vertical JVs are more likely when suppliers are more asset-specific, harder to monitor, and less reputable, and that vertical JVs create supplier-only stock gains similar to contracts.",
+  "relation_to_prior_work": "extends transaction cost economics and marketing channel governance research by testing contract-versus-JV choice directly, using secondary-data proxies and event-study evidence, and distinguishing vertical from horizontal JVs.",
+  "research_gap": "The authors argue that prior intermediate-governance research often relied on key-informant attitudinal measures, rarely examined explicit legal-economic integration choices that include JVs, and often left financial consequences implicit. They also note contextual skew toward sales-force integration and foreign entry settings, with unclear generalizability to domestic buyer-supplier transactions.",
+  "research_question": "When buyer and supplier firms plan to transact, what factors determine whether they use a simple contract or a joint venture to govern the relationship? The paper also asks whether choosing a JV versus a contract leads to different shareholder-value outcomes for the participating firms."
+}

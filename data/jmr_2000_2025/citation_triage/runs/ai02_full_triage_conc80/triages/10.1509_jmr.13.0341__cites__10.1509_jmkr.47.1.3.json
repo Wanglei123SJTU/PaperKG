@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper explicitly states it addresses coupon-allocation endogeneity by estimating an allocation model and adding residual-based control terms in its redemption model, which closely matches the cited paper’s core contribution of a control-function approach for endogeneity in consumer choice models. Given this clear methodological overlap and a direct DOI match in the references (10.1509/jmkr.47.1.3), this is plausibly a substantive method/theory source rather than an incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

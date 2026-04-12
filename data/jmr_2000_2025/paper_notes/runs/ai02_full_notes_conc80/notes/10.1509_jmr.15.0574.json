@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces a parsimonious consumer utility model that combines consumption utility with emotional disutility from wasting and emotional utility from recycling.",
+    "It provides empirical evidence for the model components and derived hypotheses using both scenario choices and experiments with real disposal behavior.",
+    "It argues that recycling promotion can have unintended effects on total resource use and extends the framework with acquisition utility and recycling-cost moderators for policy analysis."
+  ],
+  "context": "The paper studies everyday consumer resource use and disposal decisions involving recyclable materials such as napkins, cups, paper, and packaging. Evidence comes from U.S. MTurk respondents and university participants in lab and field-like tasks.",
+  "design_and_data": "The authors first run several MTurk choice problems and between-subjects scenario experiments to document waste aversion and emotional reactions to trashing versus recycling. They then conduct four experiments with real behavior: juice sampling with plastic cups (N = 49), gift wrapping with paper (N = 60), taking free packaged pens with on-site disposal (N = 80), and a math task using scrap paper in a 2 x 2 x 2 design manipulating disposal, used-vs-unused framing, and quota size (N = 352). Key dependent variables are actual quantities consumed or taken and, in scenario studies, positive and negative emotion ratings. A final exploratory MTurk study tests forecasted driving miles for a hybrid versus non-hybrid car with equal fuel efficiency.",
+  "focal_constructs": [
+    "recycling versus trashing",
+    "resource consumption quantity",
+    "waste aversion",
+    "negative self-conscious emotions from wasting",
+    "positive self-conscious emotions from recycling",
+    "used versus unused disposal framing",
+    "acquisition utility",
+    "costs of recycling"
+  ],
+  "main_findings": [
+    "Across scenario studies, participants were generally waste averse, preferred recycling over trashing, felt less negative emotion about waste when waste was recycled, and felt more positive emotion when used resources were recycled.",
+    "In real-behavior experiments, recycling options increased resource use: participants used more cups and more wrapping paper when recycling was available, and they took more packaged pens when packaging could be recycled.",
+    "In the scrap-paper framing experiment, participants used more paper when told used paper would be recycled than trashed, but used less when told unused paper would be recycled than trashed, indicating that positive emotions from recycling can outweigh negative emotions from wasting."
+  ],
+  "one_line_summary": "The paper develops and tests an emotion-based utility model showing that recycling can reduce guilt from waste and create positive feelings from disposal, often increasing resource consumption relative to trash-only settings.",
+  "relation_to_prior_work": "extends prior recycling research by shifting from macro-level waste-allocation and cost-focused models, and from one-shot disposal studies, to a consumer-level emotional utility framework linking disposal expectations to consumption. It also connects to licensing-related work by modeling anticipated disposal emotions as a mechanism that can justify greater consumption.",
+  "research_gap": "The paper states that little is known about the consumer psychological processes behind disposal choices and how disposal options feed back into consumption quantity. Prior work is described as focusing mainly on macro-level waste control or isolated disposal decisions rather than a linked consumption-disposal process.",
+  "research_question": "How does having the option to recycle versus trash affect how much of a resource consumers use? The paper asks whether anticipated self-conscious emotions from disposal, both reduced negative emotions from wasting and increased positive emotions from recycling used resources, jointly drive this effect."
+}

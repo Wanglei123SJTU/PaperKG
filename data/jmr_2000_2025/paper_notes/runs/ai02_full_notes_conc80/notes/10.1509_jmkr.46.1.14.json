@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The commentary argues for a middle-ground integration of neuroscience and behavioral decision science, rejecting both neuroessentialism and strict behavioral sufficiency.",
+    "It highlights inferential constraints in fMRI interpretation, especially the difference between forward and reverse inference, and applies this logic to the amygdala, DLPFC, and ACC hypotheses in the target attraction-effect study.",
+    "It proposes three guidelines for research programs that integrate neural and behavioral evidence: hypothesis-driven neural tests, biologically informed constraints on behavioral models, and iterative movement from behavior to brain and back to behavior."
+  ],
+  "context": "The paper is a commentary in a marketing/decision-making context focused on the attraction effect (asymmetric dominance) and its proposed mechanism of trade-off aversion. It discusses how neuroimaging evidence can be used in neuroeconomics and marketing research to evaluate behavioral theories of context-dependent choice.",
+  "design_and_data": "This article is a conceptual commentary rather than a new empirical study. It evaluates Hedgcock and Rao's fMRI experiment on the attraction effect and interprets their hypotheses (H1-H3) using prior neuroscience evidence about regional specificity (amygdala, DLPFC, ACC). The authors also discuss variability patterns reported in the target study, including the remaining nondecoy choices and person-level differences in amygdala response. No new dataset is collected in this commentary.",
+  "focal_constructs": [
+    "attraction effect",
+    "trade-off aversion",
+    "negative emotion",
+    "reverse inference",
+    "amygdala activation",
+    "dorsolateral prefrontal cortex activation",
+    "anterior cingulate cortex and response conflict",
+    "neuroessentialism versus behavioral sufficiency"
+  ],
+  "main_findings": [
+    "The authors conclude that neither neuroessentialism nor behavioral sufficiency is adequate, and that neuroscience is most useful when used to test predictions derived from behavioral theory.",
+    "They argue that reverse inference is relatively defensible for amygdala-based claims about negative emotion in this context, but substantially weaker for broader regions such as DLPFC and more ambiguous constructs linked to ACC.",
+    "They endorse the target article's evidence that reduced negative emotion is an important contributor to decoy-driven choice, while cautioning that the attraction effect is likely multiply determined rather than caused by a single mechanism."
+  ],
+  "one_line_summary": "This commentary argues that fMRI can productively constrain behavioral explanations of the attraction effect when hypotheses are theory-driven and inferences are calibrated to the neural specificity of the regions used.",
+  "relation_to_prior_work": "refines prior debate by positioning this work between brain-centric neuroessentialism and claims that behavior alone is sufficient for explanation. It also situates the target study as a shift from using decision theory to explain the brain toward using neural markers to test behavioral mechanisms, while emphasizing the limits of reverse inference.",
+  "research_gap": "The authors state that most neuroeconomic work had been brain-centric, with less progress on using neural data to adjudicate mechanisms of behavioral decision phenomena. They also identify unresolved methodological constraints, especially how reverse inference limits what can be concluded from region-level activation.",
+  "research_question": "The commentary asks whether and how neuroscience data can support or invalidate a behavioral explanation of the attraction effect, especially the claim that decoys reduce negative emotion by enabling less trade-off-intensive choice. It also asks what inferential and design constraints are required for valid integration of neural and behavioral evidence in decision research."
+}

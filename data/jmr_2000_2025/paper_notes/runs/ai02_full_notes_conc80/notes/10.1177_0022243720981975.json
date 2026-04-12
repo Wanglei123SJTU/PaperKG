@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides evidence from a large-scale national educational campaign for an existing on-shelf nutrition label system (Guiding Stars) using real supermarket purchases.",
+    "Separates education/information effects from product-promotion effects because the campaign did not co-occur with promotion of specific products.",
+    "Combines transaction data with pre-post exit surveys to assess mechanisms across awareness, understanding, and self-reported label use."
+  ],
+  "context": "The study examines Guiding Stars on-shelf nutrition labels in a national Canadian grocery retailer, focusing on Ontario supermarkets where labels were already implemented. The campaign ran nationally in January-February 2015 using TV, print, flyer, in-store signage, and demonstrations.",
+  "design_and_data": "The authors analyze retailer transaction records and loyalty-card data around the campaign period, using September-April windows in 2013-2014 (control year) and 2014-2015 (treatment year). The data include 39.7 million transactions overall; a balanced cardholder panel includes 25,695 households (about 1.48 million trips), with UPC-level Guiding Stars ratings merged in. Identification uses two-way fixed effects that compare during- and post-campaign changes to the same weeks in the prior year, with store/week and household controls and additional UPC-level specifications. They also fielded repeated cross-sectional exit surveys outside 8 stores (N=883 pre, N=836 post) to measure awareness, understanding, self-reported use, and trust.",
+  "focal_constructs": [
+    "on-shelf nutrition labeling",
+    "educational campaign",
+    "Guiding Stars ratings",
+    "awareness of labels",
+    "understanding of labels",
+    "self-reported label use",
+    "healthiness of purchases",
+    "category-level substitution"
+  ],
+  "main_findings": [
+    "The campaign produced only a small increase in higher-star purchases, mainly via a higher share of three-star items, with much of the effect driven by produce.",
+    "Effects weakened after the campaign, with about 60% of the campaign-period effect disappearing post-campaign.",
+    "Survey evidence shows awareness and understanding increased after the campaign, but self-reported use of the labels did not increase."
+  ],
+  "one_line_summary": "A national education campaign for Guiding Stars labels in Canadian supermarkets slightly shifted purchases toward higher-rated foods, largely through produce, but effects were modest and mostly faded, while awareness/understanding rose without greater reported label use.",
+  "relation_to_prior_work": "extends prior front-of-package and on-shelf nutrition-label research by estimating the incremental effect of a stand-alone mass education campaign on actual purchases, and by showing that gains in awareness and understanding need not translate into greater usage.",
+  "research_gap": "Prior Guiding Stars studies largely measured labeling effects without a complementary education campaign, and many education-intervention studies focused on self-reported understanding/use in selected samples rather than population-level purchasing behavior. The paper addresses whether a broad real-world campaign can change actual food purchases and why effects may be limited.",
+  "research_question": "Does a national educational campaign for an already-implemented simplified nutrition label increase the healthiness of supermarket purchases? How do effects vary across categories and households, persist after the campaign, and relate to changes in awareness, understanding, and use of the labels?"
+}

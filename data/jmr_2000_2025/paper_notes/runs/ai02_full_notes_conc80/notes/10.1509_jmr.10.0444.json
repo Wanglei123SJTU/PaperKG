@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces a joint discrete/continuous model of tariff choice and usage that allows three-part tariffs to shift consumers' valuation of minutes beyond the budget-constraint effect.",
+    "It incorporates Bayesian learning about consumers' own three-part-tariff usage preferences after switching, rather than assuming immediate full knowledge.",
+    "It uses the estimated behavioral effect to generate tariff-policy recommendations (switching fees and menu structure) for revenue improvement."
+  ],
+  "context": "The empirical setting is a South Asian mobile telecommunications provider that initially offered only two-part tariffs and then introduced three-part tariffs with free minute allowances. The panel covers existing individual subscribers who could keep their plan, switch plans for a fee, or churn.",
+  "design_and_data": "The data are a random sample of 5,831 noncorporate customers observed monthly for up to 12 months (69,878 monthly tariff-choice and usage observations). In the first 3 months only two-part tariffs were available; then three three-part tariffs were added, creating a close-to-natural-experiment change in the choice set for existing customers. The authors analyze descriptive before/after patterns and then estimate a hierarchical Bayes discrete/continuous choice model with quadratic utility, tariff choice shocks, multiplicative usage uncertainty, and Bayesian learning about a three-part-tariff valuation parameter.",
+  "focal_constructs": [
+    "two-part tariffs",
+    "three-part tariffs",
+    "free minute allowances",
+    "tariff choice",
+    "service usage",
+    "valuation of free units",
+    "switching costs",
+    "learning under uncertainty"
+  ],
+  "main_findings": [
+    "Customers who switched to three-part tariffs increased usage by 15.1%, while customers who stayed on two-part tariffs increased usage by 0.9%.",
+    "A demand model based on two-part behavior and budget-constraint shifts predicts two-part usage well (98.9% of observed) but underpredicts three-part usage (85.9% of observed), implying overuse beyond standard price effects.",
+    "In the full joint model, 83.9% of three-part users show positive additional valuation for free minutes, this effect accounts for 19.7% of revenue from three-part customers, and simulated reductions in switching fees can raise provider revenue (about 3.9% at the optimal simulated fee)."
+  ],
+  "one_line_summary": "Using mobile-phone panel data around a three-part tariff launch, the paper finds that free allowances increase usage beyond budget-constraint predictions and that modeling this extra valuation and learning is crucial for revenue and pricing decisions.",
+  "relation_to_prior_work": "extends nonlinear pricing research by showing that behavioral deviations tied to tariff attributes affect not only tariff choice but also post-choice usage, and by adding free-unit valuation and learning to three-part-tariff demand modeling.",
+  "research_gap": "Prior nonlinear pricing studies largely treated tariff structure as affecting usage only through prices and budget constraints, even when behavioral work suggested special responses to free offers. The paper addresses the unresolved issue of whether free allowances in three-part tariffs raise underlying service valuation and usage, including beyond the allowance.",
+  "research_question": "Do consumers who move from two-part to three-part tariffs use more than can be explained by the induced change in the budget constraint alone? If so, can a joint model of tariff choice and usage identify an additional valuation effect of free allowances and consumers' learning about that effect over time?"
+}

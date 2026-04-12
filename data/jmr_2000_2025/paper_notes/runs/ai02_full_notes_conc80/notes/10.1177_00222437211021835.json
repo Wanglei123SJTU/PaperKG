@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a maximum group-based commission contract in which team output is set by the largest individual output, as an alternative to the conventional average-output contract.",
+    "Provides a formal two-person model showing that with heterogeneous abilities the maximum contract increases overall team effort by raising the stronger member's effort more than it lowers the weaker member's effort, while the two contracts are equivalent in homogeneous teams.",
+    "Validates the theory with two incentive-aligned laboratory experiments and two randomized field experiments, and positions the study as extending the limited literature on group-based commission design beyond tournament settings."
+  ],
+  "context": "The paper studies sales force compensation under group-based commissions, where managers must choose how to define team output for pay calculation. Empirical tests are run in university-based team settings using a lab decision task, a daily walking task, and a respondent-recruitment task to capture effort under team incentives.",
+  "design_and_data": "The authors build a theoretical two-person effort model with stochastic output, quadratic effort costs, and commission pay that depends on own output and team output under either an average or maximum team metric. Laboratory Experiment 1 is a 2 x 2 between-subject design (average vs maximum contract x homogeneous vs heterogeneous ability) with 118 participants making effort decisions for 10 rounds; Laboratory Experiment 2 focuses on heterogeneous teams with a=0 to test behavior under a more extreme case. Field Experiment 1 randomizes 60 participants into two-person teams and contract type, tracks steps via a mobile pedometer over 35 days (21-day baseline plus 14-day incentivized stage), and uses baseline steps as ability. Field Experiment 2 randomizes 48 participants, measures ability using a sales aptitude assessment, and pays participants for recruiting completed online survey respondents.",
+  "focal_constructs": [
+    "group-based commission plans",
+    "maximum contract",
+    "average contract",
+    "team output metric",
+    "team ability heterogeneity",
+    "salesperson effort",
+    "marginal return on effort",
+    "stronger and weaker team members"
+  ],
+  "main_findings": [
+    "In homogeneous teams, average and maximum contracts generate similar team effort, but under the maximum contract heterogeneous teams exert higher average effort than homogeneous teams.",
+    "When team abilities are heterogeneous, the maximum contract outperforms the average contract in team effort across studies, including field estimates of about 695 more daily steps and 4.21 more recruited respondents per participant after controls.",
+    "The stronger member exerts substantially higher effort under the maximum contract, while weaker members show little to no effort reduction relative to the average contract, contrary to the model's predicted demotivation for weaker members."
+  ],
+  "one_line_summary": "The paper shows theoretically and experimentally that in heterogeneous two-person teams, a group commission based on the highest individual output can induce higher overall effort than the standard average-output contract.",
+  "relation_to_prior_work": "extends prior work that mostly compares individual- versus group-based incentives by examining contract design within group-based commissions, specifically how team output is defined. It also moves beyond prior design studies centered on tournament settings by analyzing group-based commissions directly, and reports a different implication from related contest-based findings.",
+  "research_gap": "Prior research on group-based commissions has paid limited attention to contract design, especially the choice of team-output metric when members differ in ability. Existing studies largely use average-based team output or examine output-metric design in tournament contexts rather than commission contracts.",
+  "research_question": "When firms use group-based commissions, should team output always be based on the average of members' sales outcomes? The paper asks whether defining team output by the highest individual output (the maximum contract) can better motivate effort than the average contract, particularly when team members are heterogeneous in ability."
+}

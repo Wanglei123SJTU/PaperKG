@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper explicitly uses Venkatesan, Kumar, and Bohling (2007) to define CLV formally and to structure its core CLV equation as discounted contribution margin minus marketing cost. That definition is then carried into the paper's own modeling and empirical CLV computation in the CPG context, so the citation supports a central conceptual and operational setup. The citing study does not appear to directly reuse the cited paper's specific customer-selection optimization, but it clearly relies on it as a key CLV foundation.",
+  "relation_description": "The citing paper adopts the cited paper's formal CLV framing and equation structure as a baseline for its own CLV measurement framework. It then builds a different CPG-specific behavioral model on top of that baseline.",
+  "relation_type": "foundational_for"
+}

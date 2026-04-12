@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a game-theoretic channel framework that jointly models musician decisions, primary-platform pricing, and secondary-market resale under alternative ownership structures (independent vs integrated platforms).",
+    "Shows that, contrary to common policy concerns, integrating primary and resale platforms can lower equilibrium fees and primary prices, mitigate double marginalization in the primary channel, and improve musician and consumer welfare under specific conditions.",
+    "Extends the theory to resale-platform competition, endogenous resale fees, and scalper entry, and offers suggestive empirical correlations using Ticketmaster and StubHub data."
+  ],
+  "context": "The paper is set in the U.S. concert-ticket market, motivated by Ticketmaster's dominance in primary ticketing and its expansion into resale alongside platforms such as StubHub. It is framed by policy debates over ticket transferability laws and concerns that integrated control of primary and resale ticketing harms consumers and musicians.",
+  "design_and_data": "The core analysis is a two-period game-theoretic model with one musician, a primary platform, and a resale platform. Consumers are heterogeneous (avid vs casual), face attendance uncertainty resolved in period 2, and can buy from primary or resale markets; the musician chooses face price and venue size, and platform(s) set service fees under independent versus integrated ownership, solved via a rational-expectations buying-spree equilibrium. Extensions analyze endogenous resale percentage fees, competition from an independent resale platform, and the presence of scalpers. The paper also provides suggestive correlational evidence from manually collected data: 62 Missouri pop/rock concerts on Ticketmaster in 2018 (199 price-level observations) and resale-fee comparisons for 16 concerts on Ticketmaster vs StubHub.",
+  "focal_constructs": [
+    "platform integration",
+    "primary ticket service fee",
+    "resale percentage fee",
+    "primary-to-resale spillover effect",
+    "double marginalization",
+    "venue size choice",
+    "consumer surplus",
+    "scalper participation"
+  ],
+  "main_findings": [
+    "When resale-fee conditions and demand composition are in relevant ranges, an integrated platform sets a lower primary-market price than independent platforms, which can increase venue size and raise musician profit, platform profit, and consumer surplus.",
+    "Competition from another resale platform can weaken the integrated platform's incentive to cut primary-market fees, so consumers and musicians can be worse off even if resale fees are lower.",
+    "With an integrated platform, a small number of scalpers can induce lower primary prices and increase musician profit and consumer surplus; empirically, Ticketmaster Resale enrollment is negatively correlated with Ticketmaster primary fees, and Ticketmaster's resale percentage fees are lower than StubHub's for the same concerts."
+  ],
+  "one_line_summary": "Using a two-period model of concert ticketing and resale, the paper finds that integrating primary and resale platforms can lower equilibrium fees and prices through cross-market spillovers, alleviating double marginalization and improving welfare under identifiable conditions.",
+  "relation_to_prior_work": "challenges the usual retail-integration prediction that downstream consolidation raises prices by showing that positive cross-market spillovers from primary sales to resale supply can reverse this result. It also extends ticket-resale research beyond direct-selling setups to a channel setting with upstream musician and downstream platform interaction.",
+  "research_gap": "Prior ticket-resale research mainly studies whether resale/scalping should be allowed in direct-selling settings. It does not explicitly analyze how resale markets affect strategic interaction between upstream musicians and downstream primary platforms, or how ownership integration versus separation of primary and resale platforms changes fees, double marginalization, and welfare.",
+  "research_question": "How does integrating ownership of primary and resale ticket platforms, versus keeping them independent, affect equilibrium service fees, prices, resale activity, and welfare for musicians and consumers when buyers face attendance uncertainty? The paper also asks how these effects change with scalper entry, resale-platform competition, and endogenous resale-fee choices."
+}

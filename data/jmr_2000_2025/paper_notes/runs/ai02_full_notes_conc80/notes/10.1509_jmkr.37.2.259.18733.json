@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Combines hierarchical Bayesian modeling with Farquhar and Rao's balance model to estimate assortment-choice utility at the individual level.",
+    "Provides a unified framework that allows individual-specific main-effect and dispersion parameters, pooling across people, and inclusion of person-level covariates under sparse individual data.",
+    "Demonstrates how posterior draws can answer managerially relevant assortment questions, and compares a continuum of nested models to assess needed individual-level specificity."
+  ],
+  "context": "The empirical application is magazine assortment choice at a university setting, where respondents choose which magazines to buy from presented bundles. The products are eight popular magazines described by price and five rated content attributes: current events, business, human interest, sports, and technology.",
+  "design_and_data": "The study uses a conjoint-like repeated-measures experiment in which students evaluated 16 assortment sets each; groups saw either 5-magazine bundles or 6-magazine bundles constructed with marginal and pairwise balance. Respondents indicated which magazines (if any) they would buy at stated subscription prices under a stated annual magazine budget, and also provided magazine attribute ratings and demographics/psychographics. Of 360 distributed questionnaires, 187 were returned; detailed modeling is reported for 125 respondents in the 5-tuple condition, using 14 tasks for estimation and 2 holdouts per person for validation. Parameters were estimated with a hierarchical Bayes specification using a Metropolis-Hastings within Gibbs sampler, and five nested models were compared via BIC and holdout hit rates.",
+  "focal_constructs": [
+    "assortment choice utility",
+    "hierarchical Bayes estimation",
+    "balance model",
+    "attribute main effects",
+    "attribute dispersion (variety) effects",
+    "individual-level heterogeneity",
+    "person-level covariates",
+    "preferred assortment share"
+  ],
+  "main_findings": [
+    "Substantial heterogeneity was found: many respondents were price sensitive, and main-effect preferences differed across attributes and individuals.",
+    "For all six attributes, more respondents preferred less within-assortment variety than more variety, indicating that many consumers favored assortments concentrated on desired attributes rather than broad variety.",
+    "The full individual-specific model (with main effects, dispersion effects, and demographics) outperformed simpler nested models in-sample and out-of-sample (holdout hit rate 51.6% vs. 43.0%, 10.0%, 8.8%, and 44.0% for Models 2-5); in the example extension analysis, adding Newsweek to BusinessWeek and Time gave the highest predicted share and revenue among single-item additions."
+  ],
+  "one_line_summary": "The paper develops and applies a hierarchical Bayes version of the balance model to estimate individual assortment preferences from sparse bundle-choice data and show its predictive and managerial value in magazine assortment decisions.",
+  "relation_to_prior_work": "extends Farquhar and Rao's balance model by embedding it in a hierarchical Bayes framework with person-level random parameters and demographic covariates. It contrasts this individual-level approach with aggregate and no-dispersion special cases to show when richer heterogeneity modeling is warranted.",
+  "research_gap": "Prior balance-model applications typically required extensive preference data per person, whereas real assortment-choice data are often sparse at the individual level. The authors also note that prior assortment-choice work generally had not explicitly modeled individual-level parameters in the assortment utility model, and it was unclear whether individual-level specificity was necessary.",
+  "research_question": "How can individual-level preferences for assortments of multiattribute items be estimated when each person provides limited bundle-choice observations? The paper asks whether a hierarchical Bayes balance model with individual main and dispersion effects improves fit and prediction versus simpler aggregate models, and how those estimates can be used to answer practical assortment design questions."
+}

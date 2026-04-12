@@ -1,0 +1,4 @@
+{
+  "rationale": "The pair is likely substantive: the cited paper’s core contribution is a Bayesian latent-choice data-augmentation method for estimating disaggregate choice models from aggregate data, and the citing paper’s contribution is a Bayesian fusion/augmentation approach for mixed aggregate-disaggregate platform data. The citing note explicitly says it \"extends prior data-fusion and aggregate-data modeling\" and addresses a closely matching gap, so this is more than an incidental background mention despite only one matched reference entry.",
+  "triage_decision": "keep_for_relation_judgment"
+}

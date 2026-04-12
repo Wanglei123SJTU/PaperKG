@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the \"Online Browsing and Purchase Behaviors\" section, the citing paper specifically describes Moe (2006) as modeling different decision rules in browsing versus purchase stages. The authors then use that prior work to position their own contribution as a broader store-assortment model that jointly analyzes browsing and purchasing topics. This is not just a generic background list citation; it materially supports the paper's framing of what is new relative to prior two-stage online shopping research.",
+  "relation_description": "The citing paper treats Moe (2006) as prior two-stage evidence that browsing and purchase behavior can follow different rules, then extends that line by introducing a joint attribute-based mixed-membership topic model for large, frequently changing assortments. The extension shifts from category-level stage rules to store-level latent preference structures across browsing and purchase.",
+  "relation_type": "extends"
+}

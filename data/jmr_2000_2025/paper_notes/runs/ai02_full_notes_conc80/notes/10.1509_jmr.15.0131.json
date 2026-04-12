@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces the \"upgrade effect\": availability of appealing upgrades increases cavalier treatment of currently owned possessions.",
+    "Shows that upgrade-induced neglect appears across durable and nondurable, functional and hedonic goods, using both real-world iPhone data and controlled experiments.",
+    "Identifies need for justification as a key mechanism and provides evidence that the effect can emerge without deliberate intent."
+  ],
+  "context": "The studies cover common consumer goods, including mobile phones, mugs, shampoo, laundry softener, toothpaste, perfume, eyeglasses, and sunglasses. Evidence combines marketplace behavior around iPhone losses with lab and online decisions by current product owners.",
+  "design_and_data": "Evidence comes from eight studies plus a follow-up and a pilot. Study 1a analyzes 2,840 lost iPhones across 119 countries (Sep 2010-Jan 2015), using weekly model-level reports on IMEI Detective and regressions on days to next model release while controlling for model sales from Counterpoint Research. Subsequent experiments with community, student, and MTurk samples manipulate upgrade availability (physical upgrade presence or upgrade-focused writing) and measure product neglect, risky endangerment (Jenga with an owned mug), and intended usage rates for nondurables. Mechanism tests manipulate upgrade justifiability (e.g., donating current glasses after upgrading) and measure individual differences in lay rationalism, with controls such as price paid, ownership length, and book value.",
+  "focal_constructs": [
+    "product upgrades",
+    "carelessness toward possessions",
+    "product neglect",
+    "need for justification",
+    "lay rationalism",
+    "risky behavior with owned products",
+    "consumption acceleration"
+  ],
+  "main_findings": [
+    "Reported iPhone losses follow an inverted-U pattern around new model releases, with fewer loss reports when a newer model is available; lab data similarly show higher phone neglect when desired new models are on the market.",
+    "Compared with no-upgrade conditions, upgrade cues increase careless behaviors: participants were more likely to endanger and drop owned mugs and reported higher intended consumption of partly used nondurable products.",
+    "The effect is linked to justification: an exogenous justification to upgrade reduces neglect, the reduction is stronger among higher lay-rationalism consumers, and participants generally show limited explicit awareness of upgrade-driven carelessness."
+  ],
+  "one_line_summary": "Across field and experimental evidence, the paper shows that the availability of appealing product upgrades makes consumers treat their current possessions more carelessly to justify upgrading.",
+  "relation_to_prior_work": "extends prior research on product upgrades, ownership, and mental accounting by shifting attention from upgrade choice itself to how upgrade availability alters behavior toward current possessions, and links this pattern to justification processes studied in consumer decision making.",
+  "research_gap": "Prior work on upgrades focused mainly on when consumers choose to replace products, not on how upgrade availability changes treatment of still-functional possessions before replacement. The authors identify a missing account of whether and why upgrade cues induce neglect, risk, or accelerated usage of owned goods.",
+  "research_question": "Do consumers become more careless with products they currently own when attractive upgrade options are available, rather than mere replacements? The paper also asks whether this upgrade effect is driven by a need to justify an otherwise unforced upgrade and whether consumers are consciously aware of this behavioral shift."
+}

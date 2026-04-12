@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides an integrated analysis of earned media by jointly estimating how traditional and social earned media affect sales and each other, rather than examining one channel in isolation.",
+    "Extends a multivariate autoregressive count-data approach by using a zero-inflated double Poisson specification with a multivariate normal copula to handle excess zeros, autocorrelation, and contemporaneous dependence.",
+    "Uses a novel 14-month daily dataset from Kiva that combines new and repeat sales with multiple earned media streams (traditional publicity, blogs, and online community posts)."
+  ],
+  "context": "The study is set in Kiva.org, a nonprofit online microlending marketplace where people make small loans to entrepreneurs in developing countries. The focal market outcome is daily loan volume from new and repeat lenders.",
+  "design_and_data": "The authors analyze 427 days of daily data (January 1, 2007 to March 2, 2008) on new-lender and repeat-lender loan counts plus earned media activity. Earned media measures include traditional mentions in newspapers, magazines, television, and radio (86 events), non-company blog posts (2,485), and online community/forum posts (23,862, mostly from Kivafriends), with additional controls such as owned-media posts, Google search indices, borrower supply, and calendar effects. They estimate a zero-inflated multivariate autoregressive double Poisson model with a multivariate normal copula and derive long-run effects using cumulative orthogonalized impulse response functions. Kiva had no paid media activity during the observation window.",
+  "focal_constructs": [
+    "traditional earned media",
+    "social earned media",
+    "publicity mentions",
+    "blog posting activity",
+    "online community posting activity",
+    "new customer sales",
+    "repeat customer sales",
+    "cross-media effects"
+  ],
+  "main_findings": [
+    "Both traditional and social earned media have positive long-run effects on new and repeat sales.",
+    "Per event, traditional earned media has a larger sales impact than social earned media, but after accounting for much higher social-media event frequency, social earned media (especially online community posting) has larger sales elasticities.",
+    "Social earned media helps drive traditional earned media activity in the long run (blogs affect traditional coverage, with community posts feeding into blogs)."
+  ],
+  "one_line_summary": "Using 14 months of daily Kiva data, the paper finds that both traditional and social earned media increase sales, social earned media has stronger frequency-adjusted sales elasticity, and social activity contributes to traditional media coverage.",
+  "relation_to_prior_work": "extends prior WOM and publicity research that typically studies single channels by jointly modeling traditional and social earned media and their dynamic interdependence with sales. It also extends multichannel communications work beyond paid-media focus to earned-media interactions.",
+  "research_gap": "Prior studies generally estimate either traditional publicity effects or social WOM effects separately, making relative impact comparisons difficult. The paper identifies limited evidence on how traditional and social earned media jointly influence sales and each other over time.",
+  "research_question": "What are the relative impacts of traditional earned media and social earned media on sales? How do traditional and social earned media influence one another in a dynamic system?"
+}

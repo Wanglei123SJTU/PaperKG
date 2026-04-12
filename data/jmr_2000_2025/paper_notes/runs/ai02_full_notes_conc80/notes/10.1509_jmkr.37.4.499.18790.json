@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper refines prior multilayer feedforward neural network methods by explicitly addressing the bias-variance dilemma and using v-fold cross-validation to improve generalizability.",
+    "It evaluates whether neural-network-based decision support can outperform traditional prediction methods for NPD project outcomes under multiple decision criteria.",
+    "It claims to be the first study to apply artificial neural network data analysis to the NPD process and to create, train, and validate MFN-based decision support systems for project selection."
+  ],
+  "context": "The study is set in firm new product development project screening and resource allocation, especially go/no-go decisions under scarce resources. The empirical setting uses U.S. high-technology firms, with an additional illustration from a major manufacturing firm.",
+  "design_and_data": "The main data set includes 612 NPD projects introduced by U.S. high-technology firms after 1991; project outcomes were classified by contact people and other executives using firm minimum profitability criteria. The projects were randomly split into a training sample (n = 400) and a holdout evaluation sample (n = 212), with pairing of successful and unsuccessful projects from the same firm when possible. Each network used 43 input variables and predicted one output at a time (dichotomous success, financial success, or technical success); a two-stage MFN approach used 10-fold cross-validation to choose structure (43-5-1) and Levenberg-Marquardt training, with final predictions averaged across 10 trained networks. Holdout performance was compared with k-nearest neighbor, multinomial logit, OLS regression, and discriminant analysis as applicable, and an independent 23-project firm case was used for illustration.",
+  "focal_constructs": [
+    "multilayer feedforward neural networks",
+    "decision support systems",
+    "new product development project selection",
+    "project success prediction",
+    "bias-variance dilemma",
+    "network generalizability",
+    "go/no-go decisions",
+    "financial and technical success"
+  ],
+  "main_findings": [
+    "On the 212-project holdout sample, the MFN model produced the lowest SSE and MSE among compared methods for dichotomous, financial, and technical success predictions.",
+    "For dichotomous go/no-go prediction, the MFN correctly classified 96.7% of projects, exceeding k-nearest neighbor (92.5%), multinomial logit (85.4%), OLS (79.2%), and discriminant analysis (79.2%).",
+    "For three-category outcomes, the MFN yielded far fewer misclassifications than OLS (average 12.5% vs 60.4%), and in the 23-project case study it achieved 87.0%, 95.7%, and 73.9% correct predictions for dichotomous, financial, and technical outcomes, respectively."
+  ],
+  "one_line_summary": "Using 612 U.S. high-technology NPD projects, the authors build and test an MFN neural-network decision support system that outperforms several traditional methods in predicting project outcomes and illustrate its managerial use in an independent firm case.",
+  "relation_to_prior_work": "extends prior marketing neural network comparison work by refining MFN methodology for generalizability and applying it to NPD project selection, which the authors describe as a new ANN application in this literature.",
+  "research_gap": "Although neural networks had shown promising forecasting performance, prior work called for more comparative evidence on their predictive performance versus traditional methods in marketing settings. The authors also identify a lack of ANN-based, trained and validated decision support systems for NPD project selection.",
+  "research_question": "The paper asks whether artificial neural network decision support systems can outperform traditional methods when predicting NPD project outcomes. It tests this at three levels: statistical error criteria (SSE and MSE), dichotomous go/no-go outcomes, and three-category outcomes (success, inconclusive, failure)."
+}

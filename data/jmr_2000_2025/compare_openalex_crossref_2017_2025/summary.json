@@ -1,0 +1,284 @@
+{
+  "analysis_date": "2026-04-11",
+  "subset_years": "2017-2025",
+  "papers_in_subset": 542,
+  "openalex_fetch_success": 542,
+  "crossref_reference_count_stats": {
+    "sum": 32884,
+    "mean": 60.67,
+    "median": 58.0,
+    "min": 8,
+    "max": 146
+  },
+  "openalex_referenced_works_count_stats": {
+    "sum": 29838,
+    "mean": 55.05,
+    "median": 53.0,
+    "min": 8,
+    "max": 133
+  },
+  "count_difference_openalex_minus_crossref": {
+    "mean": -5.62,
+    "median": -5.0,
+    "min": -83,
+    "max": 23,
+    "equal_count_papers": 27,
+    "openalex_higher_count_papers": 65,
+    "crossref_higher_count_papers": 450,
+    "abs_diff_ge_10_papers": 126,
+    "abs_diff_ge_20_papers": 19,
+    "abs_diff_ge_50_papers": 1
+  },
+  "internal_edge_comparison_within_2017_2025_subset": {
+    "crossref_internal_edges_by_doi": 646,
+    "openalex_internal_edges_by_openalex_id": 634,
+    "openalex_internal_edges_mapped_to_doi": 634,
+    "edge_overlap_count": 633,
+    "crossref_only_edges": 13,
+    "openalex_only_edges": 1
+  },
+  "top_15_positive_diffs_openalex_higher": [
+    {
+      "official_year": 2017,
+      "title": "Tipping the Scale: The Role of Discriminability in Conjoint Analysis",
+      "doi": "10.1509/jmr.14.0659",
+      "crossref_reference_count": 53,
+      "openalex_referenced_works_count": 76,
+      "diff_openalex_minus_crossref": 23
+    },
+    {
+      "official_year": 2017,
+      "title": "The Influence of the Structure of Interdependence on the Response to Inequity in Buyer–Supplier Relationships",
+      "doi": "10.1509/jmr.13.0319",
+      "crossref_reference_count": 57,
+      "openalex_referenced_works_count": 76,
+      "diff_openalex_minus_crossref": 19
+    },
+    {
+      "official_year": 2018,
+      "title": "Building a Social Network for Success",
+      "doi": "10.1509/jmr.12.0417",
+      "crossref_reference_count": 39,
+      "openalex_referenced_works_count": 55,
+      "diff_openalex_minus_crossref": 16
+    },
+    {
+      "official_year": 2019,
+      "title": "Political Identity and Financial Risk Taking: Insights from Social Dominance Orientation",
+      "doi": "10.1177/0022243718813331",
+      "crossref_reference_count": 68,
+      "openalex_referenced_works_count": 82,
+      "diff_openalex_minus_crossref": 14
+    },
+    {
+      "official_year": 2017,
+      "title": "Time Preferences and Mortgage Choice",
+      "doi": "10.1509/jmr.14.0481",
+      "crossref_reference_count": 60,
+      "openalex_referenced_works_count": 72,
+      "diff_openalex_minus_crossref": 12
+    },
+    {
+      "official_year": 2021,
+      "title": "Improving Business-to-Business Customer Satisfaction Programs: Assessment of Asymmetry, Heterogeneity, and Financial Impact",
+      "doi": "10.1177/00222437211013781",
+      "crossref_reference_count": 70,
+      "openalex_referenced_works_count": 81,
+      "diff_openalex_minus_crossref": 11
+    },
+    {
+      "official_year": 2018,
+      "title": "How Customer Referral Programs Turn Social Capital into Economic Capital",
+      "doi": "10.1509/jmr.14.0653",
+      "crossref_reference_count": 62,
+      "openalex_referenced_works_count": 72,
+      "diff_openalex_minus_crossref": 10
+    },
+    {
+      "official_year": 2018,
+      "title": "Network Overlap and Content Sharing on Social Media Platforms",
+      "doi": "10.1509/jmr.14.0643",
+      "crossref_reference_count": 55,
+      "openalex_referenced_works_count": 65,
+      "diff_openalex_minus_crossref": 10
+    },
+    {
+      "official_year": 2018,
+      "title": "TV Viewing and Advertising Targeting",
+      "doi": "10.1509/jmr.15.0421",
+      "crossref_reference_count": 36,
+      "openalex_referenced_works_count": 45,
+      "diff_openalex_minus_crossref": 9
+    },
+    {
+      "official_year": 2017,
+      "title": "Beyond the Target Customer: Social Effects of Customer Relationship Management Campaigns",
+      "doi": "10.1509/jmr.15.0442",
+      "crossref_reference_count": 44,
+      "openalex_referenced_works_count": 52,
+      "diff_openalex_minus_crossref": 8
+    },
+    {
+      "official_year": 2019,
+      "title": "Measuring Rank-Based Utility in Contests: The Effect of Disclosure Schemes",
+      "doi": "10.1177/0022243719853289",
+      "crossref_reference_count": 36,
+      "openalex_referenced_works_count": 44,
+      "diff_openalex_minus_crossref": 8
+    },
+    {
+      "official_year": 2021,
+      "title": "Customer Satisfaction and Firm Profits in Monopolies: A Study of Utilities",
+      "doi": "10.1177/0022243720962405",
+      "crossref_reference_count": 64,
+      "openalex_referenced_works_count": 72,
+      "diff_openalex_minus_crossref": 8
+    },
+    {
+      "official_year": 2020,
+      "title": "The Positive Effect of Not Following Others on Social Media",
+      "doi": "10.1177/0022243720915467",
+      "crossref_reference_count": 61,
+      "openalex_referenced_works_count": 68,
+      "diff_openalex_minus_crossref": 7
+    },
+    {
+      "official_year": 2017,
+      "title": "Repairing the Damage: The Effect of Price Knowledge and Gender on Auto Repair Price Quotes",
+      "doi": "10.1509/jmr.13.0291",
+      "crossref_reference_count": 27,
+      "openalex_referenced_works_count": 33,
+      "diff_openalex_minus_crossref": 6
+    },
+    {
+      "official_year": 2017,
+      "title": "Seller Beware: How Bundling Affects Valuation",
+      "doi": "10.1509/jmr.15.0277",
+      "crossref_reference_count": 35,
+      "openalex_referenced_works_count": 41,
+      "diff_openalex_minus_crossref": 6
+    }
+  ],
+  "top_15_negative_diffs_crossref_higher": [
+    {
+      "official_year": 2025,
+      "title": "From Streetwear to High Fashion: How Nonelite Producers Use Hybridization to Enter an Elite Category",
+      "doi": "10.1177/00222437251314372",
+      "crossref_reference_count": 138,
+      "openalex_referenced_works_count": 55,
+      "diff_openalex_minus_crossref": -83
+    },
+    {
+      "official_year": 2019,
+      "title": "Putting the Person Back in Person-Brands: Understanding and Managing the Two-Bodied Brand",
+      "doi": "10.1177/0022243719830654",
+      "crossref_reference_count": 110,
+      "openalex_referenced_works_count": 69,
+      "diff_openalex_minus_crossref": -41
+    },
+    {
+      "official_year": 2019,
+      "title": "Service Robots Rising: How Humanoid Robots Influence Service Experiences and Elicit Compensatory Consumer Responses",
+      "doi": "10.1177/0022243718822827",
+      "crossref_reference_count": 146,
+      "openalex_referenced_works_count": 111,
+      "diff_openalex_minus_crossref": -35
+    },
+    {
+      "official_year": 2022,
+      "title": "Building Brand Assets: The Role of Trademark Rights",
+      "doi": "10.1177/00222437221097108",
+      "crossref_reference_count": 89,
+      "openalex_referenced_works_count": 57,
+      "diff_openalex_minus_crossref": -32
+    },
+    {
+      "official_year": 2017,
+      "title": "Do Disclosures of Customer Metrics Lower Investors’ and Analysts’ Uncertainty but Hurt Firm Performance?",
+      "doi": "10.1509/jmr.14.0028",
+      "crossref_reference_count": 130,
+      "openalex_referenced_works_count": 100,
+      "diff_openalex_minus_crossref": -30
+    },
+    {
+      "official_year": 2023,
+      "title": "Lobbying and Product Recalls: A Study of the U.S. Automobile Industry",
+      "doi": "10.1177/00222437221131568",
+      "crossref_reference_count": 119,
+      "openalex_referenced_works_count": 89,
+      "diff_openalex_minus_crossref": -30
+    },
+    {
+      "official_year": 2024,
+      "title": "A Preemptive and Curative Solution to Mitigate Data Breaches: Corporate Social Responsibility as a Double Layer of Protection",
+      "doi": "10.1177/00222437231218969",
+      "crossref_reference_count": 126,
+      "openalex_referenced_works_count": 100,
+      "diff_openalex_minus_crossref": -26
+    },
+    {
+      "official_year": 2021,
+      "title": "Consumer Behavior in the Online  Classroom: Using Video Analytics  and Machine Learning to Understand the Consumption of Video Courseware",
+      "doi": "10.1177/00222437211042013",
+      "crossref_reference_count": 78,
+      "openalex_referenced_works_count": 53,
+      "diff_openalex_minus_crossref": -25
+    },
+    {
+      "official_year": 2025,
+      "title": "How Fatal School Shootings Impact a Community's Consumption",
+      "doi": "10.1177/00222437251350150",
+      "crossref_reference_count": 100,
+      "openalex_referenced_works_count": 77,
+      "diff_openalex_minus_crossref": -23
+    },
+    {
+      "official_year": 2025,
+      "title": "Modeling Categorized Consumer Collections with Interlocked Hypergraph Neural Networks",
+      "doi": "10.1177/00222437251349798",
+      "crossref_reference_count": 66,
+      "openalex_referenced_works_count": 43,
+      "diff_openalex_minus_crossref": -23
+    },
+    {
+      "official_year": 2022,
+      "title": "The Profitability of Purchase Limits During Shortages",
+      "doi": "10.1177/00222437221101808",
+      "crossref_reference_count": 96,
+      "openalex_referenced_works_count": 74,
+      "diff_openalex_minus_crossref": -22
+    },
+    {
+      "official_year": 2023,
+      "title": "From Free to Paid: Monetizing a Non-Advertising-Based App",
+      "doi": "10.1177/00222437221131562",
+      "crossref_reference_count": 75,
+      "openalex_referenced_works_count": 53,
+      "diff_openalex_minus_crossref": -22
+    },
+    {
+      "official_year": 2017,
+      "title": "Linking Customer Behaviors to Cash Flow Level and Volatility: Implications for Marketing Practices",
+      "doi": "10.1509/jmr.15.0158",
+      "crossref_reference_count": 68,
+      "openalex_referenced_works_count": 47,
+      "diff_openalex_minus_crossref": -21
+    },
+    {
+      "official_year": 2021,
+      "title": "Competition and Firm Service Reliability Decisions: A Study of the Airline Industry",
+      "doi": "10.1177/0022243720973943",
+      "crossref_reference_count": 87,
+      "openalex_referenced_works_count": 66,
+      "diff_openalex_minus_crossref": -21
+    },
+    {
+      "official_year": 2021,
+      "title": "The Performance Impact of Core-Component Outsourcing: Insights from the LCD TV Industry",
+      "doi": "10.1177/00222437211010766",
+      "crossref_reference_count": 70,
+      "openalex_referenced_works_count": 50,
+      "diff_openalex_minus_crossref": -20
+    }
+  ]
+}

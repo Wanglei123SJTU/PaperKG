@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper claims to be among the first to examine dynamic effects of defaults in sequential consumer choice, not just immediate default uptake in one-shot choices.",
+    "It claims that default acceptance is a more passive choice process that attenuates inference-based spillover, linking defaults to preference dynamics such as preference updating and background contrast.",
+    "It claims practical and methodological contributions by combining controlled experiments with a field study and a dynamic choice model to show how default policies can backfire on total revenue."
+  ],
+  "context": "The research studies sequential consumer decisions in product/package configuration settings where people choose multiple related options one by one. Empirical contexts include online travel choices (hotels and car rental), sofa customization, and a live online car configurator run by a premium automobile manufacturer.",
+  "design_and_data": "The paper reports three preregistered-style online experiments plus one field study. Experiment 1 (usable n=2,391, U.S. MTurk) uses a 2x2 plus control design with two sequential hotel choices to test background-contrast spillover with and without defaults; Experiment 2 (usable n=1,589, U.S. Prolific) studies sequential hotel then car-rental choices across default-present, default-absent, and control conditions; Experiment 3 (usable n=1,566, U.S. MTurk) studies sequential sofa frame then upholstery choices with default-present, default-absent, and control conditions. The field study ran 49 weeks in a live car customization system with four randomized default-treatment conditions (n=308, 291, 254, 270) and a no-default standard system (n=7,485), and the authors estimate a dynamic random-utility model with spillover terms moderated by default acceptance/rejection.",
+  "focal_constructs": [
+    "defaults",
+    "sequential consumer choice",
+    "choice spillover",
+    "inference-based spillover",
+    "preference updating",
+    "background-contrast effect",
+    "balancing",
+    "default acceptance vs default rejection"
+  ],
+  "main_findings": [
+    "In Experiment 1, background-contrast spillover in the second hotel choice was significantly attenuated when the first-choice background-favored option was chosen as a default.",
+    "In Experiments 2 and 3, active first choices generated preference-updating spillover to later choices, while accepting a default attenuated this spillover; rejecting a default behaved like an active choice and did not show the same attenuation.",
+    "In the automobile field study, defaults had a strong immediate effect on selecting defaulted options, but default acceptance reduced or reversed downstream spillover toward chosen-option-consistent preferences, so high-price defaults could lower total configured-car revenue once subsequent choices were considered."
+  ],
+  "one_line_summary": "Across three experiments and a live automobile configurator field study, the paper shows that accepting defaults in sequential choices attenuates inference-based spillover to later choices, which can make high-price defaults backfire on total spending.",
+  "relation_to_prior_work": "extends prior default-effects research that largely examined single decisions by showing how defaults alter downstream preference dynamics across sequences of related choices. extends spillover and preference-construction work by identifying default acceptance as a boundary condition that suppresses inference-based spillover relative to active choice.",
+  "research_gap": "Prior default research mainly documents immediate effects in single-choice settings, while little is known about what defaults do in sequences of related choices. In particular, the literature had not examined whether and how setting a default in one choice changes spillover to subsequent choices.",
+  "research_question": "How do defaults influence preference dynamics when consumers make a sequence of related choices? Specifically, does accepting a default versus making an active choice (with or without a default present) change inference-based choice spillover to subsequent decisions?"
+}

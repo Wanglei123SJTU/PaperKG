@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops and validates a new scenario-based Response-to-Failure (RTF) scale to predict behavior after an initial self-control lapse.",
+    "It empirically distinguishes initial self-control failure from post-failure behavior and shows they are not captured by the same predictors.",
+    "It shows that the same cognitive and emotional response structure applies across eating, spending, and cheating, and provides short-form domain scales."
+  ],
+  "context": "The paper studies consumer sequential self-control decisions after an initial lapse. The focal domains are eating, spending, and cheating, using mostly undergraduate samples in scenario, lab-task, diary, and survey settings.",
+  "design_and_data": "The authors ran prestudies to generate and screen items from open-ended responses to self-control-failure scenarios (Prestudy A, N=75; Prestudy B, N=194), then used exploratory and confirmatory factor analyses to select a two-factor, 63-item scale. Psychometric validation included test-retest and social desirability checks (Study 1, N=48), nomological and discriminant validity against multiple related scales (Study 2, N=124), and extension to a cheating domain scale (Study 3, N=43). Predictive validity was tested in scenario experiments with manipulated initial failure in spending (Study 4, N=167) and eating (Study 5, N=144), a one-week diary of eating behavior (Study 6, N=148), a lab cheating paradigm with incentive manipulation (Study 7, N=115), and a debt outcome study (Study 8, N=120). They also reanalyzed results to develop 18-item short forms for each domain.",
+  "focal_constructs": [
+    "sequential self-control",
+    "initial self-control failure",
+    "post-failure behavior",
+    "additional failure",
+    "reform",
+    "failure-related cognitions",
+    "failure-related emotions",
+    "Response-to-Failure scale"
+  ],
+  "main_findings": [
+    "Across eating, spending, and cheating, the RTF items consistently formed two factors: a tendency toward additional failure and a tendency toward reform, with evidence of reliability and nomological/discriminant validity.",
+    "RTF scores predicted post-failure behavior when an initial failure had occurred, but did not predict behavior in no-initial-failure conditions or the occurrence of initial failure itself.",
+    "RTF predictions held beyond existing self-control-related scales and extended to behavioral outcomes such as escalating cheating and higher reported credit card debt."
+  ],
+  "one_line_summary": "The paper develops and validates the Response-to-Failure scale, a scenario-based measure of cognitive and emotional reactions to an initial lapse that predicts whether consumers reform or fail again across eating, spending, and cheating.",
+  "relation_to_prior_work": "extends prior self-control research by moving from single-choice models to sequential post-failure behavior and by jointly examining initial failure, integral emotions and cognitions, and subsequent action. It introduces a measure that predicts post-failure behavior beyond existing trait and domain self-control scales.",
+  "research_gap": "Most existing self-control research and scales focus on single choices and do not directly predict behavior after an initial lapse. Prior work had also tended to examine failure effects on emotions/cognitions and emotions/cognitions effects on behavior separately, rather than jointly for post-failure behavior.",
+  "research_question": "Which cognitive and emotional responses to an initial self-control failure determine whether consumers show additional failure or reform? Can a scenario-based Response-to-Failure scale capture these responses and predict post-failure behavior across eating, spending, and cheating beyond existing self-control measures?"
+}

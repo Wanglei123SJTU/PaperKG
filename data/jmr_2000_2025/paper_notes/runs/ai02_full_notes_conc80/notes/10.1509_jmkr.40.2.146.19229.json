@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper challenges the implicit forced-choice assumption that adding a no-choice option takes share proportionally from all options, and shows systematic violations of this assumption.",
+    "It demonstrates that adding a no-choice option changes classic context effects: attraction effects become stronger, compromise effects become weaker, and all-average options lose relative share.",
+    "It probes mechanisms and boundary conditions by manipulating preference uncertainty and by varying when the no-choice option is introduced (immediately after forced choice versus after delay)."
+  ],
+  "context": "The paper studies consumer choice tasks used in marketing research, where respondents often choose among product/service alternatives but may also defer or reject all options. Empirical tests use hypothetical purchase choices across multiple categories (for example, cameras, CD players, microwaves, restaurants, computers).",
+  "design_and_data": "The article reports five experiments using between-subjects manipulations of forced choice versus free choice (with a no-choice option), option-set structure, uncertainty, and timing of deferral. Study 1 (N=140 science museum visitors) compares mixed versus all-average options across four categories under forced versus free choice. Study 2 (N=322 science museum visitors) uses a 2 x 2 design (two- vs three-option sets x no-choice absent/present) across six categories to test compromise and attraction effects; Study 3 (N=120 airport passengers) manipulates point values versus attribute ranges in five categories with no-choice available. Studies 4 and 5 test sequencing effects: Study 4 (N=110 museum visitors) compares single-stage free choice to two-stage forced-then-deferral tasks, and Study 5 (N=216 undergraduates) adds an immediate versus delayed second-stage deferral condition.",
+  "focal_constructs": [
+    "forced choice",
+    "no-choice (deferral) option",
+    "preference uncertainty",
+    "decision conflict",
+    "compromise effect",
+    "attraction effect",
+    "all-average option",
+    "asymmetrically dominating option"
+  ],
+  "main_findings": [
+    "Introducing a no-choice option reduced the relative share of all-average options versus mixed options, indicating disproportionate cannibalization rather than proportional share draw.",
+    "When no-choice was available, the compromise effect weakened while the attraction effect strengthened, and no-choice share fell when an asymmetrically dominated option was added.",
+    "Greater uncertainty increased deferral (attribute ranges raised no-choice share), forced-then-free sequencing increased no-choice selection, and this sequencing effect largely disappeared after a short time delay."
+  ],
+  "one_line_summary": "Across five experiments, the paper shows that allowing a no-choice option systematically shifts share away from conflict-reducing choices, so forced-choice tasks can bias inferred relative preferences.",
+  "relation_to_prior_work": "extends prior research on choice deferral and context effects by showing that the no-choice option is not an irrelevant alternative and competes most with options chosen under preference uncertainty, thereby altering attraction and compromise patterns.",
+  "research_gap": "Prior forced-choice research generally assumed that if a no-choice option were available, it would draw proportionally from existing alternatives (an IIA-like assumption), leaving qualitative relative-preference conclusions unchanged. The paper argues that this had not been directly tested and that there was limited evidence on which options lose share when no-choice is available.",
+  "research_question": "Does adding a no-choice (deferral) option to consumer choice tasks change relative shares in systematic, nonproportional ways compared with forced-choice tasks? In particular, does no-choice compete most with options people select under preference uncertainty, and therefore alter observed compromise and attraction effects?"
+}

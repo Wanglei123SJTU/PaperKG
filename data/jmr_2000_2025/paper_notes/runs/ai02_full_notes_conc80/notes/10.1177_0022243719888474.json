@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Identifies a new effect of scented advertising: scent can physically represent a product's essence and increase felt product proximity.",
+    "Shows when the effect occurs by establishing boundary conditions based on scent expectations, including product scent expectation, scent congruence, and product physical presence.",
+    "Demonstrates that proximity is a distinct mechanism beyond imagery, engagement, affect, and construal-level explanations, and explores psychological ownership as a downstream pathway."
+  ],
+  "context": "The paper studies scented versus unscented print advertising for consumer products, including candles, soaps, drinking glasses, and a medical tincture. The focus is on ad exposure contexts where the product is often not physically present.",
+  "design_and_data": "The authors report six between-subjects laboratory experiments with university students (main-study sample sizes: 179, 277, 187, 171, 212, and 146), plus pretests to identify scent-expected categories, scent-product congruence, and unpleasant scents. Across studies, they manipulate scent presence, product scent expectation by category, scent congruence, scent centrality, physical product presence, and scent pleasantness, while keeping visual/tactile ad content constant. Outcomes include perceived product proximity, product appeal, preference allocations, willingness to pay, and psychological ownership; several studies include olfactory sensitivity checks and salience versus nonsalience of scent information. Analyses rely on ANOVA and PROCESS mediation/moderated mediation models.",
+  "focal_constructs": [
+    "scented advertising",
+    "sense of product proximity",
+    "product appeal",
+    "scent expectations",
+    "scent congruence",
+    "physical product presence",
+    "psychological ownership"
+  ],
+  "main_findings": [
+    "Scented (vs. unscented) ads increase consumers' felt proximity to the advertised product, and this proximity mediates increases in product appeal.",
+    "The proximity effect appears only when the scent can credibly represent the product (products expected to smell and scent-congruent ads), and it is robust to scent-information salience and scent centrality.",
+    "The effect is weaker when the product is physically present, and even unpleasant but congruent scents raise felt proximity; psychological ownership is supported as a downstream mediator in exploratory analyses."
+  ],
+  "one_line_summary": "Across six experiments, the paper shows that scenting print ads can make products feel physically closer and thereby improve product evaluations when the scent credibly matches product scent expectations.",
+  "relation_to_prior_work": "extends prior olfaction-in-advertising research that mainly documented ad memorability and engagement by identifying a proximity-based mechanism for product appeal. It also links sensory-distance and magical-contagion ideas to marketing outcomes while empirically separating this visceral pathway from imagery, affect, engagement, and construal-level accounts.",
+  "research_gap": "Prior work offered mixed and mostly circumstantial evidence on whether scented print ads increase the appeal of the advertised product. The paper addresses the lack of a clear theoretical explanation of when and why ad scent should change product evaluations.",
+  "research_question": "Can adding scent to a print ad change how consumers perceive and evaluate the advertised product, not just the ad itself? Specifically, does scent increase felt product proximity and thereby product appeal, and under what boundary conditions does this occur?"
+}

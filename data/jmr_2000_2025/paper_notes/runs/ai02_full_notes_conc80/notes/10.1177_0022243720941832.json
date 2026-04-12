@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper provides a large-scale cross-platform documentation of the prevalence and heterogeneity of polarity and positive imbalance in online review distributions.",
+    "It empirically identifies polarity self-selection as a key driver of review polarity and proposes the number of reviews per reviewer as a practical proxy for that self-selection.",
+    "It shows that polarity self-selection can distort commonly used review metrics, helping explain mixed prior findings on links between average ratings and outcomes such as sales and quality."
+  ],
+  "context": "The study analyzes numerical online ratings on major digital platforms, including e-commerce and review sites such as Amazon, Yelp, Expedia, IMDb, TripAdvisor, and others. It covers multiple categories, including books, movies, restaurants, hotels, travel services, and beers.",
+  "design_and_data": "The authors compile a secondary dataset of more than 280 million reviews from over 24 million reviewers across 25 platforms, covering more than 2 million products and services. They run cross-platform analyses and an individual-level hierarchical model on stacked review data to relate polarity to reviewer and platform characteristics. They complement this with within-platform Yelp analyses and a survey of Yelp reviewers (n=95) to validate proxies for self-selection. They also run two between-subject experiments (restaurants n=149, books n=158) that manipulate review self-selection, and additional analyses linking review metrics to song sales rank, critic scores, and Yelp helpfulness votes.",
+  "focal_constructs": [
+    "online review polarity",
+    "positive imbalance",
+    "polarity self-selection",
+    "reviewer frequency",
+    "average rating informativeness",
+    "review volume",
+    "social influence"
+  ],
+  "main_findings": [
+    "Polar and positively imbalanced rating distributions are common across platforms, but the degree of polarity varies substantially across platforms and categories.",
+    "Reviewer frequency is strongly related to polarity: fewer reviews per reviewer are associated with more polar distributions, and experimentally reducing self-selection lowers polarity.",
+    "Greater polarity self-selection reduces informativeness of ratings, shown by weaker relationships between average ratings and downstream outcomes such as sales and objective quality, while lower-self-selection reviews are perceived as more useful."
+  ],
+  "one_line_summary": "Using over 280 million ratings from 25 platforms plus surveys and experiments, the paper shows that review polarity is widespread but varies systematically with polarity self-selection, which also reduces the informativeness of average ratings.",
+  "relation_to_prior_work": "extends prior online and offline WOM research by moving beyond single-platform evidence of polar reviews to a cross-platform account of variation in review distributions. It introduces and validates a practical self-selection proxy and links this mechanism to downstream informativeness of review metrics.",
+  "research_gap": "Prior work had documented polar online review distributions, but mostly from single-platform settings, especially Amazon, leaving their prevalence and heterogeneity across platforms unclear. The literature also had limited evidence on the mechanism behind this variation and on how review self-selection affects the informational value of ratings.",
+  "research_question": "How prevalent and robust are polarity and positive imbalance in online review distributions across platforms and categories? To what extent can variation in these distributions be explained by polarity self-selection, and can reviewer frequency serve as a practical proxy for that self-selection? What are the downstream implications of polarity self-selection for how informative average ratings are?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides a first long-horizon, multi-facet test of stability versus change in consumer traits by examining 11 established traits over 12 years.",
+    "Proposes and uses a Big Five-based framework to organize consumer traits, while covering consumer responses linked to the 4 Ps.",
+    "Disentangles aggregate trait change into intrinsic maturation versus changing societal attitudes, and shows how macro shocks (especially the Great Recession) differentially affect specific traits such as price consciousness."
+  ],
+  "context": "The study uses the Netherlands as the empirical setting, following members of GfK's household panel from 2002 to 2013. Respondents were the household member primarily responsible for grocery shopping, observed through a period that included a major retailer price war and the 2008-2009 Great Recession.",
+  "design_and_data": "The authors administered 49 previously validated or adapted items annually to measure 11 consumer traits, using a focal balanced panel of 1,411 consumers present in all 12 years. Due to missing-data rules, effective sample size varied by trait (roughly 911 to 1,256). Analyses used SEM in Mplus: longitudinal CFA for configural, metric, and scalar invariance; latent curve models with random intercepts and AR(1) disturbances for mean and individual change; plus reliable change index, test-retest correlations, and structural/profile stability analyses. They also compared focal-panel means with year-specific nonfocal respondents and analyzed recession-period budget-constraint change groups.",
+  "focal_constructs": [
+    "consumer trait stability",
+    "consumer trait change",
+    "measurement invariance",
+    "mean-level and individual-level trajectories",
+    "rank-order stability",
+    "structural stability",
+    "profile stability",
+    "aging and societal attitude change"
+  ],
+  "main_findings": [
+    "All 11 traits showed scalar measurement invariance over time, and rank-order stability remained high even over long lags (11-year-lag test-retest medians about .50 to .72), indicating strong traitlike persistence.",
+    "Most traits followed modest, largely linear aggregate trends; market mavenism and consumer innovativeness showed the largest declines, impulsive buying showed no aggregate trend, and observed shifts reflected different mixes of aging and societal-attitude change.",
+    "Price consciousness was notably more sensitive to environmental and financial shocks than other traits, rising around the price-war and recession periods and increasing most among households with worsening budget constraints; short-term volatility was limited relative to gradual long-term change."
+  ],
+  "one_line_summary": "Using 12 annual waves from Dutch panelists, the paper finds that consumer traits are highly stable but still change gradually over time, with aging, societal shifts, and macroeconomic shocks jointly shaping those changes.",
+  "relation_to_prior_work": "extends prior consumer-trait research that is largely cross-sectional or based on short test-retest windows by providing a long-run longitudinal assessment across multiple stability concepts. It benchmarks consumer-trait dynamics against established Big Five stability evidence and links aggregate shifts to dynamic cultural change arguments.",
+  "research_gap": "The paper states that despite the widespread use of consumer traits, their temporal dynamics are poorly understood, with test-retest evidence available for only a few scales. Existing stability tests in marketing are typically over very short windows (about two to four weeks), which is insufficient for understanding long-term stability and change mechanisms.",
+  "research_question": "The study asks how stable consumer traits are over time and how their stability compares with Big Five personality trait stability. It asks whether aggregate changes are driven by intrinsic maturation, changing societal attitudes, or both, and whether changes in personal financial circumstances during the Great Recession affect traits. It also asks whether apparent long-term stability masks high short-term volatility."
+}

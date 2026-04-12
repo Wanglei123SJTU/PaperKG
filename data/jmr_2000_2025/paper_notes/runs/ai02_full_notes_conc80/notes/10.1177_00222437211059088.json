@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Shows that the widely used simple count method is equivalent to an implicit conditional independence assumption, P(L|X,S)=P(L|X), and can produce ecological-fallacy-type bias when that assumption fails.",
+    "Introduces a Bayesian consumer profiling framework that encodes alternative list-selection mechanisms (L1-L8) and allows additional observed covariates via a lower-dimensional Z representation.",
+    "Demonstrates model comparison via Bayes factors and provides simulation and case-study evidence that explicit selection modeling materially improves profiling and targeting from aggregate data."
+  ],
+  "context": "The paper studies firms inferring consumer characteristics from aggregate reference tables (e.g., Census, Acxiom, Merkle, Experian) when individual-level data are missing or unusable. Empirical settings include estimating age from first names and inferring income, occupation, and education of U.S. website visitors from geolocated IP addresses.",
+  "design_and_data": "The authors develop likelihood-based Bayesian models for multiple endogenous list-selection mechanisms and estimate them with MCMC using priors on selection weights and related parameters. They run 2,500 simulations (5x5 conditions, 100 replications each) in a Yahoo Smart Billboard-style setup with a 500,000-person reference table, 10 car-model categories, 5 income categories, and target lists of 25,000 cars. Empirical illustration 1 uses 14,075 private-bank customers, a French first-name reference table with 12,834 names and 21 age bins, and compares random selection, simple count, and Bayesian selection-on-S models. Empirical illustration 2 starts from 36,036 tracked IPs and analyzes 10,771 U.S. users across 2,995 zip codes, linked to Census data for 33,120 zip codes; it compares 18 core models (and many Z operationalizations) using BIC and Bayes factors.",
+  "focal_constructs": [
+    "consumer profiling",
+    "aggregate data augmentation",
+    "endogenous list selection",
+    "conditional independence assumptions",
+    "Bayesian profiling",
+    "simple count method",
+    "reference tables",
+    "geolocation-based inference"
+  ],
+  "main_findings": [
+    "In simulations, Bayesian profiling that models selection on S outperforms the simple count method in almost all managerially relevant conditions, often by very large margins, with the exception of near-random selection plus very weak X-S association.",
+    "In the first-name age case, Bayesian profiling substantially improves fit and targeting relative to simple count (e.g., RMSE drops from 2.81% to 0.83%, and critical under-18 errors fall from 6.30% to 0.01%).",
+    "In the IP-address case, the simple count method performs worst among compared specifications, while models combining S and an engineered geographic Z indicator (additive form) achieve the best fit and yield much more face-valid profiles for income, occupation, and education."
+  ],
+  "one_line_summary": "The paper develops and validates a Bayesian framework for consumer profiling from aggregate data that outperforms the industry-standard simple count method by explicitly modeling endogenous list-selection assumptions.",
+  "relation_to_prior_work": "extends missing-data and data-fusion work by modeling a target list where the focal variable is entirely unobserved and by replacing conditional independence on observed variables with assumptions about selection on unobserved variables. It also connects to endogenous selection research but shifts the objective from estimating causal structural parameters to recovering the distribution of missing characteristics within the selected list.",
+  "research_gap": "Industry practice and some prior applications rely on a simple count approach that assumes list membership is conditionally independent of the unobserved profile variable given observed keys, but this assumption is often unrealistic and rarely scrutinized. There is limited guidance for estimating and comparing alternative endogenous list-selection mechanisms when only aggregate reference tables are available.",
+  "research_question": "How can firms more accurately infer individual and list-level consumer characteristics from aggregate reference data when the variable of interest is completely missing in the target list and selection into that list is nonrandom? Which list-selection assumptions and model forms provide better profiling and targeting performance than the standard simple count approach?"
+}

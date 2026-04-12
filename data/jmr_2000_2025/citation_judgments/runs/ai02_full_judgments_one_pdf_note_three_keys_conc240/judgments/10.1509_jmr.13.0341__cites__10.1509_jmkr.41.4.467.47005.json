@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citation appears in the core model-development section, where the authors justify why endogeneity from targeted coupon allocation must be addressed. They explicitly cite Manchanda, Rossi, and Chintagunta (2004) for the point that nonrandom marketing-mix variables can bias response-model parameters, including random effects. This directly supports their decision to model coupon allocation and include correction terms in the redemption model, so the citation is more than a passing mention.",
+  "relation_description": "The citing paper applies the cited paper's nonrandom marketing-mix/endogeneity insight to a mobile coupon setting. It uses that logic to motivate modeling coupon allocation separately and correcting the redemption response model for allocation-driven endogeneity.",
+  "relation_type": "applies"
+}

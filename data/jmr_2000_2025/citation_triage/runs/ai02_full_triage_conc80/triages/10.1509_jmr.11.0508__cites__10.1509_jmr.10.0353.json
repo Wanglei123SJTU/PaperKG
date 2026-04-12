@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s core contribution is a network-based prelaunch forecasting method (synthetic network simulations and Bayesian priors on Facebook app diffusion), whereas the cited paper focuses on content-level emotion/arousal drivers of sharing in NYT articles and lab experiments. The only matched evidence is a bare DOI reference with no local citation context, and the citing-note summary of prior work does not indicate direct use of the cited paper’s method, data, or mechanism. This appears to be an incidental/background mention rather than substantive reliance.",
+  "triage_decision": "drop_obvious_mention_only"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops one of the first nonproprietary marketing algorithms for optimal Internet display ad budget allocation in programmatic advertising with RTB.",
+    "Introduces a scalable constrained convex optimization that explicitly incorporates cross-website viewership correlations and bid-win probabilities from bid landscapes.",
+    "Provides a practical bid- and budget-setting tool that can optimize multiple exposure-based KPIs and accommodate targeting, frequency goals, and mandatory website-coverage constraints."
+  ],
+  "context": "The paper is set in U.S. online display advertising, especially programmatic private-marketplace auctions with real-time bidding. Empirical illustrations use 2011 comScore Media Metrix browsing data and campaign-like settings for McDonald's McRib and Norwegian Cruise Line Wave Season.",
+  "design_and_data": "The authors formulate campaign optimization as minimizing the probability of zero ad exposures subject to a budget constraint, using user-by-website page-view matrices to capture cross-site audience overlap and website-specific bid landscape cost curves to map bids to win probabilities. They solve the resulting constrained convex problem with a coordinate descent algorithm over a grid of Lagrange multipliers, yielding allocations across many budgets. Evidence includes a 5-website conceptual simulation, a large-scale simulation with 50,000 users and 5,000 websites, and two comScore-based case studies with 500 websites (McRib: 56,666 users; NCL: 48,628 users), typically evaluated with 10% calibration and 90% holdout data.",
+  "focal_constructs": [
+    "programmatic display advertising",
+    "real-time bidding",
+    "Internet media selection",
+    "reach/frequency/GRP/effective frequency KPIs",
+    "bid landscapes",
+    "cross-website viewership correlations",
+    "constrained convex optimization",
+    "coordinate descent"
+  ],
+  "main_findings": [
+    "Across the large-scale simulation and both comScore case studies, the proposed method achieved higher holdout reach than equal-allocation, cost-adjusted, and benchmark greedy approaches.",
+    "In their tests, calibrating the method on a 10% subset produced reach curves close to calibration on the full data.",
+    "The optimization tends to avoid expensive publishers when audiences overlap and uses them mainly for incremental unique reach; in the NCL constraint exercise, heavier mandatory spending on travel sites reduced overall reach but improved reach within travel-site users, with a 20% constraint yielding a better overall trade-off than an 80% constraint."
+  ],
+  "one_line_summary": "The paper proposes a scalable convex optimization method that uses bid landscapes and cross-site audience overlap to set website-level bids and budgets for large programmatic display ad campaigns.",
+  "relation_to_prior_work": "extends prior Internet media selection models that used Sarmanov/copula structures at smaller scale by offering a convex, computationally efficient formulation for many websites. It also transfers Lasso-style constrained optimization ideas to website selection and incorporates bid-landscape information from RTB research.",
+  "research_gap": "The paper argues that prior marketing methods for Internet media allocation were effective only for relatively small numbers of websites and became computationally infeasible as scale increased because of nonconvex optimization. It also notes that practical DSP methods were largely proprietary and often rule-based, with limited explicit optimization over correlated audiences across all websites.",
+  "research_question": "How can firms optimally allocate online display advertising budgets across a very large set of websites in programmatic RTB campaigns? Can bidding guidelines be computed efficiently while explicitly accounting for bid-win probabilities and cross-website audience overlap, and still support practical constraints such as targeting and frequency goals?"
+}

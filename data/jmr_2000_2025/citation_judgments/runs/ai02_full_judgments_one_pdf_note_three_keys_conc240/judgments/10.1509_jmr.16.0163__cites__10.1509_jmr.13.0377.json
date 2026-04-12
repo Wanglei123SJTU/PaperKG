@@ -1,0 +1,6 @@
+{
+  "citation_substance": "mention_only",
+  "rationale": "The cited paper appears only once, in the conclusion section discussing a possible extension from churn lift to value-based lift. The citing paper references Braun et al. (2015) as a similar example for noncontractual settings, but it does not build its main framework, estimation strategy, experiments, or empirical results on that work. There is no direct reuse of measures, model components, or tests from the cited study in the core analysis. This makes the citation a contextual pointer rather than a meaningful building block of the paper.",
+  "relation_description": null,
+  "relation_type": null
+}

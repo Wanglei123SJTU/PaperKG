@@ -1,0 +1,6 @@
+{
+  "citation_substance": "mention_only",
+  "rationale": "The cited paper appears only in a grouped parenthetical citation in the robustness section as an example of prior work on online-offline channel switching/substitution. The citing paper does not discuss this specific paper's mechanism, empirical design, or conclusions when developing its framework or estimating effects. Its function is generic background context for motivating an additional robustness check, not a substantive dependency.",
+  "relation_description": null,
+  "relation_type": null
+}

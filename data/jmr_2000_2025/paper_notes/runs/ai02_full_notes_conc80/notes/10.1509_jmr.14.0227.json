@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Demonstrates with field evidence that yes/no response formats can increase response rates even when choice is not forced and recipients can ignore or defer.",
+    "Examines the full enrollment funnel in this context, linking response format to clicks, enrollment, and active participation rather than only initial enrollment or disenrollment.",
+    "Extends choice-architecture application to low-attention email marketing/program communications and discusses plausible mechanisms for why yes/no works in non-forced settings."
+  ],
+  "context": "The studies were run in email communications from a large workplace wellness services company to employees (and some partners) at employer clients. Messages concerned two online wellness programs, Boost (physical activity tracking) and Journeys (multi-behavior wellness activities with points/rewards).",
+  "design_and_data": "The paper reports two randomized field experiments in a non-forced-choice email setting. Experiment 1 used 24,863 delivered reminder emails to previously enrolled but inactive Boost users, randomly assigning two opt-in call-to-action formats versus a yes/no format; outcomes were clicks and subsequent activity tracking. Experiment 2 used 14,929 delivered recruitment emails for a new Journeys program in a 2 x 2 design (opt-in vs yes/no crossed with benefit-emphasis vs no-emphasis), run across multiple employer sites. The tracking system recorded click-through, enrollment completion, and downstream participation behavior.",
+  "focal_constructs": [
+    "yes/no response format",
+    "opt-in response format",
+    "non-forced-choice setting",
+    "click-through rate",
+    "program enrollment",
+    "program participation",
+    "benefit emphasis",
+    "active choice"
+  ],
+  "main_findings": [
+    "Yes/no formats produced significantly higher click-through rates than opt-in formats in both experiments (Experiment 1: 13.3% vs 9.5%; Experiment 2: 7.2% vs 3.2%).",
+    "In Experiment 1, the click advantage did not translate into higher downstream participation; yes/no recipients were marginally less likely to track activity in the following week.",
+    "In Experiment 2, yes/no increased downstream outcomes, including enrollment (3.8% vs 2.2%) and participation (completed at least one step: 2.3% vs 1.2%); benefit emphasis did not raise clicks and showed weaker, context-dependent effects than yes/no."
+  ],
+  "one_line_summary": "Across two large field email experiments in workplace wellness programs, yes/no response options increased click-through versus opt-in and, when immediate enrollment followed, also increased enrollment and participation in a non-forced-choice setting.",
+  "relation_to_prior_work": "extends prior active-choice and choice-architecture research by showing that yes/no formats outperform opt-in even when respondents are not forced to choose. It also extends earlier tests by measuring downstream engagement outcomes, not only initial enrollment decisions.",
+  "research_gap": "Prior evidence on yes/no (active-choice) formats was largely from forced-choice implementations, leaving unclear whether the effect persists when people can ignore or defer the decision. Prior studies also generally did not directly measure postchoice active participation, so the link from response format to sustained behavior was unresolved.",
+  "research_question": "Do yes/no response formats increase response rates in non-forced-choice email settings relative to standard opt-in formats? If they do, does any initial click-through advantage persist through later stages of the funnel, including enrollment and active participation in wellness programs?"
+}

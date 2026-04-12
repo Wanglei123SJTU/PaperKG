@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Shows when and why consumers prefer and rely on numerical information by introducing a motivational driver, personal control threat, into numerical judgment research.",
+    "Demonstrates that personal control loss changes reactions to a prevalent information type in marketing, numerical product attributes.",
+    "Provides evidence in compensatory control terms that the desire for predictability after control threat increases preference for precise numerical formats (especially point values)."
+  ],
+  "context": "The paper studies consumer judgments of numerical product specifications in marketing settings, including smartphones, tablets, MP3 players, and a notebook choice task. It also examines advertising and media contexts where consumers may feel reduced control (e.g., computer-crash ads, tsunami news content).",
+  "design_and_data": "The authors run seven experiments (Studies 1a, 1b, 2, 3, 4, 5, 6), mostly with MTurk participants and one laboratory student sample. Across studies, they manipulate personal control (recall tasks, ad/news scenarios, and a neutral condition in Study 4) and numerical format (point value vs range, with some studies varying magnitude). Dependent measures include perceived precision and predictability, desire for predictability, product evaluations, stated preferences, and one consequential product choice. Analyses reported include t-tests, ANOVA-based interaction tests, and logistic regression for choice.",
+  "focal_constructs": [
+    "numerical attribute format",
+    "point value vs range information",
+    "personal control threat",
+    "desire for predictability",
+    "inferred benefit predictability",
+    "inferred environmental predictability",
+    "product evaluation and choice"
+  ],
+  "main_findings": [
+    "More precise numerical formats were associated with higher perceived predictability of product benefits, and point values were seen as more predictable than ranges.",
+    "Lower personal control increased desire for predictability, and under lower (but not higher) control, point value information signaled that the broader environment is more predictable than range information.",
+    "Personal control threat increased reliance on point-value formatted attributes in preferences and evaluations, attenuated sensitivity to objectively superior range magnitudes, and also shifted consequential product choices in the same direction."
+  ],
+  "one_line_summary": "Across seven experiments, a personal control threat made consumers prefer and rely more on point-value numerical product information than range information because point values conveyed predictability.",
+  "relation_to_prior_work": "extends prior numerical-information research by adding a motivational account of when format matters, beyond magnitude mapping alone. extends consumer personal-control research by showing effects on responses to numeric product specifications. extends compensatory control theory by identifying numerical precision as a marketplace cue that can restore perceived predictability after control loss.",
+  "research_gap": "Prior research offered limited guidance on when numerical product information has stronger effects, despite its ubiquity in consumer decisions. Existing work emphasized magnitude and alternative numeric expressions more than how precision format (point value vs range) interacts with consumers' motivational state, especially perceived personal control.",
+  "research_question": "How does a threat to personal control change consumers' reactions to numerical product information? Specifically, do consumers under control threat infer greater predictability from point values than ranges and therefore prefer and rely more on point-value attributes in evaluations and choices?"
+}

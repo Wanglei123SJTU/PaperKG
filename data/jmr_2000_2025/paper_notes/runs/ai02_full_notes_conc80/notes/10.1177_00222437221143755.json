@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Shows that many consumers view rigid plans as more effective but also more unpleasant than flexible plans, creating an efficacy-appeal trade-off in goal planning.",
+    "Demonstrates that head-versus-heart conflict can arise between two goal-consistent options (flexible vs rigid plans), not only between goal-consistent and goal-inconsistent options.",
+    "Identifies a self/other asymmetry in plan choice and provides practical nudges (e.g., emphasizing staying on track) that increase preference for rigid plans."
+  ],
+  "context": "The paper studies self-improvement planning contexts, including studying for exams, daily task planning, New Year's resolutions (exercise, weight loss, saving money, learning skills), reading, healthy eating, and fitness scheduling. It also includes a field setting with FlexIt, a virtual personal training platform where website visitors complete a scheduling-preference quiz.",
+  "design_and_data": "The authors report a program of experiments (preregistered except pilot/pretests) using student, Prolific, and MTurk samples, plus a field experiment. Across studies, participants chose between flexible and rigid plans while manipulations varied decision target (self vs other) and moderators (follow-your-head instruction, gift-giving framing, and staying-on-track salience). Some studies used consequential choices where participants actually selected planning tools and wrote plans for real near-term goals or resolutions. In the field test, FlexIt quiz wording was randomized for 1,380 website participants to test whether adding a stay-on-track phrase increases rigid schedule selection.",
+  "focal_constructs": [
+    "goal-plan flexibility",
+    "plan rigidity",
+    "self vs other decision target",
+    "follow your heart vs follow your head",
+    "perceived effectiveness",
+    "appeal/unpleasantness trade-off",
+    "staying on track",
+    "gift-giving framing"
+  ],
+  "main_findings": [
+    "Across multiple studies, people chose flexible plans more often for themselves than for others, and choices for others were typically more rigid.",
+    "Choosing for oneself increased reported reliance on following the heart (vs the head), and this partially mediated the self/other difference; instructing participants to follow their head attenuated the self/other gap and shifted choices toward rigidity.",
+    "When choosing for others in a gift context, participants selected flexibility more often than in a standard other-choice context, and making staying-on-track considerations salient increased rigid choices for the self and reduced the self/other difference, including in the field study (rigid choice increased from 64.5% to 76.3%)."
+  ],
+  "one_line_summary": "Across experiments and a fitness field experiment, consumers preferred flexible goal plans more for themselves than for others because self-choices rely relatively more on feelings, and salience of staying on track nudged self-choices toward rigidity.",
+  "relation_to_prior_work": "extends prior work on implementation planning by shifting from the consequences of rigid versus flexible plans to consumers' beliefs and choices about those plans. It also refines self/other research by showing that people report relying more on heart-based considerations for self choices and more head-based considerations for choices for others in goal pursuit.",
+  "research_gap": "Prior research has focused more on whether rigid versus flexible plans improve goal outcomes, and less on consumers' beliefs and preferences about flexibility when selecting plans. The paper also targets an unresolved question of how choosing for oneself versus for others changes those preferences.",
+  "research_question": "How do consumers choose between flexible and rigid plans when pursuing goals, and does this choice differ for the self versus for others? The paper further asks whether this difference is driven by greater reliance on heart-based feelings for self-choices versus head-based reasoning for other-choices, and whether simple interventions can shift preferences toward rigidity."
+}

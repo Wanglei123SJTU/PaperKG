@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is the explicit methodological baseline for the entire article, repeatedly called the prior \"unconstrained model.\" The citing paper frames its main contribution as extending Kim, Fong, and DeSarbo (2012), including in the title, abstract, model development, and discussion. It preserves the same Bayesian finite-mixture segmentation and segment-level variable-selection setup, then adds managerial constraint structures and evaluates them against the original model. This is a direct, central build-on relationship rather than a background mention.",
+  "relation_description": "The citing paper directly extends Kim, Fong, and DeSarbo (2012) by taking its unconstrained Bayesian segment-level variable-selection model and adding three constrained variants (common factors, distinctive factors, and dimension constraints). It then compares these constrained extensions with the original model in simulation and an empirical SERVPERF application.",
+  "relation_type": "extends"
+}

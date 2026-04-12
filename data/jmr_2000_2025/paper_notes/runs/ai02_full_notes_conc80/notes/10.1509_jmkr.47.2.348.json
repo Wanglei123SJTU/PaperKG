@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Shows that branding systematically changes the attitude function associated with a product, relative to the same product category.",
+    "Provides evidence that the classic function-matching persuasion advantage at the category level is attenuated or eliminated at the brand level.",
+    "Offers a category-versus-brand perspective for selecting utilitarian versus symbolic advertising appeals."
+  ],
+  "context": "The paper studies consumer attitudes and advertising persuasion for common consumer product categories and brands (for example, paper towels, flags, greeting cards, ceiling fans, toothpaste), mostly in lab studies with students. It also tests external relevance using full-page Newsweek ads for real brands and a small number of category ads.",
+  "design_and_data": "The authors run a series of experiments (Studies 1a-1c, 2a, 2b, 3) with undergraduate participants at a large public university (sample sizes reported as 132, 206, 139, 117, 72, and 54). Study 1 manipulates category-level versus brand-level presentation and measures perceived utilitarian (benefits) and symbolic (symbolism) attitude functions, including a mere-branding manipulation with unnamed new brands. Studies 2a and 2b manipulate level (brand vs category) and appeal type (utilitarian vs symbolic, defined as matching or mismatching category-level function) and measure persuasion via purchase likelihood; 2a uses fictitious brands and 2b uses real brands. Study 3 uses greeting-card ads and individual differences in measured category attitude function to test appeal effectiveness at category versus brand level, and Study 4 analyzes ratings of 34 Newsweek ads (32 branded, 2 category) to relate ad evaluation to category-appeal match versus mismatch.",
+  "focal_constructs": [
+    "attitude functions",
+    "utilitarian attitudes",
+    "symbolic attitudes",
+    "branding",
+    "function-matching persuasive appeals",
+    "category-level versus brand-level attitudes",
+    "persuasion effectiveness"
+  ],
+  "main_findings": [
+    "Products that are utilitarian at the category level were rated as less utilitarian and more symbolic when branded, while products that are symbolic at the category level were rated as less symbolic and more utilitarian when branded.",
+    "Appeals matching the category-level function were more persuasive than mismatching appeals at the category level, but this matching advantage disappeared (and sometimes reversed) at the brand level.",
+    "In the greeting-card study, appeal effectiveness depended on each participant's measured category attitude function at the category level, but this function-matching pattern was attenuated at the brand level; in real ad data, there was no evidence that category-function-matching appeals were superior for brands."
+  ],
+  "one_line_summary": "Across multiple experiments and an ad-rating study, the paper finds that branding shifts attitude functions away from a category's dominant function and thereby weakens the usual advantage of function-matching persuasive appeals for brands.",
+  "relation_to_prior_work": "extends prior attitude-function research that was centered on product categories by testing individual brands and directly comparing category-level and brand-level persuasion outcomes.",
+  "research_gap": "Prior product-centered attitude-function work largely examined product categories rather than specific brands within categories, leaving unclear whether attitude functions are the same at the brand level. The authors also note that no prior research had directly compared the effectiveness of function-based appeals at category versus brand levels.",
+  "research_question": "Do the functions served by product attitudes change when the same products are considered as brands rather than as categories? If so, does this change alter the effectiveness of utilitarian versus symbolic persuasive appeals, such that the standard function-matching advantage at the category level is reduced for brands?"
+}

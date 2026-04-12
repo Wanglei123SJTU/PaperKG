@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper claims to be the first empirical study to examine potentially asymmetric effects of mass service crises and recovery on perceived service quality over time.",
+    "It introduces a Double-Asymmetric Structural VAR model that allows asymmetric responses to performance losses versus gains and different lag structures across equations.",
+    "It claims new evidence that losses not only loom larger than gains but also loom longer, so a crisis followed by restoration can still leave a net negative long-term effect on perceived service quality."
+  ],
+  "context": "The empirical setting is a major national European railway company transporting millions of passengers per day. During 2006-2012, severe winter weather created mass service disruptions with cancellations and delays, providing observed service-crisis episodes.",
+  "design_and_data": "The study uses monthly data from January 2006 to October 2012 on objective service performance (OSP) and perceived service quality (PSQ). OSP is measured as the percentage of successful train connections, and PSQ is a monthly aggregate from repeated cross-sections of more than 6,000 onboard respondents selected via quota-based random sampling. After unit-root testing, the authors model OSP in levels and PSQ in first differences using a two-equation structural VAR with loss-gain asymmetry and asymmetric lag lengths (DASVAR). They compare in-sample and holdout predictive performance against benchmark SVAR specifications and run a robustness check with an alternative OSP metric (five-minute punctuality).",
+  "focal_constructs": [
+    "service crises",
+    "objective service performance",
+    "perceived service quality",
+    "service restoration",
+    "losses versus gains asymmetry",
+    "short-term and long-term effects",
+    "performance trend",
+    "Double-Asymmetric Structural VAR"
+  ],
+  "main_findings": [
+    "In the short run, OSP losses reduce PSQ more than equally sized OSP gains increase PSQ.",
+    "Negative OSP shocks have permanent negative effects on PSQ, while positive OSP shocks do not show significant lasting effects in the overall results.",
+    "The long-run impact of shocks depends on prior OSP trend: negative shocks are most damaging after sustained gains, and after sustained losses an additional negative shock does not add significant long-term damage."
+  ],
+  "one_line_summary": "Using seven years of monthly railway data, the paper shows with a Double-Asymmetric SVAR model that service-performance losses hurt perceived service quality more strongly and more persistently than equivalent gains help it.",
+  "relation_to_prior_work": "introduces a dynamic, asymmetric modeling framework for mass service-crisis effects that prior service recovery research did not provide. It moves beyond work on individual service failures and beyond symmetric (S)VAR approaches by allowing loss-gain asymmetry and history-dependent impulse responses.",
+  "research_gap": "Prior service recovery literature mainly studies individual customer-level failures and remedies, not mass service crises affecting many customers simultaneously. The paper identifies a lack of empirical evidence on the short- and long-term dynamic effects of objective service performance shocks on perceived service quality, including asymmetry and dependence on prior performance trends.",
+  "research_question": "How do changes in objective service performance affect perceived service quality over time in a mass-service context? Specifically, the paper asks about short-run versus long-run effects, whether losses both loom larger and loom longer than gains, and whether these effects vary with the prior trend in objective service performance."
+}

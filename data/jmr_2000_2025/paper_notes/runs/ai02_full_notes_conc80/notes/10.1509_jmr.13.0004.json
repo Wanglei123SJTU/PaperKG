@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and estimates a discrete choice model for annuity preferences that decomposes attribute effects into financial value effects and direct utility effects beyond NPV.",
+    "It provides evidence on how information architecture (basic attribute display versus cumulative payout tables) changes valuation of annuity attributes and overall annuitization propensity.",
+    "It applies the estimated model to annuity design, showing how issuers can repackage payout streams to raise demand without increasing expected payout."
+  ],
+  "context": "The study is set in retirement decumulation decisions for immediate life annuities in the U.S. Participants evaluate annuity offers as if they were age 65 and allocating $100,000 of retirement savings versus continuing to self-manage assets.",
+  "design_and_data": "The authors run a choice-based stated-preference survey (discrete choice experiment) with 20 tasks per respondent, each task offering three annuities plus an outside self-management option. Annuity profiles vary in starting income, annual increases (percent or fixed dollar), period-certain guarantee length, and issuer financial strength (AA vs AAA), under two between-subject presentation conditions: basic attributes only versus attributes plus cumulative payout tables. After attention filtering, the estimation sample is 334 respondents in the basic condition and 323 in the enriched condition, recruited from a Qualtrics online panel of adults ages 40-65. They estimate a hierarchical Bayesian multinomial probit style model in which expected payout is computed from attributes using Social Security life tables and a discount factor, then test attribute effects beyond expected payout and run counterfactual demand simulations.",
+  "focal_constructs": [
+    "life annuity preference",
+    "expected net present value (NPV)",
+    "beyond-NPV utility",
+    "information presentation enrichment",
+    "annual payment increases",
+    "period-certain guarantees",
+    "issuer financial strength",
+    "annuitization versus self-management"
+  ],
+  "main_findings": [
+    "Consumers value expected payout, but several attributes have direct effects beyond financial value: annual increases are generally undervalued (especially percentage increases), and period-certain preferences are non-monotonic with overvaluation of mid-length guarantees and undervaluation of short and very long guarantees.",
+    "Adding cumulative payout tables increases annuity take-up and reduces undervaluation of annual increases (and the additive-vs-percentage gap), but the inverse-U preference pattern for period-certain guarantees largely persists.",
+    "Across annuities with equal expected payout, demand varies substantially by attribute packaging, with take-up over self-management differing by more than a factor of two; demand-maximizing designs use medium period-certain guarantees and no annual increases, with the optimal guarantee length shifting shorter under enriched information."
+  ],
+  "one_line_summary": "Using a conjoint survey of near-retirement adults, the paper shows that annuity attributes shape choice beyond expected present value and that cumulative payout displays partially debias valuation, producing large demand differences across equal-payout product designs.",
+  "relation_to_prior_work": "introduces a conjoint-based annuity choice framework that directly tests whether attribute preferences reflect only normative expected present value or also psychological utility beyond NPV, and links this to prior evidence on framing and compounding biases in financial decisions.",
+  "research_gap": "The paper argues that retirement decumulation, especially life annuity choice, is relatively underexplored in marketing research despite its importance. It also identifies a lack of evidence on how consumers value specific annuity attributes relative to their calculable financial value and how presentation format changes those valuations.",
+  "research_question": "How do consumers value key life annuity attributes relative to each attribute's contribution to expected present value, and do attributes carry direct psychological utility beyond NPV? The paper also asks whether enriching annuity descriptions with cumulative payout information changes these valuations and annuitization demand, and how resulting preference estimates can guide product design."
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces short seller activity (short interest) as an investor-side mechanism that links customer (dis)satisfaction to abnormal stock returns.",
+    "Shows that customer dissatisfaction is not the simple inverse of satisfaction in capital markets, with a stronger effect on short selling and return outcomes.",
+    "Demonstrates that firm capital intensity and industry competitive intensity condition the (dis)satisfaction-short selling pathway, with stronger boundary effects for dissatisfaction."
+  ],
+  "context": "The study is set in U.S. public equity markets, focusing on how short sellers trade on customer information about listed firms. It links YouGov BrandIndex customer survey measures to firm-level short interest and abnormal stock returns across industries.",
+  "design_and_data": "The authors merge YouGov daily customer satisfaction/dissatisfaction data with CRSP stock return data, Compustat short-interest and accounting data, and Thomson Reuters institutional ownership data. The final sample has 273 firms and 7,383 firm-quarter observations from 2007 to 2017 (Q2 2007-Q4 2017). They estimate a three-equation system (selection, short interest, abnormal returns) using conditional mixed process maximum likelihood, model unexpected changes using AR(1) residuals, include a selection correction for YouGov coverage, and apply control functions with peer-of-peers instruments.",
+  "focal_constructs": [
+    "customer satisfaction",
+    "customer dissatisfaction",
+    "short interest",
+    "abnormal stock returns",
+    "short selling behavior",
+    "competitive intensity",
+    "capital intensity"
+  ],
+  "main_findings": [
+    "Unexpected increases in customer satisfaction are associated with decreases in short interest, while unexpected increases in customer dissatisfaction are associated with increases in short interest, and the dissatisfaction effect is larger.",
+    "Short interest is negatively associated with abnormal returns and mediates the effects of customer satisfaction and dissatisfaction on abnormal returns.",
+    "The (dis)satisfaction-short interest associations are weaker under higher competitive intensity and higher capital intensity, with stronger moderation for dissatisfaction; a one-unit increase in satisfaction is associated with about a +0.56 percentage point abnormal return effect, while a one-unit increase in dissatisfaction is associated with about a -1.34 percentage point effect."
+  ],
+  "one_line_summary": "Using a multi-source panel of U.S. firms, the paper finds that customer satisfaction and dissatisfaction affect abnormal stock returns primarily through short sellers, with stronger negative market consequences for dissatisfaction and stronger effects in low-capital-intensity, low-competition settings.",
+  "relation_to_prior_work": "extends prior customer satisfaction-stock return research by shifting from a mostly direct-effect perspective to a mediated investor-behavior mechanism via short selling, while explicitly modeling satisfaction-dissatisfaction asymmetry and contingency effects of competition and capital intensity.",
+  "research_gap": "Prior evidence on the customer satisfaction-abnormal return relationship is mixed, and most studies test only direct effects rather than investor-mediated mechanisms. The paper also notes limited treatment of satisfaction-dissatisfaction asymmetry and limited contingency analysis due to prior data and portfolio-based designs.",
+  "research_question": "Does short seller trading activity, measured by short interest, mediate how customer satisfaction and customer dissatisfaction relate to abnormal stock returns? Are these effects asymmetric between satisfaction and dissatisfaction, and do firm capital intensity and industry competitive intensity moderate the pathway?"
+}

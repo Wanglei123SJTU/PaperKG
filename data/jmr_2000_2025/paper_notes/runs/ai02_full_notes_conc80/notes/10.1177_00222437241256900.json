@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper claims to show that more captivating news content creates positive attention spillovers to adjacent display ads and increases ad effectiveness.",
+    "The paper claims to provide evidence on news context effects by comparing hard and soft news, finding no detectable reduction in ad effectiveness next to hard news and cautioning against blunt block-list policies.",
+    "The paper claims a methodological contribution by using scalable nonintrusive webcam eye tracking and by validating ad visibility as a practical proxy for attention when eye-tracking data are unavailable."
+  ],
+  "context": "The study is set in online news consumption, where participants in the United Kingdom and United States read real articles from major outlets (The Guardian, The Daily Mail, The New York Times, USA Today) on desktop or mobile with adjacent brand display ads. Hard news in this study refers to COVID-19 and Black Lives Matter articles during summer 2020.",
+  "design_and_data": "The authors run a randomized online experiment (July-August 2020) with 1,013 recruited participants stratified by country and device, where each participant viewed nine articles and eight ads with randomized article order and randomized ad-article pairing. They collected both visibility-based attention measures and webcam eye-tracking dwell-time measures for articles and ads, then measured aided brand recall and incentivized voucher-versus-cash choices. The final dataset contains 6,431 individual x article observations, with fewer observations for eye-tracking analyses due to connectivity and tracking-quality filters. Empirically, they estimate attention allocation and ad-effectiveness equations using OLS and IV, instrumenting ad attention with attention to randomly paired article content (and also using a leave-one-out article-attention instrument in robustness checks).",
+  "focal_constructs": [
+    "online display advertising effectiveness",
+    "news-to-ad attention spillovers",
+    "article dwell time",
+    "ad dwell time",
+    "ad visibility",
+    "brand recall",
+    "incentivized purchase choice",
+    "hard news vs soft news"
+  ],
+  "main_findings": [
+    "Attention to article content positively spills over to attention to adjacent ads, with estimates around 0.007-0.011 extra seconds of ad attention per extra second of article attention.",
+    "More ad attention increases outcomes: in the preferred OLS specification, one additional second of ad dwell raises recall by about 3.4 percentage points and voucher choice by about 0.7 percentage points, and the positive purchase effect is also supported by IV estimates based on spillover-driven attention.",
+    "Hard news articles receive less attention (and ads beside them receive less attention), but ad effectiveness per unit of attention is not detectably lower and is often estimated higher, yielding no evidence that ads next to hard news are less effective than ads next to soft news."
+  ],
+  "one_line_summary": "In a randomized online news-reading experiment with webcam eye tracking, the authors find that attention to articles spills over to adjacent display ads and boosts recall and incentivized purchase, with no evidence that hard-news ad placements are less effective than soft-news placements.",
+  "relation_to_prior_work": "extends prior online advertising and eye-tracking research by identifying causal news-to-ad attention spillovers and linking incremental ad attention not only to recall but also to an incentivized downstream choice measure.",
+  "research_gap": "The paper states that, to the best of the authors' knowledge, prior eye-tracking and advertising studies did not provide evidence on how news content affects advertising effectiveness. It also targets the unresolved need to connect incremental visual attention to downstream purchase-related outcomes rather than recall alone.",
+  "research_question": "How does attention to online news content affect attention to display ads shown on the same page, and how does this ad attention translate into brand recall and purchase probability? The paper also asks whether ad effectiveness differs when ads are placed next to hard news versus soft news content."
+}

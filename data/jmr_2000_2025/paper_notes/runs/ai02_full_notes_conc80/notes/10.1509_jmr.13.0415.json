@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces and documents 'Harbingers of failure': customers whose early adoption of new products is a negative signal of long-run product success.",
+    "It proposes two practical ways to identify Harbingers from transaction data: prior purchases of failed new products (FlopAffinity) and prior purchases of niche existing products.",
+    "It shows how separating early sales by customer type can be incorporated into new product decisions and materially improve prediction versus using aggregate early sales alone."
+  ],
+  "context": "The study is set in a large U.S. convenience-store chain selling consumer packaged goods (beauty, consumer healthcare, edibles, and general merchandise). The data come from 111 stores across 14 Midwestern and Southwestern states.",
+  "design_and_data": "The authors combine weekly store-level item transactions (Jan 2003-Oct 2009) with individual loyalty-card histories (over 10 million transactions, 127,925 sampled customers, Nov 2003-Nov 2005). They study 8,809 new products and define success primarily as surviving at least 3 years after introduction. Customers are first grouped using a classification set of new products based on each customer's FlopAffinity (share of purchased new products that later failed), then product success in a later prediction set is modeled from first-15-week sales using binary logit models that either aggregate all sales or separate sales by customer groups. They also test repeat-purchase-based grouping, alternative success metrics (2-year survival, market share, hazard), alternative sample constructions, holdout prediction, and subgroup analyses.",
+  "focal_constructs": [
+    "Harbingers of failure",
+    "early adoption",
+    "new product survival",
+    "FlopAffinity",
+    "repeat purchase",
+    "preference minorities",
+    "niche product purchasing",
+    "forecast accuracy"
+  ],
+  "main_findings": [
+    "Early sales are not uniformly good news: in product-level logits, sales from high-FlopAffinity customers (especially Group 4) are negatively associated with 3-year survival, while aggregate sales alone are positively associated with success.",
+    "The failure signal strengthens when Harbingers repeatedly buy the new item; coefficients for high-FlopAffinity groups become more negative as the minimum repeat threshold rises.",
+    "Customers with high FlopAffinity disproportionately buy niche and very niche existing products, and niche-based identification predicts failure similarly to FlopAffinity; combining both signals improves predictive performance further."
+  ],
+  "one_line_summary": "Using convenience-store transaction data, the paper shows that early purchases by certain customers (Harbingers) predict new product failure rather than success and improve forecasting when modeled separately.",
+  "relation_to_prior_work": "challenges the standard new-product forecasting premise that stronger early sales are uniformly positive by showing purchaser composition can reverse the signal. It complements lead-user work by adding that some early adopters are informative in the opposite direction. It also links to preference-minority research by showing that failure-predictive customers are more likely to buy niche existing items.",
+  "research_gap": "Prior work and practice largely use the level of early sales as a positive indicator of eventual success and pay limited attention to which customers generated those sales. The paper addresses the unresolved possibility that a systematic subset of early adopters may be unrepresentative and therefore signal future failure.",
+  "research_question": "Do purchases by different early adopters carry different information about whether a newly introduced product will succeed or fail? Specifically, can firms identify customers whose adoption predicts failure, and can those customers be detected both from past failed new-product purchases and from purchases of niche existing products?"
+}

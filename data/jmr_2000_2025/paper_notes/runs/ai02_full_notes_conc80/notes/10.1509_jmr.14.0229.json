@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper identifies and causally estimates the effect of competitive locational targeting (geo-conquesting) in mobile promotions, extending location-demand research beyond own-store proximity.",
+    "It compares focal versus competitive targeting in how discount depth maps to response, showing stronger cannibalization near the focal store and a short-term incentive for location-based price discrimination.",
+    "It demonstrates how mobile real-time location data and randomized field testing can be used to study offline marketing phenomena that were previously hard to measure."
+  ],
+  "context": "The study is set in mobile commerce for movie ticket promotions in a large Asian city, using SMS offers sent by a major wireless service provider. Customers were targeted near a focal movie theater, a competing theater, or a similar benchmark shopping area with no theater.",
+  "design_and_data": "The authors run a large randomized between-subjects field experiment with a 3 (location: focal, competitive, benchmark) x 3 (discount depth: 20%, 40%, 60%) x 2 (timing: real-time targeted vs one-week-delayed nontargeted) design. Promotions were sent to users within 200 meters of each location during a one-hour Saturday window, with 1,000 recipients per cell and 18,000 total observations. The outcome is voucher purchase for same-day movie admission, with an overall purchase rate of 2.6%. For delayed groups, 93% were outside experimental locations when later messaged, supporting the timing manipulation as a baseline comparison.",
+  "focal_constructs": [
+    "competitive locational targeting",
+    "focal locational targeting",
+    "mobile SMS promotions",
+    "discount depth",
+    "locational switching costs",
+    "profit cannibalization",
+    "real-time targeting effects",
+    "incremental sales"
+  ],
+  "main_findings": [
+    "Competitive locational targeting produced positive real-time targeting effects at medium and high discount depths relative to delayed timing and relative to the benchmark comparison.",
+    "Focal-location targeting produced positive targeting effects at all discount depths, but response showed diminishing returns at deeper discounts, consistent with saturation and cannibalization of inframarginal sales.",
+    "Benchmark-location targeting showed no meaningful real-time targeting effect, and a rough revenue analysis indicated a high discount was short-term optimal for competitive targeting while a medium discount was optimal for focal targeting."
+  ],
+  "one_line_summary": "Using a randomized mobile field experiment, the paper shows that targeting consumers near a competitor can generate incremental demand with deep discounts, while targeting near the focal store yields diminishing returns and greater cannibalization.",
+  "relation_to_prior_work": "extends prior location-demand and mobile targeting research by showing that responsiveness is not only about proximity to the focal retailer but also about competitive context captured in real time. It also extends empirical competitive-promotion work by providing causal evidence on how discount-depth effects differ between focal and competitive targeting and how this relates to cannibalization.",
+  "research_gap": "Prior work had emphasized focal-store proximity in mobile targeting and had not adequately quantified the causal effectiveness of targeting consumers near competitors. The literature also lacked direct evidence comparing cannibalization and discount-depth response between focal and competitive targeting.",
+  "research_question": "Can mobile promotions targeted at consumers near a competitor's location causally increase incremental purchases for a focal retailer, and how does this compare with targeting near the focal store or a benchmark area? How does discount depth interact with location targeting to reveal switching-cost thresholds versus cannibalization effects?"
+}

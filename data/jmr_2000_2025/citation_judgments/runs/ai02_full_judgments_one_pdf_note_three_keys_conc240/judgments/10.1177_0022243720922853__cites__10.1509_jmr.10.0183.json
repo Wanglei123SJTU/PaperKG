@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in the empirical-methods setup, not just listed as general background. In Table 1 and a methods footnote, the authors explicitly follow Gielens (2012) for key implementation choices such as constructing the advertising adstock control and excluding very low-share SKUs. These are concrete modeling and data-preparation decisions that shape estimation, so the citation plays a meaningful functional role even if it is not a central theoretical pillar.",
+  "relation_description": "The citing paper applies methodological precedents from the cited study to its own private-label rebranding analysis, especially for variable construction and data-filtering rules. The relation is mainly a transfer of empirical implementation choices rather than a direct extension of the cited paper's substantive new-product findings.",
+  "relation_type": "applies"
+}

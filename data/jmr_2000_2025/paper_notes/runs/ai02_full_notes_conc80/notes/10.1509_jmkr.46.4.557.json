@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides experimental evidence on actual channel bargaining processes and outcomes under one-sided asymmetric information when explicit communication is added to offer-counteroffer exchanges, complementing prior survey-based findings on anticipated communication effects.",
+    "It shows that mutual trustworthiness reputations can improve asymmetric-information bargaining outcomes even in one-shot, double-blind interactions, extending trust findings beyond extended relationship settings.",
+    "It identifies a contingency in communication strategy: relational messages are most effective when trustworthiness reputations are high but can backfire when trustworthiness is low, while informational messages have smaller but positive effects across trust conditions."
+  ],
+  "context": "The studies use a marketing channel setting in which a manufacturer and a distributor negotiate a unit transfer price for a new industrial product sold to construction companies. The manufacturer is uninformed about the exact end-user reservation price, while the distributor is informed.",
+  "design_and_data": "The article reports three experiments based on sequential bargaining with one-sided incomplete information and time discounting. Experiment 1 is a computer-mediated, one-shot, double-blind bargaining experiment with graduate business students (n = 18), manipulating manufacturer uncertainty (high/low) and allowing menu-based informational, relational, or coercive messages; outcomes are also compared with a prior no-communication dataset from Srivastava, Chakravarti, and Rapoport (2000). Experiment 2 is another one-shot, double-blind bargaining experiment (n = 32) with no explicit messaging, manipulating mutual trustworthiness reputations (high/low) between dyads and manufacturer uncertainty (high/low) within subjects. Experiment 3 is a scenario-based mixed-design study (n = 168 MBA students) using a fixed six-period bargaining history to elicit anticipated duration, final price, and profits under communication type (informational, relational, none), trustworthiness (high/low), and uncertainty (high/low).",
+  "focal_constructs": [
+    "sequential bargaining under asymmetric information",
+    "explicit communication",
+    "informational messages",
+    "relational messages",
+    "coercive messages",
+    "mutual trustworthiness reputations",
+    "manufacturer uncertainty",
+    "bargaining efficiency and profit division"
+  ],
+  "main_findings": [
+    "In Experiment 1, bargainers mostly used informational and relational messages early and coercive messages mainly in prolonged negotiations; compared with no communication, explicit communication produced quicker agreements and higher final prices, with gains from added surplus accruing to the uninformed manufacturer without reducing distributor profits.",
+    "In Experiment 2, high versus low mutual trustworthiness reputations led to quicker agreements and a profit split more favorable to the manufacturer, again without lowering distributor profits, though final price differences were not significant.",
+    "In Experiment 3, communication effects depended on trustworthiness: relational messages produced the most favorable expected outcomes when trust was high but worsened expectations when trust was low, whereas informational messages had smaller but positive effects in both trust conditions."
+  ],
+  "one_line_summary": "Across three experiments on manufacturer-distributor bargaining with one-sided information asymmetry, explicit communication and trustworthiness reputations improve efficiency, but relational communication helps only when trust is high while informational communication is more robust.",
+  "relation_to_prior_work": "extends noncooperative sequential bargaining and channel relationship research by testing communication and trustworthiness effects in asymmetric-information channel negotiations and by triangulating prior survey-based communication/trust findings with experimental evidence on actual bargaining outcomes.",
+  "research_gap": "The paper argues that normative sequential bargaining models and prior channel bargaining tests do not adequately explain observed behavior in asymmetric-information negotiations, where uninformed parties often misinterpret signals and create inefficient delays. It also notes that marketing evidence on communication and trust has largely relied on cross-sectional perceptions or anticipated outcomes rather than actual bargaining outcomes.",
+  "research_question": "How do explicit communication and mutual trustworthiness reputations influence bargaining processes and outcomes in one-sided asymmetric-information channel negotiations between an uninformed manufacturer and an informed distributor? The paper also asks whether these effects depend on manufacturer uncertainty and whether different communication types have contingent effects under high versus low trustworthiness."
+}

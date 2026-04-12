@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper explicitly states it \"extends prior marketing uses of state space models,\" and the cited paper is a hierarchical Bayesian dynamic linear/state-space modeling study with time-varying parameters and MCMC estimation. This strong methodological overlap suggests the citation could be a substantive method/theory source rather than a purely incidental mention, even though the application domains differ. With only DOI-level match evidence, it is safer to retain for full relation judgment than to drop.",
+  "triage_decision": "keep_for_relation_judgment"
+}

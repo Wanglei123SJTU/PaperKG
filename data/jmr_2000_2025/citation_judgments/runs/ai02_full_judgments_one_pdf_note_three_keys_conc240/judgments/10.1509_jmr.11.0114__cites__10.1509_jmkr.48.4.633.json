@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in a specific methodological argument, not just a background list. In the estimation section, the authors explicitly contrast their data limitations with Goettler and Clay (2011), stating that paper can estimate initial prior variances because it observes both initial tariff choices and usage choices. This citation directly supports the citing paper's identification strategy choice (fixing initial variances), so it plays a meaningful functional role.",
+  "relation_description": "The citing paper uses the cited paper as a methodological contrast to justify an estimation assumption. Specifically, it points to Goettler and Clay (2011) as a case where richer choice data identify initial belief variance, whereas the current paper fixes those variances due to data constraints.",
+  "relation_type": "other"
+}

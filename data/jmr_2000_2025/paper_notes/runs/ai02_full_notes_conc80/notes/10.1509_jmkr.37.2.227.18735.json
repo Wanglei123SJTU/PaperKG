@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Empirically examines the simultaneous use of three control mechanisms (supplier TSIs, relational norms, and explicit contracts) to safeguard retailer TSIs and build perceived supplier commitment.",
+    "Introduces and tests a relationship life-cycle contingency view (exploration, buildup, maturity, decline) showing that the efficacy of safeguards is time dependent.",
+    "Assesses consequences of governance mechanisms through a commitment mediator for key relationship outcomes: supplier performance evaluations, conflict, and relationship satisfaction."
+  ],
+  "context": "The study examines channel relationships between a powerful upstream supplier and downstream retailers. Empirically, it uses one major U.S. agricultural chemical manufacturer and its retailer customers (independent retailers, cooperatives, and national retailers) selling crop chemicals and related products.",
+  "design_and_data": "Data come from a cross-sectional mail survey of the supplier's U.S. retailer customers; 3646 surveys were sent and 1457 usable responses were obtained (40% response rate). Respondents were each retailer's primary contact with the supplier, and the unit of analysis was the focal retailer-supplier relationship. Retailers self-classified their relationship phase (exploration, buildup, maturity, decline; deterioration responses were merged with decline), and hypotheses were tested with regression models including interaction terms and phase-specific analyses. Measures were developed from prior scales and validated with exploratory and confirmatory factor analyses, with relational norms and satisfaction modeled as higher-order factors.",
+  "focal_constructs": [
+    "retailer transaction-specific investments",
+    "supplier transaction-specific investments",
+    "relational norms",
+    "explicit contracts",
+    "retailer perceptions of supplier commitment",
+    "relationship life-cycle phase",
+    "interdependence magnitude and asymmetry",
+    "relationship outcomes (performance evaluation, conflict, satisfaction)"
+  ],
+  "main_findings": [
+    "Retailer TSIs are negatively related to perceived supplier commitment, while supplier TSIs and relational norms are positively related; explicit contracts are negatively related to perceived supplier commitment in the full sample.",
+    "The moderating effects are phase contingent: bilateral TSIs mitigate the retailer-TSI downside only in exploration; relational norms mitigate it in buildup and decline (not maturity) and are negative in exploration; explicit contracts mitigate it in decline, are not significant in buildup/maturity, and are negative in exploration.",
+    "Perceived supplier commitment is positively related to supplier performance evaluations and relationship satisfaction and negatively related to conflict, and mediation tests show commitment carries much of the effect of control mechanisms on these outcomes."
+  ],
+  "one_line_summary": "Using survey data from 1457 U.S. agricultural chemical retailers linked to one major supplier, the paper shows that safeguards for retailer specific investments have phase-dependent effects on perceived supplier commitment, which in turn predicts performance evaluations, conflict, and satisfaction.",
+  "relation_to_prior_work": "extends prior channel governance research by moving beyond single-mechanism and antecedent-focused studies to test multiple safeguards jointly and to model their effects across relationship phases. It also adds evidence on downstream consequences of governance through perceived supplier commitment.",
+  "research_gap": "Prior work had largely examined individual control mechanisms and their antecedents, with limited evidence on using multiple safeguards simultaneously. It also lacked empirical tests of how control-mechanism effectiveness changes across relationship life-cycle phases and of consequences for outcomes such as performance, conflict, and satisfaction.",
+  "research_question": "How can downstream retailers protect their transaction-specific investments from hold-up by a powerful supplier through governance mechanisms? Specifically, how do supplier TSIs, relational norms, and explicit contracts affect retailer perceptions of supplier commitment, how do these effects vary across relationship life-cycle phases, and how does perceived supplier commitment relate to performance evaluation, conflict, and satisfaction?"
+}

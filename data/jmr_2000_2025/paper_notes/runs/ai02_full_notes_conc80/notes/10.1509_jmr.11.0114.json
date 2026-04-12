@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "The paper introduces a structural model of new drug diffusion in which physicians are forward looking and learn Bayesianly from both patient feedback and detailing.",
+    "It provides physician-level evidence that expected future detailing reduces early adoption by lowering physicians' incentives to experiment.",
+    "It derives managerial implications for detailing policy by comparing anticipated versus unanticipated detailing changes and by evaluating profit-maximizing detailing intensity after launch."
+  ],
+  "context": "The empirical setting is the erectile dysfunction prescription-drug market, where Levitra (August 2003) and Cialis (November 2003) entered against incumbent Viagra. The study uses U.S. primary-care physicians and focuses on new ED prescriptions in the first postlaunch months.",
+  "design_and_data": "The authors use ImpactRx physician-level panel data with 9,900 prescription records from 957 physicians over August 2003 to May 2004, plus daily detailing visits (4,819 Viagra, 6,936 Levitra, 4,874 Cialis). They focus on new prescriptions, while using switcher outcomes for belief updating but not for the prescription-choice likelihood. They first run reduced-form adoption regressions (conditional on not yet being detailed by the focal entrant) to test whether expected future detailing predicts lower early adoption. They then estimate a dynamic Bayesian learning discrete-choice model with rational expectations about detailing (Poisson first-stage detailing processes by physician segments), using nested fixed-point and simulated maximum likelihood.",
+  "focal_constructs": [
+    "forward-looking physician behavior",
+    "Bayesian learning about drug efficacy",
+    "patient feedback signals",
+    "informative and persuasive detailing effects",
+    "strategic substitution across information sources",
+    "new drug adoption timing"
+  ],
+  "main_findings": [
+    "Physicians initially hold pessimistic beliefs about Levitra and Cialis relative to Viagra, then revise beliefs upward with learning; estimated average true efficacy is highest for Cialis, while Levitra is slightly below Viagra on average.",
+    "Higher expected future detailing lowers early adoption before a physician is detailed, consistent with substitution away from costly experimentation toward free information or samples from detailing.",
+    "Detailing elasticities are much larger under a myopic specification than under the forward-looking model, and for forward-looking physicians elasticities are lower when detailing increases are anticipated than when unanticipated; observed postlaunch detailing is optimal at about 24 future prescriptions per Cialis script and 32 per Levitra script."
+  ],
+  "one_line_summary": "Using physician-level data around the launches of Levitra and Cialis, the paper estimates a dynamic Bayesian learning model showing that anticipated future detailing can delay adoption by forward-looking physicians and reduce detailing effectiveness.",
+  "relation_to_prior_work": "extends prior pharmaceutical diffusion research by jointly modeling multiple learning channels and forward-looking physician choice, which earlier studies had largely treated separately. It also identifies informative versus persuasive detailing effects by using the mature incumbent Viagra as a known-quality benchmark.",
+  "research_gap": "Prior work had documented learning from multiple information sources and, separately, forward-looking experimentation incentives, but had not combined these elements in one framework. As a result, the effects of current versus expected future detailing on diffusion and managerial detailing policy were not well characterized.",
+  "research_question": "How do physicians choose among incumbent and new drugs when they are uncertain about new-drug efficacy and can learn from both detailing and patient feedback? Specifically, does expected future detailing change physicians' experimentation behavior and therefore alter diffusion speed, detailing elasticities, and optimal detailing intensity?"
+}

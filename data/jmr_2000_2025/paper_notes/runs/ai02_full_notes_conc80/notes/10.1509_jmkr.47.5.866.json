@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper jointly evaluates all four major marketing-mix instruments (advertising, discounting, distribution, and product) for mature brands instead of focusing mainly on advertising and promotion.",
+    "It assesses long-run brand performance with two outcomes, base sales and regular price elasticity, within one framework.",
+    "It introduces a large-scale time-varying system approach that models sales and marketing dynamics while controlling for endogeneity, performance feedback, and competitive interactions."
+  ],
+  "context": "The empirical setting is consumer packaged goods in France. The study analyzes mature national brands sold through major grocery chains across multiple categories.",
+  "design_and_data": "The authors estimate a multivariate dynamic linear model (state-space system) with a sales observation equation and state equations for time-varying base sales and regular price elasticity. They include additional equations for regular price, price index, and each marketing-mix variable to address endogeneity, inertia, own-performance feedback, and cross-performance feedback, and estimate via MCMC. Data combine weekly IRI France scanner data (1999-2004) and TNS monthly advertising data, aggregated from SKU-store to brand-chain level using nonlinear aggregation. The final sample covers 25 categories, 70 national brands, 4 major chains, and 73,080 brand-chain-week observations.",
+  "focal_constructs": [
+    "long-term marketing-mix effects",
+    "base sales",
+    "regular price elasticity",
+    "discount depth",
+    "advertising expenditure",
+    "distribution breadth",
+    "product line length"
+  ],
+  "main_findings": [
+    "Product line length and distribution breadth dominate total sales impact: total elasticities are 1.37 and 0.74, versus 0.13 for advertising and 0.04 for discounting.",
+    "The long-term effect of discounting is negative and about one-third of its positive short-term effect, whereas long-term effects of advertising, distribution, and product are roughly 4 to 16 times their short-term effects.",
+    "Advertising and product line length increase base sales over time, while discounting lowers base sales and makes regular price elasticity more negative."
+  ],
+  "one_line_summary": "Using a multivariate dynamic linear model on five years of French scanner and advertising data, the paper shows that product line length and distribution breadth have much larger total sales effects for mature brands than advertising or discounting.",
+  "relation_to_prior_work": "extends prior long-term marketing-effects research by integrating the full marketing mix for mature brands, using both base sales and regular price elasticity as outcomes, and combining varying-parameter dynamics with feedback and endogeneity controls in a system of equations.",
+  "research_gap": "Prior long-term studies mostly examined advertising and price promotion, often in single categories, with limited treatment of product and place. As a result, the literature offered little evidence on the relative long-run efficacy of the full marketing mix for mature brands while accounting for endogeneity, performance feedback, and competitive dynamics.",
+  "research_question": "The paper asks which elements of the marketing mix most strongly drive mature brand performance over the long run. Specifically, it examines how advertising, discounting, distribution breadth, and product line length affect base sales and regular price elasticity, and their combined short- and long-term effects on sales."
+}

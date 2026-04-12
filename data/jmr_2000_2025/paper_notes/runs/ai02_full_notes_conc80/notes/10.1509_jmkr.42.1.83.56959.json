@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper builds a structural model of a local ketchup market that jointly includes household demand, manufacturer wholesale-price decisions, and multiproduct retailer pricing decisions.",
+    "It develops a fully specified supply side that infers marginal wholesale prices from retail prices and demand, without directly observing wholesale prices.",
+    "It uses this joint framework to test demand-side price endogeneity and to evaluate manufacturer competition, retailer-manufacturer interaction, and retailer category-pricing behavior."
+  ],
+  "context": "The empirical setting is the ketchup category in Midland, Texas grocery retailing, with focus on 32-ounce Del Monte, Hunts, and Heinz. The study period is March 1982 to September 1984, in a market where the analyzed retailer is described as having substantial local market power.",
+  "design_and_data": "The data are household panel purchases and prices over 129 weeks (March 15, 1982, to September 2, 1984) for 252 households; the three focal brands account for 76% of category volume and 1,265 observed purchases. Demand is modeled with a latent-utility discrete-choice framework that includes a no-purchase option, observed household heterogeneity, and common demand shocks. Supply is modeled via first-order conditions for J single-brand manufacturers setting wholesale prices and one multiproduct retailer setting retail prices, with conduct parameters to test Nash/category-pricing restrictions. Parameters are estimated by simulated maximum likelihood, using cost shifters (tomato prices, Texas wages, gas prices) and allowing correlation between demand shocks and pricing errors to test endogeneity.",
+  "focal_constructs": [
+    "price endogeneity",
+    "common demand shocks",
+    "no-purchase option",
+    "manufacturer Nash competition",
+    "retailer category pricing",
+    "marginal wholesale prices",
+    "retailer-manufacturer bargaining/quantity discounts"
+  ],
+  "main_findings": [
+    "Allowing for common demand shocks and price endogeneity materially increases estimated price sensitivity; ignoring endogeneity understates demand elasticities.",
+    "The retailer appears to price Del Monte and Heinz below static category-profit-maximizing levels, while Hunts is not statistically different from the benchmark.",
+    "Inferred marginal wholesale pricing for Del Monte and Heinz is below static Nash uniform-wholesale benchmarks, consistent with quantity discounts, dynamic considerations, and/or stronger retailer bargaining power."
+  ],
+  "one_line_summary": "Using household panel data from Midland, Texas, the paper estimates a joint demand-supply ketchup model with consumers, manufacturers, and a multiproduct retailer and finds meaningful price endogeneity plus below-benchmark pricing for two brands on both retail and inferred wholesale margins.",
+  "relation_to_prior_work": "extends structural demand-supply studies by combining household-level discrete choice (with a no-purchase option) and a multiproduct retailer with strategic manufacturers in one estimable framework. It positions itself against prior work that used aggregate data, partial supply modeling, or assumptions about observed wholesale prices, and against endogeneity studies that did not fully model supply.",
+  "research_gap": "Prior empirical work often modeled only one side of the market or used aggregate data, which the paper argues can misattribute behavior and bias key parameters such as price sensitivity and inferred conduct. The paper targets the lack of a unified model that jointly captures household demand, manufacturer pricing, and multiproduct retailer pricing in this category.",
+  "research_question": "How can ketchup market outcomes be modeled when individual consumers, manufacturers, and a multiproduct retailer all make strategic decisions on demand and supply sides simultaneously? Using that joint model, do observed prices and shares indicate demand-side price endogeneity, departures from manufacturer Nash wholesale pricing, and departures from retailer category-profit-maximizing pricing?"
+}

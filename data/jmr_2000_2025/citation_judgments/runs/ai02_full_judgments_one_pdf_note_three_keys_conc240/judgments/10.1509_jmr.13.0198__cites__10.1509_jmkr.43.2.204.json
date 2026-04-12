@@ -1,0 +1,6 @@
+{
+  "citation_substance": "mention_only",
+  "rationale": "The citation appears only when the authors discuss how salesperson churn could be modeled in future work, including possible forms such as logistic regression or decision trees. In the actual empirical analysis, they set salesperson churn probability to zero and do not estimate or adapt the churn-modeling approach from the cited paper. The reference therefore functions as a general background/example citation rather than a direct input to the paper's core framework or results.",
+  "relation_description": null,
+  "relation_type": null
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Develops an optimization methodology for split questionnaire design that minimizes expected information loss using the Kullback-Leibler distance and a modified Fedorov algorithm.",
+    "Provides a split-design framework for mixed data (continuous, ordered, and discrete items), including guidance on identification constraints for fully identified designs.",
+    "Shows through simulations, an empirical Web survey application, and a field study that optimized split designs are computationally feasible and can improve efficiency and response quality compared with heuristic alternatives."
+  ],
+  "context": "The paper addresses massive marketing surveys where long questionnaires are common, especially in panel/tracking settings and online data collection. The empirical application uses a Web attitudes and perceptions survey about Internet usage (Project 2000 Ninth GVU Survey).",
+  "design_and_data": "The authors formulate split questionnaire design as an optimization problem and maximize an incomplete-data log-likelihood equivalent to minimizing Kullback-Leibler distance from the full questionnaire, using prior parameter estimates from a pilot/earlier wave. They use the modified Fedorov algorithm to generate between-block and within-block split designs, and Gibbs-sampling multiple imputation to fill missing-by-design responses. Simulations evaluate algorithm performance and compare optimal split questionnaire designs against matrix sampling designs under constrained and unconstrained settings. An empirical test uses 65 items in 9 blocks from two complete survey waves (n=500 initialization, n=1150 validation), with comparisons to matrix sampling, incomplete block designs, and a PCA-based heuristic; a separate field experiment (189 participants) compares full versus ten-split between- and within-block questionnaires on behavioral outcomes.",
+  "focal_constructs": [
+    "split questionnaire design",
+    "respondent burden",
+    "missing data by design",
+    "Kullback-Leibler distance",
+    "modified Fedorov algorithm",
+    "between-block and within-block designs",
+    "multiple imputation via Gibbs sampling"
+  ],
+  "main_findings": [
+    "In simulations, the modified Fedorov search recovered the true optimum quickly for test cases and produced split designs with lower Kullback-Leibler loss, lower missing-information fractions, and lower MAD of covariance estimates than matrix sampling designs.",
+    "In the Web survey application, optimal between-block designs substantially outperformed matrix sampling and incomplete block benchmarks; for example, unconstrained five- and ten-split designs removed about 66.5% and 73.7% of items with missing-information fractions of 35.8% and 38.9%, respectively.",
+    "In the field study, split questionnaires reduced completion time (about 8 to about 6 minutes), were evaluated more favorably, and yielded fewer skipped responses (33 for full vs 7 between-block vs 5 within-block)."
+  ],
+  "one_line_summary": "The paper proposes and validates an optimization-based method for constructing split questionnaires that reduces respondent burden while minimizing information loss relative to full surveys.",
+  "relation_to_prior_work": "extends prior split-questionnaire and missing-data work by moving from ad hoc or randomized splitting to explicit optimization of the missing-data design with an information-theoretic criterion. It also links existing imputation methods to a separate, design-first workflow for constructing efficient split questionnaires.",
+  "research_gap": "The paper argues that firms commonly split massive questionnaires using ad hoc rules, while prior academic work mostly used randomization and focused on imputing missing data after splitting. It identifies an unresolved gap: how to design split questionnaires optimally so that information loss is minimized.",
+  "research_question": "How can massive questionnaires be split into multiple versions so that the resulting missing-by-design data lose as little information as possible compared with administering the full questionnaire? Do optimized between-block and within-block split designs outperform common randomized or heuristic alternatives, and do they improve respondent-side data quality?"
+}

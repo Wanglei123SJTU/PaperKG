@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is not just listed in background; it is invoked at the exact point where the citing paper defines its aggregate-data likelihood and notes that the rigorous derivation is in Bodapati and Gupta (2004). That gives the cited work a direct methodological role in supporting a core building block of the estimator. Even though the citation appears in a footnote, it is tied to the model formulation rather than a generic literature sweep.",
+  "relation_description": "The citing paper uses Bodapati and Gupta (2004) as methodological grounding for the derivation of the aggregate multinomial likelihood used in its SML framework. This prior derivational result functions as a technical foundation for the citing paper's estimation setup.",
+  "relation_type": "foundational_for"
+}

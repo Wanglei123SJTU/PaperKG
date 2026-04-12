@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper directly uses the cited paper's interaction-probing methodology, explicitly stating that it conducts floodlight analysis following Spiller et al. (2013). Across multiple experiments, it reports Johnson-Neyman points/regions to interpret when effects become significant, which is a core analytic step in its results sections and figures. This is more than background citation because the cited work informs how key interaction findings are tested and presented.",
+  "relation_description": "The citing paper applies Spiller et al. (2013)'s spotlight/floodlight simple-effects testing approach to probe moderated effects and report Johnson-Neyman thresholds. It uses this method for statistical interpretation across studies rather than extending or challenging the method itself.",
+  "relation_type": "applies"
+}

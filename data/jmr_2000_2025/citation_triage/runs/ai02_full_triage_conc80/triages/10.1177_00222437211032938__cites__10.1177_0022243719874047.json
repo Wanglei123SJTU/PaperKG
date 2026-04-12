@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper appears methodologically proximate rather than incidental: both papers center on flexible Bayesian modeling of customer heterogeneity and are estimated with HMC/NUTS (citing note: deep probabilistic heterogeneity model in Stan; cited note: Gaussian-process dynamic heterogeneity with NUTS). Even without in-text snippet evidence (only DOI match), this overlap makes it plausible the citation is a substantive method/theory reference worth second-stage judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

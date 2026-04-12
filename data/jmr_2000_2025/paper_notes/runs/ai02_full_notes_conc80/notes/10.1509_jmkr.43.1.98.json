@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides what the authors describe as the first formal empirical model of how banner advertising affects actual Internet purchasing, rather than attitudes, click-through, or site visits.",
+    "Introduces a richer individual-level banner advertising response specification that includes ad weight, creative diversity, and exposure location breadth (sites and pages) within a duration-dependent purchase-timing framework.",
+    "Shows managerial value from individual-level response estimation by demonstrating higher profitability under targeted banner allocation than under untargeted allocation in a stylized experiment."
+  ],
+  "context": "The study is set in an Internet-only retailer of health care and beauty products and nonprescription drugs. Banner ads were served on major portal/alliance sites (e.g., Yahoo, AOL, Women.com, iVillage) during June-September 2000.",
+  "design_and_data": "The authors merge two anonymized cookie-level databases: ad exposure/click records (CAMPAIGN) and purchase transaction records (TRACER). The raw merged data include 14,370 cookies over 13 weeks; after cleaning and exclusions, the estimation sample is 12,748 cookies and 97,805 cookie-week observations, focused on weeks after each cookie's first purchase. They model weekly repeat purchase probability as a discrete-time semiparametric survival model with a piecewise exponential baseline hazard for duration dependence. Advertising and browsing covariates (LVIEWNUM, ADNUM, SITENUM, PAGENUM) enter through proportional hazards, and individual response coefficients are estimated in a hierarchical Bayesian framework via MCMC.",
+  "focal_constructs": [
+    "banner advertising exposure",
+    "repeat purchase probability",
+    "duration dependence",
+    "advertising weight",
+    "creative diversity",
+    "exposure breadth across Web sites and pages",
+    "consumer heterogeneity in ad response",
+    "targeting returns"
+  ],
+  "main_findings": [
+    "Higher ad exposure counts, more exposure sites, and more exposure pages are associated with higher weekly repeat purchase probabilities for current customers.",
+    "Exposure to a larger number of unique creatives is associated with lower purchase probability.",
+    "There is substantial heterogeneity in response, and targeting based on individual response parameters (especially ad exposure weight sensitivity) yields higher returns than untargeted allocation in the authors' simulation."
+  ],
+  "one_line_summary": "Using cookie-level ad exposure and purchase data from an online retailer, the paper finds that banner advertising significantly affects current customers' repeat purchasing, with positive effects of exposure/site/page breadth but a negative effect of creative variety.",
+  "relation_to_prior_work": "extends prior digital advertising work that emphasized awareness, attitudes, click-through, and visits by estimating effects on actual purchase incidence. extends individual-level advertising response modeling by combining a duration-dependent purchase-timing hazard model with richer banner exposure measures and hierarchical heterogeneity.",
+  "research_gap": "Prior online banner studies largely examined awareness, attitudes, intentions, click-through, or aggregate visits, leaving the effect of banner exposure on actual purchasing behavior untested. The paper also argues that existing metrics such as click-through may not capture true advertising effectiveness for purchases.",
+  "research_question": "Does banner advertising affect actual Internet purchasing behavior of current customers? More specifically, after accounting for duration dependence since the last purchase, how do ad exposure intensity, creative diversity, and exposure breadth across sites/pages influence a customer's weekly probability of repurchase?"
+}

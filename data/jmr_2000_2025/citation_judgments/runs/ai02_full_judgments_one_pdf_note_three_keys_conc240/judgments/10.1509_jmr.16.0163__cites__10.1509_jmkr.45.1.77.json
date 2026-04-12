@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Bodapati (2008) at a central conceptual point: it explicitly notes a similar argument that targeting should maximize incremental behavior change rather than baseline propensity. It then positions its own contribution relative to that work by contrasting context (churn retention vs. product recommendation) and method (nonparametric treatment-effect estimation from randomized pilots vs. Bodapati's parametric two-step model). Bodapati is cited again in the broader discussion as prior marketing evidence for incremental targeting logic, with the current paper claiming a more flexible experimental implementation.",
+  "relation_description": "The citing paper extends Bodapati's incremental-targeting idea to proactive churn management, showing that firms should target customers by estimated intervention lift rather than raw churn risk. It preserves the core intervention-sensitive targeting logic while introducing a different empirical and methodological approach based on randomized field experiments and uplift modeling.",
+  "relation_type": "extends"
+}

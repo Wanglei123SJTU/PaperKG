@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and demonstrates semantic onsets as an attention-capture mechanism in advertising, complementing prior work on abrupt visual onsets.",
+    "It shows that preattentive semantic analysis of nonfocal headline words can trigger orienting attention responses even when consumers are focused on a separate primary task.",
+    "It identifies stimulus emotionality as a direct driver of these orienting responses and links this mechanism to increased ad and brand awareness in cluttered environments."
+  ],
+  "context": "The studies use cluttered newspaper-like environments in which participants read article content as a primary task while target advertisements appear outside focal attention in an adjacent column. The setting is designed to mirror ad-cluttered media contexts such as print and similar article-plus-ad layouts.",
+  "design_and_data": "Three experiments used mock newspapers with target ads positioned outside foveal attention while participants performed a motivated reading task. Experiment 1 (N=279) manipulated headline word emotionality (highly emotional ego-threatening vs less emotional trait words) and primary-task processing load, then measured headline recognition, brand logo recognition, and signal-detection sensitivity (d'). Experiment 2 (N=335) replicated with ANEW-based words that crossed emotionality and valence and added participant-level emotionality/valence ratings, again testing recognition, brand awareness, and processing-load moderation. Experiment 3 (N=42, analyzed N=39) videotaped participants' eyes and used blind coders to record shifts from the reading area to ads, including initial shifts.",
+  "focal_constructs": [
+    "semantic onsets",
+    "emotionality",
+    "orienting attention responses",
+    "preattentive processing",
+    "nonfocal ad headlines",
+    "primary-task processing load",
+    "headline recognition",
+    "brand awareness"
+  ],
+  "main_findings": [
+    "Headlines containing highly emotional words in nonfocal advertisements were recognized more often than headlines with less emotional words.",
+    "Brands paired with highly emotional headlines showed greater awareness, and higher primary-task processing load increased recognition/awareness for highly emotional headlines but not for less emotional headlines.",
+    "Emotionality, not valence, drove the attention effects in Experiment 2, and ads with highly emotional headlines produced more initial eye-movement shifts away from the primary task in Experiment 3."
+  ],
+  "one_line_summary": "Across three newspaper-based experiments, emotionally charged words in nonfocal ad headlines were preattentively detected, triggered orienting attention shifts, and increased ad headline and brand awareness.",
+  "relation_to_prior_work": "extends prior advertising attention research by showing that semantic distinction, not only perceptual distinction, can capture attention in cluttered media. It also extends orienting-attention and attentional-interference work by demonstrating preattentively initiated shifts from nonfocal stimuli and by positioning emotionality as a broad driver of these effects.",
+  "research_gap": "Prior ad-attention research mainly examined perceptual abrupt visual onsets (e.g., size, color, contrast), while evidence about preattentive semantic processing of nonfocal words remained mixed. The paper also identifies limited direct evidence that orienting responses can be initiated by nonfocal stimuli and tied specifically to preattentive processing.",
+  "research_question": "Can consumers preattentively extract enough semantic information from nonfocal ad headlines to detect emotionality while focused on another task? If so, do these preattentively triggered orienting responses shift attention to the ad strongly enough to increase ad-headline and brand awareness in cluttered environments?"
+}

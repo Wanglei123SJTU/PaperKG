@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides a concrete five-part agenda for applying neuroscience tools to marketing theory and consumer behavior research.",
+    "Identifies three core challenges facing consumer neuroscience (causal inference, reverse inference, and reliability/generalizability) and offers actionable solutions.",
+    "Positions consumer neuroscience as an important complementary approach for generating multilevel brain-behavior insights relevant to marketing practice."
+  ],
+  "context": "The paper is situated at the intersection of academic marketing and cognitive neuroscience, in a period when practitioner neuromarketing adoption was expanding across major research and advertising firms. It focuses on consumer judgment and decision-making phenomena relevant to branding, pricing, preference formation, and marketplace behavior.",
+  "design_and_data": "This is a conceptual perspective/review article, not a new empirical study. The authors synthesize prior literature in consumer neuroscience and related decision neuroscience, using published examples (mainly fMRI, with discussion of TMS and TDCS) to illustrate opportunities and limitations. They structure the synthesis around five application areas and three methodological challenges, and discuss remedies such as multimethod designs, theory-driven experimental manipulations, and meta-analytic tools like NeuroSynth. No original dataset or new experiment is reported.",
+  "focal_constructs": [
+    "consumer neuroscience",
+    "marketing theory and practice",
+    "brain-behavior relationships",
+    "implicit processes",
+    "reverse inference",
+    "causal inference",
+    "individual differences",
+    "replication and generalizability"
+  ],
+  "main_findings": [
+    "Neuroscientific methods can aid marketing research in five specific ways: identifying mechanisms, measuring implicit processes, dissociating psychological processes, understanding individual differences, and improving prediction of behavior.",
+    "Consumer neuroscience is most useful as a complement to traditional marketing methods rather than as a replacement, especially in multimethod research programs.",
+    "The field's major obstacles are correlational inference, reverse inference, and concerns about reliability/generalizability, and the paper concludes these can be addressed through causal-intervention methods, theory-driven designs with statistical decoding support, and stronger replication and meta-analytic aggregation."
+  ],
+  "one_line_summary": "This article argues that consumer neuroscience can more directly inform marketing by proposing five application pathways and addressing three major methodological challenges with practical solutions.",
+  "relation_to_prior_work": "extends prior consumer neuroscience work that primarily mapped neural mechanisms by translating those insights into an explicit agenda for marketing theory and practice. It introduces a structured response to common critiques in the literature by pairing each challenge with methodological remedies.",
+  "research_gap": "Prior consumer neuroscience had generated substantial foundational knowledge about neural mechanisms of decision making, but most progress was published in neuroscience outlets and had limited direct impact on core marketing theory and practice. The paper addresses the need for a clear translational framework that connects neuroscientific evidence to marketing-relevant questions while handling methodological critiques.",
+  "research_question": "How can consumer neuroscience move beyond foundational brain-mechanism findings to make direct contributions to marketing theory and practice? Which applications are most useful for marketers, and how should researchers address key methodological challenges such as correlational evidence, reverse inference, and reliability/generalizability?"
+}

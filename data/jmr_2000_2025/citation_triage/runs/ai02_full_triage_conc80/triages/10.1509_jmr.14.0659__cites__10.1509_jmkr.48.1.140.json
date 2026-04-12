@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s core design and analyses are choice-based conjoint with HB logit/consider-then-choose models about scale-driven discriminability effects, while the cited paper develops a different elicitation method (adaptive self-explicated conjoint, ASE) for many-attribute measurement. In the provided evidence, there is only a bare DOI-level reference match (no in-text citation context or signs the ASE procedure was adopted, compared, or used as a mechanism source). This looks most like a general background/methods-literature mention rather than substantive dependence.",
+  "triage_decision": "drop_obvious_mention_only"
+}

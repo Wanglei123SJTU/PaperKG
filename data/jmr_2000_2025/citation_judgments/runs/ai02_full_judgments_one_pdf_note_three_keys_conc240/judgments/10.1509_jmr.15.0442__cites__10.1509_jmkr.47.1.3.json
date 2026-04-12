@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper invokes Petrin and Train (2010) in its core identification section when estimating the causal effect of ego activity on alter outcomes under endogeneity concerns. Specifically, after explaining why simple regressions would be biased, the authors state they use an IV setup and estimate it with a control function approach, citing Petrin and Train as methodological support. This method is then used to produce key mechanism results (Table 10), so the citation is more than background mention.",
+  "relation_description": "The citing paper applies the cited paper's control function framework to correct endogeneity in its IV analysis of social spillovers in CRM campaigns. It transfers that estimation logic to a new empirical context (telecom network experiment) rather than extending or challenging the original method.",
+  "relation_type": "applies"
+}

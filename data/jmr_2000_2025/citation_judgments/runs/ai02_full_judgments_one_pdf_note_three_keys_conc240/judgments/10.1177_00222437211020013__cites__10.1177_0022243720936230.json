@@ -1,0 +1,6 @@
+{
+  "citation_substance": "mention_only",
+  "rationale": "The cited paper appears only in methodological side notes, where the authors mention it as an example supporting outcome-only synthetic control specifications and as a Bayesian alternative for inference. The citing study does not implement Bayesian synthetic control from Kim, Lee, and Gupta (2020), nor does it build hypotheses, core identification, or results interpretation around that specific method. The paper's main empirical strategy relies on Abadie et al. SCM, Xu's generalized SCM, and Li's inference approach, so this citation functions as peripheral background rather than a central building block.",
+  "relation_description": null,
+  "relation_type": null
+}

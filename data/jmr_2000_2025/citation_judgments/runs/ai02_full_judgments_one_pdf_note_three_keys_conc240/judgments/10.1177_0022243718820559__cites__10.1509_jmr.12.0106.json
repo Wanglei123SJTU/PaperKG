@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Tirunillai and Tellis (2014) as a key prior marketing example of LDA-based text mining, explicitly noting its extraction of quality dimensions and valence from online reviews. It then positions its own contribution as moving beyond standard unsupervised LDA by introducing guided LDA with psychologically informed seed words, and even references the cited paper's seed-word use in this methodological discussion. This is not just a bibliography-list mention; it helps frame the methodological gap and the paper's claimed advance.",
+  "relation_description": "The citing paper extends prior LDA-based marketing text-mining work exemplified by Tirunillai and Tellis (2014), shifting from review-based brand analysis to theory-guided feature extraction for entertainment products. It builds on that line by introducing guided, psychology-informed topic discovery and using the resulting features in individual-level and hybrid prediction models.",
+  "relation_type": "extends"
+}

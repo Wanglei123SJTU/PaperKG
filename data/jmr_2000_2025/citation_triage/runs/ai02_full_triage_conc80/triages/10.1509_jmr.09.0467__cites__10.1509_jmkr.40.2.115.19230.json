@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s design explicitly uses a finite-mixture preference model and Bayesian MCMC, and the cited paper is also a hierarchical Bayesian finite-mixture choice model, so it is plausibly a methodological source rather than a mere background mention. Given this strong methodological overlap in the notes (despite only one DOI match and no local citation context text), it is not safe to treat the citation as obviously incidental.",
+  "triage_decision": "keep_for_relation_judgment"
+}

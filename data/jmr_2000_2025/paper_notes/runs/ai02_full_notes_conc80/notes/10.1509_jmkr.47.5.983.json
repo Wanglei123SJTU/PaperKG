@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes that reference point diagnosticity depends on response-task goals, so attractiveness judgments and intention ratings recruit different contextual standards.",
+    "It provides three experiments that directly compare range, frequency (rank), and adaptation-level (mean) influences across attractiveness versus purchase-intention tasks.",
+    "It argues that consumer response to price should be separated into attractiveness and intention outcomes rather than treated as interchangeable."
+  ],
+  "context": "The empirical setting is consumer evaluation of prices in product sets. The studies use hypothetical market-price distributions for hotel stays and, for external validity, multiattribute LCD TV options with brand, resolution, and price.",
+  "design_and_data": "Study 1 used a 3 (price distribution: negative skew low mean vs positive skew low mean vs negative skew high mean) x 2 (task: attractiveness vs intention) between-subject design with 228 undergraduates (208 retained after screening), where participants rated 20 context hotel prices and then 5 target prices. The authors compared nonlinear fits of range, frequency, adaptation-level, and range-frequency models, and also ran ANOVA and trend/contrast tests. Study 2 used 744 undergraduates in a 2 x 3 x 2 x 2 between-subject design that independently manipulated range, rank, or mean (high vs low) and presentation order (ascending vs random) in 10-brand price sets, then measured target attractiveness or purchase intention. Study 3 used 185 undergraduates in a 2 x 3 between-subject multicue task with seven LCD TV profiles; price partworth coefficients were estimated and then modeled with the same reference-point frameworks.",
+  "focal_constructs": [
+    "reference point diagnosticity",
+    "price attractiveness ratings",
+    "purchase intention ratings",
+    "range effects",
+    "frequency/rank effects",
+    "adaptation-level/mean effects",
+    "context effects"
+  ],
+  "main_findings": [
+    "Range endpoints were more predictive of price attractiveness ratings than of purchase intention ratings.",
+    "Target rank/frequency and distribution mean were more predictive of purchase intention ratings than of attractiveness ratings.",
+    "The pattern largely replicated across methods, including a multicue product setting, with stronger relative reliance on range for attractiveness and on frequency/mean for intentions."
+  ],
+  "one_line_summary": "The paper shows across three experiments that context effects on price evaluations differ by task, with range endpoints driving attractiveness judgments more and rank/mean reference points driving purchase intentions more.",
+  "relation_to_prior_work": "challenges the common treatment of attractiveness and intention measures as interchangeable by showing task-dependent reference point use within the established range, range-frequency, and adaptation-level traditions.",
+  "research_gap": "Although marketing research frequently uses both attractiveness and intention outcomes, prior work had not shown that context effects might operate differently across these two response types and often treated them as functionally similar.",
+  "research_question": "Do contextual reference points used in price evaluation differ between attractiveness judgments and behavioral intention ratings? Specifically, are range endpoints more diagnostic for attractiveness ratings, while target rank and distribution mean are more diagnostic for purchase-intention ratings because intentions are more choice-like?"
+}

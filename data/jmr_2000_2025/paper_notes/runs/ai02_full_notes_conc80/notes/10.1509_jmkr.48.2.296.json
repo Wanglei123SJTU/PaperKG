@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper identifies when consumers seek self-discovery information but reject it, and shows that this rejection changes downstream consumption choices.",
+    "It shows that rejection of self-knowledge can occur even when feedback has neutral or positive implications for self-esteem.",
+    "It links self-construal and psychological reactance to explain responses to self-discovery, highlighting perceived constraint as the key mechanism."
+  ],
+  "context": "The paper is set in consumer self-discovery contexts, using personality or consumer-style quizzes similar to marketplace self-assessment offerings. Consumption decisions are operationalized as choices between products or magazines with trait-relevant personalities (e.g., competence vs excitement, brand-name vs generic).",
+  "design_and_data": "The evidence comes from five experiments (Studies 1a, 1b, 1c, 2, and 3) using voluntary participants. Studies 1a (n=79), 1b (n=40), and 1c (n=58) used personality-quiz feedback about competence and excitement with measured self-construal; outcomes were magazine choice (1a, 1c) and reported willingness to incorporate feedback into self-concept (1b). Study 2 (n=75) manipulated feedback that participants were brand conscious vs not brand conscious and measured chronic reactance; the dependent variable was the number of brand-name products chosen in a second choice set. Study 3 (n=112 adults online) manipulated self-construal via an I/me vs we/us prime and included brand-conscious, not-brand-conscious, and no-feedback conditions; state reactance was measured and tested as a mediator of feedback effects on brand-name choice.",
+  "focal_constructs": [
+    "self-discovery",
+    "self-knowledge acceptance vs rejection",
+    "independent self-construal",
+    "interdependent self-construal",
+    "psychological reactance",
+    "perceived constraint",
+    "consumption choice consistency"
+  ],
+  "main_findings": [
+    "Interdependents tended to choose options consistent with quiz feedback, whereas independents tended to choose options inconsistent with feedback, in both mixed-valence and positive-only feedback conditions.",
+    "More interdependent participants reported greater willingness to incorporate quiz feedback into their self-concepts than more independent participants.",
+    "Low-reactance participants used feedback consistently in choice, high-reactance participants reacted against feedback, and in the self-construal-prime study state reactance mediated the self-construal by feedback effect while no self-construal difference appeared in the no-feedback baseline."
+  ],
+  "one_line_summary": "Across five experiments, the paper shows that consumers sensitive to constraint (independents and high reactants) seek self-discovery feedback but reject it and choose inconsistently with it, whereas interdependents and low reactants accept and use it in their choices.",
+  "relation_to_prior_work": "extends prior self-knowledge research by shifting attention from information seeking alone to whether acquired self-knowledge is accepted or rejected and by linking that process to consumption outcomes. It also introduces a joint account from self-construal and reactance literatures in which perceived constraint from self-definition drives rejection of feedback.",
+  "research_gap": "Prior work documents that people seek self-knowledge, but this paper argues it is less clear when people accept versus reject what they learn and how that affects consumption behavior. The authors also note that much prior self-knowledge research emphasizes clearly positive or negative feedback, leaving open whether people may reject even neutral or positive self-information when it is experienced as constraining.",
+  "research_question": "When do consumers incorporate self-discovery feedback into their self-concepts and choices, and when do they reject it? The paper tests whether sensitivity to constraint, captured by independent self-construal and high reactance, leads people to seek self-knowledge but then resist it, producing consumption choices inconsistent with that feedback."
+}

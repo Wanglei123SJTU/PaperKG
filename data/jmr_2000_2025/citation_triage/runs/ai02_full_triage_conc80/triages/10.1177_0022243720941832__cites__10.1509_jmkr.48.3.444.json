@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper explicitly studies online review polarity, social influence/self-selection, and downstream informativeness of rating metrics for outcomes like sales, while the cited paper models social dynamics in rating generation and links decomposed rating components to sales. Given this strong construct and mechanism overlap (not just topic adjacency), this citation is plausibly foundational/comparative and should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

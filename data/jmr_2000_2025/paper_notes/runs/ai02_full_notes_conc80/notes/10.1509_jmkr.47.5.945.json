@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper identifies a novel link between power distance belief (PDB) and impulsive buying in consumer behavior.",
+    "It develops and applies individual-level PDB measures and priming manipulations intended for use in consumer research.",
+    "It proposes and supports an associative self-control account of PDB effects, with boundary conditions based on vice versus virtue products and control resource depletion."
+  ],
+  "context": "The studies examine consumer purchase decisions in retail-like choice tasks, often using snack and beverage products framed as vice or virtue items. Evidence comes from 14 Asia-Pacific markets, U.S. student samples, and a U.S. adult online panel making real product choices.",
+  "design_and_data": "Study 1A uses 2003 ACNielsen data from 15,000 urban households across 14 Asia-Pacific markets to relate country-level unplanned buying to Hofstede PDB scores, controlling for individualism and per capita GNP. Study 1B surveys 120 U.S. undergraduates with an 8-item PDB scale and a 10-item impulsive buying scale, and the authors report a separate 2-week test-retest check for PDB. Studies 1C and 3 experimentally prime high versus low PDB (sentence-completion tasks) and measure spending and quantity choices in impulse-buying tasks; Study 2 uses a PDB prime and anagram response latencies for control-related versus unrelated words. Study 4 surveys 901 U.S. adults from an online panel, manipulates resource depletion (white-bear thought suppression), and records real grocery product choices.",
+  "focal_constructs": [
+    "power distance belief (PDB)",
+    "impulsive buying",
+    "unplanned buying",
+    "self-control associations",
+    "vice versus virtue products",
+    "self-control resource depletion",
+    "individualism-collectivism"
+  ],
+  "main_findings": [
+    "Higher PDB is associated with lower unplanned or impulsive buying, and in country-level analysis this PDB effect remains significant after controlling for individualism and per capita GNP.",
+    "Priming high versus low PDB reduces impulsive purchasing and yields faster responses to control-related anagrams, but not to control-unrelated anagrams.",
+    "The PDB effect is concentrated in vice-product buying rather than virtue-product buying, and differences between low- and high-PDB consumers become larger when self-control resources are depleted."
+  ],
+  "one_line_summary": "Across five studies, the paper finds that higher power distance belief reduces impulsive buying through self-control associations, especially for vice products and under resource depletion.",
+  "relation_to_prior_work": "extends impulsive buying research that has been largely U.S.-based and self-control focused by introducing PDB as a cultural belief predictor of purchase impulsivity. It also extends cross-cultural consumer research beyond the dominant individualism-collectivism emphasis by showing PDB has distinct predictive value.",
+  "research_gap": "Prior impulsive buying research was largely based on U.S. consumers and did not clearly examine whether PDB predicts buying impulses. Cross-cultural consumer research had emphasized individualism-collectivism, leaving PDB's independent role and mechanism in impulsive buying underexplored.",
+  "research_question": "Does power distance belief, defined as acceptance and expectation of unequal power, influence impulsive buying behavior beyond related cultural dimensions such as individualism-collectivism? If it does, is the effect explained by self-control associations, and when is it stronger or weaker (for vice versus virtue products and under resource depletion)?"
+}

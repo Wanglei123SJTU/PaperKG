@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Proposes a reference-dependent model of the price-quality heuristic in which price sets expectations as reference points and disappointment can reverse the usual positive price-quality effect.",
+    "Provides experimental evidence for the interaction of price and objective quality in subjective quality assessment, including a reversal for high-price low-quality products.",
+    "Shows in a field experiment that the price-expectations-quality interaction affects actual demand, sales, and profitability, with implications for pricing decisions."
+  ],
+  "context": "The empirical setting is a small California winery tasting room where visitors sample wines and can purchase bottles onsite. The focal products are two Cabernet Sauvignons from the same winery (2004 lower quality and 2005 higher quality).",
+  "design_and_data": "All studies were conducted at the same winery and used price manipulations of $10, $20, or $40. A pretest (N = 133) showed that higher posted prices increased expected liking, and a blind-tasting pretest (N = 100) verified that visitors perceived the 2005 Cabernet as higher quality than the 2004 Cabernet. Experiment 1 (N = 166) used a 2 (wine quality: low vs. high) x 3 (price) between-participants design and measured post-tasting liking; Experiment 2 (N = 238) used the same design and measured whether the wine fell short of, met, or exceeded expectations. Experiment 3 implemented the same 2 x 3 conditions in the field with visitors unaware of the experiment, recorded purchases for 100 visitor groups per condition (600 groups total), and analyzed sales and profit outcomes.",
+  "focal_constructs": [
+    "price-quality heuristic",
+    "reference-dependent preferences",
+    "price-based expectations",
+    "subjective quality assessment",
+    "loss aversion and disappointment",
+    "quality uncertainty",
+    "demand and profitability"
+  ],
+  "main_findings": [
+    "Higher posted prices increased pretasting expectations of liking.",
+    "Price interacted with actual quality in post-tasting evaluations: for the low-quality wine, higher prices lowered evaluations, while the high-quality wine was evaluated more favorably than the low-quality wine at higher prices.",
+    "In field sales, low-quality demand declined as price rose, while high-quality demand increased from $10 to $20 and then decreased at $40; the $20 price for the high-quality wine produced the highest Cabernet profits and improved overall store profits versus $10."
+  ],
+  "one_line_summary": "Using winery experiments and field sales data, the paper shows that price-driven expectations act as reference points, so higher prices can raise evaluations for high-quality wine but reduce evaluations and demand for low-quality wine.",
+  "relation_to_prior_work": "extends prior price-quality heuristic research by modeling expectations as reference points and identifying boundary conditions under which higher prices decrease evaluations for low-quality products, then testing implications for real purchases and profits.",
+  "research_gap": "Prior price-quality work largely varied price while holding product quality constant and emphasized a positive price-quality relationship. The authors highlight that this leaves unresolved how price and actual quality jointly shape evaluations when expectations are unmet, and whether these effects carry into observed demand and profit.",
+  "research_question": "How do price-based expectations and actual product quality jointly determine post-consumption subjective quality assessment? Specifically, can higher prices backfire for low-quality products when consumers experience disappointment relative to expectation-based reference points, and do these effects appear in actual demand and profitability?"
+}

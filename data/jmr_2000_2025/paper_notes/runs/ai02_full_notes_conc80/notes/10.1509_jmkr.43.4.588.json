@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper develops an implementable store-level pricing optimization approach for quality-tiered automotive hard-part subclasses by combining heterogeneous demand estimation with profit maximization.",
+    "It extends retail micromarketing and category pricing optimization research beyond grocery retailing to a specialty automotive aftermarket setting with distinct institutional demand features.",
+    "It validates model-recommended prices in an in-market field experiment and reports the resulting profit impact for managerial use."
+  ],
+  "context": "The study is set at a U.S. specialty automotive aftermarket retailer (AAR) with about 3400 stores across 42 states, focused on DIY consumers buying failure-related hard parts. The focal category (HPX) contains vehicle-application subclasses, each with quality-tiered Good, Better, and Best variants.",
+  "design_and_data": "The authors use 104 weeks of weekly SKU-level sales and price data for 27 HPX subclasses from 800 randomly selected stores, plus store characteristics and wholesale cost data. They estimate subclass-specific multinomial logit demand models with three latent supports for store heterogeneity and then use an empirical Bayes step to derive store-specific demand functions for price optimization. Demand models are validated on a 2600-store holdout sample against homogeneous logit and a naive share benchmark. A 16-week before-after-with-control quasi field test in 500 holdout stores (200 test, 300 control) was run, with final evaluation based on 10 subclasses after managerial exclusions.",
+  "focal_constructs": [
+    "store-level price optimization",
+    "quality-tiered variants",
+    "subclass-level demand",
+    "latent-class multinomial logit",
+    "store heterogeneity",
+    "cross-price elasticities",
+    "price customization"
+  ],
+  "main_findings": [
+    "For all 22 validated subclasses, the three-support heterogeneous logit produced better holdout predictive log-likelihood than both homogeneous logit and naive benchmark models.",
+    "Estimated cross-price effects across Good, Better, and Best variants showed a pattern that differed from common grocery-based generalizations, including reversals of the classic asymmetric effect in some variant pairs.",
+    "In the field test, model-recommended prices generated an incremental gross profit gain of $6,288 over 8 weeks for 200 test stores, which the authors project to about $613,000 annually if applied to 3000 stores for the 10 tested subclasses."
+  ],
+  "one_line_summary": "Using weekly sales, price, and cost data from a 3400-store automotive aftermarket chain, the paper builds and field-tests a store-specific pricing model for quality-tiered hard parts that improves projected gross profit versus existing pricing.",
+  "relation_to_prior_work": "extends grocery-centered retail category pricing and micromarketing research to the specialty automotive aftermarket context. It also challenges the generalizability of grocery-based asymmetric cross-price findings by showing a different competitive pattern across quality tiers in hard parts.",
+  "research_gap": "The paper notes that few retail micromarketing pricing applications had been reported and that most category pricing optimization research focused on grocery retailers. It argues that specialty automotive hard-part retailing has different institutional conditions that existing grocery-based evidence does not directly address.",
+  "research_question": "How can a specialty automotive retailer set store-specific, profit-maximizing everyday prices for Good, Better, and Best variants within each hard-part subclass while accounting for demand heterogeneity across stores? Do prices from this model outperform the retailer's current zone-based pricing in field implementation?"
+}

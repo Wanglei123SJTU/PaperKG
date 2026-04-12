@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper is an accounting/finance disclosure study using hand-coded 10-K metrics and 3SLS on investor/analyst uncertainty, whereas the cited paper is a subscriber-level hierarchical Bayesian model of wireless plan choice, learning, and churn—so their methodological and immediate research aims differ. However, the only match evidence is a single DOI reference with no in-text citation context, and the cited work could still be used as telecom/customer-metrics background, so there is not enough evidence to safely drop it as an obvious mention-only citation.",
+  "triage_decision": "uncertain"
+}

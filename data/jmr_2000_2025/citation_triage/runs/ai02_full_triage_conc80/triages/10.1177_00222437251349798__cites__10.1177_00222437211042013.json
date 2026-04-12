@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper centers on an interlocked hypergraph VAE for playlist/category-item-user relations, while the cited paper focuses on automated video-content feature extraction and gradient boosting for online courseware consumption, suggesting only broad topical overlap (digital consumption + ML) rather than an obvious direct methodological dependency. The matched evidence is only a single DOI reference with no in-text citation context or reference text, so substantive use cannot be confirmed or ruled out. Given this sparse evidence, it is not safe to drop outright.",
+  "triage_decision": "uncertain"
+}

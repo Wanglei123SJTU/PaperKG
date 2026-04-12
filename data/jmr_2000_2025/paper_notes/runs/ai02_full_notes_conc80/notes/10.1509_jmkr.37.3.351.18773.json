@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides experimental evidence on how consumers interpret price-matching refund policies, a perspective largely missing from prior firm-focused theory.",
+    "Develops an oligopoly model with differentiated stores and informed versus uninformed consumers that incorporates experimentally grounded consumer beliefs about refunds as low-price signals.",
+    "Derives conditions under which price-matching refunds intensify price competition, only a subset of firms adopts refunds, and refunding firms can be the lower-price firms."
+  ],
+  "context": "The paper examines markets where sellers promise to match competitors' prices, including consumer retail and industrial settings. Its empirical scenarios are consumer electronics/appliance purchases (TVs and DVD players), and its theory models differentiated retail stores in oligopoly competition.",
+  "design_and_data": "The paper combines two controlled scenario experiments with a formal analytical model. Experiment 1 (N=104; MBA students and airport recruits) randomly assigned subjects to a single-store scenario with or without a 90-day price-matching refund and measured expected prices, confidence in low prices, purchase intentions, and perceived operating costs. Experiment 2 (N=115 airport recruits) used a two-store DVD choice with three conditions (no refund, only Store A refund, only Store B refund) and measured store choice, perceived lower-price store, and perceived overall/service quality. The model has n firms that simultaneously choose prices and refund policies, with informed consumers who know prices and store features and uninformed consumers who observe refund offers and infer lower prices at refunding stores; results are presented as lemmas/propositions and illustrated numerically.",
+  "focal_constructs": [
+    "price-matching refund policies",
+    "consumer price perceptions",
+    "store choice",
+    "informed versus uninformed consumers",
+    "store differentiation",
+    "price competition",
+    "low-price signaling"
+  ],
+  "main_findings": [
+    "In both experiments, stores offering price-matching refunds were perceived as having lower prices and received higher purchase intentions or choice shares.",
+    "Price-matching refunds did not significantly change perceived store quality, service quality, or perceived operating costs in the experiments.",
+    "In the model, price-matching refunds do not necessarily soften competition: with sufficient store asymmetry and uninformed consumers, only a subset of firms offers refunds and refunding firms can have lower prices, whereas in symmetric settings all firms offering refunds can still support higher prices/profits."
+  ],
+  "one_line_summary": "Using two experiments and an oligopoly model, the paper shows that price-matching refunds can signal lower prices to consumers and, under firm asymmetry, can increase rather than reduce price competition.",
+  "relation_to_prior_work": "refines prior price-matching theory centered on oligopoly coordination and information-cost screening by adding differentiated firms and consumer inference from refund offers. It shows the standard high-price, all-firms-offer-results as a special symmetric case but identifies conditions where those conclusions reverse.",
+  "research_gap": "Prior theoretical work largely argues that price-matching refunds raise prices and benefit all firms, yet trade-press accounts and observed practice often associate these policies with price wars and with only some firms offering refunds. The paper addresses this inconsistency and the lack of direct evidence on consumer interpretations of refund offers.",
+  "research_question": "How do consumers interpret price-matching refund policies in terms of expected prices, choice, and quality perceptions? Under what market conditions can equilibrium outcomes make those consumer inferences correct, so that refund-offering stores actually charge lower prices and not all firms choose to offer refunds?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper clarifies mixed evidence on loss versus gain framing by identifying construal level (concrete vs abstract mind-set) as a key moderator of conservation persuasion.",
+    "It proposes and tests a novel mechanism in this context: frame-construal fit increases processing fluency, which increases perceived efficacy, leading to stronger recycling responses.",
+    "It provides a substantive applied contribution by showing that brief message interventions can shift real recycling behavior in a city program, with effects that persist over time."
+  ],
+  "context": "The focal domain is household recycling communication tied to the City of Calgary Blue Cart program. Evidence combines a real neighborhood field intervention with controlled laboratory studies using city recycling advertising materials.",
+  "design_and_data": "Study 1 randomly assigned 390 households in a Calgary neighborhood to four door-hanger conditions (loss/how, loss/why, gain/how, gain/why) or a no-message baseline, with blinded rater observations at baseline, one week later, and six months later. Outcomes were recycling participation, recycled volume, variety of materials, and following instructions, with household square footage as a covariate. Study 2 used a 2 x 2 between-subjects lab experiment (N = 119 undergraduates) manipulating message frame (loss vs gain) and temporal construal (today vs tomorrow) and measured recycling intentions. Study 3 used a 2 x 2 lab experiment (N = 107 undergraduates) manipulating frame and appeal type (how vs why), measured intentions, processing fluency, efficacy, and alternative constructs, and tested mediation with structural equation modeling and Sobel tests.",
+  "focal_constructs": [
+    "message framing",
+    "loss-framed versus gain-framed appeals",
+    "construal level",
+    "concrete how versus abstract why mind-sets",
+    "processing fluency",
+    "perceived efficacy",
+    "recycling intentions",
+    "recycling behavior"
+  ],
+  "main_findings": [
+    "In the field study, matched conditions (loss/how and gain/why) produced stronger improvements than baseline on recycling participation, volume, variety, and instruction compliance after one week, and key effects remained six months later.",
+    "In Study 2, framing effectiveness depended on temporal construal: under proximal construal, loss framing produced higher recycling intentions than gain framing, while under distal construal, gain framing produced higher intentions than loss framing.",
+    "In Study 3, the frame x appeal-type interaction replicated on intentions, and the indirect pathway through processing fluency and then perceived efficacy was supported, while mood, involvement, and regulatory focus did not account for the effects."
+  ],
+  "one_line_summary": "Across one field experiment and two lab studies on recycling, the paper shows that loss-framed messages work better with concrete mind-sets and gain-framed messages work better with abstract mind-sets, partly through processing fluency and perceived efficacy.",
+  "relation_to_prior_work": "extends framing research by showing that loss frames are not uniformly superior to gain frames, because persuasiveness depends on fit with construal level. extends construal-level and self-control work by showing that low-level construal can support a self-control conservation behavior when paired with loss framing. refines fluency research by linking ease of processing to perceived efficacy and downstream conservation responses.",
+  "research_gap": "Prior research on conservation framing reports mixed results, leaving unclear whether and when loss versus gain messages are most effective for recycling. Existing framing accounts are largely developed in self-focused health contexts and provide less clarity for collective, self-control behaviors such as recycling.",
+  "research_question": "When are loss-framed versus gain-framed conservation messages most effective at increasing consumer recycling intentions and behavior? The paper tests whether effectiveness depends on consumers' construal level (concrete/how vs abstract/why) and whether frame-construal fit works through processing fluency and perceived efficacy."
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper claims to show that a surprise, reciprocity-based gift program can boost bank customer loyalty outcomes and sentiment relative to a no-reward control.",
+    "It claims a dramatic field demonstration of deterioration aversion: adding a lower-value follow-up gift can undermine or erase the positive effects of gifting.",
+    "It claims, through a follow-up vignette experiment, that violated expectations mediate the negative effect of worsening gift trends and that improving sequences can outperform constant sequences."
+  ],
+  "context": "The main empirical setting is a large commercial bank, focusing on high-balance customers (more than $100,000 in assets) across three markets. Customers received surprise gas or restaurant gift certificates over time as part of an experimental rewards intervention.",
+  "design_and_data": "The authors ran a randomized natural field experiment with bank customers assigned to no-gift control or gift treatments. In Phase 1, after exclusions, 1178 customers were in control and 729 in gift treatments; manipulations included gift type (gas vs restaurant), gift value ($35 vs $100 for gas; $100 for restaurant), and whether the card suggested reciprocation. In Phase 2 (about 5.5 months later), second gifts created improving, worsening, or no-second-gift patterns, and outcomes included monthly deposit balances, survey response rates, and survey measures of satisfaction/trust/loyalty; balances were also followed to Month 20. A separate online vignette experiment with 310 Carnegie Mellon alumni randomized hypothetical gift sequences (improving, worsening, constant, and single-gift conditions) and measured satisfaction plus expected second-gift value for mediation analysis.",
+  "focal_constructs": [
+    "reciprocity",
+    "gift sequence",
+    "deterioration aversion",
+    "customer loyalty",
+    "deposit balances",
+    "customer sentiment",
+    "expectation violation"
+  ],
+  "main_findings": [
+    "Compared with no gift, gift treatments reduced the decline in deposit balances and increased survey response rates and reported satisfaction.",
+    "Worsening gift sequences produced strongly negative effects: they led to larger balance declines than improving sequences and could perform worse than giving no second gift, with detrimental balance effects persisting in long-term follow-up.",
+    "In the vignette study, worsening sequences lowered satisfaction even when total gift value was higher, improving sequences outperformed constant sequences of equal value, and violated expectations mediated the negative effect of worsening trends."
+  ],
+  "one_line_summary": "A randomized bank field experiment and follow-up vignette study show that surprise gifts can improve customer outcomes, but decreasing gift values trigger persistent deterioration aversion that harms balances and sentiment through violated expectations.",
+  "relation_to_prior_work": "extends prior work on preferences and retrospective evaluations of outcome sequences by testing sequence effects on real customer behavior in a rewards program and by linking worsening trends to expectation-violation mechanisms.",
+  "research_gap": "The paper argues that marketing had not explicitly tested key psychological limits of rewards programs, especially expectation dynamics when rewards repeat. It also states that prior sequence research had not examined whether improving versus worsening reward sequences change actual motivational behavior in a customer loyalty context.",
+  "research_question": "Do surprise gifts in a bank rewards program increase customer loyalty-related outcomes relative to no gifts? How does the sequence of gift value over time (improving versus worsening, and single-gift alternatives) affect deposit balances and customer sentiment, and is any negative effect of worsening sequences driven by violated expectations?"
+}

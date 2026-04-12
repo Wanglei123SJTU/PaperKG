@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops an analytical framework for digital content sampling that jointly models two sample design dimensions: sample quality (informativeness) and functional equivalence (substitutability).",
+    "It derives normative conditions for whether to offer a sample, what sample quality to choose, and how optimal pricing changes when sampling is used.",
+    "It validates the model's normative implications with a randomized field experiment at a real publisher and uses estimated demand to provide actionable sample-design and pricing recommendations."
+  ],
+  "context": "The substantive setting is digital products and services under freemium/free-trial models, where firms provide free samples before purchase or subscription. The empirical application is National Academies Press, an online scholarly book publisher that sells print books while offering free digital browsing samples.",
+  "design_and_data": "The authors first build a monopolist analytical model with vertically differentiated consumer valuations, uncertain product quality, and a sampling mechanism where informativeness depends on sample quality and product interest. They model cannibalization through a functional equivalence parameter between sample and paid product, and solve for optimal sample quality and price. They then run an 8-week online field experiment (Aug-Oct 2014) at National Academies Press on 540 titles, stratified by pre-experiment price and interest and randomly assigned to sampling treatments (no sample, baseline low-quality sample, and high-quality sample provided in addition to baseline) and five price changes (-25%, -10%, 0, +10%, +25%). Weekly title-level sales and traffic are analyzed with a hierarchical negative binomial model with title fixed effects and higher-level title attributes (price, interest, hardcover, color).",
+  "focal_constructs": [
+    "free sample quality",
+    "functional equivalence of sample and paid product",
+    "product/content quality",
+    "initial product interest (popularity)",
+    "informativeness effect of sampling",
+    "cannibalization effect",
+    "optimal price",
+    "sales and revenue impact"
+  ],
+  "main_findings": [
+    "Free samples of the entire content need not be pure substitutes and can increase revenues under the right conditions.",
+    "Higher-quality samples have stronger positive effects for popular/high-interest and higher-quality content, but high-quality full-content samples can cannibalize lower-quality content.",
+    "Consistent with the analytical model, offering higher-quality samples can support higher optimal prices; in the field application, optimized price increases with high-quality samples produce substantial revenue gains relative to baseline sampling."
+  ],
+  "one_line_summary": "The paper shows, through an analytical model and a field experiment at a book publisher, how firms should jointly design free-sample quality and pricing to increase revenue from digital content.",
+  "relation_to_prior_work": "extends prior free-sample and freemium work by explicitly modeling sample quality and functional equivalence as distinct design levers and by endogenizing pricing alongside sampling decisions, rather than assuming fixed sample quality or ignoring price response.",
+  "research_gap": "The paper argues that although free sampling is common in digital content/services, how to design sample quality and format to maximize revenue is underresearched. Prior studies often assume samples match paid-product quality and mainly vary quantity/access, and they generally do not explicitly analyze how optimal pricing changes with sampling design.",
+  "research_question": "The paper asks when firms should provide free samples for digital content/services and, if they do, what sample quality should be optimal given functional equivalence with the paid product. It also asks how the optimal sample design depends on original content quality and product interest/popularity, and what the implications are for optimal price, revenue, and profit."
+}

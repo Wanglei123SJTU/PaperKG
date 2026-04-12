@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper introduces and documents \"double mental discounting,\" a mental accounting pattern in which a single gain is mentally deducted from multiple costs.",
+    "It identifies coupling between a gain and multiple purchases as the psychological driver and shows this mechanism with mediation evidence across promotion formats.",
+    "It demonstrates practical decoupling methods that mitigate the effect, including weakening gain-purchase associations and making the gain harder to compute."
+  ],
+  "context": "The paper studies retail price-promotion formats in which consumers make an initial purchase and may later make a second purchase, including promotional credit, discounts, mail-in rebates, and cash back. Empirical settings include a university ice-cream cart field promotion and hypothetical shopping/airline purchase scenarios (e.g., Best Buy, Amazon, airline tickets).",
+  "design_and_data": "Evidence comes from six studies: one campus field experiment and five controlled scenario experiments. Samples include field customers (n=172), multiple U.S. MTurk samples (n=460, 438, 569 in a two-session design, and 498), and undergraduates (n=184). Key manipulations vary promotion type (promotional credit vs discount, rebate, and cash-back variants) and decoupling manipulations (different-store credit; points vs dollars). Main outcomes are purchase incidence and spending, perceived spending on each purchase, and coupling measures, with mediation tests using PROCESS bootstrapping.",
+  "focal_constructs": [
+    "double mental discounting",
+    "promotional credit",
+    "mental accounting",
+    "coupling",
+    "perceived costs",
+    "price promotions",
+    "decoupling"
+  ],
+  "main_findings": [
+    "Compared with financially equivalent discounts, promotional credit produced more repeat purchasing and higher total spending in the field and hypothetical tasks, despite lower initial purchase uptake in some settings.",
+    "Participants given promotional credit reported lower total perceived costs than actual costs and than participants given discounts or other promotion types, consistent with mentally deducting one gain across multiple purchases.",
+    "Coupling with both purchases mediated the effect, and decoupling manipulations (different retailer linkage or harder denomination conversion) reduced coupling and attenuated double mental discounting."
+  ],
+  "one_line_summary": "Across six studies, the authors show that promotional credit can be mentally deducted from two purchases, lowering perceived total costs and increasing spending relative to financially equivalent promotions.",
+  "relation_to_prior_work": "extends mental accounting research on malleable accounting by showing that consumers may post one gain to multiple expenditures over time, not only flexibly categorize one expense across budgets. It also extends coupling theory from payment-consumption links to links between promotional gains and expenditures in pricing contexts.",
+  "research_gap": "Prior work on malleable mental accounting mainly shows flexibility in assigning a cost to one of several budget categories, not applying one gain to multiple expenditures across time. Prior coupling research also focuses on payment-consumption links rather than how promotional gains are linked to multiple purchases.",
+  "research_question": "Do consumers mentally deduct a single promotional gain multiple times when that gain is linked to more than one purchase? The paper tests whether coupling between a gain and multiple costs drives this double mental discounting, whether it increases spending versus equivalent discounts, and whether decoupling interventions reduce the effect."
+}

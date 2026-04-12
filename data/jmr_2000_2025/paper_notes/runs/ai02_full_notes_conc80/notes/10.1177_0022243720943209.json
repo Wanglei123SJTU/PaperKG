@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes what it describes as the first topic model specifically tailored to creative documents.",
+    "It contributes two methodological extensions to Poisson factorization: document-specific residual topics for outside-the-cone content and joint modeling of documents with summaries via topic-level and document-level offset variables.",
+    "It claims practical and substantive value by producing new distinctiveness measures for novelty-success research and by providing a proof-of-concept interactive tool to assist people in writing summaries."
+  ],
+  "context": "The empirical settings are three creative-content domains: marketing research articles and abstracts, movie scripts and IMDB synopses, and TV episode closed captions and synopses from a major media company catalog.",
+  "design_and_data": "The model extends Poisson factorization by adding one residual topic per document and gamma-distributed offset variables that scale regular and residual topic intensities in summaries relative to full documents. It is estimated with variational inference (K set to 100 with sparse priors) and compared with nested ablations and LDA using perplexity for fit and prediction. Applications use 1,333 marketing papers (2010-2015 in Journal of Consumer Research, Journal of Marketing, Journal of Marketing Research, and Marketing Science), 858 U.S. movies, and 26,561 U.S.-based English-language TV episodes; each corpus is split 75% calibration and 25% validation and uses a 1,000-word tf-idf vocabulary built from calibration full documents. The paper also runs regressions linking model-based distinctiveness measures to citations, ratings, and movie ROI with fixed effects and topic-intensity controls.",
+  "focal_constructs": [
+    "creative documents",
+    "document summaries",
+    "Poisson factorization topic model",
+    "regular topics",
+    "residual outside-the-cone content",
+    "topic offset variables",
+    "distinctiveness measures",
+    "success outcomes"
+  ],
+  "main_findings": [
+    "Across all three datasets, the full model performs best at fitting calibration summaries and predicting validation summaries by perplexity, and much of the improvement comes from including residual topics.",
+    "Estimated offset variables show systematic summarization patterns; in marketing papers, abstracts relatively overemphasize findings and firm-implication topics and underemphasize experiment and data-analysis detail topics.",
+    "Model-based distinctiveness measures are associated differently with success: outside-the-cone distinctiveness is positively related to citations and to movie and TV ratings, all three distinctiveness measures are positively related to citations in marketing papers, and none is significantly related to movie ROI."
+  ],
+  "one_line_summary": "The paper introduces and validates a Poisson factorization topic model that jointly models creative documents and their summaries while capturing document-specific residual novelty.",
+  "relation_to_prior_work": "extends prior Poisson factorization and topic-model applications by jointly modeling full documents with human-written summaries, adding explicit residual topics, and using offsets to capture topic-intensity shifts between documents and summaries. It is positioned as different from LDA-based marketing topic models and from extractive summarization models that do not treat summaries as an information source in training.",
+  "research_gap": "The paper argues that traditional topic models represent documents only as combinations of common corpus topics, so they miss the portion of a creative document not explained by those topics and therefore provide limited distinctiveness measures. It also argues that existing approaches generally do not model how summaries relate to full creative documents, despite summaries being central in creative markets.",
+  "research_question": "How can topic modeling be adapted for creative documents to capture both shared topical structure and document-specific novelty outside combinations of common topics? The paper also asks how jointly modeling documents with their summaries can quantify systematic topic reweighting in summaries and improve interpretability and downstream applications."
+}

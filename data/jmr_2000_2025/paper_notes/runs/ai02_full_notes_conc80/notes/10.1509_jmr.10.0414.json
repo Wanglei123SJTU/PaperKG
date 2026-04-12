@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The authors present the study as the first to document how brand-level price and advertising elasticities evolve over the business cycle in both the short run and the long run.",
+    "They claim an unprecedented empirical design: 18 years of monthly single-source data for 150 U.K. CPG brands across 36 categories, enabling consistent measurement and modeling across brands.",
+    "They contribute evidence on asymmetric expansion versus contraction effects and heterogeneity across brand types and product classes."
+  ],
+  "context": "The study is set in the U.K. consumer packaged goods market, covering 36 mature categories and 150 leading national brands. The observation window is 1993-2010 and includes the global financial crisis.",
+  "design_and_data": "Using monthly brand-level data, the authors combine Kantar Worldpanel sales and prices with Nielsen Media advertising expenditures, with marketing variables inflation-adjusted. They derive business-cycle conditions from U.K. real GDP using the Christiano-Fitzgerald filter and build continuous expansion and contraction intensity measures. They estimate brand-level error-correction models for short- and long-run own and cross elasticities, allowing asymmetric expansion versus contraction interactions and brand heterogeneity. Estimation uses 3SLS with instruments based on lagged price and advertising in other product classes to address endogeneity and allows within-category error correlation.",
+  "focal_constructs": [
+    "Business cycle expansions",
+    "Business cycle contractions",
+    "Short-term own price elasticity",
+    "Long-term own price elasticity",
+    "Short-term own advertising elasticity",
+    "Long-term own advertising elasticity",
+    "Cross price elasticity",
+    "Cross advertising elasticity"
+  ],
+  "main_findings": [
+    "Long-term own price elasticity becomes less negative in expansions and more negative in contractions, while short-term price elasticity shows no systematic business-cycle moderation.",
+    "Long-term own advertising elasticity increases during expansions, while short-term advertising elasticity does not significantly vary with the business cycle.",
+    "Across 1993-2010, short-term own price elasticity becomes significantly more negative over time, and long-term cross-price elasticity increases during contractions."
+  ],
+  "one_line_summary": "Using monthly U.K. data for 150 CPG brands from 1993 to 2010, the paper estimates short- and long-run price and advertising elasticities and finds that long-run price sensitivity rises in contractions while long-run advertising effectiveness rises in expansions.",
+  "relation_to_prior_work": "extends prior business-cycle marketing research from firm-level, mostly advertising-focused analyses to brand-level own and cross price and advertising elasticities with separate expansion and contraction effects. It also goes beyond short-run-only evidence by estimating both short- and long-run elasticities over multiple business-cycle phases.",
+  "research_gap": "Prior studies largely examine firm-level aggregate outcomes and mostly advertising, so they do not show how brand-level own and cross price and advertising elasticities vary across expansions versus contractions, especially in the long run.",
+  "research_question": "The paper asks whether and how brand-level short- and long-run sales elasticities of own price and own advertising change over the business cycle. It also examines whether these effects are asymmetric between expansions and contractions, and whether competitor effects and the price-advertising interaction vary with economic conditions."
+}

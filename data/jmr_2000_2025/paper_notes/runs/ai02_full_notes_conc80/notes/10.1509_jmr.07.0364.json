@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Identifies the presence of disgust as a previously unexamined factor that can change how effective fear appeals are.",
+    "Demonstrates across four studies that fear appeals that coactivate disgust produce greater persuasion and compliance than fear-only appeals.",
+    "Shows that disgust's persuasive advantage is linked to its strong, immediate avoidance tendency, which increases readiness to act quickly."
+  ],
+  "context": "The paper studies advertising and persuasion appeals in consumer and public-health-like settings, including meth prevention, sun protection, and BPA-free water bottles. The stimuli include print-style ads and online magazine contexts.",
+  "design_and_data": "The authors run four experiments comparing neutral, fear-only, and disgust-plus-fear conditions. Study 1 (N=155 undergraduates) manipulates ad images in a meth appeal, and Study 2 (N=139 undergraduates) manipulates ad copy in a sunscreen appeal while holding the image constant. Study 3 (N=82 adults from a marketing research firm, online) uses incidental disgust priming with a constant BPA fear ad and tests mediation via an act-quickly measure; Study 4 (N=153 adults, online) embeds the BPA ad in a mock magazine and crosses disgust priming with health vs appearance focus, plus a bottle-choice task, with a labeled-choice posttest (N=371).",
+  "focal_constructs": [
+    "fear appeals",
+    "disgust",
+    "message persuasion",
+    "compliance intentions",
+    "avoidance behavior",
+    "immediacy of action",
+    "health versus appearance focus"
+  ],
+  "main_findings": [
+    "Fear appeals that coactivated disgust increased compliance-related intentions relative to fear-only appeals (e.g., lower illegal-drug-use likelihood, higher sunscreen-use likelihood, higher BPA-avoidance intentions).",
+    "The advantage of disgust-plus-fear appeals persisted when disgust was elicited by text or incidental priming while core ad content was held constant, ruling out simple image/ad vividness accounts and not depending on appearance-focused consequences.",
+    "Disgust increased reported readiness to act quickly, and this act-quickly measure mediated the effect of emotion condition on persuasion in Studies 3 and 4; in a follow-up labeled choice test, disgust priming also increased choice of the advertised BPA-free bottle."
+  ],
+  "one_line_summary": "Across four experiments, the paper finds that adding disgust to fear appeals increases persuasion and compliance beyond fear alone because disgust triggers a more immediate avoidance response.",
+  "relation_to_prior_work": "extends fear appeal research by showing that a co-elicited discrete emotion, disgust, can systematically increase compliance beyond fear intensity alone. It refines discrete-emotion accounts in persuasion by tying this effect to the timing of avoidance responses, with disgust producing faster action readiness than fear.",
+  "research_gap": "Fear appeals are widely used but show uneven effectiveness, and prior work has mostly emphasized fear level, efficacy beliefs, and audience differences. The paper argues that despite disgust's prevalence in ads and consumer settings, its specific role in persuasion, especially within fear appeals, had not been directly tested.",
+  "research_question": "Does adding disgust to a fear appeal increase persuasion and compliance compared with fear appeals that elicit fear alone? If so, is the effect explained by disgust's distinctive tendency to prompt immediate avoidance action rather than fear's more hesitant, multi-stage response?"
+}

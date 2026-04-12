@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops an analytic model that decomposes rating variance into two continuous components, quality variance (vertical) and taste variance (horizontal), and specifies how review writers and readers generate and use these signals.",
+    "Provides empirical evidence that consumers can reliably distinguish quality-oriented from taste-oriented review content in both restaurant and hotel settings.",
+    "Shows in a lab experiment and two field studies that demand effects differ by variance source, and demonstrates a simple machine-learning text method to recover those variance components at scale."
+  ],
+  "context": "The paper studies online reviews in service categories where both delivered quality and preference fit matter, focusing on restaurants and hotels on Google reviews. Field settings are 4,305 restaurants in the San Francisco area and 3,460 franchised hotels in Texas.",
+  "design_and_data": "The authors combine an analytic demand model with multiple empirical studies. They run coding surveys on two subsets of 5,000 reviews each (restaurants and hotels) to identify quality versus taste content, then train bag-of-words SVM classifiers and apply them to large review corpora (about 283,069 restaurant text reviews and 634,121 hotel text reviews) to construct quality and taste variance measures. They conduct a controlled 2 x 2 x 2 within-subject lab experiment on restaurant choice using manipulated mean ratings, quality variance, and taste variance. They estimate panel IV models of sales using restaurant-year (15,241 observations) and hotel-quarter (28,393 observations) data with establishment and time fixed effects.",
+  "focal_constructs": [
+    "mean rating",
+    "quality variance in reviews",
+    "taste variance in reviews",
+    "vertical quality information",
+    "horizontal taste mismatch",
+    "purchase intent",
+    "demand (sales)",
+    "review text classification"
+  ],
+  "main_findings": [
+    "Survey participants can reliably separate review content about quality from content about taste in both industries.",
+    "In the lab experiment, higher quality variance lowers purchase intent, while higher taste variance raises intent when mean ratings are low and/or quality variance is high, and is less favorable in the high-mean low-quality-variance condition.",
+    "In IV field analyses, results largely match the model: quality variance is negatively related to demand (stronger for hotels), and the effect of taste variance becomes more positive when mean ratings are lower and/or quality variance is higher."
+  ],
+  "one_line_summary": "Using a model plus surveys, a lab experiment, and IV field studies, the paper shows that review variance from service quality and review variance from taste mismatch have different demand effects, with taste variance increasing demand only under low mean ratings and/or high quality variance.",
+  "relation_to_prior_work": "extends Sun (2012) and Zimmermann et al. (2018) by modeling review dispersion as two continuous sources and by formalizing how readers infer product attributes from review text and ratings. It also extends Liu, Lee, and Srinivasan (2019) by explicitly separating vertical quality and horizontal taste heterogeneity when linking review content to demand.",
+  "research_gap": "Prior findings on review variance and demand are mixed, in part because most studies do not identify the source of variance. The paper argues that no prior empirical work had tested differential demand effects of vertical quality variance versus horizontal taste variance in stochastic service settings.",
+  "research_question": "How do two sources of online rating dispersion, service quality inconsistency and consumer taste mismatch, differentially affect subsequent demand? Can consumers infer these two variance components from review text, and do observed purchase responses in controlled and field settings match the model's predictions?"
+}

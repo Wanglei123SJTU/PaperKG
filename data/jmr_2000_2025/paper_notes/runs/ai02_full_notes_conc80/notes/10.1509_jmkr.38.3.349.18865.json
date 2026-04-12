@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces a market efficiency-based compensatory inference strategy in which consumers infer that an observably superior brand may be inferior on an unobservable attribute.",
+    "Identifies conditions for compensatory inferences: perceived efficient markets, a discrepancy between observed attribute dominance and expected value parity, and limited availability of alternative inference bases such as interattribute correlations.",
+    "Provides convergent evidence across four experiments, including qualitative coding of inference justifications, to compare compensatory inferences with evaluative and probabilistic consistency strategies."
+  ],
+  "context": "The paper studies consumer choice between competing brands (mainly laptop computers and cameras) when one important attribute is unobservable at decision time. The scenarios emphasize equal-price or sale contexts to manipulate perceived market efficiency and value parity expectations.",
+  "design_and_data": "The authors run four controlled experiments using student samples (Study 1: 134 undergraduates; Study 2: 128 undergraduates, with 115 retained after manipulation check; Study 3: 108 subjects; Study 4: 70 MBA students). Designs manipulate market efficiency cues (regular price vs sale), availability of price information, prior learning about value dispersion, and whether an observable attribute is perceived to correlate with the missing attribute. Measures include inferred superiority on the unobservable attribute and brand choice when that attribute is decision critical, plus qualitative coding of written justifications in Study 2. Product stimuli are structured attribute tables for computers and cameras with one brand dominant on observable attributes.",
+  "focal_constructs": [
+    "compensatory inferences",
+    "market efficiency intuitions",
+    "unobservable product attributes",
+    "evaluative consistency strategy",
+    "probabilistic consistency strategy",
+    "price parity and value dispersion",
+    "interattribute correlation"
+  ],
+  "main_findings": [
+    "Consumers were significantly more likely to make compensatory inferences when the market was cued as efficient and price parity information enabled value-based comparisons.",
+    "Strengthening market efficiency beliefs via an efficient learning set increased compensatory inferences, whereas priming inefficiency greatly reduced them.",
+    "When a plausible interattribute correlation supported probabilistic consistency, compensatory inferences weakened, but they became substantially stronger when that correlation basis was absent."
+  ],
+  "one_line_summary": "Across four experiments, the paper shows that consumers can infer that an observably superior equal-priced brand is worse on an unobservable attribute when they expect efficient markets to deliver value parity.",
+  "relation_to_prior_work": "extends prior missing-information inference research by analyzing cases where all alternatives lack the same attribute and by showing that market efficiency beliefs can reverse standard evaluative-consistency predictions. It also contrasts this mechanism with probabilistic consistency inferences when correlated-attribute cues are present.",
+  "research_gap": "Prior work on missing-attribute inference largely examined cases where only one alternative had missing information and focused on evaluative and probabilistic consistency rules. The paper argues that how consumers use their knowledge of market efficiency to infer unobservable attributes in choice sets where all alternatives share missing information was largely unexplored.",
+  "research_question": "When all brands in a choice set have an unobservable attribute, how do consumers infer relative performance on that attribute? Specifically, do consumers use market efficiency intuitions to make compensatory inferences that reverse observable dominance, and under what conditions do these inferences prevail versus evaluative or probabilistic consistency rules?"
+}

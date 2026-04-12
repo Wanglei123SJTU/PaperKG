@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces the paired response technique (PRT), a simple response-aggregation method for sensitive categorical survey questions that does not require randomization devices and provides unconditional privacy protection.",
+    "Develops a Bayesian item-response-theory modeling approach to estimate prevalence and correlates of sensitive characteristics from PRT responses, including identification and privacy-accuracy trade-off discussion.",
+    "Provides empirical evidence from multiple studies that PRT is practical and can improve truthful reporting, including a large-scale application to legal versus illegal purchases of prescription drugs."
+  ],
+  "context": "The substantive application is consumer acquisition of prescription medication to enhance sexual performance (e.g., Viagra/Cialis), including illegal purchasing without prescription, especially online. The main prevalence study is in a representative Dutch sample, with additional method-comparison studies in U.S. and U.K. samples.",
+  "design_and_data": "The paper introduces the PRT mathematically, analyzes identification and differential privacy properties, and reports Monte Carlo simulations of estimator performance. Study 1 uses a two-wave representative Dutch LISS panel with complete data for n=4,649, with random assignment to PRT (n=3,687) versus direct questioning (n=962), and Bayesian MCMC estimation using outside-the-pair personality items. Study 2 uses U.S. Prolific participants (n=200) in a within-subject evaluation of perceived psychological costs of PRT versus an electronic-die RRT. Study 3 uses a U.K. Prolific male sample (n=2,999) in a between-subject comparison of PRT, RRT, and direct questioning, including post-task cost ratings and completion times.",
+  "focal_constructs": [
+    "paired response technique (PRT)",
+    "sensitive categorical survey questions",
+    "unconditional privacy protection",
+    "response aggregation",
+    "illegal purchase of prescription drugs",
+    "cognitive, affective, and behavioral participation costs",
+    "noncompliance in indirect questioning",
+    "Bayesian item response modeling"
+  ],
+  "main_findings": [
+    "In the Dutch representative study, PRT estimates that 17.4% have purchased sexual-performance medication at least once, versus 5.1% under direct questioning.",
+    "Most reported purchases are illegal under PRT: 13.7% illegal-only versus 3.1% legal-only, and the estimated share of exclusively illegal purchases among purchasers is 77.8% (95% CI [41.3%, 97.1%]).",
+    "A placebo nonsensitive item shows no significant PRT-DQ difference, and method-comparison studies show lower perceived burden and faster completion for PRT than RRT, while RRT gives less reasonable prevalence estimates unless noncompliance is modeled."
+  ],
+  "one_line_summary": "The paper proposes a new paired response technique for sensitive categorical survey items and shows in simulations and three empirical studies that it can improve truthful reporting and participant experience, yielding much higher estimates of illegal prescription-drug purchases than direct questioning.",
+  "relation_to_prior_work": "extends indirect-questioning research by offering a response-aggregation alternative to RRT and ICT that handles categorical items, avoids randomization devices, and is designed to reduce participation costs while retaining privacy protection.",
+  "research_gap": "Existing indirect techniques for sensitive questions often impose substantial cognitive or affective burden, can suffer from noncompliance, and key approaches such as ICT are not suitable for common categorical response formats. Empirical evidence on illegal purchases of prescription drugs has largely relied on small, nonrepresentative direct-question studies, likely understating true prevalence.",
+  "research_question": "Can a simple paired response-aggregation method recover prevalence and correlates of sensitive categorical behaviors while protecting privacy and reducing participation costs relative to direct questioning and randomized response methods? Applied to prescription drugs for sexual performance, how prevalent are legal and illegal purchases and which covariates are associated with illegal purchasing?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper claims a causal measurement of misinformation and corrective messaging effects on demand using an incentive-compatible choice-based conjoint that identifies willingness to pay while controlling for price and brand effects.",
+    "It claims to show heterogeneity in debunking effectiveness by both prior beliefs and message source, including a direct comparison of competitor, media, and regulator debunking.",
+    "It claims to connect estimated demand effects to firms' strategic responses by simulating equilibrium incentives to debunk versus introducing ingredient-X-free products."
+  ],
+  "context": "The empirical setting is U.S. consumer packaged goods categories with prevalent ingredient misinformation: aluminum in deodorant, fluoride in toothpaste, and GMOs in nutrition shakes. Treatments mimic social-media style product messages and debunking content attributed to competitors, mainstream media, or regulators (CDC/FDA).",
+  "design_and_data": "The authors run controlled online experiments on Prolific with random assignment in a 2 (control ad vs misinformation ad) x 4 (no debunking, competitor, media, regulator) design, using real-world ad content and source-linked debunking summaries. Outcomes come from an incentive-compatible choice-based conjoint (10 choice tasks with a lottery-based real purchase/payment mechanism) to estimate ingredient-level WTP alongside brand, price, and other attributes. Ingredient studies include 6,558 respondents (1,193 aluminum, 3,202 fluoride, 1,559 GMO). Belief studies use larger samples (4,758 aluminum, 5,050 fluoride, 4,504 GMO) and elicit prior and posterior beliefs about ingredient harmfulness; the paper then uses estimated demand to simulate equilibrium firm responses.",
+  "focal_constructs": [
+    "Misinformation in product advertising",
+    "Debunking messages",
+    "Willingness to pay",
+    "Beliefs about ingredient harmfulness",
+    "Prior (mis)belief heterogeneity",
+    "Debunking source effects",
+    "Incentive-compatible conjoint choice",
+    "Firm strategic response to misinformation"
+  ],
+  "main_findings": [
+    "Misinformation can reduce WTP by creating misbeliefs: among consumers with prior beliefs that ingredients were not harmful, fluoride misinformation reduced WTP by about 22% ($0.87) and aluminum misinformation reduced WTP by about 80% ($0.48).",
+    "Debunking mitigates misinformation effects on demand and can also shift preexisting misbelief-driven preferences; regulator debunking is the only source with statistically significant positive effects across all three categories.",
+    "Debunking effects are stronger for consumers with unsure or harmful priors (especially for aluminum and GMOs), with no evidence of backfire, while equilibrium simulations indicate incumbents typically prefer launching ingredient-free products over debunking when firms cannot coordinate."
+  ],
+  "one_line_summary": "Across three CPG ingredient controversies, randomized incentive-compatible conjoint experiments show that debunking, especially from regulators, can correct misbeliefs and raise willingness to pay, but firms still often have stronger equilibrium incentives to conform to misinformation by adding ingredient-free products.",
+  "relation_to_prior_work": "extends prior deceptive-advertising and corrective-advertising evidence by identifying direct exposure effects of misinformation and debunking on incentive-compatible purchase choices rather than mainly relying on policy bans/removals or stated intentions. It also extends debunking research by comparing competitor, media, and regulator sources and by estimating heterogeneity over preexisting beliefs. Finally, it extends this stream to firm strategy by simulating equilibrium responses to misinformation.",
+  "research_gap": "The paper argues that causal evidence on misinformation and debunking in markets is limited because exogenous variation in misinformation is rare and field experimentation is ethically and practically constrained (especially debriefing after misinformation exposure). It also highlights limited evidence on how debunking source and consumers' prior beliefs shape demand responses, rather than only stated belief corrections.",
+  "research_question": "Do misinformation claims in consumer product advertising alter willingness to pay by changing beliefs about ingredient harmfulness? Can debunking messages reverse those effects, and does effectiveness vary by debunking source (regulator, media, competitor) and by consumers' prior beliefs?"
+}

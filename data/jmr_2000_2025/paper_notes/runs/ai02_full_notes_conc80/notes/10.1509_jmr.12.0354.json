@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops a multiple-accounts redemption model for linear loyalty programs that jointly captures three motivations for stockpiling: forgone points, nonmonetary transaction costs, and psychological valuation differences between points and cash.",
+    "It adapts the Dreze and Nunes two-account framework to this context by explicitly adding transaction costs and forgone gains, allowing subjective point-to-cash valuation, and allowing redemption analysis even when stockpiles do not cover full prices.",
+    "It provides an empirical hierarchical Bayes implementation that quantifies heterogeneity in redemption motivations and is used to evaluate managerial policy changes."
+  ],
+  "context": "The empirical setting is a linear loyalty program at an anonymous market-leading supercenter chain in Latin America, with categories similar to Target, Bed Bath and Beyond, and Home Depot. Customers can redeem points at a fixed exchange rate to cover up to 50% of basket value, and in this program they do not earn points on trips where they redeem.",
+  "design_and_data": "The authors analyze observational transaction data for a cohort of 346 customers who enrolled in January 2008, covering 10,219 purchase occasions over 43 months. For each visit they observe date, basket price, and points earned or redeemed, and infer available stockpiles at each purchase. They estimate hierarchical Bayes versions of the multiple-accounts model and nested alternatives (single-account S-shaped and single linear account) using MCMC in OpenBUGS. Model performance is assessed in-sample and with recursive 11-month out-of-sample forecasts that update stockpiles using predicted prior redemption choices.",
+  "focal_constructs": [
+    "linear loyalty programs",
+    "reward point stockpiling",
+    "redemption timing choice",
+    "forgone points opportunity cost",
+    "nonmonetary transaction costs",
+    "mental accounting of cash versus points",
+    "prospect theory value functions",
+    "customer heterogeneity"
+  ],
+  "main_findings": [
+    "The multiple-accounts model and the single-account S-shaped model forecast out-of-sample redemptions much better than the single linear account model, with the multiple-accounts model best matching aggregate redemption distributions.",
+    "Estimated heterogeneity shows that observed stockpiling behavior is driven mostly by cognitive and psychological factors (fixed transaction costs and differences between cash and points accounts), with a smaller role for the economic forgone-points motive.",
+    "Policy simulations indicate all tested interventions increase redemptions relative to current policy, with automatic redemption producing the largest redemption lift while the economic policy is most cost-efficient per unit of liability reduction."
+  ],
+  "one_line_summary": "Using a prospect-theory mental-accounting model estimated on retailer transaction data, the paper explains persistent point stockpiling in a linear loyalty program mainly through cognitive and psychological redemption frictions rather than pure economic incentives.",
+  "relation_to_prior_work": "extends Dreze and Nunes (2004) by reworking the mental-accounting framework for linear loyalty programs and redemption timing, adding transaction costs, forgone points, and subjective point valuation in a structural empirical model.",
+  "research_gap": "Prior work is heavily centered on nonlinear loyalty programs with explicit thresholds or goals, so its mechanisms do not directly explain redemption timing in linear programs. The paper explicitly addresses the limited understanding of why members redeem or do not redeem when no stockpiling goal is imposed.",
+  "research_question": "Why do customers in linear loyalty programs persistently stockpile points and redeem infrequently even though points are cash-like and stockpiling has economic downsides? Can a model that combines economic opportunity costs, cognitive transaction costs, and psychological mental accounting explain and predict this redemption behavior?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides field evidence that longer patient-provider relationships are associated with higher out-of-pocket spending for routine dental care, without clear corresponding quality gains.",
+    "It shows a perspective effect in advice seeking: people are more favorable to second opinions as outside advisers than as patients making decisions with their own providers.",
+    "It tests and supports a relationship-maintenance account, showing that interpersonal rapport cues (including favor granting/rejection) shape trust and second-opinion seeking."
+  ],
+  "context": "The paper studies expert advice in health care, with a primary focus on U.S. dentistry where consumers often pay meaningful out-of-pocket costs and dentists are paid per procedure. The experiments use adult consumer participants evaluating dental treatment scenarios involving implants, bridges, and second opinions.",
+  "design_and_data": "Study 1 analyzes 12 years (1997-2008) of U.S. dental claims from a large benefits provider, including 112,803 adult policyholders and 3,166,191 observations, with focused subsamples for discretionary filling and crown choices. The authors estimate generalized estimating equations to relate relationship tenure with dentists to out-of-pocket spending and repair rates, controlling for factors such as plan payment, overall dental visit frequency, and dentists' material-use base rates. Studies 2-4 are web experiments (SSI panels; N=2000, N=1000, N=289) that manipulate decision role (patient vs adviser), relationship tenure (new vs longtime provider), and favor granting/rejection in dentist scenarios. Study 4 uses bootstrapped mediation analyses to compare relationship cues with alternative explanations such as transaction costs and concerns about compromised future care.",
+  "focal_constructs": [
+    "advice seeking",
+    "second opinions",
+    "consumer-expert relationships",
+    "relationship tenure",
+    "trust in expert advisers",
+    "relationship harmony maintenance",
+    "conflicts of interest",
+    "out-of-pocket treatment costs"
+  ],
+  "main_findings": [
+    "In archival dental claims, longer tenure with the same dentist predicted higher patient out-of-pocket spending for fillings and crowns.",
+    "For fillings, composite use and longer dentist-patient tenure were associated with more repairs, while crown material choice was not significantly related to crown repairs.",
+    "Across experiments, participants sought fewer second opinions as patients than as outside advisers and fewer with longtime than new dentists; rejecting a personal favor increased second-opinion seeking, and relationship cues (trust/professionalism and likability/friendliness) explained these effects more strongly than transaction costs or fear of reduced future care."
+  ],
+  "one_line_summary": "Using U.S. dental claims and four experiments, the paper shows that long-term relationships with expert providers can increase consumer costs and reduce second-opinion seeking because people try to preserve relationship harmony.",
+  "relation_to_prior_work": "extends advice-taking research by moving from isolated judge-adviser interactions to ongoing consumer-expert service relationships in a real health-care setting. It refines trust-based accounts by showing that interpersonal relationship cues can drive advice compliance and second-opinion avoidance beyond purely accuracy-relevant considerations.",
+  "research_gap": "The authors argue that although prior advice-taking research examines cues such as confidence and expertise, little is known about advice behavior in ongoing relationships with the same expert. They also identify uncertainty about whether trust in these relationships is based on advice quality or on less relevant interpersonal cues, especially under potential conflicts of interest.",
+  "research_question": "Do ongoing relationships with expert advisers make consumers too trusting, leading them to accept potentially costly advice rather than seek independent second opinions? In dental care specifically, do longer provider relationships and relationship-maintenance motives increase out-of-pocket spending and reduce willingness to question the primary expert?"
+}

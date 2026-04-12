@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The authors propose a theoretically grounded improvement to choice-based conjoint that explicitly models latent consumer budget constraints in high-ticket durable goods.",
+    "They develop a Bayesian inference method that combines choice data with stated budgets as error-prone indicators and financial demographics as theory-based predictors of latent budgets.",
+    "They show the approach is parsimonious and effectively nests the canonical linear price model when budgets are nonbinding, while improving competitive pricing inference."
+  ],
+  "context": "The empirical application is an industry-grade discrete-choice conjoint study of high-end laptop preferences. The substantive focus is high-ticket durable goods markets where consumer budget limits are likely to bind.",
+  "design_and_data": "The paper specifies a Bayesian hierarchical random-coefficients choice model in which individual utility depends on log(tau_i - price), with tau_i as a latent budget, and it adds a measurement model for stated budgets (b_i ~ N(tau_i, sigma_error^2)). The upper-level heterogeneity distribution is a mixture of normals, with financial demographics (notably disposable income and liquid funds) entering as covariates. The empirical CBC study includes 1,000 prescreened respondents, 15 choice tasks per respondent, 3 inside options plus an outside option, 8 product attributes, and prices from EUR 600 to EUR 4,000; after quality filters, 643 respondents are analyzed. The authors compare the proposed model to a standard linear price model, a censored-sample variant, and a dummy-coded price model, and also run simulation analyses.",
+  "focal_constructs": [
+    "latent budget constraints",
+    "choice-based conjoint",
+    "competitive equilibrium pricing",
+    "stated budgets with measurement error",
+    "financial demographics",
+    "price-demand curves",
+    "sample censoring"
+  ],
+  "main_findings": [
+    "In the laptop application, accounting for latent budgets with stated budgets yields much better fit (RMSE 0.83) than the standard model (2.40), the censored-sample standard model (2.58), and the dummy-coded model (3.05), a 65.42% RMSE reduction versus the best standard benchmark.",
+    "The inferred posterior implies that about 96.4% of consumers have laptop budgets below EUR 4,000, and inferred budgets increase with disposable income and liquid funds.",
+    "Ignoring budget constraints biases pricing counterfactuals: the linear model overstates equilibrium prices for premium brands (e.g., Dell by 20.65% and Apple by 24.82% in the censored-sample comparison), and the dummy-coded model performs worse for equilibrium pricing."
+  ],
+  "one_line_summary": "The paper develops and validates a Bayesian CBC model that infers latent consumer budgets using choice data, noisy stated budgets, and financial demographics, improving demand fit and competitive price predictions in high-end laptops.",
+  "relation_to_prior_work": "extends the standard quasi-linear CBC framework by embedding explicit budget-feasibility and a measurement model for stated budgets, and evaluates this against commonly used alternatives such as sample censoring and dummy-coded price specifications.",
+  "research_gap": "Standard CBC practice often omits or weakly approximates budget constraints, which is problematic in high-ticket categories where budgets can bind and distort inferred demand and optimal prices. Existing remedies centered on incentive alignment, respondent censoring, or flexible price functional forms do not directly and reliably identify latent budgets in finite CBC data.",
+  "research_question": "How can latent consumer budget constraints be identified and estimated within CBC models for high-ticket durable goods? Does incorporating noisy stated budgets and financial demographic determinants of budgets improve demand estimation and competitive equilibrium price predictions relative to standard linear and flexible price benchmark models?"
+}

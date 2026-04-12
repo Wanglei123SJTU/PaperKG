@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "Trusov et al. is not just listed in grouped citations; it is discussed in the dedicated seeding literature section with a summary of its approach and findings. The citing authors explicitly position their work as similar to, but going beyond, Trusov et al. by modeling coevolution of tie formation and user activities and by testing broader seeding strategies in an evolving network. They also interpret their own results against static-network seeding findings associated with that prior work. This shows a clear contribution-positioning role for the citation.",
+  "relation_description": "The citing paper treats Trusov et al. (2010) as a core prior study on influential users and seeding in online social networks, then explicitly extends that line of work. It broadens the framework from static-network influence/seeding analysis to a coevolution model of evolving ties and activities with richer intervention comparisons.",
+  "relation_type": "extends"
+}

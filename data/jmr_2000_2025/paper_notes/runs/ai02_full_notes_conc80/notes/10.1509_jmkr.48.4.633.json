@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and estimates a Bayesian learning model of tariff and usage choice that explains flat-rate bias within a rational-expectations framework without tariff-specific utility terms.",
+    "It introduces a decomposition of product-level belief errors into aggregate bias and conditional bias and links conditional bias to a winner's-curse-like mechanism in tariff selection.",
+    "It extends dynamic learning choice models to include initial and subsequent tariff choices with switching costs, enabling counterfactual evaluation of tariff menus and their price-discrimination value."
+  ],
+  "context": "The empirical setting is a monopolist online grocer offering home-delivery service in one metropolitan market. Consumers choose among three tariffs (flat-rate, low-fee two-part, and per-use) while learning about a new experience good.",
+  "design_and_data": "The study uses household-level panel data on 5,368 households over 70 weeks (September 1997 to January 1999), including enrollment, initial tariff choice, order timing, and order amounts. The authors model weekly usage and tariff decisions with a dynamic discrete-choice Bayesian learning framework in which consumers update beliefs from preenrollment, postenrollment, and usage signals and face switching costs. Parameters are estimated by simulated maximum likelihood, with an importance-sampling approach to handle unobserved beliefs and deterministic tariff choice given beliefs. The estimated model is used for counterfactual simulations and numerical optimization of fixed tariff menus.",
+  "focal_constructs": [
+    "flat-rate bias",
+    "Bayesian consumer learning",
+    "conditional product-level bias",
+    "aggregate bias",
+    "switching costs",
+    "two-part tariffs",
+    "dynamic tariff choice",
+    "experience good usage"
+  ],
+  "main_findings": [
+    "The full forward-looking model with both conditional and aggregate bias fits observed usage and initial plan shares better than models with only one bias type, no bias, or myopic behavior, and conditional bias is the more important bias component in this application.",
+    "Estimated switching costs are large (about $208 in dollar equivalents), and the combination of uncertainty and switching frictions is central to observed tariff retention and revenue outcomes.",
+    "Tariff menus are weak screening devices in this market: adding extra two-part tariffs yields minimal gains, and dropping the per-use option from the observed menu is predicted to increase revenue by more than 20%."
+  ],
+  "one_line_summary": "Using online grocery panel data, the paper estimates a dynamic Bayesian learning and switching-cost model showing that conditional belief bias can rationally generate flat-rate bias and that richer tariff menus add little screening value.",
+  "relation_to_prior_work": "extends dynamic brand choice learning models by endogenizing tariff choice and switching costs, and contrasts with prior tariff-choice studies that assume negligible switching costs, learning independent of consumption, or tariff-specific preference terms.",
+  "research_gap": "Prior explanations of flat-rate bias either invoke behavioral misjudgment or rely on tariff-specific fixed preferences that are difficult to use for counterfactual tariff design. The paper also argues that earlier tariff-choice work often abstracts from key dynamics by assuming negligible switching costs and uncertainty resolution independent of consumption.",
+  "research_question": "Can a rational Bayesian learning model, where consumers are uncertain about both their own match value and the product mean, explain flat-rate bias without behavioral assumptions or tariff-specific preferences? How do learning and switching costs jointly shape tariff choice, usage dynamics, and the profitability of alternative tariff menus?"
+}

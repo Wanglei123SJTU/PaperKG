@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper identifies an idea competition effect in open innovation contests: seeing more competitively presented prior ideas harms creativity.",
+    "It proposes and tests perceived constraints of idea expression as the key mechanism, beyond objective incentive effects from winning probabilities.",
+    "It demonstrates actionable contest-design fixes, showing that limiting and grouping displayed prior ideas can improve ideation outcomes."
+  ],
+  "context": "The paper studies open innovation contests with transparent submissions, where participants can see others' prior ideas while competing for monetary rewards. Empirical settings include real contests on Atizo (HyveCrowd), controlled online ideation tasks, and a realistic mock-up ideation platform.",
+  "design_and_data": "The authors run five experiments (total N = 4,252), including two field studies and three controlled online studies. Study 1 is a field experiment across six Atizo contests that randomizes exposure to 2 vs 10 prior ideas; Studies 2-4 use unusual-uses ideation tasks with manipulated numbers of prior ideas, competitive versus uncompetitive presentation, and measured mediators. Study 5 tests three UI designs (open listing, restricted display, grouped ideas) in three live contests with real incentives. Creative outcomes are rated originality and usefulness, combined into innovativeness, with top-box innovativeness as the primary measure and additional robustness measures reported.",
+  "focal_constructs": [
+    "open innovation contests",
+    "competitive prior ideas",
+    "number of prior ideas",
+    "creative performance",
+    "perceived constraints of idea expression",
+    "cognitive stimulation",
+    "domain expertise",
+    "UI idea grouping"
+  ],
+  "main_findings": [
+    "When prior ideas are presented competitively, showing more prior ideas reduces creative performance, and this decline is monotonic as the number shown increases.",
+    "The harmful effect is mediated by increased perceived constraints of idea expression; under uncompetitive presentation, more prior ideas can increase originality and idea quantity through cognitive stimulation.",
+    "Restricting visible prior ideas and visually grouping similar prior ideas on the interface both improve creative performance in contest-based ideation."
+  ],
+  "one_line_summary": "Across five studies, the paper shows that in open innovation contests seeing more others' ideas can hurt creativity by increasing perceived constraints, and that UI designs that restrict or group prior ideas can mitigate this harm.",
+  "relation_to_prior_work": "extends prior brainstorming and ideation work by showing that positive stimulation from prior ideas does not generalize to competitive innovation contests, where prior ideas become constraints that reduce creativity.",
+  "research_gap": "Prior research documented both harmful and helpful effects of others' ideas, but it had not clearly explained how seeing prior ideas affects creativity in open contests where submissions are direct competitors for rewards. The contest literature focused more on incentive structure than on UI information presentation and mechanisms such as perceived constraints.",
+  "research_question": "How does exposure to others' prior ideas influence individual creativity in open innovation contests where participants compete against visible submissions? The paper asks whether this effect depends on competitive versus uncompetitive presentation, what psychological mechanism drives it, and which contest-design choices can reduce harmful effects."
+}

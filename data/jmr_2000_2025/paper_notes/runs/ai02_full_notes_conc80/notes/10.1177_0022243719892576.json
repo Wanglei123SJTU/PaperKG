@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "The paper measures 17 brand communication cues in TV ads and links them to campaign-level sales effectiveness.",
+    "It introduces a joint dynamic advertising-sales model and sparse nonparametric Tobit factor model to analyze correlated, left-censored, non-Gaussian cue data.",
+    "It delivers interpretable cue loadings and factor estimates without preselecting founder cues, to provide actionable guidance for brand and agency managers."
+  ],
+  "context": "The empirical setting is television advertising for established fast-moving consumer goods brands in Germany. The sample spans six categories: yogurt, chocolate bars, shampoo, shower gel, razors, and household detergents.",
+  "design_and_data": "The authors use weekly Nielsen retail scanner panel and media data for 62 brands over 200 weeks (2010-2013), covering 177 ad campaigns and 325 TV executions. Trained experts coded each execution on 17 branding cues (salience, attribute, and benefit cues; explicit and implicit), and the coding was aggregated to campaign level using spending weights. They jointly estimate a dynamic ad response model and a Bayesian sparse nonparametric Tobit factor model with Dirichlet process mixtures. The sales model includes controls (price, promotions, other media, competitor variables) and addresses price endogeneity with instrumental variables.",
+  "focal_constructs": [
+    "TV ad effectiveness",
+    "brand salience cues",
+    "brand association cues (attributes and benefits)",
+    "explicit versus implicit cue communication",
+    "advertising goodwill and sales response",
+    "long-term advertising elasticity"
+  ],
+  "main_findings": [
+    "Salience cues and some association cues positively moderated the effect of TV ad spending on brand sales.",
+    "Explicit attribute and benefit cues were more effective than implicit cues, and the factor dominated by implicit cues did not significantly improve ad effectiveness.",
+    "The main drivers of ad effectiveness were visual salience cues, especially logo display duration, logo display frequency, and product display duration."
+  ],
+  "one_line_summary": "Using German FMCG campaign data, the study shows that TV ad spending is more effective when ads emphasize visual brand salience and explicit attribute-benefit messaging, estimated via a joint dynamic sales model and sparse nonparametric Tobit factor model.",
+  "relation_to_prior_work": "extends prior advertising response research centered on spending or GRPs by modeling how specific in-ad brand salience and association cues moderate sales effectiveness in real market data.",
+  "research_gap": "Prior empirical studies mainly estimate how ad spending or GRPs affect sales, with limited evidence on how specific brand messages embedded in TV ads alter that effect. Existing cue research is largely lab based and typically focuses on selected cues and mindset outcomes rather than market-level sales outcomes across multiple cues.",
+  "research_question": "The paper asks whether making a brand more salient in TV ads increases ad effectiveness and which salience cues are most effective. It also asks whether association cues (attributes and benefits) improve effectiveness, and whether cues should be communicated explicitly or implicitly. It further examines how these cue choices can be used to improve the sales return of TV ad spending."
+}

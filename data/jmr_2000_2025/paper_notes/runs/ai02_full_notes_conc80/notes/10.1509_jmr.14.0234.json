@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper presents three field studies testing how the delay between lunch order placement and consumption relates to meal calories in real ordering environments.",
+    "It provides causal evidence by experimentally manipulating order timing restrictions in a workplace and by comparing immediate versus advance ordering in a university study.",
+    "It argues that advance ordering is a practical, scalable intervention for reducing meal calories, including in emerging online and mobile pre-order systems."
+  ],
+  "context": "The studies are set in two real-world lunch contexts: an employee cafeteria ordering system at Humana and a university classroom setting with catered lunches. Participants selected lunch items with varying calorie content, and the key variable was how long before consumption the order was placed.",
+  "design_and_data": "Study 1 is a secondary analysis of prior workplace field experiments, using 1,389 lunch orders from 394 employees and mixed-model regressions relating order-pickup delay to total calories. Study 2 is a workplace field experiment in which participants were randomly assigned weekly ordering windows (before 10:00 A.M. vs. 11:00 A.M.-1:00 P.M.) in a crossover design over four weeks; 296 participants placed orders, and analyses used mixed models and mixed-effects logistic regression. Study 3 is a randomized university field experiment (final n = 195) where students ordered either before class (advance) or immediately before lunch pickup, with measures of hunger, meal satisfaction, uneaten food, and snacking intentions. Across studies, calorie outcomes were analyzed with regression models, including robustness checks with individual fixed effects in workplace data.",
+  "focal_constructs": [
+    "advance meal ordering",
+    "order-consumption time delay",
+    "lunch calorie content",
+    "healthy versus indulgent choice",
+    "present bias (hyperbolic discounting)",
+    "hot-cold empathy gaps",
+    "hunger",
+    "temporal construal"
+  ],
+  "main_findings": [
+    "In Study 1, longer delays between order placement and pickup were associated with lower calories, at about 38 fewer calories per additional hour of delay.",
+    "In Study 2, experimentally requiring advance ordering produced a marginal reduction of about 30 calories (about 5%) and increased selection of meals under 500 calories (60% vs. 53%).",
+    "In Study 3, advance orders contained about 100 fewer calories (roughly 10-11%) than immediate orders, with reductions mainly in side, cookie/fruit, and drink calories, and self-reported hunger did not significantly mediate the effect."
+  ],
+  "one_line_summary": "Across three field studies, placing lunch orders further in advance led to lower-calorie meal selections, including causal evidence from randomized timing manipulations.",
+  "relation_to_prior_work": "extends prior snack-choice, school cafeteria, and online grocery timing research by testing meal order timing in repeated field settings and by experimentally manipulating when lunch orders can be placed to identify causal effects on calories.",
+  "research_gap": "The paper states that, despite consistent prior links between advance choice and healthier decisions, little work had directly tested the causal effect of meal order timing on the calorie content of meals. Prior evidence was limited by narrow snack choices, timing-location confounds in cafeteria studies, or observational designs where selection effects could not be ruled out.",
+  "research_question": "Does increasing the time delay between placing a lunch order and consuming it lead people to choose lower-calorie meals? The paper also asks whether this relationship is causal in field settings and whether mechanisms such as hunger might explain the effect."
+}

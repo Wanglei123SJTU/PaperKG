@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s design explicitly models endogeneity in multiple marketing variables using instruments, while the cited paper’s core contribution is a control-function approach for intercept/slope endogeneity with multiple endogenous marketing-mix variables. That methodological overlap suggests the citation may be a substantive method source rather than a purely incidental background mention, so it should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

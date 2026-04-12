@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Ho and Chong (2003) repeatedly as part of its core motivation, not just a background list citation. It describes that work as showing parsimonious SKU modeling on household panel data and then explicitly positions its own contribution as bridging such disaggregate SKU advances to store-level market share settings. In the discussion, the authors again state they draw on Ho and Chong's insights to build their attribute-to-SKU recovery approach. This is a meaningful framing and conceptual foundation role even though the citing paper does not directly reuse Ho and Chong's dynamic reinforcement specification.",
+  "relation_description": "The citing paper treats Ho and Chong (2003) as a key prior SKU-choice modeling advance and uses it to motivate a new aggregate-share framework that recovers SKU-level parameters. In that sense, the 2005 study builds on the prior line by translating the parsimonious SKU modeling agenda to a different data/modeling context.",
+  "relation_type": "foundational_for"
+}

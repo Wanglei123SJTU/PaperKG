@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper argues that inconsistent findings on the relational behavior-performance link are explained by the type of reciprocity firms internalize.",
+    "It decomposes reciprocity into equivalence (what is returned) and immediacy (when it is returned) and tests their moderating roles empirically.",
+    "It claims a methodological contribution by showing that a two-wave longitudinal interaction model, controlling prior performance, gives a more accurate account than a cross-sectional model by reducing unobserved heterogeneity."
+  ],
+  "context": "The study examines ongoing buyer-supplier channel relationships between U.S. suppliers and their primary Japanese buyers. The sample spans durable and nondurable goods wholesale sectors (SIC 50 and 51).",
+  "design_and_data": "The authors drew a systematic random sample of 1,000 U.S. suppliers and collected survey data, with 342 initial responses. Six months later, they collected performance data from a second informant and obtained 284 matched dyads (31.1% effective response rate). Constructs were measured with multi-item Likert scales, including relational behavior as a second-order factor (solidarity, flexibility, information exchange), reciprocity types, and financial performance at Time 1 and Time 2. Hypotheses were tested using two-wave longitudinal structural equation modeling with latent interactions and controls, and results were compared to a one-wave cross-sectional interaction model.",
+  "focal_constructs": [
+    "relational behavior",
+    "equivalence reciprocity",
+    "immediacy reciprocity",
+    "financial performance",
+    "homeomorphic equivalence",
+    "heteromorphic equivalence",
+    "short-term immediacy",
+    "long-term immediacy"
+  ],
+  "main_findings": [
+    "Equivalence reciprocity negatively moderates the relational behavior-financial performance relationship, such that relational behavior is associated with lower performance under more homeomorphic equivalence and higher performance under more heteromorphic equivalence.",
+    "Immediacy reciprocity negatively moderates the relational behavior-financial performance relationship, such that relational behavior is associated with lower performance under more short-term immediacy and higher performance under more long-term immediacy.",
+    "In the cross-sectional model, relational behavior shows a positive direct effect and moderation is nonsignificant, whereas the longitudinal model shows significant moderation and no direct effect, indicating that controlling prior performance changes inference and mitigates unobserved heterogeneity."
+  ],
+  "one_line_summary": "Using two-wave survey data on 284 U.S.-Japanese buyer-supplier relationships, the study shows that relational behavior improves financial performance only when reciprocity is heteromorphic and long-term, but harms performance when reciprocity is homeomorphic and short-term.",
+  "relation_to_prior_work": "extends prior channel relationship research by explaining mixed relational behavior-performance findings through reciprocity type and by moving beyond treating reciprocity as a single general norm. It also extends prior predominantly cross-sectional work by comparing longitudinal and cross-sectional interaction models and showing substantively different conclusions.",
+  "research_gap": "Prior studies report inconsistent effects of relational behavior on performance, and the paper argues this inconsistency has not been explained by how firms internalize reciprocity. It also notes that reciprocity has often been treated in a general theoretical way rather than decomposed and empirically tested as equivalence and immediacy in this relationship.",
+  "research_question": "When does relational behavior in buyer-supplier relationships produce a financial performance payoff? Specifically, does the type of reciprocity internalized by the firm - equivalence (what is returned) and immediacy (when it is returned) - moderate the relational behavior-performance relationship, and does a longitudinal model provide a more accurate estimate than a cross-sectional model?"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper claims to be the first to test whether fit with a product moderates the social influence of similar versus dissimilar peers on trial of a new experience good.",
+    "It introduces tag-based measures of user preference similarity and user-song fit from rich Last.fm behavioral data to study social contagion.",
+    "It reports a counterintuitive contribution: dissimilar peers can be more influential than similar peers under specific fit conditions."
+  ],
+  "context": "The study is set on Last.fm, an online music social networking platform where users can observe friends' play histories and where songs/artists are described with user-generated social tags. The focal outcome is first-time trial of newly released songs in digital music consumption.",
+  "design_and_data": "The authors web-scraped Last.fm data and analyze 943 focal U.S. users, their friendship networks, and play histories, using 2011 data to construct preference measures and 2012-2013 data for trial outcomes. The main panel tracks trials of 32 newly released songs by 28 artists over 26 weeks after release, producing 753,488 user-song-week observations. Preference similarity between user and peer, and fit between user and song, are quantified from genre-tag compositions using Aitchison-distance-based measures. They estimate a hierarchical Bayesian probit model with lagged peer contagion, interactions with similarity and fit, rich controls, falsification tests, and robustness checks; they also report two MTurk experiments (Web Appendix) on awareness and evaluation mechanisms.",
+  "focal_constructs": [
+    "social contagion",
+    "trial of new experience goods",
+    "preference similarity between consumer and peer",
+    "fit of product with consumer preference",
+    "awareness stage",
+    "evaluation stage",
+    "digital music social networks"
+  ],
+  "main_findings": [
+    "Peer contagion significantly increases consumers' trial of newly released songs.",
+    "For high-fit songs, contagion from dissimilar peers is stronger than contagion from similar peers.",
+    "For low-fit songs, contagion from similar peers is stronger than contagion from dissimilar peers, and supplemental experiments are consistent with awareness-based versus evaluation-based mechanisms."
+  ],
+  "one_line_summary": "Using Last.fm new-song trial data, the paper shows that product fit reverses peer influence patterns: similar peers matter more for low-fit songs, while dissimilar peers matter more for high-fit songs.",
+  "relation_to_prior_work": "extends prior social contagion research that generally finds similar peers more influential by showing that this effect depends on product fit with the focal consumer's preferences. It links this boundary condition to awareness-versus-evaluation stages in the decision process.",
+  "research_gap": "Prior work on new product trial via social contagion largely treats similar peers as uniformly more influential and does not explicitly account for product fit with the focal consumer's preference. The paper addresses this missing boundary condition by jointly examining peer preference similarity and product fit.",
+  "research_question": "Are peers with similar preferences always more influential than dissimilar peers in driving trial of new experience goods? The paper asks how the fit of a product with a focal consumer's preferences moderates the social influence of similar versus dissimilar peers on trial decisions."
+}

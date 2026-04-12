@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "The study provides a disaggregated conversation-level test of WOM impact, estimating main and interaction effects of WOM valence, channel, and social tie strength that aggregate analyses cannot reveal.",
+    "It jointly examines two WOM outcomes - purchase intentions and WOM retransmission intentions - to show how the same conversation characteristics relate differently to each managerial objective.",
+    "It contributes to offline-versus-online WOM and interpersonal influence research by clarifying how channel and tie strength condition recipient responses to WOM valence."
+  ],
+  "context": "The empirical setting is organic brand-related WOM conversations among U.S. consumers, including offline and online interactive conversations (not noninteractive reviews). Data cover conversations about 804 brands across multiple product categories in the United States.",
+  "design_and_data": "The authors use the TalkTrack longitudinal WOM database from the Keller Fay Group, based on a nationally representative U.S. consumer panel (ages 13-69) that reports prior-24-hour conversations. The analyzed sample includes 186,775 brand conversations from July 2006 to March 2010, restricted to episodes where the respondent received advice/recommendations about a specific brand. Outcomes are 0-10 self-reported purchase intention and WOM retransmission intention after the conversation. They estimate multilevel linear mixed models with conversations nested in brands and product categories, including a full factorial of valence (positive, negative, neutral, mixed), channel (offline/online), and tie strength (strong/weak), plus brand WOM volume controls.",
+  "focal_constructs": [
+    "word-of-mouth valence",
+    "offline vs online WOM channel",
+    "social tie strength",
+    "purchase intention",
+    "WOM retransmission intention",
+    "mixed vs neutral WOM"
+  ],
+  "main_findings": [
+    "WOM valence is the strongest predictor of both outcomes: positive WOM has the highest predicted purchase and retransmission intentions, while negative WOM has the largest absolute adverse association with purchase intentions.",
+    "Compared with neutral WOM, mixed WOM is associated with lower purchase intentions but higher retransmission intentions, and positive, negative, and mixed sentiment all exceed neutral WOM on retransmission intentions.",
+    "Channel and tie strength condition these effects: offline WOM amplifies valence effects (especially stronger negative purchase impact for negative/mixed WOM and stronger retransmission effects), and social tie strength matters more for purchase intentions than for retransmission intentions."
+  ],
+  "one_line_summary": "Using 186,775 U.S. brand conversations, the paper shows that WOM valence drives recipient intentions most strongly, with offline channels amplifying valence effects and social tie strength playing a larger role for purchase than for retransmission.",
+  "relation_to_prior_work": "extends prior WOM research by moving from aggregate WOM volume/generation questions to conversation-level impact and by jointly modeling purchase and retransmission intentions. It also extends offline-versus-online WOM evidence by showing that channel moderates how WOM valence translates into recipient behavioral intentions.",
+  "research_gap": "Prior WOM studies often aggregate WOM or focus on what generates WOM volume, which can obscure heterogeneity in impact across conversation types. The paper also notes that simultaneous evidence on how WOM drivers differentially relate to both purchase and WOM retransmission intentions is scarce.",
+  "research_question": "How do the valence, channel, and social tie strength of an individual brand-related WOM conversation relate to the recipient's purchase intention and intention to retransmit the WOM? Do channel and tie strength moderate the relationship between WOM valence and these two intention outcomes?"
+}

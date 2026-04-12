@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Shows that in customer-firm interactions, first-person singular \"I\" can act as a positive social signal, contrary to views that \"I\" mainly reflects undesirable speaker states.",
+    "Demonstrates that pronoun-based social perceptions spill over from the agent to the firm, affecting customer satisfaction, purchase intentions, and actual purchases.",
+    "Challenges prevailing service-language guidance by showing limited benefit from emphasizing \"we\" and \"you,\" and by identifying conditions where \"you\" can backfire."
+  ],
+  "context": "The paper studies frontline customer-firm interactions in sales and service, with a strong focus on email-based customer service communication. Empirical settings include online retail customer inquiries/complaints, in-store selling scenarios, and real customer service exchanges from a large multinational online retailer.",
+  "design_and_data": "The research program includes pilot studies of managerial/agent beliefs and an audit of responses from 40 top online retailers. A field study analyzes 1,277 purchase-linked interactions (from 2,098 sampled customer service contacts) from a large multi-category multinational online retailer, using LIWC pronoun measures and regressions of 90-day post-interaction purchases with pre-period purchase controls and interaction terms for customer-agent pronoun matching. Multiple lab/online experiments manipulate pronoun wording in realistic responses, including real firm emails rewritten from \"we\" to \"I\" and controlled \"I\"/\"we\"/no-pronoun and \"you\" conditions. Outcomes include customer satisfaction, purchase intentions, and perceived agent empathy and agency, with mediation and moderation tests.",
+  "focal_constructs": [
+    "personal pronoun use",
+    "\"I\" vs. \"we\" self-references",
+    "customer-referencing \"you\" pronouns",
+    "participation framework",
+    "perceived agent empathy",
+    "perceived agent agency",
+    "customer satisfaction",
+    "purchase intentions and purchase behavior"
+  ],
+  "main_findings": [
+    "Across field and experimental evidence, greater agent use of \"I\" pronouns increases customer satisfaction and purchase intentions, and in field data predicts higher post-interaction purchase volume, while agent \"we\" use is generally null.",
+    "The positive effect of agent \"I\" use is mediated by increased customer perceptions that the agent is empathetic and agentic, and it attenuates when other cues already signal those attributes.",
+    "Explicit \"you\" pronoun use that fits the dominant framework (customer as recipient/object) shows no positive effect on key outcomes, but \"you\" use that makes the customer the actor/subject reduces empathy and agency perceptions and lowers satisfaction and intentions."
+  ],
+  "one_line_summary": "Across field and experimental customer-firm interactions, agent self-reference with \"I\" (vs. \"we\" or no self-reference) improves customer and firm outcomes by signaling empathy and agency, while customer-directed \"you\" usually does not help and can hurt in some uses.",
+  "relation_to_prior_work": "extends prior pronoun research from treating pronouns mainly as reflections of speaker states to modeling pronouns as signals that shape listener perceptions and behavior in marketing interactions. It also challenges customer-orientation language conventions that prioritize \"we\" and \"you\" in service communication.",
+  "research_gap": "Prior work largely examined personal pronouns as indicators of the speaker's internal traits or states, with limited evidence on how pronoun choices affect listeners. In customer-firm interactions, the common recommendation to emphasize \"we\" and \"you\" over \"I\" had not been directly tested against customer attitudes and firm-relevant behavioral outcomes.",
+  "research_question": "How does firm agents' use of personal pronouns in customer interactions affect customer responses? Specifically, should agents refer to themselves as \"I\" versus \"we,\" and does explicitly referencing customers with \"you\" improve outcomes? The paper also asks whether any effects operate through perceived agent empathy and agency and when these effects change."
+}

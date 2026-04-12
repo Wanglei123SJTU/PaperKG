@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is not obviously incidental: it studies dynamic brand/category advertising effectiveness using a nonlinear state-space model with an augmented Kalman filter, while the citing paper’s core design is also a dynamic state-space advertising model estimated with Kalman filtering. This methodological and topical overlap (brand-level advertising dynamics under uncertainty) suggests it could be a method/foundation reference rather than a mere background mention, so it should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

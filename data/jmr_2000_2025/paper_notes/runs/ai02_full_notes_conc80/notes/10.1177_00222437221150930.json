@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "Shows that week part is a key boundary condition for in-store music and, more broadly, in-store marketing effectiveness.",
+    "Provides multi-method evidence, including supermarket field experiments, that playing pleasant music can substantially lift weekday grocery sales but not weekend sales.",
+    "Quantifies managerial relevance by linking weekday music use to meaningful sales and return-on-investment implications for retailers."
+  ],
+  "context": "The focal domain is grocery retailing, especially supermarkets. Field evidence comes from a supermarket chain in an urban European city, complemented by in-store shopper studies and an online U.S. experiment.",
+  "design_and_data": "Study 1 is a meta-analysis of 10 prior in-store music studies (2,047 participants) that codes week part and estimates effect sizes for music presence versus absence. Study 2a is a 2 x 3 field experiment across three supermarkets over three weeks (63 store-day observations, about 150,000 trips) with foreground music, background music, or no music on weekdays versus weekends. Study 2b (n=136) and Study 3 (n=407) intercept real grocery shoppers, with Study 3 combining receipt-level spending and affect measures. Study 4 is a 2 x 2 Prolific experiment (n=600) that manipulates week part and music, measures depletion and affect, and tests moderated mediation on simulated grocery purchases.",
+  "focal_constructs": [
+    "week part (weekday vs weekend)",
+    "in-store music presence",
+    "mental depletion",
+    "positive affect",
+    "supermarket sales",
+    "affect heuristic"
+  ],
+  "main_findings": [
+    "Week part significantly moderates music effectiveness: pleasant music increases sales on weekdays, while weekend direct sales effects are absent in experiments and can be negative in meta-analytic evidence.",
+    "Shoppers are more mentally depleted on weekdays than on weekends.",
+    "When depletion is higher, music increases positive affect, and affect mediates the increase in sales; when depletion is lower (weekend), music does not improve affect or sales."
+  ],
+  "one_line_summary": "Across a meta-analysis and multiple experiments, the paper shows that pleasant in-store music boosts supermarket sales on weekdays but not weekends because weekday shoppers are more mentally depleted and rely more on music-induced affect.",
+  "relation_to_prior_work": "extends prior week-part and store-atmospherics research by treating week part as a moderator, not just a control or main-effect predictor, of music effects on shopping. It also extends affect-heuristic work to in-store music by showing that depletion-linked processing differences across weekdays and weekends determine when music-driven affect translates into spending.",
+  "research_gap": "Prior studies show that shopping differs between weekdays and weekends and music research often includes day-of-week controls, but they do not directly test whether week part changes the effectiveness of in-store music. The paper addresses this by examining week part as a moderator and depletion as the underlying mechanism.",
+  "research_question": "Does the impact of pleasant in-store music on supermarket shopping differ between weekdays and weekends? If so, is the difference driven by higher weekday mental depletion, which makes shoppers more responsive to music-induced affect and thereby changes sales?"
+}

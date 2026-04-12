@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides a generalizable, in-market estimate of household response to a large exogenous increase in school meal healthiness under the HHFKA nutrition standards.",
+    "Quantifies both quantity substitution and quality spillovers in grocery purchases using national UPC-level purchase data linked to nutrition labels, rather than school-reported meals-served aggregates.",
+    "Shows heterogeneous response to healthier school meals, emphasizing the role of time constraints in addition to financial constraints."
+  ],
+  "context": "The study is set in the U.S. public school meal environment during implementation of HHFKA Section 208 nutrition mandates starting in the 2012-2013 school year. It examines how households with school-age children changed grocery purchasing when school breakfasts and lunches became substantially healthier.",
+  "design_and_data": "The authors combine NielsenIQ Homescan household grocery purchases with Label Insight nutrition-label data, covering August 2011 to July 2013 (one year pre and one year post mandate implementation). Treatment households are those with children ages 6-17, compared against households without children, with coarsened exact matching on demographics and pretreatment shopping behavior. They estimate difference-in-differences models with household fixed effects and county-by-month fixed effects, and use calories per capita and Nutrient Profile Score (NPS) as main outcomes. Final matched analysis uses 7,645 treatment households and 27,148 control households.",
+  "focal_constructs": [
+    "HHFKA school nutrition mandates",
+    "school meal participation substitution",
+    "household grocery food quantity",
+    "grocery nutritional quality",
+    "time constraints",
+    "financial constraints",
+    "nutrition literacy",
+    "kid-friendly and breakfast/lunch food categories"
+  ],
+  "main_findings": [
+    "HHFKA nutrition mandates reduced household grocery calories per capita by about 6.4 percent, consistent with substitution toward school meals.",
+    "The quantity decline is stronger for kid-friendly UPCs and breakfast/lunch categories, and substitution is stronger among more time-constrained and financially constrained households and those with lower pretreatment grocery quantity and quality.",
+    "Grocery nutritional quality declines slightly (about -0.093 NPS), but component-level comparisons indicate school meals are substantially healthier than the grocery calories substituted away (scaled HEI about 70-76 for school meals versus 42 for substituted groceries)."
+  ],
+  "one_line_summary": "Using national household grocery panel data around the 2012 HHFKA rollout, the paper finds that stricter school meal nutrition standards shifted households toward school meals, lowering grocery calories and slightly lowering grocery basket quality.",
+  "relation_to_prior_work": "extends prior HHFKA participation evidence based on small regional samples and school-reported meals-served counts by providing national household-level causal estimates. It also extends grocery-panel policy work by examining not only inferred participation substitution but also spillover effects on grocery nutrition quality and heterogeneity in response.",
+  "research_gap": "Prior evidence on HHFKA nutrition mandates and participation was limited to meals-served aggregates and small regional studies, leaving little causal or generalizable evidence. The literature also lacked broad evidence on heterogeneity in response and on spillover effects to the nutritional quality of household grocery purchases.",
+  "research_question": "Did the HHFKA nutrition mandates cause households with school-age children to substitute toward healthier school meals and away from grocery purchases? If so, which households responded most, and did the policy create spillover changes in the nutritional quality of groceries purchased for home consumption?"
+}

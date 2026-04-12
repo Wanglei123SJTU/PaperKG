@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper specifies a new incentive-aligned mechanism for conjoint that appends consequences to all conjoint responses using only one real product variation and a BDM outcome rule.",
+    "It provides a formal mechanism-design proof that truthful conjoint responding is the unique Bayesian Nash equilibrium under stated general conditions.",
+    "It empirically validates the mechanism in two iPod package studies, showing improved out-of-sample prediction and practical feasibility with lottery incentives."
+  ],
+  "context": "The empirical tests are two experiments with student participants at a major U.S. university using Apple iPod package configurations (Shuffle in Experiment 1, Nano in Experiment 2) that combine device and accessory attributes. Participants completed choice-based conjoint tasks and a large external validation choice among many package options including no-purchase.",
+  "design_and_data": "In each experiment, participants were randomly assigned to a control hypothetical conjoint condition or a truth-telling mechanism condition (Experiment 1: n=49, 24 vs 25; Experiment 2: n=117, 58 vs 59). Both conditions used 24 choice tasks with four options each (three packages plus no purchase) built from a 72-profile efficient design; an external validation task presented 16 additional profiles plus no-purchase. In the truth-telling condition, after conjoint responses the real product was revealed and inferred individual WTP (from a hierarchical Bayesian multinomial logit partworth model) was used in a BDM purchase procedure, with lottery rewards (about one winner per 40-50 participants). Performance was evaluated by in-sample fit and out-of-sample prediction accuracy on the external validation task.",
+  "focal_constructs": [
+    "incentive-aligned conjoint analysis",
+    "truth-telling mechanism",
+    "Bayesian Nash equilibrium",
+    "inferred willingness to pay",
+    "Becker-DeGroot-Marschak procedure",
+    "hypothetical bias",
+    "external validity",
+    "partworth heterogeneity"
+  ],
+  "main_findings": [
+    "The truth-telling mechanism improved external predictive accuracy versus control in both experiments (top prediction correct: 36% vs 17% in Experiment 1 and 34% vs 21% in Experiment 2; top-two criterion: 64% vs 38% and 56% vs 40%).",
+    "In-sample fit was similar across conditions (about 78-79%), indicating the gain was in external validity rather than in-sample fit.",
+    "The results support hypothetical bias for expensive durable products and indicate that differences in partworths between hypothetical and incentive-aligned conditions are feature specific, with mostly replicable patterns across the two experiments."
+  ],
+  "one_line_summary": "The paper proposes a mechanism-design-based conjoint procedure that uses one real product and BDM pricing to make truthful responding a Bayesian Nash equilibrium and shows better out-of-sample choice prediction than standard hypothetical conjoint in iPod package experiments.",
+  "relation_to_prior_work": "introduces a mechanism-design solution for conjoint settings that prior incentive-alignment guidelines and existing mechanism-design models did not directly handle, especially when private information is multidimensional and only one real product variation is available. It also carries incentive-aligned conjoint evidence beyond earlier inexpensive food contexts to expensive durable goods.",
+  "research_gap": "Most conjoint studies are hypothetical, while standard experimental-economics guidance would require making all evaluated product variations available, which is usually infeasible. The paper states that prior marketing and economics literature is silent on how to incentive align conjoint participants under this practical constraint, and that existing mechanism-design results are not directly applicable to multidimensional conjoint types.",
+  "research_question": "Can conjoint studies be redesigned so participants are incentive aligned to reveal true preferences even when only one real product variation is available? Does such a mechanism yield better out-of-sample predictive validity than standard hypothetical choice conjoint, and can it work with a lottery-based incentive implementation?"
+}

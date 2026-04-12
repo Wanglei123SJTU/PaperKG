@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is highly topically aligned (wireless telecom churn, predictive targeting methods), and the citing paper explicitly frames its contribution as extending prior churn-driver/prediction work to causal retention interventions. However, the provided evidence includes only a DOI-level match with no in-text citation context or indication that bagging/boosting methods were actually used, so this could be either foundational framing or a background mention.",
+  "triage_decision": "uncertain"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces a behavioral economics contest model in which contestants care about social comparisons and use the modal prize as a reference point, not only their own monetary payoff.",
+    "Derives a new testable condition under which a high-winners contest can induce more effort than a low-winners contest because of social loss aversion.",
+    "Provides incentive-aligned experimental evidence and monetary parameter estimates showing when social comparison effects overturn standard self-interested contest design predictions."
+  ],
+  "context": "The paper studies marketing-related contests used to motivate salespeople, service employees, franchisees, and product development teams, where managers choose how many winners and losers to create under a fixed prize budget. The experiments vary whether contest outcomes are private or publicly announced and how familiar contestants are with one another.",
+  "design_and_data": "The author develops an analytical contest model with rank-based prizes, fixed total budget, costly effort, and stochastic performance, comparing a standard self-interested utility specification with a social-comparison specification. Two incentive-aligned laboratory experiments with undergraduate business students test low-winners versus high-winners contests. Experiment 1 uses six treatments (2 contest structures x 3 social-pressure settings), with 36 participants per treatment and 3 paid rounds each (108 decisions per treatment), using N=3 contests and prize structures {6,2,2} versus {4,4,2}. Experiment 2 uses N=5 contests and prize structures {11,11,2,2,2} versus {8,8,8,2,2} across no- and low-social-pressure settings, with 30 participants per treatment and 5 rounds each, and estimates social preference parameters from effort choices.",
+  "focal_constructs": [
+    "optimal contest design",
+    "proportion of winners versus losers",
+    "social loss aversion",
+    "social comparison utility",
+    "modal-prize reference point",
+    "effort in rank-order contests",
+    "public announcement of contest outcomes"
+  ],
+  "main_findings": [
+    "In no-social-pressure settings with private outcomes, effort is higher (or not lower) in low-winners contests, matching the standard prediction that fewer winners can be optimal.",
+    "When social comparison pressure is stronger (publicly revealed outcomes and greater familiarity), high-winners contests can generate significantly higher effort than low-winners contests.",
+    "Estimated parameters indicate robust social loss aversion (beta > 0 and beta > alpha), alpha is near zero or slightly negative, and the self-interested nested model (alpha=beta=0) is strongly rejected."
+  ],
+  "one_line_summary": "The paper shows theoretically and experimentally that contests with more winners than losers can elicit greater effort than traditional low-winner designs when contestants are sufficiently socially loss averse in public comparison environments.",
+  "relation_to_prior_work": "extends prior marketing and economics contest models that assume self-interested agents and generally prescribe fewer winners than losers by adding reference-dependent social comparison utility. It extends social comparison research in marketing from consumer settings to employee incentive contract design.",
+  "research_gap": "Existing contest design models in marketing and economics largely assume contestants care only about their own prize payoffs, predict optimal contests with fewer winners than losers, and had not empirically tested that core prediction. The paper argues these models do not explain observed practices that heighten social comparison, such as public recognition and widespread low-value awards.",
+  "research_question": "How should managers choose the proportion of winners and losers in a contest when contestants care about outcomes relative to others, not just prize money? Can a contest with more winners than losers outperform a low-winners contest in motivating effort, and under what social conditions does this occur?"
+}

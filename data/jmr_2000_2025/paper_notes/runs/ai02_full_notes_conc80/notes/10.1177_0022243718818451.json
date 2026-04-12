@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Develops a structural demand model of hybrid pricing in which consumers jointly decide whether to bargain, pay the posted price, or not purchase, with a fixed nonpecuniary cost of initiating negotiation.",
+    "Shows how fixed bargaining costs can be nonparametrically identified separately from bargaining power and marginal utility of income using transaction-level variation in posted prices, wholesale costs, and transacted prices.",
+    "Provides, to the authors' knowledge, the first empirical quantification of how consumers' fixed bargaining costs affect transacted-price distributions, pricing policy choice, and retailer profitability in a retail setting."
+  ],
+  "context": "The paper studies big-ticket retail markets where sellers post prices but may negotiate, and empirically applies the model to refrigerator sales at a large family-owned U.S. home-appliance retailer. In this setting, in-store shoppers can bargain while online posted prices are observed from the retailer website.",
+  "design_and_data": "The authors build a structural model with complete information and Nash bargaining in which negotiated price outcomes depend on bargaining power, while the bargain-or-not decision also depends on a fixed bargaining cost. They provide identification arguments using variation in posted prices and wholesale costs and estimate the model with Bayesian hierarchical MCMC at the zip-code level. The data cover 2009-2010 in-store transactions: 1,541 refrigerator purchases across more than 400 SKUs and 189 zip codes, with posted prices scraped from the retailer website and observed wholesale costs. For structural estimation, they use zip codes with both posted-price and bargained-price purchases (866 observations from 90 zip codes) and infer outside-option counts from related-category purchase information and retailer-provided conversion rates.",
+  "focal_constructs": [
+    "fixed bargaining costs",
+    "bargaining power",
+    "hybrid pricing policy",
+    "posted prices",
+    "negotiated prices",
+    "willingness to pay",
+    "retailer profit"
+  ],
+  "main_findings": [
+    "Conditional on negotiating, consumers capture about 41% of available surplus, with an average negotiated discount of about $173 and an estimated average bargaining-initiation cost of about $28.",
+    "Retailer profit under hybrid pricing declines as bargaining costs rise; at sufficiently high bargaining costs fixed pricing can be preferred, while at estimated costs switching to fixed pricing reduces profit by about 37% and lowers consumer surplus by about 19%.",
+    "A model that ignores bargaining costs fits worse and understates willingness to pay, implying lower pricing and about a 2% profit loss, estimated as roughly $1.6 million annually in the study setting."
+  ],
+  "one_line_summary": "Using transaction data from refrigerator sales, the paper structurally estimates consumers' fixed costs of initiating bargaining and shows these costs materially shape negotiated prices, optimal pricing policy, and profits.",
+  "relation_to_prior_work": "extends prior bargaining and pricing literature that largely assumes bargaining always occurs by modeling a hybrid posted-price-plus-negotiation setting where consumers may decline to bargain due to fixed costs. It also differs from related reduced-form bargaining work by explicitly modeling negotiated outcomes and establishing conditions for nonparametric identification of bargaining cost and bargaining power from transaction data.",
+  "research_gap": "Prior work mostly analyzes pure bargaining or fixed pricing and often assumes bargaining always occurs, leaving the consumer's decision to initiate negotiation largely unmodeled. The role of fixed bargaining costs in generating observed mixes of posted-price and negotiated transactions, and in shaping profits under hybrid pricing, had not been empirically quantified clearly.",
+  "research_question": "How do consumers' fixed nonpecuniary costs of initiating negotiation, together with bargaining power, determine whether transactions occur at posted prices, at negotiated prices, or not at all under hybrid pricing? Can these bargaining costs be separately identified from bargaining power and demand parameters using transaction data, and how do they affect optimal pricing policy, profits, and consumer surplus?"
+}

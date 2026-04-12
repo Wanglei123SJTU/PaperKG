@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Identifies and names the visual asymmetry effect: asymmetrical logos can benefit brands with an exciting personality.",
+    "Proposes and tests an arousal-based congruence mechanism linking logo asymmetry to customer-based and financial-based brand equity.",
+    "Shows the effect is specific to the personality of excitement and to logo asymmetry (vs. other tested personality dimensions and logo properties), and presents evidence that practitioners may not be fully leveraging it."
+  ],
+  "context": "The paper is set in branding and visual logo design, combining online consumer studies on fictitious brands with marketplace evidence on real brands. The market analysis uses Interbrand's 2011 Best Global Brands and U.S. consumer-based brand metrics from Young and Rubicam.",
+  "design_and_data": "The authors report five studies: four MTurk experiments (Studies 1a, 1b, 2a, 2b) and one secondary-data study (Study 3), plus a replication reported in a web appendix. Experimental studies manipulate logo symmetry vs. asymmetry with matched logo pairs and manipulate brand personality (exciting vs. control personalities), then measure perceived excitement, arousal, logo-brand congruence, and brand evaluations. Stimulus checks indicate asymmetrical and symmetrical versions differ in perceived asymmetry (and in relevant tests arousal) but not in complexity, fluency, likability, dynamism, or JPEG file size. Study 3 combines 2011 Interbrand financial valuations (usable n = 96 brands), Young and Rubicam BAV/personality data (including a U.S. sample of 14,516 consumers), and a separate MTurk logo-rating survey (n = 202), analyzed with mediated moderation.",
+  "focal_constructs": [
+    "logo asymmetry",
+    "logo symmetry",
+    "brand personality excitement",
+    "arousal",
+    "logo-brand congruence",
+    "customer-based brand equity",
+    "financial-based brand equity"
+  ],
+  "main_findings": [
+    "Compared with symmetrical logos, asymmetrical logos were perceived as more exciting, and this effect was mediated in part by higher logo-evoked arousal.",
+    "Asymmetrical logos increased brand evaluations when the brand personality was exciting, but not when control personalities (sophistication or sincerity) were used; the process evidence supports asymmetry -> arousal -> perceived logo-brand congruence -> evaluations for exciting brands.",
+    "In marketplace data, logo asymmetry interacted positively with perceived brand excitement to predict higher consumer-based brand equity and, through that mediator, higher financial valuations; comparable interaction patterns were not found for other tested brand personalities or other tested logo design properties."
+  ],
+  "one_line_summary": "Across experiments and real-brand secondary data, the paper shows that asymmetrical logos raise arousal and fit with exciting brand personalities, which improves consumer evaluations and can increase market financial valuations.",
+  "relation_to_prior_work": "extends prior work that examined brand personality and logo design largely in parallel by testing their joint effect on brand equity. It also extends congruence research by showing an arousal-driven fit mechanism between a sensory cue (logo asymmetry) and a personality cue (brand excitement).",
+  "research_gap": "Prior literature had established separate effects of brand personality and logo design, but offered limited understanding of how these two brand elements interact. The paper addresses this by examining the mechanism and boundary conditions through which logo symmetry vs. asymmetry affects brand equity when paired with brand personality.",
+  "research_question": "How does logo symmetry versus asymmetry interact with brand personality to influence brand equity? Specifically, does asymmetry increase arousal and perceived excitement, thereby increasing logo-brand congruence for exciting brands and improving both consumer evaluations and market financial valuations?"
+}

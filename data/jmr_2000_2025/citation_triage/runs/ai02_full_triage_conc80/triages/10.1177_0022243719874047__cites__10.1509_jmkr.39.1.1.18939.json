@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing note explicitly says the 2020 paper “builds on prior GP use in marketing,” and the cited 2002 paper is a Bayesian spatiotemporal kriging/covariance-method paper in marketing, which is plausibly part of that methodological lineage. Given this plausible method/foundational role (despite sparse raw citation context beyond DOI match), this is not safe to treat as an obvious incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

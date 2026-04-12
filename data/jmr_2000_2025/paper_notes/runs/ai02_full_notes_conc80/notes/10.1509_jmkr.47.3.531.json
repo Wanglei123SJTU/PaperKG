@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper identifies a hidden effect of regulatory depletion in advertising settings where prior work often finds no attitude differences (e.g., strong arguments or high processing motivation).",
+    "It proposes and demonstrates that depletion changes attitude certainty through perceived elaboration, not through differences in actual message processing.",
+    "It shows that this certainty shift has behavioral relevance by increasing attitude-consistent purchase choice and establishes a boundary condition via consumers' naive beliefs about depletion and processing thoroughness."
+  ],
+  "context": "The studies are set in consumer advertising contexts using print ads for new products (snack crackers and toothpaste). Participants were undergraduate consumers from a university in Hong Kong.",
+  "design_and_data": "The authors report three randomized between-subject experiments (N=54, N=55, N=117) that manipulate regulatory depletion versus nondepletion using established self-control tasks. Participants then viewed ads (30 seconds or 2 minutes) under instructions designed to induce careful processing; studies measured attitudes, attitude certainty, and perceived elaboration, and Experiment 1 also measured a real purchase choice. Experiment 3 additionally manipulated argument strength (strong vs weak) and a post-ad naive-belief manipulation about whether depletion implies more or less thorough processing, and included thought-listing measures to assess actual elaboration. Analyses used ANOVA, mediation tests, and mediated moderation tests.",
+  "focal_constructs": [
+    "regulatory depletion",
+    "attitude certainty",
+    "perceived elaboration",
+    "advertising effectiveness",
+    "purchase behavior",
+    "naive beliefs about depletion",
+    "argument strength"
+  ],
+  "main_findings": [
+    "When participants were motivated to process ads, depletion did not significantly change attitude valence/extremity, and in Experiment 3 depleted and nondepleted participants showed similar actual processing indicators (thought counts and strong-vs-weak argument discrimination).",
+    "Across studies, depleted participants reported higher attitude certainty than nondepleted participants, and this effect was mediated by higher perceived elaboration.",
+    "In Experiment 1, greater certainty mediated a higher likelihood of purchase among participants with favorable attitudes, and in Experiment 3 the depletion effect on certainty reversed when naive beliefs were manipulated to imply that depletion signals less thorough processing."
+  ],
+  "one_line_summary": "Across three advertising experiments, regulatory depletion increased consumers' attitude certainty via perceived elaboration despite similar attitudes and actual processing, and this increased certainty strengthened attitude-consistent purchase behavior.",
+  "relation_to_prior_work": "extends depletion-and-persuasion research by showing that conditions yielding null attitude effects can still produce meaningful effects on attitude certainty and behavior. It also refines attitude-certainty research by identifying depletion-induced perceived elaboration, rather than actual elaboration differences, as the operative driver in these ad settings.",
+  "research_gap": "Prior work suggested depletion effects on advertising are largely absent when arguments are strong or consumers are motivated to process, implying little marketer relevance in common marketplace conditions. The paper argues that this conclusion overlooks a potentially important downstream outcome: attitude certainty and its behavioral consequences.",
+  "research_question": "Does regulatory depletion influence consumers' responses to advertising in ways that are not captured by attitude valence, especially under conditions where prior work finds no depletion effect on attitudes? Specifically, do depleted consumers feel more certain because they perceive more thorough processing, and does that certainty alter purchase behavior?"
+}

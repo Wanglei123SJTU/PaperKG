@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citation is used in the method-development section rather than as a generic literature mention. The authors explicitly tie their coupon-policy specification to Manchanda et al.'s policy-inference approach, emphasizing estimation of managerial allocation behavior without imposing optimality conditions. They also distinguish the endogeneity context, which indicates a meaningful methodological transfer rather than a purely incidental citation.",
+  "relation_description": "The citing paper uses Manchanda et al. (2004) as a methodological precedent for modeling nonrandom managerial marketing actions via direct policy estimation. It applies that logic to coupon distribution by linking coupon availability to prices and feature activity in its own setting.",
+  "relation_type": "applies"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper claims the first demonstration of a hungrier-the-smaller effect, opposite to the classic hungrier-the-larger effect.",
+    "It proposes that ownership status is a key moderator of motivated judgment, shifting people between wishful thinking (not mine) and worryful thinking (mine).",
+    "It reports process evidence that desired levels of the target variable mediate need effects in opposite directions across mine versus not-mine conditions."
+  ],
+  "context": "The studies examine consumer-like perceptual judgments of concrete items (water, weighted discs, rope, and cake) in laboratory tasks. Data come from university participant pools in France, Hong Kong, and the United States.",
+  "design_and_data": "The authors run four between-participants 2 x 2 experiments crossing need level (high vs low) and ownership status (mine vs not mine). Experiment 1 (N = 211) manipulates thirst and measures estimated water volume; Experiment 2 (N = 220) manipulates physical tiredness and measures estimated disc weight. Experiment 3 (N = 276) manipulates safety need via imagined cliff climbing versus jumping rope and measures rope-thickness estimates plus desired thickness; Experiment 4 (N = 109, with 3 noncompliant participants excluded) manipulates hunger and measures cake-weight estimates, desired cake size, and a mine-condition adequacy feeling measure. Analyses include ANOVA interaction tests, correlations, and bootstrapped mediation tests.",
+  "focal_constructs": [
+    "need state",
+    "ownership status",
+    "motivated judgment",
+    "wishful thinking",
+    "worryful thinking",
+    "hungrier-the-larger effect",
+    "hungrier-the-smaller effect",
+    "desired level"
+  ],
+  "main_findings": [
+    "Across all four experiments, need and ownership interacted: when the target was not mine, higher need shifted judgments toward the desired direction, but when the target was mine, higher need shifted judgments away from the desired direction.",
+    "Continuous need measures showed opposite-sign associations by ownership (for example, thirst-hunger-tiredness measures correlated positively with judgments in not-mine conditions and negatively in mine conditions, with expected directional reversal when lower values were preferred).",
+    "In Experiments 3 and 4, higher need increased the desired level of the target, and desired level significantly mediated need effects on judgment in opposite directions for mine versus not-mine conditions."
+  ],
+  "one_line_summary": "Using four experiments, the paper shows that need increases perceived magnitude for unowned targets but decreases it for owned targets, consistent with a wishful-versus-worryful thinking account.",
+  "relation_to_prior_work": "extends New Look motivated-perception research by showing that need does not always produce a hungrier-the-larger bias, because ownership can reverse the effect to hungrier-the-smaller. It introduces ownership as a systematic boundary condition and process account for prior mixed or one-sided patterns.",
+  "research_gap": "Prior motivated-perception work mainly documented the hungrier-the-larger pattern and, as the authors state, had not shown the reverse hungrier-the-smaller effect. The paper addresses the unresolved question of what determines which direction of bias appears, proposing ownership as the moderator.",
+  "research_question": "How does need state influence perceptual judgments of object magnitude, and does this influence depend on whether the target belongs to the perceiver? The paper tests whether higher need can produce either hungrier-the-larger or hungrier-the-smaller judgments as a function of ownership, and whether wishful versus worryful thinking explains this pattern."
+}

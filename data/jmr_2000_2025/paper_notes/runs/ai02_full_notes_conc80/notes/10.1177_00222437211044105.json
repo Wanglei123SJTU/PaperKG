@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces a theory of search-traffic concentration in intrabrand competition, modeling a prominent retailer as one that receives the largest first-search traffic share.",
+    "It identifies a nonmonotonic profit effect for the prominent retailer, labeled the blessing and curse of prominence, showing that more first-search traffic can raise or reduce its profit.",
+    "It extends the baseline model to limited consumer awareness sets and derives a critical first-search threshold at which the effects of prominence on relative pricing, market prices, and welfare reverse, with explicit policy implications."
+  ],
+  "context": "The setting is online retail markets where multiple retailers sell the same product and consumer search traffic is concentrated at one prominent retailer (e.g., Amazon-like starting-point dominance). The analysis is intrabrand, so competition is across retailers of an identical product.",
+  "design_and_data": "The paper uses a game-theoretic ordered-search model with three retailers (one prominent, two symmetric fringe), homogeneous product value, and simultaneous price setting under perfect Bayesian equilibrium. Consumers are divided into shoppers (zero search cost) and nonshoppers (positive search cost), have a free first search at a default retailer, and then decide sequential search based on endogenous reservation prices. The authors derive mixed-strategy pricing equilibria and comparative statics under full awareness (all consumers aware of all retailers), then extend to limited awareness where each consumer considers only two retailers and the prominent retailer appears in all awareness sets.",
+  "focal_constructs": [
+    "search traffic concentration",
+    "prominent retailer",
+    "intrabrand competition",
+    "ordered sequential search",
+    "search cost heterogeneity",
+    "consumer awareness sets",
+    "consumer welfare",
+    "curse of prominence"
+  ],
+  "main_findings": [
+    "Under full awareness, greater first-search concentration at the prominent retailer lowers average prices at both prominent and fringe retailers and increases consumer welfare.",
+    "In the full-awareness equilibrium, the prominent retailer charges a higher price than fringe retailers, but its profit effect is nonmonotonic: increased prominence can reduce its profit (curse) when nonshoppers are sufficiently prevalent and first-search advantage is high, and increase profit otherwise (blessing).",
+    "Under limited awareness, effects are threshold-dependent: when first-search advantage is below a critical level, concentration lowers average prices and raises welfare, but above that level (super-prominence) concentration raises average prices and lowers welfare, and the prominent retailer's relative price switches from lower to higher stochastically."
+  ],
+  "one_line_summary": "The paper shows, in an intrabrand ordered-search model, that retailer search prominence can either intensify or soften price competition depending on consumer awareness structure and prominence level, with corresponding nonmonotonic effects on prices, welfare, and the prominent retailer's profit.",
+  "relation_to_prior_work": "extends prior price-dispersion and ordered-search models by introducing asymmetric search-traffic prominence with endogenous reservation prices in a homogeneous-product intrabrand setting and by adding a limited-awareness extension where prominence can operate beyond first search.",
+  "research_gap": "The paper states that despite policy and antitrust concern about concentrated online search traffic, there is limited systematic insight into how such concentration affects intrabrand competition, prices, and consumer welfare, making policy responses hard to frame.",
+  "research_question": "How does concentration of consumer search traffic at a prominent retailer affect equilibrium pricing, competition intensity, and consumer welfare in an intrabrand market for an identical product? At the firm level, does a larger first-search traffic advantage always improve the prominent retailer's profit, and how do these effects change when consumers search only within limited awareness sets?"
+}

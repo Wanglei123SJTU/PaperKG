@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops a 50-year retrospective of JMR content by combining two independent topical sources: AMA subject index classifications and text mining of article abstracts.",
+    "Links editor tenures to topical content through a joint correspondence analysis map, offering a longitudinal view of editorial-topic eras.",
+    "Provides policy recommendations for journal strategy, including discussion of research notes, effects of competing journals, and more formal topical indexing."
+  ],
+  "context": "The study examines Journal of Marketing Research as a premier, broad-scope marketing journal over 1964 to June 2012, in the context of its 50th anniversary retrospective. It focuses on how published topics and authorship patterns changed across editorial regimes.",
+  "design_and_data": "The authors analyze all reviewed JMR articles and research notes from 49 volumes (1964 to June 2012): 2,531 papers by 2,348 authors/coauthors, with metadata including title, abstract, date, and index subjects. They build a subject dataset from AMA annual indexes, consolidating 228 raw subject terms into 166 categories after merging similar labels. They also build an abstract-topic dataset using ontology learning and a technical dictionary, extracting 801 terms from abstracts and distilling them into 44 topics with article-topic affinity scores. Analyses include topic frequencies and life cycles, editor-period emergence patterns, correspondence analysis of topics and editors, and author productivity/survival and coauthorship trend analyses.",
+  "focal_constructs": [
+    "topical evolution of JMR",
+    "consumer behavior",
+    "decision research",
+    "subject index classifications",
+    "abstract text-mined topics",
+    "editor tenure and editorial orientation",
+    "author productivity and survival",
+    "coauthorship trends"
+  ],
+  "main_findings": [
+    "Consumer Behavior reemerged as a dominant paradigm and Decision Research rose in prominence, while legacy areas such as Advertising, Survey Design, and Measurement declined in share.",
+    "The appearance of major new high-share topics slowed over time, and editor positions in topic space showed strong temporal continuity, consistent with largely evolutionary rather than revolutionary editorial change.",
+    "Author output was highly skewed (nearly two-thirds published only once), republishing probability rose sharply with prior successes (about 80% after three to four publications), methods-oriented topics had higher survival, and coauthorship increased substantially over decades."
+  ],
+  "one_line_summary": "Using JMR subject indexes and abstract text mining from 1964 to 2012, the paper maps long-run topic shifts, editor-topic dynamics, and author publication patterns in the journal.",
+  "relation_to_prior_work": "extends prior keyword-history work in marketing journals by applying similar text and survival analyses to JMR and adding an explicit editor-topic correspondence mapping.",
+  "research_gap": "The anniversary issue offers editor-specific retrospectives, but a unified empirical account linking editor tenures to the journal's topical evolution across its full history was missing.",
+  "research_question": "How has JMR's topical content changed over its first 50 years, and which subjects are rising or declining? The paper also asks whether editors appear to lead topical shifts or largely reflect field-level trends, and how author productivity, topic loyalty, and coauthorship evolved."
+}

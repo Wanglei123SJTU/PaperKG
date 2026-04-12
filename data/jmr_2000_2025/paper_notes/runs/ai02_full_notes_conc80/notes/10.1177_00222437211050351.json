@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a two-stage conceptual framework for AI implementation in services that separates AI utilization decisions (AI aversion) from conversion of utilization into customer outcomes (technology overload).",
+    "It provides randomized field-experimental evidence from private tutoring that AI assistance to frontline employees can causally improve a key service outcome, student test performance.",
+    "It shows that encouraging AI use alone is insufficient because employee and task characteristics can create a mismatch between high AI utilization and realized performance gains."
+  ],
+  "context": "The study is set in one-on-one in-home private tutoring in South Korea at a large education company. Tutors visit students weekly and can access mobile AI-generated reports that predict student performance and diagnose learning habits.",
+  "design_and_data": "The authors ran a region-level randomized controlled trial in collaboration with a large Korean private education provider, with five treated regions receiving tutor access to weekly AI-generated student reports and five paired control regions without access. The intervention was introduced mid-sample (Nov 13 to Dec 31, 2017), and the main data cover Aug 1, 2017 to Feb 3, 2018, aggregated into nine 3-week periods (five pre, four post). The final sample includes 234 tutors and 2,220 students, with 109 treatment tutors and 851 treatment students during the experiment; analyses use DID, falsification tests, IV estimation leveraging randomized availability, and student-level propensity score matching. A robustness analysis uses an additional post-rollout dataset from other regions (354 tutors, 4,581 students).",
+  "focal_constructs": [
+    "AI assistance",
+    "AI-generated student reports",
+    "service employee adaptability",
+    "AI aversion",
+    "technology overload",
+    "task amount and task complexity",
+    "student test performance"
+  ],
+  "main_findings": [
+    "Providing AI-generated reports to tutors increased student test scores by about 9.2 to 9.6 percentage points in DID estimates.",
+    "There was no score gain for tutors who had access but never viewed reports, and IV results indicate that actual report viewing increased scores by about 9.3 percentage points.",
+    "Tutors with higher formal education and measured teaching ability were less likely to view reports, while tutors with heavier and more complex workloads were more likely to view them but experienced smaller performance gains as utilization propensity increased."
+  ],
+  "one_line_summary": "In a randomized field experiment with a South Korean home-tutoring firm, AI-generated diagnostic reports improved student test outcomes on average, but heterogeneous tutor adoption and overload-related frictions limited gains for some tutors.",
+  "relation_to_prior_work": "extends service marketing research on employee adaptability by modeling AI assistance as a two-stage implementation process rather than only a worker-trait issue. It synthesizes AI aversion and technology overload perspectives and tests them with field evidence in a frontline service context.",
+  "research_gap": "Service marketing research had not rigorously evaluated whether and to what extent AI assistance helps frontline employees learn customer needs and improve service outcomes. The paper also identifies limited evidence on implementation frictions, especially employee nonuse (AI aversion) and unforeseen usage barriers (technology overload).",
+  "research_question": "Does providing AI assistance to frontline service employees improve service outcomes, and by how much? In a private tutoring setting, the paper asks how tutor characteristics and work environments shape whether tutors use AI-generated reports and whether that use translates into better student performance."
+}

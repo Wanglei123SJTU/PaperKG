@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citation is used in the methodology section for specific modeling choices, not just as background. The authors explicitly follow Zhang and Breugelmans (2012) when specifying latent-class segment membership with concomitant variables and when allowing correlation between spending and store-set choice errors. This indicates direct methodological borrowing that affects model construction, even though the application domain is different.",
+  "relation_description": "The citing paper uses Zhang and Breugelmans (2012) as a methodological precedent for parts of its econometric specification, especially latent-class membership modeling and correlated error structure across decision layers. It applies these techniques to a different problem setting, namely hard-discounter entry and multiple-store shopping behavior.",
+  "relation_type": "applies"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes SFV, a forward-looking CRM-based metric defined as the NPV of future customer cash flows attributable to a salesperson minus relevant salesperson-related costs.",
+    "It provides an empirical implementation that links SFV to specific training content (task-related and growth-related) and incentive types (monetary and nonmonetary).",
+    "It shows that accounting for latent heterogeneity and time horizon (one-year vs three-year) materially changes sales force management implications."
+  ],
+  "context": "The study is set in a Fortune 500 business-to-business high-technology firm selling software, hardware, and services. It examines sales force management in a customer-relationship-intensive B2B environment.",
+  "design_and_data": "The authors use seven years of field data (2004-2010) on 484 salespeople, combining customer transaction data, salesperson-level data, and firm-level training and incentive records. They estimate customer-level CLV, validate forecast accuracy (MAPE 9.8% in initial validation), aggregate CLV to salesperson customer equity, and compute SFV as future customer equity minus NPV of training and incentive costs; no salesperson churn was observed in the sample window. They estimate separate short-run (2008) and long-run (2008-2010 annualized) SFV models using latent class regression to capture unobserved heterogeneity, and use instrumental variables based on peer training opt-ins to address endogeneity in opt-in training.",
+  "focal_constructs": [
+    "salesperson future value (SFV)",
+    "customer lifetime value (CLV)",
+    "task-related training",
+    "growth-related training",
+    "monetary incentives",
+    "nonmonetary incentives (peer recognition)",
+    "sales force heterogeneity"
+  ],
+  "main_findings": [
+    "Task-related and growth-related opt-in training have inverted U-shaped effects on SFV, and growth-related training positively moderates the task-training effect.",
+    "Both monetary incentives and nonmonetary incentives positively affect SFV, and their interaction is also positive.",
+    "Two latent salesperson segments emerge (training-sensitive vs incentive-sensitive), with training effects relatively stronger in the long run and incentive effects relatively stronger in the short run."
+  ],
+  "one_line_summary": "Using longitudinal data from a Fortune 500 B2B firm, the paper introduces a CLV-based salesperson future value metric and shows how training and incentive policies differentially influence short-run and long-run salesperson profitability.",
+  "relation_to_prior_work": "introduces a forward-looking, customer-centric salesperson valuation approach based on CLV in contrast to prior sales force metrics centered on past sales, revenue, and manager evaluations.",
+  "research_gap": "Existing sales force evaluation methods are largely backward-looking and often based on reflective metrics that do not capture future profit potential. The authors explicitly state that prior research had not investigated salesperson future value or how opt-in training and incentive policies influence that future value.",
+  "research_question": "How should a salesperson's future profit potential to the firm be measured using a forward-looking metric? Which organizational drivers, especially training interventions and incentives, affect this future value and by how much? Is there meaningful heterogeneity in the sales force that changes these effects across short-run and long-run horizons?"
+}

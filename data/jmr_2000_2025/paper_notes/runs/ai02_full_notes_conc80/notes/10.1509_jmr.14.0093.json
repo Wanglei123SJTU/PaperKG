@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Critiques the inference from many null replications to the claim that asymmetric dominance is not real, emphasizing boundary conditions and replication fidelity.",
+    "Uses reanalysis of claimed replications plus an illustrative shredder choice test to show that asymmetric dominance can appear with realistic stimuli, especially when price is an attribute.",
+    "Highlights a research agenda to systematically study moderators of asymmetric-dominance perception and the conditions under which repulsion versus attraction occurs."
+  ],
+  "context": "The paper is a commentary in the consumer choice context-effects literature, focused on asymmetric dominance in multioption choice sets. It discusses evidence from product-choice tasks (e.g., pens, paper towels, magazine subscriptions, paper shredders) while evaluating recent replication papers.",
+  "design_and_data": "This article is primarily a conceptual and methodological commentary on Frederick, Lee, and Baskin (38 studies) and Yang and Lynn (91 tests). The author compares specific claimed replications to original studies and argues that several did not preserve key stimuli or conditions needed for valid exact replication. It also reports an illustrative Amazon Mechanical Turk study with 95 respondents choosing among Amazon-described paper shredders in two-option versus three-option sets. Adding an inferior decoy increased the target's share from 20.8% to 36.2% (with decoy share 8.5%), with marginal significance (t = 1.7, p < .1).",
+  "focal_constructs": [
+    "asymmetric dominance effect",
+    "attraction effect",
+    "repulsion effect",
+    "choice set configuration",
+    "perceptual encoding of dominance relations",
+    "price-quality trade-off",
+    "replication validity"
+  ],
+  "main_findings": [
+    "Many AD nonreplications are expected because set configuration is only one input to choice, and AD is unlikely when the dominance relation is not perceived or when other cues dominate.",
+    "In the paper-shredder example, adding an asymmetrically dominated option increased the target's absolute choice share, indicating AD can arise with realistic, price-including stimuli.",
+    "Some highly cited 'failed replications' were not exact replications, and at least one FLB paper-towel result showed a decoy-location share shift consistent with AD rather than a true failure."
+  ],
+  "one_line_summary": "Simonson argues that recent attraction-effect nonreplications do not justify dismissing asymmetric dominance, because many tests did not validly implement the effect and realistic price-based settings can still produce it.",
+  "relation_to_prior_work": "challenges recent replication papers that conclude the attraction effect is largely a stylized artifact, arguing that many tests did not preserve the intended asymmetric-dominance structure or original conditions. It also refines interpretation of prior AD research by stressing moderators such as dominance perception and competing choice drivers.",
+  "research_gap": "The paper argues that recent replication efforts reported many null effects but did not systematically examine the mechanisms and moderators that determine whether people encode asymmetric dominance in a choice set. It also identifies a persistent gap in understanding when attraction versus repulsion effects should emerge.",
+  "research_question": "Do recent failed replications support the conclusion that the asymmetric dominance (attraction) effect is largely unreal or limited to stylized numeric stimuli? The commentary asks how replication outcomes should be interpreted when set configuration is weak relative to other choice drivers and when the dominance relation may not be perceived, and it raises the question of when repulsion rather than attraction occurs."
+}

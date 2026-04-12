@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Conceptualizes market-structure emergence in new repeat-purchase categories as a temporary positive feedback system between brand market share and retailer distribution, alongside direct manufacturer push and pull actions.",
+    "Develops a logically consistent dynamic model using coupled multiplicative competitive interaction (MCI) share equations to jointly model brand share and distribution and analyze their dynamics.",
+    "Provides an empirical application that quantifies longer-term effects of changes in share or distribution and uses these dynamics to interpret late-entry outcomes."
+  ],
+  "context": "The empirical setting is the U.S. ready-to-drink tea category in the grocery channel during 1991-1996, a young repeat-purchase category with rapid early growth and multiple major brand entries.",
+  "design_and_data": "The study uses 257 weeks of U.S. aggregate scanner data from IRI INFOSCAN (about 3000 stores in 64 regional markets) for Arizona, Fruitopia, Lipton, Nestea, and Snapple, which together account for more than 80% of category volume. Variables include volume share, ACV-weighted distribution share, relative price, ACV-weighted feature intensity, and spot TV advertising expenditures (from Competitive Media Reporting). The authors estimate coupled dynamic share and distribution equations in differenced log-ratio form (after unit-root testing), with SUR estimation, lag structures, and time interactions. They also run moving-window regressions and impulse-response analyses to assess how dynamics change over the category life cycle.",
+  "focal_constructs": [
+    "brand market share",
+    "retailer distribution share",
+    "temporary positive feedback",
+    "category maturity",
+    "momentum in share and distribution",
+    "marketing mix pull effects",
+    "marketing mix push effects",
+    "late entry timing"
+  ],
+  "main_findings": [
+    "In the early growth stage, lagged market share positively affects subsequent distribution, consistent with positive feedback between share and distribution.",
+    "The share-to-distribution feedback weakens as the category matures; impulse-response results show momentum early (1991-92) but little or no momentum by 1995-96.",
+    "Market share and distribution behave as evolving variables over much of the sample, marketing mix variables (especially price and feature) affect share, and share becomes more price sensitive over time, making late entry more difficult once feedback has eroded."
+  ],
+  "one_line_summary": "Using weekly U.S. ready-to-drink tea data, the paper shows that temporary early feedback between brand share and retailer distribution helps determine the eventual market structure in a new repeat-purchase category.",
+  "relation_to_prior_work": "extends prior work focused on mature repeat-purchase markets by modeling and testing how market shares form over time in a new category through coupled share-distribution dynamics.",
+  "research_gap": "The paper states that little is known about how market shares and entry dynamics emerge in new repeat-purchase categories, because most existing evidence comes from mature markets. It also notes that the market share-distribution relationship had not been studied with longitudinal data in a way that tests feedback effects over time.",
+  "research_question": "How do brand market share and retailer distribution co-evolve as market structure emerges in a new repeat-purchase category? Does a temporary positive feedback between share and distribution exist during category growth, and how do manufacturer marketing actions and category maturity shape that dynamic?"
+}

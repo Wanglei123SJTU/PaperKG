@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is plausibly method-relevant: both notes emphasize Bayesian nonparametric modeling with Dirichlet process mixtures to relax parametric distributional assumptions and benchmark against parametric alternatives. The citing paper’s core contribution (a Bayesian nonparametric sequential search model with DPM priors and Bayesian estimation) could reasonably build on this 2019 marketing BNP methods work rather than merely mentioning it. Although the match evidence is only DOI-level, this is not clearly an incidental/background-only citation.",
+  "triage_decision": "keep_for_relation_judgment"
+}

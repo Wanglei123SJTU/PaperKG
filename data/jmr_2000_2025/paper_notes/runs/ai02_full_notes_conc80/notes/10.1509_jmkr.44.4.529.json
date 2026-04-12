@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper develops a Bayesian model that jointly captures consumer learning about service quality and about own usage while accounting for increasing-block nonlinear pricing.",
+    "The framework is positioned as more general than prior telecom pricing models because it can nest two-part tariff, flat-fee, and per-minute pricing, and it explicitly models churn.",
+    "The paper claims managerial contribution through policy simulations that connect learning, pricing, and service quality changes to customer lifetime value (CLV)."
+  ],
+  "context": "The empirical setting is the wireless service industry, where customers choose monthly plans with an access fee, included peak minutes, and overage charges under an increasing-block structure. The analysis focuses on peak-minute usage and plan choice/churn for noncontract customers at one provider.",
+  "design_and_data": "The authors estimate a hierarchical Bayesian state-space style model with dual learning (quality and quantity), plan choice, usage, and defection, and compare it with three null models (no learning, quantity-only learning, quality-only learning). Data are subscriber-level monthly billing and promotion records from one wireless provider, covering September 2001 to May 2003, with new customers entering August-December 2001. From 3010 eligible customers, they randomly select 300 for calibration, yielding 5281 monthly observations (about 17 months per customer on average), and model switching among four plan types (200, 300, 350, 500 included peak minutes). Estimation uses MCMC (100,000 post-burn-in draws after 30,000 burn-in iterations).",
+  "focal_constructs": [
+    "service quality uncertainty",
+    "usage uncertainty",
+    "Bayesian learning",
+    "increasing-block nonlinear pricing",
+    "plan choice and usage",
+    "customer churn",
+    "customer lifetime value"
+  ],
+  "main_findings": [
+    "Model comparison via log-marginal likelihood favors the full model, indicating that both quality learning and quantity learning are important, with quality learning appearing more important in this application.",
+    "Past underage tends to raise current usage in the short run but accumulated underage lowers plan utility and supports downgrading, while accumulated overage lowers expected consumption and plan utility and is associated with upgrading pressure.",
+    "Policy simulations show that learning creates a win-win: consumers leave fewer minutes unused and firm CLV rises by about 35 percent (about $75) mainly through higher retention; additionally, a 1 percent increase in mean service quality is associated with about a $2 increase in CLV (about $42 million across 21 million customers)."
+  ],
+  "one_line_summary": "Using wireless billing data, the paper estimates a hierarchical Bayesian model in which consumers learn about provider quality and their own usage under nonlinear tariffs, and shows that this learning materially affects plan choice, churn, and CLV.",
+  "relation_to_prior_work": "extends prior Bayesian learning and telecom demand work by integrating quality learning, usage learning, and increasing-block nonlinear pricing in one model and adding churn for CLV analysis.",
+  "research_gap": "Prior studies addressed only subsets of the problem, such as quality learning without nonlinear tariffs, or usage learning under simpler pricing, but not all three features jointly. The paper explicitly targets this missing integration of quality uncertainty, usage uncertainty, and nonlinear pricing simultaneity in a single empirical model.",
+  "research_question": "How do consumers jointly learn about a wireless provider's service quality and about their own usage needs when plan choice occurs under increasing-block nonlinear pricing? How do these learning dynamics affect plan switching, usage, and defection, and what are the implications for firm CLV under alternative pricing and quality scenarios?"
+}

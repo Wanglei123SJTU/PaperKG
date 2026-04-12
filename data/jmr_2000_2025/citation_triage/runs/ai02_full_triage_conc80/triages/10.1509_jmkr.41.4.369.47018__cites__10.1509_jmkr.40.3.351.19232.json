@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s model centers on dynamic learning from experience counts and includes AR(1) errors, while the cited paper also develops a dynamic, familiarity/experience-based choice model with AR(1) structure, suggesting a plausible methodological/mechanism link rather than a purely incidental mention. Given this conceptual overlap and an exact DOI-level reference match (even though only one matched citation is shown), this pair should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

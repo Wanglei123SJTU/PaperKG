@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "It breaks new empirical ground by providing uniformly estimated line-length, price, and distribution elasticities for over 1,600 brands across 14 Indo-Pacific Rim countries and 14 categories.",
+    "It provides broad empirical generalizations on how brand, category, and country factors are associated with each elasticity using a unified two-stage modeling approach.",
+    "It identifies societal stratification, captured by power distance and income inequality, as a central country-level driver of elasticity differences and shows that a simple emerging-versus-developed split is not informative."
+  ],
+  "context": "The study is set in consumer electronics and home-appliance markets across 14 Indo-Pacific Rim economies, including seven developed and seven emerging countries. It analyzes national monthly brand sales responses from 2004 to 2014 in a region that represents nearly half of the world's population.",
+  "design_and_data": "The authors use GfK national monthly retail-panel data (up to 11 years, 2004-2014) for 14 categories and 14 countries; after exclusions they analyze 182 country-category markets and 1,619 brand time series that cover 86% of unit sales. In stage 1, they estimate brand-level error-correction sales-response models within each country-category, including own and competitor line length, price, and distribution, plus trend, seasonality, and holiday controls; they use Gaussian-copula terms to address endogeneity and estimate equations as seemingly unrelated systems. They convert long-run coefficients to elasticities and in stage 2 regress those elasticities on brand, category, and country predictors using weighted least squares with three-way clustered robust standard errors.",
+  "focal_constructs": [
+    "line-length elasticity",
+    "price elasticity",
+    "distribution elasticity",
+    "brand equity",
+    "market concentration",
+    "market growth",
+    "power distance",
+    "income inequality"
+  ],
+  "main_findings": [
+    "Across brands, categories, and countries, the average long-term line-length elasticity is 0.459, price elasticity is -0.422, and distribution elasticity is 0.368, with substantial heterogeneity.",
+    "There is no systematic difference in responsiveness to line length, price, or distribution between emerging and developed economies.",
+    "Societal stratification factors are central: power distance is significant for all three elasticities, and higher income inequality is associated with stronger price sensitivity."
+  ],
+  "one_line_summary": "Analyzing 1,619 brands across 14 categories in 14 Indo-Pacific economies, the paper estimates long-run line-length, price, and distribution elasticities and finds that cross-national differences are driven more by stratification-related country factors than by emerging-versus-developed status.",
+  "relation_to_prior_work": "challenges prior suggestions that emerging economies are systematically more marketing responsive than developed economies by finding no generalized emerging-versus-developed elasticity effect. It extends the mostly North-Atlantic, price-focused evidence base by adding large-scale cross-national evidence on line length and distribution elasticities in Indo-Pacific markets.",
+  "research_gap": "Existing evidence on marketing-mix elasticities is heavily concentrated in North-Atlantic developed countries, especially for price, with little country-specific evidence for Indo-Pacific and emerging economies. Cross-national evidence on line-length and distribution elasticities, and on brand-, category-, and country-level drivers of these elasticities, has been limited by a lack of comparable multi-country data.",
+  "research_question": "How strongly do line length, price, and distribution affect brand sales in Indo-Pacific markets, and how much do these elasticities differ across countries? Which brand, category, and country factors explain this variation, and are there systematic differences in marketing responsiveness between emerging and developed economies once other factors are controlled?"
+}

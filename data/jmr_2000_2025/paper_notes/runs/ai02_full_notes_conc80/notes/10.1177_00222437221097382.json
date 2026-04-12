@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces spatial centrality (center vs edge location in a space) as a pervasive environmental variable for marketing and shows its effect is distinct from crowding-related effects.",
+    "Identifies spatial centrality as a situational determinant of consumer risk taking and documents a conceptual metaphor link of center=safety and edge=risk.",
+    "Provides actionable implications for merchandising and layout design, including placing safer products more centrally and riskier products more peripherally."
+  ],
+  "context": "The paper studies consumer decisions made in physical and virtual spaces, including classroom/lab settings, a VR auditorium simulation, and a U.S. grocery store field setting. Decision contexts include beverage flavor choices, VR device choices, and a medication choice scenario with safer vs riskier options.",
+  "design_and_data": "A pilot implicit association test (IAT) with MTurk participants (250 recruited, 224 analyzed) tested whether center/safety and edge/risk are implicitly associated. Study 1 used a classroom seat-location manipulation (center vs edge; N=160 students) and measured beverage preferences/choice plus accessibility of safety/risk concepts; Studies 2 and 3 used VR-based location manipulations (Study 2 N=270, 2x2 location x social presence; Study 3 N=148) with risk preferences and process measures; Study 4 (N=241) used a 2x2 location x awareness design with a pharmaceutical choice task. Study 5 was an 8-week grocery-store field experiment that alternated product placement between central and peripheral aisles and tracked weekly sales (336 total units) for safer and riskier beverage flavors.",
+  "focal_constructs": [
+    "spatial centrality",
+    "risk preferences",
+    "risky choice behavior",
+    "conceptual metaphor",
+    "center=safety and edge=risk association",
+    "processing fluency",
+    "metaphorical association strength",
+    "awareness of the association"
+  ],
+  "main_findings": [
+    "Participants showed an implicit association consistent with center=safety and edge=risk in the pilot IAT.",
+    "Across controlled studies, being positioned at the edge versus center generally increased preference for and choice of riskier options, and this effect attenuated or reversed based on individual metaphor-association strength and awareness manipulations.",
+    "Serial mediation evidence supported the pathway from spatial centrality to accessibility of safety/risk concepts to processing fluency to risk preference, and key alternatives (e.g., power, social influence susceptibility, crowding, affect, explicit security) were not supported; in the field, risky beverage sales increased at peripheral placement while the safer-product center advantage was directional but not significant."
+  ],
+  "one_line_summary": "Using a pilot, four controlled studies, and a grocery-store field experiment, the paper shows that center versus edge spatial location nonconsciously shifts risk preferences through a center=safety/edge=risk metaphor and processing fluency.",
+  "relation_to_prior_work": "extends prior research on store atmospherics and environmental cue effects by introducing spatial centrality as a new situational factor shaping risky consumer decisions. It also extends conceptual metaphor work by documenting a risk-location mapping with behavioral consequences and by testing moderators such as individual metaphor strength and awareness.",
+  "research_gap": "The paper argues that marketing research has not examined spatial centrality despite its ubiquity across consumption settings. It also notes limited understanding of how retail spatial structure affects purchase decisions and whether central versus peripheral location influences choices involving risk.",
+  "research_question": "Does consumers' relative spatial location within a space (center vs edge) systematically influence risk preferences and choices? If so, is the effect driven by a conceptual metaphor association (center=safety, edge=risk) that changes processing fluency, and under what boundary conditions (e.g., association strength, awareness, social presence) does it hold?"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper develops hierarchical Bayesian response modeling with nonrandom marketing-mix allocation, and the citing paper also models customer behavior with marketing contact frequency in a Bayesian framework, indicating plausible methodological/foundational use rather than a generic mention. The citing note additionally says it compares performance against a “benchmark from prior work,” which could involve this kind of response-modeling approach; with this overlap, the pair should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

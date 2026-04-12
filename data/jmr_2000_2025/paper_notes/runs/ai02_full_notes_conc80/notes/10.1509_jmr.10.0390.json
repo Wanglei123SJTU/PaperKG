@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper identifies consumers' mental representation (abstract vs. concrete construal) as a key moderator of when large assortments create choice overload.",
+    "It proposes and tests a process account in which mental representation changes perceived similarity among options, which then changes the amount of trade-off comparisons and experienced choice difficulty.",
+    "It offers a process-based explanation for inconsistent prior findings on assortment-size effects and derives implications for how marketers can structure communications and displays to reduce difficulty."
+  ],
+  "context": "The paper studies consumer choice from large product assortments in marketplace-like settings, motivated by retail categories with many options. The experiments use Chinese university student participants and choice tasks involving preserved plums, tea, coffee, hotels, and gummy candies.",
+  "design_and_data": "The evidence comes from five controlled between-subjects experiments (Ns: 107, 139, 91, 149, 140) conducted with university students in China. Mental representation was manipulated with construal tasks (e.g., superordinate vs. subordinate generation, why vs. how prompts) or measured via the Behavior Identification Form, and assortment size was typically manipulated as 5 vs. 20 options. Key measures included perceived similarity, choice difficulty (with multi-item indices in some studies), and in Experiment 3 coded thought protocols capturing trade-off/comparison use. Experiments 4 and 5 manipulated perceived similarity independently of assortment size (attribute-range design and plate-color context cues), and Experiment 5 also measured choice satisfaction.",
+  "focal_constructs": [
+    "assortment size",
+    "mental representation level",
+    "abstract vs. concrete construal",
+    "perceived similarity",
+    "trade-off comparisons",
+    "choice difficulty",
+    "choice overload",
+    "choice satisfaction"
+  ],
+  "main_findings": [
+    "When choosing from large assortments, participants induced or predisposed to abstract representation perceived options as more similar and reported lower choice difficulty than those with concrete representation.",
+    "For concrete representation, increasing assortment size reduced perceived similarity and increased choice difficulty, whereas for abstract representation these size-related changes were weak or absent.",
+    "Perceived similarity mediated the representation x assortment-size effect on difficulty, trade-off/comparison use mediated the similarity-to-difficulty link, and lowering similarity independent of size increased difficulty and lowered satisfaction mainly under concrete representation."
+  ],
+  "one_line_summary": "Across five experiments, the paper shows that abstract (vs. concrete) mental representation makes options in large assortments seem more similar, which reduces trade-off comparisons and choice difficulty.",
+  "relation_to_prior_work": "extends prior choice overload and construal-level research by showing that assortment-size effects are conditional on representation level and are transmitted through perceived similarity and comparison intensity.",
+  "research_gap": "Prior research on choice overload reports inconsistent effects of larger assortments, including meta-analytic evidence of near-zero average effects. The paper argues that the literature lacks a clear process account of when large assortments increase difficulty and how cognitive representation of options changes that process.",
+  "research_question": "Does the impact of assortment size on choice difficulty depend on whether consumers represent the assortment abstractly or concretely? The paper also asks whether perceived similarity among options and subsequent trade-off comparisons explain this moderation."
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper models firm repositioning decisions as a dynamic game with strategic interaction and sunk investment, and uses it to recover structural repositioning costs.",
+    "It provides an empirical long-run decomposition of EDLP versus PROMO into revenue effects, fixed operating costs, and switching costs for U.S. supermarkets.",
+    "It develops an estimation approach that incorporates observed revenue data into a dynamic game framework with selection correction based on conditional choice probabilities."
+  ],
+  "context": "The setting is U.S. chain supermarkets in the 1990s, during rapid rollout of Wal-Mart Supercenters and major competitive adjustment. Markets are local zip-code areas within 276 MSAs, and the focal strategic choice is EDLP versus PROMO pricing format.",
+  "design_and_data": "The authors combine Trade Dimensions TDLinx store-level census data with Supermarkets Plus format data to observe supermarket entry, exit, revenues, and pricing format choices in 1994 and 1998 (with additional TDLinx frames for market structure dynamics). They estimate a dynamic discrete game of incomplete information with entry, exit, and format switching, and allow strategic interaction in Markov perfect equilibrium. Estimation proceeds via semiparametric conditional choice probabilities, selectivity-corrected revenue regressions, and minimum-distance recovery of fixed and switching cost parameters. Identification exploits observed switches and exits, plus variation from Wal-Mart entry, with distance to Bentonville and distance to McLane distribution centers used as excluded drivers of Wal-Mart expansion.",
+  "focal_constructs": [
+    "price positioning repositioning",
+    "EDLP format",
+    "PROMO format",
+    "switching costs",
+    "fixed operating costs",
+    "dynamic game of incomplete information",
+    "Wal-Mart entry shock",
+    "local oligopolistic competition"
+  ],
+  "main_findings": [
+    "PROMO pricing generates higher revenues than EDLP; at the median store-market, the estimated PROMO revenue advantage is about $6.2 million per year.",
+    "Switching costs are large and strongly asymmetric: the median EDLP-to-PROMO cost is about $2.3 million over four years, while PROMO-to-EDLP is about $9.9 million (roughly six times larger).",
+    "Wal-Mart entry materially changes outcomes, reducing EDLP-store revenues more than PROMO-store revenues (about $1.47 million vs. $1.07 million annually at the median), increasing switching and exits, and not producing universal EDLP adoption even in counterfactual simulations."
+  ],
+  "one_line_summary": "Using a structural dynamic game and nationwide supermarket data, the paper shows that although EDLP can lower operating costs, PROMO earns higher revenues and switching into EDLP is so costly that broad EDLP convergence is unlikely even after Wal-Mart entry.",
+  "relation_to_prior_work": "extends prior dynamic format-switching studies by jointly modeling supermarket entry, exit, and pricing-format repositioning and by integrating observed revenues into estimation of dynamic games. It complements descriptive Wal-Mart entry evidence and static supermarket entry games by explicitly estimating sunk repositioning costs and long-run strategic responses.",
+  "research_gap": "The paper states that empirical work on firm repositioning is limited, and that existing EDLP versus PROMO evidence does not provide a structural long-run accounting of switching costs, sunk investments, and strategic dynamics. It addresses this missing cost-benefit accounting in a competitive retail setting.",
+  "research_question": "What are the revenue and cost implications for supermarkets of switching between EDLP and PROMO pricing formats? How large are sunk repositioning costs (including directional asymmetry), and how does Wal-Mart entry affect switching, revenues, and market structure in local oligopolistic markets?"
+}

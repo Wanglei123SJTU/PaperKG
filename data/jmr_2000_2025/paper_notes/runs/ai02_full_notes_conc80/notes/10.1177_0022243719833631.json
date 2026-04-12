@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces P2V-MAP, a retailer-centric market-structure approach that customizes skip-gram and t-SNE for shopping-basket data to jointly analyze within-category substitution and cross-category complementarity.",
+    "It claims high usability and scalability: automated mapping from checkout data without predefined categories or manually specified attributes, with incremental updates as new baskets arrive.",
+    "It claims rigorous validation and practical relevance by combining an extensive simulation study with empirical comparisons to established econometric methods and demonstrating assortment-related use cases."
+  ],
+  "context": "The empirical application is a grocery retail setting in a large German city, using one year of checkout basket data from 147 stores of the city's largest grocery retailer. The method is positioned for large retail assortments and cross-category assortment decisions in offline and online retail.",
+  "design_and_data": "The method has three steps: convert basket-product links into center-context training pairs, estimate latent product vectors with a modified skip-gram model, and map products with Barnes-Hut t-SNE plus optional overlays. Validation includes a simulation study with a known data-generating process (multivariate probit for category incidence and multinomial probit for product choice), generating 1,877,991 baskets across 20 categories and 300 products. The empirical application uses 73,048,605 baskets, 30,763 products (nmin > 100), and 3,386,500,350 training samples over 12 months. Additional validation compares P2V-MAP outputs with econometric analyses on loyalty-card data, including MVP tetrachoric correlations and mixed logit substitution patterns.",
+  "focal_constructs": [
+    "market structure mapping",
+    "shopping basket co-occurrence",
+    "latent product attributes",
+    "product embeddings",
+    "within-category substitution",
+    "cross-category complementarity",
+    "t-SNE product maps",
+    "retail assortment depth"
+  ],
+  "main_findings": [
+    "Across simulation benchmarks, P2V-MAP achieved the best silhouette, adjusted mutual information, and nearest-neighbor hit-rate scores versus PCA/MDS alternatives and confidence-based mappings, and its similarities/distances tracked simulated market-structure parameters.",
+    "In grocery data, the map produced well-separated clusters that often crossed retailer category boundaries and revealed both complementarity and differentiation drivers, such as hot dog and burger ingredient complementarity, brand structure in yogurt, and price-tier structure in wine.",
+    "P2V-MAP patterns were corroborated by established econometric models on loyalty-card data, and the linear embedding property enabled plausible placement of new products via vector arithmetic when no direct sales history was used."
+  ],
+  "one_line_summary": "P2V-MAP modifies skip-gram embeddings and t-SNE to map an entire retailer assortment from basket co-occurrences, and simulations plus German grocery data show interpretable and scalable recovery of substitution and complementarity patterns.",
+  "relation_to_prior_work": "extends prior product-map and market-basket research by moving from small, category-preselected analyses to an automated full-assortment mapping based only on checkout baskets. It also introduces a marketing application and customization of skip-gram and t-SNE, and benchmarks this approach against established econometric models.",
+  "research_gap": "Prior approaches in marketing usually analyze small, preselected product sets or single categories, which imposes a priori category assumptions and misses cross-category relationships. The authors argue that existing methods also have three limits for modern retail data: weak scalability to very large assortments, inability to jointly capture substitution and complementarity, and visualizations that lump products and are hard to interpret.",
+  "research_question": "How can retailers map market structure across an entire large assortment using only checkout basket data? The paper examines whether a modified skip-gram plus t-SNE pipeline can recover substitution and complementarity patterns at scale and produce interpretable maps useful for assortment-related decisions."
+}

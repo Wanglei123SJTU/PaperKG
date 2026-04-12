@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is not just listed as general background; it is explicitly invoked as a methodological precedent in the estimation section. The citing authors state they run simplified models without certain IVs \"following Mukherjee and Kadiyali (2011)\" to test robustness. This gives the citation a concrete functional role in how the empirical checks are designed, even though it is not the main theoretical foundation of the article.",
+  "relation_description": "The citing paper applies a modeling practice from Mukherjee and Kadiyali (2011) to its own robustness analysis, using simplified demand specifications without some nesting-parameter IVs. This is a methodological transfer to a different motion picture setting (theatrical pricing).",
+  "relation_type": "applies"
+}

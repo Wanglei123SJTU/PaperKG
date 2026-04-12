@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces a general, nonparametric framework to extract summary piles directly from generalized sorting-task data.",
+    "Develops a new binary optimization formulation and tailored variable neighborhood search procedure that is computationally fast and scalable.",
+    "Shows that the approach can handle varied sorting instructions and single-card or multiple-cards tasks while offering richer heterogeneity insights than common alternatives."
+  ],
+  "context": "The substantive application is a retail assortment of single-serving snacks at Georgetown University's student-run store (The Corp), using 29 Frito-Lay products. More broadly, the method targets exploratory marketing settings such as brand positioning and categorization.",
+  "design_and_data": "The authors formulate a binary optimization model that jointly estimates K summary piles and assigns each observed consumer pile to one summary pile by minimizing item-level mispredictions. They solve it with reformulations plus a modified variable neighborhood search heuristic, and examine solutions across K values with fit diagnostics and tenfold cross-validation. Evidence includes two Monte Carlo simulations (including a 72-dataset benchmark against Ward clustering and latent Dirichlet allocation) and an empirical multiple-cards sorting study with 101 Georgetown undergraduates sorting 29 snack products (245 unique piles across 573 observed piles).",
+  "focal_constructs": [
+    "sorting task data",
+    "summary piles",
+    "consumer heterogeneity",
+    "binary integer programming",
+    "variable neighborhood search heuristic",
+    "single-card and multiple-cards sorting",
+    "brand perception structure"
+  ],
+  "main_findings": [
+    "Across simulations, the method recovered heterogeneous sorting structures for both single-card and multiple-cards tasks and was relatively insensitive to tuning choices.",
+    "In 72 synthetic benchmark datasets, it performed at least as well as Ward clustering and LDA in every trial, with reported total misprediction reductions of 75.15% versus clustering and 91.95% versus LDA.",
+    "In the snack data, a 10-summary-pile solution achieved 92.08% in-sample accuracy (7.92% error) with similar tenfold cross-validation error (median 8.53%), and yielded interpretable piles plus a two-segment pattern (brand-focused vs snack-type-focused sorters)."
+  ],
+  "one_line_summary": "The paper proposes and validates a nonparametric optimization method that extracts summary piles directly from sorting-task data and shows, in simulations and a snack-brand application, better fit and interpretability than common alternatives.",
+  "relation_to_prior_work": "extends prior methods for sorting-task analysis by avoiding pairwise similarity-distance transformations and by not requiring parametric latent pairwise-similarity assumptions; it also benchmarks against Ward clustering and LDA to show improved recovery and interpretability.",
+  "research_gap": "Although sorting tasks are widely used, the paper argues that no general analytic procedure exists for directly analyzing raw pile data across task variants. Existing approaches either require arbitrary similarity-to-distance transformations and ad hoc clustering choices, or impose parametric latent pairwise-similarity assumptions with heavy computation and limited applicability.",
+  "research_question": "How can researchers summarize heterogeneous sorting-task data into a small set of representative piles without converting raw piles into pairwise similarity or distance matrices? Can such a method remain flexible across single-card and multiple-cards task formats and provide scalable, accurate recovery of observed sorts?"
+}

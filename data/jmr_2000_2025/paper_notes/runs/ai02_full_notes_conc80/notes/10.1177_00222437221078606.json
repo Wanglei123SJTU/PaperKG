@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides what the authors describe as the first empirical test of the meaning and impact of swear words, using a linguistics-based mixed-meaning framework.",
+    "Identifies two distinct pathways by which swear words affect readers - reviewer feeling-strength inferences and product attribute-strength inferences - and shows they operate as parallel mediators.",
+    "Introduces swear word number and swear word style as moderators of swearing effects in WOM, and derives platform implications about tolerating vs. censoring profanity."
+  ],
+  "context": "The paper studies online word of mouth in consumer reviews, using large-scale data from Yelp and Amazon plus controlled review experiments. The focal setting is review reading and evaluation of products/services on digital platforms.",
+  "design_and_data": "The authors analyze two field datasets: 100,000 randomly sampled Yelp reviews (from the 2017 Yelp dataset) and 200,000 randomly sampled Amazon reviews (from a public 82.8M-review corpus), with swear-word detection via an updated LIWC dictionary and negative binomial models of helpfulness votes. Field models include controls for review age, star rating, and review length (including a squared length term), and test moderators by swear-word count and style (uncensored, euphemistic, censored). They then run four between-subject experiments (final Ns reported: 186, 296, 342, 435) that manipulate swear-word presence, comparison words, number, and style in review text. Experiments test mediation through inferred reviewer feeling strength and inferred product attribute strength, plus moderation and several alternative mechanisms (e.g., arousal, attention, believability, interpersonal closeness).",
+  "focal_constructs": [
+    "swear word use in online reviews",
+    "review helpfulness",
+    "product attitude",
+    "reviewer feeling strength",
+    "product attribute strength",
+    "swear word number",
+    "swear word style",
+    "mixed-meaning expressions"
+  ],
+  "main_findings": [
+    "In both Yelp and Amazon field data, reviews containing swear words were rated as more helpful/useful than reviews without swear words, controlling for key review characteristics.",
+    "Compared with no swear words or comparison degree words, degree swear words changed product attitudes by increasing inferences about reviewer feeling strength and product attribute strength, with these two inferences functioning as parallel mediators.",
+    "Swearing effects were contingent: a few swear words were beneficial but many attenuated effects, and uncensored/euphemistic forms were generally more effective than censored forms; swear words were most helpful in positive reviews."
+  ],
+  "one_line_summary": "The paper shows that profanity in online reviews can increase review value and influence product attitudes because swear words convey dual meaning about both reviewer feelings and product attributes, with effects moderated by how many swear words are used and how they are styled.",
+  "relation_to_prior_work": "extends prior marketing views that focus on norm violation or offensiveness by applying a linguistic mixed-meaning account of profanity in WOM. It also qualifies Hair and Ozcan (2018) by showing swear words can add value beyond only extremely positive reviews, while still being strongest in positive contexts.",
+  "research_gap": "Prior marketing work on profanity is limited and largely framed around offensiveness or norm violation, which the authors argue does not fully explain swearing effects in WOM. The paper states that beyond taboo origins, it remained unclear what meanings swear words communicate and how those meanings affect review readers.",
+  "research_question": "How, why, and when does swear word use in online reviews affect consumers? The paper asks whether swear words convey distinct meanings about the reviewer and the reviewed product, whether those meanings drive helpfulness and product-attitude effects, and when these effects are strengthened or weakened by swear-word number and style."
+}

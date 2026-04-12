@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides a descriptive meta-analysis of how model-building choices affect customer churn prediction accuracy using a public tournament of academics and practitioners.",
+    "It links predictive accuracy (lift) to churn campaign economics by deriving a profit function and showing the monetary value of accuracy improvements.",
+    "It identifies five empirical modeling approaches (logit, tree, practical, discriminant, explain) and compares their predictive performance on both contemporaneous and later validation data."
+  ],
+  "context": "The empirical setting is customer churn prediction for an anonymous wireless telecommunications carrier. The study was run as a public modeling tournament hosted by the Teradata Center for CRM, with entries from both academics and industry practitioners.",
+  "design_and_data": "Participants downloaded one calibration file and two validation files, built churn models, uploaded predictions, and completed a survey about their methods. The calibration data had 100,000 customers, 171 predictors, and an oversampled 50% churn rate; predictors were measured over three months and churn in a later month with a one-month lag. Validation data included a current sample (51,306 customers, 1.80% churn) and a future sample about three months later (100,462 customers, 1.80% churn), and performance was scored by top-decile lift and Gini. The authors analyzed 44 entries from 33 participants and used factor analysis of methodological survey items followed by regressions of performance on factor scores.",
+  "focal_constructs": [
+    "customer churn prediction",
+    "predictive accuracy",
+    "top-decile lift",
+    "Gini coefficient",
+    "model shelf life",
+    "methodological approach to modeling",
+    "churn management profitability",
+    "customer lifetime value"
+  ],
+  "main_findings": [
+    "Predictive performance varied substantially across entries (top-decile lift roughly 1.07 to 3.01), and these differences imply managerially large profit differences, potentially hundreds of thousands of dollars per campaign.",
+    "Model performance showed little decay over about three months, with very similar average lift and Gini in current versus future validation data.",
+    "Logit and tree approaches were positively associated with performance, the practical approach was intermediate, and discriminant and explain approaches performed worse on average across metrics and validation sets."
+  ],
+  "one_line_summary": "Using a public churn-modeling tournament in wireless telecom data, the paper shows that modeling approach materially affects predictive lift and campaign profits, while model accuracy remains stable over an approximately three-month horizon.",
+  "relation_to_prior_work": "extends prior marketing prediction research by focusing on churn, using a tournament-based comparison of real model-building approaches, and explicitly connecting prediction metrics to churn-management profitability.",
+  "research_gap": "The paper argues that despite the managerial importance of churn prediction, there is limited evidence on which modeling approaches produce better predictive accuracy in practice and little guidance on model shelf life. It also addresses the need to translate accuracy differences into economic impact for churn management decisions.",
+  "research_question": "Do different churn-modeling methods produce managerially meaningful differences in predictive accuracy? Do churn models retain predictive power when applied to data compiled several months after estimation? Which combinations of estimation technique, variable-selection process, and modeling effort allocation are associated with the best performance?"
+}

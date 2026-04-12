@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a taxonomy of social media brand imagery with three archetypes - brand selfies, consumer selfies, and packshots - and highlights brand selfies as an emerging phenomenon.",
+    "Shows that common social media engagement metrics (likes and comments) capture sender engagement and can diverge from brand engagement, which is better reflected by purchase-intent responses.",
+    "Demonstrates an interpretable machine-learning approach that combines CNN-based image classification and transformer-based text mining to extract marketing-relevant insights from large-scale unstructured multimedia data."
+  ],
+  "context": "The study examines user-generated branded image posts on Twitter and Instagram for handheld food and beverage brands with visible logos. It also tests generalization in display advertising for handheld consumer electronics and in Instagram-style lab stimuli.",
+  "design_and_data": "The authors analyze 214,563 Twitter posts (2014-2016) and 43,585 Instagram posts (2011-2019) covering 185 brands, excluding corporate advertising content. They train a transfer-learning VGG-16 image classifier on manually labeled images (16,949 Twitter and 3,000 Instagram) to classify brand selfies, consumer selfies, and packshots, with holdout accuracy above 90%. They use a RoBERTa-based pipeline to detect purchase-intent comments with 95% holdout accuracy and estimate negative binomial models for likes, comments, and purchase-intent counts with extensive controls and brand fixed effects. Additional evidence comes from 2,255 display-ad campaigns (622 ads) modeled with CTR and from randomized lab experiments (N=750, plus a replication with N=450) measuring purchase intent and self-reference.",
+  "focal_constructs": [
+    "brand selfies",
+    "consumer selfies",
+    "packshots",
+    "sender engagement",
+    "brand engagement",
+    "purchase intentions",
+    "self-reference",
+    "social media brand imagery"
+  ],
+  "main_findings": [
+    "Across Twitter and Instagram, consumer selfies receive higher sender engagement (likes and generally comments) than brand selfies and packshots.",
+    "Brand selfies generate higher brand engagement than consumer selfies, measured by more purchase-intent comments; packshots are typically intermediate, and brand selfies often outperform packshots.",
+    "Brand-selfie display ads have higher CTR than consumer-selfie ads, and lab experiments show higher purchase intent for brand selfies with mediation evidence that self-reference drives this effect."
+  ],
+  "one_line_summary": "Using large-scale social media, display-ad, and experimental evidence, the paper shows that brand selfies drive more brand engagement than consumer selfies even though consumer selfies attract more likes and comments.",
+  "relation_to_prior_work": "extends prior UGC and social media engagement research by moving beyond text-centric and sender-centric metrics to image-type specific effects on brand outcomes. It also transfers self-reference theory from traditional advertising contexts to social media and display advertising with both field and experimental evidence.",
+  "research_gap": "Prior UGC research has focused mainly on text and on sender-directed metrics such as likes and comments, leaving observer responses to branded images and true brand engagement less understood. The paper also notes that self-reference effects have rarely been tested in social media selfie contexts, especially with field data.",
+  "research_question": "How can consumer-generated social media brand images be systematically classified, and how do these image types relate differently to sender engagement versus brand engagement? The paper also asks whether commonly used metrics like likes and comments are valid proxies for brand engagement and whether self-reference explains differences across image perspectives."
+}

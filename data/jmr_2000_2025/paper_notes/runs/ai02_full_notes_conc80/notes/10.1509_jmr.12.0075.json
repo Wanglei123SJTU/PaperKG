@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides what the authors describe as the first empirical test and evidence that multiple prior evaluations can influence a single sequential hedonic judgment at the same time, with co-occurring assimilation and contrast.",
+    "It contributes real-world evidence, not only laboratory evidence, for multiple-reference-point effects using large-scale judging data from a national brewing competition.",
+    "It identifies moderators of sequential context effects, including reference similarity, extreme initial experiences, mood, and expertise, and offers sequence-design implications for fairness, accuracy, and choice influence."
+  ],
+  "context": "The paper studies sequential hedonic judgments where people evaluate items one by one in externally determined orders. The empirical contexts are a national home-brewing competition (beer tasting scores) and an online joke-enjoyment task.",
+  "design_and_data": "Study 1 analyzes eight years (2000-2007) of Bluebonnet Brew-Off data: more than 6,000 beers from 900+ brewers in 688 flights (5-13 beers), scored in real time by 2-3 trained judges on a 50-point scale, yielding 1,423 judge-flight sequences. The authors estimate a hierarchical Bayesian model with predictors for the first score, immediate predecessor score, running maximum and minimum prior scores, subcategory-change interactions, and controls (round, year, position, style). Study 2 is an online experiment with 740 respondents rating sequences of 20 jokes on a 7-point scale under three first-item conditions (extremely negative, extremely positive, random control). A hierarchical Bayesian random-parameters model tests the same reference-point effects and moderators including expertise, mood, and sequence position.",
+  "focal_constructs": [
+    "sequential hedonic evaluation",
+    "multiple reference points",
+    "assimilation effects",
+    "contrast effects",
+    "first-item anchoring",
+    "running maximum and minimum references",
+    "domain similarity",
+    "expertise and mood moderators"
+  ],
+  "main_findings": [
+    "Across both studies, focal evaluations simultaneously assimilate to the first score in the sequence and contrast with the immediately preceding score and with prior extremes (running maximum and minimum).",
+    "In the beer data, contrast with the immediately previous item is weaker when the sequence changes beer subcategory, indicating similarity strengthens adjacent-item contrast.",
+    "In the joke data, first-item extremeness and individual differences moderate context effects, with expertise and mood significantly shaping the strength of assimilation and contrast patterns."
+  ],
+  "one_line_summary": "Using field beer-judging sequences and an online joke experiment, the paper shows that sequential hedonic ratings are jointly shaped by assimilation to the first item and contrast with recent and extreme prior items, with moderation by similarity, first-item extremeness, expertise, and mood.",
+  "relation_to_prior_work": "extends prior work on sequential evaluation and comparative effects by moving beyond pairwise predecessor comparisons to test multiple simultaneous reference points within one hedonic judgment. It also extends multiple-reference-point research by using evaluators' own prior judgments as standards in repeated real-time evaluations and by combining field and experimental evidence.",
+  "research_gap": "Prior research on sequential evaluation mostly tested pairwise comparisons against a single standard, typically the immediately preceding stimulus, leaving unclear whether several prior evaluations are used simultaneously. Prior multiple-reference-point work also lacked direct evidence that competing reference points jointly shape a single ongoing hedonic judgment in lifelike settings.",
+  "research_question": "When consumers evaluate hedonic stimuli in sequence, do multiple prior evaluations simultaneously serve as reference points for the current judgment, producing co-occurring assimilation and contrast effects? The paper also asks how these effects are moderated by stimulus similarity, extreme first experiences, and evaluator characteristics such as mood and expertise."
+}

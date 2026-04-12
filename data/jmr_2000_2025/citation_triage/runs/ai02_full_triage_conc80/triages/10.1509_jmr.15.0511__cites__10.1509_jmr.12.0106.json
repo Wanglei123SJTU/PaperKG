@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s design explicitly includes an “LDA-based topic analysis” on an 8M-text corpus to construct response-tailoring measures, while the cited paper’s core contribution is an LDA-based framework for mining marketing meaning from online reviews. Given this clear method-level overlap (and a direct DOI match), the citation is plausibly methodological/foundational rather than a generic background mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

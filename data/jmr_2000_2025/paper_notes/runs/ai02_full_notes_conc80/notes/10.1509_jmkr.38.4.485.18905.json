@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides one of the first direct empirical tests of the value relevance of brand attitude, especially in high-technology markets.",
+    "It proposes a valuation framework that connects brand-attitude shocks to stock returns through their effects on expected future accounting performance.",
+    "It offers exploratory evidence on drivers of brand-attitude change in computer markets, indicating roles for both product attributes and peripheral cues."
+  ],
+  "context": "The empirical setting is publicly traded firms in computer-related industries, including personal and network computing. Brand-attitude data come from Techtel's quarterly surveys of people influential in enterprise hardware and software purchase decisions.",
+  "design_and_data": "Brand attitude is measured quarterly as the percentage of respondents with a positive opinion minus the percentage with a negative opinion for each firm in Techtel surveys (panel of about 1500 people, about 50 percent response rate). The sample includes nine firms (Apple, Borland, Compaq, Dell, Hewlett-Packard, IBM, Microsoft, Novell, Oracle) over 1988-1996, with 248 firm-quarter observations in descriptive statistics and 206 observations in lagged model estimation. Stock and accounting variables are built from Compustat, CRSP equal-weighted market returns, and Value Line betas; abnormal stock return is realized return minus expected market-model return. The authors estimate time-series models for brand attitude and ROE, then regress abnormal stock return on unanticipated ROE and change in brand attitude, and add a qualitative extreme-movement analysis of attitude drivers.",
+  "focal_constructs": [
+    "brand attitude",
+    "brand equity",
+    "value relevance",
+    "abnormal stock return",
+    "unanticipated ROE",
+    "future accounting performance",
+    "computer-industry high-technology markets",
+    "drivers of brand attitude"
+  ],
+  "main_findings": [
+    "Changes in brand attitude are positively associated with abnormal stock return after controlling for unanticipated ROE, indicating incremental value relevance.",
+    "Lagged changes in brand attitude at one- and two-quarter lags positively predict ROE, supporting the claim that brand attitude leads future accounting performance.",
+    "Large brand-attitude movements were associated with new products, product problems, top-management changes, competitor actions, and legal actions, while broad advertising initiatives not tied to visible new subbrands showed little noticeable effect."
+  ],
+  "one_line_summary": "Using quarterly data for nine computer-industry firms, the paper finds that changes in brand attitude predict future ROE and are priced by the stock market beyond contemporaneous accounting information.",
+  "relation_to_prior_work": "introduces an explicit value-relevance test for brand attitude, which the authors state had not been assessed previously in any market. It differs from earlier studies on perceived quality and Financial World's brand-value measure by focusing on brand attitude and by examining both stock-return effects and lagged links to future ROE in a high-technology setting.",
+  "research_gap": "The authors explicitly state that prior research had not assessed whether brand attitude has value relevance in high-technology markets or any market. They also note limited evidence on whether nonfinancial measures provide information incremental to accounting data about future-term performance, rather than only contemporaneous associations.",
+  "research_question": "Does brand attitude have value relevance in high-technology markets, meaning it provides incremental information beyond accounting measures for explaining firm value? Specifically, do changes in brand attitude predict future accounting performance and therefore help explain contemporaneous stock returns?"
+}

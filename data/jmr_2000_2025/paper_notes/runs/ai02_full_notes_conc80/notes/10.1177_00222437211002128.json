@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Identifies animated display as a novel and managerially actionable antecedent of visual presentation effects in time-varying data.",
+    "Disambiguates the process mechanism by showing that salience-driven attention to transitions affects judgments through utilization of those transitions in cognitive risk inferences.",
+    "Demonstrates that animated display has consequential downstream effects on investment decisions and behavior, not just perception or recall."
+  ],
+  "context": "The paper studies visual presentation of time-varying financial data, especially stock and commodity price trajectories shown in graphs on trading and information platforms. Empirical settings include a pilot with oil trading managers and multiple personal-finance investment judgment tasks.",
+  "design_and_data": "The authors run a pilot field experiment with 21 oil trading managers, then five experiments in personal-finance contexts using stock-price trajectories shown in animated or static graphs. Samples include undergraduate participants, MTurk workers, and Prolific investors (Study 1: eye-tracking lab N=85; Study 2a: online serial mediation N=190; Study 2b: animation-speed test N=165; Study 3: 2x2 graph type x display mode N=335; Study 4: 2x2 global trend x display mode N=208; Study 5: 2x2 investment goal x display mode N=216). Process evidence combines fixation-sequence eye tracking, measured transition salience and utilization, and serial/moderated mediation analyses. Key outcomes are risk judgments and investment behavior (amount willing to invest).",
+  "focal_constructs": [
+    "animated display",
+    "temporal transitions",
+    "transition salience",
+    "utilization of transitions",
+    "risk judgments",
+    "global trend",
+    "investment goal",
+    "investment decision behavior"
+  ],
+  "main_findings": [
+    "Animated (vs. static) display of stock or commodity price trajectories increases perceived risk in the tested financial contexts.",
+    "The effect is explained by a serial process in which animation increases salience of temporal transitions, which increases utilization of transitions as an inferential cue, which then raises risk judgments.",
+    "The effect attenuates when transition salience or risk interpretation is reduced (bar graphs, upward global trend, short-term investment goal), and in Study 5 animated display led long-term investors to invest less money."
+  ],
+  "one_line_summary": "Across a pilot field study and five experiments, the paper shows that animated (vs. static) line graphs inflate investment risk judgments because animation makes price transitions more salient and more heavily used in risk inference.",
+  "relation_to_prior_work": "extends prior work on static graph presentation effects by showing that dynamic animation changes financial risk judgments and decisions even when the underlying data are held constant. It also moves beyond practitioner and computer-science animation studies focused on recall or recognition by testing mechanism and downstream behavioral consequences.",
+  "research_gap": "Prior marketing research on graphical data display has mainly examined static formats, while little to no work has tested how animated display affects judgments and decisions. Existing animation work was described as tool-focused and centered on comprehension outcomes, with limited theory about mechanisms and decision consequences.",
+  "research_question": "Does presenting time-varying financial data in animated rather than static graphs systematically increase risk judgments and alter investment decisions? If so, is the effect driven by animation-induced salience of point-to-point transitions and greater utilization of those transitions in risk inference, and under what boundary conditions does this process weaken?"
+}

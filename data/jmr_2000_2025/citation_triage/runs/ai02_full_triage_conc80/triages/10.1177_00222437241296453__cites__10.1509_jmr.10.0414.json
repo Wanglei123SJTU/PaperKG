@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper is a methodological endogeneity-correction paper (2sCOPE), while the cited paper is primarily an empirical business-cycle elasticity study that happens to use 3SLS for endogeneity; this makes the likely role of the citation ambiguous from notes alone. With only one DOI-level match and no in-text or reference-context evidence, it is not safe to classify as an obvious mention-only citation, but there is also insufficient evidence to clearly keep.",
+  "triage_decision": "uncertain"
+}

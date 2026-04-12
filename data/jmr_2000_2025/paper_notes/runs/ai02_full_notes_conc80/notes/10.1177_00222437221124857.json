@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a novel framework that reconciles conflicting findings on company size and perceived quality by identifying perceived product type (low-tech vs. high-tech) as the key boundary condition.",
+    "It documents two lay theories about company size - an intrinsic motivation lay theory about employees and a financial resources lay theory about R&D capacity - and shows how product type shifts their accessibility.",
+    "It provides managerial guidance for improving perceived quality and choice share by strategically framing company size or product type and by supporting or challenging the relevant lay theory."
+  ],
+  "context": "The research examines consumer inferences about products from for-profit firms, primarily in midmarket settings, where company size is cued by employee count and revenue. Empirical settings include Fortune 500 firms across industries and experimental product categories (for example chairs, blankets, soap, meat, coffee makers, robotic wheelchairs, and pens) framed as low-tech or high-tech.",
+  "design_and_data": "Study 1 combines scraped secondary data for 480 Fortune 500 companies (2015 Net Promoter Score, employee count, and revenue) with MTurk ratings of each company's industry on a low-tech to high-tech scale. Studies 2-4b use randomized MTurk experiments that manipulate framed company size and product type, measure quality evaluations, and test process via lay-theory accessibility (including a moderated mediation test in Study 3). Studies 4a and 4b experimentally challenge the diagnosticity of each lay theory with information about employee intrinsic motivation or R&D spending. Studies 5 and 6 use incentive-compatible choice tasks (MTurk lottery and lab choice with a real pen) to test effects on actual choice, including a same-product framing test in Study 6.",
+  "focal_constructs": [
+    "company size metrics",
+    "product quality evaluations",
+    "perceived product type (low-tech vs. high-tech)",
+    "intrinsic motivation lay theory",
+    "financial resources lay theory",
+    "R&D spending capacity",
+    "product choice share"
+  ],
+  "main_findings": [
+    "For products perceived as low-tech, larger (vs. smaller) company size reduced quality evaluations, whereas for products perceived as high-tech, larger size increased quality evaluations; this interaction appeared in secondary data and experiments.",
+    "Evaluating low-tech products increased accessibility of the intrinsic motivation lay theory, while evaluating high-tech products increased accessibility of the financial resources lay theory, and these pathways significantly explained quality judgments.",
+    "In incentive-compatible choices, consumers favored smaller-company products for low-tech options and larger-company products for high-tech options, and interventions that challenged the relevant lay theory shifted quality evaluations in predicted directions."
+  ],
+  "one_line_summary": "Across secondary data and experiments, the paper shows that consumers prefer larger companies for high-tech products but smaller companies for low-tech products because product type shifts reliance between intrinsic-motivation and financial-resources lay theories.",
+  "relation_to_prior_work": "extends prior research on company size cues by showing that their effect on quality evaluations reverses across low-tech and high-tech product contexts. It complements work on market share-quality and warmth-versus-competence inferences by introducing lay-theory accessibility as the mechanism linking company size to quality judgments and choice.",
+  "research_gap": "Prior literature reports mixed and seemingly contradictory links between company size and perceived quality, with no clear account of when larger firms are favored versus penalized. The paper addresses this by testing whether perceived product type explains the direction of the effect and by identifying the underlying lay theories consumers apply.",
+  "research_question": "How do company size metrics influence consumers' quality evaluations and product choices for otherwise similar offerings? Specifically, does perceived product type (low-tech vs. high-tech) determine whether larger or smaller companies are favored, and is this driven by lay theories about employee intrinsic motivation and financial resources for R&D?"
+}

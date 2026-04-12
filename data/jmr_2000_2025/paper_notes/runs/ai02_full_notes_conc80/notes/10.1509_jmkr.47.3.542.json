@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Marketing cues such as savings-message framing and coupon expiration restrictions, and brand familiarity, can independently prime regulatory orientation.",
+    "Regulatory compatibility operates both between consumers' orientation and promotion cues and among multiple cues themselves, affecting shopping behavior.",
+    "Compatibility effects extend beyond the promoted brand to unrelated unpromoted purchases, shown in both laboratory and field settings."
+  ],
+  "context": "The studies are in grocery shopping with coupon promotions. Evidence comes from lab shopping simulations with grocery brands and a field experiment in a neighborhood grocery store near the University of Chicago.",
+  "design_and_data": "Experiment 1 (N = 116 undergraduates) used a 2 x 2 design manipulating induced regulatory focus (hopes vs duties essay) and coupon frame (\"Save $1.50\" vs \"Get $1.50 off\"), then measured basket choices across eight grocery categories under a $100 budget; a lexical decision task assessed activation of ideal- and ought-related constructs. Experiment 2 (N = 95 undergraduates) measured chronic regulatory focus using response-time based ideal-vs-ought accessibility, manipulated coupon expiration horizon (today vs two weeks) on a BOGO offer, and used the same basket-choice task. Experiment 3 was a grocery field experiment (212 shoppers approached, 123 coupon redeemers) manipulating entrance script (promotion vs prevention), coupon frame (\"Save $3\" vs \"Get $3 off\"), and expiration cue (today vs valid all week), with receipt-based item counts; basket composition could not be captured in the field data.",
+  "focal_constructs": [
+    "sales promotion framing",
+    "expiration date restrictions",
+    "regulatory focus",
+    "regulatory compatibility",
+    "shopping basket size",
+    "shopping basket composition",
+    "brand familiarity",
+    "unpromoted purchases"
+  ],
+  "main_findings": [
+    "Coupon framing and temporal restriction cues acted as regulatory primes: gain framing and longer horizons aligned with promotion focus, while nonloss framing and immediate expiry aligned with prevention focus.",
+    "Regulatory compatibility increased overall basket size, with shoppers adding more items when coupon cues matched their promotion/prevention orientation, including in the field study.",
+    "Compatibility also shifted basket composition in lab studies: promotion-compatible cues increased selection of less familiar brands, while prevention-compatible cues increased selection of well-known brands."
+  ],
+  "one_line_summary": "Across two lab experiments and one grocery field study, the paper shows that coupon framing and expiration cues create regulatory compatibility that increases basket size and steers unpromoted brand choices toward compatible brand types.",
+  "relation_to_prior_work": "extends prior sales-promotion and regulatory-focus work by moving from focal promoted-brand outcomes to overall basket size and composition, including unpromoted purchases. It also extends regulatory-fit research by examining compatibility among multiple marketplace cues, not only person-message fit.",
+  "research_gap": "Prior sales-promotion research mostly examined aggregate sales of the promoted brand rather than individual basket-level responses and spillovers to unpromoted items. The authors also identify limited evidence on how multiple marketing cues jointly create regulatory compatibility independent of consumers' preexisting orientation.",
+  "research_question": "How do sales-promotion cues such as savings-message framing and expiration-date restrictions prime promotion versus prevention focus during shopping? Do compatibility effects between shopper regulatory orientation, coupon cues, and brand familiarity change the overall size and composition of the shopping basket, including unpromoted items?"
+}

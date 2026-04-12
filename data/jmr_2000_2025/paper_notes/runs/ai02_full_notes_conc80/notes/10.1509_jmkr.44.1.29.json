@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides a structural modeling and policy-simulation approach to evaluate channel policy changes in a multichannel, multiproduct market.",
+    "Estimates a flexible and institutionally sensible substitution pattern across brands and channels.",
+    "Assesses the economic value of each channel to firms and consumers and quantifies profit and welfare effects of proposed channel changes."
+  ],
+  "context": "The paper studies the U.S. personal computer market in 1995-1998, where major manufacturers sold multiple product lines through six channels (direct outbound, direct inbound, dealer/VAR/SI, retail, Internet, and others). The setting includes both institutional and individual buyers with different channel access and preferences.",
+  "design_and_data": "The authors use manufacturer brand-model level annual prices and unit sales across channels for the top 10 PC manufacturers (74 brands/product lines), which account for 89% of branded sales. They estimate a random coefficients logit demand model for brand-model-channel choice with consumer heterogeneity and instrument for price endogeneity using product characteristics, COMPUSTAT COGS, and component price indices. On the supply side, they model manufacturer Bertrand-Nash pricing across product lines under a manufacturer-led Stackelberg structure with downstream firms in indirect channels following estimable markups, and identify marginal costs and markups using cross-channel sales of the same models with a symmetric model-level marginal-cost assumption. Using estimated demand and pricing parameters, they run counterfactual policy simulations for channel removal, product-line removal/switching/extension, and the HP-Compaq merger with alternative channel restructuring, and compute firm profit and consumer compensating-variation changes.",
+  "focal_constructs": [
+    "economic value of distribution channels",
+    "multichannel multiproduct strategy",
+    "channel-product line matching",
+    "consumer channel preference heterogeneity",
+    "manufacturer and downstream pricing interactions",
+    "profit impact of channel actions",
+    "consumer welfare (compensating variation)",
+    "merger with channel restructuring"
+  ],
+  "main_findings": [
+    "Channels with high historical sales or profits do not necessarily have high economic value to firms.",
+    "Dell's exit from retail and Compaq's move toward direct selling are economically justified, though Compaq's direct moves create substantial losses for downstream partners and require channel relationship management.",
+    "Gateway's retail channel has negative economic value, and switching its retail sales to the Internet improves its profits, consistent with its later actions."
+  ],
+  "one_line_summary": "Using a structural demand-and-pricing model of the 1995-1998 U.S. PC market, the paper simulates channel and product-line reconfiguration to value channels for firms and consumers in profit and welfare terms.",
+  "relation_to_prior_work": "extends structural policy-simulation research by incorporating manufacturer competition across multiple channel types, vertical manufacturer-downstream interactions, and channel-product-line matching that reflect PC market institutions. It also goes beyond standard merger analyses by evaluating merger effects jointly with potential postmerger channel actions.",
+  "research_gap": "Prior channel theory and empirical work offered insights on coordination and vertical relationships but did not enable quantified policy simulations of channel restructuring in multichannel, multiproduct markets. Existing structural channel studies also did not jointly model manufacturer interactions across channel types, product-line-to-channel matching, and downstream behavior in a way suited to the PC market.",
+  "research_question": "How can firms in a multichannel, multiproduct market evaluate the profit and consumer-welfare consequences of changing channel structures and channel-product-line assignments when experiments and historical data are insufficient? In the PC industry, which channels are economically most valuable to each manufacturer and consumers, and what are the effects of actions such as adding, dropping, or switching channels and product lines, including under a major merger?"
+}

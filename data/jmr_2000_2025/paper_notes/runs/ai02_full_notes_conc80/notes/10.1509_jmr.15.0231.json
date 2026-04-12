@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces the emergency reserve concept: predefined, finite slack around a difficult goal that can be used if needed but carries a small cost.",
+    "Shows that emergency reserves can improve both initial preference for goal programs and later persistence, helping with the marketing challenge of signup plus sustained performance.",
+    "Identifies mechanisms: reserve goals are chosen because they combine attainability and value, and they increase persistence because people resist using the emergency reserve."
+  ],
+  "context": "The paper studies consumer goal-program design in domains including weight loss, class performance, and repeated effort tasks (CAPTCHA, spot-the-difference, word search). The managerial setting is programs that seek both consumer adoption and continued effort toward superordinate outcomes.",
+  "design_and_data": "The authors run six experiments on preference and persistence. Studies 1a and 1b (N=100 each, MTurk) test choices among weight-loss goals; Study 2 (N=200, MTurk) manipulates superordinate-goal salience in a class scenario; Study 3 (N=200, MTurk) compares reserve, easy, hard, and range goals in word-search training. Study 4 (N=226 university participants) uses a 7-day incentive-compatible CAPTCHA task with daily pay and a goal bonus; Study 5 (N=601, MTurk) uses spot-the-difference tasks including emergency vs bonus reserves; Study 6 (N=510, MTurk, with 29 excluded after early failures) uses word-search training and a persistence choice to attempt a third practice game. Analyses include multinomial logit, logistic regression, t-tests, chi-square tests, and OLS.",
+  "focal_constructs": [
+    "emergency reserve",
+    "predefined slack with a cost",
+    "goal preference",
+    "goal persistence",
+    "superordinate goal salience",
+    "perceived attainability",
+    "perceived value",
+    "resistance to using the reserve"
+  ],
+  "main_findings": [
+    "Consumers preferred reserve goals over hard goals, and preferred reserve over easy goals when a superordinate goal was salient.",
+    "Compared with easy goals, reserve goals were viewed as similarly attainable but more valuable; compared with hard goals, reserve goals were viewed as more attainable with similar value.",
+    "Across multi-day and lab tasks, reserve-goal participants persisted more than easy, hard, and range-goal participants, and evidence from emergency vs bonus framing showed persistence was driven by avoiding use of the emergency reserve."
+  ],
+  "one_line_summary": "Across six studies, the paper finds that goals with an explicitly labeled emergency reserve - finite slack with a cost - are often preferred and produce greater persistence than hard, easy, and other flexible goals.",
+  "relation_to_prior_work": "extends expectancy-value and goal-setting accounts by showing that adding costly, finite slack to a difficult reference point can jointly support goal attractiveness and attainment beliefs at choice. It also challenges prior work portraying flexibility in goals or mental budgets as generally harmful, by identifying a boundary condition where flexibility with cost improves persistence.",
+  "research_gap": "Marketers need goal programs that are attractive enough to encourage signup but still motivate sustained effort toward difficult outcomes, and prior evidence often suggests flexible goals or accounts can undermine performance. The paper addresses whether a specific form of flexibility with cost - an emergency reserve - can solve this trade-off.",
+  "research_question": "Can a goal that includes an explicit emergency reserve (predefined slack with a small cost) make consumers both more likely to choose the program and more likely to persist in effort? How do these effects compare with hard, easy, and other flexible goals, and are they driven by superordinate-goal salience, perceived attainability and value, and resistance to using the reserve?"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s stated core is an interlocked hypergraph message-passing VAE for user–category–item link prediction, while the cited paper centers on CNN-LSTM attribute sentiment extraction and structural imputation for Yelp review silence—topics that appear only loosely related from the notes. The matched evidence is just one DOI-level reference with no in-text citation context or described direct methodological reuse. Given this sparse evidence, it is not safe to confidently drop as obvious mention-only, but importance is also not clearly established.",
+  "triage_decision": "uncertain"
+}

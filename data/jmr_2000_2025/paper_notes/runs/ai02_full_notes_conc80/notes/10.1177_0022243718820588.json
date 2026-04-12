@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides evidence of the financial accountability of branded mobile apps by linking app launch announcements to firm value in the stock market.",
+    "Shows that branded app design, conceptualized as customer-journey touchpoint emphasis (social, personal, transaction), is a key boundary condition for value creation.",
+    "Demonstrates that the value implications of app launches and design features shift across DSMM evolution periods."
+  ],
+  "context": "The study examines publicly traded firms launching branded mobile apps in the broader digital, social, and mobile marketing environment. It frames apps as omnichannel customer-journey touchpoints spanning prepurchase, purchase, and postpurchase phases.",
+  "design_and_data": "Data include 597 app launch announcements (2008-2014) from major newspapers and wire services, with a final analyzable sample of 455 announcements after data and identification filters. Firm value is measured with event-study abnormal returns and cumulative abnormal returns using a Fama-French four-factor model around announcement dates. App design features were coded from announcement text by two independent coders (inter-rater reliability 82%-99%) into social-oriented, personal-oriented, and transaction-oriented categories, then converted to feature-share measures. To address selection concerns, the authors use 1:1 propensity score matching to non-launch firms and estimate difference models, with a Heckman two-stage model reported as an additional check.",
+  "focal_constructs": [
+    "branded mobile app launch announcements",
+    "firm value",
+    "abnormal stock returns",
+    "social-oriented app design features",
+    "personal-oriented app design features",
+    "transaction-oriented app design features",
+    "customer journey touchpoints",
+    "DSMM era evolution"
+  ],
+  "main_findings": [
+    "Branded mobile app launch announcements generate positive abnormal stock returns, including significant CARs of 0.37% for window (0,1) and 0.44% for window (-1,1).",
+    "The positive launch effect is stronger when app design emphasizes social-oriented features and weaker when it emphasizes transaction-oriented features.",
+    "The average launch effect is smaller in the later DSMM era, and the negative moderation from transaction-oriented emphasis attenuates over time, while the social-oriented moderation does not significantly change across eras."
+  ],
+  "one_line_summary": "Using an event study of branded mobile app launch announcements, the paper finds positive stock-market value effects that vary systematically with app design features and digital era.",
+  "relation_to_prior_work": "extends prior mobile-app research centered on adoption and usage by examining firm-level financial value consequences of app launches. It also extends customer-journey and omnichannel work by showing that different app touchpoint emphases have different value implications, and that these implications vary by DSMM era.",
+  "research_gap": "Prior work mostly examined drivers of app adoption and usage, leaving limited evidence on the financial accountability of branded apps. The paper states that no integrated study had tested whether branded mobile apps create firm value and how app design choices alter that value.",
+  "research_question": "Do branded mobile app launch announcements increase firm value as reflected in abnormal stock returns? How do app design emphases on social-oriented, personal-oriented, and transaction-oriented touchpoints in the customer journey moderate this effect, and do these effects shift between earlier and later DSMM eras?"
+}

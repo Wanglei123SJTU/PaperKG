@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper quantifies how assuming rational expectations and Bayesian updating affects inferred search costs, and shows Bayesian updating is a safer assumption when heterogeneous prior beliefs are accounted for.",
+    "By eliciting full belief distributions, the paper quantifies the relative importance of prior expected prices versus prior uncertainty for search cost estimation and argues that expected-price elicitation can be sufficient for aggregate search-cost inference when consumers are reasonably informed about price dispersion.",
+    "The paper quantifies managerial gains from third-degree price discrimination based on heterogeneity in prior beliefs and observable characteristics, independent of willingness to pay."
+  ],
+  "context": "The study examines sequential price search for a homogeneous product, a KitchenAid Artisan 5-Quart mixer, in a U.S. consumer setting. Participants search across hypothetical sellers and decide whether to continue searching or purchase at the current lowest observed price.",
+  "design_and_data": "The authors first run Monte Carlo simulations under a sequential-search model to study bias in search-cost estimation under alternative belief assumptions. They then conduct an incentive-aligned online experiment with a nationally representative Lightspeed panel: 300 completed responses, 281 used after dropping invariant responders. Each participant reports prior beliefs, sees four exogenously assigned price-search scenarios, reports posterior beliefs after each scenario, and makes stop/continue search decisions under monetary incentives (binarized scoring rule for beliefs and search-cost/reward trade-offs for choices). The authors estimate individual belief distributions from elicited quantiles and compare search-cost distributions across assumptions about rational expectations, Bayesian updating, and belief heterogeneity, and then run a belief-based segmentation pricing exercise.",
+  "focal_constructs": [
+    "consumer search",
+    "sequential search",
+    "price beliefs",
+    "prior expected price",
+    "prior price uncertainty",
+    "Bayesian updating",
+    "rational expectations",
+    "search costs"
+  ],
+  "main_findings": [
+    "Participants show substantial heterogeneity in prior expected prices and prior uncertainty, and they update beliefs after search outcomes but underreact relative to Bayesian updating.",
+    "Assuming rational expectations or Bayesian updating with informative priors overestimates search costs, but after accounting for heterogeneous elicited priors, assuming Bayesian updating does not significantly bias the aggregate search-cost distribution.",
+    "Heterogeneity in prior expected prices is much more important than heterogeneity in prior uncertainty for aggregate search-cost inference, and belief-based third-degree price discrimination raises profits by 6.4% with observed beliefs and by 4.0% using observable-variable proxy segments."
+  ],
+  "one_line_summary": "Using Monte Carlo analysis and an incentive-aligned U.S. online search experiment, the paper shows that heterogeneous prior price beliefs are crucial for unbiased search-cost inference and can be used for profitable belief-based price discrimination.",
+  "relation_to_prior_work": "extends prior consumer-search work that relies on rational expectations or informative priors by directly eliciting prior and posterior price-belief distributions in sequential price search, quantifying the bias from standard assumptions, and adding a belief-based price-discrimination application.",
+  "research_gap": "Because beliefs are usually unobserved, empirical search studies often impose rational expectations or Bayesian updating with informative priors, but the paper notes little evidence on how these assumptions distort estimated search costs. The paper also identifies an unresolved practical issue: whether measuring heterogeneous prior beliefs, and which components of those beliefs, materially improves inference and pricing decisions.",
+  "research_question": "How do common assumptions about beliefs in search models, especially rational expectations and Bayesian updating with informative priors, affect inferred consumer search costs when true beliefs are heterogeneous? How important are heterogeneity in prior expected prices versus prior uncertainty for estimating the distribution of search costs? Can retailers increase profits by segmenting prices using heterogeneity in prior beliefs?"
+}

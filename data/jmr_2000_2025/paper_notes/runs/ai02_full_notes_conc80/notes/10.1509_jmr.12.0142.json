@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Moves punishment research in marketing channels beyond a dyadic manufacturer-distributor lens to a network-level observer perspective.",
+    "Develops and empirically tests a dual-process framework in which punishment affects observers through direct deterrence (severity) and a trust-building path (fairness -> trust -> lower opportunism).",
+    "Shows that two information-related network conditions shape observer effects in opposite ways: disciplined distributor relational embeddedness dampens effects, while manufacturer monitoring capability amplifies fairness-based trust effects."
+  ],
+  "context": "The study is set in manufacturer-distributor channel networks in China, where punishment is commonly used and distributor ties are often socially embedded (guanxi). Empirical data come from household electronics, cosmetics and personal care, and furniture distribution industries.",
+  "design_and_data": "The paper uses a cross-sectional survey of distributors in China who recalled a punishment incident in the prior year in which their largest collaborating manufacturer punished another distributor. Researchers sampled firms at three major national trade fairs across three industries, approached 450 distributors, and obtained 172 usable responses (38.2%). Senior managers were key informants, measures were adapted from prior scales, and construct validity was assessed with confirmatory factor analysis. Hypotheses were tested with hierarchical moderated regressions including two-way and three-way interactions plus controls.",
+  "focal_constructs": [
+    "observer effects of punishment",
+    "punishment severity",
+    "punishment fairness",
+    "observer trust in the manufacturer",
+    "observer ex post opportunism",
+    "disciplined distributor relational embeddedness",
+    "manufacturer monitoring capability"
+  ],
+  "main_findings": [
+    "Observers' perceived punishment severity is negatively associated with their ex post opportunism.",
+    "Observers' perceived punishment fairness increases trust in the manufacturer, and observer trust reduces ex post opportunism.",
+    "Distributor embeddedness weakens punishment effects (including a marginal weakening of severity's deterrence), while manufacturer monitoring capability strengthens the fairness-to-trust link and this strengthening is greater when punishment severity is high; monitoring did not significantly strengthen the severity-to-opportunism link."
+  ],
+  "one_line_summary": "Using survey data from Chinese distributors, the paper finds that punishing one distributor can reduce other distributors' opportunism through severity-based deterrence and fairness-based trust, with effects contingent on distributor embeddedness and manufacturer monitoring capability.",
+  "relation_to_prior_work": "extends prior marketing channel punishment work that focused on dyadic actor outcomes by modeling network spillovers on observing distributors and by integrating social learning, fairness heuristic, and social network perspectives.",
+  "research_gap": "Prior channel punishment research largely used a bilateral dyadic perspective and provided limited evidence on how punishment deters opportunism. The paper identifies limited understanding of how punishment spills over to observing distributors in an interdependent channel network.",
+  "research_question": "How does a manufacturer's punishment of one distributor influence other distributors in the network, especially their ex post opportunism? Through what mechanisms (deterrence and fairness-based trust) and under what network information conditions (disciplined distributor embeddedness and manufacturer monitoring capability) are these observer effects stronger or weaker?"
+}

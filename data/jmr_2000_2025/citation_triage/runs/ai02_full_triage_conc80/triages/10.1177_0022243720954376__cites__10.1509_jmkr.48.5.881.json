@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s core method is an integrated CTM-HMM on search-query text for path-to-purchase inference, while the cited paper focuses on mining online reviews for attribute-based market-structure analysis, so the overlap appears thematic (marketing text analytics) rather than obviously direct. With only a DOI-level matched reference and no in-text citation context, there is insufficient evidence to confidently label this as purely incidental or clearly substantive. Given the sparse evidence, this pair is best marked uncertain.",
+  "triage_decision": "uncertain"
+}

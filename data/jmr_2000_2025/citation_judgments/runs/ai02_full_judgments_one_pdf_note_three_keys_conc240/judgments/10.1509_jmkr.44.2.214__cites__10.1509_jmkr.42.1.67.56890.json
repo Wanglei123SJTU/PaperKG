@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Ding, Grewal, and Liechty (2005) as a key prior result to motivate why incentive alignment matters in conjoint, explicitly citing its finding that incentive-aligned choice conjoint outperforms hypothetical conjoint in out-of-sample prediction. It then designs its empirical objectives partly around that study, attempting to generalize and compare patterns (e.g., hypothetical bias and price sensitivity) in a new product domain. The cited work is therefore not a passing background mention; it meaningfully anchors framing, benchmarking, and interpretation in the citing paper.",
+  "relation_description": "The 2007 paper builds directly on Ding et al. (2005) by extending the same research stream from prior empirical evidence of incentive-aligned conjoint to a new mechanism-design-based truth-telling mechanism and testing it in a different context (iPod packages). It positions its contribution as improving practical implementability while carrying forward and generalizing the earlier external-validity findings.",
+  "relation_type": "extends"
+}

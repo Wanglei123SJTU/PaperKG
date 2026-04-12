@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a Bayesian latent instrumental variables approach for paid search that addresses endogenous ad position in both click-through and conversion equations without requiring observed instruments.",
+    "It provides a keyword-level conversion measurement framework for sparse daily data that uses shrinkage to infer conversion rates even for keywords with few or zero observed conversions.",
+    "It claims a substantive and managerial contribution by showing position-driven conversion effects and demonstrating that model-based keyword list management outperforms commonly used status quo and model-free rules."
+  ],
+  "context": "This study examines a paid search campaign for a major regional lodging chain advertising on Google. The unit of analysis is the daily keyword, with performance measured by impressions, clicks, position, CPC, and hotel reservations.",
+  "design_and_data": "The authors use one quarter of keyword-level daily data (April-June 2004) for 301 keywords from a lodging advertiser. Google provided impressions, clicks, average position, and CPC, and a third-party provider supplied keyword-level daily reservations (conversions). They estimate Bayesian hierarchical click-through and conversion logits linked by correlated errors and compare four specifications: no endogeneity correction, a Ghose-Yang style simultaneous-equations model, observed IV (lagged position/CPC/CTR), and a latent instrumental variables model. April data are used for estimation (2,281,023 impressions, 14,302 clicks, 518 reservations) and May-June for holdout evaluation (2,983,085 impressions, 38,878 clicks, 1,348 reservations).",
+  "focal_constructs": [
+    "paid search keyword conversion",
+    "click-through probability",
+    "sponsored ad position",
+    "position endogeneity",
+    "latent instrumental variables",
+    "Bayesian shrinkage estimation",
+    "keyword list management"
+  ],
+  "main_findings": [
+    "After correcting endogeneity with LIV, higher ad positions significantly increase both click-through and conversion probabilities, and models that ignore endogeneity overstate position effects.",
+    "A 10 percent improvement in position increases expected clicks by about 7 percent and expected conversions (holding clicks constant) by about 12 percent; roughly 35 percent of added conversions comes from more clicks and 65 percent from higher conversion rates.",
+    "In holdout data, keyword lists selected from LIV-estimated conversion rates outperform the status quo full list and model-free lists based on observed conversion or CTR, with about a 4 percent implied profit gain versus status quo."
+  ],
+  "one_line_summary": "A Bayesian latent-instrument model of daily keyword-level paid search data for a lodging chain corrects ad-position endogeneity, estimates sparse keyword conversion rates, and improves holdout keyword list performance.",
+  "relation_to_prior_work": "extends prior paid search performance modeling, especially simultaneous-equations approaches such as Ghose and Yang (2009), by using latent rather than observed instruments to handle position endogeneity under sparse daily data and by evaluating keyword management with holdout performance.",
+  "research_gap": "Existing keyword-level paid search evaluation is either ad hoc/aggregated or relies on simultaneous equations that treat CPC as exogenous or use problematic instruments. With daily data, sparse clicks/conversions, missing competitive bids, and average-position/CPC measurement error make position endogeneity hard to handle and conversion rates hard to estimate for long-tail keywords.",
+  "research_question": "How can an advertiser estimate daily conversion performance for individual paid-search keywords when clicks and conversions are sparse and many observed conversion rates are zero? Can a model that jointly handles click-through and conversion while correcting endogenous ad position improve inference and produce better keyword list decisions?"
+}

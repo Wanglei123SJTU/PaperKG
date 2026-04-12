@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The editorial develops a conceptual discussion of why both media source and data modality matter for interpreting marketing messages and multimedia data.",
+    "It maps prior and special-issue research by combinations of one vs multiple media sources and one vs multiple modalities, highlighting the current state of the literature.",
+    "It outlines a research agenda by identifying methodological implications across data gathering, analysis, and interpretation, and by surfacing substantive opportunities and challenges such as sentiment targeting, location-sensitive targeting, connected devices, and privacy."
+  ],
+  "context": "The paper is set in contemporary marketing environments where firms and researchers can access text, image, audio, and video data from sources such as social media platforms, online reviews, digital advertising, and connected devices. It focuses on how these multimedia data are used to generate marketing insights.",
+  "design_and_data": "This is an editorial and conceptual synthesis, not an original empirical study. The authors review and integrate prior literature plus papers in the JMR multimedia special issue, including a table classifying articles by number of media sources and modalities. The discussion is organized into theoretical implications (medium vs modality), methodological implications (data gathering, analysis, interpretation), and substantive challenges/opportunities. No single new sample, experiment, or identification strategy is introduced in this paper.",
+  "focal_constructs": [
+    "multimedia data",
+    "media source",
+    "data modality",
+    "media richness",
+    "multimodal processing",
+    "data integration across modalities",
+    "machine learning and NLP for unstructured data",
+    "consumer privacy risk"
+  ],
+  "main_findings": [
+    "Both the communication medium and the data modality are consequential for message effectiveness, data structure, and interpretation, so analyses should account for both explicitly.",
+    "Combining data across media sources and modalities can provide complementary evidence and stronger triangulation, but it raises substantial methodological challenges in preprocessing, fusion, and interpretability.",
+    "Multimedia data materially increase privacy and disclosure risks, especially when modalities are combined, and current privacy-preserving methods are less mature for unstructured data such as text, images, and video."
+  ],
+  "one_line_summary": "This editorial argues that marketing research should explicitly model both media source and modality when analyzing multimedia data and outlines the resulting methodological opportunities, substantive applications, and privacy challenges.",
+  "relation_to_prior_work": "synthesizes prior work on media richness, multimodal cognition, and emerging analytics methods, and organizes it into a unified perspective for marketing multimedia data research.",
+  "research_gap": "The authors state that marketing has only begun to address the theoretical and methodological challenges of multimedia data despite their growing availability and potential. In particular, the literature lacks integrated guidance on jointly handling multiple media sources and multiple modalities in marketing analysis.",
+  "research_question": "How should marketing researchers conceptualize and analyze multimedia data when messages and observations come from different media sources and modalities? What methodological approaches and substantive research directions are needed to leverage these data while addressing issues such as interpretability and privacy?"
+}

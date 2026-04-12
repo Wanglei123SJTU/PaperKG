@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used as a core methodological predecessor, not just as background. The 2015 article reuses the earlier item randomized response framework in its formal model development (including treatment of RR nonadherence) and repeatedly references the 2010 between-subject design as the starting point. It then introduces a new dual-questioning repeated-measures design to overcome that prior design's inability to estimate individual-level under/overreporting, which makes the citation function clearly substantive.",
+  "relation_description": "The citing paper directly builds on De Jong, Pieters, and Fox (2010) by extending item randomized response modeling from a between-subject setup to a dual-questioning within-subject design. This extension enables respondent-level under- and overreporting estimates and adds explicit modeling of privacy-loss and response-mode inertia effects.",
+  "relation_type": "extends"
+}

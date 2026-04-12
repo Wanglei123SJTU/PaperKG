@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides evidence that processing disfluency can increase expected service value through attributions of agent effort and competence.",
+    "It identifies boundary conditions for the disfluency-competence effect, showing attenuation when subjective experience is less diagnostic or less used (e.g., salient incompetence cues, low power).",
+    "It examines downstream effects after service delivery and shows that pre-service disfluency can reduce experienced value by raising comparison standards and increasing negative disconfirmation."
+  ],
+  "context": "The paper studies consumer judgments of service agents across several service settings, including graduate school coaching, dry cleaning, a social media speaker event, financial advising, and an online GMAT prep course. The focus is on pre-consumption evaluations and, in one study, post-consumption evaluations after an identical service experience.",
+  "design_and_data": "The authors report four experiments (plus one short follow-up) using manipulated processing fluency in written service descriptions, mainly with undergraduate participants and one online panel sample. Study 1 (N = 71) manipulates fluency via font contrast and measures willingness to pay, expected value, task effort, and competence; a follow-up (N = 40) in dry cleaning manipulates font type. Study 2 (N = 134) uses a 2 x 2 between-subjects design crossing fluency (font size) with age-based competence stereotype cues and includes behavioral intention (providing email contact). Study 3 (N = 71) crosses fluency with a power prime (anagram task), and Study 4 (N = 44 plus additional between-subject conditions n = 41) compares expected versus experienced value and competence before and after watching the same GMAT-course video.",
+  "focal_constructs": [
+    "processing fluency/disfluency",
+    "subjective effort",
+    "perceived task difficulty",
+    "agent competence perceptions",
+    "expected service value",
+    "psychological power",
+    "competence stereotypes",
+    "experienced value and expectation disconfirmation"
+  ],
+  "main_findings": [
+    "Disfluent (vs. fluent) service information increased willingness to pay and expected service value, and this effect operated through higher inferred task effort and agent competence.",
+    "The positive disfluency effect on competence and expected value was attenuated or eliminated when incompetence cues were salient (elderly stereotype) and for participants primed with low power.",
+    "Before consumption, disfluency raised expected competence and value, but after an identical service encounter it produced lower experienced value (and lower or marginally lower competence), consistent with stronger negative disconfirmation."
+  ],
+  "one_line_summary": "Across four service experiments, moderately disfluent service information increased expected value by signaling greater agent effort and competence, but this effect weakened under incompetence cues or low power and could reverse after service experience.",
+  "relation_to_prior_work": "extends prior processing-fluency research by identifying a competence-inference pathway in service agency settings, rather than only affective liking or effort-avoidance effects. It also extends Song and Schwarz (2008) by showing that inferred task effort can increase value when consumers outsource tasks to agents, and it adds post-consumption evidence where disfluency can backfire.",
+  "research_gap": "Prior fluency research largely emphasizes positive effects of ease or shows disfluency effects in product/goal contexts, but it had not clearly established whether disfluency can enhance evaluations of service agents via competence inferences. The paper also notes that little was known about how pre-consumption fluency manipulations affect post-consumption value judgments.",
+  "research_question": "Does processing disfluency in service information make consumers infer greater task effort and agent competence, thereby increasing expected service value? Under what conditions is this effect stronger or weaker, and how does pre-service disfluency affect experienced value after actual service consumption?"
+}

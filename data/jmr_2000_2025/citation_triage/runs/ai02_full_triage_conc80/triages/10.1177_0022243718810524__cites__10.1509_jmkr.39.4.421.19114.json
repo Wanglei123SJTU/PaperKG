@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is on dynamic effects of **price promotions** using store-level VAR/impulse-response decomposition, while the citing paper’s core contribution is a **Bayesian nonparametric state-space estimation framework** for advertising dynamics with particle filters. With only a single DOI match and no in-text citation context, there is topical overlap at a broad “marketing dynamics” level but no clear evidence yet of substantive method/theory dependence versus background mention.",
+  "triage_decision": "uncertain"
+}

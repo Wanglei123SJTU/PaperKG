@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides a firsthand account of JMR's editorial role as an eclectic, applied, problem-solving outlet within marketing.",
+    "Describes a then-novel collaborative-filtering reviewer assignment system that mapped scholars, topics, and methods in a latent space to improve manuscript-reviewer matching.",
+    "Offers an explicit call for JMR to preserve practical marketplace relevance and avoid fragmentation of marketing into isolated basic-discipline silos."
+  ],
+  "context": "The article is an editorial reflection on the Journal of Marketing Research, centered on the author's tenure as editor from 2000 to 2003 and his broader service on marketing journals. The setting is academic marketing publishing, including peer review operations and JMR's positioning relative to JM, JCR, and Marketing Science.",
+  "design_and_data": "This is a perspective essay, not a formal hypothesis-testing study. The evidence is the author's experiential account of running JMR's review process and publication pipeline. He reports creating a reviewer-matching algorithm using reviewer self-classified expertise across topics, paradigms, and methods, plus author manuscript classifications, but the article does not present formal validation tests or statistical analyses of that system.",
+  "focal_constructs": [
+    "marketing as technology versus science",
+    "journal positioning in marketing",
+    "peer reviewer assignment",
+    "collaborative filtering for editorial matching",
+    "anonymous peer review",
+    "editorial pipeline management",
+    "rigor versus practical relevance",
+    "balkanization of marketing"
+  ],
+  "main_findings": [
+    "Editors can direct review flow, but authors and reviewers largely determine a journal's substantive direction.",
+    "A latent-space reviewer affinity system helped match manuscripts to reviewers more appropriately than relying only on editor memory.",
+    "The author states that many JMR articles during his tenure addressed practical marketing problems and that some were adopted in marketing research and consulting practice."
+  ],
+  "one_line_summary": "Based on his JMR editorship, Kamakura argues that JMR should remain a rigorous but practice-relevant marketing technology journal and recounts process innovations he used to manage peer review.",
+  "relation_to_prior_work": "",
+  "research_gap": "The essay identifies a growing gap between academically rigorous marketing research and practical marketplace problem solving. It argues that increasing basic-discipline orientation in doctoral training risks reducing applied relevance, which JMR should counterbalance.",
+  "research_question": "What role should JMR play in marketing as an applied discipline, and what can an editor realistically influence in journal content? The article also asks, from an editorial practice perspective, how reviewer matching and pipeline management support rigorous and relevant publication decisions."
+}

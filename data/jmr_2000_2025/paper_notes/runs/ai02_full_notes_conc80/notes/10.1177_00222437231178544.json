@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Identifies expectations of category innovativeness as a key boundary condition for the older-brand advantage, showing that dominance of older brands declines as expected category innovativeness increases.",
+    "Provides a process account in which category innovativeness shifts the weight consumers place from consistency-related traits to excitement-related traits, and links this to age-stereotype-based brand personality impressions of older versus younger brands.",
+    "Shows two moderators of this effect: familiarity with the older brand attenuates the category-innovativeness effect, and consumers' need for uniqueness increases preference for younger brands regardless of category innovativeness."
+  ],
+  "context": "The paper examines consumer brand choice across product categories that differ in perceived pace of change, including tea, chocolates, suitcases, vacuum cleaners, and VR headsets. Evidence combines Amazon marketplace sales data with online experiments using U.S. consumers.",
+  "design_and_data": "The paper reports one secondary-data analysis and seven experiments. Study 1 uses AMZScout/Amazon Best Sellers data from the top 100 items in each of 30 categories, combined with a MTurk-based category innovativeness measure and manually collected brand establishment years; the final analysis sample is 1,436 brand-product/model observations. The authors estimate regressions of standardized estimated sales on brand age, category innovativeness, and their interaction, with controls such as price, reviews, and ratings. Studies 2a-5 (including 2a/2b/2c and 3a/3b) use U.S. MTurk or Prolific participants making forced choices between older and younger brands, with manipulations or measured variation in category innovativeness, and tests of mediation and moderation.",
+  "focal_constructs": [
+    "brand age (year of establishment)",
+    "expectations of category innovativeness",
+    "older vs younger brand choice",
+    "consistency-related brand traits",
+    "excitement-related brand traits",
+    "age-stereotype-based brand personality impressions",
+    "familiarity with the older brand",
+    "need for uniqueness"
+  ],
+  "main_findings": [
+    "In Amazon data across 30 categories, the interaction between category innovativeness and brand age showed that the sales advantage of older brands weakened as category innovativeness increased, including in models with controls.",
+    "Across multiple experiments, consumers preferred older brands more in low-innovativeness settings, but this preference decreased and could reverse toward younger brands in high-innovativeness settings.",
+    "The effect was mediated by a shift in trait importance (less consistency, more excitement at higher innovativeness), and it was attenuated when the older brand was familiar and by consumers' need for uniqueness, which increased preference for younger brands regardless of category innovativeness."
+  ],
+  "one_line_summary": "Across Amazon sales data and seven experiments, the paper shows that higher expected category innovativeness weakens and can reverse consumers' preference for older brands by shifting valued traits from consistency to excitement, with moderation by older-brand familiarity and need for uniqueness.",
+  "relation_to_prior_work": "challenges prior brand-age findings of a mostly uniform preference for older brands by demonstrating a contingent effect based on expected category innovativeness. It also connects brand-age effects to age-stereotype and brand-personality reasoning to explain when younger brands gain an advantage.",
+  "research_gap": "Prior research on brand age and brand heritage is limited and mainly documents an advantage for older brands, with little clarity on when that advantage weakens or reverses in consumer choice. The paper addresses the lack of evidence and mechanism linking brand-age effects to consumers' expectations about category innovativeness.",
+  "research_question": "How do consumers' expectations of category innovativeness affect preference for older versus younger brands? The paper also asks whether this effect is explained by changing importance of consistency versus excitement brand traits and whether it is moderated by familiarity with the older brand and consumers' need for uniqueness."
+}

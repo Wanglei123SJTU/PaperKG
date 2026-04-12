@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops a context-effects framework for how economy and premium private-label tier introductions affect incumbent mainstream- and premium-quality national brands and the retailer's existing private labels.",
+    "It studies an underexplored issue in prior empirical work by examining economy and premium private-label introductions rather than only standard private-label entry.",
+    "It tests these effects in a real-world natural experiment using Asda and Sainsbury introductions in U.K. corn flakes and canned soup with brand choice models that incorporate compromise, similarity, and attraction effects."
+  ],
+  "context": "The study is set in U.K. grocery retailing, focusing on Asda and Sainsbury as they expanded to three-tier private-label portfolios. The focal categories are corn flakes and canned soup.",
+  "design_and_data": "The authors use a natural experiment based on staggered economy and premium private-label launches by Asda and Sainsbury. They analyze Europanel household scanner data for 676 weeks (December 1993 to December 2006), with purchases aggregated to brand level and linked to prices, promotions, assortments, and advertising. After panel-presence and purchase-frequency filters, the estimation samples include 1,664 households (corn flakes) and 1,377 households (canned soup), split into calibration and validation sets. Brand choice is modeled with a mixed multinomial logit with random coefficients and context-effect step variables, controlling for last purchase, price, promotion depth, assortment, advertising, consumer confidence, and intercept shifts for an other-brands aggregate.",
+  "focal_constructs": [
+    "three-tier private-label portfolios",
+    "economy private-label introduction",
+    "premium private-label introduction",
+    "standard private-label cannibalization",
+    "national brand choice",
+    "compromise effect",
+    "similarity effect",
+    "attraction effect"
+  ],
+  "main_findings": [
+    "Both economy and premium private-label introductions cannibalize incumbent private labels, and premium-tier entry particularly hurts incumbent economy and standard private labels.",
+    "Economy private-label entry creates a positive compromise effect that raises mainstream-quality national-brand utility/share, even as standard private labels lose share due to stronger negative brand-type similarity effects.",
+    "Premium private-label entry has mixed effects on premium-quality national brands, with gains in two cases and declines in two others, reflecting offsetting attraction and quality-tier similarity forces."
+  ],
+  "one_line_summary": "Using a U.K. natural experiment in two grocery categories, the paper shows that adding economy and premium private-label tiers mainly cannibalizes incumbent private labels, while economy-tier entry can help mainstream national brands and premium-tier effects on premium national brands are mixed.",
+  "relation_to_prior_work": "extends prior private-label entry research that mainly examined standard private-label introductions by analyzing economy and premium tier introductions. It applies a context-effects lens to explain differential impacts on incumbent private labels and national brands.",
+  "research_gap": "Prior studies had provided initial evidence on standard private-label entry effects, but the effects of economy and premium private-label introductions on brand choice had not been examined. The paper addresses this missing evidence on how new private-label tiers reshape choice among incumbent private labels and national brands.",
+  "research_question": "How does introducing economy and premium private-label tiers change consumer brand choice among incumbent standard private labels and national brands? Which context effects - compromise, similarity, and attraction across quality-tier and brand-type dimensions - explain the resulting share shifts?"
+}

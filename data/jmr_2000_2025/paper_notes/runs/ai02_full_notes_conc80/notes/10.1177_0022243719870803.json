@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops a spatial competition model with two differentiation dimensions (brand taste and content overlap) that explicitly allows consumer multiproduct purchase.",
+    "Fills a gap in multihoming theory by jointly modeling downstream distributors' endogenous content-acquisition and pricing decisions with an upstream creator's endogenous content-selling and content-production choices.",
+    "Provides theory-based conditions for when exclusive content deals arise and when consumer multipurchase helps or hurts the profits of the content creator and distributors."
+  ],
+  "context": "The paper studies information-content markets in which consumers can subscribe to multiple competing providers, such as video streaming platforms (e.g., Netflix and Hulu), newspapers, and academic journal databases. The setting features an upstream content creator that sells new content to two competing downstream distributors.",
+  "design_and_data": "The core evidence is analytical: a game-theoretic Hotelling-style model with two downstream distributors and one upstream content creator, solved by backward induction under benchmark single-product purchase and core multiproduct purchase. Consumers are uniformly distributed by brand preference, distributors differ by unique versus overlapping content, and the creator sells new content via a fixed-fee contract; an extension endogenizes new content quantity with quadratic production cost. The paper derives equilibrium pricing, acquisition, selling, production, and profit outcomes and reports robustness checks (in supplements) for alternative assumptions such as asymmetric distributors, constant post-acquisition prices, valuation correlation/bundling, and multiple creators. It also reports descriptive survey and platform-content-overlap facts as motivation and face validity (e.g., US MTurk survey with 167 participants), not as causal identification.",
+  "focal_constructs": [
+    "consumer multiproduct purchase",
+    "multihoming",
+    "content acquisition",
+    "exclusive distribution",
+    "content differentiation",
+    "upstream content production",
+    "downstream pricing competition",
+    "fixed-fee content licensing"
+  ],
+  "main_findings": [
+    "Under consumer multiproduct purchase, equilibrium content acquisition is exclusive: at most one distributor buys the creator's new content, and the creator optimally prices to induce exactly one buyer.",
+    "Relative to single-product purchase, equilibrium distributor prices are lower in the relevant region where some consumers subscribe to both distributors.",
+    "When distributors are not highly differentiated, multiproduct purchase leads the creator to reduce content production and lowers profits for both creator and distributors; when distributors are sufficiently differentiated, it increases creator production and raises profits for both sides."
+  ],
+  "one_line_summary": "Using a Hotelling-style model of two distributors and one upstream creator, the paper shows that consumer multipurchase makes exclusive content acquisition the equilibrium and shifts content production and profits depending on distributors' content differentiation.",
+  "relation_to_prior_work": "extends prior multihoming models by endogenizing downstream content acquisition and upstream content selling/production in the same framework. It also extends media-content competition theory by showing how consumer multipurchase changes exclusivity outcomes and profit implications relative to standard single-purchase assumptions.",
+  "research_gap": "Existing theoretical models in marketing and economics typically assume each consumer buys at most one competing product. The multihoming literature has largely not incorporated platforms' content-acquisition decisions together with the upstream creator's endogenous pricing and production of new content.",
+  "research_question": "How does consumer multiproduct purchase change competition between two content distributors in pricing and new-content acquisition? How does it alter an upstream content creator's optimal selling strategy and incentives to produce new content, and what are the resulting profit effects for both levels of the market?"
+}

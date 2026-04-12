@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides evidence in sequentially distributed new products that advertising can wear in, advertising returns can still diminish, and WOM impact can rise across stages.",
+    "It develops a Bayesian dynamic linear modeling framework that jointly captures ad-WOM interdependence, cross-stage spillover, and cross-product heterogeneity in dynamic effectiveness.",
+    "It offers managerially actionable ad allocation guidance within and across stages and argues that the framework can generalize beyond movies to other windowed industries."
+  ],
+  "context": "The empirical setting is U.S. motion pictures released sequentially from theaters to home video (rental and retail). The study focuses on theater and video stages because they generate most revenues and involve separate ad campaigns.",
+  "design_and_data": "The authors estimate a Bayesian state-space dynamic linear model that links weekly log revenue to a latent goodwill stock driven by advertising and online WOM. The model allows time-varying ad and WOM effectiveness, stage-specific forgetting and wear-in/wear-out, ad-WOM interdependence, product heterogeneity, and goodwill spillover from theater to video. Data include a random sample of 360 films, with weekly theatrical revenues for the first 10 theater weeks and weekly video revenues for the first 8 video weeks, weekly ad spending from Kantar Media, and WOM volume/valence from Yahoo Movies and IMDb. Parameters are estimated via Kalman filtering/smoothing nested within MCMC Gibbs sampling, with Hollywood Stock Exchange data used to inform prerelease goodwill evolution.",
+  "focal_constructs": [
+    "sequential distribution",
+    "dynamic advertising effectiveness",
+    "dynamic WOM effectiveness",
+    "goodwill stock",
+    "advertising wear-in and wear-out",
+    "ad-WOM interdependence",
+    "cross-stage spillover",
+    "product heterogeneity"
+  ],
+  "main_findings": [
+    "Advertising and WOM both affect demand dynamically, and these effects differ across theater and video stages.",
+    "Repeated advertising wears in at the theater stage but wears out at the video stage, while higher WOM activity lowers WOM effectiveness at theater but raises it at video.",
+    "Counterfactual reallocations suggest many films could increase revenues by changing ad timing, with reported gains of about 1%-15% in theater and 1%-16% in video, and up to 1%-18% when theater and video budgets are jointly allocated."
+  ],
+  "one_line_summary": "The paper builds and estimates a Bayesian dynamic model of movie theater-to-video demand showing that advertising and online WOM effectiveness evolve and interact differently across stages, with implications for ad budget reallocation.",
+  "relation_to_prior_work": "extends prior work on sequential distribution and communication effects by modeling advertising and WOM jointly across stages instead of in a single stage. It also combines dynamic effectiveness, cross-stage spillover, and product heterogeneity in one framework.",
+  "research_gap": "Prior sequential distribution research emphasized release timing and pricing, and movie advertising studies typically examined either theater or video in isolation. The paper argues that multistage dynamics of advertising and WOM, including their interdependence and spillover across stages, are largely understudied.",
+  "research_question": "How do advertising and WOM effectiveness fluctuate within and across sequential distribution stages for new products, and how do these two communication channels interact in driving demand? The paper also asks whether accounting for these dynamics, cross-stage spillover, and product heterogeneity can improve advertising budget allocation."
+}

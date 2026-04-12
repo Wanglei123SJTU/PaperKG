@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Empirically examines the interactions among FGC, UGC, and sales using social media tweet data that firms can observe.",
+    "Identifies the mechanism linking FGC to box-office revenue by showing a positive indirect ripple effect through UGC and little evidence of a direct FGC-to-sales effect.",
+    "Documents heterogeneity in FGC effectiveness by source and post form, including stronger effects from movie accounts and from regular hashtagged posts."
+  ],
+  "context": "The setting is U.S. theatrical movie releases promoted on Twitter, where movie, studio, actor, and director accounts generate firm content and consumers generate movie-related tweets. The analysis focuses on daily outcomes during the first 12 weeks after release.",
+  "design_and_data": "The authors assemble a daily panel with 145,502 firm-generated tweets and 5,978,625 user-generated tweets tied to 159 movies released in the United States between January 2014 and June 2015. FGC is collected from up to seven accounts per movie (movie, studio, three leading actors, two directors), and follower and nonfollower impressions are measured using Crimson Hexagon; UGC sentiment and type are also coded. These social data are merged with daily box office revenue, theater counts, movie characteristics, and TV advertising spend. The empirical approach uses linear panel equations with movie, time, and time-genre fixed effects and 2SLS IV estimation to address endogeneity in UGC, followers, and firm actions.",
+  "focal_constructs": [
+    "firm-generated content",
+    "user-generated content",
+    "follower impressions",
+    "nonfollower impressions",
+    "box office revenue",
+    "FGC source",
+    "FGC type",
+    "indirect ripple effect"
+  ],
+  "main_findings": [
+    "FGC has a positive association with sales and UGC when modeled alone, but its direct effect on box office becomes nonsignificant once UGC is included.",
+    "UGC volume positively affects next-day box office revenue, and UGC fully mediates the FGC-sales relationship, consistent with an indirect ripple effect.",
+    "Follower impressions, not nonfollower impressions, mainly drive FGC's effect on UGC, and movie-account posts and regular hashtagged tweets are more effective than actor/studio posts, retweets, or replies."
+  ],
+  "one_line_summary": "Using Twitter and box-office panel data for 159 U.S. movie releases, the paper finds that firm-generated content increases revenue primarily through a UGC-mediated ripple effect rather than through a direct effect.",
+  "relation_to_prior_work": "extends prior FGC and UGC research by jointly modeling both content streams and sales in a new-product movie context and testing mediation explicitly. It also refines mixed evidence on FGC-to-UGC links by showing a positive, follower-driven ripple process in this setting.",
+  "research_gap": "Prior studies largely examine FGC and UGC separately, and only a few combine them; the paper states that none has done so in the new product context of movie releases. The literature also provides limited evidence on whether FGC affects sales through UGC-mediated mechanisms and how effectiveness varies by FGC source and post type.",
+  "research_question": "How does firm-generated content on Twitter influence demand for new movie releases, and through what mechanism? The paper tests whether FGC affects box office directly via impressions or indirectly by increasing movie-related UGC that then drives sales, and whether these effects differ by FGC source and post type."
+}

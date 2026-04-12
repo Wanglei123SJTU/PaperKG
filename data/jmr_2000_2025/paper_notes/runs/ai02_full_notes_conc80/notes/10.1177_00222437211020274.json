@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper fills a documented gap by empirically examining how on-page user-generated Q&A in e-commerce affects consumer decision making and review outcomes.",
+    "It shows that Q&As and reviews play different informational roles: questions are mostly prepurchase and attribute-clarification focused, while answers are relatively concise and sentiment-free.",
+    "It proposes and tests a fit-uncertainty mechanism, using multiple fit-mismatch proxies (including a review-text classifier) to show when Q&A has stronger effects."
+  ],
+  "context": "The study is set on a major U.K.-based big-box e-commerce retailer that displays both reviews and product Q&A. The setting covers consumer durables in Technology and Home & Garden categories.",
+  "design_and_data": "The authors use Bazaarvoice data from 2009-2015 and focus on 5,077 products with both reviews and Q&As plus at least one pre-Q&A review (345,168 reviews and 48,687 Q&A pairs). They combine descriptive text analyses and human coding (e.g., prepurchase classification of questions, sentiment coding of Q&As) with a supervised classifier trained on manually labeled negative reviews to detect fit-related complaints. For causal estimation, they model review ratings at the review level with product and year-month fixed effects, exploit timing of the first answered question, and address mean reversion/measurement error with an IV strategy based on holdout-period fit-mismatch measures and BLUP shrinkage. Robustness checks use auxiliary clickstream data and Internet Archive snapshots with controls for price, promotions, and product-description length/content.",
+  "focal_constructs": [
+    "user-generated Q&A",
+    "consumer reviews",
+    "product fit uncertainty",
+    "product quality uncertainty",
+    "consumer-product fit mismatch",
+    "product ratings",
+    "fit-related negative reviews"
+  ],
+  "main_findings": [
+    "Q&A and review content differ systematically: most sampled questions are prepurchase (83%), and coded Q&A sentiment is predominantly neutral, with more fit-attribute clarification than reviews.",
+    "After products begin receiving answered Q&As, subsequent ratings increase for products with higher pre-Q&A fit mismatch, with average effects around 0.1 stars and larger effects for higher-mismatch groups.",
+    "The share of negative reviews that discuss fit declines after Q&A arrival, and this decline is stronger where pre-Q&A fit mismatch is higher."
+  ],
+  "one_line_summary": "Using panel data from a major U.K. retailer, the paper finds that answered product Q&As reduce fit mismatch and raise subsequent review ratings, especially for products with higher preexisting fit uncertainty.",
+  "relation_to_prior_work": "extends prior work on online reviews and reputation systems by identifying e-commerce Q&A as a complementary information channel that primarily resolves fit uncertainty rather than quality uncertainty. It also goes beyond prior Q&A community and text-mining studies by estimating causal effects of Q&A timing on review outcomes.",
+  "research_gap": "The paper states that although Q&A features are increasingly common on retailer and review platforms, little is known about how they affect consumer decision making in e-commerce. Prior Q&A research largely studies community dynamics or question-answering algorithms and does not test causal marketplace effects jointly with reviews.",
+  "research_question": "How does the introduction of on-page product Q&A affect consumer decision making as reflected in subsequent review ratings? Specifically, does Q&A reduce fit uncertainty, thereby improving consumer-product matching, with stronger effects for products that had greater fit mismatch before Q&A?"
+}

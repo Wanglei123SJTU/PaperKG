@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Franses (2005) in its modeling section to frame a key validity issue: potential endogeneity of distribution variables. It explicitly adopts Franses's categorization of endogeneity sources (measurement error, simultaneity, sample selection, omitted variables) and then evaluates each source for its own data and specification. This is a functional methodological use that supports the paper's inferential credibility, not just a passing literature-list mention.",
+  "relation_description": "The citing study applies Franses's econometric guidance on endogeneity diagnostics to its own choice-model context. It uses his framework as a checklist to justify why endogeneity concerns are limited in the automobile distribution analysis.",
+  "relation_type": "applies"
+}

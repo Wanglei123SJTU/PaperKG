@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and demonstrates that fewer savings goals can produce more saving, counter to the common assumption that more savings goals are better.",
+    "It identifies implementation intention (implemental mind-set vs deliberative mind-set) as the mechanism linking goal number to savings behavior.",
+    "It specifies boundary conditions for the effect - implementation difficulty and inter-goal competition/integration - and reports tests ruling out imagery vividness, goal-importance dilution, and goal-difficulty accounts."
+  ],
+  "context": "The research focuses on household saving decisions and savings-program communications from financial advisers. Evidence comes from a six-month field intervention with low-income worker households in rural India and scenario-based studies with working adults in Canada, Hong Kong, and India.",
+  "design_and_data": "Study 1 is a field study in a small town in India with 83 households in a financial literacy program, using 1 control plus a 2 (single vs multiple goals) x 2 (envelope earmarking aid: yes/no) design and tracking savings as a percentage of income over six months. Study 2 uses 194 participants in an executive training program and a 2 (implementation difficulty: tight vs abundant discretionary income) x 2 (visualization) x 3 (no goal vs single vs multiple goals) between-subjects design measuring intention to join a savings plan and a job-choice proxy for implementation mind-set. Study 3 uses 134 Hong Kong panelists in a 2 (single vs multiple goals) x 3 (control vs goal-intention prompt vs implementation-intention prompt) design and measures savings-plan joining intention plus checks on goal importance and perceived difficulty. Study 4 uses 149 Indian panelists in six conditions (three single-goal variants and three multiple-goal framings: control, competing, integrated), with outcomes including binary joining choice, continuous join intention, stated monthly deposit, manipulation checks, and a computer-choice implementation-intention measure.",
+  "focal_constructs": [
+    "savings behavior",
+    "number of goals",
+    "single vs multiple savings goals",
+    "implementation intention",
+    "deliberative vs implemental mind-set",
+    "goal competition and trade-offs",
+    "implementation difficulty",
+    "goal integration"
+  ],
+  "main_findings": [
+    "In the field study, households prompted with one savings goal saved a higher share of income over six months than households prompted with multiple goals, and both goal conditions exceeded the no-goal control.",
+    "Across experiments, a single goal increased intention to join savings programs relative to multiple goals when implementation was difficult, but this advantage disappeared when implementation was easy.",
+    "Mediation, direct mind-set manipulation, and goal-integration framing all indicate that the single-goal effect operates through stronger implementation intention and is attenuated when multiple goals are integrated rather than competing."
+  ],
+  "one_line_summary": "Across one field study and three experiments, the paper finds that prompting one savings goal rather than multiple goals increases saving mainly by inducing implementation intention, with weaker effects when saving is easy or when multiple goals are integrated.",
+  "relation_to_prior_work": "extends prior goal-setting work by directly comparing single and multiple specific goals in saving, rather than mainly comparing multiple goals with no-goal conditions. It also introduces an implementation-intention account for goal-number effects and refines mixed multiple-goal findings by identifying conditions under which the single-goal advantage weakens.",
+  "research_gap": "Prior work generally shows benefits of goal setting and often finds multiple goals outperform no-goal conditions, but it provides limited evidence on multiple goals versus a single specific goal in consumer saving. The authors argue that this comparison is critical because multiple savings goals may trigger trade-off deliberation that impedes action implementation.",
+  "research_question": "What effect does the number of savings goals (single vs multiple) have on consumers' savings intentions and actual savings behavior? The paper also asks whether any single-goal advantage is explained by implementation intention and when that advantage is reduced, such as when saving is easy to implement or when multiple goals are integrated rather than competing."
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides a large-scale, multimillion-dollar field study that links household DVR adoption to actual CPG purchase behavior over a long pre/post window.",
+    "Shows that estimated DVR treatment effects on spending for advertised brands and private labels are centered near zero and statistically insignificant up to two years after device shipment.",
+    "Adds suggestive behavioral evidence from matched TiVo logs and audited ad schedules that total ad skipping is limited because only a small share of viewed content is recorded, and discusses alternative explanations for the null sales effect."
+  ],
+  "context": "The study is set in U.S. IRI BehaviorScan consumer packaged goods markets (Eau Claire, Pittsfield, Cedar Rapids, and Midlands) where households were offered TiVo DVR service. Outcomes are household expenditures in packaged-goods categories, especially heavily advertised brands, private labels, and new products.",
+  "design_and_data": "In late 2004, 13,946 eligible panel households were offered a free TiVo DVR and service; about 1,587-1,588 accepted. Household purchase histories in 48 CPG categories were observed for 55 weeks before treatment and 112 weeks after, then aggregated to pretreatment, short-run posttreatment, and long-run posttreatment periods. Because full randomization was abandoned after low initial uptake, the authors estimate difference-in-differences models in first differences with market/category controls and run robustness checks for selection on observables and unobservables (propensity-score matching and selection/IV-style corrections). They also merge TiVo usage logs with audited broadcast schedules for nine campaigns across seven brands to infer ad exposure and ad skipping.",
+  "focal_constructs": [
+    "DVR adoption",
+    "ad skipping",
+    "television advertising exposure",
+    "household CPG expenditures",
+    "advertised brand spending",
+    "private label spending",
+    "new product spending",
+    "self-selection into treatment"
+  ],
+  "main_findings": [
+    "Difference-in-differences estimates do not detect a statistically significant DVR treatment effect on household spending for heavily advertised brands or private labels in either the first or second posttreatment year.",
+    "The null effect is robust across checks for observed heterogeneity, DVR usage intensity, category-by-category estimation, and corrections for selection on observables and unobservables.",
+    "For the seven-brand ad-schedule match, households skipped many ads conditional on recorded viewing, but recorded viewing itself was limited, implying only about 6.5% of total ad exposures were fast-forwarded."
+  ],
+  "one_line_summary": "Using a large TiVo-IRI field study, the paper finds no detectable effect of DVR adoption on household CPG spending for advertised brands, private labels, or new products over two posttreatment years.",
+  "relation_to_prior_work": "introduces large-scale unobtrusive field evidence to a debate previously driven largely by self-reports and industry speculation, by linking DVR usage data to realized household purchase outcomes.",
+  "research_gap": "The paper argues that, beyond self-reported behavior, there was no hard evidence that DVRs reduced actual ad viewing or materially affected sales of advertising-supported consumer goods. It addresses this missing behavioral evidence with matched household purchasing and DVR usage data.",
+  "research_question": "Do DVRs, through ad-skipping functionality, reduce household demand for television-advertised CPG brands and shift spending toward private labels or away from new products? The paper also asks whether observed ad-skipping behavior is large enough to plausibly generate such sales effects."
+}

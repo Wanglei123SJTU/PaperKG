@@ -1,0 +1,4 @@
+{
+  "rationale": "The two papers are tightly aligned in domain and methodology: the citing paper develops Bayesian dynamic state-space/particle-filter methods for advertising response, while the cited paper is a Bayesian dynamic digital-ad model estimated with particle filtering and MCMC. The citing note explicitly positions itself as extending prior Bayesian marketing dynamics, and this cited work is a plausible direct methodological and application precedent rather than a generic background mention. Given this plausible foundational/method-source role, it should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper explicitly uses Gupta, Lehmann, and Stuart (2004) to operationalize customer lifetime value in its policy experiments, including the stated CLV formula and discounting setup. This citation is not just background name-dropping; it provides the valuation framework used to translate simulated retention and ARPU effects into dollar CLV outcomes. Although the core contribution of the citing paper is a learning-and-choice model, the cited work meaningfully supports how managerial impact is quantified.",
+  "relation_description": "The citing paper applies the cited paper's CLV valuation formulation to compute monetary implications of its simulation results. Specifically, it uses the cited framework to map changes in retention and revenue into estimated CLV differences.",
+  "relation_type": "applies"
+}

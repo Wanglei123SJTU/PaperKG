@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper builds a Bayesian hierarchical conjoint model estimated via MCMC and compares multiple model variants, while the cited paper is a Bayesian hybrid conjoint framework estimated by Gibbs sampling with extensive model-comparison structure. Given this close methodological/domain overlap (Bayesian conjoint modeling), the citation is plausibly a method/foundation source rather than an obvious incidental mention, even though the raw match provides only a DOI-level reference.",
+  "triage_decision": "keep_for_relation_judgment"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited article focuses on extracting summary piles from sorting-task data, while the citing paper’s described approach is a hierarchical Bayesian multinomial model of reserved-seat choices plus seat-availability optimization, with no sorting-task component in the provided notes. The matched evidence is only a single DOI reference without contextual text, which suggests this is likely a peripheral/background citation rather than a substantive dependency.",
+  "triage_decision": "drop_obvious_mention_only"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper introduces the concept of conditional projection: when others' choices are known, people project their own evaluations of corresponding option status (chosen or rejected) rather than the same nominal option.",
+    "It provides convergent evidence for this pattern across four studies using cross-sectional differences, within-person changes over time, and experimental manipulations in both political and consumer contexts.",
+    "It argues that existing projection accounts do not directly predict the observed opposite-chooser pattern and reports evidence against key alternative explanations."
+  ],
+  "context": "The studies are set in both political and consumer choice contexts, including the 2008 U.S. presidential election (Obama vs. McCain) and choices between posters, postcards, and digital cameras. In each setting, participants estimate how same-choosers and opposite-choosers evaluate chosen and rejected options.",
+  "design_and_data": "The paper reports four studies combining observational and experimental designs. Study 1 includes a lab sample of 72 Obama-supporting undergraduates with incentive-compatible belief elicitation and a national panel of registered voters (351 predebate, with 153 recontacted postdebate), linking own candidate ratings to estimated ratings for same- and opposite-choosers and to within-person changes. Study 2 is an online poster-choice study with 123 usable responses, adding measures of believed correlation between option evaluations and open-ended process reports. Study 3 is a lab experiment (N = 89) manipulating anticipated justification (reasons vs. no reasons) to create asymmetric shifts in option evaluations, and Study 4 is a two-wave camera-choice panel (274 usable cases) examining belief changes as evaluations shift over time without new detailed attribute information in wave 2.",
+  "focal_constructs": [
+    "conditional projection",
+    "beliefs about others' evaluations",
+    "own evaluations of chosen and rejected options",
+    "same-choosers",
+    "opposite-choosers",
+    "social projection",
+    "analogical similarity/structural alignment"
+  ],
+  "main_findings": [
+    "Across studies, participants' own evaluation of their chosen option predicts estimates of others' chosen-option evaluations, and own evaluation of their rejected option predicts estimates of others' rejected-option evaluations, including for opposite-choosers.",
+    "Within-person changes in own evaluations over time are associated with corresponding within-person changes in beliefs about both same- and opposite-choosers' evaluations.",
+    "Experimental shifts in rejected-option evaluations (with little or no shift in chosen-option evaluations) produce corresponding shifts in estimates of others' rejected-option evaluations but not chosen-option evaluations, supporting a causal conditional projection pattern."
+  ],
+  "one_line_summary": "Across political and consumer decisions, the paper shows that when others' choices are known, people infer others' evaluations by projecting their own corresponding chosen/rejected-option evaluations rather than their evaluations of the same option.",
+  "relation_to_prior_work": "introduces a conditional projection account that extends social projection research from projected binary choices to inferred option evaluations conditional on known choices. It challenges prior out-group conclusions that imply little or no projection to dissimilar others by showing robust projection onto opposite-choosers via corresponding option status.",
+  "research_gap": "Prior social projection research mainly documents projection of binary choices or endorsements and says little about how people infer underlying option evaluations when others' final choices are known. The paper argues that leading projection accounts imply competing or underspecified predictions in this setting, leaving the inference process unresolved.",
+  "research_question": "How do people's own evaluations of two options influence their estimates of other people's evaluations when those others' choices are already known? In particular, when estimating same-choosers and opposite-choosers, do people project evaluations of the same option directly, or do they project evaluations of the corresponding option status (chosen vs. rejected)?"
+}

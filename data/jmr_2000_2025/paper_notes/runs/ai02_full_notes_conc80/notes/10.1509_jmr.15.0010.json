@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "Introduces the idea that extreme variety can be counterproductive for slowing satiation when stimuli are so different that consumers do not spontaneously treat them as one experience.",
+    "Establishes when greater perceived similarity slows satiation, namely when stimuli are not naturally categorized together, by showing similarity can prompt a single ad hoc category for the ongoing experience.",
+    "Shows that perceived variety is not simply the inverse of similarity, because the similarity-satiation relationship reverses depending on natural versus ad hoc categorization."
+  ],
+  "context": "The paper studies repeated hedonic consumption experiences across multiple domains: listening to music and sounds, eating snack foods, and viewing art images. Evidence comes from online participant panels and university subject pools in controlled experimental tasks.",
+  "design_and_data": "The article reports five experiments using repeated enjoyment ratings over consumption/viewing trials and between-subject framing manipulations of similarity versus dissimilarity (or neutral framing). Study 1 (MTurk, n = 146) uses classical music with interspersed nature sounds; Study 2 (students, n = 84) uses chocolate candies with oyster crackers. Study 3 (Prolific, n = 172) uses music plus a painting and includes a lone-stimulus control and tests alternative accounts; Study 4 (students, n = 357) uses a 2 x 2 design crossing an initial categorization task (neutral vs arts) with similarity framing and includes categorization measures. Study 5 (MTurk and students, n = 277) uses visual stimuli in a 2 x 2 design that manipulates whether the second image is naturally in the same category (another Impressionist painting) or a different category (cartoon), plus similarity versus neutral framing.",
+  "focal_constructs": [
+    "satiation",
+    "perceived similarity",
+    "perceived variety",
+    "ad hoc categorization",
+    "natural (spontaneous) categorization",
+    "hedonic enjoyment over repeated consumption"
+  ],
+  "main_findings": [
+    "When the intermittent stimulus was naturally from a different category, framing the stimuli as similar slowed the decline in enjoyment relative to dissimilar or neutral framing across music, food, and visual tasks.",
+    "In the cross-modal study, the dissimilar condition did not differ from a lone-stimulus control, indicating the effect was driven by similarity framing slowing satiation rather than dissimilar framing speeding it up.",
+    "The effect depended on categorization: pre-categorizing stimuli together eliminated the similarity-framing benefit, and when stimuli naturally belonged to one category, similarity framing instead increased satiation."
+  ],
+  "one_line_summary": "Across five experiments, the paper shows that for inherently disparate stimuli, promoting similarity can slow satiation by encouraging consumers to place episodes into one ad hoc category and better appreciate overall variety.",
+  "relation_to_prior_work": "challenges the dominant view in variety and satiation research that greater similarity uniformly hastens satiation. The paper argues that prior monotonic findings mostly reflect settings where stimuli are already naturally categorized together and adds ad hoc categorization as a key boundary condition.",
+  "research_gap": "Prior work largely examines satiation with stimuli that already share an obvious category and therefore treats similarity and variety as moving in opposite directions. The paper addresses the unresolved case where stimuli are inherently dissimilar and may not be spontaneously combined into a single ongoing experience.",
+  "research_question": "How does perceived similarity influence satiation when people consume repeated stimuli that are either naturally grouped together or naturally separate? Specifically, can highlighting similarity among inherently different stimuli reduce satiation by causing consumers to form a single ad hoc category for the overall experience?"
+}

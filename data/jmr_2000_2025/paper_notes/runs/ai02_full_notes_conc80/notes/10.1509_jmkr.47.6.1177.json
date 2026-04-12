@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops a taxonomy of alphanumeric brand names based on alignability (aligned-ascending, aligned-descending, nonaligned) and on whether names link to specific attributes versus the overall product.",
+    "It provides what the authors present as first empirical evidence that alphanumeric brand names systematically influence consumer preferences and choice shares.",
+    "It specifies contingencies and mechanisms for AB effects by testing need for cognition, missing attribute information, inference making, and product/brand category type."
+  ],
+  "context": "The paper studies consumer choices among alphanumeric subbrands across multiple product categories, especially technical products where such naming is common. It also compares nontechnical products and novel products with unknown attributes to test boundary conditions.",
+  "design_and_data": "The article reports five controlled experiments with student samples (Study 1 n=51, Study 2 n=60, Study 3 n=74, Study 4 n=198, Study 5 n=226). Across studies, the authors manipulate AB numeric order (higher vs lower), AB type from their taxonomy, and information availability (complete, missing, and in Study 5 an explicit inference condition). The main dependent variable is binary choice between two options, analyzed primarily with logistic regressions; Study 4 adds thought-protocol coding and measured need for cognition, and Study 5 collects explicit inferred missing-attribute values. Study 3 includes an incentive-compatible printer choice with visible quality differences and a competitor-branding exposure manipulation.",
+  "focal_constructs": [
+    "alphanumeric brand names (ABs)",
+    "numeric portion magnitude",
+    "brand name alignability",
+    "brand-attribute relationship inference",
+    "brand name heuristic",
+    "need for cognition",
+    "missing attribute information",
+    "consumer choice share"
+  ],
+  "main_findings": [
+    "In identical choice sets, options labeled with higher numeric ABs received higher choice shares, and participants sometimes preferred a higher-numbered option even when it was objectively inferior.",
+    "A general 'lower is better' effect did not emerge for aligned-descending ABs, though higher-need-for-cognition consumers were more likely to follow descending alignment when information was missing or when inference was required.",
+    "Low-need-for-cognition consumers tended to apply an early 'the higher, the better' heuristic, whereas high-need-for-cognition consumers more often used AB-attribute inferences; AB effects appeared for technical and even unknown products but not for nontechnical nonaligned products."
+  ],
+  "one_line_summary": "Across five experiments, the paper shows that alphanumeric brand names systematically shift product choices - especially toward higher numbers - and that this effect depends on AB type, information availability, inference making, and consumers' need for cognition.",
+  "relation_to_prior_work": "extends prior AB research from linguistic and perceptual analyses to direct tests of consumer choice, while adding process evidence that distinguishes heuristic use from brand-attribute inference.",
+  "research_gap": "Prior research on alphanumeric brand names focused mainly on linguistic or phonetic properties and broad perceptions, with little evidence on their effects on actual consumer choice. The paper also identifies limited prior understanding of when AB effects strengthen or weaken across information conditions and consumer processing styles.",
+  "research_question": "How and when do alphanumeric brand names affect consumer preferences and product choice? The paper examines whether consumers rely on a simple numeric heuristic ('the higher, the better') or infer brand-attribute relationships, and whether these processes vary with need for cognition, missing information, and AB taxonomy category."
+}

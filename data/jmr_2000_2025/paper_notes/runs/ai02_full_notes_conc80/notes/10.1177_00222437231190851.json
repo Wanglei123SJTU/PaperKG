@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a self-other intertemporal decision model that distinguishes vicarious utility from reaction utility derived from anticipated interpersonal feedback.",
+    "Provides multi-study evidence that intertemporal choices for similar peers are often more impatient than equivalent choices for oneself.",
+    "Identifies boundary conditions and moderators (feedback delay, recipient specificity, and imagery reliance) that support a central role for reaction utility in interpersonal choice."
+  ],
+  "context": "The studies examine peer-to-peer consumer decisions where one person chooses for another, including delegated agent decisions, gift giving, and recommendations. Empirical settings include online panels and lab/classroom contexts with financial rewards, gift cards, Starbucks points, and consumer goods.",
+  "design_and_data": "The paper develops a formal model in which utility for choosing for others includes discounted vicarious utility plus reaction utility from expected interpersonal feedback. A preregistered pilot study (N=226) compares estimated vicarious and reaction utility functions. The main tests are 13 experiments (N=4,799) using randomized self-versus-other intertemporal choices, including both between-subject and within-subject designs and several consequential choice studies. Key manipulated or measured moderators include feedback timing (immediate vs delayed), recipient specificity (specified vs unspecified), spontaneous imagery use, and trait empathy.",
+  "focal_constructs": [
+    "intertemporal choice",
+    "self-other decision making",
+    "reaction utility",
+    "vicarious utility",
+    "agent's impatience",
+    "interpersonal affective feedback",
+    "recipient specificity",
+    "mental imagery"
+  ],
+  "main_findings": [
+    "Across Studies 1-2g, participants were consistently more likely to choose the smaller-sooner option for a specified peer than for themselves, supporting the agent's impatience effect.",
+    "Delaying expected interpersonal feedback reduced this effect in Studies 3a-3b, and choices for unspecified others in Study 4 were much closer to choices for self than choices for specified others.",
+    "Agent's impatience was stronger among participants with greater spontaneous use and vividness of mental imagery (Study 5a), while trait empathy did not reliably moderate the effect (Study 5b)."
+  ],
+  "one_line_summary": "The paper introduces a self-other intertemporal decision model and shows across 13 experiments (N=4,799) that choosing for a specified peer is typically more impatient than choosing for oneself because anticipated interpersonal feedback adds reaction utility.",
+  "relation_to_prior_work": "extends classic single-person time-discounting models and self-other choice accounts by adding reaction utility from anticipated interpersonal feedback as a distinct driver of decisions for others. It also challenges interpretations from prior studies using abstract recipients by showing that recipient specificity can reconcile mixed self-other impatience results.",
+  "research_gap": "Prior intertemporal choice research has mainly focused on choices for oneself, while time preference and self-other decision making have largely been studied in separate silos. Existing approaches often reduce choosing for others to predicting others' preferences and do not explicitly model utility from anticipated interpersonal feedback.",
+  "research_question": "How do intertemporal choices made for another person differ from otherwise identical choices made for oneself when decisions involve peers? The paper asks whether anticipated interpersonal feedback (reaction utility), beyond vicarious utility from imagining the recipient's outcomes, systematically shifts these choices and under what conditions this shift weakens."
+}

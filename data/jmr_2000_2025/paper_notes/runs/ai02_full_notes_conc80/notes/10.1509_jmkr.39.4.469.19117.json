@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides an explicit measurement-theory rationale for using multiple informants in organizational marketing research to reduce correlated systematic error and random error effects.",
+    "It develops simple, low-effort mathematical aggregation procedures for multiple-informant reports, including response-data-based and confidence-based weighting with a tunable alpha parameter.",
+    "It shows empirically, in two MARKSTRAT studies, that weighted aggregation methods can substantially improve accuracy relative to the commonly used unweighted mean."
+  ],
+  "context": "The paper focuses on organizational marketing research where firm-level objective or quasi-objective variables must be measured through key informants because archival data are unavailable or inaccessible. Empirical tests are conducted in the MARKSTRAT marketing simulation, where teams act as firms and true values are known.",
+  "design_and_data": "The authors run two empirical studies in MARKSTRAT and compare aggregation rules using known true values and mean absolute percentage error (MAPE), plus AIC. Study 1 uses 67 marketing students in 20 groups (2-4 members) who individually recall eight recently chosen decision variables and report item-level confidence on a 9-point scale. Study 2 uses 39 students in 13 groups who forecast three variables (two brand-awareness levels and next-period budget), again with confidence ratings, and also tests competence-based weights from related tasks. Weighted methods are evaluated with alpha fixed at 1 and with alpha optimized (uniform or variable-specific) to minimize MAPE.",
+  "focal_constructs": [
+    "multiple informants",
+    "key informant response accuracy",
+    "systematic measurement error",
+    "random measurement error",
+    "response-data-based weighted mean",
+    "confidence-based weighted mean",
+    "competence-based weighting",
+    "aggregation of organizational response data"
+  ],
+  "main_findings": [
+    "Across both studies, weighting informant reports improves aggregate accuracy versus the unweighted group mean.",
+    "In Study 1 (recall), confidence-based weighting outperforms response-data-based weighting; optimized confidence weights reduce MAPE from 16.30 (unweighted) to 7.53.",
+    "In Study 2 (forecasting), confidence-based weighting again outperforms unweighted averaging, and forecasting-competence-based weighting performs similarly to confidence-based weighting (F = 0.05, p = .83), while recall-competence weights are less accurate."
+  ],
+  "one_line_summary": "The article argues for multiple key informants in organizational marketing research and demonstrates that confidence- or competence-weighted aggregation yields more accurate organizational measures than simple averaging.",
+  "relation_to_prior_work": "introduces practical weighting-based aggregation procedures as lower-effort alternatives to behavioral consensus and Bayesian aggregation methods discussed in prior work. It also extends prior measurement-error arguments by connecting them to concrete, testable aggregation rules for key-informant data.",
+  "research_gap": "The paper identifies a practical gap: researchers are advised to use multiple informants, but guidance on how to aggregate disagreeing reports is limited. Existing alternatives are often costly and coordination-intensive (behavioral/Delphi) or computationally difficult (Bayesian), while simple averaging does not correct systematic bias.",
+  "research_question": "Should organizational marketing researchers use multiple informants instead of a single informant, and how should multiple reports be aggregated when informants disagree? Specifically, can simple weighting schemes based on agreement, confidence, or competence improve the accuracy of organizational-level measures over unweighted averaging?"
+}

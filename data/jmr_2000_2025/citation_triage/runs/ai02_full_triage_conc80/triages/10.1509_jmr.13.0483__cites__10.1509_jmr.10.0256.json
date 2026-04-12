@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper note is about a randomized telecom churn-prevention experiment, while the cited paper note is about Wal-Mart entry effects on supplier profits in packaged goods, so topical overlap appears weak. However, the citing study reports propensity-score-based diagnostics, and the cited study is a known propensity-score/DID empirical design paper, so a methodological use is plausible. Because the evidence is limited to a single DOI match with no in-text citation context, this pair cannot be safely dropped.",
+  "triage_decision": "uncertain"
+}

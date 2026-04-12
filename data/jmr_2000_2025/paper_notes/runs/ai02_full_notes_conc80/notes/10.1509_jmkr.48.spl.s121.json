@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "The paper provides controlled experimental evidence that incidental fear can causally accelerate selling decisions in a stock-market-like task.",
+    "It proposes and tests social projection as the process linking fear to selling behavior.",
+    "It argues that fear does not create a uniform increase in risk aversion; the effect is contingent on market features and perceived similarity to other investors."
+  ],
+  "context": "The setting is individual stock-trading decisions in a laboratory simulation designed to resemble online trading choices. Participants repeatedly chose to stay invested or cash out while stock values evolved across rounds.",
+  "design_and_data": "The authors ran three between-subject laboratory experiments (N=80, N=127, N=110). Emotions were induced in an unrelated video task (horror vs documentary in Experiments 1-2; horror vs exciting action clips in Experiment 3), then participants played a 25-round cash-out game using $10 of their participation payment as the stock. The dependent variable was the round in which participants sold. Experiment 2 manipulated whether stock-value changes were described as peer-generated or computer-generated and included predetermined up-down versus down-up trends; Experiment 3 manipulated whether participants believed their risk attitude was common or unique in the group.",
+  "focal_constructs": [
+    "incidental fear",
+    "decision to sell (cash-out timing)",
+    "risk taking under uncertainty",
+    "social projection",
+    "peer-generated versus computer-generated market",
+    "perceived similarity in risk attitude"
+  ],
+  "main_findings": [
+    "Fearful participants sold earlier than control participants in the stock simulation, replicating across all three experiments.",
+    "The fear effect appeared when participants believed stock values were influenced by other participants, but it disappeared when values were said to be computer generated.",
+    "When participants were told their risk attitude was common, fear increased early selling; when told their risk attitude was unique, the effect disappeared and showed a reversal trend."
+  ],
+  "one_line_summary": "Across three laboratory stock-trading simulations, incidental fear made participants cash out earlier, and this effect depended on social projection about other investors.",
+  "relation_to_prior_work": "extends prior sentiment-and-finance work that relied mainly on correlational or aggregate evidence by using direct emotion inductions in lab trading tasks and by testing a process account based on social projection.",
+  "research_gap": "Prior finance and sentiment studies cited in the paper are largely correlational, often use aggregate data without direct emotion measures, and do not systematically test psychological mechanisms. The authors also note limited consumer research on how emotions affect individual financial decisions.",
+  "research_question": "The paper asks whether incidental fear changes when individual investors decide to sell a stock-like asset in a repeated trading task. It also asks when this effect occurs and whether social projection, using one's own state to predict others' actions, explains the pattern."
+}

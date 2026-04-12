@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper directly addresses dependence assumptions in customer management (acquisition–retention correlation) and shows that assuming independence can bias duration/NPV forecasts, which aligns with the citing paper’s stated gap that independence assumptions in direct-marketing value models are problematic. Given this clear conceptual/methodological overlap plus same CRM/direct-marketing context, this is not an obvious incidental mention despite lacking in-text snippet evidence.",
+  "triage_decision": "keep_for_relation_judgment"
+}

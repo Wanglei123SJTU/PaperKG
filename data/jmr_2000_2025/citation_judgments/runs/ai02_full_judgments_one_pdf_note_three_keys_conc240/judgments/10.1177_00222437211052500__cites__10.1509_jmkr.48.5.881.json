@@ -1,0 +1,6 @@
+{
+  "citation_substance": "mention_only",
+  "rationale": "The citing paper references Lee and Bradlow (2011) only in related-literature positioning, as part of a grouped citation stream on extracting insights from user-generated content, and in a summary comparison table. It does not use that paper's specific framework, measures, or empirical procedure in the paper's core contributions, which are a convolutional-LSTM sentiment model and a structural imputation model for missing attributes. There is no distinct claim that the new model directly builds on, tests, or revises Lee and Bradlow specifically.",
+  "relation_description": null,
+  "relation_type": null
+}

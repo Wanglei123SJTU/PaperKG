@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces a model-based screening approach for repeated-choice survey data that automatically classifies respondents into information-rich and information-poor clusters using variance (scale) differences.",
+    "Provides a conceptual distinction between gremlins in the data and gremlins in the market, with guidance on how managers should treat each type.",
+    "Shows with simulations and commercial conjoint applications that identifying information-poor respondents materially improves predictive quality and managerial decisions such as pricing."
+  ],
+  "context": "The paper is set in online-administered marketing surveys, especially choice-based conjoint studies used for product and pricing decisions. Empirical illustrations use a commercial point-and-shoot camera conjoint study and several additional commercial conjoint data sets.",
+  "design_and_data": "The authors develop a hierarchical Bayesian multinomial logit framework with a finite mixture on respondent scale/variance to identify latent information-content clusters, and they validate clusters using in-sample and out-of-sample hit rates relative to a random benchmark. They run multiple simulation studies (baseline examples use N=250 respondents and 17 choice sets with holdouts) to test equivalent data-generating processes, robustness extensions (including probit, concomitant variables, mixture upper-level priors, three clusters, and HMM fatigue/learning), and pricing implications. The main empirical application uses 501 respondents from a commercial online camera conjoint study (7 attributes, 5 options including no choice), and the method is also applied to five additional commercial conjoint studies (sample sizes 150-521).",
+  "focal_constructs": [
+    "information content of responses",
+    "information-poor respondents (gremlins)",
+    "response variance and scale heterogeneity",
+    "choice-based conjoint data quality",
+    "finite mixture multinomial logit",
+    "out-of-sample predictive hit rate",
+    "price sensitivity and price optimization"
+  ],
+  "main_findings": [
+    "Across simulation settings, the proposed model recovered information-poor respondents more effectively than benchmark alternatives, and identified IP clusters had out-of-sample hit rates near random-choice levels.",
+    "When IP respondents were ignored in estimation, standard hierarchical MNL produced upward-biased optimal prices and sizable expected revenue losses (about 4.4% to 14.0% in the simulation study), while the proposed approach recovered near-DGP optimal pricing outcomes.",
+    "In the camera application, about 18% of respondents were classified as information-poor, with near-random out-of-sample hit rates for that cluster (median about 25%) versus substantially higher hit rates for the information-rich cluster (about 55%), and keeping all respondents led to flatter share predictions and higher optimal prices."
+  ],
+  "one_line_summary": "The paper proposes a finite-mixture scale model for conjoint data that identifies low-information respondents and shows that failing to remove them biases demand predictions and pricing decisions.",
+  "relation_to_prior_work": "extends prior mixture-of-scale discrete-choice modeling by repurposing it for data-quality screening in choice-based conjoint studies. The paper argues that, unlike common ad hoc screening rules and prior scale-mixture applications, this approach uses predictive validation to identify information-poor respondents and links their inclusion to biased managerial decisions.",
+  "research_gap": "Existing online survey screening practices (for example, attention checks, speed thresholds, and response-pattern rules) are often subjective, rely on arbitrary cutoffs, and are only indirectly tied to respondents' utility functions. The paper addresses the lack of a theoretically grounded, automated method to identify information-poor respondents in CBC data and quantify the decision bias from retaining them.",
+  "research_question": "How can researchers identify respondents in choice-based conjoint surveys whose responses contain so much noise that predictive power is effectively random, without relying on ad hoc cleaning rules? The paper also asks how retaining these respondents affects estimated preferences, market-share predictions, and price optimization decisions."
+}

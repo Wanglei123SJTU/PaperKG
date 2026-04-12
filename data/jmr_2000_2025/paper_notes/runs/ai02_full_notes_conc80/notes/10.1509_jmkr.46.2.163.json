@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces a multifirm service diffusion framework that jointly models customer acquisition from nonusers, interfirm churn, and category disadoption.",
+    "Shows analytically and empirically that ignoring disadoption in service diffusion can bias estimated diffusion parameters, especially market potential.",
+    "Derives and applies a customer equity calculation for growing competitive service firms that incorporates attrition in both CLV and growth dynamics."
+  ],
+  "context": "The paper studies subscriber-based service markets with ongoing customer-firm relationships, including cell phones, cable television, online banking, online brokerage, online book retailing, and satellite radio. Empirical brand-level applications use firms in U.S., Belgian, and South Korean markets.",
+  "design_and_data": "The authors develop a category-level differential-equation diffusion model with disadoption and a competitive brand-level model with churn plus disadoption. They run simulation-based identification checks under clean and noisy data for both models. Empirically, they estimate category-level parameters using historical U.S. subscriber data for cell phones, cable TV, and online banking, with disadoption rates from industry sources. For brand-level valuation, they estimate seemingly unrelated nonlinear least squares models for 13 firms (7 focal firms) using financial reports, 10K/10Q filings, press releases, and World Cellular Information Service data, then compare computed customer equity to stock market values and to a no-attrition benchmark model.",
+  "focal_constructs": [
+    "service diffusion",
+    "customer attrition",
+    "disadoption",
+    "customer churn",
+    "market potential",
+    "customer lifetime value",
+    "customer equity"
+  ],
+  "main_findings": [
+    "Ignoring disadoption and fitting a standard Bass model to service subscriber data leads to substantial bias: across three U.S. categories, p is overestimated and q and market potential are underestimated (average biases reported as +46%, -39%, and -30%, respectively).",
+    "With disadoption, the category approaches an effective market potential below the true potential, implying retention efforts can expand attainable penetration.",
+    "In customer equity applications, the attrition-aware competitive model produces values much closer to stock market valuations than a no-attrition model for six of seven focal firms, while the no-attrition model materially undervalues customer equity."
+  ],
+  "one_line_summary": "The paper develops and applies attrition-aware diffusion models for services, showing that disadoption and churn materially alter diffusion estimates and improve customer equity valuation accuracy.",
+  "relation_to_prior_work": "extends diffusion and competitive growth modeling by incorporating both category disadoption and interfirm switching in service market growth, where prior approaches largely treated services like durable goods or focused only on remaining nonadopters. It also extends aggregate customer equity valuation by embedding attrition and brand-level competitive dynamics in the growth process.",
+  "research_gap": "Prior diffusion research rarely modeled how services penetrate markets when customers can leave, and competitive diffusion models often emphasized competition for remaining nonadopters rather than direct switching. As a result, the effect of attrition (disadoption and churn) on service growth and firm valuation was not formally integrated.",
+  "research_question": "How do disadoption and interfirm churn shape the diffusion path of service categories and the growth of individual firms in competitive markets? What are the estimation and managerial consequences of modeling service growth with attrition versus using standard no-attrition diffusion approaches, including for customer equity valuation?"
+}

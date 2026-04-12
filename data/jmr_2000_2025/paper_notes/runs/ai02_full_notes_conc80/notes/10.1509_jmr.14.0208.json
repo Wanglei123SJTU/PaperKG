@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Regrounds the attraction (asymmetric dominance) effect in its original purpose as a demonstration that the rational-choice axiom of regularity can be violated.",
+    "Organizes and highlights boundary conditions that mitigate or amplify attraction, including five inhibitory properties discussed in the commentary.",
+    "Positions attraction within the broader revealed-versus-constructed preferences debate and discusses how replication results should be interpreted in that framework."
+  ],
+  "context": "The paper discusses multiattribute choice settings originally studied with consumer products and extends to evidence from risky gambles, personnel assessment, legal and policy judgments, and memory tasks. It also considers marketplace relevance, arguing that strict asymmetric dominance is uncommon in mature markets but may arise in some retail displays and digital price-rating environments.",
+  "design_and_data": "This article is a commentary rather than a new primary experiment. It interprets Frederick, Lee, and Baskin (2014) and Yang and Lynn (2014) and synthesizes findings from prior studies over about 30 years on attraction effects across lab and field-like contexts. The authors also describe an illustrative prior analysis by Huber using a commercial conjoint dataset (586 respondents, 20 three-option choices each, nearly 4,000 asymmetrically dominating sets), where no consistent target-share increase was found.",
+  "focal_constructs": [
+    "attraction effect",
+    "asymmetric dominance",
+    "regularity",
+    "menu independence",
+    "constructed preferences",
+    "boundary conditions",
+    "dominance perception",
+    "preference heterogeneity"
+  ],
+  "main_findings": [
+    "The attraction effect replicates when core conditions are essentially reproduced and the asymmetrically dominated relation is perceived.",
+    "The effect has predictable limits: it is reduced by strong prior trade-offs, difficulty detecting dominance, undesirable or viable decoys, and cross-respondent heterogeneity.",
+    "Even if strict regularity-violating decoys may be rare in many real markets, attraction evidence supports the broader claim that preferences are context dependent and often constructed."
+  ],
+  "one_line_summary": "This commentary argues that asymmetric dominance remains a robust, replicable violation of regularity under appropriate conditions, while clarifying its boundary conditions and theoretical significance for constructed preferences.",
+  "relation_to_prior_work": "refines prior attraction-effect research by interpreting recent null results as boundary-condition evidence rather than disconfirmation of the original phenomenon. It links the 1982 regularity-violation demonstration to later work on constructed preferences and replication types.",
+  "research_gap": "Recent replication papers reported many null effects and questioned the practical validity of attraction, but the authors argue those conclusions were not sufficiently situated in the effect's original theoretical purpose and known contingencies. The paper addresses the need for a clearer account of when attraction should and should not occur.",
+  "research_question": "Do recent replication failures imply that the attraction effect lacks validity, or do they identify boundary conditions of a still-robust phenomenon? Under what conditions is asymmetric dominance likely to appear or disappear, and what does this imply for the broader claim that preferences are constructed rather than simply revealed?"
+}

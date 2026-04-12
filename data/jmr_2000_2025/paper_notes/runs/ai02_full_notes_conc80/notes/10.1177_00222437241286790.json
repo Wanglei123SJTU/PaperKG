@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper claims to be the first to explicitly differentiate and directly compare consumer versus investor decision frames in crowdfunding.",
+    "It claims to reconcile conflicting prior findings on entrepreneur gender by identifying decision frame as a key moderator of female-versus-male support.",
+    "It claims to identify actionable boundary conditions that can attenuate gender-based support differences, including entrepreneur profile framing, evaluation norm cues, and crowdfunding dependence."
+  ],
+  "context": "The paper studies crowdfunding settings where people can support projects either as consumers purchasing products or as investors seeking financial returns. Empirical contexts include Kickstarter-style project evaluations and a field analysis of U.S. Kickstarter projects across 15 categories.",
+  "design_and_data": "The authors report six studies using a multimethod approach. Studies 1-5 are preregistered online experiments with Prolific participants that manipulate decision frame (consumer vs investor) and entrepreneur gender in crowdfunding project scenarios, with support measured as purchase or investment intention; Study 2 uses an incentive-compatible choice design between two projects. Study 3 tests moderated mediation with measured perceived disadvantage and perceived determination/passion (and includes quality and trustworthiness as alternative accounts). Studies 4-5 test boundary conditions via entrepreneur profile manipulations and communal versus exchange evaluation norm manipulations, and Study 6 analyzes 71,935 completed U.S. Kickstarter projects (63,387 identifiable female/male creators in regressions) using creator-gender inference from names and regressions on log funding and success with controls.",
+  "focal_constructs": [
+    "entrepreneur gender",
+    "consumer decision frame",
+    "investor decision frame",
+    "communal evaluation norm",
+    "exchange evaluation norm",
+    "perceived disadvantage",
+    "perceived determination/passion",
+    "crowdfunding dependence"
+  ],
+  "main_findings": [
+    "Across experiments, a consumer decision frame increased relative support for female entrepreneurs, while an investor decision frame increased relative support for male entrepreneurs.",
+    "Perceived disadvantage mediated the female-support effect under a consumer frame, and perceived determination/passion mediated the male-support effect under an investor frame; perceived quality and trustworthiness did not explain the pattern.",
+    "In boundary-condition tests, framing both entrepreneurs as disadvantaged (for consumers), framing both as determined/passionate (for investors), and norm cues (communal or exchange) attenuated gender differences; in Kickstarter field data, female creators received more support overall, but this advantage weakened when creators showed high crowdfunding dependence."
+  ],
+  "one_line_summary": "The paper shows that crowdfunding support favors female entrepreneurs under consumer framing but male entrepreneurs under investor framing, with effects explained by disadvantage versus determination/passion perceptions and reduced by profile, norm, and dependence boundary conditions.",
+  "relation_to_prior_work": "extends prior crowdfunding and gender research by showing that previously mixed evidence on female versus male funding advantage depends on whether a consumer or investor decision frame is salient, and by directly comparing consumption-based and investment-based decision contexts within one framework.",
+  "research_gap": "Prior work reported contradictory gender effects in entrepreneurial funding, with some studies showing a male advantage and others a female advantage, but it had not clearly explained when each pattern should occur. The paper also argues that research rarely directly and simultaneously compares consumer (consumption-based) and investor (investment-based) decision contexts in crowdfunding.",
+  "research_question": "When do people support female versus male entrepreneurs in crowdfunding? The paper asks whether a consumer versus investor decision frame changes which gender is favored, through perceived disadvantage versus perceived determination/passion, and whether this effect is attenuated by entrepreneur profile framing, evaluation norms, and crowdfunding dependence."
+}

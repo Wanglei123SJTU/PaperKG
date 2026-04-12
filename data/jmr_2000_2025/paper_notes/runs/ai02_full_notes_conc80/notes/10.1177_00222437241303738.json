@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Identifies and quantifies a default-specific positive value boost (a \"golden halo\") in simple choices using combined eye-tracking and cognitive modeling evidence.",
+    "Directly compares competing process accounts of default effects (attention bias, value distortion, and heuristic starting bias) and shows that valuation and attention mechanisms better explain behavior than a heuristic-only account.",
+    "Establishes boundary conditions for when defaults are more versus less effective, based on relative option value and congruence with consumers' background goals."
+  ],
+  "context": "The paper studies simple consumer choices in controlled and naturalistic settings: lab snack choices (indulgent vs disciplined foods), online one-shot choices between hedonic and utilitarian gift cards, and an online multi-option color/food task. Defaults are implemented as preselected or highlighted options with nonbinding keep/switch choice freedom.",
+  "design_and_data": "Study 1 used an incentive-compatible lab repeated-trials snack-choice task with eye tracking (final N=38) and compared 13 drift diffusion model variants, including attentional DDM forms. Study 2 used a similar lab design (N=55 completed) with induced health versus taste background goals to test moderation by goal congruence. Study 3 was a preregistered online single-choice experiment on gift certificates (N=1,710 recruited; N=1,528 analyzed) with baseline, hedonic-default, and utilitarian-default conditions, plus fixed-effects DDM estimation by condition. Study 4 used an online sample (N=247 recruited; N=226 analyzed) with a five-option preselected color choice and 100 binary food choices without keep/switch labels, followed by exploratory DDM comparisons.",
+  "focal_constructs": [
+    "default options",
+    "choice architecture",
+    "eye gaze attention",
+    "drift diffusion modeling",
+    "golden halo value shift",
+    "starting bias heuristic",
+    "hedonic versus utilitarian choice",
+    "goal congruence"
+  ],
+  "main_findings": [
+    "Across studies, assigning default status increased selection of the default above chance, and in lab tasks defaults received more total gaze time.",
+    "Model comparisons favored a positive value shift for defaults (the \"golden halo\") over gain amplification and starting-bias-only explanations, and this positive shift remained when attentional bias was modeled.",
+    "Results did not support a faster heuristic process: default choices were not faster and often showed signs of greater caution, and default effects weakened when alternatives were strongly preferred and were limited for utilitarian or goal-incongruent defaults."
+  ],
+  "one_line_summary": "Across lab and online experiments, the paper shows that defaults in simple choices mainly bias decisions via an added positive value shift and attention advantage rather than a rapid heuristic starting bias.",
+  "relation_to_prior_work": "challenges the common assumption that default effects in simple choices are primarily driven by a passive, fast heuristic starting bias. It extends prior default research by isolating default status from co-occurring contextual advantages and by testing mechanism-level predictions with eye tracking and drift-diffusion modeling.",
+  "research_gap": "Prior default research documents behavioral effects but offers limited direct evidence on the underlying decision process. The paper identifies an unresolved question about whether simple-choice default effects are heuristic/passive versus driven by altered predecisional attention and valuation, and notes limited understanding of boundary conditions.",
+  "research_question": "How does default status itself influence simple consumer choices when common contextual default advantages are removed? The paper tests whether defaults operate through attention, value distortion (shift vs gain), or heuristic-style process changes, and examines when default effects weaken based on option value differences and background goals."
+}

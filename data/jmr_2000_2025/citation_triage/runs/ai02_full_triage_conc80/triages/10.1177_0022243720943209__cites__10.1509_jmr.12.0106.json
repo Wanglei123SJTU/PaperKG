@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper explicitly states it is positioned as different from prior LDA-based marketing topic models, while the cited paper is a prominent LDA-based marketing text-mining study (online chatter/brand analysis), making it a plausible direct method/prior-work anchor rather than a generic mention. Given this close methodological and domain overlap and only sparse citation-context evidence (DOI match only), this pair should be retained for full relation judgment rather than dropped.",
+  "triage_decision": "keep_for_relation_judgment"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides large-scale empirical evidence on cashback shopping, a domain where prior work was mostly analytical, by estimating consumer responses to both cashback offers and delayed cashback payments.",
+    "Shows that delaying discounts can still be beneficial even when redemption is automatic and unconditional, so low redemption and forced second purchases are not the mechanism.",
+    "Adds to online price-promotion research by examining cashback shopping as a distinct promotion format and deriving implications for cashback firms and participating retailers."
+  ],
+  "context": "The study is set in online cashback shopping, where consumers initiate purchases through a cashback intermediary and receive promised cashback after a substantial delay. Data come from a large cashback company (name and geography undisclosed) operating across thousands of retailers.",
+  "design_and_data": "The authors analyze panel transaction data from May 2005 to August 2013 for 76,296 registered users, covering 3,433,476 transactions at 5,337 retailers, with observed cashback offers and subsequent cashback payments. They estimate purchase timing with a semiparametric proportional hazard model (consumer-level stratified baseline; frailty robustness) using cashback paid in the prior 7 days as the key predictor and controls for offer size, prior spend, purchase instance, and time effects. They estimate spending effects with random-effects Type I Tobit models at the consumer-week level (plus OLS on the full sample), and run robustness checks on time windows, long delays, positive-payment weeks, and delay interactions. To probe mechanism, they also field a supplementary MTurk survey (n = 441) on spend-versus-save allocations across cashback amounts.",
+  "focal_constructs": [
+    "cashback offers",
+    "cashback payments",
+    "purchase likelihood",
+    "post-payment spending",
+    "delay between purchase and cashback payment",
+    "mental accounting and fungibility",
+    "retailer category (generalist vs specialist)"
+  ],
+  "main_findings": [
+    "Cashback payments increase the probability of additional purchases through the cashback site, beyond the effect of cashback offers on initial demand (about a 0.02% higher daily purchase hazard per additional $1 paid).",
+    "Cashback payments increase subsequent spending; at average values, an additional $1 payment is associated with about $0.32 more spending, and this payment effect is about 10.03% of the total promotion impact.",
+    "The marginal impact of cashback payments is larger for smaller payments and relatively stronger for generalist retailers, and the mechanism evidence is more consistent with mental accounting than with scheduling or transient-state explanations."
+  ],
+  "one_line_summary": "Using eight years of panel data from a large cashback platform, the paper finds that delayed cashback payments - in addition to cashback offers - causally increase both the likelihood and size of future purchases through the platform.",
+  "relation_to_prior_work": "extends prior cashback research that was largely analytical by providing causal empirical evidence on how consumers react to both promised cashback and delayed cashback receipt, and complements delayed-discount studies by documenting benefits in a setting with automatic, unconditional payout.",
+  "research_gap": "Although cashback shopping has grown quickly, evidence on how delayed cashback payments (not just offers) affect downstream purchasing is limited, with prior cashback work mostly analytical and the main empirical study focused on website navigation. Existing delayed-discount literature emphasizes redemption behavior or discounts tied to second purchases, leaving open whether delayed but automatic and unconditional cashback payouts stimulate future demand.",
+  "research_question": "Do delayed cashback payments causally increase consumers' subsequent purchase likelihood and spending through a cashback platform, over and above the immediate effect of cashback offers? How do these effects vary by payment size, delay length, and retailer category, and which behavioral account best explains them?"
+}

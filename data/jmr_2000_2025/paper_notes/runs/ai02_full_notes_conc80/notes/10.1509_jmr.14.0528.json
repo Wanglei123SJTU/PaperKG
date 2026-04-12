@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides causal evidence, using a natural experiment, on how prominent placement of a search engine's own service changes traffic allocation between organic and paid listings.",
+    "Examines mechanisms behind cross-channel interdependence by linking click shifts to user search preferences (salience versus relevance) and by ruling out major advertising-side explanations.",
+    "Discusses implications of these traffic shifts for competition policy and for firms' search marketing strategy."
+  ],
+  "context": "The paper studies Google search results in the U.S. travel domain, focusing on flight-related unbranded queries to U.S. destinations and traffic to online travel agents (OTAs). The focal design change is Google's insertion of Google Flight Search (GFS) above organic results.",
+  "design_and_data": "The core design is a quasi-natural experiment around GFS rollout, where small phrasing differences in similar queries (for example, destination wording) caused some searches to trigger GFS and others not. The authors use a differences-in-differences setup comparing GFS-eligible versus GFS-ineligible queries before (May-August 2011) and after (January-April 2012) introduction, with fixed effects and robustness checks. Primary data come from ComScore Search Planner and include 6,789,299 Google clicks (paid and organic) for the query set; GFS-internal click paths are not observed in these ComScore data. They also use Google Trends plus Keyword Planner search-volume series, ad-exposure measures, and a follow-up MTurk experiment (n = 300) with controlled result-page screenshots.",
+  "focal_constructs": [
+    "search engine services",
+    "Google Flight Search (GFS)",
+    "organic search listings",
+    "paid search advertising listings",
+    "channel interdependence",
+    "channel substitution",
+    "user salience versus relevance search preferences",
+    "click-through rates"
+  ],
+  "main_findings": [
+    "Displaying GFS is associated with a large substitution from organic to paid traffic to OTAs: paid clicks increase by about 70% (paid CTR about +64%) while organic clicks decrease by about 46% (organic CTR about -66%), with related summary estimates in the abstract around +65% and -55%.",
+    "The shift is robust to controls for site-by-time and destination-by-time factors and is not explained by differential trends in query volumes or by changes in OTA ad exposures across eligible versus ineligible queries.",
+    "Effects are heterogeneous: OTAs that previously received more organic traffic show the largest shifts (including large paid-click gains and organic-click losses), and MTurk evidence indicates salience-oriented users are more likely to click GFS while relevance-oriented users are more likely to substitute from organic to paid when organic listings are pushed down."
+  ],
+  "one_line_summary": "Using a natural experiment in Google's flight-query display rules, the paper shows that inserting Google Flight Search prominently reallocates user clicks away from organic links and toward paid ads, with this channel shift shaped by user attention and relevance preferences.",
+  "relation_to_prior_work": "extends prior search marketing research by identifying cross-channel effects when a search engine inserts its own service into results, rather than only studying interactions between organic and paid ads. It complements laboratory-style evidence by using observed behavior from real search users in a quasi-experimental setting. It also connects to models of ordered search and listing prominence by providing evidence on user-segment-specific substitution mechanisms.",
+  "research_gap": "Prior work examined organic-versus-paid interactions and user perceptions of listing channels, but less evidence identified the causal impact of a search engine giving prominent placement to its own service on traffic across external organic and paid channels. The paper addresses this by exploiting quasi-random query-phrasing eligibility around GFS introduction.",
+  "research_question": "How does prominent placement of a search engine's own service within results affect users' propensity to click organic versus paid listings for competing sites? Can observed traffic shifts be causally attributed to the design change, and what user-side mechanisms explain substitution across channels?"
+}

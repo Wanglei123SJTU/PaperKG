@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper appears methodologically adjacent to the citing study: both emphasize out-of-sample prediction with Bayesian MCMC and cross-market/county heterogeneity (spatiotemporal multimarket prediction vs. county-level hierarchical probit conversion modeling). That makes it a plausible methodological/foundational source rather than an obviously incidental mention. However, the provided evidence includes only a DOI-level match with no in-text citation context, so confidence is limited.",
+  "triage_decision": "uncertain"
+}

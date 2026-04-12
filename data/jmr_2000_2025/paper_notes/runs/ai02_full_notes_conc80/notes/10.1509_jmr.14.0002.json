@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and tests a dual-inference account of bragging about prosocial behavior: it reveals good deeds but also signals a selfish desire for credit.",
+    "It identifies when bragging helps versus hurts perceived generosity, emphasizing information novelty and motive attribution as key conditions.",
+    "It shows that conspicuous prosocial consumption can function like bragging and that the self-defeating effect is specific to prosocial brags rather than brags about self-interested achievements."
+  ],
+  "context": "Experiments examine everyday public signaling of generosity, including Facebook posts, a button message, a dinner-party comment, and purchases of conspicuous versus inconspicuous products. Scenarios involve charitable donations and volunteering in U.S.-based interpersonal settings.",
+  "design_and_data": "Seven controlled experiments (Studies 1a-6; total N = 1,670) were conducted with U.S. online adults and University of Pennsylvania students using between-subject designs. Manipulations varied whether prosocial behavior was known versus unknown, whether the actor bragged, actor reputation cues (investment banker vs social worker), message content (brag vs brag + recruit), and product conspicuousness for prosocial versus noncharity goods. Main outcomes were multi-item measures of perceived altruism, perceived intrinsic motivation, and perceived self-promotion; bootstrap mediation analyses tested intrinsic motivation as a mechanism in Studies 3, 5, and 6. The authors state that sample sizes were set in advance, all measures were reported, and no conditions or participants were dropped.",
+  "focal_constructs": [
+    "bragging",
+    "prosocial behavior",
+    "perceived altruism",
+    "intrinsic motivation",
+    "selfish motive attribution",
+    "information novelty about good deeds",
+    "conspicuous prosocial consumption"
+  ],
+  "main_findings": [
+    "When prosocial behavior was unknown, bragging increased perceived altruism, but when the same behavior was already known, bragging reduced perceived altruism.",
+    "Bragging effects depended on context and content: an actor without a prosocial reputation benefited more from bragging, and adding a recruitment appeal made bragging less damaging than bragging alone.",
+    "Conspicuous prosocial purchases reduced perceived altruism relative to inconspicuous prosocial purchases when the good deed was known, and mediation evidence showed that bragging lowered altruism judgments by reducing perceived intrinsic motivation; this trait-undermining pattern did not appear for bragging about self-interested achievements."
+  ],
+  "one_line_summary": "Across seven experiments, advertising one's own good deeds increased perceived altruism only when the deeds were otherwise unknown, but usually reduced altruism when deeds were already known by signaling selfish image motives.",
+  "relation_to_prior_work": "extends impression-management and prosocial-signaling research by shifting attention from what drives charitable behavior to how observers interpret publicized good deeds. It builds on motive-attribution work by showing that self-promotion can discount perceived altruism when behavior information is not novel, and contrasts this with bragging about personal achievements that does not similarly discount the focal trait.",
+  "research_gap": "Prior consumer research on charity had focused mostly on drivers of prosocial action, with little attention to how observers evaluate people who publicize their good deeds. The paper addresses whether people can advertise prosocial behavior without triggering suspicion about selfish motives.",
+  "research_question": "How does bragging about prosocial behavior affect observers' perceptions of generosity? Specifically, when does advertising good deeds increase versus decrease perceived altruism, through which motive inferences, and is this pattern unique relative to bragging about self-interested achievements?"
+}

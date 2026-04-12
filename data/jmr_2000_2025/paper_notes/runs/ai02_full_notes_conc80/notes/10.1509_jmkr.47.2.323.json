@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "This research challenges the assumption that more search effort necessarily increases satisfaction with the chosen option.",
+    "It shows a paradoxical slippery slope: consumers search more among nonalignable options even when further search lowers their eventual choice satisfaction.",
+    "It identifies feature learning during search as the primary driver of the inverted U relationship between search and satisfaction for nonalignable options, beyond the role of choice difficulty."
+  ],
+  "context": "The paper studies consumer search in controlled online choice tasks where people inspect product options and then select one. The empirical settings are consumer electronics categories, specifically computers and MP3 players, with options differing in alignable versus nonalignable features.",
+  "design_and_data": "The evidence comes from three experiments with undergraduate participants using web-based product search interfaces (Study 1 n=213, Study 2 n=256, Study 3 n=269). Study 1 manipulated alignability and number of options viewed (3, 9, 15) and measured search inclination, choice satisfaction, and clickstream behavior. Studies 2 and 3 used free search, captured unique options searched via clickstream data, and manipulated feature preexposure to separate feature learning from option learning while controlling for measured choice difficulty. Outcomes included choice satisfaction in all studies and process satisfaction in Study 3.",
+  "focal_constructs": [
+    "feature alignability",
+    "nonalignable versus alignable options",
+    "search amount",
+    "choice satisfaction",
+    "feature learning",
+    "option learning",
+    "choice difficulty",
+    "self-generated choice sets"
+  ],
+  "main_findings": [
+    "Consumers were more inclined to search and actually searched more unique options when options were nonalignable rather than alignable.",
+    "Choice satisfaction followed an inverted U as search increased for nonalignable options, but not for alignable options.",
+    "The inverted U pattern depended on feature learning during search: it disappeared with feature preexposure, and many participants in free-search nonalignable conditions searched past the estimated satisfaction peak."
+  ],
+  "one_line_summary": "Across three experiments, nonalignable features increased consumer search but eventually reduced choice satisfaction with continued search, leading many consumers to oversearch beyond their own satisfaction optimum.",
+  "relation_to_prior_work": "extends prior alignability and assortment research by moving from externally fixed assortments to consumer-constructed choice sets through search, and by linking alignability to both search quantity and satisfaction dynamics. It introduces feature learning during search as a mechanism for self-detrimental oversearch among nonalignable options.",
+  "research_gap": "Prior assortment studies mainly used externally generated choice sets and emphasized difficulty, regret, deferral, or defection when options are nonalignable, while search research generally concludes consumers search too little. The paper addresses the unresolved question of how alignability affects search when consumers generate their own option sets and whether more search can become detrimental to satisfaction.",
+  "research_question": "How does feature alignability influence how much consumers search when they construct their own choice sets? How does search quantity affect choice satisfaction for alignable versus nonalignable options, and do consumers continue searching among nonalignable options past the point where satisfaction begins to decline? The paper also tests whether feature learning is the main mechanism behind this pattern."
+}

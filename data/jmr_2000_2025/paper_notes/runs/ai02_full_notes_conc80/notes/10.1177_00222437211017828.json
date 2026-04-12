@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides what the authors describe as the first textual investigation of idea-related versus identity-related content sharing in an online learning platform.",
+    "Assesses the effects of different content-sharing strategies on multiple engagement outcomes (video consumption, assessment completion, course performance) using both archival data and a randomized field experiment.",
+    "Identifies an \"idea advantage,\" links it to greater elaboration in learner posts, and presents inviting idea sharing as a low-cost intervention with heterogeneous effects across learner segments."
+  ],
+  "context": "The studies are conducted on Coursera in a popular four-week digital marketing course offered by a large U.S. university. The analyses focus on paid learners (the group eligible to complete the course) from multiple countries.",
+  "design_and_data": "Study 1 uses archival course data from March 2016 to August 2017 (18,695 paid learners; 4,676 forum participants; over 12,000 forum posts). The authors classify forum text into idea versus identity content using LDA topic modeling and LIWC, then estimate associations with engagement outcomes using OLS models with controls and fixed effects. Study 2 is a randomized encouragement field experiment in the same course in 2019 (2,122 paid learners) with three conditions: idea-sharing prompt, identity-sharing prompt, and no prompt control. Compliance was partial (about 24% in idea and 29% in identity posted), so results are reported as intent-to-treat plus complier-focused and heterogeneity analyses.",
+  "focal_constructs": [
+    "idea sharing",
+    "identity sharing",
+    "learner engagement",
+    "elaboration",
+    "video consumption",
+    "assessment completion",
+    "course performance",
+    "learner heterogeneity"
+  ],
+  "main_findings": [
+    "In Study 1, learners with a higher share of idea-focused posts (vs. identity-focused posts) showed higher video consumption, assessment completion, and course performance.",
+    "In Study 2, assignment to the idea-sharing prompt increased video consumption by about 31% and assessment completion by about 30% relative to control, while the identity-sharing prompt showed no significant improvement on these outcomes.",
+    "Idea-sharing posts were more elaborate and analytical than identity-sharing posts, and the idea advantage was strongest for learners from English-speaking countries and for learners new to online learning; course performance gains appeared among compliers rather than as an ITT effect."
+  ],
+  "one_line_summary": "Across archival and experimental evidence from a Coursera digital marketing course, prompting learners to share course ideas rather than personal identity increases engagement, with effects linked to greater textual elaboration and stronger among English-speaking and novice online learners.",
+  "relation_to_prior_work": "extends prior education and marketing research by shifting attention from why people share content, or how readers react, to how content type affects the sharer's own engagement in online learning platforms. It adds causal evidence with a randomized encouragement design in a literature the authors describe as largely descriptive or agnostic to content type.",
+  "research_gap": "The paper argues that little is known in marketing or education about how content sharing affects learner engagement in online learning platforms, especially by type of content shared. Prior work has focused more on drivers of sharing or effects on readers and has offered limited causal evidence on sharer outcomes and learner heterogeneity.",
+  "research_question": "How do two types of content sharing in online learning platforms - sharing course ideas versus sharing personal identity - affect learner engagement outcomes? What mechanism explains any difference, and how do effects vary across learner characteristics such as language background and prior online learning experience?"
+}

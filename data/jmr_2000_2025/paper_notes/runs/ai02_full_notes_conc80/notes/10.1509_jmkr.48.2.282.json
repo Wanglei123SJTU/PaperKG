@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper introduces the \"mere token\" effect, a new decision phenomenon in which adding a token to both options shifts choices under goal conflict.",
+    "It proposes and tests a scope-insensitive justification account in which token presence, not token magnitude, resolves intrapersonal conflict, and it identifies moderators tied to conflict intensity (psychological distance, option contrast, and goal activation).",
+    "It claims to rule out alternative explanations, including additive utility models (normative and descriptive), diminishing marginal utility, liquidity constraints, mental accounting, and naive diversification."
+  ],
+  "context": "The studies examine consumer monetary decisions in intertemporal choice, risky choice, and credit-card payment decisions. The authors motivate the setting with financial-services practices such as account-opening bonuses and other token incentives.",
+  "design_and_data": "The article reports six experiments (plus multiple replications), mostly between-subject online surveys with adult consumers and one within-subject student study. Participants made hypothetical choices between sooner-smaller versus later-larger rewards, safer-smaller versus riskier-larger lotteries, or payment options; treatments added a common immediate or certain token to both options and varied token size. Additional manipulations varied psychological distance (probability or delay), starkness of trade-offs (amount/probability structures), and salience of competing goals (priming). Outcomes include choice shares, line-scale preferences, and reported choice difficulty, analyzed with z-tests, ANOVA, and logistic/linear regressions.",
+  "focal_constructs": [
+    "intrapersonal choice conflict",
+    "scope-insensitive justification",
+    "mere token effect",
+    "intertemporal choice",
+    "risky choice",
+    "psychological distance",
+    "competing goal salience"
+  ],
+  "main_findings": [
+    "Adding a common immediate/certain token to both alternatives increased choice of the later-larger option in intertemporal tasks and the riskier-larger option in risky tasks.",
+    "The effect was scope insensitive in tested ranges: token presence shifted choices, but larger token magnitudes did not significantly increase the shift.",
+    "The effect tracked conflict intensity: it strengthened when trade-offs were starker or competing goals were jointly salient, and it weakened or disappeared when psychological distance increased or a single goal was primed."
+  ],
+  "one_line_summary": "Across six experiments, the paper shows that a common \"mere token\" added to all options can resolve intrapersonal goal conflict and systematically shift intertemporal, risky, and payment choices in a largely scope-insensitive way.",
+  "relation_to_prior_work": "challenges additive utility accounts in expected utility, hyperbolic discounting, and prospect-theoretic frameworks by showing that common components added to both options can still change choices and often independently of token size. It also connects to prior justification and self-control work by showing that token justifications can facilitate either farsighted or shortsighted choices depending on which goals are active.",
+  "research_gap": "Prior compensatory choice models imply that common additive elements should cancel and that conflict should not alter the option chosen. The paper argues that the downstream effect of token incentives on subsequent choices, especially via motivational conflict in financial decisions, had not been directly tested.",
+  "research_question": "Can adding a small common token amount to all options systematically change decisions when the options represent competing internal goals? Is this effect largely insensitive to token magnitude, and is it driven and moderated by the intensity of intrapersonal choice conflict across intertemporal, risky, and payment choices?"
+}

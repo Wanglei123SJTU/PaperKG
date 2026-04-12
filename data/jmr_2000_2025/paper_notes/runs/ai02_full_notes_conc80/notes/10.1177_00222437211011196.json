@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "This is the first study to theoretically and empirically link religion to negative word of mouth (NWOM).",
+    "It distinguishes the effects of religious belief versus religious priming on NWOM and identifies fairness-violation sensitivity and forgiveness as the core process mechanisms.",
+    "It shows that religious priming attenuates NWOM among more religious consumers, identifying a context where priming dampens rather than amplifies religiosity effects and helping explain the religion-forgiveness discrepancy."
+  ],
+  "context": "The paper studies everyday service failure contexts, centered on U.S. restaurant experiences and online reviews. Evidence comes from Yelp restaurant reviews and controlled U.S. lab studies using restaurant service-failure and product-failure scenarios.",
+  "design_and_data": "The authors run five studies: one large field study and four lab studies. Study 1 uses over 1.2 million Yelp restaurant reviews (analysis sample: 843,780 geolocated reviews) from more than 40,000 restaurants between January 2010 and November 2018, merged with county-level religion data (church members per capita and churches per capita) and Census demographics, with extensive controls and fixed effects; religious priming is proxied by reviews written on Sundays in December. Studies 2-5 are online experiments (Prolific/MTurk) that measure religious belief, manipulate religious priming (sentence-scrambling or writing tasks), induce service/product failure scenarios, and test mediation/moderation with PROCESS. The lab studies measure NWOM likelihood, perceived unfairness, forgiveness, and controls including demographics and political ideology.",
+  "focal_constructs": [
+    "religious belief",
+    "religious priming",
+    "negative word of mouth (NWOM)",
+    "sensitivity to fairness violations",
+    "forgiveness",
+    "service failure",
+    "punishing versus helping NWOM motive"
+  ],
+  "main_findings": [
+    "In the Yelp field data, higher county religiosity is associated with lower review ratings (more NWOM), and this tendency is attenuated when religious salience is higher (reviews written on Sundays in December).",
+    "Across experiments, higher religious belief increases NWOM likelihood, and this effect is mediated by greater perceived unfairness that reduces forgiveness.",
+    "Religious priming reduces NWOM among more religious consumers via reduced perceived unfairness and increased forgiveness, and this attenuation appears when NWOM is framed as punishing rather than helping."
+  ],
+  "one_line_summary": "Across a large Yelp field study and four experiments, the paper shows that religious belief increases NWOM after failure through fairness-violation sensitivity and lower forgiveness, while religious priming attenuates this pattern among more religious consumers.",
+  "relation_to_prior_work": "extends WOM research by introducing religion as an ideological antecedent of NWOM in service-failure settings and by integrating social exchange and norm-based mechanisms. It challenges the common religious priming pattern of amplifying religiosity effects by identifying NWOM as a case where priming attenuates the effect among highly religious consumers. It refines religion-forgiveness research by showing fairness-violation sensitivity as a mediator linking religion to forgiveness-related outcomes.",
+  "research_gap": "Prior NWOM research had examined factors such as individual differences, relationships, and communication channels, but had not examined ideological beliefs like religion as predictors of NWOM. In addition, prior religion research reported a religion-forgiveness discrepancy and unclear roles of belief versus priming in fairness and forgiveness responses to transgressions.",
+  "research_question": "Do more religious consumers engage in more NWOM after everyday service failures, and can religious priming reduce this tendency? Through what mechanisms do religious belief and religious priming influence NWOM, specifically via sensitivity to fairness violations and forgiveness?"
+}

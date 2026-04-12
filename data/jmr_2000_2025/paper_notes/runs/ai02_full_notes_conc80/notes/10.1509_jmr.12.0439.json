@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes that a key driver of subjective bargain perception is whether an offer seems more valuable to the consumer than the marketer intended.",
+    "It shows that explicit customization/targeting can backfire: offers framed as tailored to the consumer can be less attractive than equivalent offers that appear to fit by coincidence.",
+    "It identifies a competitive mechanism: the urge to exploit unintended value reflects a desire to outsmart profit-seeking marketers, with clear moderators such as competition priming, seller type, and fit ambiguity."
+  ],
+  "context": "The paper studies consumer responses to marketing offers and promotions, with emphasis on customization and targeted offers. Empirical contexts include discounted magazine subscriptions (The Economist and an unfamiliar business magazine) and a cable channel package offer.",
+  "design_and_data": "The evidence is a pilot study plus six experiments using mostly national online samples and between-subject designs, with reported sample sizes including N=71 (pilot), 404, 304, 210, 123, 320, and 407 across Experiments 1-5 (with 2a and 2b). Manipulations varied whether value/fit appeared incidental versus explicitly tailored, and tested moderators such as competition primes, seller identity (for-profit vs. not-for-profit), idiosyncratic fit, and product-fit ambiguity. Dependent measures included incentive-compatible or hypothetical offer choice, perceived bargain and unintended-value ratings, perceived fit checks, mediation tests, and a measured psychological reactance scale.",
+  "focal_constructs": [
+    "subjective bargain perception",
+    "unintended value",
+    "idiosyncratic fit",
+    "offer customization",
+    "targeted promotions",
+    "competitive mindset",
+    "seller profit intent",
+    "product fit ambiguity"
+  ],
+  "main_findings": [
+    "Across studies, consumers were more likely to perceive an offer as a bargain and choose it when it seemed incidentally valuable (unintended by the marketer) than when the same value was framed as explicitly tailored.",
+    "Competition primes increased preference for incidental offers but did not increase acceptance of tailored offers, supporting a competitive outsmart-the-marketer mechanism.",
+    "The incidental-versus-tailored effect was attenuated when the seller was framed as not-for-profit, and it reversed when product fit was ambiguous, where explicit tailoring increased uptake."
+  ],
+  "one_line_summary": "The paper shows that consumers often prefer offers that seem valuable by coincidence over explicitly tailored offers because unintended value feels like beating a profit-seeking marketer.",
+  "relation_to_prior_work": "extends bargain-perception and idiosyncratic-fit research by adding perceived unintended value and marketer intent as core determinants of deal attractiveness, and connects these effects to persuasion-knowledge views of marketer motives.",
+  "research_gap": "Prior research identified many cues of value (e.g., discount magnitude, reference prices, idiosyncratic fit) but did not clearly explain when consumers subjectively construe an offer as a true bargain. The paper addresses the underexplored role of perceived marketer intent, especially whether explicit tailoring can reduce bargain perceptions relative to incidental fit.",
+  "research_question": "When do consumers construe a marketing offer as a bargain and act on it? Specifically, does perceived unintended value (value that seems greater than the marketer intended) increase offer attractiveness relative to explicitly tailored value, and is this effect driven by competitive motivation and moderated by seller intent and fit ambiguity?"
+}

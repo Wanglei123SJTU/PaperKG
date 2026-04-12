@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper identifies distinct psychological pathways for two health behavior types: fear for illness detection and self-efficacy for illness prevention.",
+    "It shows that construal level has opposite persuasive effects by behavior type: high-level (why) thought can undermine detection engagement but enhance prevention engagement.",
+    "It offers a practical intervention by reframing a detection action as serving prevention goals, which increases engagement with an online breast cancer detection tool."
+  ],
+  "context": "The studies are set in health messaging contexts involving clinical depression and anxiety, skin cancer, and breast cancer. Evidence includes social media conversations about cancer detection versus prevention and experiments measuring help-seeking intentions and actual use of a breast cancer risk assessment tool.",
+  "design_and_data": "The paper includes a pilot sentiment analysis of 13,528 English tweets (4,599 detection-related; 8,929 prevention-related) about cancer from 2017, coded with LIWC. Study 1 is a 2 x 2 experiment (detection vs prevention x how vs why) with 391 undergraduates, measuring depression help-seeking intentions, fear, and self-efficacy. Study 2 is a 2 x 3 experiment (detection vs prevention x how vs why vs control) with 647 online panel participants, controlling for PHQ-4 anxiety/depression risk; Study 3 is a 2 x 2 skin-cancer experiment with 407 online participants using premeasured trait fear and trait self-efficacy as moderators. Study 4 is a 2 x 2 experiment with 402 women testing message framing (detection-as-detection vs detection-as-prevention) and thought level, with a behavioral outcome: whether participants chose to use the National Cancer Institute Breast Cancer Risk Assessment Tool.",
+  "focal_constructs": [
+    "illness detection behaviors",
+    "illness prevention behaviors",
+    "fear",
+    "self-efficacy",
+    "construal level (why vs how)",
+    "health persuasion",
+    "help-seeking intentions"
+  ],
+  "main_findings": [
+    "For detection behaviors, why (vs how) thinking increased fear and reduced engagement intentions, while how thinking reduced fear and improved intentions.",
+    "For prevention behaviors, why (vs how) thinking increased perceived self-efficacy and increased engagement intentions; this efficacy pathway did not explain detection effects.",
+    "Trait fear strengthened detection thought-level effects, trait self-efficacy strengthened prevention thought-level effects, and framing detection as prevention attenuated the high-level-thought disadvantage and increased use of an online breast cancer detection tool."
+  ],
+  "one_line_summary": "Across multiple health contexts, the paper shows that detection behaviors are hindered by fear under high-level construal while prevention behaviors are helped by self-efficacy under high-level construal, and that reframing detection as prevention can improve behavioral uptake.",
+  "relation_to_prior_work": "extends prior health messaging work that mainly contrasts detection and prevention through risk framing by identifying fear as a central detection mechanism and self-efficacy as a prevention mechanism. It refines construal-level findings by showing that high-level construal is not uniformly beneficial for health behavior, because it can reduce engagement for detection while increasing engagement for prevention.",
+  "research_gap": "Prior health messaging literature is dominated by prevention, with relatively little direct evidence on detection behaviors. The paper argues that detection and prevention are conceptually different, so prevention-based conclusions may not generalize, and the emotional process underlying detection needed clearer specification.",
+  "research_question": "Do illness-detection and illness-prevention behaviors rely on different psychological processes, and does construal level (why vs how thinking) influence persuasion differently across these behavior types? The paper tests whether detection evokes fear that suppresses engagement, whereas prevention depends on self-efficacy that can be enhanced by higher-level thought."
+}

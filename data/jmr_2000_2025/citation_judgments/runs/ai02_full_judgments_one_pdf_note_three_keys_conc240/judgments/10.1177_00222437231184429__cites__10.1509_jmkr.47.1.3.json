@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Petrin and Train (2010) as the methodological basis for its endogeneity correction strategy. In the identification section, the authors explicitly state they use a control function approach, estimate first-stage equations for endogenous regressors, extract residuals, and include those residuals in their main equations, citing Petrin and Train for this procedure. This is part of the core empirical design used to test the paper's main hypotheses, so the citation is more than a passing mention.",
+  "relation_description": "The citing paper applies the control function framework from Petrin and Train (2010) to address endogeneity in its firm-level models. Specifically, it uses instrumented first-stage regressions and residual inclusion in outcome equations as a key identification device.",
+  "relation_type": "applies"
+}

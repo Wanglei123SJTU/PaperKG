@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces a behavior-to-identity perspective in marketing by theorizing and testing how giving and support behavior can shrink moral identity discrepancy.",
+    "It provides multi-study evidence that the behavior-discrepancy relationship and response to moral identity primes are gendered, with stronger effects for women and especially for women with less prior support.",
+    "It develops moral identity discrepancy measurement approaches (in Field Survey 1 and Study 3) and examines a pathway involving encouragement/uplift and moral identity reinforcement."
+  ],
+  "context": "The studies are set in charitable marketplace behavior, including a U.S. nonprofit public radio fund drive and an Australian poverty-aid nonprofit email campaign. A final online study uses a hypothetical Amnesty International donation scenario with U.S.-based MTurk participants.",
+  "design_and_data": "The paper reports four studies. A demonstration field experiment with 426 radio donors randomized a moral identity prime versus no prime during live donation calls and measured pledge amount. Field Survey 1 linked 352 donor surveys to historical giving records from the same U.S. nonprofit to test associations with moral identity discrepancy. Field Experiment 2 sent campaign emails to 14,010 Australian nonprofit supporters (3,359 openers analyzed) and modeled link-click support by prime condition, gender, and past supporting behaviors; Study 3 used an MTurk sample (final n = 554) with pre/post discrepancy measures, hypothetical giving, and conditional process analysis.",
+  "focal_constructs": [
+    "moral identity discrepancy",
+    "actual moral identity",
+    "ideal moral identity",
+    "moral identity priming",
+    "charitable giving and support behavior",
+    "gender differences",
+    "feelings of encouragement and uplift",
+    "moral identity reinforcement"
+  ],
+  "main_findings": [
+    "In the live radio field experiment, moral identity priming significantly increased women's donations (about 21%) but did not significantly change men's donations.",
+    "In Field Survey 1, higher historical average giving was associated with lower moral identity discrepancy for women but not for men.",
+    "In the Australian email field experiment, moral identity primes increased follow-up support mainly among women with fewer past supporting behaviors, and in Study 3 reinforced moral identity was linked to lower postbehavior discrepancy for women (especially when prebehavior discrepancy was high) but not for men."
+  ],
+  "one_line_summary": "Across field and online studies, the paper finds that moral identity primes and prior support interact with gender such that women's giving/support behavior is more strongly tied to, and can reduce, moral identity discrepancy.",
+  "relation_to_prior_work": "extends prior moral identity and giving research by moving beyond the dominant identity-to-behavior focus to test behavior-to-identity feedback via moral identity discrepancy. It also builds on prior gendered moral identity priming effects by identifying past support and prebehavior discrepancy as important moderators.",
+  "research_gap": "The authors argue that prior work has examined how moral identity influences behavior but has not tested whether behavior (such as giving/supporting a nonprofit) influences moral identity. They also state that gender differences in this behavior-to-moral-identity-discrepancy link have not been tested in nonprofit market behavior contexts.",
+  "research_question": "Can giving and nonprofit-support behaviors shrink moral identity discrepancy, and does this process differ between women and men? The paper also asks whether moral identity primes in marketing communications are especially effective for women with lower past support and what psychological pathway links giving to changes in discrepancy."
+}

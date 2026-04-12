@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper identifies food-induced serotonin variation as a driver of consumer impulsivity, beyond the usual focus on store context and trait differences.",
+    "It provides converging evidence from a naturalistic Thanksgiving-Black Friday setting and a controlled randomized lab study using a tryptophan-containing beverage.",
+    "It shows that serotonergic effects are stronger for high dispositional impulsives and appear in both impulsive choice and response inhibition measures."
+  ],
+  "context": "Study 1 is set on Thanksgiving evening, when many participants consume turkey and carbohydrate-rich holiday meals, and links this to Black Friday discount purchase intentions. Study 2 is a laboratory setting with fasting participants who consume standardized beverages before completing decision tasks.",
+  "design_and_data": "Study 1 used an online survey on Thanksgiving evening with 170 participants, comparing those who reported a traditional turkey dinner (n = 113) versus other dinners (n = 57). Participants rated willingness to buy a deeply discounted laptop, completed a dispositional impulsivity scale and PANAS, and reported next-day shopping intention; analyses tested condition effects and condition x impulsivity interactions. Study 2 recruited 54 participants (one excluded for refusing the drink), randomly assigned to a tryptophan-rich chocolate milk-based protein shake (650 mg tryptophan) or a similar control shake, then tested them 2.5 hours later after fasting. Outcomes were go/no-go performance (commission and omission errors, response time, earnings) and a layaway-versus-credit-card financing preference task.",
+  "focal_constructs": [
+    "serotonin",
+    "tryptophan-rich food consumption",
+    "impulsive choice",
+    "impulsive responding",
+    "dispositional impulsivity",
+    "deal-proneness for discounted products",
+    "layaway financing preference",
+    "go/no-go response inhibition"
+  ],
+  "main_findings": [
+    "In Study 1, participants who consumed the tryptophan-rich Thanksgiving meal were less willing to buy the discounted laptop than control participants (M = 3.96 vs. 4.63), and mood did not differ across groups on PANAS.",
+    "The Study 1 effect was moderated by dispositional impulsivity: high-impulsives showed a large reduction in willingness to buy after tryptophan-rich consumption (M = 3.79 vs. 5.32), whereas low-impulsives showed no significant difference.",
+    "In Study 2, the tryptophan group made fewer go/no-go commission errors (6.66% vs. 18.07%), earned more money, had longer response times on bad-number trials, showed no omission-error differences, and preferred layaway more strongly (M = 7.52 vs. 6.25)."
+  ],
+  "one_line_summary": "Across a Thanksgiving field setting and a randomized lab experiment, the paper shows that consuming tryptophan-rich food or drink is linked to lower impulsive consumer choice and better inhibition of impulsive responses.",
+  "relation_to_prior_work": "extends prior serotonin research from psychopathology and amino-acid manipulation paradigms to everyday consumer decisions by showing that ordinary tryptophan-rich meals and drinks can reduce impulsive product and financing choices.",
+  "research_gap": "Prior consumer research mainly explains impulsive choice through contextual triggers and personality traits, while serotonin research has focused largely on clinical or nonconsumer behaviors. The paper addresses whether food-based serotonin enhancement can shape everyday consumer impulsive choice and responding.",
+  "research_question": "Does consuming tryptophan-rich food that enhances serotonin reduce consumers' impulsive choice and impulsive responding? Is this effect stronger for consumers high in dispositional impulsivity than for those low in dispositional impulsivity?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops and empirically tests a comprehensive CIC framework that links fairness, disconfirmation, and perceived quality to satisfaction and then to SCR and WoM behavior.",
+    "It broadens CIC evidence beyond complaint-only service-failure studies by analyzing a broad cross-section of manufacturer contacts (complaints and inquiries) in consumer packaged goods.",
+    "It shows that CIC-specific factors do more than create main-effect regularities: they change responsiveness to firm-controlled contact elements, supporting customized rather than uniform CIC processing."
+  ],
+  "context": "The empirical setting is customer affairs interactions with seven large U.S. consumer packaged goods manufacturers whose brands are sold through retail channels. The CICs cover complaints and inquiries across more than 60 food and nonfood brands and contact modes such as telephone, mail, and e-mail.",
+  "design_and_data": "Each manufacturer invited randomly selected customers who had recently initiated contact with its consumer affairs or customer relations department, and participating customers were interviewed by telephone. The dataset contains more than 1700 CICs (usable sample sizes vary by dependent variable) across seven firms and 60+ brands, with self-reported pre- and postcontact purchase shares and WoM behavior. The authors estimate a recursive system using ordered logit for satisfaction with final outcome, iterated weighted least squares with a logit transformation for postcontact SCR, and a two-part WoM model (binary logit for incidence and truncated-at-zero negative binomial for quantity). They compare fixed-parameter source models with models that allow effects to vary by CIC-specific factors such as high prior loyalty, heavy usage, complaint versus inquiry, and whether the customer first asked a retailer.",
+  "focal_constructs": [
+    "customer-initiated contact (CIC)",
+    "satisfaction with final outcome",
+    "procedural fairness",
+    "interactional fairness",
+    "distributional fairness",
+    "disconfirmation",
+    "share of category requirements (SCR)",
+    "word-of-mouth behavior"
+  ],
+  "main_findings": [
+    "Satisfaction with the final CIC outcome increases with procedural, interactional, and distributive fairness, positive disconfirmation, and perceived quality, and it is more sensitive to negative than positive disconfirmation.",
+    "Procedural fairness is the strongest overall fairness driver of satisfaction, while interactional fairness is especially important for highly loyal customers, complaint contacts, and customers who first sought retailer resolution, and distributive fairness is especially important for heavy category users.",
+    "Higher satisfaction increases postcontact SCR with diminishing returns and affects WoM most at satisfaction extremes; postcontact SCR is lower on average for complaints and for customers who first asked retailers, but responsiveness to satisfaction is stronger for segments such as high-loyal, heavy-user, and ask-retailer customers."
+  ],
+  "one_line_summary": "Using survey data on more than 1700 manufacturer customer-initiated contacts across 60+ consumer product brands, the study shows how fairness-driven satisfaction after contact shapes postcontact SCR and WoM and how these effects vary by customer and contact context.",
+  "relation_to_prior_work": "extends prior customer-firm interaction research by moving from complaint-centric service recovery studies to a broad set of manufacturer customer-initiated contacts, including inquiries. It refines the role of CIC-specific factors by modeling them as moderators of responsiveness to fairness and satisfaction effects, not only as controls. It also links antecedents of satisfaction to downstream behavioral outcomes (SCR and WoM) in one empirical framework.",
+  "research_gap": "Prior CIC research focused mainly on complaints and service-failure contexts, with limited evidence on manufacturer contacts in consumer packaged goods and on noncomplaint inquiries. Existing work also largely modeled CIC-specific factors as controls or recursive antecedents rather than explaining differential responsiveness to firm-controlled contact performance and tracing effects through to behavioral outcomes.",
+  "research_question": "How does manufacturer performance during a customer-initiated contact influence customer behavior after the contact? Specifically, do perceived fairness (procedural, interactional, distributive), disconfirmation, and perceived quality drive satisfaction with the final contact outcome, and does that satisfaction affect postcontact SCR and WoM? The paper also asks whether customer characteristics and contact context moderate these relationships."
+}

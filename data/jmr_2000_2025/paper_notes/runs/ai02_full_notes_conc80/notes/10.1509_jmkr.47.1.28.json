@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "Introduces lagged aggregate customer satisfaction as a marketing-based predictor of future aggregate discretionary consumer spending growth.",
+    "Presents a simple asymmetric growth model that combines willingness to spend (satisfaction) with ability to spend (household debt service) through an interaction term.",
+    "Shows that this specification improves explanatory power for one-quarter-ahead spending growth relative to prior macro predictor specifications and highlights the macro relevance of marketing metrics."
+  ],
+  "context": "The paper studies aggregate U.S. consumer behavior, focusing on quarterly growth in discretionary consumer expenditures. It links national customer satisfaction to macro-level spending dynamics in the U.S. economy.",
+  "design_and_data": "The authors estimate time-series regressions using quarterly data from Q4:1994 to Q2:2006, with a validation extension through Q2:2008. Data combine the national ACSI score, discretionary consumer expenditures, household debt service ratio, CPI, consumer sentiment (ICS), income, and consumer credit from U.S. public sources. Variables are log-transformed, unit-root tested, and modeled in first differences; the main specification is an asymmetric model with lagged predictors and an interaction between lagged satisfaction change and positive lagged DSR change. Robustness checks compare alternative predictor sets and add controls and a crisis-period step dummy.",
+  "focal_constructs": [
+    "aggregate customer satisfaction (ACSI)",
+    "discretionary consumer spending growth",
+    "household debt service ratio (DSR)",
+    "willingness to spend",
+    "ability to spend",
+    "asymmetric consumption response"
+  ],
+  "main_findings": [
+    "Lagged changes in aggregate customer satisfaction positively and significantly predict one-quarter-ahead growth in discretionary consumer spending.",
+    "Increases in household debt service significantly weaken the positive satisfaction-spending link via a negative interaction, while decreases in debt service do not show comparable effects.",
+    "The asymmetric model explains substantially more variation than comparator models used in prior work (adjusted R2 about .23 versus at most about .12), and key satisfaction effects remain robust across added controls and crisis-period checks."
+  ],
+  "one_line_summary": "Using U.S. quarterly data, the study finds that lagged improvements in aggregate customer satisfaction predict higher next-quarter discretionary spending growth, but this effect is dampened when household debt service rises.",
+  "relation_to_prior_work": "extends prior aggregate consumption forecasting research by adding a marketing variable, customer satisfaction, to models that mainly used sentiment, debt, income, and credit measures. It also refines asymmetric consumption evidence by showing that the satisfaction effect is specifically attenuated when debt service increases.",
+  "research_gap": "Prior studies found only modest predictive power for aggregate spending growth using standard macro variables, and the paper states that no prior symmetric or asymmetric specification had incorporated marketing factors. The authors address this by testing whether aggregate customer satisfaction adds predictive content.",
+  "research_question": "Do lagged changes in aggregate customer satisfaction help predict future growth in aggregate discretionary consumer spending? Is this effect moderated by consumers' ability to spend, captured by increases in the household debt service ratio, and does it add information beyond standard controls?"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in the citing paper's Appendix A to justify a specific modeling choice: estimating price sensitivity with a Tobit model because discount is left-censored at zero. This is not just a broad literature-list mention; it supports how the authors operationalize an important construct used in their heterogeneity analysis. Although the citation appears in a grouped reference, its functional role is identifiable as methodological precedent for measurement.",
+  "relation_description": "The citing paper applies prior methodological practice from Lambrecht and Skiera (2006) to model discount-based price sensitivity with a Tobit specification. This borrowed approach underpins the customer classification used to analyze heterogeneous treatment effects in the field experiments.",
+  "relation_type": "applies"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper appears highly topically and methodologically relevant: it develops an individual-level longitudinal social-influence model on site usage (ego-centered Poisson with Bayesian shrinkage/MCMC), while the citing paper also estimates individual-level peer effects on repeat usage using lagged friend activity and Bayesian MCMC. Given this plausible role as a foundational prior/methodological reference in the citing study’s core social-influence analysis, this is not safely an obvious mention-only citation. The DOI match is exact, but no in-text citation context is provided, so it should proceed to full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

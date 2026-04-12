@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper presents a novel field data set using wearable in-store video tracking linked to surveys and receipts, enabling direct observation of product consideration behavior at the point of purchase.",
+    "It introduces a category-level latent utility framework with latent category maps to model unplanned consideration incidence and complementarities between planned baskets and unplanned categories.",
+    "It provides an empirical deconstruction of the first moment of truth into incidence, category propensity, behavioral characteristics, and conversion outcomes for unplanned considerations."
+  ],
+  "context": "The empirical setting is a medium-sized grocery store in a northwestern U.S. city. The study examines real shopping trips across 96 product categories at the point of purchase.",
+  "design_and_data": "Data were collected from June to September 2009 by intercepting 250 shoppers at store entry; 13 trips with corrupted video were excluded, leaving 237 shoppers. Participants completed an entrance survey on planned purchases and trip variables, wore a portable head-mounted video device with RFID location tracking during shopping, and completed an exit survey; receipts and day-level store promotions were linked to each trip. Trained coders manually coded category considerations from videos using predefined criteria, and unplanned considerations were defined as considered categories not listed in the entrance plan. The authors ran descriptive analyses and two Bayesian latent utility models (estimated via MCMC): one for category-level unplanned consideration incidence and one for unplanned consideration purchase conversion.",
+  "focal_constructs": [
+    "unplanned consideration",
+    "purchase conversion",
+    "planned basket",
+    "category complementarity",
+    "in-store slack",
+    "point-of-purchase behavioral characteristics",
+    "in-store promotions and displays",
+    "video tracking of shopping behavior"
+  ],
+  "main_findings": [
+    "Unplanned considerations were frequent (mean 5.6 per trip), and incidence was higher for promoted, more hedonic, and refrigerated categories; at the shopper level, more in-store slack, female gender, and older age increased incidence, while shopping-list use and greater store familiarity reduced it.",
+    "The planned basket and unplanned consideration set showed significant category-level complementarities captured by a latent category map, and this pattern was not explained by physical shelf proximity.",
+    "Conditional on unplanned consideration, purchase conversion was positively associated with remaining in-store slack, staff interaction, references to shopping lists and coupons/in-store circulars, and more focused consideration behavior (fewer displays viewed and closer distance to shelf), while promotion was not significant and display had a negative association."
+  ],
+  "one_line_summary": "Using field-collected in-store video tracking linked to pretrip plans, the paper shows how unplanned category considerations arise in grocery shopping and which in-store dynamics and behaviors convert them into purchases.",
+  "relation_to_prior_work": "introduces direct observation of in-store product consideration in a field grocery setting, addressing a key limitation of survey/scanner and RFID studies that observed plans, paths, or final purchases but not consideration episodes. It extends unplanned purchase research by modeling both category-level unplanned consideration and conditional purchase conversion with dynamic in-store and behavioral covariates.",
+  "research_gap": "Prior research on unplanned purchasing relied mainly on survey and scanner data collected before entry or after checkout, so it could not observe what happened during the trip at the consideration stage. As a result, the incidence and drivers of unplanned consideration, and its conversion process, were not directly modeled.",
+  "research_question": "To what extent do shoppers consider categories they did not plan to buy, and which shoppers and categories are more prone to unplanned consideration? How is the planned basket related to unplanned category consideration, how do planned versus unplanned considerations differ behaviorally, and which point-of-purchase and dynamic in-store factors are associated with converting unplanned considerations into purchases?"
+}

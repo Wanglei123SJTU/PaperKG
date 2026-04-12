@@ -1,0 +1,4 @@
+{
+  "rationale": "The only direct evidence is a DOI-level match with no in-text citation context (`matched_reference_count=1`, empty title/unstructured fields), so we cannot tell how the citation is used. The two papers do overlap in automobile choice modeling and PIN transaction data, which makes a substantive link plausible, but the cited paper’s core focus (lease vs. buy contract choice) differs from the citing paper’s distribution-intensity focus. Given sparse evidence, this is not safe to drop but not strong enough to clearly keep.",
+  "triage_decision": "uncertain"
+}

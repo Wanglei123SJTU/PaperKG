@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper appears to be a direct methodological predecessor: it develops Bayesian finite-mixture/latent-class segmentation with segment-level variable selection, which matches the citing paper’s stated baseline of “prior latent class variable-selection models” that it extends via an Ising dependence structure. Given this clear method-lineage fit in the notes (and exact DOI match), this is not safely an incidental mention. It should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

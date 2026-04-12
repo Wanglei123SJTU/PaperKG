@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s design explicitly uses Bayesian stochastic search variable selection to model heterogeneity in customer satisfaction effects, and the cited paper is a methodological paper on Bayesian segmentation with simultaneous segment-level variable selection in a customer satisfaction setting. Given this strong methodological overlap (despite only one DOI match and no local citation context), this is not safely an incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

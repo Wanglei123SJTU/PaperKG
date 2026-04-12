@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops a durable-goods channel model that integrates performance-based trade promotions, exclusive franchised retailing, interbrand competition, and a secondary used-car market.",
+    "Provides analytic equilibrium results on intertemporal promotion effects, including how durability shapes trade-promotion depth, manufacturer profits, and new- versus used-market outcomes.",
+    "Supplies empirical evidence from a proprietary 1992-1997 U.S. auto promotion dataset supporting the model's core durability predictions."
+  ],
+  "context": "The paper studies the U.S. automobile market, where manufacturers offer dealers performance-based incentives for exceeding sales targets. Cars are sold through exclusive franchised dealers and compete in both new-car and used-car markets.",
+  "design_and_data": "The authors build a two-period game-theoretic model with two competing manufacturers and exclusive dealers, with horizontal differentiation (Hotelling) and vertical differentiation through durability parameters. Consumers are modeled as high- and low-valuation segments, and the model derives linear demand systems for first-period new cars, second-period new cars, and used cars; equilibrium is solved by backward induction under four promotion regimes (NN, PN, NP, PP). They then estimate a random-effects sample-selection system that jointly models promotion incidence and promotion depth. The empirical data include 317 nameplate-year observations across 69 nameplates (1992-1997), using a proprietary dealer-incentive database plus public automotive sources for durability and controls.",
+  "focal_constructs": [
+    "performance-based trade promotions",
+    "product durability",
+    "double marginalization",
+    "channel coordination",
+    "exclusive franchised dealers",
+    "new-car demand",
+    "used-car prices",
+    "trade-promotion depth"
+  ],
+  "main_findings": [
+    "Without administrative costs, the equilibrium involves both manufacturers offering performance-based trade promotions, and dealers participate voluntarily.",
+    "Manufacturers of more durable products benefit more from promotions and offer deeper discounts; with fixed promotion administration costs, higher-durability manufacturers are more likely to promote.",
+    "When both manufacturers promote, retailers earn lower profits than in the no-promotion benchmark, and the empirical estimates show durability is positively related to both promotion likelihood and promotion depth."
+  ],
+  "one_line_summary": "Using a two-period channel model and U.S. automobile data, the paper shows that performance-based dealer trade promotions are more attractive and deeper for more durable vehicles.",
+  "relation_to_prior_work": "extends quantity-discount and channel-coordination research to a durable-goods setting with performance-based retail-sales incentives and secondary markets, unlike standard CPG models that assume forward buying and non-durability. It also builds on prior durable-goods channel work by endogenizing manufacturers' trade-promotion choices and testing key implications empirically.",
+  "research_gap": "Most trade-promotion models are built for CPG contexts and typically assume forward buying, weak retail-sales monitoring, non-durable products, and multiproduct retailing. The paper argues these assumptions miss key automobile institutions: performance-based incentives tied to retail sales, exclusive franchised dealerships, and active used-car markets.",
+  "research_question": "What economic mechanism explains manufacturers' use of performance-based trade promotions to dealers in durable-goods markets such as automobiles? How does product durability affect promotion use, promotion depth, and intertemporal outcomes across new- and used-car markets?"
+}

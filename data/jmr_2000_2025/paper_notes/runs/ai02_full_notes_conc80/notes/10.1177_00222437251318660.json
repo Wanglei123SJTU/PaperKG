@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper claims to be the first to estimate the causal effect of a retailer mobile app failure on purchases in an omnichannel context.",
+    "It claims to provide one of the first quasi-experimental causal analyses of service or technology failure effects on purchase frequency, quantity, and monetary value across channels.",
+    "It claims to identify mechanisms (especially search discontinuation versus channel switching) and shopper-level heterogeneity in app failure effects."
+  ],
+  "context": "The study is set in a large U.S. omnichannel consumer electronics and wireless-services retailer with about 4,000 stores, an e-commerce website, and a mobile app. In this retailer, online sales are about 10.2% of revenue, and the app supports search, deals, store locator, and checkout features.",
+  "design_and_data": "The authors use a natural experiment from an exogenous systemwide app outage on April 11, 2018 (12 p.m.-2 p.m. Central Time). Among 136,689 users who attempted app access that day, 70,568 experienced the failure (treated) and 66,121 did not (control), and purchases are tracked across channels for 14 days before and after the shock (273,378 observations). They estimate two-way fixed-effects difference-in-differences models (with clustered standard errors) for purchase frequency, quantity, and value overall and by channel; online outcomes combine website and app purchases because these cannot be separated in the data. They also replicate analyses on another outage in November 2014 (134,488 users; 70,884 treated).",
+  "focal_constructs": [
+    "mobile app failure",
+    "cross-channel purchase effects",
+    "search discontinuation",
+    "channel switching",
+    "cart abandonment",
+    "temporal substitution",
+    "shopper heterogeneity",
+    "customer relationship strength"
+  ],
+  "main_findings": [
+    "A two-hour app failure significantly reduced purchases across channels over the next 14 days: frequency (-0.024), quantity (-0.057), and value (-$2.181), with an estimated 7.1% drop in monetary value for treated users relative to controls.",
+    "The overall decline was driven by lower store purchases, while effects on online purchases were not statistically significant.",
+    "Evidence is consistent with search discontinuation among app users who mainly use the app for search (especially past store-only purchasers), while checkout users show no significant decline consistent with channel switching; shoppers with lower past spend and more recent purchases were more sensitive to failure."
+  ],
+  "one_line_summary": "Using an exogenous outage in a major retailer app, the study shows via DID that app failure causally lowers short-run purchases mainly through reduced store buying driven by search disruption rather than online transaction loss.",
+  "relation_to_prior_work": "extends prior service-failure and technology-failure research from mainly offline or satisfaction-focused outcomes to causal purchase effects from mobile app outages in an omnichannel setting. It also extends mobile marketing work on app adoption by examining failure-induced interruptions, cross-channel spillovers, and underlying mechanisms.",
+  "research_gap": "Prior evidence shows negative effects of stockouts and web failures and links app crashes to lower app engagement, but it is unclear how retailer app failures affect actual purchases across online and offline channels. The paper argues that causal, consumer-level evidence on mechanisms and heterogeneity in omnichannel app failure effects is lacking.",
+  "research_question": "How does an exogenous failure in a retailer mobile app affect shoppers' purchase frequency, quantity, and monetary value across online and offline channels? Which mechanisms (search discontinuation, cart abandonment, channel switching, temporal substitution) explain these effects, and how do effects vary by shopper characteristics and prior relationship with the retailer?"
+}

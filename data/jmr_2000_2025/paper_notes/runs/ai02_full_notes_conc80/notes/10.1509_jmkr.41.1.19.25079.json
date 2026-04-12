@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper describes a behavioral process for integrating discrepant sales forecasts, rather than only prescribing normative combination rules.",
+    "It proposes and tests that managers evoke a plausible sales range, infer forecast plausibility from that range, and use those inferences along with margin-of-error information to assign forecast weights.",
+    "It provides experimental evidence that this process can produce systematic, nonnormative bias, including overweighting a less reliable lower second forecast."
+  ],
+  "context": "The paper studies managerial sales and market-size forecasting when two external projections conflict. Empirical tasks are framed in business settings including an online grocery start-up, Honda Civic Hybrid demand forecasting, and a MARKSTRAT3 simulated market environment.",
+  "design_and_data": "The authors report five experiments, plus follow-up studies, using mostly student samples and one MBA/executive MBA sample working in MARKSTRAT3; a follow-up think-aloud test uses experienced executives. Across studies, participants integrate two projections where Projection A is more precise (typically lower margin of error) and Projection B is experimentally varied to be lower or higher than A, with additional manipulations such as accountability, costs of under/overforecasting, context/frame, and explicit range structure. The main dependent measure is movement from Projection A toward Projection B, compared with a normative weighted-average benchmark based on inverse margins of error. Experiment 5 manipulates explicit range endpoints (none, equally skewed, unequally positively skewed) to test the evoked-range mechanism directly.",
+  "focal_constructs": [
+    "discrepant sales forecasts",
+    "forecast integration weights",
+    "evoked range",
+    "plausibility inferences",
+    "margin of error",
+    "range-frequency theory",
+    "nonnormative forecast bias"
+  ],
+  "main_findings": [
+    "When the second forecast is lower than the first, participants shift significantly more toward it than when the second forecast is higher, even though the second forecast has a larger margin of error.",
+    "Estimates are typically nonnormative only in the second-lower condition: participants overweight the less reliable second forecast relative to the benchmark implied by margins of error, while second-higher cases are usually near normative.",
+    "The asymmetry persists under high accountability, under high stated costs of underforecasting, and in a managerial simulation with MBAs; manipulations of explicit ranges in Experiment 5 change or reverse the asymmetry in ways predicted by the evoked-range account."
+  ],
+  "one_line_summary": "Across five experiments, the paper shows that managers integrating two discrepant forecasts use an evoked sales range to infer plausibility, which causes overweighting of a lower second forecast and nonnormative estimates relative to margin-of-error weighting.",
+  "relation_to_prior_work": "introduces a behavioral process account of forecast combination that complements prior research focused on normative combination methods. It transfers range-frequency theory from judgment contexts to managerial forecast integration and explains when contextual range cues distort otherwise accuracy-based weighting.",
+  "research_gap": "Prior forecast-combination research largely specifies how forecasts should be combined normatively, but offers limited description of how decision makers actually integrate discrepant projections in practice. The paper addresses this missing process-level account and the resulting potential deviation from normative benchmarks.",
+  "research_question": "How do managers actually combine two discrepant sales projections when each source provides a margin of error? Specifically, does an evoked range of plausible sales induce plausibility inferences that alter forecast weights beyond what margin-of-error-based weighting would prescribe, and thereby create systematic bias?"
+}

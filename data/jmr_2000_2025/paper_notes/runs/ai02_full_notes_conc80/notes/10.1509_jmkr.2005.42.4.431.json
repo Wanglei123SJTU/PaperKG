@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper integrates pre-use and post-use perspectives by measuring how added features affect capability, usability, and overall utility at both stages.",
+    "It introduces and documents the feature fatigue effect: consumers tend to choose feature-rich products that do not maximize satisfaction after use.",
+    "It proposes an analytical model that links feature count decisions to initial sales, repurchase, and customer lifetime value implications."
+  ],
+  "context": "The studies are set in Web-based consumer technology products, primarily digital video and digital audio players evaluated in computer-lab sessions. Participants assessed product interfaces and feature lists, and in one study used a working player to complete usage tasks.",
+  "design_and_data": "A pretest (n=40) identified feature importance/familiarity and was used to build low-, medium-, and high-feature versions of products. Study 1 used 130 undergraduates in a mixed design (player type x feature level x involvement) to rate capability, usability, expected utility, and choice across 7, 14, and 21 features. Study 2 used 141 undergraduates who customized audio and video players by selecting desired features (from 25 options) and then rated capability and usability. Study 3 used 190 participants in a 2 (before vs after use) x 2 (low vs high features) between-subjects experiment with a working digital video player, followed by ANCOVA and multisample path analysis; the paper also presents a two-period analytical profit model.",
+  "focal_constructs": [
+    "number of product features",
+    "perceived product capability",
+    "perceived product usability",
+    "expected utility before use",
+    "experienced utility after use",
+    "consumer expertise",
+    "feature fatigue",
+    "customer lifetime value"
+  ],
+  "main_findings": [
+    "Adding beneficial features increased perceived capability across studies; adding features reduced perceived usability in Study 1 and Study 3, and in Study 2 this usability decline was significant for the video player but not the audio player.",
+    "Before use, expected utility and choices favored higher-feature products, but after use overall evaluations did not increase with feature count, and preference for the high-feature model dropped (66% before use vs 44% among those who used the high-feature model).",
+    "Path analyses showed capability carried more weight before use than after use, while usability carried more weight for post-use satisfaction; the analytical model indicates that maximizing initial sales yields too many features and that the optimal feature count falls as the weight on future sales increases."
+  ],
+  "one_line_summary": "Across three experiments and an analytical model, the paper shows that consumers overweight capability and underweight usability before use, leading them to choose overly feature-rich products and then experience feature fatigue after use.",
+  "relation_to_prior_work": "extends prior research on added product features and usability by jointly comparing evaluations before and after product use, rather than studying purchase intentions or post-use outcomes in isolation. It also applies construal-level logic to explain why capability is weighted more pre-use and usability becomes more influential after use.",
+  "research_gap": "Prior research mostly examined either pre-use evaluations (such as purchase intentions) or post-use outcomes (such as satisfaction/usability) separately, leaving unclear how feature additions affect utility across both stages. The paper addresses the unresolved issue of whether and how product use changes the relative importance of capability versus usability.",
+  "research_question": "How do consumers trade off product capability and product usability as the number of beneficial features increases? Do the relative weights on capability and usability differ before use versus after use, causing consumers to choose products that may not maximize their post-use satisfaction?"
+}

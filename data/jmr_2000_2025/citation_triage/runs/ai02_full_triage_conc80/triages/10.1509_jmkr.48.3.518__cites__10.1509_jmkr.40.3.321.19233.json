@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s design explicitly uses binary pick-any brand-image association data and Bayesian MCMC estimation, and the cited paper’s main contribution is a hierarchical Bayes multivariate binomial probit method for pick any/J multiple-response data. Given this direct methodological overlap, the citation is plausibly substantive (not an obvious background-only mention) and merits second-stage review.",
+  "triage_decision": "keep_for_relation_judgment"
+}

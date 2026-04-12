@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces the idiosyncratic fit heuristic, a general principle that consumers value offers more when they perceive a relative personal advantage versus typical others.",
+    "Shows that, under perceived idiosyncratic fit, increasing loyalty-program effort requirements can increase program attractiveness and lead consumers to choose dominated options.",
+    "Provides process and robustness evidence by showing that perceived effort advantage mediates the effect, fit can be elicited spontaneously, and a signaling-based explanation is not supported."
+  ],
+  "context": "The paper studies consumer response to loyalty/frequency programs in customer relationship management settings. Empirical contexts include gas station, department store, grocery store, and credit card programs with airport respondents, plus a university frequent-diner program with student respondents.",
+  "design_and_data": "The authors report a series of randomized experiments with approximately 2300 consumers overall; the four focal studies described use airport travelers and university students. Study 1 uses two 2x2 between-subject designs (gas station n=329, department store n=354) manipulating program requirements (low/high) and idiosyncratic fit via individual effort (e.g., store distance). Studies 2 (grocery LP, n=346) and 3 (credit card LP, n=164) manipulate perceived reference effort while holding individual effort constant, with outcomes including joining likelihood, WTP (Study 2), and a perceived effort-advantage mediator (Study 3). Study 4 (frequent diner LP, n=195) uses choices with real potential consequences, measures idiosyncratic fit from relative ease of a sushi requirement, and includes a test of a signaling alternative.",
+  "focal_constructs": [
+    "idiosyncratic fit heuristic",
+    "individual effort",
+    "reference effort",
+    "program requirement level",
+    "perceived effort advantage",
+    "likelihood of joining loyalty programs",
+    "willingness to pay membership fee"
+  ],
+  "main_findings": [
+    "When perceived idiosyncratic fit was high, increasing loyalty-program requirements while holding rewards constant increased joining likelihood, implying preference for a dominated program in several conditions.",
+    "When idiosyncratic fit was low or misfit, higher requirements did not increase participation and often reduced joining likelihood and willingness to pay.",
+    "Perceived effort advantage mediated the requirement-by-fit effect, fit considerations appeared even with subtle or postdecision measurement, and higher requirements did not raise perceived reward value in the signaling check."
+  ],
+  "one_line_summary": "Across multiple loyalty-program experiments, consumers who perceived an effort advantage over typical others became more likely to join higher-effort programs with unchanged rewards, consistent with an idiosyncratic fit heuristic.",
+  "relation_to_prior_work": "extends prior loyalty-program research that emphasized effort effects on reward preferences by examining how requirement magnitude itself affects program attractiveness and enrollment. It also uses social comparison and constructive preference perspectives to explain why relative effort advantage can guide judgments.",
+  "research_gap": "Prior studies had examined how effort shapes reward preferences, but the more basic question of how effort level affects the attractiveness of loyalty programs had not been studied directly. The authors also point to limited understanding of what drives consumer response and differential success across loyalty programs.",
+  "research_question": "How does the level of effort required to earn a loyalty-program reward affect consumers' willingness to join the program? Specifically, do consumers evaluate programs using a comparison between their own effort and a reference effort of typical others, so that perceived idiosyncratic fit can make higher requirements more attractive?"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides a formal theoretical analysis of cross-price asymmetry driven by market share differences, whereas most prior asymmetry work emphasized price-quality tiers.",
+    "Introduces and labels the asymmetric share effect: in absolute cross-price terms, a low-share brand's price cut has a larger effect on a high-share brand than the reverse.",
+    "Evaluates empirical generalizability with a large meta-analysis (530 brand pairs across 19 grocery categories) and shows robust support for the share-based asymmetry."
+  ],
+  "context": "The empirical setting is packaged grocery brand competition, including national brands, store brands, and private labels across multiple categories and markets. The analysis focuses on promotional price cuts and resulting cross-brand share or sales movements.",
+  "design_and_data": "The paper combines theory and meta-analysis. The theoretical part uses an n-brand Luce choice model with gamma-distributed utilities (implying Dirichlet-distributed choice probabilities) and finite price discounts to derive directional predictions for absolute cross-price effects. The empirical part uses the Sethuraman, Srinivasan, and Kim (1999) database: 15 published studies (1970-1996), 72 datasets, 19 grocery categories, 280 brands, and 1060 cross-price estimates (530 directional pairs) from panel and aggregate store/market data estimated with logit, attraction, and linear/semi-log/log-log models. Tests use a binary logit for whether gamma_i->j exceeds gamma_j->i, with key covariates for relative market share and relative price plus controls for model form, category, store/chain, and number of brands; results are reported for pooled and subset samples.",
+  "focal_constructs": [
+    "absolute cross-price effects",
+    "cross-price elasticities",
+    "asymmetric share effect",
+    "market share differences",
+    "asymmetric price effect",
+    "price promotions",
+    "brand switching"
+  ],
+  "main_findings": [
+    "Mean cross-price elasticities favor high-share brands (0.60 vs 0.42), but mean absolute cross-price effects reverse and favor low-share brands (0.069 vs 0.043).",
+    "In binary logit tests across pooled and subset data, the coefficient on the low-share indicator is positive and statistically significant, supporting gamma_LS->HS > gamma_HS->LS.",
+    "Once market share and controls are included, the asymmetric price effect in absolute cross-price effects is not statistically significant."
+  ],
+  "one_line_summary": "Using a Dirichlet-based theoretical derivation and a meta-analysis of 530 grocery brand pairs, the paper shows that asymmetry reverses in absolute cross-price effects, with low-share brand discounts affecting high-share brands more than the reverse.",
+  "relation_to_prior_work": "challenges the elasticity-based conventional wisdom that high-share brands have greater promotional clout, by showing that absolute cross-price effects are the more appropriate metric for brand-switching profitability and yield the opposite asymmetry direction.",
+  "research_gap": "Prior empirical claims that asymmetry favors high-share brands were based mainly on cross-price elasticities, and the paper notes this can mechanically induce asymmetry because market share appears in the denominator. The authors state that there had been no formal theoretical analysis and broad meta-analytic test focused on asymmetry arising specifically from market share differences using absolute cross-price effects.",
+  "research_question": "Do cross-price asymmetries due to market share differences favor high-share or low-share brands when measured as absolute cross-price effects rather than elasticities? Is absolute cross-price effect the more appropriate measure for evaluating incremental profitability from price promotions driven by brand switching?"
+}

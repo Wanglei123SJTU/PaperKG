@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s design explicitly includes an endogeneity correction (“a copula-based correction for endogeneity of negative momentum”), while the cited paper’s core contribution is a control-function approach to endogeneity correction in choice models. Given this clear methodological overlap and a DOI-verified reference match, this is not an obvious incidental/background mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

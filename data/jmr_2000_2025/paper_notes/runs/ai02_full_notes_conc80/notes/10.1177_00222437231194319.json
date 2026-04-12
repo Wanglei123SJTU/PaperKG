@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a multiple-process, topic-based Neurosynth decoding approach that transforms whole-brain ad-viewing fMRI into brain-based measures of concurrent psychological processes.",
+    "Provides a process-level account of when liking-related responses emerge during video ads, including early-onset and late-peak dynamics across different psychological domains.",
+    "Shows that process-level neural signals, especially social-affective signals, can improve aggregate out-of-sample ad-liking prediction beyond traditional VOI-based neural measures and self-report ratings."
+  ],
+  "context": "The study examines video advertisement liking using TV-style ads previously broadcast in the Netherlands and the United States, viewed during fMRI scanning. It also includes online behavioral replication with U.K. participants rating first-10-second excerpts of U.S. Super Bowl ads and compares those ratings with USA Today Ad Meter population scores.",
+  "design_and_data": "The authors pooled three fMRI datasets with 113 participants and 85 video ads (3,699 usable ad-viewing trials after excluding missing ratings), and modeled self-report ad liking from neural activity recorded during ad exposure. Whole-brain time series were preprocessed, projected onto the Neurosynth 400-topic space, and analyzed with topic-level linear mixed models (with FDR correction), plus time-course analyses using rolling 3-second windows and ad-quarter segments. For aggregate prediction, they used two datasets with external out-of-sample liking for 72 ads and compared models using process-level neural signals against VOI-based and self-report baselines. They also ran two online behavioral studies (N=102 and N=200) where participants rated first-10-second ad excerpts from 2019 and 2023 Super Bowl ads.",
+  "focal_constructs": [
+    "video advertisement liking",
+    "whole-brain fMRI neural signals",
+    "Neurosynth topic expression scores",
+    "information processing",
+    "cognitive functions",
+    "social-affective response",
+    "temporal dynamics during ad exposure",
+    "aggregate out-of-sample liking"
+  ],
+  "main_findings": [
+    "Neural signals associated with perception, language, executive function, memory, social cognition, and emotion predicted subsequent self-report ad liking, with emotion and memory becoming predictive around the first 3 seconds and most processes (except perception) within about 10 seconds.",
+    "Across ad exposure, emotion showed an early peak then decline in predictiveness, social cognition showed a peak-and-stable pattern, and perception and executive function showed later peaks.",
+    "At the ad level, neural signals, particularly social-affective signals, improved prediction of aggregate out-of-sample liking versus VOI-based and self-report baselines, and early-onset social-affective response also predicted population liking in behavioral replication."
+  ],
+  "one_line_summary": "Using pooled fMRI ad-viewing data and Neurosynth topic decoding, the paper shows that multiple psychological-process neural signals predict video ad liking over time and that social-affective signals add value for out-of-sample aggregate liking prediction beyond VOI and self-report measures.",
+  "relation_to_prior_work": "extends prior consumer neuroscience work that emphasized anatomically defined VOIs and postexposure self-reports by using whole-brain, topic-based meta-analytic decoding to infer multiple simultaneous psychological processes during ad viewing. It also refines prior advertising-effects discussions by showing process-specific temporal trajectories rather than a single uniform pattern.",
+  "research_gap": "Prior approaches could not unobtrusively track a broad set of psychological processes moment by moment during video ad exposure, and process inference from neural data often relied on anatomically based reverse inference. In addition, brain-to-population prediction work had not clearly identified which psychological processes underlie neural signals that add predictive value beyond self-report.",
+  "research_question": "Which psychological processes during video ad exposure, inferred from whole-brain fMRI via Neurosynth decoding, predict subsequent ad liking? When do these processes become predictive and how do their contributions change over the ad timeline? Do these neural signals, including early-onset signals, improve aggregate out-of-sample ad-liking prediction beyond VOI-based neural measures and self-report?"
+}

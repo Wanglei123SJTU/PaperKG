@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper claims to be the first to test whether viewers' regulatory focus, message regulatory focus, and message frame jointly interact to shape persuasion in a single model.",
+    "It claims to show that adolescents can be segmented into promotion-focused and prevention-focused groups and that each group is persuaded by a different antismoking message type.",
+    "It claims that the persuasion advantage from this fit is explained by message accessibility and perceived diagnosticity."
+  ],
+  "context": "The study is set in U.S. adolescent tobacco-prevention advertising, using ninth-grade students exposed to televised public service ads. The antismoking messages focus on social consequences of smoking in peer settings, emphasizing social approval or social disapproval.",
+  "design_and_data": "Experiment 1 used a between-subject 2 x 2 x 2 design with measured viewer regulatory focus (promotion vs prevention), manipulated message regulatory focus (promotion/social approval vs prevention/social disapproval), and manipulated frame (positive vs negative), plus a nonsmoking-related control ad. Participants were 443 ninth graders from two public high schools; after excluding past/current smokers and excluding the control from crossed omnibus tests, 342 were included in omnibus ANOVAs. Experiment 2 replicated the structure with 719 ninth graders from three additional high schools, but manipulated viewer regulatory focus via an essay prime about hopes/aspirations versus duties/obligations; 534 remained in omnibus ANOVAs after analogous exclusions. In both experiments, students watched Friends with the stimulus ad shown three times, and outcomes included intention not to smoke plus measures of message accessibility and perceived diagnosticity.",
+  "focal_constructs": [
+    "viewers' regulatory focus",
+    "message regulatory focus",
+    "message frame",
+    "intention not to smoke",
+    "social approval and social disapproval consequences",
+    "message accessibility",
+    "perceived diagnosticity"
+  ],
+  "main_findings": [
+    "Both experiments found a significant three-way interaction: ad effectiveness depended on the joint alignment of viewers' regulatory focus, message regulatory focus, and message frame.",
+    "For promotion-focused adolescents, the promotion-focused positively framed antismoking ad produced the strongest intention not to smoke, while other ad types were not significantly better than the control.",
+    "For prevention-focused adolescents, the prevention-focused negatively framed ad produced the strongest intention not to smoke, and the effect pattern was mediated by message accessibility and perceived diagnosticity."
+  ],
+  "one_line_summary": "Across two adolescent experiments, antismoking ads were most persuasive when viewer regulatory focus matched the ad's regulatory focus and a compatible frame, with effects operating through accessibility and diagnosticity.",
+  "relation_to_prior_work": "extends prior regulatory focus and framing work by testing adolescents and modeling a three-way interaction among viewer focus, message focus, and message frame rather than only two-way fits. It also replicates earlier matching and framing patterns and shows those two-way effects are qualified by the three-way interaction.",
+  "research_gap": "Prior antismoking framing studies showed mixed results, and there was limited evidence on how viewer and message characteristics jointly determine adolescent response. The authors explicitly state that no prior persuasion study had examined the interactive effects of viewers' regulatory focus, message regulatory focus, and message frame together.",
+  "research_question": "Do antismoking advertisements become more persuasive when adolescents' regulatory focus (promotion vs prevention), the message's regulatory focus, and the message frame (positive vs negative) are aligned? The paper also asks whether any persuasion gain from this alignment is explained by message accessibility and perceived diagnosticity."
+}

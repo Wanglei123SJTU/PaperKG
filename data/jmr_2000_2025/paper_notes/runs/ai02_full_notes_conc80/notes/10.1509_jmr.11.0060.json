@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Bridges two previously disconnected advertising literatures by integrating dynamic advertising-sales response modeling with hierarchy-of-effects modeling in one framework.",
+    "Introduces a dynamic factor state-space approach that extracts latent cognition, affect, and experience from noisy mind-set metrics, allows nonorthogonal factors, and uses Bayesian Kalman filter/smoother plus RJ-MCMC for estimation and factor retention.",
+    "Provides first empirical evidence in this setting that intermediate effects are dynamic and that advertising has dual contributions: direct sales growth and indirect brand building through intermediate effects, with purchase reinforcement effects that can extend beyond experience."
+  ],
+  "context": "The empirical application is a major soft drink brand in Germany. The firm used ongoing weekly ad-tracking that combined market data (advertising and sales) with consumer survey mind-set metrics.",
+  "design_and_data": "The paper formulates a linear state-space dynamic factor model with an observation equation linking multiple mind-set metrics to latent cognition, affect, experience, and latent mean sales, and a transition equation that encodes alternative hierarchies, dynamics, purchase reinforcement, and advertising effects. Parameters are estimated in a Bayesian framework using Kalman filtering/smoothing with MCMC; model comparison uses log Bayes factors and factor retention uses RJ-MCMC. The method is validated with Monte Carlo simulation and then applied to about five years of weekly data (2000-2005) for one brand, including 16 weekly mind-set metrics, advertising (GRPs/spend), and sales, with roughly 130 interviews per week (more than 30,000 interviews total). The empirical analysis also uses lagged advertising instruments to address potential endogeneity.",
+  "focal_constructs": [
+    "advertising effects hierarchy",
+    "cognition affect experience latent factors",
+    "mind-set metrics",
+    "dynamic advertising-sales response",
+    "purchase reinforcement effects",
+    "intermediate factor dynamics",
+    "brand building and sales growth"
+  ],
+  "main_findings": [
+    "Integrated hierarchy models outperform classical hierarchy models and the Vakratsas-Ambler specification, and the retained operating hierarchy is lagged E -> C -> A with A -> sales.",
+    "Advertising significantly affects affect and sales directly, but not cognition or experience directly for this brand.",
+    "Cognition, affect, experience, and sales all show significant dynamics, and purchases reinforce affect (sales -> affect) but not cognition or experience."
+  ],
+  "one_line_summary": "Using a Bayesian dynamic factor state-space model on weekly tracking data for a major soft drink brand, the study finds that advertising both builds brands through a lagged E -> C -> A pathway and directly grows sales.",
+  "relation_to_prior_work": "extends prior advertising-sales response models by embedding latent intermediate effects from hierarchy-of-effects research into a dynamic, measurement-error-aware system. It also tests competing hierarchy claims, including Vakratsas and Ambler's hypotheses, with market-level weekly tracking data rather than leaving them untested.",
+  "research_gap": "Prior research developed advertising-sales response models and hierarchy-of-effects models as separate streams, and no study had explicitly integrated dynamic intermediate effects into a dynamic advertising-sales response model. In addition, key claims about simultaneous triggering of intermediate effects and purchase reinforcement had been hypothesized but not empirically tested with methods that handle noisy mind-set measures and latent factor structure.",
+  "research_question": "How can advertising's sales impact and brand-building process be modeled jointly when cognition, affect, and experience are latent intermediate effects observed only through noisy mind-set metrics? Which hierarchy of these intermediate effects operates for a brand, and do the effects exhibit dynamics and purchase reinforcement while advertising may also affect sales directly?"
+}

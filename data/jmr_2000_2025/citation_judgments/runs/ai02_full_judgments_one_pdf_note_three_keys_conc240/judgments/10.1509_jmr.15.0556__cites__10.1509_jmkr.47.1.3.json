@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper explicitly uses Petrin and Train (2010) as methodological support for its endogeneity correction strategy. In the methods section, it states that it adopts a two-step control function approach, estimates first-stage equations for potentially endogenous overlap variables, and includes residual-based correction terms in the main performance model. This is not a passing literature-list citation; it underpins a key part of the empirical identification approach and is referenced again when discussing the paper's empirical contribution.",
+  "relation_description": "The citing paper applies the Petrin and Train control-function framework to correct endogeneity in its acquisition-performance model. It transfers the residual-inclusion logic from the cited work to its own setting with endogenous innovation and relational overlap variables.",
+  "relation_type": "applies"
+}

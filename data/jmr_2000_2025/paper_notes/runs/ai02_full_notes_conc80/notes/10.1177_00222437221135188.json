@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper claims to provide actionable guidance for brand managers and audio branding practitioners on how timbral sound quality in audio logos can be used for brand positioning and can influence purchase intentions.",
+    "The authors claim this is the first marketing research to isolate timbre, and specifically timbral sound quality, rather than treating timbre mainly as sound source or confounding it with other musical parameters.",
+    "The paper claims to contribute to sensory marketing and acoustics/music perception by showing that timbral sound quality can elicit abstract personality meaning and by testing acoustic correlates of rough versus smooth timbre."
+  ],
+  "context": "The empirical setting is audio branding, specifically short melodic brand audio logos used alongside visual logos. Studies use both well-known brands (e.g., Coca-Cola, Intel) and fictitious brands in lab and online consumer experiments.",
+  "design_and_data": "The paper reports ten experiments (Studies 1, 2a-2d, 3, 4, 5, 6, and 7) run with student lab samples and Amazon Mechanical Turk samples. Across studies, participants viewed short brand videos with visual and audio logos; timbre was manipulated between conditions while pitch, loudness, and duration were held constant. Manipulations included instrument-based rough versus smooth articulations, polyphonic timbre mixes, and additive synthesis in MATLAB to manipulate attack time, sensory dissonance, and frequency modulation, including an unidentifiable source condition and a reference timbre. Additional studies tested cross-modal incongruence with visual logo shape qualities, discredited audio informativeness to assess process, and measured purchase intentions as a downstream outcome.",
+  "focal_constructs": [
+    "timbral sound quality (roughness vs smoothness)",
+    "brand personality (ruggedness vs sophistication)",
+    "audio logos",
+    "sound source identification",
+    "embodied meaning and scaffolding",
+    "cross-modal sensory integration",
+    "nonconscious influence",
+    "purchase intentions"
+  ],
+  "main_findings": [
+    "Rough timbral sound quality in audio logos increases ruggedness perceptions, while smooth timbral sound quality increases sophistication perceptions, including for a well-known brand when instrumentation is changed.",
+    "The effect replicates when sound source is held constant across multiple instrument families, extends to polyphonic timbre mixes, and appears with synthetic unidentifiable sounds; direct manipulation of proposed acoustic correlates produces corresponding shifts versus a reference timbre.",
+    "Incongruent visual sensory cues counteract the timbre effect, the effect persists when audio informativeness is discredited (consistent with nonconscious influence), and timbre-personality fit changes purchase intentions for different product types."
+  ],
+  "one_line_summary": "Across ten experiments, rough versus smooth timbral sound quality in brand audio logos systematically shifts perceived brand personality from ruggedness to sophistication and affects downstream purchase intentions.",
+  "relation_to_prior_work": "extends prior music-in-marketing and sensory marketing work by isolating timbral sound quality in audio logos, an auditory parameter that earlier studies typically confounded with other musical features or reduced to sound source. It also extends the embodied-meaning account of music by showing that timbral quality can trigger abstract brand personality inferences, not only hedonic responses.",
+  "research_gap": "The paper argues that despite growing managerial use of audio branding, marketing research has given relatively little attention to the auditory modality, and timbre remains especially understudied. It further states that prior work emphasized whole musical pieces or other parameters (e.g., pitch, tempo) and did not isolate timbral sound quality effects on brand personality.",
+  "research_question": "How does timbral sound quality in brand audio logos, especially rough versus smooth quality, influence consumers' perceptions of brand personality as rugged versus sophisticated? The paper also asks whether this effect depends on sound source identification, how it behaves under cross-modal visual information, whether it operates in a controlled or nonconscious way, and whether it carries through to purchase intentions."
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper introduces and tests a \"uniqueness-hurts-resale\" hypothesis: in aesthetic customization, what creates value for the original consumer-designer can reduce secondhand-market appeal.",
+    "It provides multi-method evidence from three secondary datasets and three experiments, including large-scale used-car market data and controlled WTP/WTA studies.",
+    "It argues for a product life cycle perspective by highlighting a tension between maximizing utility at first purchase and preserving resale value at resale."
+  ],
+  "context": "The paper examines mass-customized products that consumers self-design and later resell, focusing on aesthetic attributes that are difficult and costly to change after purchase. Empirical contexts include Nike sneakers on eBay, used-car markets in Germany, and self-customized couch designs evaluated in secondhand-market scenarios.",
+  "design_and_data": "The paper reports six studies: three secondary datasets and three experiments. Study 1 analyzes 1,761 Nike sneaker buy-it-now listings on eBay Germany (including 246 self-customized \"By You\" pairs) with coder-rated uniqueness and mixed-effects models of asking prices; Study 2 analyzes 520,190 used-car listings from a major German platform using model-vintage color uniqueness and seller type; Study 3 uses 2,217 wholesale car auction transactions from one fleet manager to test effects on realized transaction prices. Studies 4-6 assign participants to consumer-designer versus secondhand-buyer roles in sneaker and couch contexts and collect WTP/WTA evaluations for self-customized products, including a preregistered incentive-compatible elicitation in Study 5. Study 6 manipulates whether designers are instructed to create unique versus common designs to test causality.",
+  "focal_constructs": [
+    "aesthetic self-customization",
+    "product uniqueness",
+    "resale value",
+    "secondhand-market willingness to pay",
+    "consumer-designer willingness to pay and willingness to accept",
+    "preference fit",
+    "horizontal versus vertical differentiation"
+  ],
+  "main_findings": [
+    "Across field datasets, higher aesthetic uniqueness is associated with worse resale outcomes, including lower asking prices for self-customized sneakers and used cars and lower car transaction prices at auction.",
+    "In experiments, uniqueness increases consumer-designers' valuations (WTP/WTA) but decreases secondhand-market customers' WTP for the same designs.",
+    "The negative effect on secondhand-market WTP is mediated by lower preference fit, and designs prompted to be common or resale-oriented receive higher secondhand-market WTP than uniqueness-focused designs."
+  ],
+  "one_line_summary": "Using six studies, the paper shows that in aesthetic self-customization, greater uniqueness raises owners' valuations but lowers secondhand buyers' willingness to pay and resale prices.",
+  "relation_to_prior_work": "challenges the predominantly positive view in uniqueness and mass customization research by documenting a resale downside of aesthetic uniqueness. It shifts attention from first-purchase utility to secondhand-market valuation across the product life cycle.",
+  "research_gap": "Prior mass customization and uniqueness research mainly emphasizes first-purchase benefits and higher willingness to pay for unique self-designed products. The paper argues that a potential resale cost in secondhand markets, especially for aesthetic customizations that are hard to reverse, had been largely overlooked.",
+  "research_question": "Does greater uniqueness in aesthetically self-customized products reduce their appeal and value on secondhand markets, even though uniqueness increases value for the original consumer-designer? The paper also asks whether this effect occurs because more unique designs are less likely to match secondhand buyers' taste preferences."
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper identifies an averaging bias in calorie judgments: when a vice is paired with a virtue, consumers often average perceived healthiness instead of adding calories, creating a subtraction effect.",
+    "It proposes a categorization-based mechanism in which vice/virtue labels drive qualitative balancing, and shows this account better fits the data than alternatives such as negative-calorie beliefs, generic diminishing sensitivity, or a simple halo account.",
+    "It maps boundary conditions for the bias, including virtue extremity, holistic versus piecemeal evaluation, and health-based versus size-based categorization, and discusses implications for calorie labeling policy."
+  ],
+  "context": "The study is set in consumer food evaluation, where people estimate meal calories under limited meal-level nutrition information. The substantive backdrop is calorie management and obesity-related public policy, including fast-food and restaurant choice contexts.",
+  "design_and_data": "The evidence comes from four online between-subject experiments (total N = 874) using calorie-estimation tasks for single items and item combinations. Experiment 1 (N = 188, Mechanical Turk) compared estimates for a hamburger alone, hamburger plus broccoli salad, and hamburger plus cookie, with a 500-calorie hamburger anchor; a separate check estimated salad calories alone. Experiment 2 (N = 231 students) manipulated virtue strength by making a Caesar salad appear more or less healthy via comparison targets, then measured calories for burger, salad, or burger-plus-salad. Experiment 3 (N = 241 students) manipulated overall versus piecemeal evaluation for vice/virtue (burger+salad) versus vice/vice (burger+cheesecake) meals, and Experiment 4 (N = 214 students) manipulated prior categorization focus (healthiness vs size) before estimating calories for burger, salad, or their combination.",
+  "focal_constructs": [
+    "vice/virtue categorization",
+    "calorie estimation",
+    "averaging bias",
+    "subtraction effect",
+    "perceived meal healthiness",
+    "holistic versus piecemeal processing",
+    "virtue extremity",
+    "size-based categorization"
+  ],
+  "main_findings": [
+    "Adding a virtue to a vice reduced perceived calories of the combined meal, and in some conditions the vice-plus-virtue meal was judged to have fewer calories than the vice alone.",
+    "The bias depended on categorization strength: when the virtue was framed as stronger, underestimation increased; when weaker, the subtraction pattern was not significant.",
+    "The bias was moderated by processing mode and cues: holistic and health-based framing increased underestimation, whereas piecemeal estimation and size-based framing attenuated or reversed it."
+  ],
+  "one_line_summary": "Across four experiments, consumers systematically underestimated calories in vice-plus-virtue meals because they relied on categorical health balancing, often averaging rather than adding component calories.",
+  "relation_to_prior_work": "extends prior research on virtue/vice choices and calorie-estimation errors by showing a category-driven averaging mechanism that can yield subtraction effects, and by identifying when this pattern weakens under piecemeal or size-based evaluation.",
+  "research_gap": "The paper argues that consumers often must estimate meal calories without clear meal-level information, yet it was unclear how they integrate calorie beliefs when a meal combines healthy and indulgent items. It addresses whether these mixed-goal combinations are evaluated additively or through a systematic bias.",
+  "research_question": "How do consumers estimate the calorie content of combinations of foods that represent conflicting health and indulgence goals? Specifically, do people add component calories, or do vice/virtue categorizations lead them to average perceived healthiness and underestimate total calories?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a new heterogeneous randomly stopped sum model, jointly with a recognition memory model, to link eye-tracked attention to print ads with Starch recognition measures while allowing ad layout and brand familiarity effects.",
+    "It introduces and quantifies positive diagnostic value (PDV) and negative diagnostic value (NDV) of ad recognition measures for prior attention using Bayes' theorem.",
+    "It develops bias-adjusted recognition (BAR) scores from PDV and NDV and shows in holdout analyses that these adjusted scores improve diagnostic accuracy and help mitigate in-home versus lab score differences."
+  ],
+  "context": "The study examines print advertising recognition for a full issue of Cosmopolitan magazine containing 48 full-page ads. It compares recognition outcomes across laboratory exposure and natural in-home magazine exposure settings.",
+  "design_and_data": "Data were collected with Verify International in the Netherlands from 428 consumers (ages 18-60): 185 in a lab condition and 243 in an in-home condition. Lab participants completed brand-familiarity ratings, viewed the magazine digitally while eye movements were recorded, and then completed standard Starch recognition questions (ad-noted, brand-associated, read-most); in-home participants read the same issue at home and took the same recognition test one week later. The model for the lab data combines a hierarchical randomly stopped sum attention model (fixation frequency and gaze duration) with a two-stage multivariate probit recognition model including ad layout and brand familiarity. Parameters were estimated with MCMC, and holdout validations tested BAR score performance on new ads and new participants.",
+  "focal_constructs": [
+    "Starch ad recognition measures",
+    "ad-noted recognition",
+    "brand-associated recognition",
+    "read-most recognition",
+    "visual attention (fixation frequency and gaze duration)",
+    "ad layout cues (brand, pictorial, and text size)",
+    "brand familiarity",
+    "positive/negative diagnostic value and BAR scores"
+  ],
+  "main_findings": [
+    "Ad recognition measures are systematically biased: ad layout and brand familiarity have direct effects on recognition beyond attention-mediated effects.",
+    "Ad-noted has high PDV but low NDV, brand-associated has high NDV, and read-most is not significantly predicted by attention to text.",
+    "BAR adjustment improves correspondence with fixation-based attention in holdout tests (roughly 25%-60% MAD improvement) and greatly reduces raw in-home versus lab recognition gaps."
+  ],
+  "one_line_summary": "Using eye-tracking and Bayesian modeling, the paper shows that Starch recognition scores are biased by retrieval cues and proposes BAR-adjusted scores that more accurately reflect prior visual attention to print ads.",
+  "relation_to_prior_work": "extends prior advertising-memory work by moving from broad attention-memory associations to a formal diagnostic framework for Starch recognition tests, and by applying predictive-value logic from diagnostic testing to advertising measurement.",
+  "research_gap": "The paper states that despite widespread use of recognition tests, little is known about their accuracy as measures of prior ad attention, and direct tests of the diagnostic value of Starch-type measures are unavailable. It also notes limited evidence on whether these measures are stable across lab and in-home exposure conditions.",
+  "research_question": "How accurately do Starch ad recognition measures diagnose consumers' prior visual attention to print advertisements and their elements? Are these recognition scores biased by ad layout and brand familiarity at retrieval, and can PDV/NDV-based bias adjustment produce more valid attention proxies and reduce lab versus in-home discrepancies?"
+}

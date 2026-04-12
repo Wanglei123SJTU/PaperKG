@@ -1,0 +1,18 @@
+{
+  "paper_summary_path": "C:\\Users\\27497\\Desktop\\PaperKG_Final\\data\\jmr_2000_2025\\crossref_references\\paper_summary.csv",
+  "notes_manifest_path": "C:\\Users\\27497\\Desktop\\PaperKG_Final\\data\\jmr_2000_2025\\paper_notes\\manifest.csv",
+  "notes_dir": "C:\\Users\\27497\\Desktop\\PaperKG_Final\\data\\jmr_2000_2025\\paper_notes\\runs\\ai02_full_notes_conc80\\notes",
+  "internal_edges_path": "C:\\Users\\27497\\Desktop\\PaperKG_Final\\data\\jmr_2000_2025\\internal_reference_matches\\internal_edges.csv",
+  "matched_references_path": "C:\\Users\\27497\\Desktop\\PaperKG_Final\\data\\jmr_2000_2025\\internal_reference_matches\\matched_references.csv",
+  "manifest_path": "C:\\Users\\27497\\Desktop\\PaperKG_Final\\data\\jmr_2000_2025\\citation_triage\\manifest.csv",
+  "paper_rows_ok": 1497,
+  "note_rows": 1497,
+  "edge_rows": 4593,
+  "matched_reference_rows": 4593,
+  "manifest_rows": 4593,
+  "missing_note_files_in_note_run": 0,
+  "skipped_missing_paper": 0,
+  "skipped_missing_note": 0,
+  "skipped_missing_reference_evidence": 0,
+  "max_reference_examples": 3
+}

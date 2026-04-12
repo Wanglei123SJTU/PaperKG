@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper appears methodologically and contextually central rather than incidental: both studies analyze B2B transaction/contact panel data and use Bayesian dynamic censored-demand frameworks (citing: state-space Type I Tobit with latent dynamics; cited: hierarchical Bayesian bivariate Tobit HMM recovering hidden relationship states). The citing paper’s stated contribution of extending prior B2B CRM dynamic communication modeling makes the 2013 JMR article a plausible foundation/comparison point for core modeling choices and ROMI dynamics.",
+  "triage_decision": "keep_for_relation_judgment"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces the \"price entitlement effect\": higher price can entitle upper-class consumers to buy socially costly products.",
+    "It identifies entitlement as a novel mechanism linking subjective social class and price to socially costly consumption, with purchase justification as a downstream process.",
+    "It establishes boundary conditions - egalitarian value salience and social-cost salience/severity - and discusses how these can mitigate socially costly purchases."
+  ],
+  "context": "This research examines consumer choices involving products that provide personal benefits but impose social costs, especially environmental harm. Empirical contexts include nongreen versus green household products, a synthetic-fabric backpack, overdue library-book use, and a tourist day trip that can damage a beach ecosystem.",
+  "design_and_data": "The article reports 10 experiments in total, with 6 in the main text and 4 supplementary studies. Studies use between-subjects manipulations of relative price, egalitarian-values salience, and social-cost salience or severity, while measuring (and in a follow-up, manipulating) subjective social class. Samples include undergraduate participants and online panel participants from Prime Panels; outcomes include actual product choice, purchase intention, and willingness to pay, and most studies after Study 1 were preregistered on AsPredicted. Process evidence relies on moderated mediation analyses focused on entitlement and justification.",
+  "focal_constructs": [
+    "price entitlement effect",
+    "subjective social class",
+    "product price level",
+    "socially costly consumption",
+    "entitlement",
+    "purchase justification",
+    "egalitarian values",
+    "social cost severity"
+  ],
+  "main_findings": [
+    "When a socially costly option is priced higher than alternatives, higher subjective social class increases purchase likelihood, whereas this pattern does not appear for same-priced options and lower-class consumers tend to prefer the cheaper or same-price option.",
+    "Entitlement mediates the social class by price effect, and serial evidence shows that entitlement supports purchase justification that increases socially costly choice.",
+    "The effect is reduced when egalitarian values are salient, appears only when social costs are salient, and is attenuated when social costs are severe, including on willingness to pay."
+  ],
+  "one_line_summary": "Across six main experiments, the paper shows that higher prices can increase upper-class consumers' willingness to buy socially costly products because higher price elicits entitlement that justifies the choice, with clear boundary conditions.",
+  "relation_to_prior_work": "extends research on sustainable versus socially costly consumption by showing that price and subjective social class jointly shape socially costly purchase. It introduces situational entitlement into marketing as a mechanism activated by higher price and connected to purchase justification. It also refines understanding of social class effects by showing they are not unidirectional but depend on product attributes and social-cost context.",
+  "research_gap": "Prior work had not clearly identified how social class affects socially costly or unsustainable consumption, especially whether price changes this relationship. Entitlement had received limited attention in marketing as a situational mechanism that could justify socially costly purchases.",
+  "research_question": "When does a higher product price increase, rather than decrease, consumers' purchase of products with social costs? The paper asks whether this depends on consumers' subjective social class and whether entitlement from paying a higher price explains the effect, and it tests boundary conditions involving egalitarian values and social-cost salience and severity."
+}

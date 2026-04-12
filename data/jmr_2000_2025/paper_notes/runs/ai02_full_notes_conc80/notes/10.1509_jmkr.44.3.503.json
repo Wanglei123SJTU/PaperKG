@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Proposes a hidden Markov promotion response model that treats competitor promotion exposure as a latent state and estimates it jointly with sales response parameters.",
+    "Extends this approach to a random coefficients hierarchical Bayesian specification to capture client-level heterogeneity and improve estimation when each client has limited time-series data.",
+    "Shows, in simulation and real physician-level data, that the model can estimate cross-promotion effects and improve prediction when competitor promotions are not observed."
+  ],
+  "context": "The paper focuses on markets where firms can observe competitor sales but not customer-level competitor promotions, a common situation outside packaged goods. The empirical setting is a duopoly in pharmaceuticals, using physician-level prescription behavior for two competing drugs in one therapeutic class.",
+  "design_and_data": "The authors specify a two-equation duopoly promotion response system in which competitor promotion is unobserved and modeled as a latent binary first-order Markov process. They estimate an individual-level HMM and a hierarchical Bayesian random coefficients HMM (via MCMC/Gibbs), and compare them with SUR (full information), regressions without competitor promotion, and time-independent latent-variable regressions. In a Monte Carlo study, they generate 400 clients (200 low and 200 high correlation between observed own promotion and unobserved competitor promotion) over 50 periods and evaluate parameter recovery, latent-state imputation, and forecasting. They then apply the models to 24 months of data for 156 physicians, with monthly prescriptions for both brands and sampling indicators, treating competitor sampling as unobserved for estimation and using available data for validation comparisons.",
+  "focal_constructs": [
+    "unobserved competitive promotions",
+    "own-promotion effects",
+    "cross-promotion effects",
+    "hidden Markov process",
+    "random coefficients heterogeneity",
+    "omitted-variable bias",
+    "promotion-state imputation",
+    "physician prescription response"
+  ],
+  "main_findings": [
+    "Ignoring competitor promotions leads to biased estimates of promotion response, and the bias is larger when own and competitor promotions are more correlated.",
+    "The random coefficients HMM imputes unobserved competitor promotions more accurately than alternative latent approaches in both simulation and application results.",
+    "Compared with models that ignore competitor promotion or use a time-independent latent variable, the random coefficients HMM reduces bias in own and cross promotion parameters and improves predictive validity, typically performing second only to full-information SUR."
+  ],
+  "one_line_summary": "The paper develops and tests a random coefficients hidden Markov promotion response model that imputes unobserved competitor promotions to estimate own and cross effects and improve sales forecasts.",
+  "relation_to_prior_work": "introduces a promotion response framework for partial-information settings where competitor promotions are not observed, in contrast to prior approaches that either ignore competitive activity or assume complete promotion data across brands. It applies hidden Markov and hierarchical Bayesian estimation to recover cross-effects under this common data limitation.",
+  "research_gap": "Existing promotion response models either omit competitor promotions or assume full observation of all firms' promotion activities. In many industries, firms have competitor sales data but lack customer-level competitor promotion data, creating omitted-variable bias and preventing estimation of promotion cross-effects.",
+  "research_question": "How can a firm estimate own- and cross-promotion effects when competitor promotions are unobserved at the client level? Can a latent Markov representation of competitor promotion, estimated jointly with sales response, recover competitive effects and improve prediction relative to standard alternatives?"
+}

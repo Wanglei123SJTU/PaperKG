@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces and documents \"comparison neglect\": in upgrade decisions, consumers often insufficiently compare the upgrade with the status quo even when they explicitly recognize that comparison is important.",
+    "It identifies a mechanism in which neglected comparison makes consumers overlook overlap between old and new options, inflating perceived novelty and upgrade attractiveness.",
+    "It shows that this effect is specific to upgrade framing (vs regular choice framing), persists under increased deliberation, and can be attenuated by simple comparison prompts."
+  ],
+  "context": "The paper studies consumer decisions about upgrading owned, functional products, with empirical settings centered on smartphone and smartphone app upgrades. Participants are U.S. consumers making both real and hypothetical upgrade choices.",
+  "design_and_data": "The authors report five experiments using between-subject manipulations of comparison prompts and decision framing. Study 1 (N = 90 students) uses a consequential iPhone app upgrade purchase task with real money (participants could spend $0.25 of a $0.50 endowment to buy a premium app version). Studies 2-5 use U.S. MTurk smartphone users (Ns = 318, 221, 241, and 112; Study 3 valid n = 215 after exclusions) and manipulate upgrade vs choice framing, whether overlapping features are explicitly compared, and careful deliberation prompts. Outcomes include upgrade choice/interest, perceived novelty and similarity, coded thought listings about comparison, and measures of status quo satisfaction/value.",
+  "focal_constructs": [
+    "comparison neglect",
+    "product upgrade decisions",
+    "status quo option",
+    "upgrade likelihood",
+    "upgrade vs choice framing",
+    "perceived similarity",
+    "feature overlap and perceived novelty",
+    "status quo satisfaction"
+  ],
+  "main_findings": [
+    "Prompting consumers to compare an upgrade with their current option reduced upgrade likelihood, including in a real-consequence app purchase decision.",
+    "The comparison-prompt effect appeared in upgrade-framed decisions but not in an economically equivalent choice-framed decision, indicating an upgrade-specific process.",
+    "Without prompts, participants perceived more nonredundant \"new\" features and lower similarity between upgrade and status quo; increased perceived similarity and explicit comparison mediated lower upgrading, and the prompt effect weakened when status quo satisfaction was very low."
+  ],
+  "one_line_summary": "The paper shows that consumers often neglect comparing upgrades with what they already own, which inflates upgrading, and that explicit comparison prompts reduce this bias by making overlap with the status quo more salient.",
+  "relation_to_prior_work": "extends prior work on comparison-based judgment by demonstrating an exception in which consumers evaluating upgrades often fail to compare with an obvious and salient reference point, the status quo. It also extends focalism and information-neglect accounts by showing that neglect can persist even when the relevant status quo information is explicitly represented in the decision context.",
+  "research_gap": "Prior research suggests people rely heavily on salient comparisons and often value the status quo, but it had not clearly established whether consumers making upgrade decisions actually compare upgrades with their current option. The paper addresses this missing process question and its consequences for upgrade propensity.",
+  "research_question": "Do consumers spontaneously compare potential product upgrades with the status quo option they already own when making upgrade decisions? If not, does this comparison neglect inflate upgrade likelihood, and can simple prompts to compare with the status quo attenuate the effect?"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper jointly models online social interactions and monetary incentives to explain repeat usage behavior, rather than adoption, using individual-level data.",
+    "It separates online influence from same-office and out-of-office friends while controlling for contemporaneous same-office correlation, to better isolate social effects.",
+    "It explores which social influence mechanism is operating in repeat usage by testing usage-contingent patterns consistent with informational versus normative influence."
+  ],
+  "context": "The study is set in an employee online wellness program at an international consulting company in the United States. Participants used pedometers, earned cash-convertible credits, and could observe friends' prior-week activity through a built-in social networking interface.",
+  "design_and_data": "Data come from a 2011 program run across U.S. offices; participants uploaded hourly pedometer data and claimed rewards, and a social networking tool was introduced 37 days after launch. The full program had 5,107 registrants across 76 offices, and the estimation sample includes 334 active participants from 43 offices with at least one friend (39,746 person-day observations). The authors observe dynamic friendship formation, reward claims, pedometer usage, and office location, and split friends into same-office versus out-of-office ties. They estimate a panel spatial Tobit model with participant fixed effects and Bayesian MCMC, including lagged weekly friend activity and lagged monetary rewards while modeling contemporaneous same-office correlation.",
+  "focal_constructs": [
+    "online social interactions",
+    "repeat usage behavior",
+    "monetary incentives",
+    "out-of-office friend influence",
+    "same-office contemporaneous correlation",
+    "informational influence",
+    "normative influence"
+  ],
+  "main_findings": [
+    "Online social interactions significantly increase repeat participation, and after accounting for contemporaneous same-office correlation, the significant online effect comes mainly from out-of-office friends.",
+    "Monetary rewards have a significant positive effect on repeat usage, and models that omit social interactions overstate the estimated reward effect.",
+    "Scenario analyses indicate social interactions are more effective than monetary rewards when both are present, and additional analyses suggest informational influence is more consistent with observed repeat-usage patterns than normative influence."
+  ],
+  "one_line_summary": "Using panel data from an employee wellness program and a spatial Tobit framework, the study shows that online friend interactions, especially from out-of-office friends, are a major driver of repeat participation and are more effective than monetary rewards, which remain positive but smaller.",
+  "relation_to_prior_work": "extends prior social influence research that mostly emphasizes adoption by examining repeat usage, and it compares peer effects with a traditional marketing instrument (monetary rewards) at the individual level while accounting for same-office contemporaneous correlation.",
+  "research_gap": "Prior work on social interactions in marketing is concentrated on adoption outcomes, with limited evidence on repeat usage and little joint individual-level analysis of social interactions and monetary incentives. The paper argues that these effects are confounded unless both are modeled together and same-office contemporaneous correlation is controlled.",
+  "research_question": "How do online social interactions influence consumers' repeat usage behavior in a rewards program, and how does this effect compare with monetary incentives? The study also asks whether including social interactions changes the measured impact of rewards and which social influence mechanism is most plausible in this repeat-usage setting."
+}

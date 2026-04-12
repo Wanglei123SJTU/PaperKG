@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper’s core contribution is a methodology that jointly links acquisition and retention under truncation/right-censoring (Tobit with selection), which closely matches the citing paper’s central contribution of jointly modeling reacquisition and second-tenure duration with censoring. Given this strong method-level and construct-level overlap (acquisition/reacquisition-retention linkage), the citation is plausibly foundational or a direct modeling antecedent rather than an incidental mention. With only DOI-level match evidence but highly aligned paper notes, this should be kept for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

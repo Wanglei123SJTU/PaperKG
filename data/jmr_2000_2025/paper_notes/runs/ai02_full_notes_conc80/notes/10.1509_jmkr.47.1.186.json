@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides marketing evidence that Easterners and Westerners process conflicting information differently, and that this difference affects brand extension feedback effects.",
+    "Introduces a cross-cultural perspective to brand dilution beyond a pure categorization account by emphasizing how incongruent information is processed.",
+    "Identifies culture as a moderator of brand dilution, jointly with motivation and extension typicality, in evaluations of parent brands after extension outcomes."
+  ],
+  "context": "The paper studies feedback effects from brand extensions to parent brands in consumer electronics settings (e.g., Sony, Nokia, Dell) where extension performance can influence parent-brand beliefs. Data come from Chinese Singaporean university students treated as bicultural consumers, with Eastern or Western orientations made temporarily accessible via priming.",
+  "design_and_data": "The author reports three between-subject experiments. Study 1 uses a 2 x 2 design (cultural prime: U.S. vs Chinese, motivation: low vs high) with a moderately typical extension and a baseline control group; participants evaluate parent-brand attributes and make a related product choice. Study 2 uses a 2 x 2 x 2 design (processing style prime: analytic vs holistic, motivation, extension typicality: typical vs atypical) to test mechanism and moderation. Study 3 uses a 2 x 2 x 2 design (cultural prime, motivation, extension success vs failure) plus a control group to compare dilution versus enhancement patterns.",
+  "focal_constructs": [
+    "brand dilution",
+    "cultural orientation",
+    "motivation level",
+    "extension typicality",
+    "conflicting information processing",
+    "analytic versus holistic processing style",
+    "brand enhancement"
+  ],
+  "main_findings": [
+    "When a typical extension fails, brand dilution is stronger for Western-oriented participants under low motivation than high motivation, but stronger for Eastern-oriented participants under high motivation than low motivation.",
+    "Extension typicality moderates the pattern: for atypical extensions, analytic processors show more dilution under high (vs low) motivation, while holistic processors do not show the same significant increase and trend in the opposite direction.",
+    "When extension information is positive (extension success), Eastern- and Western-primed participants show similar patterns, with stronger brand enhancement under high motivation, indicating asymmetry between dilution and enhancement effects."
+  ],
+  "one_line_summary": "Across three experiments, the paper shows that cultural orientation changes how motivation and extension typicality shape parent-brand dilution after extension failure, while enhancement after extension success is similar across cultures.",
+  "relation_to_prior_work": "extends prior brand dilution research, which is largely based on Western settings, by showing that culture systematically changes responses to extension failure and by linking this to differences in processing incongruent information.",
+  "research_gap": "Prior brand dilution studies mainly examine Western consumers, and the paper states that existing research is largely silent on whether extension failure effects generalize to Eastern cultures. It also addresses the unresolved question of how culture interacts with motivation and extension typicality in shaping feedback to the parent brand.",
+  "research_question": "Does culture affect how consumers react to brand extension failures, especially when failure information conflicts with a generally positive parent-brand image? The paper also asks whether motivation level and extension typicality moderate this cultural effect, and whether the same cross-cultural pattern appears for extension success."
+}

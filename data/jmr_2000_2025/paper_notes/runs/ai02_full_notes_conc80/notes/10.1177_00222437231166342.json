@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops DCAS, a 21-item scale with seven evaluative design dimensions (form, function, solidity, usefulness, style, eco-consciousness, and uniqueness) grounded in design theory, marketing literature, and designer interviews.",
+    "The authors claim to be the first to conceptually connect the form-follows-function principle with the Vitruvian Triad, and to delineate intrinsic versus extrinsic roles in consumer design evaluations within this framework.",
+    "The paper contributes an actionable diagnostic tool, including a validated seven-item short form, that helps marketers and designers communicate in shared design language and adjust design communications."
+  ],
+  "context": "The studies are set in consumer product design communications, including product visuals, packaging, and advertisements. Evidence spans controlled lab settings and real online environments, including an Amazon retailer and Facebook ad campaigns for product concepts.",
+  "design_and_data": "The authors follow a multi-stage scale-development process: interviews with 10 designers to assess the domain, deductive and inductive item generation (including a second set of 8 practicing designers), and reduction from 200 to 21 items using EFA/CFA and face validity checks. Core validation datasets include undergraduate and online panel samples (Data Set 1: n=406; Data Set 2: n=365 with two design evaluations each; Data Set 3: n=301 MTurk plus retest subset n=184; Data Set 4: n=505). Stage 2 tests discriminant, nomological, temporal, predictive, and experimental validity, including comparisons against prior design scales. Stage 3 applies DCAS in lab studies and two field studies: alternating Amazon ads over 52 days for two products, and a one-week Facebook A/B concept-ad test with click and email-signup outcomes; Stage 4 validates a seven-item short form using prior datasets.",
+  "focal_constructs": [
+    "design communication effectiveness",
+    "form",
+    "function",
+    "solidity",
+    "usefulness",
+    "style",
+    "eco-consciousness",
+    "uniqueness"
+  ],
+  "main_findings": [
+    "A seven-factor DCAS structure is supported, with reported evidence of convergent, discriminant, nomological, and test-retest validity across datasets.",
+    "DCAS shows stronger predictive performance than prior design scales for behavioral-intention outcomes, with much larger incremental variance when added to existing scales (reported delta R2 values above .16 versus below .02 in reverse comparisons).",
+    "In field applications, DCAS-informed ad revisions improved performance metrics, including higher click-through rates, orders, and sales on Amazon, and higher clicks and email signups in a Facebook product-concept campaign."
+  ],
+  "one_line_summary": "This paper develops and validates the Design Communication Assessment Scale (DCAS), a seven-dimension measure of consumer evaluations of design communications, and shows that DCAS-guided revisions can improve real market outcomes.",
+  "relation_to_prior_work": "introduces a design-theory-grounded measurement framework that the authors position as overcoming theoretical, validation, and practical limitations of prior marketing design scales, while linking marketer-oriented measurement to designer-oriented concepts.",
+  "research_gap": "The paper states that existing product design scales in marketing do not adequately assess how well design information is communicated to consumers, and thus offer limited actionable guidance for adjusting product, package, and advertising communications. It also argues that prior scales have key shortcomings in design-theory grounding and validation breadth (for example, limited face and nomological validity work), weakening their usefulness for marketer-designer collaboration.",
+  "research_question": "How can firms reliably measure the effectiveness of product design communications as evaluated by consumers, in a way that aligns with how designers conceptualize design? Which dimensions should define that assessment, and can such a scale be used to guide design communication adjustments that improve outcomes such as engagement and sales?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces and defines employee-based brand equity as the value a brand creates through employee attitudes and behaviors, and argues that branding returns can include payroll cost reductions.",
+    "Develops an identity-based framework linking brand equity transfer to executive pay through self-enhancement, with stronger effects when executive-brand identification is more salient and uncertainty reduction is more valuable.",
+    "Provides large-sample empirical evidence that stronger brands are associated with lower executive compensation and highlights a marketing-based lever for executive pay negotiations."
+  ],
+  "context": "The study examines top executives in publicly traded U.S. firms across industries, primarily firms in the S&P 1500, over 2000-2010. It links consumer-based brand strength measures to executive compensation outcomes at the firm-executive-year level.",
+  "design_and_data": "The authors merge BAV Consulting Brand Asset Valuator brand data with ExecuComp executive compensation data, plus firm and control data from Compustat, BoardEx, Fortune rankings, and Trading Economics. The main panel includes 10,107 executive-year observations for 2,717 executives (including 495 CEOs) across 393 firms, with a CEO-only sample of 1,869 observations; appointment and terminal years are excluded, and founder CEOs are removed. They estimate panel regressions with Driscoll-Kraay robust standard errors and test interactions between brand strength and CEO status and executive age. Robustness analyses include first-year-after-appointment models, alternative variable specifications, and an instrumental-variable check using deep-lagged advertising expenditures.",
+  "focal_constructs": [
+    "employee-based brand equity",
+    "brand strength",
+    "executive pay",
+    "identity-based self-enhancement",
+    "brand equity transfer",
+    "CEO visibility",
+    "executive age",
+    "uncertainty reduction"
+  ],
+  "main_findings": [
+    "Firms with stronger brands pay their top executives less, controlling for firm, governance, and executive characteristics.",
+    "The negative effect of brand strength on pay is stronger for CEOs than for other executives and stronger for younger executives than for older executives.",
+    "The pattern holds across multiple robustness checks and appears for total and equity-based compensation, but not for salary alone."
+  ],
+  "one_line_summary": "Using U.S. panel data on top executives, the paper shows that stronger brands are associated with lower executive pay, especially for CEOs and younger executives, consistent with an identity-based employee-brand equity mechanism.",
+  "relation_to_prior_work": "extends prior brand equity research beyond customer-side revenue effects to a cost-side outcome, executive compensation. It integrates identity theory streams from psychology, economics, management, and marketing to explain heterogeneity in the brand-pay relationship.",
+  "research_gap": "Prior work on brand equity focuses mainly on customer outcomes and revenue gains, with limited attention to payroll costs as a branding return. The paper also notes limited empirical evidence that brand strength affects actual executive compensation in real labor markets beyond hypothetical student-based studies.",
+  "research_question": "Do strong brands create employee-based value by allowing firms to pay top executives less? Under an identity-based mechanism, is this effect stronger when executive-brand identification is more salient (for CEOs) and when brand association offers greater uncertainty reduction (for younger executives)?"
+}

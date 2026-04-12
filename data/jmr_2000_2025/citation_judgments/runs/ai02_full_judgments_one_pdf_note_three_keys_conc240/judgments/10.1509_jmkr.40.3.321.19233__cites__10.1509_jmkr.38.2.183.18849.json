@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper references Liechty et al. in core methodological framing, not just as general background. It identifies that prior hierarchical Bayes multivariate probit work (including Liechty et al.) relies on correlation-matrix sampling approaches such as Griddy-Gibbs that become computationally burdensome in higher dimensions. The main contribution of the citing paper is then motivated as a more scalable estimation strategy for this same class of multivariate probit problems. This gives the citation a clear functional role in motivating and positioning the new method.",
+  "relation_description": "The citing paper treats the cited paper as prior HB multivariate probit methodology and then improves on its practical estimation limitations. Specifically, it proposes a postprocessing-based approach intended to be computationally easier and more scalable than the correlation-matrix sampling approaches associated with that prior work.",
+  "relation_type": "refines"
+}

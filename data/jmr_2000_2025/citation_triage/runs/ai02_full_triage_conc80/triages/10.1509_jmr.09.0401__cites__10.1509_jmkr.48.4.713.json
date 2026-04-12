@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is a multiplex dyadic social-network modeling method (hierarchical Bayesian latent-space/hurdle), while the citing paper’s described design is an aggregate daily sales-and-earned-media time-series model (zero-inflated multivariate autoregressive double Poisson with copula), so direct methodological dependence is not evident from the notes. However, the only matched evidence is a DOI-level reference record with no in-text citation context, so it is not safe to conclude this is merely incidental.",
+  "triage_decision": "uncertain"
+}

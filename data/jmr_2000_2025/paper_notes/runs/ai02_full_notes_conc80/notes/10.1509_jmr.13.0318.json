@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper compares plural and dyadic vertical marketing alliance structures and identifies when one structure outperforms the other for upstream firm value.",
+    "It examines the unique interaction of vertical upstream-downstream ties and horizontal ties between downstream partners within a single plural alliance.",
+    "It proposes and tests learning and dependence balancing as key mechanisms behind plural alliance performance using two event studies and an experiment."
+  ],
+  "context": "The study examines vertical marketing alliances in which one upstream firm collaborates with downstream manufacturers, either with one partner (dyadic) or multiple partners (plural). The empirical setting is high-tech manufacturing industries (computer-related products, electronic components and semiconductors, software, and pharmaceutical/biotech).",
+  "design_and_data": "The authors run two event studies using alliance announcements and upstream firms' abnormal stock returns. Study 1 uses SDC, Compustat, and CRSP data from 1998-2010 and analyzes 928 marketing alliances (324 plural, 604 dyadic) from 213 upstream firms, with a multinomial-logit-based self-selection correction and event-window return estimation. Study 2 focuses on plural alliances only (307 observations), adds coded measures of downstream partners' market overlap and prior relationship, and tests interactions with upstream experience and reputation. Study 3 is a scenario-based 2 x 2 x 2 between-subjects experiment with 86 senior executives to test the learning and dependence-balancing mechanisms directly.",
+  "focal_constructs": [
+    "plural marketing structure",
+    "dyadic marketing structure",
+    "alliance performance (abnormal returns)",
+    "learning",
+    "dependence balancing",
+    "upstream firm alliance experience",
+    "downstream partners' market overlap",
+    "prior relationship between downstream partners"
+  ],
+  "main_findings": [
+    "Plural alliance announcements and dyadic alliance announcements both generate positive abnormal returns, but plural structures have higher baseline abnormal returns for upstream firms.",
+    "The plural-versus-dyadic performance advantage is stronger for product/marketing alliances and for upstream firms with greater alliance experience, while dyadic structures perform better when upstream industry competitiveness is higher.",
+    "Within plural alliances, downstream partners' market overlap and prior ties become more beneficial for upstream returns when the upstream firm has greater alliance experience; market overlap also becomes more beneficial with higher upstream reputation, and the experiment supports that overlap hurts learning but helps dependence balancing while prior ties help learning but hurt dependence balancing."
+  ],
+  "one_line_summary": "Using two event studies and an experiment, the paper shows when plural vertical marketing alliances with multiple downstream manufacturers outperform dyadic alliances for upstream firm value and what factors make plural alliances work better.",
+  "relation_to_prior_work": "extends prior marketing alliance research that focused mainly on dyadic vertical ties by analyzing plural structures and their performance contingencies. It also refines network-oriented work by emphasizing interaction mechanisms between vertical and horizontal ties inside a single plural alliance, not only network position metrics.",
+  "research_gap": "Although plural alliances are increasingly common, prior marketing alliance research focuses mainly on dyadic structures and offers little guidance on when plural structures improve upstream returns or how to manage them. Prior work also tends to study vertical and horizontal relationships separately rather than their joint effects within one alliance.",
+  "research_question": "When do plural marketing alliance structures with multiple downstream partners create higher upstream firm returns than dyadic structures? Which alliance-, firm-, industry-, and horizontal-relationship factors determine the effectiveness of plural structures, and can learning and dependence balancing explain these effects?"
+}

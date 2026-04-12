@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the methods section, the cited work is not just listed as background; it is explicitly invoked to justify concern about slope endogeneity from managers' private information. That issue directly shapes model specification and estimation choices in the citing paper. Although the citing study does not reuse the 2010 estimator itself, the cited paper provides a key conceptual foundation for why and how endogeneity must be handled.",
+  "relation_description": "The citing paper relies on Luan and Sudhir (2010) as a methodological foundation for the slope-endogeneity problem in marketing response models. It uses that precedent to motivate its own endogeneity correction strategy (copula terms and interactions) when estimating advertising effects on online search and sales.",
+  "relation_type": "foundational_for"
+}

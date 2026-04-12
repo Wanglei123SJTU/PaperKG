@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper shows across multiple experiments that partitioning a fixed resource into smaller units reduces consumption amount or slows consumption rate relative to an aggregate presentation.",
+    "It proposes and tests an attention-based mechanism: partitions impose a small transaction cost that creates decision points and shifts behavior from automatic to more deliberative control.",
+    "It identifies boundary conditions for partition effectiveness, including consumers' motivation to regulate consumption and habituation to repeated partition cues."
+  ],
+  "context": "The paper studies tempting but regulatable consumption behaviors in food and money domains, including chocolate eating, cookie snacking, and coupon-based gambling that can be cashed for money. The empirical settings are controlled studies with university participants in North America and Asia using physical packaging or envelope partitions.",
+  "design_and_data": "Study 1 recruited 73 female undergraduates in a chocolate taste task (22 usable returned logs) and compared six chocolates presented unwrapped (aggregate) versus individually wrapped (partitioned), tracking timing of consumption over one week and aversion to overconsumption. Study 2 used 55 university participants gambling with 100 coupons presented in 1, 4, or 10 envelopes; the main outcome was coupons gambled. Study 3 used 91 participants in a 2 x 2 between-subjects design (partitioned vs aggregate coupons; high vs low gambling aversion induced by reading materials) with outcomes including number of bets, recall error, and time per bet. Study 4 used 54 students consuming 20 cookies with no partitions, white partitions, or varying-color partitions, observed across fourteen 10-minute intervals.",
+  "focal_constructs": [
+    "resource partitioning",
+    "consumption self-control",
+    "attention to decision points",
+    "automatic versus deliberative processing",
+    "overconsumption aversion",
+    "consumption rate",
+    "gambling spending",
+    "habituation to partitions"
+  ],
+  "main_findings": [
+    "Partitioning a resource reduced gambling spending and slowed food consumption compared with aggregate presentation across studies.",
+    "The partition effect was stronger when participants were motivated to control consumption (higher aversion to overconsumption or gambling) and weakened when such motivation was low.",
+    "Process evidence showed that partitioned resources increased attention (longer decision times and more accurate recall), and partitions that changed form (varying colors) sustained control better than repeated white partitions."
+  ],
+  "one_line_summary": "Across four experiments, partitioning a fixed amount of food or money into smaller units increased deliberation and helped people who wanted restraint consume more slowly or spend less.",
+  "relation_to_prior_work": "extends dual-process and self-control research by showing that simple physical partitions function as attention-triggering transaction costs that improve restraint when deliberate goals conflict with impulse.",
+  "research_gap": "Prior work implied that attention and deliberation can improve self-control, but it had not clearly established whether physically partitioning the same total resource changes consumption behavior relative to aggregate presentation. The paper addresses this gap by testing partition effects, process evidence, and key moderators.",
+  "research_question": "When total quantity is held constant, does presenting a resource as partitioned units versus one aggregate unit change how much or how fast consumers consume? The paper also asks whether partitions work by drawing attention to decision points and whether this effect depends on consumers' desire to regulate consumption and on habituation to partition cues."
+}

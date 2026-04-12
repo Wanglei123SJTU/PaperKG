@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper claims to be the first study to examine how moment-to-moment entertainment value (EV) and information value (IV) affect consumers' decisions to continue or discontinue viewing TV commercials.",
+    "It claims to identify both independent and joint (multiplicative) effects of EV and IV levels and velocities on stopping behavior.",
+    "It proposes a methodological contribution by combining functional data analysis for multiple moment-to-moment content traces with a random-effects discrete-time hazard model that accounts for heterogeneity across consumers and commercials."
+  ],
+  "context": "The empirical setting is television advertising, using commercials aired on Dutch television. Consumers could stop a commercial during laboratory viewing sessions, a behavior the authors note is closest to skipping and partly overlaps with zapping and zipping.",
+  "design_and_data": "The authors report two laboratory experiments on TV commercial viewing behavior. Experiment 1 used 18 commercials and 71 consumers, and Experiment 2 used 27 commercials and 119 consumers; order was randomized, and the experiments differed in ad context (with versus without surrounding program material) and familiarity measurement. Independent samples of trained judges provided second-by-second EV and IV ratings (typically 20 judges per measure), plus overall uniqueness and familiarity controls. The analysis first built smoothed, weighted EV/IV traces and first derivatives via functional data analysis, then estimated random-effects discrete-time hazard models of the per-second probability of stopping viewing with time-varying EV/IV level and velocity terms and interactions.",
+  "focal_constructs": [
+    "moment-to-moment entertainment value",
+    "moment-to-moment information value",
+    "stopping viewing probability",
+    "EV level",
+    "IV level",
+    "EV velocity",
+    "IV velocity",
+    "EV-IV interaction"
+  ],
+  "main_findings": [
+    "Higher moment-to-moment EV levels decreased the likelihood of stopping a commercial, while higher IV levels increased it, in both experiments.",
+    "EV and IV levels showed a positive interaction: the probability of stopping was highest when EV and IV were simultaneously high, indicating conflict rather than compensation at high levels.",
+    "EV velocity reduced stopping, IV velocity increased stopping, and the EV velocity x IV velocity interaction was positive; the full moment-to-moment model outperformed benchmark models based on averaged or raw summary content measures."
+  ],
+  "one_line_summary": "Across two lab experiments, the study finds that second-by-second entertainment keeps viewers watching TV commercials, information pushes them to stop, and high or rising entertainment and information together most strongly increase stopping risk.",
+  "relation_to_prior_work": "extends prior advertising work on overall feelings-versus-facts effects on viewing time by showing that second-by-second EV and IV levels, changes, and interactions predict real-time stopping decisions during commercials.",
+  "research_gap": "Prior research had mainly examined overall commercial features and consumer characteristics, leaving little evidence on how moment-to-moment ad content affects decisions to continue or discontinue viewing during exposure. The paper also identifies scarce evidence on the joint dynamic effects of entertainment and information within commercials.",
+  "research_question": "How do moment-to-moment entertainment value and information value in TV commercials influence consumers' second-by-second decisions to continue or stop viewing? Do the levels and velocities of EV and IV have independent and joint effects on stopping probability?"
+}

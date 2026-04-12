@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and demonstrates that the effect of vertical product line extensions on retailer price image is moderated by consumer goals (browsing vs buying).",
+    "It advances a process account in which browsing induces broad attention and price integration, whereas buying induces narrow attention and contrast against a focal option.",
+    "It identifies boundary conditions by showing that the buying-related contrast effect depends on what is focal; when attention shifts to the extension itself, the effect reverses to a directionally consistent pattern."
+  ],
+  "context": "The paper studies retailer price-image formation when shoppers encounter assortments with upscale or downscale extensions. Evidence comes from simulated shopping tasks across categories such as electronics, tea, office supplies, hardware, and groceries.",
+  "design_and_data": "The article reports five controlled experiments with student participants from a large Midwestern university (N=73, 80, 128, 108, and 95). Studies manipulate extension type (upscale vs downscale, and in one study a no-extension baseline) and consumer goal (browsing vs buying), with additional manipulations of spending mode and attentional focus. Data are collected in computer/web/virtual-store tasks, using dependent measures including purchase deferral, direct price-image ratings, expected prices of unobserved items, price evaluations, and store choice. Later studies test mechanism and boundary conditions by manipulating or measuring focal attention (moderate option vs extension) and the number of extensions chosen.",
+  "focal_constructs": [
+    "price image",
+    "vertical product line extensions",
+    "consumer goals",
+    "browsing goal",
+    "buying goal",
+    "attentional focus",
+    "integration vs contrast",
+    "store choice"
+  ],
+  "main_findings": [
+    "When consumers had a browsing goal, upscale extensions tended to increase price image and downscale extensions tended to decrease it.",
+    "When consumers had a buying goal, the pattern reversed: upscale extensions lowered price image and downscale extensions raised it, consistent with contrast from a focal moderate option.",
+    "The effect depended on focus: broad focus or focus on the extension produced directionally consistent effects, while narrow focus on moderate options produced contrast; in buying tasks, choosing more extensions reduced this contrast pattern."
+  ],
+  "one_line_summary": "Across five experiments, the paper shows that upscale and downscale line extensions can shift retailer price image in opposite directions depending on whether consumers are browsing or buying.",
+  "relation_to_prior_work": "extends prior work on vertical extensions and price image by showing that extension effects are not uniformly directional but contingent on consumer goals. It also connects contextual price-perception effects to store-level price image, with integration under browsing and contrast under buying.",
+  "research_gap": "Prior research on vertical extensions emphasized outcomes such as profitability, competitive entry, and choice, with little direct attention to how extensions shape retailer price image. Existing price-image work focused more on nonprice cues or individual item prices than on how assortment composition and vertical extensions affect overall price image.",
+  "research_question": "How do upscale versus downscale product line extensions influence a retailer's price image? The paper asks whether this effect depends on whether consumers are browsing or buying, and whether goal-driven attentional focus changes price-image formation via integration versus contrast."
+}

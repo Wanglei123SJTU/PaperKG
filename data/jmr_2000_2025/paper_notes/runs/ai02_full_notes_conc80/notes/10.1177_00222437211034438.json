@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides multimethod evidence that print advertising retains a memory advantage over digital advertising in marketing communications.",
+    "It links behavioral memory differences to underlying mechanisms by combining eye tracking, biometrics, and fMRI, and by relating encoding engagement to later retrieval.",
+    "It clarifies mixed prior findings by jointly testing recall versus recognition, immediate versus delayed retrieval, and whole-ad versus snippet retrieval cues across three studies."
+  ],
+  "context": "Participants viewed advertising stimuli for products, services, and restaurants presented as print postcards or digital ads (email/computer/tablet) in controlled lab tasks. Memory was tested immediately and/or about one week later, including surprise recognition tasks.",
+  "design_and_data": "Study 1 used a counterbalanced within-subject design with 40 ads, eye tracking and biometrics during exposure, and a one-week-later fMRI recognition task; 34 participants had complete usable multimethod data. Study 2 was a two-phase behavioral extension (73 in Phase 1, 63 returning in Phase 2) using 48 ads and snippet-based recognition, context attribution, and brand association after about one week. Study 3 (N = 30) compared immediate recall/recognition and delayed one-week snippet recognition with print versus handheld-tablet digital exposure, and included fMRI in the delayed phase. Key memory outcomes were analyzed with mixed-effects models that accounted for participant and ad-level variation.",
+  "focal_constructs": [
+    "print advertising",
+    "digital advertising",
+    "memory encoding",
+    "memory recognition",
+    "memory recall",
+    "context (source) memory",
+    "ad content and brand associations",
+    "hippocampal and parahippocampal activation"
+  ],
+  "main_findings": [
+    "Print ads elicited stronger encoding-related engagement than digital ads, including longer processing times and higher arousal indicators (e.g., larger pupil size and higher phasic skin conductance in Study 1).",
+    "When whole ads were used as cues after one week, content recognition did not differ significantly by format, but context/source memory was more accurate, faster, and more confident for print, and print showed greater hippocampal and parahippocampal activation.",
+    "With harder retrieval cues (ad snippets), print outperformed digital on delayed recognition of ad content and context (and brand associations in Study 2), and Study 3 showed print advantages in immediate recall but not immediate recognition, consistent with stronger initial encoding for print."
+  ],
+  "one_line_summary": "Across three experiments, the paper finds that print ads generally produce stronger memory encoding and delayed retrieval than digital ads, supported by eye-tracking, biometric, behavioral, and fMRI evidence.",
+  "relation_to_prior_work": "extends prior print-versus-digital memory research by using delayed tests, multiple ad stimuli, and multimethod measurement to separate encoding from retrieval effects. It also applies the Binding of Items in Context account from neuroscience to advertising by mapping ad content, context, and their associations to differential retrieval activity.",
+  "research_gap": "Prior print-versus-digital studies in marketing communications were sparse and reported inconsistent recall and recognition results. Most relied on immediate post-exposure tests and limited stimuli, leaving the encoding mechanisms and persistence of memory differences over time unclear.",
+  "research_question": "This paper asks whether the same advertisement is encoded and later retrieved differently when presented in print versus digital format. It also asks whether any retrieval differences are driven by stronger initial encoding and engagement, and how these differences appear in behavioral memory and brain activation."
+}

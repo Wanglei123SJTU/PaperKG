@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper explicitly models online rating-generation dynamics (star-level hazard processes and social influence), which overlaps with the citing paper’s central mechanism-focused inquiry into why rating distributions become extreme and its own dynamic modeling framework. This suggests the citation could be a mechanism/foundational prior-work anchor rather than a generic mention. With only a DOI match and no in-text snippet, it is not safe to drop as obvious mention-only.",
+  "triage_decision": "keep_for_relation_judgment"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper is explicitly framed as a response and follow-up to Bradlow, Hu, and Ho (2004), which it calls the original BHH model. It repeatedly uses the cited paper as the baseline for clarification, interpretation of prior results (e.g., references to BHH tables/findings), and discussion of model assumptions. The note then proposes concrete additions (new imputation-rule formulations and similarity metrics) and further analyses as developments of that original framework. This is a central, not passing, citation role.",
+  "relation_description": "The citing note directly builds on Bradlow, Hu, and Ho (2004) by treating its learning-based imputation model as the base framework and then adding clarifications, extra analyses, and proposed model extensions. It preserves the core line of work while extending how imputation can be specified and tested.",
+  "relation_type": "extends"
+}

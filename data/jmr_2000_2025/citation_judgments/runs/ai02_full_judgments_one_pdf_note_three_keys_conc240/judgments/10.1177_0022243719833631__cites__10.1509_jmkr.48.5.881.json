@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Lee and Bradlow (2011) as a key prior benchmark in its literature framing, including the argument that market structure analysis often starts with predefined attributes. It then explicitly positions P2V-MAP as extending that prior work by automating attribute discovery via a different data source and modeling pipeline. The citation supports the paper's core contribution claim (automation and scalability beyond review-text settings), not just background listing.",
+  "relation_description": "The citing paper presents P2V-MAP as an extension of Lee and Bradlow's automated attribute-generation approach for market structure analysis. It preserves the automation objective but replaces review text mining with basket co-occurrence embeddings to enable broader, cross-category, retailer-scale mapping.",
+  "relation_type": "extends"
+}

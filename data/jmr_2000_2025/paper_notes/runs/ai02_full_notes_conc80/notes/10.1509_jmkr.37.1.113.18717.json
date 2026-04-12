@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes two new estimators, denoised least squares (DLS) and modified Kalman filter (MKF), to control measurement errors in dynamic advertising models.",
+    "It provides an analytical link between parameter bias and bias in optimal advertising spending and profit in a Nerlove-Arrow advertising competition framework.",
+    "It demonstrates how to estimate the extent of measurement noise in real advertising tracking data and offers practical guidelines for choosing DLS versus MKF."
+  ],
+  "context": "The paper studies advertising budgeting under dynamic goodwill competition using commercially measured advertising variables such as brand awareness and gross rating points (GRPs). The empirical illustration uses a 74-week tracking study for a major cereal brand with weekly TV GRPs and awareness measures.",
+  "design_and_data": "The authors formulate a two-firm Nerlove-Arrow goodwill competition model and derive steady-state optimal advertising and profit, then analyze how bias in estimated forgetting rates affects these outcomes. They compare OLS, EIV, DLS, and MKF in Monte Carlo experiments (1000 simulated datasets, T = 64) with varying measurement-noise levels in awareness and GRP variables. They apply DLS and MKF to a real 74-week cereal-brand advertising tracking dataset (weekly GRPs and awareness percentages). MKF is estimated via state-space maximum likelihood with an AR(1) spending equation, allowing estimation of measurement-error variances and error correlation.",
+  "focal_constructs": [
+    "measurement errors in advertising variables",
+    "brand awareness",
+    "gross rating points (GRPs)",
+    "parameter bias",
+    "optimal advertising spending",
+    "profit bias",
+    "denoised least squares (DLS)",
+    "modified Kalman filter (MKF)"
+  ],
+  "main_findings": [
+    "OLS and conventional EIV estimators are substantially biased for dynamic advertising models with noisy variables, and EIV can be unstable.",
+    "DLS reduces parameter bias relative to OLS and EIV, while MKF is asymptotically unbiased and performs best when measurement noise is high; for noise-to-signal ratios below about 20%, DLS and MKF perform similarly.",
+    "Parameter bias translates into biased managerial decisions: upward bias in forgetting-rate estimates leads to understated optimal advertising budgets and overstated profits; in the cereal example, awareness measurement noise is high (about 40% noise-to-signal)."
+  ],
+  "one_line_summary": "The paper shows that measurement error in awareness and GRP data can seriously distort dynamic advertising competition estimates and introduces DLS and MKF methods that reduce or asymptotically eliminate this bias for better budgeting decisions.",
+  "relation_to_prior_work": "extends prior dynamic advertising budgeting research by explicitly treating measurement error in advertising variables and by introducing estimators tailored to dynamic settings where standard OLS and EIV methods are inadequate.",
+  "research_gap": "Prior work on bias in advertising models examined temporal aggregation, lag misspecification, and parameter uncertainty, but did not analyze measurement-error contamination in dynamic advertising competition models. The available EIV approach incorporates measurement error but ignores the dynamic intertemporal dependence induced by goodwill formation.",
+  "research_question": "How do measurement errors in observed advertising variables (for example, awareness and GRPs) bias parameter estimates in dynamic models of advertising competition, and what are the consequences for optimal advertising spending and profit? Can new estimation approaches be developed that reduce or remove this bias and be applied to real tracking data to quantify measurement noise?"
+}

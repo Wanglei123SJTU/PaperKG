@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper theoretically and empirically addresses the neglected downside of free shipping promotions on product returns.",
+    "It documents and quantifies a previously unestablished link between free shipping promotions and return behavior, together with effects on sales and profit.",
+    "It identifies and tests risk premium and positive affect as mechanisms by which free shipping increases risky purchases."
+  ],
+  "context": "The empirical setting is a large European multichannel retailer (mostly online) with a broad assortment, a fixed outbound shipping fee, and free return shipping, running temporary free-shipping campaigns. Additional evidence comes from a large randomized customer field experiment and an online shopping lab scenario.",
+  "design_and_data": "The authors run four studies. Study 1 estimates a Tobit Type II system on weekly customer-panel data from 9,460 customers over a three-year period with six free-shipping campaigns, modeling purchase incidence, high-risk spend, low-risk spend, and return share. Study 2 is a randomized field experiment with 760,395 customers, where half received a free-shipping promo code. Study 3 is a post-purchase field survey analyzed with propensity score matching (n = 1,464 matched respondents), and Study 4 is a 2 x 2 online lab experiment (free shipping x product risk; n = 401).",
+  "focal_constructs": [
+    "free shipping promotions",
+    "purchase incidence",
+    "high-risk product spend",
+    "low-risk product spend",
+    "basket return share",
+    "risk premium perceptions",
+    "positive affect",
+    "promotion profitability"
+  ],
+  "main_findings": [
+    "Free shipping significantly increases purchase incidence and increases spend on high-risk products more than on low-risk products.",
+    "Because high-risk spend is associated with higher return share, free shipping raises overall basket return share, and this pattern replicates in the randomized field experiment.",
+    "Mechanism tests indicate effects through perceived risk premium and positive affect (with affect mediation concentrated in high-risk conditions), and a profit simulation shows higher order volume but lower profit for free shipping (-0.7%) versus profitable equivalent couponing (+6.0%)."
+  ],
+  "one_line_summary": "Across observational, field, and lab evidence, the paper shows that free shipping promotions shift baskets toward high-risk products, increase return share, and can reduce profit despite higher order volume.",
+  "relation_to_prior_work": "extends prior work on shipping-cost promotions and on product returns by linking the two domains and showing that free shipping can raise returns through riskier basket composition. It complements earlier returns research by emphasizing cross-product risk mix effects and contrasts free shipping with coupons in profitability implications.",
+  "research_gap": "Prior research studied free shipping and product returns largely separately and did not test returns as a downside of free shipping promotions. The paper addresses this missing link and the limited evidence on underlying mechanisms and profit consequences.",
+  "research_question": "Do free shipping promotions increase product returns, and if so why? The paper asks whether free shipping disproportionately increases purchases of high-risk products, thereby increasing basket-level return share and changing promotion profitability."
+}

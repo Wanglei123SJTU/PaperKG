@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Increasing creative input choice from a moderate to an extensive set reduces objective creativity for experienced consumers, while showing no such effect for inexperienced consumers.",
+    "Extensive input choice creates an illusion of creativity: consumers report feeling more creative with more options even when objective creativity does not improve.",
+    "Task enjoyment during the creative process is identified as an antecedent and mechanism linking input choice to creative output."
+  ],
+  "context": "The paper examines consumer creativity in two hobby-creation settings where people choose materials before producing an output: recreational knitting and craft ornament design. In Study 1, participants made a scarf for a three-year-old girl; in Study 2, participants designed a Christmas tree ornament.",
+  "design_and_data": "Study 1 was a 2 x 2 between-subjects field experiment with recreational knitters (N = 76): moderate vs extensive yarn-color choice (6 vs 12 colors) by knitting experience (can knit cables vs cannot). Participants chose inputs in a yarn store, knitted over one week, and reported self-perceived creativity and process enjoyment; two professional knitting experts rated scarf creativity and related dimensions. Study 2 was a 2 x 2 between-subjects lab experiment with experienced crafters (N = 59): moderate vs extensive shape choice (6 vs 20) by cognitive busyness (2-digit vs 8-digit rehearsal). Participants designed ornaments, reported enjoyment, and 10 experienced peer reviewers rated creativity; the analysis tested moderated mediation.",
+  "focal_constructs": [
+    "choice set size of creative inputs",
+    "objective creativity",
+    "self-perceived creativity",
+    "consumer experience with the creative task",
+    "task enjoyment",
+    "choice overload",
+    "cognitive busyness",
+    "creative focus"
+  ],
+  "main_findings": [
+    "Participants perceived themselves as more creative when given extensive rather than moderate input choice, including in the knitting field study.",
+    "For objective outcomes, experienced creators produced more creative outputs under moderate than extensive choice, whereas inexperienced creators showed no significant creativity difference across choice levels.",
+    "Process enjoyment mediated the choice effect on objective creativity, and in the ornament study this pathway depended on focus-related cognitive busyness, supporting the proposed focus/enjoyment mechanism."
+  ],
+  "one_line_summary": "Across knitting and crafting experiments, the paper shows that giving experienced consumers a moderate rather than extensive set of creative inputs increases expert-rated creativity via greater process enjoyment, even though consumers feel more creative with more choice.",
+  "relation_to_prior_work": "extends prior consumer-creativity research by showing that restricting the number of available inputs alone, while keeping freedom to choose, can improve objective creativity. It refines choice-overload work by identifying an effect on downstream creative process and output, and by highlighting experience and task enjoyment/focus as key contingencies.",
+  "research_gap": "Prior work had shown benefits of constraints mainly when input restriction was combined with imposed requirements or reduced control, leaving unclear whether simply reducing the number of options in a self-chosen input set improves creativity. The mechanism and boundary condition for when more choice hurts creativity, especially the role of creator experience, were also not clearly established.",
+  "research_question": "How does the size of the choice set of creative inputs (moderate vs extensive) affect consumers' creativity? Does this effect differ for experienced versus inexperienced creators, and how do self-perceived creativity and objective creativity diverge? The paper also asks whether enjoyment during the creative process explains the effect."
+}

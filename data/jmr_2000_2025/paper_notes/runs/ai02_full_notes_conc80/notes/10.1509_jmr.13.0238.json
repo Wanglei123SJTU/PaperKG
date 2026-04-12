@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "This paper is presented as the first examination of how audience size itself affects what people share in word-of-mouth communication.",
+    "It claims to show a process mechanism: audience size changes sharer focus (self-focus vs other-focus), which then changes message content.",
+    "It claims to clarify when sharing is driven more by the sender versus the receiver by showing that narrowcasting increases recipient-oriented usefulness while broadcasting preserves sender-oriented self-presentation."
+  ],
+  "context": "The paper studies consumer word-of-mouth communication about everyday experiences and products across interpersonal and social media settings. Empirical contexts include imagined email-like sharing, live face-to-face conversations about restaurant experiences, scenario-based sharing of sale information, and Facebook posts.",
+  "design_and_data": "The evidence is six experiments that manipulate audience size (one person versus multiple people), with additional manipulations of audience closeness, induced other-focus, and content attributes. Study tasks include writing or speaking about experiences, rating willingness to share predefined items, and evaluating Facebook sharing scenarios; samples include students and adult respondents (study Ns: 192, 170, 128, 142, 158, 131). Outcomes include counts of shared positive/negative events, LIWC-based emotional language, willingness-to-share scales, and reframing of negative events coded by independent raters. Multiple studies test mediation by sharer focus, and one study includes control conditions (no audience, no task) plus checks for alternative explanations such as anxiety, arousal, embarrassment, and perceived closeness.",
+  "focal_constructs": [
+    "audience size",
+    "broadcasting",
+    "narrowcasting",
+    "sharer focus",
+    "self-focus vs other-focus",
+    "self-presentation (protective vs acquisitive)",
+    "usefulness of shared content",
+    "word of mouth"
+  ],
+  "main_findings": [
+    "Compared with narrowcasting, broadcasting reduced sharing of content that would make the sharer look bad and increased reframing of negative events, with little evidence of effects on sharing content that makes the sharer look good.",
+    "Compared with broadcasting, narrowcasting increased sharing of useful information, and this effect appeared across both friend and acquaintance audiences.",
+    "Across studies, audience-size effects were mediated or moderated by sharer focus: narrowcasting increased other-focus, and experimentally increasing other-focus made broadcasting look more like narrowcasting on both usefulness and protective self-presentation outcomes."
+  ],
+  "one_line_summary": "Across six experiments, the paper finds that communicating to one person rather than multiple people shifts sharers toward other-focus, increasing useful sharing and reducing protective self-presentation.",
+  "relation_to_prior_work": "extends prior word-of-mouth research by moving beyond tie strength and downstream outcomes to show that audience size shapes the sender's transmission choices. It also links audience-size effects to social influence and group-behavior theories by identifying sharer focus as a cognitive mechanism.",
+  "research_gap": "Prior word-of-mouth research had largely emphasized consequences of communication and audience type (for example, tie strength), not whether the sheer number of recipients changes what people share. The paper also identifies limited understanding of when shared content is driven more by sender motives versus recipient considerations.",
+  "research_question": "Does the number of recipients in a communication episode (one person vs multiple people) change the type of content consumers choose to share? If so, is this effect explained by shifts in communicators' attentional focus between the self and others, and does it differentially affect self-presentational versus useful content?"
+}

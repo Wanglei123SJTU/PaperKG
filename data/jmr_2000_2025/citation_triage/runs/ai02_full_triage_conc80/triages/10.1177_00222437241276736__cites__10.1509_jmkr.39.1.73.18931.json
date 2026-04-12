@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s core pipeline explicitly includes “segment-targeted ideal-point product generation” and visual conjoint preference estimation, while the cited paper is a methodological contribution on multiple ideal-point modeling of preferences. Given this direct construct-level overlap (ideal-point preference modeling) and a confirmed DOI match, this is plausibly a foundational/method source rather than an obvious incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

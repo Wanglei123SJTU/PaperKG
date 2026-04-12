@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "Ashok et al. is cited in core model development, not just as background: it is used to justify treating subjective characteristics as latent constructs and avoiding direct use of noisy perception ratings. The citing paper includes a dedicated comparison paragraph that explains how its approach differs from Ashok et al. while acknowledging that work as an important methodological precursor. The citation is also revisited in the conclusion as the closest related model class for future discrete-choice integration, indicating a meaningful framing and positioning role.",
+  "relation_description": "The citing paper builds on Ashok, Dillon, and Yuan (2002) as prior latent-variable choice modeling work and uses it to motivate its latent-construct specification. It extends that line to new product design by modeling subjective characteristics as functions of objective attributes and idiosyncrasy, and by adding a Bayesian forecasting procedure for out-of-sample designs.",
+  "relation_type": "extends"
+}

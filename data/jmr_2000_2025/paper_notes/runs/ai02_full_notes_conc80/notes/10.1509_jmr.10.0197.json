@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper shows that base-rate effects in product-harm crisis attribution are conditional, not uniform: effects depend on prior brand beliefs and on whether similarity information makes the base rate case-relevant.",
+    "It identifies two distinct attribution-adjustment patterns from base-rate information: discounting (high industry frequency with similarity information) and subtyping (low industry frequency without similarity information).",
+    "It demonstrates that these two processes have different carryover effects to later crises: discounting tends to recur for a second crisis, whereas subtyping of a first crisis is unlikely to recur."
+  ],
+  "context": "The study is set in consumer attributions of product-harm crises, such as product recalls and illness incidents linked to brands. The empirical context is beer-brand crisis news scenarios, using both fictitious and real brands.",
+  "design_and_data": "Experiment 1 used a 2 x 2 x 2 between-subjects design (prior beliefs: positive vs negative; industry frequency: high vs low; similarity information: present vs absent) with 192 student participants and a fictitious beer brand (Stiegal). Participants read brand-background materials and then a crisis article; outcomes included blame assignment, brand trustworthiness, brand evaluation, and a subtyping index, with manipulation checks for industry frequency and similarity. A follow-up experiment (n = 106) used weaker base-rate levels and thought listings to assess spontaneous attributional processing; an additional experiment with existing brands (n = 257; Heineken vs Lakeport) replicated the core interaction pattern on trustworthiness and evaluation. Experiment 2 used a two-part design: first-crisis phase (n = 134; 2 x 2 plus control) and, three days later, a second-crisis phase for participants from the discounting and subtyping conditions plus a new control group (n = 25), measuring blame, brand evaluation, and locus of cause.",
+  "focal_constructs": [
+    "base-rate information",
+    "industry frequency of crises",
+    "similarity information",
+    "prior brand beliefs",
+    "blame attribution",
+    "discounting effect",
+    "subtyping effect",
+    "brand trustworthiness"
+  ],
+  "main_findings": [
+    "For brands with positive prior beliefs, high (vs low) industry frequency reduced blame and improved brand trust/evaluation when similarity information was present, but when similarity information was absent, low (vs high) industry frequency reduced blame and improved evaluations.",
+    "For brands with negative prior beliefs, blame, trustworthiness, and brand evaluations were not significantly affected by industry frequency or similarity information.",
+    "In sequential crises, participants who discounted the first crisis also discounted the second under the same high-frequency/similarity-present condition, whereas participants who subtyped the first crisis did not subtype the second under the same low-frequency/similarity-absent condition; locus-of-cause shifts away from the brand occurred in discounting but not subtyping."
+  ],
+  "one_line_summary": "The paper finds that base-rate information shapes product-harm crisis blame only under specific conditions, producing discounting or subtyping for positively viewed brands and showing that only discounting carries forward to a subsequent crisis.",
+  "relation_to_prior_work": "extends prior base-rate attribution research by specifying boundary conditions in product-harm crises, namely prior brand beliefs and case-specific similarity information. It also adds a second effect pattern, subtyping, alongside the conventional discounting account and shows different downstream effects across repeated crises.",
+  "research_gap": "Prior studies report inconsistent effects of base-rate information on attributions, so it is unclear whether and when industry frequency information influences blame in product-harm crises. The paper addresses this by testing boundary conditions that were not clearly integrated in earlier work, especially prior brand beliefs and the case-specific relevance of base-rate information via similarity.",
+  "research_question": "Does base-rate information about how common product-harm crises are in an industry influence consumers' attribution of blame to a focal brand? Under what conditions do consumers discount blame versus subtype a crisis as an exception, and how do these processes affect attribution of a subsequent crisis for the same brand?"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "This paper is the first to study the implications of online reputation mechanisms for franchising and to show directly that online reviews are associated with a lower value of chain affiliation.",
+    "It empirically quantifies the revenue value of chain affiliation and shows how much of that value appears tied to quality signaling, with heterogeneity across quality tiers and market types.",
+    "It contributes to online WOM research by focusing on review information content (not just average stars) and by using machine learning on review text to recover latent quality dimensions."
+  ],
+  "context": "The empirical setting is the Texas hotel industry, where chain affiliation is common and hotels are vertically differentiated by widely used AAA quality tiers. The study uses reviews from TripAdvisor and Priceline, platforms that expanded rapidly in the mid-2000s.",
+  "design_and_data": "The study combines a 15-year monthly property-level panel of Texas hotel revenues (2000-2015) for 5,265 properties in 548 cities with about 1.44 million online reviews posted from 2002-2015. The unit of analysis is the individual property, and performance is measured as RevPar from tax records. The author estimates fixed-effects panel models with property, owner, time, and market controls, and interacts chain status with measures of review information (review count, text length, unique terms, and review recency). Review text is analyzed with LDA topic modeling (six topics) to build time-varying multidimensional quality controls, and chain-premium trends are estimated with year interactions and observed affiliation switches.",
+  "focal_constructs": [
+    "online reputation mechanisms",
+    "chain affiliation value",
+    "business format franchising",
+    "quality signaling under asymmetric information",
+    "online review information content",
+    "chain-level reputation",
+    "property-level ratings"
+  ],
+  "main_findings": [
+    "More online information is positively associated with independent hotel revenue but shows no comparable association for chain hotels; this pattern holds across review volume, review length, unique terms, and recency.",
+    "Chain affiliation carries a large revenue premium on average (about 25.1% versus comparable independents), but this premium fell from about 32% in 2000 to about 19% in 2015, with larger declines for low-quality and small/rural-market hotels.",
+    "Within chain hotels, the association between revenue and chain-wide reputation declines over time, while the association between revenue and individual property ratings increases."
+  ],
+  "one_line_summary": "Using Texas hotel panel data and 1.44 million online reviews, the paper shows that growth in online review information reduced the revenue advantage of chain affiliation, especially for lower-quality and smaller-market hotels.",
+  "relation_to_prior_work": "extends prior work on information intermediaries and online WOM by showing in a brick-and-mortar franchising setting that increased review information is linked to a long-run decline in branding value, and by documenting a shift from chain-wide to outlet-level reputation effects.",
+  "research_gap": "The paper states that although franchising research recognizes quality reputation effects, prior work had not fully examined how improving consumer information and online ratings affect the value of franchising and chain affiliation.",
+  "research_question": "The paper asks how online reputation mechanisms have affected the value of chain affiliation and business format franchising. It also asks whether this relationship varies by vertical quality tier and market size, and whether chain-wide reputation is becoming less important relative to outlet-level quality with implications for franchise contracts."
+}

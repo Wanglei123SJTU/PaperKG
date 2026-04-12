@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides what the authors describe as the first formal household-level expenditure analysis of Quebec's child-directed advertising ban using population-representative survey data.",
+    "Applies a triple difference-in-difference quasi-experimental design in marketing to identify advertising-ban effects while controlling for language, geography, and household composition.",
+    "Shows the value of decomposing category demand into purchase incidence and conditional spending when evaluating advertising regulation."
+  ],
+  "context": "The study examines Quebec, where advertising targeting children under age 13 was banned in 1980, versus neighboring Ontario where no comparable ban existed. It focuses on urban households and leverages different media exposure patterns of French-speaking and English-speaking households, including cross-border media spillovers.",
+  "design_and_data": "The authors use Statistics Canada's FoodEx and FamEx surveys from 1984, 1986, 1990, and 1992 to study fast-food expenditures in large urban areas of Quebec and Ontario. They define treatment and control groups by mother tongue (French vs English), province (Quebec vs Ontario), and household type (with vs without children), and estimate DD and DDD effects. The main model is a two-stage Heckman specification separating weekly fast-food purchase incidence from spending conditional on purchase, with demographic controls, price controls, year and quarter controls, and imputed cable-TV access; OLS, Tobit, and matching estimators are used for robustness. The text reports a final sample of 9,177 households after exclusions.",
+  "focal_constructs": [
+    "child-targeted advertising ban",
+    "fast-food purchase propensity",
+    "household fast-food expenditure",
+    "media spillover",
+    "mother tongue groups",
+    "difference-in-difference and triple difference",
+    "households with children",
+    "advertising effectiveness"
+  ],
+  "main_findings": [
+    "The preferred Heckman DDD estimate indicates that the ban lowered weekly fast-food purchase propensity for French-speaking households with children in Quebec by about 13%.",
+    "Conditional on purchasing fast food, spending per week did not differ significantly across treatment and control groups, so the effect operates mainly through fewer purchase occasions.",
+    "The authors' extrapolation implies a sizable annual reduction in fast-food sales, about C$65.4 million for Quebec (about US$88 million in 2010), and they report only tentative evidence of persistence among young adults."
+  ],
+  "one_line_summary": "Using Quebec's child-directed advertising ban as a natural experiment, the paper finds that affected French-speaking households with children were significantly less likely to buy fast food, mainly because they purchased less often.",
+  "relation_to_prior_work": "extends prior child-advertising studies that were largely laboratory based, and prior Quebec evidence centered on brand recognition rather than consumption, by estimating real-world household fast-food demand effects in a natural experiment. It also complements brand-level advertising effectiveness work with a category-level DD/DDD field analysis.",
+  "research_gap": "Prior work on Quebec mainly documented advertising exposure and brand recognition, not household fast-food consumption, and relied on within-Quebec language comparisons that could confound cultural differences. More broadly, much of the literature on advertising to children was laboratory based, leaving limited externally valid field evidence on actual expenditures.",
+  "research_question": "Does Quebec's ban on advertising targeting children reduce household fast-food consumption? The paper tests whether affected households differ from comparable unaffected groups across language, province, and presence of children, and whether any effect appears in purchase incidence versus spending conditional on purchase."
+}

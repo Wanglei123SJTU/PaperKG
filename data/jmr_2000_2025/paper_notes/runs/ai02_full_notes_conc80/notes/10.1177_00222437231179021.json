@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "Provides a formal individual-level evaluation of how city e-scooter program introduction affects restaurant demand using large-scale transaction panel data.",
+    "Documents heterogeneity in effects across restaurant formats, company characteristics, and city characteristics, and separates new-customer versus repeat-customer spending effects.",
+    "Translates estimated effects into policy-relevant economic magnitudes, including annual dollar lift and lift per e-scooter allowed, and compares these benefits to reported rollout-related city fees."
+  ],
+  "context": "The study examines dockless shared electric scooter program rollouts across U.S. cities and their spillover effects on local restaurant spending. The focal rollout window is June-October 2018, comparing cities that allowed e-scooters to operate with matched cities that did not during the observation period.",
+  "design_and_data": "The authors use deidentified daily credit and debit card transactions from Earnest Analytics, covering in-store purchases at 391 restaurant companies from January 2017 to February 2020; the city-focused analysis uses 46,451 individuals in 98 cities (49 treatment, 49 control). They analyze weekly individual spending outcomes, focusing on e-scooter users as treated individuals, and apply city-level and individual-level matching (including coarsened exact matching) plus a two-way fixed-effects difference-in-differences model with city-specific time trends. Standard errors are clustered by city. Robustness checks include parallel-pretrend tests, placebo-category tests, permutation tests, alternative matching methods, and alternative functional-form/time-aggregation specifications.",
+  "focal_constructs": [
+    "dockless e-scooter program entry",
+    "restaurant spending",
+    "fast-food versus sit-down restaurants",
+    "economic spillovers to local spending",
+    "new versus repeat customer sales",
+    "city demographics and transit infrastructure"
+  ],
+  "main_findings": [
+    "E-scooter program introduction is associated with a statistically significant increase of about 5.2% in restaurant spending among e-scooter users.",
+    "The positive effect is larger for fast-food spending than sit-down spending, is stronger for larger and lower-AOV companies, and appears in both new-customer and repeat-customer spending.",
+    "The restaurant lift is not offset by a significant decline in other local nonrestaurant spending, and the authors estimate at least $11.3 million in annual incremental restaurant spending across the treated cities, about $179.1 per e-scooter allowed."
+  ],
+  "one_line_summary": "Using matched individual-level card transaction data across 98 U.S. cities, the paper finds that summer-2018 e-scooter rollout increased restaurant spending by e-scooter users by about 5.2%, with stronger gains in fast food and no significant offset in other local spending.",
+  "relation_to_prior_work": "extends prior sharing-economy impact research centered on Airbnb by quantifying financial spillovers from dockless micromobility entry to restaurant demand. It applies a similar platform-entry and downstream-revenue logic in a city-regulated transportation context.",
+  "research_gap": "Despite rapid growth in dockless micromobility, its impact on consumer demand and local economic outcomes had been largely unstudied, especially for restaurants. City pilot programs were mainly justified by congestion and emissions goals, leaving limited evidence on economic spillovers and spending/tax implications.",
+  "research_question": "How does allowing dockless e-scooters to operate in a city affect restaurant spending by e-scooter users? The paper also asks which cities and businesses are most affected, whether restaurant gains are offset by reduced nonrestaurant local spending, and how large the lift is relative to rollout costs."
+}

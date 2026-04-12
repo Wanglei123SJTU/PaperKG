@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is explicitly used in the citing paper's argument that prior customer value models often assume independence between behavioral components. The 2009 paper's core contribution is to show that this independence assumption can distort customer value estimates when timing and quantity covary, and it positions its model as a correction. Although Gupta et al. (2004) is cited in a grouped set of examples, it serves a clear role in the paper's central contrast.",
+  "relation_description": "The citing paper treats Gupta, Lehmann, and Stuart (2004) as an example of prior customer valuation work relying on independence assumptions. It argues against that assumption and introduces a dependence-aware model to improve valuation and targeting accuracy.",
+  "relation_type": "challenges"
+}

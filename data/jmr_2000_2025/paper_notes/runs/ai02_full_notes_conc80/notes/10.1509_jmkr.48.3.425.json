@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper develops and empirically estimates an individual-level diffusion model that explicitly incorporates micro-level interpersonal network structure.",
+    "It separates and jointly measures three determinants of adoption - network effects, influencer effects, and adopter effects - within one hazard-model framework.",
+    "It demonstrates that observed connection-pattern data can identify likely adopters and influencers and predict the next set of adopters better than demographic-only models."
+  ],
+  "context": "The empirical setting is a major European, country-specific online social networking site where membership required an invitation from an existing member. The analysis focuses on the first 3.5 years, when advertising and media exposure were minimal and growth was primarily word of mouth.",
+  "design_and_data": "The authors estimate a discrete-time proportional hazards model with a complementary log-log link at the individual-day level. Adoption probability is modeled as a function of local structure among adopted neighbors, average characteristics of adopted neighbors, and focal adopter characteristics, including demographics and network-position measures from a later observed friendship network. The data include 250,000 users, 13,152,323 friendship links, and 1247 days of adoption history, yielding about 188 million potential adopter-day observations in main specifications. They report multiple model variants and robustness checks, including random-effects estimation on a subsample, clustered error corrections, within-city network decompositions, alternative specifications, and network-dynamics validity tests.",
+  "focal_constructs": [
+    "online social network diffusion",
+    "network effects",
+    "influencer effects",
+    "adopter effects",
+    "degree effect",
+    "clustering effect",
+    "local betweenness"
+  ],
+  "main_findings": [
+    "A higher share of adopted friends increases adoption likelihood, and greater interconnectedness among adopted friends also increases adoption likelihood; the degree-clustering interaction is positive in richer specifications.",
+    "Influencer and adopter characteristics significantly affect adoption: demographics and global network-position variables are predictive, and average influencer power decreases as influencers have more total contacts.",
+    "Models using network information predict near-term adopters substantially better than demographics-only benchmarks (about 21% vs about 13% hit rate for the next 9,944 adopters, and around 30% hit rates for smaller target lists)."
+  ],
+  "one_line_summary": "The paper builds and estimates an individual-level hazard model of invitation-based social network adoption and shows that local network structure, influencer traits, and adopter traits jointly drive diffusion and improve prediction of who adopts next.",
+  "relation_to_prior_work": "extends diffusion modeling by moving beyond complete-network assumptions and aggregate tests to an individual-level hazard model on observed interpersonal links, while empirically testing sociology-based ideas on network closure and brokerage in a large online network.",
+  "research_gap": "Prior marketing diffusion models mostly ignored fine-grained interpersonal connection structure or assumed complete mixing, and many network-based diffusion models were validated primarily with aggregate data. The paper addresses the need for individual-level empirical evidence on how local network microstructure affects adoption.",
+  "research_question": "How does diffusion of an online social network proceed over an interpersonal network when adoption is modeled at the individual level? Specifically, do local network structure (degree and clustering among adopted neighbors), characteristics of adopted neighbors, and characteristics of potential adopters explain and predict daily adoption decisions?"
+}

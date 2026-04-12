@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces implicit memory, alongside explicit memory, as a framework for understanding advertising effects on brand choice.",
+    "Shows that conceptually driven and perceptually driven implicit memory are distinct constructs and are differentially affected by ad presentation context.",
+    "Argues that implicit-memory measures can be more useful than traditional explicit recall measures for assessing advertising effectiveness on brand choice."
+  ],
+  "context": "The studies are in an advertising and consumer brand-choice context using familiar product categories such as toothpaste, beer, candy, soap, and toothbrushes. Choices were elicited either from memory alone or from displayed alternatives in a campus convenience-store scenario, representing memory-based versus stimulus-based decisions.",
+  "design_and_data": "The paper reports three controlled laboratory experiments with undergraduate business students (Experiment 1: n=112 plus n=60 baseline for choice; Experiment 2: n=133; Experiment 3: n=72). Participants were exposed to brand names presented either in meaningful sentences or in isolation, completed a math distractor task, and then performed implicit-memory tasks (brand-name listing for conceptual priming, brand-fragment completion for perceptual priming) and/or brand-choice tasks. Experiment 2 removed the preceding implicit-memory task and used higher-switching categories with more preferred target brands to test choice effects more directly. Experiment 3 manipulated top-of-mind awareness (high vs low) and compared free recall, conceptual priming, and perceptual priming.",
+  "focal_constructs": [
+    "explicit memory",
+    "implicit memory",
+    "conceptual priming",
+    "perceptual priming",
+    "memory-based brand choice",
+    "stimulus-based brand choice",
+    "brand accessibility",
+    "perceptual fluency"
+  ],
+  "main_findings": [
+    "Prior exposure increased both conceptual and perceptual implicit-memory performance, with sentence presentation producing higher conceptual priming and isolated presentation showing higher perceptual priming in direction.",
+    "Stimulus-based choice was higher for brands previously presented in isolation than in sentences (Experiments 1 and 2), while memory-based choice was higher for sentence-presented brands in Experiment 2.",
+    "Top-of-mind awareness improved explicit free recall but did not increase conceptual- or perceptual-priming gains from exposure, supporting a dissociation between explicit and implicit memory."
+  ],
+  "one_line_summary": "Across three lab experiments, the paper finds that ad formats enhancing conceptual fluency help memory-based brand choice, formats enhancing perceptual fluency help stimulus-based brand choice, and these implicit-memory effects are distinct from explicit recall.",
+  "relation_to_prior_work": "extends prior work on brand accessibility and consideration sets by separating conceptual accessibility from perceptual fluency and linking each to different choice contexts. It also extends marketing memory research by showing dissociations between explicit recall and implicit-memory task performance in advertising effects.",
+  "research_gap": "Prior consumer research had limited direct comparison of outcomes when choice alternatives are retrieved from memory versus available in the environment, and most work emphasized attribute information rather than availability of alternatives. The paper also notes that few studies had examined distinctions between conceptual priming and perceptual priming, and between conceptual priming and explicit memory, in marketing-relevant settings.",
+  "research_question": "How does prior exposure to brand information influence later brand choice when decisions are memory-based versus stimulus-based? Specifically, do sentence versus isolated ad presentation formats differentially strengthen conceptual versus perceptual implicit memory, and do these memory effects map onto different choice outcomes independent of explicit memory?"
+}

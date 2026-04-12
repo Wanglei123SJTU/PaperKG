@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "The paper introduces and tests a cross-modal sensory compensation mechanism in which olfactory exposure can satisfy gustatory reward desire.",
+    "It is presented as the first study to examine how ambient scent influences choices between healthy and unhealthy foods.",
+    "It identifies boundary conditions for ambient scent effects, especially exposure duration and consumers' scent-identification capability, using both field and lab evidence."
+  ],
+  "context": "The studies examine food decisions in U.S. retail and service atmospherics, specifically a middle school cafeteria, a supermarket, and laboratory choice settings. The managerial context is the use of food-related ambient scents diffused in shopping and eating environments.",
+  "design_and_data": "The authors run a multi-study program with three field experiments and four lab experiments. Field evidence includes middle school cafeteria sales data (Study 1a; pizza vs apple vs no scent; 8,629 items sold), a supermarket receipt study (Study 2; cookie vs strawberry scent; N = 128 shoppers), and a cafeteria field experiment with children that also measures perceived reward (Study 3a; N = 78). Lab studies replicate effects and test mechanisms/moderators (Study 1b, N = 216; Study 3b, N = 117; Study 4, N = 257, with >2 minutes vs <30 seconds exposure; Study 5, N = 172, with QSIT smell-identification scores). Ambient scent is manipulated via ultrasonic nebulizers, and outcomes are food choices or shares of healthy/unhealthy purchases.",
+  "focal_constructs": [
+    "food-related ambient scent",
+    "cross-modal sensory compensation",
+    "healthy vs unhealthy food choice",
+    "perceived reward associated with the experience",
+    "duration of scent exposure",
+    "scent-identification proficiency"
+  ],
+  "main_findings": [
+    "Across field and lab studies, exposure longer than about two minutes to an indulgent food scent (vs nonindulgent scent or no scent) reduced unhealthy food choices/purchases and increased healthier choices.",
+    "Perceived reward/pleasantness of the experience mediated the effect: indulgent scents increased perceived reward, which in turn lowered unhealthy choice likelihood.",
+    "With brief exposure (less than 30 seconds), the pattern reversed, with indulgent scent increasing unhealthy choice; effects were attenuated among participants with low scent-identification proficiency."
+  ],
+  "one_line_summary": "The paper finds that prolonged exposure to indulgent food ambient scents can nudge consumers toward healthier food choices through cross-modal sensory compensation, while brief exposure produces the opposite pattern.",
+  "relation_to_prior_work": "introduces a cross-modal sensory compensation account that goes beyond prior cross-modal sensory interaction findings, and applies ambient-scent research to healthy-versus-unhealthy food choice contexts that the authors state were previously unexamined.",
+  "research_gap": "Prior cross-modal literature documents sensory interactions but does not test whether cues in one modality can compensate desire in another modality. The authors also note that prior research had not examined ambient scent effects on choices between healthy and unhealthy foods.",
+  "research_question": "How do indulgent versus nonindulgent food-related ambient scents affect unhealthy versus healthy food choices and purchases among children and adults? Do these effects occur through perceived reward from the scent experience, and how are they moderated by exposure duration and scent-identification capability?"
+}

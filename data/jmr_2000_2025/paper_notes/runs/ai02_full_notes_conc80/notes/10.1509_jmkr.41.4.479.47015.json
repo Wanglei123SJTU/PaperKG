@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides empirical evidence that business buyers evaluate vertical channel structures at the buyer-vendor-supplier triad level, not only at the buyer-vendor dyad level.",
+    "Shows that buyers value both sequences of strong ties (for mobilizing support and transferring complex knowledge) and configurations with many weaker upstream ties (for intelligence gathering and monitoring).",
+    "Provides criterion validation that tie intensity and tie valence are distinct dimensions of tie strength with different effects, and reports mixed support for third-party sanctioning via direct buyer-supplier access."
+  ],
+  "context": "The study is set in the market for integrated computer networks, where vendors (system integrators) connect business buyers to hardware and software manufacturers and knowledge transfer is central. Data come from Dutch small and medium-sized firms in industrial services, food production, machine production, and transportation.",
+  "design_and_data": "The authors conducted a mail survey with a full-profile conjoint experiment in which respondents rated 16 vendor profiles generated from an orthogonal half-fraction of a 2^5 design. Five two-level attributes were manipulated: buyer-vendor tie intensity, buyer-vendor tie valence, vendor-supplier tie intensity, vendor-supplier tie valence, and number of supplier ties; direct buyer-supplier access was measured as a respondent covariate. From 1,750 sampled firms, screening yielded 745 eligible firms, and the final sample was 167 firms providing 2,667 profile ratings. Preferences were analyzed with a hierarchical linear random-coefficients model (random intercepts and slopes).",
+  "focal_constructs": [
+    "buyer-vendor tie intensity",
+    "buyer-vendor tie valence",
+    "vendor-supplier tie intensity",
+    "vendor-supplier tie valence",
+    "number of vendor-supplier ties",
+    "direct buyer-supplier access",
+    "second-order resources",
+    "third-party sanctioning"
+  ],
+  "main_findings": [
+    "Buyers preferred intensive and cooperative ties with vendors, and they also preferred vendors that had intensive and cooperative ties with suppliers.",
+    "Buyers preferred vendors connected to many suppliers, but this benefit did not increase with cooperative vendor-supplier ties and decreased with intensive vendor-supplier ties; preference for intensive buyer-vendor ties was also lower when vendors had many supplier ties.",
+    "Evidence for third-party sanctioning was mixed: direct buyer access to suppliers strengthened preference for vendors with intensive supplier ties, but not for vendors with cooperative supplier ties."
+  ],
+  "one_line_summary": "Using a conjoint experiment in integrated computer networks, the paper shows that business buyers evaluate vendors based on buyer-vendor-supplier triadic tie configurations rather than only dyadic buyer-vendor ties.",
+  "relation_to_prior_work": "extends dyadic marketing channel research by empirically testing structural embeddedness in producer-vendor-customer triads using social network theory in a complex product market.",
+  "research_gap": "Prior work had long recognized the importance of interactions between vertically connected dyads, but empirical research on these interdyadic or triadic channel effects was still rare. The paper addresses this by testing how specific tie-strength, tie-number, and direct-access features of buyer-vendor-supplier triads affect buyer preferences.",
+  "research_question": "How do business buyers value alternative buyer-vendor-supplier triadic relationship structures in complex-product channels? Specifically, do tie strength (intensity and valence), the number of vendor-supplier ties, and buyers' direct access to suppliers shape buyer preferences for vendors beyond dyadic buyer-vendor relationship attributes?"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "Both papers center on dynamic advertising spillover/carryover and use a Bayesian Dynamic Linear Model/state-space framework with latent stock variables (goodwill/awareness), indicating plausible methodological or conceptual dependence rather than a generic mention. The citing note explicitly emphasizes cross-stage spillover and Bayesian dynamic modeling, while the cited note is a prior marketing application of that same modeling approach to spillover; with only DOI-level match and no in-text snippet, this pair should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

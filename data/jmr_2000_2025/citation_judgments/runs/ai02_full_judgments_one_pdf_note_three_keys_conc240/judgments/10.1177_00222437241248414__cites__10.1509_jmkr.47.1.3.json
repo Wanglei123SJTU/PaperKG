@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper explicitly uses Petrin and Train (2010) as the methodological basis for its endogeneity correction in the archival studies. It states that it employs a control function approach, estimates first-stage equations with instruments, and includes residual terms in the main engagement regressions, with endogeneity-corrected results reported in the tables. This citation is therefore functionally important to the paper's empirical identification and robustness claims, not just background mention.",
+  "relation_description": "The citing paper applies Petrin and Train's control function method to correct for potential endogeneity in its tweet-level archival models. It uses instrument-based first stages and residual inclusion following that approach to support its main empirical findings.",
+  "relation_type": "applies"
+}

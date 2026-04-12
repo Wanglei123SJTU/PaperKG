@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Demonstrates a unique causal relationship between perceived goal conflict and subjective time perceptions.",
+    "Identifies stress and anxiety as the mechanism linking goal conflict to feeling pressed for time across both time-based and non-time-based conflicts.",
+    "Shows behavioral consequences for spending and valuing time and tests two simple mitigation tactics: slow breathing and anxiety reappraisal as excitement."
+  ],
+  "context": "The paper studies consumer decision making when people pursue multiple personal goals that may conflict, such as work versus family, saving versus spending, and health versus indulgence. Evidence comes from behavioral experiments using goal reflection tasks and consumer scenarios including car choice, waiting for product delivery, and paying for expedited shipping.",
+  "design_and_data": "Five experiments were run with MTurk panelists and U.S. university participants (analyzed Ns: 123, 258, 52, 110, 215). Goal conflict was manipulated through goal-listing and recall tasks and through a car choice set that either did or did not force trade-offs between goal-relevant attributes. Key measures included multi-item subjective time perception scales, self-reported stress and anxiety, willingness to wait, and willingness to pay for faster shipping. The authors used ANOVA tests and bias-corrected bootstrap mediation, and they manipulated the proposed mechanism with slow breathing and anxiety-to-excitement reappraisal interventions.",
+  "focal_constructs": [
+    "perceived goal conflict",
+    "subjective time perceptions",
+    "time scarcity",
+    "stress and anxiety",
+    "willingness to wait",
+    "willingness to pay to save time",
+    "slow breathing",
+    "anxiety reappraisal as excitement"
+  ],
+  "main_findings": [
+    "Participants who perceived greater goal conflict consistently felt more pressed for time.",
+    "Increased stress and anxiety mediated the effect of goal conflict on subjective time perceptions across different conflict types, including non-resource-based conflict.",
+    "Greater perceived goal conflict reduced willingness to wait and increased willingness to pay to save time, and these effects were attenuated by slow breathing or reappraising anxiety as excitement."
+  ],
+  "one_line_summary": "Across five experiments, perceiving greater conflict between personal goals increased stress and anxiety, which reduced subjective time availability and shifted consumers toward less waiting and higher payment to save time, while simple emotion-focused interventions mitigated these effects.",
+  "relation_to_prior_work": "introduces a causal account linking perceived goal conflict to subjective time scarcity, whereas prior work mainly documented correlational links among stress, anxiety, and time pressure or examined how time pressure affects decisions. It extends time-affluence research by identifying an antecedent of time perceptions and by showing downstream effects on waiting and monetary valuation of time.",
+  "research_gap": "Prior research documented many consequences of feeling time constrained but offered limited evidence about what drives subjective time pressure. The paper addresses the unresolved question of whether perceived conflict between goals causally shapes time perceptions and through what mechanism.",
+  "research_question": "Does perceiving greater conflict between one's goals make consumers feel more pressed for time, beyond objective demands and number of goals? If so, is this effect driven by stress and anxiety, and does it change how consumers spend and value time (waiting and paying to save time)? Can simple interventions that target stress and anxiety reduce these effects?"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s core contribution is an interlocked hypergraph message-passing VAE for playlist/user/category link prediction and recommendation, whereas the cited paper studies causal effects of review text content on conversion using RDiT and deep-learning coding in e-commerce. Based on the notes, there is no clear overlap in focal constructs, data, or modeling pipeline beyond a generic “deep learning in marketing” connection, and the matched evidence provides only a DOI with no contextual citation text indicating substantive use.",
+  "triage_decision": "drop_obvious_mention_only"
+}

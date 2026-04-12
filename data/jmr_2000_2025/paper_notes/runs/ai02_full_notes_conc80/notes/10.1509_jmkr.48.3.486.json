@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces a fit-based account in which peer recommendation persuasiveness depends on congruency between construal levels implied by temporal distance and social distance.",
+    "Shows that close others are not uniformly more influential than distant others; influence depends on whether the decision is for the near or distant future.",
+    "Identifies perceived relevance of others' recommendations as the mechanism through which social-temporal congruency affects preference shift."
+  ],
+  "context": "The paper studies consumer product decisions in which people can view peer recommendations, including online forum reviews. Empirical scenarios include choosing a digital camera, software packages, and restaurants for near-future versus distant-future consumption.",
+  "design_and_data": "The authors report three between-subjects experiments with university student samples. Study 1 (N=184) used a 2 (near vs distant future: 2 days vs 2 months) x 2 (control vs recommendation) design in a digital camera scenario with non-time-sensitive attributes. Study 2 (N=159) used a 2 x 3 design in a software trade-off (easy/lower quality vs difficult/higher quality), varying whether recommendations favored a naturally preferred or less-preferred option; Study 3 (N=139) used a 2 x 3 design manipulating recommendation source social distance (in-group own university vs out-group other university vs control). Outcomes were preference/choice shifts, and mediation analyses tested perceived relevance; follow-up studies were also reported.",
+  "focal_constructs": [
+    "temporal distance",
+    "social distance",
+    "construal level congruency",
+    "peer recommendations",
+    "preference shift",
+    "perceived relevance",
+    "close versus distant recommendation source"
+  ],
+  "main_findings": [
+    "Recommendations from others produced larger preference shifts for distant-future decisions than for near-future decisions.",
+    "Perceived relevance of recommendations mediated the time-contingent recommendation effect.",
+    "Recommendation source moderated the pattern: close/in-group recommenders were more influential for near-future preferences, whereas distant/out-group recommenders were more influential for distant-future preferences."
+  ],
+  "one_line_summary": "The paper shows that peer recommendations are most persuasive when social and temporal distance are congruent in construal level, yielding stronger distant-future effects overall and a close-versus-distant source reversal across time frames.",
+  "relation_to_prior_work": "extends recommendation and psychological distance research by showing that recommendation effectiveness depends on a social-temporal construal fit, rather than only on factors such as task difficulty, knowledge, or source proximity considered in prior recommendation work.",
+  "research_gap": "Prior recommendation studies had examined moderators such as task difficulty, knowledge, and source characteristics but had scarcely addressed how temporal distance changes responses to recommendations. The paper also identifies limited work on how temporal and social distance jointly shape the persuasiveness of others' product recommendations.",
+  "research_question": "How do temporal distance and social distance jointly determine consumers' willingness to shift preferences in response to peer recommendations? Specifically, are recommendations more persuasive when the construal level implied by the recommendation source matches the construal level implied by decision time, and is this effect driven by perceived relevance of the recommendation?"
+}

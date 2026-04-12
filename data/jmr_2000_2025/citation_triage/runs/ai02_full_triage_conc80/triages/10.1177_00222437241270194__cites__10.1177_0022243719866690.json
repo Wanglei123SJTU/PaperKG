@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited article is about causal effects of review-text content on e-commerce conversion (deep learning + RDiT), whereas the citing article analyzes a wait-for-free promotion in serialized comics using DiD and episode-level spillover optimization. The provided match evidence is only a DOI hit with no in-text citation context, and the notes show no clear construct or method dependence between the two papers, suggesting an incidental/background citation.",
+  "triage_decision": "drop_obvious_mention_only"
+}

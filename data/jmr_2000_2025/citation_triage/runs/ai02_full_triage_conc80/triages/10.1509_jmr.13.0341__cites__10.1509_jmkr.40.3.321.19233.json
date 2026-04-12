@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper explicitly states it estimates a “random-effects multivariate binomial probit response model,” while the cited paper’s core contribution is a multivariate binomial probit estimation framework (Bayesian/MCMC) for multiple-response data. This method-level overlap makes the citation plausibly a substantive methodological source rather than an incidental background mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides a unified framework to measure how promotion-induced stockpiling affects manufacturer sales through consumption, preemptive switching, loyal acceleration, and repeat purchases.",
+    "Introduces a choice model augmentation that scales state dependence by relative previous purchase quantity (Qhjt/Qh) to capture stockpiling effects on repeat buying.",
+    "Develops a simulation-based decomposition that separates loyal acceleration from preemptive switching and quantifies stockpiling-driven repeat purchase effects in unit and financial terms."
+  ],
+  "context": "The empirical setting is packaged consumer goods promotions in two categories, yogurt and ketchup, using ACNielsen scanner-panel household purchase data. The analysis focuses on temporary in-store promotions and their short- and postpromotion sales effects for national and store brands.",
+  "design_and_data": "The authors estimate an integrated brand choice-purchase incidence-purchase quantity model with flexible consumption: nested logit for incidence and choice, truncated Poisson for quantity, and random-coefficient heterogeneity, jointly estimated by simulated maximum likelihood. Data use 26 weeks for initialization and 112 weeks for estimation, with 131 yogurt households and 163 ketchup households after sample filters. They then run Monte Carlo simulations (1000 replications, promotions inserted in four different weeks) comparing a base case with an added promotion to decompose the promotion bump into switching and stockpiling components and then into consumption, preemptive switching, loyal acceleration, and repeat purchase effects.",
+  "focal_constructs": [
+    "promotion-induced stockpiling",
+    "promotion bump decomposition",
+    "category consumption effect",
+    "preemptive switching",
+    "loyal acceleration",
+    "repeat purchase effect",
+    "state dependence in brand choice",
+    "household inventory and flexible consumption"
+  ],
+  "main_findings": [
+    "The estimated coefficient on relative previous purchase quantity (Qhjt/Qh) is positive and significant in both categories, indicating that stockpiling increases subsequent repeat propensity on average.",
+    "Across brands, the benefits of stockpiling are substantial and generally outweigh the cost of loyal acceleration; consumption is the largest component, followed by preemptive switching, with a smaller but positive repeat purchase effect.",
+    "Promotions can also generate a bump for competing brands, but that bump is much smaller than the promoted brand bump and is explained mostly by consumption and some loyal acceleration."
+  ],
+  "one_line_summary": "Using a joint household model and Monte Carlo decomposition in yogurt and ketchup, the paper shows that promotion-induced stockpiling yields sizable net manufacturer gains mainly via increased consumption, with additional gains from preemptive switching and positive repeat effects that offset loyal acceleration costs.",
+  "relation_to_prior_work": "extends prior promotion-bump decomposition research by separating loyal acceleration, preemptive switching, consumption, and stockpiling-driven repeat purchases within one household-level simulation framework. It also extends state-dependence choice modeling by incorporating relative prior purchase quantity as a reinforcement modifier.",
+  "research_gap": "Prior work had not disentangled and jointly quantified the distinct sales consequences of promotion-induced stockpiling, especially separating loyal acceleration from preemptive switching and from postpromotion repeat purchase effects. The differential effect of stockpiling on repeat purchases had not been explicitly measured.",
+  "research_question": "How does promotion-induced stockpiling affect manufacturer sales once its effects are decomposed into consumption, preemptive switching, loyal acceleration, and repeat purchases? What are the relative magnitudes of these components, and do the benefits of stockpiling offset the loss from accelerated purchases that would otherwise occur later at full margin?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Evaluates Bradlow, Hu, and Ho's learning-based imputation model for partial-profile conjoint using evidence from behavioral inference research.",
+    "Highlights potentially restrictive assumptions in the model, including mandatory inference, symmetric pattern matching, binary attribute coding, geometric decay, and treatment of priors.",
+    "Offers a research agenda for more behaviorally grounded conjoint methods, emphasizing expertise, stimulus context, illusory correlation, effort versus automaticity, and response-task effects."
+  ],
+  "context": "The paper is a commentary on partial-profile conjoint analysis, where some attribute levels are omitted from product profiles. It discusses respondent inference about missing attributes in marketing conjoint tasks and references Bradlow, Hu, and Ho's camera-profile experiment with manipulated price-resolution correlation.",
+  "design_and_data": "This article is a conceptual comment rather than a new empirical study. The authors assess the behavioral plausibility of BHH's learning-based imputation process by comparing its assumptions with prior inference and learning literature in marketing and psychology. They also interpret BHH's reported experimental evidence (including an experiment with 130 participants across multiple correlation and task conditions) and suggest additional tests that would better validate the mechanism.",
+  "focal_constructs": [
+    "partial-profile conjoint analysis",
+    "missing attribute imputation",
+    "spontaneous inference likelihood",
+    "pattern matching versus rule induction",
+    "preexperimental interattribute beliefs",
+    "binary attribute representation",
+    "geometric decay and recency weighting",
+    "respondent effort and automaticity"
+  ],
+  "main_findings": [
+    "Evidence that respondents spontaneously infer missing conjoint attributes is mixed, and prompted inference effects are often larger than spontaneous effects.",
+    "Inference in conjoint is likely contingent on people and situations, including task assumptions, prior beliefs about attribute relationships, and motivation to expend cognitive effort.",
+    "The BHH model is viewed as a useful step, but its behavioral assumptions and reported experimental support are not sufficient to conclude that its specific inference process is generally valid."
+  ],
+  "one_line_summary": "The paper argues that BHH's imputation model is a valuable start but that spontaneous missing-attribute inference in conjoint is not reliably established and requires richer, behaviorally grounded modeling.",
+  "relation_to_prior_work": "challenges the assumption that missing-attribute inference in conjoint is routine and well captured by a single pattern-matching process, using prior marketing and psychology evidence to argue for more conditional and behaviorally nuanced accounts.",
+  "research_gap": "The authors note that conjoint research has emphasized statistical technique more than behavioral process, leaving unclear whether and how respondents actually infer missing attribute values in partial-profile tasks. They also argue that existing evidence does not clearly justify strong assumptions about mandatory, uniform imputation mechanisms.",
+  "research_question": "How behaviorally plausible is BHH's learning-based model of imputing missing attribute levels in partial-profile conjoint analysis? More broadly, when do respondents make unprompted inferences in conjoint, and what cues or processes govern those inferences?"
+}

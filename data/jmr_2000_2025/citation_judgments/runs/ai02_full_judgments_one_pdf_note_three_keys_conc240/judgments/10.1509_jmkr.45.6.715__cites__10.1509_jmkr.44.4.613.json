@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used as a direct methodological precursor, not just background. The citing paper explicitly states that Bayesian aggregate-data methods were initially proposed by Chen and Yang (2007), and then says its own approach is a generalization of those techniques. In the estimation section, it again anchors key sampling logic to Chen and Yang, showing the cited work informs core model construction and inference strategy.",
+  "relation_description": "The citing paper builds directly on Chen and Yang's aggregate-data Bayesian augmentation framework and extends it to coupon settings with additional latent variables and constraints (e.g., coupon availability, redemption, censoring, and strategic coordination). It positions its contribution as a methodological generalization of that earlier approach.",
+  "relation_type": "extends"
+}

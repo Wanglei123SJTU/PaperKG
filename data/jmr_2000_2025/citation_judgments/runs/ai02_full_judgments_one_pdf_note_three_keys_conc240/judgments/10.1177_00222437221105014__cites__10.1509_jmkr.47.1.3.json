@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citation appears in the core methods discussion on price endogeneity, where the authors state they use a Bayesian version of the control function approach and cite Petrin and Train (2010) as the template. This is directly tied to how their demand model is identified and estimated, not just background context. The cited paper therefore plays a meaningful methodological role in the empirical design.",
+  "relation_description": "The citing paper applies Petrin and Train's control function logic to correct endogeneity in its discrete-choice demand estimation, using a Bayesian implementation with instruments. The cited work anchors the endogeneity-correction approach used in the analysis.",
+  "relation_type": "applies"
+}

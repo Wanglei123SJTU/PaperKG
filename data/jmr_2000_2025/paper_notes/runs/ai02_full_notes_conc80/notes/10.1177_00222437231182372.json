@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces and theorizes a new credit card payment format, repayment-by-purchase, and provides causal evidence on its effect on debt repayment.",
+    "It proposes and tests a recoupling account in which linking payments to specific purchases increases purchase salience and perceived progress, which raises repayment.",
+    "It distinguishes repayment-by-purchase effects from simple partitioning by showing stronger effects with concrete purchase labels, and shows the format reduces durable-versus-nondurable repayment differences."
+  ],
+  "context": "The paper studies monthly credit card bill repayment decisions, contrasting standard balance repayment with repayment directed to specific purchases or purchase categories. The main field setting is a mobile banking credit card repayment interface at Commonwealth Bank of Australia, complemented by online experiments.",
+  "design_and_data": "The authors run six studies: one field experiment and five lab experiments. The field experiment randomly assigned 272,826 bank customers to a standard balance repayment interface or an interface offering opt-in repayment-by-category, and analyzed repayment percentages with intent-to-treat, treatment-on-treated, and synthetic-control analyses. The lab studies use randomized between-subject designs (including a study built from participants' uploaded real credit card statements) to compare repayment formats, test mediation via purchase salience and perceived progress, and test moderators including purchase durability and label concreteness. The primary dependent variable is percentage of statement amount repaid (and associated dollar payments).",
+  "focal_constructs": [
+    "repayment-by-purchase",
+    "credit card debt repayment",
+    "purchase-payment recoupling",
+    "purchase salience",
+    "perceived progress toward reducing debt",
+    "narrow-bracketed subgoals",
+    "durable versus nondurable purchases",
+    "purchase label concreteness"
+  ],
+  "main_findings": [
+    "In the field experiment, customers who opted into repayment-by-category repaid more than comparable controls; in synthetic-control analyses, repayment was 12.18% higher over the study period.",
+    "Across five lab experiments, repayment-by-purchase increased repayment relative to balance repayment, with an average increase of 22.47% reported across the lab studies.",
+    "Process evidence supported a serial pathway from repayment-by-purchase to higher purchase salience to greater perceived progress, and the effect appeared for both durable and nondurable purchases but was weaker when purchase labels were abstract."
+  ],
+  "one_line_summary": "Across one field experiment and five lab experiments, framing credit card repayment as paying off specific purchases rather than a total balance increased repayment, largely via higher purchase salience and perceived progress.",
+  "relation_to_prior_work": "extends prior research on payment decoupling, mental accounting, and debt goal pursuit by showing that recoupling payments to specific purchases can increase repayment within a single credit card account. It also refines partition-based and durable-versus-nondurable repayment findings by showing label concreteness strengthens the effect and repayment-by-purchase attenuates the durable repayment gap.",
+  "research_gap": "Practitioners had introduced repayment-by-purchase features, but the paper states that no theoretical framework and no rigorous causal evidence had quantified their effects on debt repayment. The authors also note unresolved concerns about possible adverse effects such as choice overload, payment deferral, or licensing.",
+  "research_question": "Does a repayment-by-purchase format increase how much consumers repay on credit card debt relative to standard balance repayment? If so, is the effect driven by greater salience of past purchases and perceived progress toward debt reduction, and when is the effect stronger or weaker (for example, by purchase type and label specificity)?"
+}

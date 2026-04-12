@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and documents a procedural bias called a sticky prior, in which initial identity-based judgments resist later change.",
+    "It offers a systematic multi-study test that directly compares identity-driven judgment with analytic corrective procedures.",
+    "It introduces and evaluates nonanalytic corrective procedures, especially counteridentification and social influence, alongside traditional analytic tools."
+  ],
+  "context": "The studies examine judgments about consumer products and public-policy issues, including e-books, pollution credits, a university-branded electronic photo frame, and issues such as Internet censorship and school uniforms. Participants include undergraduates and a field sample of teenagers and parents.",
+  "design_and_data": "Study 1 (N=39 undergraduates) used a 2-condition order manipulation (identity then feature analysis vs feature analysis then identity) for e-book judgments, with measured environmental identity strength as a covariate. Study 2 (N=210 undergraduates) used a 3 x 2 between-subjects design on pollution credits, comparing identity-counter reasons, reasons-counter reasons, and identity-counter identity sequences; businessperson/environmentalist identification strength was measured. Study 3 was a field study (N=211 usable cases: parents, teenagers, and unclassified participants) that manipulated parent-versus-teen perspective order and collected opinions on 10 social issues, separating identity-diagnostic from baseline issues. Study 4 (N=119 undergraduates) measured university identification, manipulated positive versus negative social influence in an online discussion with automated confederates about a university photo frame, and then measured private judgments before and after a feature-analysis task.",
+  "focal_constructs": [
+    "identity-based judgment",
+    "identity salience",
+    "strength of identification",
+    "sticky priors",
+    "feature-based analysis",
+    "counterfactual reasoning",
+    "counteridentification",
+    "social influence"
+  ],
+  "main_findings": [
+    "Feature-based analysis and counterfactual reasoning were less effective when they followed identity-driven thinking, showing persistence of initial identity effects.",
+    "Identity-based priors were stickier than priors formed through analytic reasoning in the pollution-credits task.",
+    "Counteridentification generally failed to remove identity effects on personal judgments (though it helped for judgments of others in Study 2), and strong identifiers initially resisted inconsistent social influence privately but social influence still affected later judgments after additional analysis."
+  ],
+  "one_line_summary": "Across four studies, the paper finds that judgments formed from salient, strong identities are sticky and often persist despite analytic and nonanalytic corrective attempts.",
+  "relation_to_prior_work": "extends prior identity research by moving from documenting identity effects to testing whether those effects persist after attempted correction. It also introduces nonanalytic correction mechanisms into a debiasing comparison that had largely emphasized analytic techniques.",
+  "research_gap": "The authors argue that prior work had not examined whether identity-based judgments persevere once people apply corrective procedures intended to debias judgment. They also state that no systematic investigation had directly pitted identity-driven judgment against analytic thinking and compared multiple correction strategies.",
+  "research_question": "What happens when judgment formation starts with identity-driven thinking, and to what extent can later corrective procedures neutralize that influence? The paper also asks whether identity-based priors are stickier than priors created by analytic reasoning."
+}

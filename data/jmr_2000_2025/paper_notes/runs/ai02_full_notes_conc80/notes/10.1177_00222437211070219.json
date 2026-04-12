@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides quasi-experimental field evidence from a real policy change in a private RTB exchange on how context disclosure affects auction outcomes.",
+    "Empirically validates auction-theoretic predictions that more item information can raise prices broadly when bidders have heterogeneous site preferences and markets remain sufficiently thick.",
+    "Shows a practical, low-cost policy implication: private exchanges with reputable publishers should disclose at least subdomain context, with especially large gains for small premium sites."
+  ],
+  "context": "The study is set in a major private European display advertising exchange where vetted publishers sell impressions to preapproved buyers through real-time bidding. The policy change occurred before GDPR-era restrictions and buyers still had cookie IDs and related user-targeting data.",
+  "design_and_data": "The authors analyze a natural experiment in 2016 when the exchange moved from broad channel-level context to subdomain disclosure, first to one buyer (April) and then to all buyers (May onward). They estimate a difference-in-differences model on site-week outcomes, comparing Jan-Jul 2016 with the same months in 2015 for 57 sites present in both years (3,058 observations), with site fixed effects and controls for impression supply and national digital ad spending. Revenue per impression is measured from observed winning outcomes (not bid-level data), using total weekly revenue divided by total submitted impressions (sold plus unsold). They also run mechanism checks and a synthetic-control analysis for the single buyer that received early access to context information.",
+  "focal_constructs": [
+    "context information disclosure",
+    "subdomain transparency",
+    "real-time bidding auctions",
+    "revenue per impression (CPM)",
+    "bidder preference heterogeneity",
+    "market thickness",
+    "private ad exchange"
+  ],
+  "main_findings": [
+    "Average revenue per impression increased after disclosure: about EUR0.108 CPM when one buyer had subdomain information and EUR0.154 CPM when all buyers had it, relative to year-over-year seasonal patterns.",
+    "Prices rose for most sites, and mechanism evidence is consistent with better buyer-site matching under heterogeneous preferences: buyers concentrated purchases on fewer sites, the right tail of winning prices increased, and the early-treated buyer won more impressions.",
+    "Treatment effects were heterogeneous: sites with thin prepolicy buyer markets showed little to no increase in price, while small premium sites experienced the largest gains."
+  ],
+  "one_line_summary": "Using a policy change in a private European ad exchange, the paper shows that revealing subdomain context in RTB bid requests increased average revenue per impression, with strongest gains in thick and small premium site markets.",
+  "relation_to_prior_work": "extends prior theoretical and structural work on auction information disclosure by using quasi-experimental evidence from an actual RTB policy change rather than only counterfactual simulations. It reports field results consistent with predictions that heterogeneous bidder preferences can raise prices under greater disclosure, while thin markets may not benefit.",
+  "research_gap": "The paper states that there is little empirical evidence on how increased context transparency in RTB markets affects impression values and auction prices. It also highlights that, despite rich user-level cookie data, it was unclear whether buyers would value and act on context information, and whether net prices would rise or fall given mixed auction-theory predictions.",
+  "research_question": "Does providing subdomain-level context information in RTB bid requests change buyer behavior and increase revenue per impression, beyond existing user cookie information? Under what market conditions across sites (for example, bidder heterogeneity and market thickness) do prices increase, stay flat, or decline?"
+}

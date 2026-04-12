@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides a customer-level multibrand, multichannel assessment of own-brand and cross-brand multimedia advertising effects, which the authors frame as previously unexplored.",
+    "Develops a Tobit sales-response model for three retailer-brands and two purchase channels that captures correlated outcomes and individual-level heterogeneity in advertising response.",
+    "Applies variational Bayes to estimate a high-dimensional marketing model with very large panel data and uses the results to produce brand/channel customer segments for managerial allocation decisions."
+  ],
+  "context": "The empirical setting is an anonymous North American specialty retailer parent firm in apparel (plus some homewares) that owns three independently managed retailer-brands. The firm maintains a unified customer database with ad touchpoints and transactions across email, catalogs, paid search, and both online and in-store purchase channels.",
+  "design_and_data": "The study uses two years of weekly customer panel data (July 2010 to June 2012), with a random sample of 4,000 customers and 2.4 million observations across 3 brands, 2 channels, and 100 modeled weeks (after reserving 4 weeks for lag construction). Data include individual-level email and catalog exposures, paid-search click-throughs, organic search, website visits, and purchase amounts by brand and channel. The authors estimate a multivariate random-effects Tobit model with ad-stock carryover, lagged sales, price and season controls, and endogeneity corrections (targeting correction and control functions). Because of model size and 60 random effects, estimation is done with variational Bayes and stochastic gradient optimization.",
+  "focal_constructs": [
+    "multimedia advertising effectiveness",
+    "own-brand advertising elasticity",
+    "cross-brand advertising spillover",
+    "advertising interference",
+    "omnichannel shopping",
+    "brand and channel purchase concentration",
+    "purchase channel sales response",
+    "variational Bayes estimation"
+  ],
+  "main_findings": [
+    "Own-brand advertising is generally positive, with email and paid search strongest for online sales and catalogs relatively more effective for in-store sales.",
+    "Cross-brand effects depend on medium: competitor email is typically negative for focal-brand sales, paid search shows no significant cross-brand effect, and catalogs can be either negative or positive depending on brand pair, channel, and overlap in ad timing/intensity.",
+    "Customer segmentation reveals four brand/channel groups, and multibrand-omnichannel customers are the heaviest buyers and most responsive to multimedia advertising."
+  ],
+  "one_line_summary": "Using customer-level panel data for three retailer-brands, the paper shows via a variational-Bayes random-effects Tobit model that multimedia ads have strong own-brand effects but highly medium- and segment-dependent cross-brand effects across online and in-store channels.",
+  "relation_to_prior_work": "extends prior multimedia advertising research by moving beyond single-brand or aggregate analyses to individual-level estimation across multiple retailer-brands, separate media, and both purchase channels. It also extends competitor-advertising evidence by estimating medium-specific cross-brand elasticities and showing that spillovers can be positive or negative depending on context.",
+  "research_gap": "Prior multimedia studies with panel data largely focus on a single brand, and few can separately estimate medium-specific effects across both online and in-store sales while accounting for cross-brand advertising within a category. Evidence is also limited on how these cross-brand effects vary with customer brand/channel usage patterns.",
+  "research_question": "How do own-brand and cross-brand advertising in email, catalogs, and paid search affect customer-level sales for multiple retailer-brands across online and in-store channels? The paper also asks how these effects differ across customer segments defined by multibrand and multichannel purchasing behavior."
+}

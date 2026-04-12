@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Demonstrates a robust mismatch between consumers' preferred subgoal sequence and the sequence that actually improves goal completion across seven studies.",
+    "Provides initial evidence that this mismatch is tied to consumers' failure to anticipate increased goal commitment after early subgoal success.",
+    "Identifies subgoal value as a key boundary condition: when subgoals have standalone benefits, adoption preferences shift away from difficult-to-easy sequencing."
+  ],
+  "context": "The paper examines consumer goal pursuit when an overall goal is divided into subgoals of different difficulty, across tasks such as exercise, arithmetic games, and product customization. It also tests real marketplace behavior in loyalty programs at a yogurt shop, a fast-food restaurant, and a bakery.",
+  "design_and_data": "The authors run seven studies that manipulate subgoal sequence (easy-to-difficult vs difficult-to-easy), often separating goal adoption decisions from actual goal completion. Lab studies include sit-ups (n=249), a 24-point arithmetic game with four stages and an imposed waiting interruption (n=181), a two-phase product customization task with one-week lag between preference and assignment (n=269), and a handgrip persistence task with a commitment-reminder manipulation (n=188). Field studies include a yogurt loyalty program with randomized card types and activation requirements (800 customers), a fast-food loyalty program where customers chose among eight two-stage card structures (443 joined), and a bakery sign-up experiment manipulating subgoal value (300 customers). Outcomes include adoption/sign-up rates, completion/redemption rates, quitting points, and persistence.",
+  "focal_constructs": [
+    "subgoal sequence",
+    "goal adoption",
+    "goal completion",
+    "goal commitment",
+    "commitment misprediction",
+    "subgoal value",
+    "motivation and persistence"
+  ],
+  "main_findings": [
+    "Across Studies 1-6, consumers were more likely to adopt goals framed as difficult-to-easy, but completion outcomes were higher for easy-to-difficult sequences.",
+    "In Study 5, reminding participants to consider future commitment did not remove the difficult-to-easy adoption preference, and anticipated commitment did not differ by sequence.",
+    "In Study 7, when subgoals had standalone rewards, adoption preference reversed, with higher sign-up for easy-to-difficult than difficult-to-easy sequences."
+  ],
+  "one_line_summary": "Across seven studies, consumers preferred difficult-to-easy subgoal sequences when choosing goals but actually completed goals more successfully with easy-to-difficult sequences, with this mismatch weakening or reversing when subgoals had their own value.",
+  "relation_to_prior_work": "extends prior subgoal research that has largely focused on whether subgoals help at all by examining how the ordering of easy and difficult subgoals changes adoption and completion. It also connects this ordering problem to work on goal commitment and prediction errors by showing consumers do not accurately anticipate commitment gains from early subgoal completion.",
+  "research_gap": "Prior literature documents the general benefits of subgoals, but it has not systematically examined how to sequence subgoals of different difficulty to maximize overall attainment. The paper addresses whether consumers can correctly prioritize such subgoals when selecting a pursuit strategy.",
+  "research_question": "When an overall goal includes subgoals of unequal difficulty, which sequence (difficult-to-easy or easy-to-difficult) best improves eventual goal completion? Do consumers prefer that same sequence when deciding whether and how to pursue the goal, and how does subgoal value affect this pattern?"
+}

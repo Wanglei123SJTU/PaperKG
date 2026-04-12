@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides one of the first systematic tests of how consumers assess hedging outcomes across domains.",
+    "It proposes and tests a process-level locus-of-attention account in which prevention orientation directs attention to status quo stakes and promotion orientation directs attention to change stakes.",
+    "It qualifies prior one-to-one regulatory focus predictions by showing that regulatory orientation can increase discrimination sensitivity and influence behavioral intentions, not just fixed preference for status quo or change."
+  ],
+  "context": "The studies are set in financial decision contexts: horse-race betting and stock investing. Hedging is operationalized as balancing an existing position with a new counterbalancing position (old favorite vs new entrant; hold half vs sell half shares).",
+  "design_and_data": "Experiment 1 used 120 undergraduates in a 2 x 2 design (prevention vs promotion prime x winning horse: previous winner vs new entrant) in a computerized betting task with affective evaluations. Experiment 2a used 60 undergraduates in a 2 x 2 design (promotion vs prevention investment-goal scenario x next-day stock up vs down) after a sell-half/hold-half decision, and collected both affect ratings and thought listings coded by two blind judges. Experiment 2b surveyed 227 adults at U.S. airports in a 2 x 2 design that directly manipulated locus of attention (last-minute sell half vs hold half) and next-day stock movement. Experiment 3 used about 117-118 undergraduates in a 2 x 2 design (promotion vs prevention x expected stock rise vs fall) and measured likelihood of holding versus selling shares.",
+  "focal_constructs": [
+    "hedging outcomes",
+    "regulatory focus",
+    "prevention orientation",
+    "promotion orientation",
+    "status quo component",
+    "change component",
+    "locus of attention",
+    "behavioral intentions"
+  ],
+  "main_findings": [
+    "In hedging outcomes, prevention-focused participants responded in line with attention to the status quo component, whereas promotion-focused participants responded in line with attention to the change component.",
+    "In stock scenarios, prevention focus generated more holding-focused thoughts and promotion focus generated more selling-focused thoughts, and directly shifting attention to holding versus selling reproduced the same evaluative pattern.",
+    "In behavioral intention measures, prevention-focused participants showed greater discrimination on hold decisions and promotion-focused participants showed greater discrimination on sell decisions as expectations changed, rather than a simple constant preference for status quo or change."
+  ],
+  "one_line_summary": "Across gambling and investing experiments, the paper shows that prevention versus promotion goals shift attention to status quo versus change components of hedges, shaping both outcome evaluations and action intentions.",
+  "relation_to_prior_work": "refines prior regulatory focus research, especially Liberman et al. (1999), by showing that prevention and promotion affect processing attention and discrimination in status quo versus change choices rather than only mapping to stable preferences.",
+  "research_gap": "Prior work on reactions to hedging outcomes was described as scant, leaving unclear whether people evaluate a hedge as a whole or focus on one component. Prior status quo-versus-change work emphasized preference patterns, but this paper argues that the process-level mechanism of selective attention had not been directly tested.",
+  "research_question": "How do people assess outcomes of hedging decisions that combine a status quo stake and a change stake? The paper tests whether regulatory focus (prevention vs promotion) shifts locus of attention to one component, thereby driving affective evaluations and behavioral intentions."
+}

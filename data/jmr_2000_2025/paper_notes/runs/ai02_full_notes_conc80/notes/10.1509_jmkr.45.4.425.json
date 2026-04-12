@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides an objective behavioral measure of information value based on seekers' point allocations to responders.",
+    "Identifies current provider behaviors (response speed, dialogue frequency, and amount of information) and past behaviors (domain depth and domain breadth) as determinants of judged information value.",
+    "Examines relative value judgments across multiple stranger providers and shows that seeker goal orientation changes which provider history cues matter most."
+  ],
+  "context": "The study examines an online discussion forum for marketing professionals where people ask marketing questions and receive responses from multiple strangers with no prior face-to-face interaction. Information seekers close questions by allocating point budgets across responders, making relative value judgments observable.",
+  "design_and_data": "The authors analyze a random sample of closed forum queries over an 18-month period: 776 information requests from 668 seekers and 17,628 responses, after excluding single-response and moderator-closed questions. The dependent variable is the percentage of available points awarded to each responder for a query. Key predictors include relative response speed, relative response frequency, relative response length/elaboration, prior focal-domain points (domain depth), and cross-domain participation entropy (domain breadth); seeker goal orientation (learning vs decision making) was coder-classified from query text with 88% intercoder agreement. Hypotheses are tested with a random-effects double-limit Tobit model to account for censoring at 0 and 1 and clustering by query.",
+  "focal_constructs": [
+    "information value judgments",
+    "response speed",
+    "response frequency",
+    "amount of information",
+    "domain depth",
+    "domain breadth",
+    "goal orientation",
+    "learning vs decision-making orientation"
+  ],
+  "main_findings": [
+    "Responses were judged more valuable when providers replied faster, engaged in more back-and-forth exchanges, and supplied more information than other responders to the same query.",
+    "Provider domain depth in the focal category increased judged value, whereas domain breadth across categories decreased judged value and attenuated the positive effect of domain depth.",
+    "Goal orientation moderated key effects: learning-oriented seekers weighted domain depth and response elaboration more, decision-oriented seekers weighted domain breadth more positively, and speed/frequency effects were positive for both orientations."
+  ],
+  "one_line_summary": "Using archival data from a marketing Web forum, the paper shows that seekers assign higher objective value to strangers' responses based on responders' current behavior, prior domain history, and the seeker's learning versus decision-making goal.",
+  "relation_to_prior_work": "extends prior information-search and source-effects research by focusing on comparative value judgments in stranger-to-stranger online exchanges and by using observable provider behaviors with an objective value metric rather than relying only on source traits, message characteristics, or retrospective self-reports.",
+  "research_gap": "Prior work has limited evidence on how seekers decide which specific provider's response is most valuable relative to other providers in multi-source, stranger settings. Existing approaches often use retrospective or inferred value measures, leaving a gap for objective, behavior-based evidence on provider actions and their interaction with seeker goals.",
+  "research_question": "In online contexts where information seekers receive responses from multiple strangers, what makes one provider's response be judged as more valuable than others? Specifically, how do providers' current behaviors (speed, frequency, amount) and past behaviors (domain depth and breadth), and seekers' goal orientation (learning vs decision making), shape objective judgments of information value?"
+}

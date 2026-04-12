@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s design note explicitly says it addresses endogeneity in opt-in training using an econometric correction (instrumental variables), while the cited paper’s core contribution is a control-function method for endogeneity correction. This clear methodological overlap makes it plausible that the citation is a substantive method source rather than a generic mention, despite only one matched reference entry being provided.",
+  "triage_decision": "keep_for_relation_judgment"
+}

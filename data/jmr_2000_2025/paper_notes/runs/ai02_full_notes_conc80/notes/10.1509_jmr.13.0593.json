@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "A multimethod protocol that applies six approaches to the same 30-second TV ads and aligns their measures with attention, affect, memory, and desirability constructs.",
+    "A direct linkage of lab-based ad response measures to in-market advertising elasticities estimated from market response models.",
+    "Evidence that neurophysiological data, particularly fMRI ventral striatum activity, can improve prediction of advertising success beyond traditional copy-testing measures."
+  ],
+  "context": "The study uses 30-second television ads from six companies (15 brands), tested in a lab with U.S. participants recruited in the Northeast. Market response evidence comes from firms in internet travel, consumer products, and financial services, with ad success measured as advertising elasticities.",
+  "design_and_data": "The authors collected responses to 37 ads across four phases (total N = 277): traditional and implicit measures (n = 186, with 58 usable IAT cases), eye tracking plus biometrics (n = 29), fMRI (n = 33, 29 analyzed), and EEG (n = 29). They measured traditional survey outcomes, implicit associations, gaze and physiology, EEG alpha metrics, and ROI-based fMRI activity. For market outcomes, they obtained sales and GRP time-series data (or company-provided elasticity estimates) and estimated ad elasticities for 26 tested ads using company-specific response models. In a second stage, they regressed log ad elasticities on ad-level aggregated measures, testing each nontraditional method's incremental explanatory power beyond traditional measures and company fixed effects.",
+  "focal_constructs": [
+    "advertising elasticities",
+    "advertising success",
+    "attention",
+    "affect",
+    "memory",
+    "desirability",
+    "ventral striatum activation"
+  ],
+  "main_findings": [
+    "Traditional measures were consistent across samples and explained substantial variation in ad elasticities.",
+    "Only fMRI measures significantly improved prediction beyond traditional measures in the second-stage models (F-test p = .011), with the largest reported gain in adjusted R2.",
+    "Within fMRI predictors, ventral striatum activity was the strongest significant positive predictor of market-level advertising response after controls."
+  ],
+  "one_line_summary": "Using a multimethod lab study linked to market response modeling, the paper finds that fMRI, especially ventral striatum activation, adds the most predictive power for TV ad success beyond traditional self-report metrics.",
+  "relation_to_prior_work": "extends prior advertising copy-testing and neuromarketing work by directly comparing multiple methods on the same ads and tying them to market-level advertising elasticities. It also extends earlier neural-market outcome evidence by focusing on ad-level elasticity prediction and incremental value over traditional measures.",
+  "research_gap": "Although neurophysiological methods are increasingly used in marketing, their value for predicting real-world advertising success is underresearched. The authors state that prior work had not directly linked neurophysiological ad measures to market-level advertising elasticities or tested whether they add value beyond traditional measures.",
+  "research_question": "Do neurophysiological responses to television ads predict real-world advertising success, and do they add explanatory power beyond traditional copy-testing measures? Which measures across traditional reports, implicit tests, eye tracking, biometrics, EEG, and fMRI best capture key ad constructs and explain variation in market-level ad elasticities?"
+}

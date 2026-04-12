@@ -1,0 +1,6 @@
+{
+  "citation_substance": "mention_only",
+  "rationale": "The cited paper appears in a single background sentence in the historical overview, where the author notes that prior work (including Gupta, Lehmann, and Stuart 2004) quantified the profitability impact of retention. In the citing paper, this reference is used only to motivate why churn management matters, not to develop the core targeting framework, hypotheses, or empirical method. The main contribution relies on field experiments and uplift/heterogeneous treatment effect modeling, with no direct reuse of the cited paper's valuation model.",
+  "relation_description": null,
+  "relation_type": null
+}

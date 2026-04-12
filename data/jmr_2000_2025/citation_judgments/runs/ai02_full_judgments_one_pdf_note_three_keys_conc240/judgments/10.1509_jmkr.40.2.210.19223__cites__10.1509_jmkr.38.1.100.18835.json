@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citation appears in the core hypothesis-testing section rather than only in broad background. The authors explicitly use Irwin and McClelland (2001) to justify how main effects should be interpreted in moderated regression when predictors are mean-centered and interaction terms are present. Even though it is paired with another methods citation, it directly supports interpretation of their key interaction models, so it plays a meaningful methodological role.",
+  "relation_description": "The citing paper applies methodological guidance from Irwin and McClelland (2001) to interpret coefficients in its moderated regression analyses. In particular, it uses the cited work to clarify how to read main and interaction effects after mean-centering predictors.",
+  "relation_type": "applies"
+}

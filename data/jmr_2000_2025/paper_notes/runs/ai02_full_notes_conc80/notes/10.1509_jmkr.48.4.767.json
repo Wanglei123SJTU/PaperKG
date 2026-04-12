@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes an empirical discrete-choice model that jointly captures compromise, attraction, and similarity effects while nesting a heterogeneous random utility model.",
+    "It introduces a componential utility decomposition into context-free partworth utility and context-dependent utility, enabling separate statistical tests of each context effect under heterogeneity.",
+    "It illustrates how estimated context sensitivity can be used in product line design to increase expected profitability."
+  ],
+  "context": "The empirical setting is a choice-based conjoint study of hypothetical digital cameras. Respondents chose among camera profiles defined by picture quality and optical zoom, with a no-choice option, in a behavioral lab task.",
+  "design_and_data": "The study uses repeated choices from 154 undergraduate students. The authors constructed 700 feasible camera choice sets, selected 30 efficient sets using the %ChoiceEff procedure, and had each participant complete 15 estimation tasks plus 6 holdout tasks with 3-, 4-, and 5-item sets. They estimated hierarchical Bayes versions of three models via Gibbs sampling: a heterogeneous RUM, a contextual RUM with main context effects, and an extended contextual RUM including an attraction x similarity interaction.",
+  "focal_constructs": [
+    "compromise effect",
+    "attraction effect",
+    "similarity effect",
+    "context-dependent utility",
+    "partworth utility",
+    "attraction x similarity interaction",
+    "hierarchical Bayes discrete-choice modeling",
+    "product line design"
+  ],
+  "main_findings": [
+    "The extended contextual RUM outperformed the heterogeneous RUM and the contextual model without interaction on 7 of 8 reported in-sample and holdout fit statistics.",
+    "In the focal model, posterior intervals showed significant context effects in expected directions: compromise, attraction, and dissimilarity effects were positive, and the attraction x similarity interaction was negative.",
+    "In the product-line illustration, accounting for context effects increased expected profit by 5.4% and substantially increased the predicted share of the higher-margin target item."
+  ],
+  "one_line_summary": "The paper develops and empirically tests an extended contextual random utility model that adds compromise, attraction, and similarity effects (plus their interaction) to partworth utility and improves prediction and product-line decisions.",
+  "relation_to_prior_work": "extends prior context-effect choice modeling by moving beyond single-effect empirical models and nonempirical multi-effect formulations to an empirically estimated model that accommodates compromise, attraction, and similarity simultaneously.",
+  "research_gap": "The literature had called for an empirical choice model that can accommodate multiple context effects across choice situations, but existing empirical models mostly captured one effect at a time and some multi-effect models were analytical only. The paper addresses this missing empirical multi-effect discrete-choice framework.",
+  "research_question": "Can context effects be incorporated into a discrete-choice model in a way that nests a standard heterogeneous random utility model while capturing compromise, attraction, and similarity simultaneously? Do these context components, including attraction x similarity interaction, significantly improve explanation and prediction of individual choice behavior?"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper models FMCG sales lift with hierarchical Bayes and explicitly discusses promotion dynamics (e.g., no postpromotion dip) and concurrent price promotions, which closely overlaps with the cited paper’s core contribution on dynamic promotional/regular price effects and postpromotion behavior via a hierarchical Bayes ECM. Both notes place the work in scanner-based packaged-goods retail contexts, suggesting the 2006 paper could be a substantive method/theory anchor rather than a casual mention. With an exact DOI match (10.1509/jmkr.43.3.443), this pair should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Conceptually, the paper argues that sentiment analysis should move beyond valence and include certainty as a core facet of consumer sentiment.",
+    "Methodologically, it develops and validates the Certainty Lexicon, a new imputation-based linguistic measure of certainty using a large, data-driven pipeline and a final list of 3,485 words and phrases.",
+    "Substantively, it shows that measuring sentiment certainty yields incremental predictive value for marketers, including real-world prediction of Super Bowl ad success where valence does not."
+  ],
+  "context": "The paper is in marketing sentiment analysis, using natural language from social media, online reviews, and prediction markets. Empirical contexts include MTurk and Prolific experiments, Beer Advocate and Yelp reviews, Twitter reactions to 2016-2017 Super Bowl commercials, and Good Judgment Open forecasts.",
+  "design_and_data": "The authors construct the Certainty Lexicon in four phases: generating candidate n-grams, filtering by real-world frequency and human relevance judgments, obtaining normative certainty ratings, and refining with prediction-market forecasting data. Data used in construction include 24.8 million words from 32,435 news articles, 17.4 billion words from 613.4 million Reddit posts by 11.6 million users, and 169,954 forecast-text entries from 20,793 people on Good Judgment Open. They then run four validation studies (experiments and observational analyses), including a 978-person experiment and 1.43 million Beer Advocate reviews. A final field demonstration links certainty in 130,000 Super Bowl commercial tweets (94 commercials, 84 brands) to subsequent Facebook follower gains.",
+  "focal_constructs": [
+    "sentiment valence",
+    "sentiment certainty",
+    "attitude certainty",
+    "Certainty Lexicon",
+    "imputation-based text measurement",
+    "consumer behavior prediction",
+    "social consensus in reviews"
+  ],
+  "main_findings": [
+    "In experimental ground-truth tests, Certainty Lexicon scores tracked certainty more strongly than DICTION and LIWC measures.",
+    "In large-scale review data, lower prior rating consensus and greater reviewer-crowd discrepancy were associated with lower linguistic certainty as measured by the Certainty Lexicon, including when controlling for valence extremity.",
+    "In Super Bowl Twitter data, linguistic certainty predicted later increases in brands' Facebook followers, while valence and LIWC certainty measures did not show the same predictive utility."
+  ],
+  "one_line_summary": "The paper develops and validates the Certainty Lexicon, showing that certainty extracted from language adds predictive power beyond sentiment valence in marketing-relevant settings.",
+  "relation_to_prior_work": "introduces a validated computational measure of certainty for language in sentiment analysis, drawing on attitude-certainty theory that had been largely disconnected from sentiment-analysis practice. It also benchmarks against LIWC and DICTION and reports stronger validity and robustness for the new approach.",
+  "research_gap": "The paper states that sentiment analysis tools and practice focus mainly on valence, even though valence alone can be an incomplete predictor of behavior. It also argues that existing linguistic certainty tools have limited direct validation for sentiment certainty and methodological constraints (word-count assumptions, weak performance in short text, and lack of phrase handling).",
+  "research_question": "Can consumer certainty be measured reliably from natural language in a way that complements sentiment valence? If so, does a new certainty measure generalize across contexts and improve prediction of consumer-relevant outcomes beyond traditional valence-based sentiment analysis?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides direct causal evidence on consumer responses to in-feed native versus display ads in online news while controlling ad position.",
+    "Combines randomized behavioral clickstream data, eye-tracking attention data, and survey measures to explain trade-offs across clicks, brand recognition, and publisher trust.",
+    "Evaluates different legally compliant native disclosure designs in a field experiment and offers actionable implications for advertiser practice and FTC-style disclosure policy."
+  ],
+  "context": "The paper studies advertising on online news platforms, where users browse editorial headlines and stories. Evidence comes from a researcher-built news website environment and a real business-news email newsletter (Morning Brew).",
+  "design_and_data": "Study 1 is a randomized between-subjects online experiment with 1,299 panel participants (Lucid) on a fictitious but functional news site; conditions are 6 brands x 2 ad formats (native vs display) plus a no-ad control, with clickstream and survey outcomes. Study 2 is a lab eye-tracking experiment with 156 participants who browsed four news-site versions under randomized ad-format sequences (DDDD, DDDN, NNND, NNNN) and fixed versus varying ad positions, producing fixation, click, recognition, and trust measures. Study 3 is a randomized field experiment in Morning Brew emails sent to 138,436 subscribers, with control plus low/medium/high disclosure-prominence native-ad conditions. Field outcomes include opens and ad clicks, plus follow-up survey responses on brand recognition and newsletter experience from 2,233 respondents.",
+  "focal_constructs": [
+    "in-feed native advertising",
+    "display advertising",
+    "ad click-through rate",
+    "brand recognition",
+    "website trustworthiness",
+    "visual attention",
+    "disclosure prominence",
+    "consumer confusion with editorial content"
+  ],
+  "main_findings": [
+    "When ad position is held constant in-feed, native ads generate higher click-through rates than display ads.",
+    "Display ads attract more visual attention and produce higher brand recognition than native ads; attention positively predicts both clicking and brand recognition.",
+    "Native ads can reduce perceived publisher trustworthiness, and in the field test low-prominence disclosures maximize clicks while high-prominence branded disclosures maximize brand recognition, with medium prominence missing both benefits."
+  ],
+  "one_line_summary": "Across randomized online, lab eye-tracking, and field newsletter experiments, the paper shows that in-feed native ads boost clicks but involve trade-offs with attention, brand recognition, and publisher trust, and that disclosure prominence shifts outcomes between clicks and recognition.",
+  "relation_to_prior_work": "extends prior research on sponsored content and sponsored search by testing in-feed native ads in online news with randomized experiments, and shows that disclosure-prominence effects differ in this goal-incongruent context from sponsored-search findings.",
+  "research_gap": "Prior academic work focused mainly on sponsored content or sponsored search rather than in-feed native hyperlink listings in online news. The paper identifies limited causal evidence on native ads' effectiveness and on how disclosure prominence affects clicks, brand recognition, and publisher trustworthiness.",
+  "research_question": "How do consumers respond to in-feed native ads versus display ads in online news when ad position is controlled? The paper asks whether visual attention explains differences in click-through and brand recognition, and how different disclosure prominence levels for native ads affect clicks, brand recognition, and publisher trustworthiness."
+}

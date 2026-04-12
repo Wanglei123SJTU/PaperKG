@@ -1,0 +1,4 @@
+{
+  "rationale": "The only linkage evidence is a single DOI match (reference_index 43) with no surrounding citation context, title string, or quoted passage from the citing paper. The citing note focuses on identifying discount factors in telecom three-part tariffs, while the cited note is about forward-looking bidding in eBay sequential auctions, so overlap is only at a broad dynamic/discounting level. Given this sparse and mixed evidence, it is not safe to drop as obvious mention-only, but there is not enough to clearly keep.",
+  "triage_decision": "uncertain"
+}

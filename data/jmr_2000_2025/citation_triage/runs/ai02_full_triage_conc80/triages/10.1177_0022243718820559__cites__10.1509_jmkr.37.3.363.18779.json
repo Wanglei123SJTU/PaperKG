@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is a core movie recommendation-methods work (hierarchical Bayesian integration of collaborative/content/expert signals), and the citing paper explicitly frames its contribution as extending prior entertainment recommendation research by improving content features for content-based and hybrid models. Given this methodological and foundational alignment (plus a direct DOI match), this is not safely an incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

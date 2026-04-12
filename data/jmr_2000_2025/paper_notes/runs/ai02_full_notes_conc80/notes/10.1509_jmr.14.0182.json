@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper classifies franchisor governance mechanisms by whether they influence franchisee ability (selection, socialization) or motivation (incentives, monitoring) and tests their links to franchisee bankruptcy.",
+    "It evaluates joint deployment effects among mechanisms with the same objective and tests whether motivation-focused mechanisms can counter royalty-rate-related motivation loss.",
+    "It estimates the relationship between franchisee and franchisor bankruptcy, including within-system bankruptcy spillovers, using confirmed bankruptcy records for both parties."
+  ],
+  "context": "The study is set in U.S. business-format franchising across multiple industries. It examines franchisor-franchisee systems where both franchisees and franchisors can file for bankruptcy while sharing a common brand.",
+  "design_and_data": "The authors build a longitudinal dataset of 1,115 U.S. franchise systems from Bond's Annual Franchise Guide, observed from 1997 to 2009 (up to 13 years). Bankruptcy events are identified from PACER court records and then separated into franchisor versus franchisee filings using USPTO trademark ownership histories, multicriteria case filtering, franchise disclosure document checks, and online verification. They report 41 confirmed franchisor bankruptcy filings and 7,242 confirmed franchisee bankruptcy instances; the substantive model uses 6,756 system-year observations. Estimation uses a recursive conditional mixed process model with first-stage equations for sample selection and endogenous governance choices.",
+  "focal_constructs": [
+    "franchisee bankruptcy",
+    "franchisor bankruptcy",
+    "franchisee selection criteria",
+    "franchisee socialization through ongoing services",
+    "incentives via additional unit expansion opportunities",
+    "monitoring through dual distribution",
+    "royalty rate",
+    "bankruptcy spillovers within franchise systems"
+  ],
+  "main_findings": [
+    "Franchisee bankruptcy is positively and significantly associated with franchisor bankruptcy.",
+    "For franchisee bankruptcy, incentive provision has a significant negative main effect, socialization has a significant positive main effect, and selection, monitoring, and royalty rate main effects are not significant.",
+    "Interaction results show significant bankruptcy-reducing effects for selection x socialization and incentives x monitoring, and monitoring significantly weakens the royalty rate-bankruptcy relationship; lagged franchisee bankruptcy indicates within-system spillover over time."
+  ],
+  "one_line_summary": "Using a 13-year panel of U.S. franchise systems, the paper shows linked franchisor-franchisee bankruptcy risk and finds that governance mechanisms matter mainly through specific incentive and interaction effects rather than uniformly through their individual main effects.",
+  "relation_to_prior_work": "extends prior franchising governance research by testing confirmed franchisor and franchisee bankruptcy outcomes directly, classifying governance mechanisms into ability- versus motivation-focused types, and evaluating their interaction effects rather than only separate main effects.",
+  "research_gap": "The authors argue that prior franchising work offered unclear conceptual distinctions among governance mechanisms and mixed empirical evidence on their effects. They also state that prior research had not directly estimated franchisor and franchisee bankruptcy together, including spillovers, largely because confirmed data on both parties were difficult to obtain.",
+  "research_question": "How is franchisee bankruptcy related to franchisor bankruptcy in franchise systems? How do franchisor-deployed governance mechanisms that influence franchisee ability and motivation, individually and jointly, affect the likelihood of franchisee bankruptcy, and can motivation-focused mechanisms offset the motivation-dampening effect of higher royalty rates?"
+}

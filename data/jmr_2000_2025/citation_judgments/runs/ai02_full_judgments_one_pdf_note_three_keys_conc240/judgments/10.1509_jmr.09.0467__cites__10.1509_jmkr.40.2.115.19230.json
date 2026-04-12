@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in the core method section, not just in background. The citing paper explicitly references Chung and Rao (2003) when specifying Model B as a standard preference model with a finite mixture of Gaussian distributions for clustering reference consumers into virtual experts. It also cites Chung and Rao (2003) to justify that this mixture formulation can encompass latent-class and random-coefficient structures, which supports the methodological setup used in estimation and prediction.",
+  "relation_description": "The citing paper builds its clustering component (Model B) on finite-mixture preference modeling ideas supported by Chung and Rao (2003). That prior work functions as a methodological foundation for handling multimodal heterogeneity in the virtual-expert framework.",
+  "relation_type": "foundational_for"
+}

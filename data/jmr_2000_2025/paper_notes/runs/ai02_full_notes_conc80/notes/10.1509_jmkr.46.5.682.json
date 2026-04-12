@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper shows that private self-awareness changes consumer choice by making people more willing and able to rely on personal preference weights.",
+    "Across four experiments, it demonstrates that privately self-aware consumers are less likely to seek variety and less likely to choose compromise options.",
+    "It identifies preference fluency as the process mechanism and shows a boundary condition: when preference construction is hindered by ambiguous attribute information, the private self-awareness effect is mitigated."
+  ],
+  "context": "The studies are lab experiments on consumer choices in common product categories (fruit juices, apartments/student residences, mobile phones, barbecues, and laptops), mostly with undergraduate participants. Choices include both multiple-item selection and single-choice sets where a compromise option can emerge.",
+  "design_and_data": "The paper reports four experiments. Study 1 (116 students, 2 excluded) manipulated private self-awareness (mirror), public self-awareness (observer), and control, then measured variety in a consequential juice-selection lottery and preference-behavior consistency from prior liking ratings. Study 2 (82 students, 1 excluded) used a 2 x 2 x 2 between-subjects design (self-awareness via story-writing task x choice set size x product category) to test compromise effects for apartments and mobile phones. Study 3 (109 students, with suspicious cases and outliers removed) compared control, private self-awareness (mirror), and preference-awareness articulation conditions, measured compromise choices, and measured preference fluency as time to identify most important attributes; mediation was tested. Study 4 (117 students) used a 2 x 2 design (self-awareness via story-writing x attribute range ambiguity) with MouselabWEB process tracing in barbecue and laptop choices, tracking amount of search, time per acquisition, and attribute- vs alternative-based transitions.",
+  "focal_constructs": [
+    "private self-awareness",
+    "public self-awareness",
+    "preference fluency",
+    "variety seeking",
+    "compromise effect",
+    "preference-behavior consistency",
+    "information search pattern",
+    "attribute ambiguity"
+  ],
+  "main_findings": [
+    "Private self-awareness reduced variety seeking and increased preference-behavior consistency, while public self-awareness increased variety and reduced consistency relative to control in Study 1.",
+    "Private self-awareness attenuated the compromise effect: in high self-awareness conditions, the relative share increase of the compromise option was eliminated or strongly reduced in Studies 2 and 3.",
+    "Preference fluency mediated the self-awareness effect on compromise choice, and process data showed more selective, alternative-based search under private self-awareness only when attribute information was not ambiguous; with range ambiguity, the choice effect disappeared in Study 4."
+  ],
+  "one_line_summary": "The paper finds that private self-awareness increases preference fluency, which makes consumers rely more on their own preferences and therefore choose less variety and fewer compromise options unless preference construction is made difficult.",
+  "relation_to_prior_work": "extends prior self-awareness and context-effect research by shifting focus from public audience effects to private self-awareness in consumer choice and by linking this state to preference fluency as a mechanism.",
+  "research_gap": "Prior marketing research had focused mainly on public self-awareness and audience effects, with little direct attention to private self-awareness in consumer decision making. The paper addresses this gap by testing whether private self-awareness affects known choice phenomena tied to decision conflict and preference construction.",
+  "research_question": "How does private self-awareness influence consumer choice behavior, especially variety seeking and the tendency to select compromise options? Does private self-awareness operate by increasing preference fluency, and does this effect weaken when consumers cannot easily construct personal preferences?"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s design explicitly states it applies a latent-IV/endogeneity correction, while the cited paper’s core contribution is a control-function method for handling endogeneity in choice models. Given this clear methodological overlap and an exact DOI match, the citation is plausibly a method/theory source rather than a purely incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

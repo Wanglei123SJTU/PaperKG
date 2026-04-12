@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides independently conducted, large-scale replication evidence that attraction effects are less robust than commonly assumed in marketing.",
+    "Conceptually replicates prior evidence that pictorial option representations attenuate attraction effects.",
+    "Shows that meaningful qualitative-verbal option descriptions also attenuate attraction effects, extending concerns beyond purely pictorial stimuli."
+  ],
+  "context": "The paper studies consumer choice in decoy-based choice sets across 23 product classes, including food, beverages, travel, and durable goods scenarios. Experiments were run in online and paper survey formats with convenience, student, public, and MTurk participants.",
+  "design_and_data": "The research program includes 11 experiments and 91 attraction-effect tests covering 73 decoyed choice sets. Each scenario used at least a two-option control and a three-option decoy condition with an asymmetrically dominated option; most scenarios also tested the opposite targeting version, using between-subject assignment and extensive randomization. Outcomes were option choices by participant-scenario, analyzed as target-versus-competitor share shifts with chi-square tests per scenario and cross-scenario comparisons by representation type (numeric vs pictorial/qualitative-verbal).",
+  "focal_constructs": [
+    "attraction effect",
+    "asymmetrically dominated decoy",
+    "target vs competitor choice share",
+    "numeric attribute representation",
+    "pictorial option depiction",
+    "qualitative-verbal differentiation",
+    "replicability and robustness",
+    "ecological validity"
+  ],
+  "main_findings": [
+    "Only 11 of 91 tests (12.1%) produced significant attraction effects, which is above chance but significantly below the rate expected from power calculations based on prior meta-analytic effect size assumptions.",
+    "Attraction effects were much more likely with numeric-only stimuli (23.7%) than with pictorial or meaningful qualitative-verbal stimuli (3.7%).",
+    "Mean effect size was larger for numeric-only scenarios (8.0% target share shift) than for scenarios with nonnumeric differentiation (1.1%), and pictorial and qualitative-verbal formats did not differ reliably from each other."
+  ],
+  "one_line_summary": "Across 11 experiments and 91 tests, the paper finds that attraction effects are hard to reproduce and are strongly attenuated when options are described with pictorial or meaningful qualitative-verbal information rather than only numeric attributes.",
+  "relation_to_prior_work": "extends Frederick, Lee, and Baskin (2014) by providing independent replication evidence that attraction effects are difficult to reproduce in many scenarios. It also broadens their account by showing attenuation for meaningful qualitative-verbal descriptions in addition to pictorial depictions.",
+  "research_gap": "Prior work and practice often treated the attraction effect as robust and managerially useful, while newer evidence questioned its reproducibility with more naturalistic stimuli. This paper addresses the need for independent evidence across many scenarios on whether stimulus representation format limits the effect.",
+  "research_question": "How reliably can the attraction effect be reproduced across many product-choice scenarios using stimuli similar to those in the literature? Does representing options with pictorial or meaningful qualitative-verbal information, rather than only numeric attributes, reduce the effect?"
+}

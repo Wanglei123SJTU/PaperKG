@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Formulates bicriterion market segmentation as a scalar optimization problem that jointly maximizes descriptor-based and response-based explained variation, with optional aspiration-level constraints.",
+    "Introduces a simulated annealing heuristic to search for efficient or nearly efficient partitions by considering both criteria simultaneously.",
+    "Shows through a large computational study and a business-to-business application that the proposed method can substantially improve response-variable explanation versus the EXCLU heuristic."
+  ],
+  "context": "The paper addresses market segmentation settings where managers want segments that are both internally homogeneous on descriptor variables and differentiated on an exogenous response variable. The empirical illustration is a business-to-business market for integrated network services using a national technology survey of firms with at least 100 employees.",
+  "design_and_data": "The authors define two partition-quality criteria, omega2(P) for descriptor-variable explained variance and eta2(P) for response-variable explained variance, and combine them in a weighted scalar objective with feasibility bounds. They develop a simulated annealing heuristic with random customer-reassignment neighborhood moves, temperature cooling, and a weight-adjustment/postprocessing scheme (including EXCLU and reverse EXCLU-R) for nonzero aspiration levels. They compare SAH with Krieger and Green's EXCLU on 729 synthetic datasets from a full-factorial design (six factors at three levels; normally generated variables), collecting omega2(P), eta2(P), and CPU time. They also run ten replications on an empirical dataset of 4,418 business units, using five clusters, nine selected descriptor variables, and telecommunication spending as the response variable.",
+  "focal_constructs": [
+    "bicriterion market segmentation",
+    "descriptor-variable homogeneity",
+    "response-variable explained variation",
+    "scalar optimization problem",
+    "simulated annealing heuristic",
+    "EXCLU two-stage algorithm",
+    "efficient (nondominated) partitions"
+  ],
+  "main_findings": [
+    "In the Monte Carlo study, SAH significantly outperformed EXCLU on eta2(P) across conditions, with mean eta2(P)=0.3720 versus 0.2740 for EXCLU, while mean omega2(P) values were nearly the same (about 0.44).",
+    "SAH produced higher eta2(P) than EXCLU in 720 of 729 test problems, often by large margins (>=25% in 534 cases and >=50% in 260 cases), but required much more CPU time (176.61s versus 7.55s on average).",
+    "In the business-to-business application, SAH achieved eta2(P)=0.3607 versus 0.2515 at lambda=0.10 and 0.6215 versus 0.3519 at lambda=0.15, and split-half replication showed higher stability for SAH than EXCLU (adjusted Rand 0.7321/0.6544 versus 0.5489/0.4561)."
+  ],
+  "one_line_summary": "The paper formalizes market segmentation as a bicriterion optimization balancing descriptor homogeneity and response-variable explanation and shows that a simulated annealing heuristic yields substantially better solutions than EXCLU in both simulations and a B2B case.",
+  "relation_to_prior_work": "extends Krieger and Green's (1996) segmentation heuristic by casting the problem as a formal bicriterion scalar optimization and searching with simulated annealing instead of a purely sequential K-means-plus-ascent process. It also builds on prior K-means and clusterwise-regression traditions by explicitly targeting both criteria in one optimization framework.",
+  "research_gap": "Existing segmentation procedures often optimize one objective while sacrificing the other: K-means emphasizes descriptor homogeneity, whereas clusterwise-regression-type approaches emphasize response fit. The two-stage EXCLU approach can still be suboptimal for the bicriterion problem because its initial K-means stage ignores eta2(P), potentially starting the search in poor neighborhoods for response explanation.",
+  "research_question": "How can customer partitions be found that jointly satisfy identifiability (high omega2(P) on descriptor variables) and responsiveness (high eta2(P) on an exogenous response variable) when these criteria conflict? Can a simulated annealing heuristic for the bicriterion scalar objective deliver better feasible solutions than EXCLU, and what computational effort does that require?"
+}

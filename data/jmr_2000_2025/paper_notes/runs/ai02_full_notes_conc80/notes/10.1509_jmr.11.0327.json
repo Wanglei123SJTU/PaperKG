@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper argues that monthly hormonal fluctuations have a systematic and substantial effect on consumer behavior by altering women's positional concerns.",
+    "It proposes and tests an ovulatory competition hypothesis: peak fertility increases women's motivation to improve status relative to other women.",
+    "It shows a key boundary condition and behavioral extension by demonstrating effects in both product-choice tasks and an incentive-compatible dictator game, including a urine-test-based fertility measure."
+  ],
+  "context": "The studies examine normally ovulating women in the United States making consumer and economic choices. Decisions involve social comparison against other women versus men in online choice scenarios and a laboratory dictator game.",
+  "design_and_data": "Study 1 used an online U.S. sample of 309 women (not on hormonal contraception; regular cycles) and estimated fertility with the reverse-cycle-day method (high fertility days 8-14 vs low fertility days 1-7 and 15-28). Participants chose between options that traded off absolute versus relative gains for cars and diamond rings. Study 2 used 481 similar participants and a mixed design varying whether comparisons were to women or men, with analogous absolute-versus-relative choices for houses and restaurant spending. Study 3 used 58 female college students in a lab dictator game with real monetary stakes, randomly paired with a male or female target, and determined fertility using ovulation urine tests for luteinizing hormone.",
+  "focal_constructs": [
+    "ovulatory cycle",
+    "fertility status",
+    "positional concerns",
+    "relative versus absolute gains",
+    "intrasexual competition",
+    "gender of comparison target",
+    "positional goods",
+    "dictator game allocations"
+  ],
+  "main_findings": [
+    "Women in high fertility were more likely than low-fertility women to choose relative-gain options over absolute-gain options for the ring and car choices in Study 1.",
+    "Ovulation increased relative-gain choices when the comparison group was other women, but not when the comparison group was men, across house and restaurant choices in Study 2.",
+    "In the dictator game, ovulating women gave less money to female partners but more money to male partners than nonovulating women in Study 3."
+  ],
+  "one_line_summary": "Across three studies, women near ovulation showed stronger status-seeking through relative-gain choices and sex-specific allocation behavior, especially in competition with other women.",
+  "relation_to_prior_work": "extends prior consumer research on ovulatory-cycle effects from clothing and food preferences to broader economic behavior by showing cycle-linked shifts in positional concerns and female-female competitive outcomes.",
+  "research_gap": "Prior work mainly linked ovulation to mating-related preferences and appearance or food choices, and it remained unclear whether ovulation also shifts broader economic behavior tied to status. The paper addresses the unresolved question of whether fertility changes systematically increase women's concern for relative standing, especially against other women.",
+  "research_question": "Does the fertile phase of the ovulatory cycle increase women's desire for relative status, leading them to choose positional benefits over absolute gains? Is any such effect specific to comparisons with other women rather than men, and does it appear in actual monetary allocation behavior (the dictator game)?"
+}

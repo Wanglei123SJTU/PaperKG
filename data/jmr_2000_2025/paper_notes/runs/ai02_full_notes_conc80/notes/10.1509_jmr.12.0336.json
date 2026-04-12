@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a self-contained Bayesian dual-questioning IRT method to quantify individual under- and overreporting without requiring external criterion measures.",
+    "The model explicitly incorporates behavioral survey effects, including privacy-loss and response-mode inertia, and allows reporting bias direction to differ across respondents.",
+    "It provides simulation evidence and a large web-panel application to demonstrate implementation and to map correlates of reporting bias."
+  ],
+  "context": "The study is set in survey measurement of sensitive behaviors, with an empirical application to excessive alcohol consumption/problem drinking. Respondents come from a commercial web panel and answer alcohol-problem items under direct questioning and randomized-response modes.",
+  "design_and_data": "Methodologically, the paper develops Bayesian graded-response IRT models that combine direct questioning and item-level randomized response, including a latent class for RR nonadherence. It uses a repeated-measures dual-questioning design with two nonoverlapping item blocks and four randomized groups (double counterbalancing) to identify DQ effects, privacy-loss effects, response-mode inertia, and block-content effects. Two simulation studies test identification and parameter recovery under multiple scenarios and vary item count, discrimination, and sample size. The empirical application uses a 23-item Rutgers Alcohol Problem Index split into 12 and 11 item blocks, with data from 1,408 respondents out of 2,012 invited (70% response rate).",
+  "focal_constructs": [
+    "underreporting and overreporting",
+    "direct questioning",
+    "randomized response questioning",
+    "dual-questioning technique",
+    "privacy-loss effect",
+    "response-mode inertia effect",
+    "problem drinking"
+  ],
+  "main_findings": [
+    "Simulation results show good recovery of structural parameters and segment membership across tested scenarios, with lower classification accuracy when latent segments are less separated.",
+    "In the alcohol application, direct questioning yields substantially lower latent scores than randomized response (aDQ = -0.618), indicating strong underreporting and no practically meaningful overreporting segment.",
+    "Question-technique order effects are significant: respondents are more biased after losing privacy protection (privacy-loss effect) and randomized response is less effective when it follows direct questions (response-mode inertia effect)."
+  ],
+  "one_line_summary": "Using a double-counterbalanced direct-questioning/randomized-response survey design and Bayesian IRT, the paper estimates individual reporting bias and shows in an alcohol application that underreporting is substantial and strongly shaped by privacy-loss and response-mode inertia effects.",
+  "relation_to_prior_work": "introduces an alternative to objective-criterion, subjective-criterion, and standard between-subjects experimental approaches by combining direct and randomized-response answers within person to estimate individual-level bidirectional reporting bias.",
+  "research_gap": "Existing approaches either require objective or subjective external criteria that are often unavailable or potentially biased, or rely on between-subjects comparisons that only detect aggregate effects. The paper identifies the lack of an easy-to-administer method that can quantify the direction and magnitude of reporting bias at the individual level when some respondents underreport and others overreport.",
+  "research_question": "How can researchers quantify under- and overreporting in self-reports at the individual level when objective criteria are unavailable and bias may run in both directions? Can a within-person combination of direct questioning and randomized response, modeled in a Bayesian IRT framework, recover these bias scores while accounting for order-related behavioral effects such as privacy loss and response-mode inertia?"
+}

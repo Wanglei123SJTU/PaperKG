@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops a dynamic model of new credit card customers' debt repayment behavior to identify customer risk type early in the relationship.",
+    "Introduces a state space Type II Tobit specification that jointly models delinquency and repayment and distinguishes two kinds of zero payment among delinquent accounts: true inability to pay versus oversight-related censoring.",
+    "Shows how predicted risk type can support targeted credit policy design, separating low-risk but occasionally delinquent customers from high-risk customers."
+  ],
+  "context": "The study is set in the credit card lending market, where issuers must manage unsecured revolving debt risk. Empirical application uses a Hong Kong bank's new-cardholder accounts and monthly card usage/repayment histories from account inception.",
+  "design_and_data": "The authors use data from 1,500 cardholders from January 2000 to August 2002; all opened accounts between January 2000 and June 2001, with 1,000 customers used for calibration and 500 for validation. Estimation uses the first 12 months of each calibration customer's history. The model is a hierarchical Bayesian dynamic state space Type II Tobit with two linked observation equations: monthly delinquency (binary) and repayment ratio (continuous, conditional), allowing correlated errors and a probability that delinquency is due to oversight rather than inability. They estimate via MCMC and compare fit/prediction against three benchmark models and an industry-style naive logistic delinquency model, then run a policy simulation.",
+  "focal_constructs": [
+    "credit card delinquency",
+    "debt repayment ratio",
+    "customer risk type",
+    "low-risk occasional delinquency",
+    "high-risk default risk",
+    "state space model",
+    "Type II Tobit model",
+    "consumer heterogeneity"
+  ],
+  "main_findings": [
+    "Estimated parameters are time-varying: autoregressive carryover terms are below one and state-noise variances are significant, indicating evolving repayment behavior and unobserved shocks.",
+    "The proposed model has lower in-sample and holdout prediction errors than all three benchmark models; models with dynamics outperform models without dynamics.",
+    "Among delinquent customers, predicted repayment ratio strongly separates risk types (mean about .49 for short-term delinquency vs .02 for three-month delinquency), outperforming a naive delinquency-probability model, and targeted blocking based on this signal can yield higher simulated revenue than blanket blocking or nonblocking in most tested scenarios."
+  ],
+  "one_line_summary": "The paper builds and validates a dynamic Bayesian state space Type II Tobit model that uses early monthly card usage data to distinguish low-risk from high-risk delinquent new credit card customers and support targeted credit policies.",
+  "relation_to_prior_work": "extends prior marketing uses of state space models by embedding a Type II Tobit structure for joint delinquency and repayment behavior, and refines standard Tobit treatment by separating delinquent zero payments into true inability-to-pay and oversight-related censored zeros.",
+  "research_gap": "The paper argues that issuers need to identify risk type very early from account-inception data, but occasional delinquency by low-risk customers can be mistaken for high risk. It also notes that new-card behavior evolves over time, so static approaches and typical Tobit handling of delinquent zero payments are inadequate for this setting.",
+  "research_question": "How can a card issuer predict the risk type of new credit card customers as early as possible using initial monthly spending and repayment records? Specifically, can a dynamic model distinguish low-risk customers who are occasionally delinquent (for reasons such as oversight) from high-risk customers who are likely to continue delinquency or default?"
+}

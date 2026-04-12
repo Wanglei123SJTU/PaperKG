@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Proposes a general hybrid conjoint model that jointly incorporates self-stated and derived attribute importances with both discrete (latent segments) and continuous within-segment heterogeneity.",
+    "Treats self-stated importances as observed data in the likelihood, with explicit measurement error and respondent-specific scale transformation, instead of using them only as priors or hard constraints.",
+    "Integrates several earlier hybrid conjoint approaches into one hierarchical Bayesian framework estimated by Gibbs sampling, enabling posterior inference for holdout predictions, segment membership, and market-share simulations."
+  ],
+  "context": "The empirical application is MBA students choosing among job offers characterized by multiple job attributes and levels. The study reanalyzes hybrid conjoint data and validates predictions against actual job choices for students who received multiple offers.",
+  "design_and_data": "The paper develops a hierarchical Bayesian finite-mixture regression model for metric conjoint in which full-profile evaluations and self-stated importances are modeled jointly through a likelihood. The model includes latent segments plus normal within-segment variation in part-worths and an individual-specific linear scale transformation linking stated and derived importances. Estimation uses Gibbs sampling with conjugate priors, 2,000 burn-in draws, and 10,000 posterior draws, and compares 11 special-case models that vary by heterogeneity specification and data usage. Empirically, it reanalyzes Srinivasan and Park (1997): complete responses from 108 MBA students (18 profiles plus 6 holdouts), with predictive validation on 57 students who had more than one actual job offer.",
+  "focal_constructs": [
+    "hybrid conjoint analysis",
+    "self-stated attribute importances",
+    "derived part-worth utilities",
+    "latent segment heterogeneity",
+    "within-segment continuous heterogeneity",
+    "individual-specific scale transformation",
+    "Bayesian shrinkage",
+    "predictive validity of real choices"
+  ],
+  "main_findings": [
+    "Across the most flexible models, the log-marginal density is highest at three segments.",
+    "Models calibrated with self-stated information predict actual first choices better than profile-only models, and including both self-stated and profile data in the likelihood tends to yield the highest predictive accuracy.",
+    "Posterior credible intervals of predictions for different heterogeneity specifications overlap, but treating self-stated importances as likelihood data performs much better than using them only as prior information."
+  ],
+  "one_line_summary": "The paper introduces a Gibbs-estimated Bayesian hybrid conjoint model that jointly models self-stated and full-profile data with mixed heterogeneity and shows improved real-choice prediction when self-stated importances are included in the likelihood.",
+  "relation_to_prior_work": "extends earlier hybrid conjoint work by combining finite-mixture segmentation and hierarchical Bayesian within-segment heterogeneity in a single framework. It also replaces prior-only and hard-constraint treatments of self-stated importances with a likelihood-based measurement model that allows respondent-specific scaling and measurement error.",
+  "research_gap": "Prior hybrid conjoint methods often used self-stated importances as priors or hard order constraints, which can be dominated by profile data as sample size grows or ignore measurement error and distance information in stated responses. The paper addresses the lack of an integrated model that simultaneously handles respondent scale differences, stated-plus-derived data, and both discrete and continuous heterogeneity.",
+  "research_question": "How can self-stated importances and full-profile evaluations be integrated in a single Bayesian hybrid conjoint model to infer individual part-worths and improve prediction of actual choices? The paper also examines whether predictive performance differs across heterogeneity specifications (discrete, continuous, or both) and across treatments of self-stated data as likelihood information versus prior information."
+}

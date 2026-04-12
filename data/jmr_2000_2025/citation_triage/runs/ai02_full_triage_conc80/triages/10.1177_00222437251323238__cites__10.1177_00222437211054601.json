@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited work is a broad conceptual/editorial synthesis on multimedia data (text, image, audio, video) with no original method or dataset, while the citing paper is a specific single-modality face-image ResNet/SHAP study on celebrity visual potential. With only a DOI match and no in-text citation context, this looks potentially background framing but there is insufficient evidence to safely classify it as an obvious mention-only citation.",
+  "triage_decision": "uncertain"
+}

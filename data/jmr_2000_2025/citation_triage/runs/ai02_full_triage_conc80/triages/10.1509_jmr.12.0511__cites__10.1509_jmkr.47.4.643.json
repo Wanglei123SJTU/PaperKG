@@ -1,0 +1,4 @@
+{
+  "rationale": "The pair is not an obvious incidental mention: the cited paper (“Determining Influential Users in Internet Social Networks”) directly addresses identifying influential users with a Bayesian approach, which aligns closely with the citing paper’s core problem of seeding and influential-node selection in social networks. Given this strong construct/method overlap (influence identification, Bayesian network modeling, targeting/seed performance) and no evidence it is merely a peripheral list citation, this should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

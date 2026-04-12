@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper explicitly states it links/nests prior balance approaches within its COBA bundle-choice framework and uses hierarchical Bayes estimation, while the cited paper’s core contribution is a hierarchical Bayes balance model for assortment choice. Given this close conceptual and methodological overlap (bundle/assortment choice, balance effects, HB heterogeneity), the citation is plausibly foundational/method-relevant rather than a generic mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

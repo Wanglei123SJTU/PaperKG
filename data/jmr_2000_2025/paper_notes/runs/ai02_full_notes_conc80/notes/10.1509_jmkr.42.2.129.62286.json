@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Shows analytically that the St. Petersburg paradox can be explained by loss aversion with piecewise linear utility and a finite payout cap, so concave utility is sufficient but not necessary.",
+    "Emphasizes that decision isolation (narrow framing) is a necessary condition for loss aversion to have strong empirical effects in repeated choice settings.",
+    "Highlights a research agenda on the mechanism of loss aversion, including whether it is a stable preference component or a fear-based judgment error."
+  ],
+  "context": "The paper is a conceptual note on risky choice in behavioral economics, centered on prospect theory and loss aversion. It uses the St. Petersburg gamble and evidence from a repeated intertemporal savings experiment to discuss how loss aversion operates in practice.",
+  "design_and_data": "The note combines theoretical argument with an algebraic illustration of the St. Petersburg gamble using a piecewise linear gain-loss utility with loss-aversion coefficient lambda and a finite maximum payout M. Under lambda = 2, the derived maximum buying prices are low (e.g., about $17.55 for M about 30 and $22.71 for M about 40), showing low willingness to pay without concave utility. It also reports evidence from Chua and Camerer (2003): participants made consumption decisions over 30 periods across seven repeated lifetimes with stochastic lognormal income, yielding 13,701 period-level observations. A jackknife regression of actual versus optimal period utility gives slope .86 in gains and .33 in losses, and participants chose negative utility only 21% of the times when negative utility was optimal.",
+  "focal_constructs": [
+    "loss aversion",
+    "reference dependence",
+    "St. Petersburg paradox",
+    "piecewise linear utility",
+    "decision isolation",
+    "myopic loss aversion",
+    "probability weighting",
+    "fear-based emotional response"
+  ],
+  "main_findings": [
+    "Low buying prices for the St. Petersburg gamble do not uniquely imply locally concave utility; loss aversion with a finite payout limit can also generate modest prices.",
+    "In the savings experiment, participants were reluctant to accept period-by-period losses even when optimal, choosing negative utility in only 21% of such periods.",
+    "Estimated sensitivity differed by domain (slope .86 for gains versus .33 for losses; ratio 2.86), consistent with stronger response to losses and broadly in line with typical loss-aversion magnitudes."
+  ],
+  "one_line_summary": "This note argues that loss aversion is psychologically grounded and theoretically parsimonious, and shows through a St. Petersburg derivation and savings-task evidence that many risk behaviors can be explained without relying solely on concave utility.",
+  "relation_to_prior_work": "challenges the orthodox expected-utility reading of Bernoulli that low St. Petersburg valuations require concave utility, by demonstrating an alternative loss-aversion account with finite payout limits. extends prospect-theory discussion by stressing narrow framing as a practical condition for observing strong loss-aversion effects.",
+  "research_gap": "The paper argues that economics often over-attributes risk attitudes to utility concavity and treats the St. Petersburg paradox as proving that view, leaving underexplored loss-aversion-based explanations. It also identifies unresolved mechanism questions, including whether loss aversion is a stable preference or a fear-driven overreaction and how its magnitude varies across contexts.",
+  "research_question": "Can loss aversion, grounded in reference dependence, explain risk-averse valuations such as the St. Petersburg paradox without assuming globally concave utility? How important is decision isolation for producing observed loss-averse behavior, and is loss aversion better interpreted as stable preference or as an emotional fear response?"
+}

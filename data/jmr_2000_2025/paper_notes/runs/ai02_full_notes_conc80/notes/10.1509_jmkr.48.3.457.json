@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides an updated meta-analysis of brand-level direct-to-consumer advertising elasticities using a much larger evidence base than prior work (56 studies; 751 short-term estimates).",
+    "Adds a meta-analytic assessment of long-term advertising elasticity (402 estimates) and compares short-run and long-run patterns.",
+    "Reports new empirical generalizations on advertising elasticity across time, product/market context, data choices, and modeling decisions."
+  ],
+  "context": "The paper focuses on selective-demand effects of direct-to-consumer brand advertising, not category-expansion effects. It pools evidence across consumer product settings (including pharmaceuticals, durables, food, nonfood, and services) and multiple regions (North America, Europe, and others).",
+  "design_and_data": "The authors compiled econometric market-data studies of brand-level advertising elasticity via citation tracking from Assmus et al. (1984), keyword searches, and reference-list reviews. The final database contains 751 short-term elasticities from 56 publications (1960-2008) and 402 long-term elasticities from 38 studies; long-term elasticities were taken directly or computed from reported carryover/ad-stock parameters when needed. They coded 22 potential moderators covering time/recession, product/geography, data characteristics, omitted variables, model characteristics, and publication status. The main meta-analysis uses a hierarchical linear model with study-specific random effects, with additional checks for elasticity-estimation uncertainty, collinearity, and selected interaction effects.",
+  "focal_constructs": [
+    "short-term brand advertising elasticity",
+    "long-term advertising elasticity",
+    "time trend in advertising effectiveness",
+    "recession effects",
+    "product type and life cycle stage",
+    "data interval and data aggregation",
+    "advertising measure (monetary, GRP, relative)",
+    "endogeneity and omitted-variable bias"
+  ],
+  "main_findings": [
+    "The mean short-term advertising elasticity is 0.12 (median 0.05) and the mean long-term elasticity is 0.24 (median 0.10), both lower than prior meta-analytic benchmarks.",
+    "Advertising elasticity declines over time and is higher for durable goods, growth-stage products, Europe (vs North America), and GRP-based advertising measures; short-term elasticity is higher for television than print, but long-term elasticity is higher for print than television.",
+    "Advertising elasticity is not lower during recessions (and long-term elasticity is positively related to recession), while omitting lagged sales and distribution tends to increase estimated elasticity and omitting endogeneity tends to reduce short-term estimates."
+  ],
+  "one_line_summary": "Using a meta-analysis of 751 short-term and 402 long-term brand-level econometric elasticities, the paper shows that advertising effects are smaller than earlier benchmarks and vary systematically by period, product context, data choices, and model specification.",
+  "relation_to_prior_work": "extends Assmus, Farley, and Lehmann (1984) by updating the evidence with post-1981 studies, a larger sample, and broader moderator analysis, including long-term elasticity results. It also complements prior advertising reviews by providing quantitative empirical generalizations from econometric elasticity estimates.",
+  "research_gap": "The main prior benchmark meta-analysis on advertising elasticity (Assmus, Farley, and Lehmann 1984) covered studies only through 1981 and may not reflect later changes in competition, media environment, and econometric methods. The paper addresses this need by re-estimating empirical generalizations with newer studies and additional moderators.",
+  "research_question": "How large are short-term and long-term brand-level direct-to-consumer advertising elasticities in econometric market-data studies? Which market, product, data, and model factors explain variation in those elasticities, including whether elasticity has changed over time and during recessions?"
+}

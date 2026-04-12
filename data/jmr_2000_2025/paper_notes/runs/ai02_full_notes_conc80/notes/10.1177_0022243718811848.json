@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces an integrative conceptual framework that distinguishes three forms of survey misresponse: negation misresponse, polar opposite misresponse, and reversal misresponse.",
+    "Proposes two broad mechanism classes for these misresponses, separating lack of motivation to process items (inattention) from lack of ability to comprehend complex items within limited effort (difficulty).",
+    "Develops and demonstrates a testing approach that uses item-mean bias and cross-classified factor-loadings, and adds eye-tracking evidence to diagnose underlying misresponse processes."
+  ],
+  "context": "The paper studies response inconsistency in multi-item survey scales, especially scales that mix regular, negated, polar opposite, and reverse-keyed statements. Empirical tests use questionnaire responses across multiple heterogeneous constructs in an online panel and a lab eye-tracking setting.",
+  "design_and_data": "Two empirical studies were conducted with four-item scales where the first three items were regular reference items and the fourth item was randomly assigned as regular (RG), negated regular (nRG), polar opposite (PO), or negated polar opposite (nPO). Study 1 used a U.S. online panel (N = 523) and respondents completed 8 randomly sampled scales from a larger set. Study 2 used lab data with eye tracking from university students (usable N = 88 after exclusions) who completed 16 scales; gaze durations were analyzed for target items and specific areas of interest. The authors estimated cross-classified Bayesian models, including an ordinal factor model for loadings and a cross-classified model for gaze duration with controls (word count, serial position, and overall completion time).",
+  "focal_constructs": [
+    "reversal misresponse",
+    "negation misresponse",
+    "polar opposite misresponse",
+    "respondent inattention",
+    "response difficulty",
+    "factor loading attenuation",
+    "eye gaze duration"
+  ],
+  "main_findings": [
+    "Items with polar opposite core concepts most consistently contributed to misresponse, showing biased item responses and depressed factor loadings across studies.",
+    "Reversal misresponse was supported in Study 1 (especially via lower loadings for reversed items) but was not reliably replicated in Study 2, and negation showed little consistent harmful effect on response quality.",
+    "Eye-tracking evidence indicated that respondents often processed negated and some polar opposite items longer, and polar opposite misresponse could persist despite this extra processing, supporting difficulty-based rather than purely inattention-based explanations."
+  ],
+  "one_line_summary": "The paper shows that survey misresponse is not just a reversed-item problem by separating negation, polar opposite, and reversal effects and finding that processing difficulty, especially for polar opposite concepts, is a key driver of inconsistency.",
+  "relation_to_prior_work": "extends prior work on reverse-worded items by disentangling reversal effects from negation and polar opposite core-concept effects and by mapping these forms to inattention versus difficulty mechanisms. It also extends existing survey-method research by combining factor-loading diagnostics with eye-tracking process data.",
+  "research_gap": "Prior research documented problems with reverse-keyed items but rarely separated three distinct misresponse forms, often confounding reversal with negation or polar opposite wording. The literature also lacked an integrative mechanism account and a practical procedure to identify which misresponse forms are present and why.",
+  "research_question": "How can misresponse in multi-item surveys be conceptually decomposed into negation, polar opposite, and reversal forms, and what mechanisms generate each form? Specifically, do these misresponses mainly arise from respondent inattention or from comprehension difficulty, and can they be detected through item-score bias, factor-loading patterns, and eye-movement evidence?"
+}

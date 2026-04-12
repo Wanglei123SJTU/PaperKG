@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and tests a mechanism in which expense forecasts rely on cognitively accessible typical expenses, producing mode-based predictions that understate mean spending when expenses are right-skewed.",
+    "It introduces a simple atypical intervention (prompting consumers to consider why upcoming expenses might be different than usual) and shows that it can improve prediction accuracy.",
+    "It offers a more comprehensive characterization of expense prediction bias, including evidence on its magnitude, persistence, and prevalence in longitudinal field data and in monthly predictions."
+  ],
+  "context": "The paper studies consumer budgeting and spending forecasts for upcoming weeks and months, including categories such as groceries and online shopping. Evidence comes from lab and field settings, including Canadian credit union members, a nationally representative U.S. sample, and U.K. users of a personal finance app.",
+  "design_and_data": "The article reports ten studies (N = 6,044) using think-aloud protocols, preregistered experiments, surveys, and field studies. A five-week longitudinal field study with 187 Vancity credit union members collected repeated weekly predictions and expense reports, with random assignment to an atypical prompt in week 5. A nationally representative U.S. study (n = 1,091; effective n = 1,048 after exclusions) compared control, typical, and atypical prompts and included an atypical-expense listing task; preregistered Prolific experiments (n = 749 and n = 400) tested accessibility versus diagnosticity and experimentally manipulated skewness. A field experiment with 1,738 Money Dashboard users randomized prompt and category (online vs grocery) and compared predictions with subsequent app-tracked spending.",
+  "focal_constructs": [
+    "expense prediction bias",
+    "cognitive accessibility",
+    "typicality",
+    "distributional skewness",
+    "mode versus mean",
+    "atypical intervention",
+    "prediction accuracy"
+  ],
+  "main_findings": [
+    "Consumers systematically underpredicted future expenses, and they predicted future expenses would be more typical than past expenses.",
+    "Prompting consumers to consider reasons their expenses might be different than usual increased predicted spending and frequently neutralized underprediction without reliably changing actual spending.",
+    "When expense distributions were more positively skewed, predictions were lower and less accurate relative to the mean, and the atypical intervention was more effective in a higher-skew category (online shopping) than a lower-skew category (grocery shopping)."
+  ],
+  "one_line_summary": "Across ten studies, the authors show that consumers underpredict spending because accessible typical expenses anchor forecasts near the mode of positively skewed expense distributions, and that a brief atypical-expense prompt improves accuracy.",
+  "relation_to_prior_work": "challenges the dominant view that prediction errors mainly reflect neglect of past experience, showing that consumers can rely on typical past expenses and still be biased. It introduces distributional skewness as a key boundary condition for both prediction bias and intervention effectiveness, and positions the atypical prompt as a targeted alternative to broader unpacking approaches.",
+  "research_gap": "Prior research documented that consumers often underpredict expenses, but the mechanism producing this bias and a practical corrective intervention were not clearly established. The paper also argues that prediction research has given limited attention to how distributional skewness shapes forecast accuracy.",
+  "research_question": "Why do consumers systematically underpredict their future expenses? The paper tests whether people base forecasts on easily accessible typical expenses (yielding mode-based predictions in skewed distributions) and whether prompting consideration of atypical expenses can raise predictions and improve accuracy."
+}

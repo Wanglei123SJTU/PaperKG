@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops an empirically realistic infinite-horizon model of dynamic price competition with differentiated products, random utility, and imperfect lock-in under Markov perfect equilibrium.",
+    "It shows how to calibrate switching costs from consumer panel data in a way that separates state dependence from persistent heterogeneity in brand preferences.",
+    "It claims that the usual presumption that switching costs soften competition need not hold at empirically relevant magnitudes, because customer-acquisition incentives can dominate harvesting incentives."
+  ],
+  "context": "The empirical setting is frequently purchased branded packaged goods, specifically refrigerated orange juice and 16-ounce tub margarine. Data come from ACNielsen household purchase panels in a large Midwestern U.S. city, where brand inertia is interpreted as a psychological switching cost.",
+  "design_and_data": "The authors specify a dynamic oligopoly pricing model in which firms set prices over an infinite horizon and consumers have logit demand with a loyalty state and a switching-cost parameter. They estimate heterogeneous demand with a hierarchical Bayesian mixture-of-normals model using MCMC on household panel data (1993-1995), using 355 households for orange juice and 429 for margarine (households with at least two category purchases). Identification of switching costs comes from long purchase histories and frequent price variation that induces switching. They then compute Markov perfect equilibrium prices (including steady states) using clustered consumer types and run comparative statics that scale switching costs and compare to a zero-switching-cost benchmark.",
+  "focal_constructs": [
+    "switching costs",
+    "state dependence",
+    "brand loyalty",
+    "dynamic oligopoly pricing",
+    "differentiated products",
+    "imperfect lock-in",
+    "Markov perfect equilibrium",
+    "consumer heterogeneity"
+  ],
+  "main_findings": [
+    "Estimated switching-cost premiums average about 19% of price for margarine and 15% for orange juice.",
+    "In calibrated equilibrium simulations, introducing switching costs lowers steady-state prices relative to the no-switching-cost case, with price reductions up to about 18% in their simulations.",
+    "Only very high switching-cost levels begin to reverse this pattern; at empirically estimated levels and even when scaled up substantially, most product prices and several brand profits remain below the zero-switching-cost benchmark."
+  ],
+  "one_line_summary": "Using a dynamic differentiated-products oligopoly calibrated to orange juice and margarine panel data, the paper finds that empirically plausible switching costs can intensify competition and lower equilibrium prices rather than raise them.",
+  "relation_to_prior_work": "challenges the strong presumption in the switching-cost literature that switching costs make markets less competitive by demonstrating a dominant investment-for-acquisition force in an empirically grounded dynamic model. It also goes beyond prior empirical brand-loyalty studies that documented state dependence but did not derive equilibrium pricing implications, and uses a less stylized setup than earlier theoretical counterexamples.",
+  "research_gap": "Prior theory often studied switching costs in stylized settings (for example homogeneous products, perfect lock-in, or analytically convenient structures) that may not match observed switching in differentiated branded markets. Prior empirical state-dependence work documented loyalty but largely did not analyze its equilibrium pricing implications.",
+  "research_question": "Do switching costs necessarily make markets less competitive, or can they lower equilibrium prices in a realistic dynamic oligopoly with differentiated products and imperfect lock-in? Using switching-cost magnitudes inferred from household panel data, how do equilibrium prices and profits compare with a market that has no switching costs?"
+}

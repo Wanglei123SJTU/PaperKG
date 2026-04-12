@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops and estimates what the authors describe as a disaggregate clickstream model of detailed within-site browsing behavior and its dynamics in the marketing literature.",
+    "It proposes a type II tobit framework that jointly models stay/exit page-request decisions and page-view durations while handling censored last-page durations in server log-file data.",
+    "It shows that aggregate Web metrics can diverge from individual-level inferences, highlighting the need to control for cross-sectional heterogeneity in site analysis."
+  ],
+  "context": "The empirical setting is a major commercial automotive Web site where visitors research vehicle configurations, view fixed no-haggle prices, and can place vehicle orders for offline completion. The data are server log files from October 1999.",
+  "design_and_data": "The authors process full server logs (World Wide Web Consortium extended format), identify unique users via cookies, remove bots/admin traffic, aggregate hits to page views, and define sessions using a 30-minute inactivity rule. They exclude single-page visits and then draw a random sample of 5000 visitors from the second half of October while retaining each selected visitor's full-month behavior; the final estimation sample contains 6630 sessions and 40,560 page requests. They estimate hierarchical Bayes models with MCMC for a type II tobit specification: a binary probit for additional page request versus exit and a log-normal equation for page-view duration, allowing for possible error correlation and individual heterogeneity. Covariates include visit depth, repeat visits, and controls such as bytes transferred, server response time, errors, reloads, dynamic content, and task-related variables.",
+  "focal_constructs": [
+    "within-site browsing behavior",
+    "page-request stay/exit decisions",
+    "page-view duration",
+    "visit depth",
+    "repeat visitation",
+    "learning across visits",
+    "within-site lock-in (stickiness)",
+    "cross-sectional heterogeneity"
+  ],
+  "main_findings": [
+    "Visitors' page-request propensity changes dynamically with both visit depth and repeat visitation, and page-view duration also changes with visit depth.",
+    "Repeat visits are associated with lower page-request propensity (fewer page views) but no significant reduction in page-view duration.",
+    "Aggregate-level browsing statistics can give substantially different directional inferences than disaggregate individual-level modeling, indicating the importance of controlling for heterogeneity."
+  ],
+  "one_line_summary": "Using clickstream logs from an automotive site, the paper estimates a hierarchical type II tobit model showing dynamic within- and across-visit browsing patterns, including fewer page requests on repeat visits without shorter per-page viewing times.",
+  "relation_to_prior_work": "extends prior Web usage modeling by combining disaggregate page-request and page-view-duration decisions in one covariate-driven framework with within-visit and across-visit dynamics. It addresses limitations noted in earlier work that focused on page-count distributions or session duration alone by separating how repeat usage affects number of pages versus time per page. It also answers calls to study activity within a site visit rather than only repeat visits or across-site behavior.",
+  "research_gap": "The paper states that, to the authors' knowledge, marketing had no disaggregate clickstream model of detailed within-site browsing behavior and its dynamics. Prior approaches did not jointly model additional page requests and per-page viewing time while handling server-log censoring and controlling for page/task covariates.",
+  "research_question": "How can individual-level within-site browsing behavior be modeled from server log clickstream data when last-page durations are censored? Specifically, how do visit depth and repeat visitation affect users' decisions to request another page versus exit and the time spent viewing each page, after controlling for page and system factors?"
+}

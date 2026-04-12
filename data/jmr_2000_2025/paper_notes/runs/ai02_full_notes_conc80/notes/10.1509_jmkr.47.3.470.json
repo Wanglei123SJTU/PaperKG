@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces a modeling framework for multiple agents' simultaneous discrete choices with more than two alternatives using observed family consumption behavior over time.",
+    "Shows that the model can separately identify each member's intrinsic utility and utility from joint consumption, and quantify dyadic interaction strengths for managerial counterfactuals.",
+    "Provides an empirical test of alternative family group decision heuristics (Harsanyi, MIN, MAX) instead of assuming a single rule."
+  ],
+  "context": "The empirical setting is household television viewing, where father, mother, and child make simultaneous decisions about whether TV is on, which of five program types is played, and who watches. The sample focuses on single-parent and two-parent families with at least one child and one television set.",
+  "design_and_data": "The paper specifies a conditional autologistic model for three family members and multiple program alternatives under a one-TV-set constraint, with household-level heterogeneity in intrinsic preferences, state dependence, and dyadic interaction parameters. Data were collected from September 30 to October 27, 2002 for 187 families (56 single-parent and 131 two-parent) with at least one child aged 2-18. The analysis uses quarter-hour observations from 6:30 PM to 10:15 PM on weekdays over four weeks, including 18,940 viewing occasions and 59,600 no-viewing occasions. Estimation uses hierarchical Bayesian MCMC (40,000 iterations, 20,000 burn-in) and model performance is compared with four benchmark models.",
+  "focal_constructs": [
+    "intrahousehold behavioral interaction",
+    "simultaneous discrete choice",
+    "joint consumption utility",
+    "intrinsic preference",
+    "autologistic conditional probability model",
+    "group decision heuristics (Harsanyi, MIN, MAX)",
+    "state dependence"
+  ],
+  "main_findings": [
+    "Behavioral interactions are significantly positive for father-mother, father-child, and mother-child dyads across the five program types; mother-child interactions are generally stronger than father-child, and father-mother interactions are strongest for most types except kids programs.",
+    "There is substantial heterogeneity in intrinsic preferences and interaction strengths across families, dyads, program types, and demographics, and all three member types show significant positive state dependence in program viewing.",
+    "For three-member joint viewing occasions, the Harsanyi heuristic predicts choices better (72%) than MIN (52%) and MAX (28%), but there is meaningful family-level heterogeneity in heuristic use; under Harsanyi, average weights are father 0.31, mother 0.16, child 0.53."
+  ],
+  "one_line_summary": "The paper develops and estimates a hierarchical Bayesian autologistic model of family members' simultaneous TV-viewing choices to recover intrinsic preferences, joint-consumption effects, and intrahousehold behavioral interactions.",
+  "relation_to_prior_work": "extends prior work on preference interdependence, simultaneous-move discrete games, and family joint decision models by treating behavioral interaction as dependence on others' realized choices and by providing a tractable conditional approach for more than two family members and more than two alternatives.",
+  "research_gap": "Prior research had examined preference influence or assumed specific group decision processes, but had not modeled family members' simultaneous participation choices that generate joint consumption. Existing simultaneous discrete-game approaches were difficult to apply in settings with more than two players and more than two alternatives.",
+  "research_question": "How can intrahousehold behavioral interaction be modeled when multiple family members make simultaneous discrete choices and each member's utility depends on others' choices? In household television viewing, what are members' intrinsic preferences versus joint-consumption utilities, and which family decision heuristics are consistent with observed joint viewing outcomes?"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper studies how assertive vs. nonassertive praise/scolding affects behavior, which is only indirectly related to the citing paper’s main contribution (the PARA text-paralanguage detection algorithm and its sentiment/engagement validity tests). The citing note highlights grounding in TPL and benchmarking against tools like LIWC/VADER, with no explicit sign this 2016 paper is a core method, benchmark, or direct comparison source; and the matched evidence is only a DOI record without citation context. So it is not safe to drop outright, but evidence is too sparse to clearly keep.",
+  "triage_decision": "uncertain"
+}

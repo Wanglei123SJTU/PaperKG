@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper provides a consistent, apples-to-apples set of 456 category-quarter price elasticity estimates by applying the same household-level demand framework across 19 categories and 24 quarters.",
+    "It documents that average countercyclical price sensitivity masks substantial cross-category heterogeneity, so blanket claims about recessions and price sensitivity are misleading.",
+    "It evaluates multiple category-level explanations for elasticity cyclicality and argues that share-of-wallet is the most plausible driver relative to perishability, cross-channel substitution, and concentration-based market power explanations."
+  ],
+  "context": "The empirical setting is U.S. grocery consumer packaged goods, using IRI household scanner panel data from Eau Claire, Wisconsin and Pittsfield, Massachusetts, from 2001 to 2006. The analysis covers 19 categories such as soft drinks, coffee, detergents, condiments, paper products, and snacks.",
+  "design_and_data": "The authors build category-level samples from IRI BehaviorScan data, yielding 1,871,819 purchase observations across 121 brands (including private labels) over 24 quarters. For each category, they estimate a nested random-coefficients logit model with category incidence and brand choice, quarter-specific price coefficients, and control functions for price endogeneity using instruments based on brand prices in other markets. This first stage produces 456 comparable category-quarter elasticity measures (total, primary, and secondary). In a second stage, they relate these elasticities to quarterly GDP growth using correlations and OLS regressions with category fixed effects and quarter-clustered standard errors.",
+  "focal_constructs": [
+    "price elasticity",
+    "price sensitivity cyclicality",
+    "GDP growth",
+    "share-of-wallet",
+    "category purchase incidence",
+    "brand choice",
+    "price endogeneity"
+  ],
+  "main_findings": [
+    "Price sensitivity is countercyclical on average, with elasticity tending to rise when macroeconomic growth weakens.",
+    "Cyclicality varies widely by category: seven categories are countercyclical, six are procyclical, and six are noncyclical, and the cyclicality pattern is strongly related to a category's average elasticity level.",
+    "Share-of-wallet best explains the cross-category cyclicality pattern: adding share-of-wallet controls makes the average-elasticity x GDP-growth relationship small and insignificant, while perishability has partial explanatory power and substitution and concentration explanations receive little support."
+  ],
+  "one_line_summary": "Using household scanner data and consistent demand models across 19 grocery categories (2001-2006), the paper finds that price sensitivity is countercyclical on average but highly heterogeneous across categories, with share-of-wallet emerging as the most likely driver of that heterogeneity.",
+  "relation_to_prior_work": "extends prior business-cycle and elasticity research that often used aggregate data by estimating household-level demand with endogeneity controls across many categories in a common framework. It also differs from related cross-category work by producing directly comparable elasticity estimates over time and separating primary and secondary demand effects.",
+  "research_gap": "The paper states that little is known about a systematic relationship between price sensitivity and the macroeconomic environment, despite frequent recession-related claims in practice. It also argues that prior cross-category elasticity evidence is hard to interpret because data and methods are often not comparable across categories and time.",
+  "research_question": "How does consumer price sensitivity change with macroeconomic growth, and is price elasticity generally procyclical or countercyclical? The paper also asks why the cyclicality of price sensitivity differs across product categories, focusing on category characteristics such as share-of-wallet, perishability, substitution possibilities, and market concentration."
+}

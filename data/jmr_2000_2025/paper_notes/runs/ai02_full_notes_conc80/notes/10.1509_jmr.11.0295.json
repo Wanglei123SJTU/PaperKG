@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops a hierarchical Bayesian bivariate Tobit hidden Markov model that explicitly recovers customer-level hidden buyer-seller relationship states using a forward-backward Gibbs sampler.",
+    "It separates and quantifies short-term marketing returns on immediate demand and long-term marketing returns through state transitions, providing exact ROMI measures in a B2B setting.",
+    "It incorporates individual-level heterogeneity and addresses endogeneity in marketing contacts by modeling contact intensity as a function of customer-specific response parameters."
+  ],
+  "context": "The empirical setting is a multinational high-tech B2B firm selling two product categories to about 250 midmarket business customers. The application focuses on monthly direct mail and telephone contacts and irregular business purchasing behavior from 1999 to 2004.",
+  "design_and_data": "The study uses monthly transaction and contact data for approximately 250 firms from 1999-2004, including purchase amounts in two categories, marketing contacts, and firm profile variables. The authors estimate a three-state hierarchical Bayesian bivariate Tobit HMM with a transition model driven by marketing contacts and lagged purchase indicators, and an emission model for censored purchase amounts. Hidden states are recovered with a forward-backward Gibbs sampler, and endogeneity is handled via a Poisson model for marketing contacts linked to individual response parameters. Model performance is compared with five benchmarks on a 50-customer holdout sample.",
+  "focal_constructs": [
+    "buyer-seller relationship states",
+    "return on marketing investment (ROMI)",
+    "short-term marketing effects",
+    "long-term marketing effects",
+    "marketing contacts (direct mail and telephone calls)",
+    "state transition probabilities",
+    "customer-level heterogeneity",
+    "endogeneity of marketing contacts"
+  ],
+  "main_findings": [
+    "The proposed model outperforms benchmark models in predictive fit, with a 97% hit ratio versus lower hit ratios for alternative HMM, distributed lag, and Koyck specifications.",
+    "Marketing contacts have heterogeneous effects: for most customers, direct mail and telephone calls increase immediate purchases and increase transition probabilities to higher relationship states, while cross-mode effects differ by category (substitution for Category I, complementarity for Category II in short-term purchase response).",
+    "Without marketing contacts, customers tend to regress to the lowest relationship state, and estimated ROMI is positive but varies by channel and horizon, with telephone calls showing higher short-term Category I return than direct mail."
+  ],
+  "one_line_summary": "Using transaction data from a high-tech B2B firm, the paper recovers hidden buyer-seller relationship states with a hierarchical Bayesian bivariate Tobit HMM to estimate heterogeneous short- and long-term ROMI of direct mail and telephone contacts.",
+  "relation_to_prior_work": "extends prior B2B ROMI research by modeling dynamic long-term relationship-state effects together with short-term demand effects using transaction data, addressing limits noted in Palmatier, Gopalakrishna, and Houston (2006). It introduces explicit hidden-state recovery in the HMM framework, contrasting with prior customer-relationship HMM studies that integrated states out.",
+  "research_gap": "Prior B2B ROMI research provides limited guidance on quantifying dynamic long-term effects of relationship marketing and often does not deliver exact return estimates from transactional behavior. In related HMM relationship models, hidden states are often integrated out rather than recovered, limiting state-level measurement and decision support.",
+  "research_question": "How can firms measure ROMI in B2B markets where purchases are irregular and marketing actions may affect both immediate demand and the underlying buyer-seller relationship over time? Can hidden relationship states be recovered from transaction data to separately identify short-term and long-term effects of marketing contacts and improve resource allocation?"
+}

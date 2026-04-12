@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides a theoretical identification analysis for a latent-class nested logit model estimated from store-level aggregate data and derives explicit data requirements for identification.",
+    "It argues that because the model is identified under stated assumptions, maximum likelihood estimates from store data are consistent, so mean absolute deviation converges to zero as sample size grows.",
+    "It offers a large simulation-based assessment of finite-sample recoverability and practical guidance on when store-level data can yield more accurate segmentation estimates."
+  ],
+  "context": "The setting is packaged consumer goods scanner data, contrasting household panel data with store-level point-of-sale aggregates from supermarket and drugstore environments. The analysis focuses on categories where single-unit purchase per trip is a reasonable assumption, using store-week counts of no-purchase and brand purchases plus marketing variables.",
+  "design_and_data": "The authors formulate a latent-class nested logit model for purchase incidence and brand choice and derive identification conditions via Fisher information arguments for both household and store likelihoods. They then run a large simulation experiment (about 60,000 store data sets) with six design factors, 22 sample sizes (350 to 13,450 panelists), and repeated replications; each cell estimates both household-data and store-data versions of the correctly specified model. Simulated data span 100 weeks of marketing-mix variation, with households shopping on a random subset of weeks, and store data are created by aggregating trip outcomes to multinomial store-week counts. Estimation accuracy is evaluated with relative MAD, and convergence terms are estimated by regressing MAD on 1/sqrt(n) and 1/n.",
+  "focal_constructs": [
+    "latent-class nested logit model",
+    "segmentation structure recoverability",
+    "store-level aggregate scanner data",
+    "household panel data",
+    "model identification",
+    "mean absolute deviation",
+    "finite-sample convergence",
+    "purchase incidence and brand choice"
+  ],
+  "main_findings": [
+    "Under specific assumptions and correct household-level specification, the latent-class nested logit parameters are locally identifiable from store-level aggregate data, with stricter data requirements than household data.",
+    "In finite samples, store-data estimates are much less accurate than household-data estimates, and MAD declines much more slowly; obtaining reasonably small errors often requires impractically large transaction volumes.",
+    "Estimation accuracy with store data improves with greater heterogeneity, higher price variation, more brands, and the presence of a display variable, but worsens as the number of segments increases, and mean effects are recovered better than segment-specific effects."
+  ],
+  "one_line_summary": "The paper shows that latent-class segmentation can be identified from store-level aggregate data in theory, but simulations indicate that practical recovery is often poor because finite-sample errors shrink very slowly relative to household-panel estimation.",
+  "relation_to_prior_work": "extends prior work that estimated latent-class demand on aggregate data by formally deriving when identification holds and what data variation is required, rather than taking identification as given. It also benchmarks the practical precision gap between store and household data through large-scale simulations.",
+  "research_gap": "Prior marketing studies had begun estimating latent-class models with aggregate store data, but there was little detailed evidence on whether disaggregate segmentation structure is actually recoverable and how accurate such estimates are in realistic samples. The paper targets this unresolved identification-versus-practice gap.",
+  "research_question": "To what extent can latent-class consumer response segmentation be recovered when only store-level aggregate data are available instead of household identifiers? The paper asks both whether the model is theoretically identifiable under clear conditions and whether finite-sample estimation accuracy is good enough for practical use."
+}

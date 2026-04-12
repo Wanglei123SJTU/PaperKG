@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper shows that awe in marketing communications can be counterproductive for limited edition products, despite its frequent use in practice.",
+    "It identifies reduced desirability of exclusivity as the process explaining why awe lowers limited edition product preferences.",
+    "It specifies actionable boundary conditions by showing that message framing (quality-focused appeals, connection cues, and cause-related marketing cues) can mitigate or reverse the negative awe effect."
+  ],
+  "context": "The research examines marketing communications for limited edition products across ad contexts and product categories. Evidence includes a real Facebook ad campaign for a restaurant offer and a consumer choice setting in a metaverse simulation, alongside multiple controlled experiments.",
+  "design_and_data": "The authors report a pilot analysis of iSpot.tv advertising data (226 limited edition ads and 457 comparable non-limited edition ads) with coder-rated awe and engagement outcomes. They then run nine studies: a field experiment on Facebook ads (2 x 2 awe/control x limited edition/non-limited edition; 119,169 impressions, 2,075 clicks) plus lab/online experiments with Prolific and student samples. Experimental studies compare awe with other self-transcendent emotions (elevation, gratitude, compassionate love), test mediation via desirability of exclusivity, and test moderators via consumption motive framing (status vs quality), connection-focused messaging, and cause-related marketing cues. A final study tests product choices in an awe-eliciting versus control metaverse environment.",
+  "focal_constructs": [
+    "awe in marketing communications",
+    "limited edition product preferences",
+    "desirability of exclusivity",
+    "self-transcendent emotions",
+    "message-product incongruity",
+    "consumption motive framing (status vs quality)",
+    "connection-focused promotional cues",
+    "cause-related marketing cues"
+  ],
+  "main_findings": [
+    "Across studies, awe generally reduced engagement, attitudes, purchase intentions, and choices for limited edition products relative to comparison emotions or control conditions.",
+    "The negative awe effect on limited edition evaluations was mediated by lower desirability of exclusivity as a product attribute.",
+    "When limited edition promotions were reframed to fit awe (quality-focused framing, connection-to-world cues, or cause-related marketing cues), the negative effect was attenuated or reversed, increasing limited edition evaluations relative to non-limited edition options in those conditions."
+  ],
+  "one_line_summary": "Across field, experimental, and metaverse studies, the paper finds that awe in marketing communications usually lowers preferences for limited edition products by reducing the appeal of exclusivity, unless message framing restores fit.",
+  "relation_to_prior_work": "extends research on self-transcendent emotions and limited edition consumption by showing that awe has a distinct, not generic, effect versus elevation, gratitude, and compassionate love in this domain.",
+  "research_gap": "Although awe is widely used in promotions for limited edition products, prior research had not directly examined when and how awe helps or harms these campaigns. The paper also addresses a gap in distinguishing awe from other self-transcendent emotions in consumer decision contexts.",
+  "research_question": "How does awe in marketing communications affect consumer engagement and preferences for limited edition products? Through what mechanism does this effect occur, and under what framing conditions can the effect be mitigated or reversed?"
+}

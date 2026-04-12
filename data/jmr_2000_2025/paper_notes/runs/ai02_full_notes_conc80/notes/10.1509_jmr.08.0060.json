@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper identifies visual cues and the availability of comparison brands as key decision-context drivers of how consumers evaluate brand extensions.",
+    "It proposes and supports a mechanism in which these context cues make extension representations more concrete, increasing the weight of parent brand quality relative to brand-extension fit.",
+    "It shows managerial implications for extension testing and communication by arguing that mismatched testing contexts can misestimate extension potential."
+  ],
+  "context": "The studies examine consumer evaluations of real-brand extensions across everyday product categories such as deodorant, camping gear, razors, guacamole, and facial moisturizer. Decision context is manipulated to reflect common shopping variations, including whether consumers see product pictures and whether they evaluate an extension in isolation or alongside competing brands.",
+  "design_and_data": "The paper reports nine experiments manipulating visual cues, comparison format, and construal mindset in brand extension judgments. Participants came from college subject pools, a national online panel, and passersby at a public transit station, and completed hypothetical choices or evaluations between pairs in which one extension came from a higher-quality but lower-fit brand and the other from a lower-quality but higher-fit brand. Pretests established perceived brand quality and brand-extension fit differences for target pairs. Process evidence includes behavioral-identification mindset measures, direct mindset induction tasks, thought listings coded for quality versus fit content, and mediation tests.",
+  "focal_constructs": [
+    "brand-extension fit",
+    "parent brand quality",
+    "decision context",
+    "visual product cues",
+    "brand comparisons",
+    "concrete versus abstract mindset",
+    "extension preference"
+  ],
+  "main_findings": [
+    "Adding a nondiagnostic product picture reliably increased preference for extensions of higher-quality but worse-fitting brands across multiple brand-category pairs.",
+    "Making cross-brand comparison easier increased preference for higher-quality, worse-fitting extensions relative to isolated evaluation.",
+    "Pictures and comparisons induced more concrete mindsets, and shifts in quality-focused versus fit-focused thoughts mediated the preference shift from fit toward quality."
+  ],
+  "one_line_summary": "Across nine experiments, the paper shows that product pictures and comparison-friendly choice contexts shift brand extension preferences from better-fit brands to higher-quality brands by inducing more concrete mental construals.",
+  "relation_to_prior_work": "extends prior brand extension research by showing that the relative importance of fit versus parent-brand quality depends on decision-context features, not only brand or consumer characteristics. It builds on construal-level work and Kim and John (2008) by linking context-induced concrete construal to reduced reliance on fit and increased reliance on brand quality.",
+  "research_gap": "Prior research established parent brand quality and brand-extension fit as central drivers, with some moderators based on brand and consumer characteristics, but had not directly examined how ordinary decision-environment features shift their relative weight. The paper also argues that marketplace contexts can differ from concept-testing contexts, creating potential prediction errors about extension success.",
+  "research_question": "How do two common features of the decision environment - visual product information and opportunities to compare brands - alter the relative importance consumers place on brand-extension fit versus parent brand quality? Do these context effects occur because such environments induce a more concrete representation of the extension?"
+}

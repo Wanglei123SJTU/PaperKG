@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper develops a supply-chain model with an endogenous ratchet effect in which a retailer may reduce profitable demand-enhancing investment to avoid future wholesale price hikes after profits are observed.",
+    "It shows that a manufacturer can strategically offer an initial wholesale price concession to induce truthful investment behavior, which also mitigates double marginalization.",
+    "It derives disclosure-policy implications showing that mandatory disclosure of underlying demand information can reduce total channel efficiency relative to a no-disclosure regime with dynamic pricing responses."
+  ],
+  "context": "The setting is a repeated manufacturer-retailer supply chain relationship where the retailer has superior demand information and the manufacturer observes realized retail demand/profit. The motivation includes accounting disclosure environments in which aggregate performance is publicly reported while underlying forward-looking demand information is not directly disclosed.",
+  "design_and_data": "The paper is a theoretical two-period game with linear demand, a privately informed retailer, and a manufacturer that sets wholesale prices over time. Market potential is binary (high or low), retailer effort is unobservable and demand-enhancing, and first-period outcomes are used by the manufacturer for Bayesian updating in period 2. The authors solve perfect Bayesian equilibria for three regimes: full wholesale-price commitment, mandatory disclosure of underlying demand information, and no mandatory disclosure with endogenous inference from profits. They also provide an extension with successive two-part tariff contract menus.",
+  "focal_constructs": [
+    "ratchet effect",
+    "information disclosure policy",
+    "signal jamming",
+    "dynamic wholesale pricing discounts",
+    "retailer demand-enhancing investment",
+    "double marginalization",
+    "channel efficiency"
+  ],
+  "main_findings": [
+    "Without mandatory disclosure, high first-period profits induce higher second-period wholesale prices, and this can lead a high-demand retailer to underinvest to conceal information.",
+    "For an intermediate parameter range, the manufacturer optimally sets a discounted first-period wholesale price to induce full information revelation and efficient retailer investment.",
+    "Mandatory disclosure of underlying demand can lower total channel efficiency relative to no disclosure, and under stated conditions dynamic pricing without commitment yields higher channel efficiency than the commitment benchmark and can make both parties better off."
+  ],
+  "one_line_summary": "In a two-period supply-chain game, the paper shows that fear of wholesale-price ratcheting can trigger supplier upfront discounts that improve investment and channel efficiency, so mandatory demand disclosure may perform worse than no disclosure.",
+  "relation_to_prior_work": "extends prior supply chain information-sharing and signal-jamming research by modeling dynamic manufacturer inference from observed retailer profits rather than direct disclosure alone, and challenges the usual view that ratcheting concerns are purely distortionary by identifying conditions where they improve efficiency.",
+  "research_gap": "Existing work emphasizes direct information-sharing choices or treats ratcheting as mainly harmful, but provides less analysis of how mandatory profit disclosure can induce real investment distortions when suppliers infer demand from observed profits. The paper addresses this by studying endogenous ratcheting, supplier pricing responses, and welfare under alternative disclosure regimes.",
+  "research_question": "How does a manufacturer's inability to commit to future wholesale prices, combined with learning from publicly observed retailer profits, affect the retailer's investment and pricing behavior through ratcheting concerns? Does a mandatory disclosure policy for underlying demand information improve or worsen total supply-chain efficiency relative to allowing firms to disclose only realized profits?"
+}

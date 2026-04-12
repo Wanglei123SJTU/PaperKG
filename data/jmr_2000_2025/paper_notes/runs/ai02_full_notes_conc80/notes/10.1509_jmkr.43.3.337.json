@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper explicitly outlines key challenges to importing behavioral economics into marketing, rather than only advocating the approach.",
+    "It emphasizes that parameter estimates should be tied to underlying cognitive processes, learning, and transfer if they are to guide prediction and intervention.",
+    "It contributes a journal cross-citation perspective to argue that disciplinary structure may hinder the integration of psychology-based realism with economics-based formality."
+  ],
+  "context": "The paper is a commentary in marketing on modeling consumer and firm behavior with behavioral economics. It discusses publication and citation patterns across Journal of Consumer Research, Journal of Marketing Research, Marketing Science, and related psychology, economics, and management journals.",
+  "design_and_data": "This is a conceptual commentary rather than a new standalone experiment. It uses illustrative empirical evidence from prior studies, including process-tracing results in sequential bargaining (Johnson et al. 2002) and a field estimate of loss aversion by knowledge in automobile fuel-consumption judgments (Johnson, Gaechter, and Herrmann 2006). It also reports a descriptive cross-citation analysis using 2004 citation shares among three marketing journals and grouped psychology, economics, and management journals (Figure 2).",
+  "focal_constructs": [
+    "behavioral economics principles",
+    "reference dependence and loss aversion",
+    "hyperbolic discounting",
+    "fairness concerns",
+    "limited cognition in games",
+    "parameter stability versus process validity",
+    "heterogeneity by knowledge and experience",
+    "cross-citation fragmentation in marketing"
+  ],
+  "main_findings": [
+    "Behavioral-economics principles are presented as practical plug-and-play replacements for classical assumptions that can improve descriptive accuracy in applied marketing models.",
+    "Examples discussed in the paper indicate that behavioral parameters such as loss aversion and cognitive-depth measures are not uniformly stable, because they vary with knowledge and experience and can change with brief instruction.",
+    "The citation map shows limited integration between major marketing subfields, with Journal of Marketing Research serving as the primary bridge, implying institutional barriers to behavioral-economics cross-fertilization."
+  ],
+  "one_line_summary": "This commentary argues that behavioral-economics assumptions can invigorate marketing models, but progress depends on resolving parameter-process and heterogeneity issues and overcoming fragmentation across marketing research communities.",
+  "relation_to_prior_work": "extends Ho, Lim, and Camerer (2006) by moving from demonstrations of behavioral-economics applications to a diagnosis of implementation challenges in marketing. It also draws on prior process-tracing and loss-aversion evidence to argue that parameterized models need stronger links to cognition, learning, and heterogeneity.",
+  "research_gap": "Although Ho, Lim, and Camerer (2006) demonstrate behavioral-economics applications, this paper argues that unresolved issues remain about what behavioral parameters mean, how stable they are, and how they can support managerial intervention. It also identifies a disciplinary gap, namely weak integration between psychology-based and economics-based marketing research communities.",
+  "research_question": "How can behavioral economics be integrated into marketing modeling in a way that is both behaviorally realistic and formally useful? The paper asks which obstacles must be addressed, including whether behavioral parameters represent stable underlying processes, how heterogeneity and learning should be modeled, and whether current marketing publication structures support cross-fertilization."
+}

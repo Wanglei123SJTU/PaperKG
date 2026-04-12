@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides the first mega-analysis of EEG responses to movie trailers across five independent datasets with a standardized analysis pipeline and a common market outcome measure.",
+    "Shows that gamma-band EEG activity offers incremental predictive value for movie box office success beyond prerelease movie characteristics and self-reported liking, including in out-of-sample prediction.",
+    "Offers initial process evidence that the predictive gamma response is linked to understanding/comprehension of trailer narratives, yielding actionable guidance for trailer optimization."
+  ],
+  "context": "The study is set in movie marketing, using official English-language movie trailers as promotional stimuli and gross U.S. box office revenue as the focal commercial outcome. It examines prerelease prediction of movie performance from neural responses in a neural focus-group style setting.",
+  "design_and_data": "Part 1 reanalyzed raw EEG data from five independent trailer studies (three previously published and two new), totaling 188 participants and 161 trailers. The authors computed seven EEG metrics (alpha, theta, beta, gamma, alpha asymmetry, ISC, and CBC) and estimated linear mixed-effects models with random intercepts for study, controlling for budget, genre, star/director awards, sequel/adaptation status, self-reported liking, and study-design controls. Predictive generalization was tested with fivefold leave-one-study-out cross-validation across Studies 1, 2, 3, 4a, and 4b, comparing models with versus without EEG metrics. Part 2 was a follow-up study with 185 new participants who rated 16 trailers selected to vary in previously measured gamma and alpha responses, followed by factor analysis and multilevel regressions.",
+  "focal_constructs": [
+    "gamma-band EEG activity",
+    "alpha asymmetry",
+    "intersubject correlation (ISC)",
+    "cross-brain correlation (CBC)",
+    "self-reported trailer liking",
+    "gross U.S. box office revenue",
+    "movie characteristics (budget, genre, star power, sequel/adaptation)",
+    "understanding/comprehension of trailer narrative"
+  ],
+  "main_findings": [
+    "Alpha asymmetry and ISC significantly predicted in-sample self-reported liking of trailers, but not market-level box office success.",
+    "Gamma activity was the only EEG metric that significantly predicted gross U.S. box office revenue above and beyond movie characteristics and liking, and adding gamma improved model fit.",
+    "Out-of-sample prediction improved when gamma was included (correlation with actual revenue increased from r=.48 to r=.57), and in the follow-up study higher gamma was associated with greater reported understanding of trailer narrative."
+  ],
+  "one_line_summary": "Using a systematic mega-analysis of five EEG trailer datasets, the paper finds that trailer-evoked gamma activity uniquely and robustly predicts relative movie box office success beyond standard prerelease predictors and liking.",
+  "relation_to_prior_work": "extends prior EEG neuroforecasting research on movie trailers by harmonizing metrics, outcomes, and analyses across multiple independent datasets and by adding stricter out-of-sample validation; it shows that gamma generalizes more consistently than previously reported alternatives such as ISC/CBC or alpha asymmetry.",
+  "research_gap": "Earlier EEG trailer studies used different outcome measures and identified different predictive EEG metrics, making it unclear which metric is reliably informative across datasets. The prior studies also relied largely on smaller samples and in-sample associations, leaving open questions about robustness, generalizability, and incremental value beyond traditional prerelease predictors.",
+  "research_question": "Do EEG metrics elicited by viewing movie trailers consistently predict the commercial success of the promoted movies at the market level? If so, which metric generalizes across independent datasets and adds predictive power beyond movie characteristics and self-reported liking?"
+}

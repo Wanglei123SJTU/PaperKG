@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper is a specific dynamic Bayesian search/pricing model with experiments, while the cited paper is a broad conceptual article on how psychological formal models should be; this topical mismatch suggests the citation could be background framing rather than a direct technical dependency. However, the only match evidence is a DOI-level reference-list hit (no in-text citation context), and the cited article discusses modeling choices (context/heterogeneity/process) that could plausibly inform the citing paper’s modeling stance, so it is not safe to drop.",
+  "triage_decision": "uncertain"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Demonstrates that crowdfunding functions as a market signal that can differentiate products and increase consumer demand beyond objective product characteristics.",
+    "Identifies and tests a dual-process explanation for the crowdfunding effect, combining quality inferences and inferences about reducing marketplace inequality.",
+    "Documents a key boundary condition by showing that the crowdfunding advantage reverses in high-risk product domains, and shows stronger inequality-based effects among consumers who oppose social inequality."
+  ],
+  "context": "The paper studies consumer product markets where funding-source information is visible at the point of evaluation (e.g., crowdfunded vs venture-capital-funded products). The focal setting is reward-based crowdfunding tied to platforms such as Kickstarter, Indiegogo, and The Grommet.",
+  "design_and_data": "The authors report seven studies plus a qualitative interview study with 28 respondents. The experiments use lab and online samples (students, Prolific, MTurk) across product categories including digital notebooks, backpacks, cameras, and ropes, with funding source experimentally manipulated while product information is matched or counterbalanced. Outcomes include incentive-compatible willingness to pay, consequential product choice, and purchase intention, and the studies measure/test mediators (perceived quality, motivation to reduce marketplace inequality) and moderators (product risk, social dominance orientation or inequality primes). Analyses include ANOVA/logit models, bootstrapped mediation, and moderated mediation tests.",
+  "focal_constructs": [
+    "crowdfunding signal",
+    "consumer preference",
+    "perceived product quality",
+    "marketplace inequality and equal opportunity",
+    "perceived product risk",
+    "social dominance orientation",
+    "willingness to pay"
+  ],
+  "main_findings": [
+    "Consumers show higher willingness to pay, choice likelihood, and purchase intention for products labeled as crowdfunded versus products with no funding cue or alternative funding cues (venture capital, bank loan, self-financing), even when objective product attributes are controlled.",
+    "The positive crowdfunding effect is mediated by two inferences: higher perceived product quality and the belief that buying crowdfunded products helps reduce inequality in marketplace opportunity.",
+    "The crowdfunding advantage reverses for high-risk products because crowdfunded options are then perceived as lower quality/less professional, and the inequality pathway is stronger among consumers who are low in acceptance of social inequality (measured or primed)."
+  ],
+  "one_line_summary": "Across seven studies, the paper shows that a crowdfunded label increases consumer demand via quality and marketplace-inequality inferences, but this advantage reverses in high-risk product domains.",
+  "relation_to_prior_work": "extends prior crowdfunding research focused on backer motives and campaign success by examining how observing, nonparticipating consumers evaluate crowdfunded products in downstream markets. It also connects crowdfunding effects to inequality and social-dominance perspectives in consumer behavior.",
+  "research_gap": "Prior work has mainly examined why consumers participate in crowdfunding campaigns and what drives campaign success on crowdfunding platforms. The paper argues that little is known about how the broader market of nonparticipating consumers interprets and responds to a product's crowdfunding history.",
+  "research_question": "Do observing, nonparticipating consumers evaluate and choose products differently when those products are presented as crowdfunded rather than traditionally funded or with no funding information? If so, what psychological inferences drive this effect, and under what conditions does it weaken or reverse?"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in core argumentation to justify that proactive retention actions can backfire and even increase churn, not just as broad background. The citing paper references it when explaining why negative treatment effects are possible (e.g., interventions can break inertia) and again when motivating a LIFT framework that allows harmful effects for some customers. This role directly supports the paper's conceptual setup and methodological choices about targeting on incremental response rather than churn risk alone.",
+  "relation_description": "The citing paper builds on prior evidence from the cited field experiment that proactive churn-prevention actions can increase churn for some customers. It uses that insight as a conceptual foundation for a broader lift-based targeting approach that models heterogeneous treatment effects and avoids targeting customers likely to be harmed.",
+  "relation_type": "foundational_for"
+}

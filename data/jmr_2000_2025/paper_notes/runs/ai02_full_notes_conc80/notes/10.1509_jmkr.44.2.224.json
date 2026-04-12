@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Identifies measurement task transparency as a key property of preference elicitation methods that affects preference construction and responses to personalized recommendations.",
+    "Shows that the effect of transparency depends on when consumers rely on constructed responses, with stronger effects for novices and weaker effects when stated preferences are less accessible.",
+    "Provides process evidence that consumers' understanding of their own preferences mediates the effect of preference-identification ease on recommendation-aligned choice."
+  ],
+  "context": "The paper studies recommendation-agent situations where firms measure individual preferences and then provide rank-ordered personalized product recommendations. The empirical settings are lab-based consumer choices in categories such as digital cameras, PDAs, and laser printers.",
+  "design_and_data": "A pilot study (n = 47) compared the transparency of two elicitation methods, the self-explicated approach and full-profile conjoint analysis, using PDA stimuli. Study 1 (n = 102) used a between-subject design (more vs less transparent task), measured category expertise, and observed choice of the top-ranked digital camera recommendation after a short filler task. Study 2 (n = 123) used a 2 x 2 between-subject design crossing task transparency with offer timing (immediate vs one-week delay) for PDA recommendations. Study 3 (n = 138) held the measurement method constant (full-profile conjoint), varied whether validation choice came before or after measurement, measured ease of identifying stated preferences and understanding of own preferences, and tested mediation and predictive validity effects.",
+  "focal_constructs": [
+    "measurement task transparency",
+    "ease of identifying stated preferences",
+    "personalized recommendation choice likelihood",
+    "consumer expertise",
+    "accessibility of stated preferences",
+    "understanding of own preferences",
+    "predictive validity of preference measurement"
+  ],
+  "main_findings": [
+    "Consumers were more likely to choose the top-ranked personalized recommendation when preferences were elicited with a more transparent task than with a less transparent task.",
+    "The transparency effect was concentrated among novices, while experts showed little or no difference across transparent versus less transparent measurement tasks.",
+    "Making stated preferences less accessible with a delay eliminated the transparency advantage, and Study 3 showed that easier identification increased recommendation-consistent choice through greater understanding of one's own preferences."
+  ],
+  "one_line_summary": "Across experiments, more transparent preference measurement tasks increased acceptance of recommendation-matching options mainly for novices and immediate evaluations, because transparency improved consumers' understanding of their own preferences.",
+  "relation_to_prior_work": "extends prior work on recommendation agents and constructive preference processes by showing that elicitation methods differ in how visible consumers' own stated preferences are to them and that this visibility changes recommendation responses. extends Simonson (1990) by suggesting that self-inference can involve consumers inferring broader preference structures, not only attribute importance.",
+  "research_gap": "Prior work emphasized recommendation-agent efficiency and the predictive validity of elicitation methods, but did not directly test how transparent these methods are to consumers or how that transparency affects responses to personalized recommendations when preferences are constructed. The paper addresses the unresolved issue that consumers may fail to recognize the value of a recommendation if they cannot identify the preferences they just expressed.",
+  "research_question": "Does the transparency of a preference measurement task influence whether consumers choose a personalized recommendation that best matches their measured preferences? The paper also asks whether this effect depends on expertise and preference accessibility over time, and whether it operates through consumers' understanding of their own preferences."
+}

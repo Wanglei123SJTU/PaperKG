@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is a direct methodological predecessor in the citing paper, not a passing background reference. The authors explicitly say their model generalizes Ansari, Essegaier, and Kohli (2000), retaining person- and product-level heterogeneity from that framework while adding visit-occasion heterogeneity for repeated visits. They also estimate and compare the AEK model variants as benchmarks, and discuss their contribution in terms of improvement over that prior structure.",
+  "relation_description": "The citing paper extends Ansari, Essegaier, and Kohli's double-heterogeneity recommendation-model framework to a triple-heterogeneity model for Web visit behavior by adding visit-occasion effects. It uses the cited model as a baseline comparator to show the incremental value of the extension.",
+  "relation_type": "extends"
+}

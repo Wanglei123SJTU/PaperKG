@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Documents that packaged-goods loyalty programs can produce three distinct outcomes: increased loyalty, no change, or decreased loyalty.",
+    "Identifies incentive characteristics, specifically cue compatibility and tangibility, as central design factors that determine whether loyalty programs help or hurt.",
+    "Provides evidence that postprogram loyalty effects are mediated by changes in accessibility of favorable brand associations, including enhancement through rehearsal and reduction through interference."
+  ],
+  "context": "The paper examines loyalty-building programs for a consumer packaged goods brand, using Lemon-Lime Slice as the focal brand (with 7UP as an alternative in choice tasks). The setting is repeated soft-drink choice occasions tied to loyalty incentives such as Web sites or newsletters and tangible gifts.",
+  "design_and_data": "The authors report three email-based experiments with a real packaged-goods brand. Study 1 (N = 153) used a 5 x 2 design: four incentive treatments (cue-compatible/cue-incompatible x intangible/tangible) plus a no-incentive control, crossed with prior Slice knowledge (high/low). Study 2a (N = 96) compared two intangible newsletter incentives (cue-compatible vs cue-incompatible) plus control, and Study 2b (N = 102) compared a cue-compatible intangible newsletter with cue-compatible tangible gifts plus control; both studies used shopping enjoyment (high/low) as a moderator. Across studies, participants made repeated in-program brand choices, completed pre/post thought-listing measures coded for favorable brand versus incentive associations, and provided delayed postprogram loyalty measures (attitudes and/or self-reported repeat purchase).",
+  "focal_constructs": [
+    "brand loyalty",
+    "loyalty program incentives",
+    "cue compatibility",
+    "incentive tangibility",
+    "accessibility of favorable brand associations",
+    "rehearsal",
+    "interference",
+    "prior accessibility of brand associations"
+  ],
+  "main_findings": [
+    "Cue-compatible, intangible incentives (refreshing Web site or newsletter) increased postprogram accessibility of favorable Slice associations and increased postprogram loyalty, primarily for participants who started with relatively low prior access to Slice associations.",
+    "Tangible incentives (including cue-compatible and cue-incompatible versions) were associated with more accessible incentive thoughts, reduced accessibility of favorable Slice associations, and lower postprogram loyalty among participants with relatively high prior access to brand associations.",
+    "Cue-incompatible, intangible incentives produced little change in accessibility or loyalty versus control, and mediation tests across studies supported accessibility of favorable brand associations as the mechanism linking treatment conditions to loyalty outcomes."
+  ],
+  "one_line_summary": "This paper shows in three experiments that for a packaged-goods brand, loyalty programs help, do nothing, or backfire depending on incentive cue compatibility and tangibility through their effects on accessibility of favorable brand associations.",
+  "relation_to_prior_work": "extends prior loyalty-program research by moving from aggregate household-level analyses to an individual-level memory mechanism in which accessibility of favorable brand associations mediates postprogram loyalty effects, and by specifying cue compatibility and tangibility as boundary conditions for positive versus negative outcomes.",
+  "research_gap": "Prior research and managerial evidence showed mixed effectiveness of loyalty programs, leaving unclear when they build loyalty, fail, or undermine it. The paper addresses this unresolved issue in packaged goods by focusing on individual-level cognitive processes rather than only aggregate behavioral patterns.",
+  "research_question": "How do loyalty program incentives influence postprogram brand loyalty for packaged goods brands? Specifically, do incentive cue compatibility and tangibility alter the accessibility of favorable brand associations through rehearsal versus interference, thereby improving, not changing, or reducing postprogram loyalty?"
+}

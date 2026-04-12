@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper shows that in electronic-agent recommendations, the same attractive familiar context can produce either assimilation or contrast for unfamiliar items depending on whether item-specific information is provided.",
+    "It extends assimilation-contrast theory by demonstrating that positive individuating information can lower evaluations of unfamiliar products when an attractive context is salient.",
+    "It extends source-effects work by showing a dissociation: evaluations of unfamiliar recommendations and evaluations of the recommending agent can follow different patterns."
+  ],
+  "context": "The studies are set in simulated online music shopping, where an electronic agent recommends CDs. Participants evaluate unfamiliar CD recommendations either alone or alongside familiar CDs they had previously identified as highly liked.",
+  "design_and_data": "Both studies used two sessions: a first survey to identify each participant's familiar, highly liked CDs, and a lab interaction with a simulated recommendation agent. Study 1 used a 3 x 2 between-subjects design (context: simultaneous familiar context, sequential familiar context, or no familiar context; item-specific info: 10-second music clip present vs absent) with 83 participants who completed both sessions. Study 2 used a 2 x 2 design (simultaneous familiar context vs no context; richer item-specific info present vs absent) with 64 usable participants from those who completed both sessions, and measured purchase likelihood, reservation price, similarity ratings, and agent evaluations. The studies analyzed context-information interactions and mediation by perceived similarity.",
+  "focal_constructs": [
+    "electronic agent recommendations",
+    "unfamiliar product evaluations",
+    "familiar recommendation context",
+    "item-specific information",
+    "assimilation and contrast effects",
+    "perceived similarity",
+    "agent accuracy evaluations",
+    "purchase likelihood and reservation price"
+  ],
+  "main_findings": [
+    "Without item-specific information, a salient familiar recommendation context increased evaluations of unfamiliar CDs (assimilation), but this contextual effect weakened or disappeared when familiar and unfamiliar recommendations were separated across screens.",
+    "With positive item-specific information, the same salient familiar context reduced evaluations of unfamiliar CDs (contrast); in Study 2 this pattern appeared strongly in reservation prices (higher without context than with context).",
+    "Perceived similarity between familiar and unfamiliar recommendations mediated the effect of item-specific information on unfamiliar-item evaluations, and agent evaluations were driven mainly by the presence of familiar, well-liked recommendations."
+  ],
+  "one_line_summary": "Using two simulated music-agent experiments, the paper finds that familiar recommendation context can boost or depress evaluations of unfamiliar products via assimilation versus contrast, with item-specific information and perceived similarity determining the direction.",
+  "relation_to_prior_work": "extends prior assimilation-contrast research by showing that positive item-specific information can act as individuating information that triggers contrast in recommendation contexts, and extends source-effects research by showing that evaluations of recommendations and of the recommending agent need not move together.",
+  "research_gap": "Prior research had not clearly established how recommendation context and item-specific information jointly shape consumer responses to unfamiliar products in electronic-agent settings. The authors also note that earlier context work emphasized evaluatively neutral discriminating information, leaving open whether positive individuating information could still induce contrast.",
+  "research_question": "How do familiar recommendation context and item-specific information jointly affect consumers' evaluations of unfamiliar products recommended by electronic agents? Under what presentation conditions do these recommendations produce assimilation versus contrast, and how do these design choices affect evaluations of the agent itself?"
+}

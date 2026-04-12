@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces and documents a double-edged effect of signaling product effectiveness: cues that may help initial purchase can reduce postpurchase consumption and potentially long-term sales.",
+    "It identifies an inference-making mechanism in which salient marketing cues change perceived product effectiveness, which then guides usage amount.",
+    "It shows boundary conditions by demonstrating moderation by cue salience and consumers' need for cognition, and compares cue effects on both usage and choice."
+  ],
+  "context": "The paper studies consumer packaged goods where marketers signal efficacy through packaging/advertising-like cues, using teeth-whitening rinse, herbal insect repellent, and toilet bowl cleaner stimuli. Decisions are observed in lab and campus settings for both single-use consumption and product choice.",
+  "design_and_data": "The article reports an initial survey, two pilot studies, and six experiments. The studies manipulate effectiveness cues such as pictures (smiling face, crossed-out bug, live bug, plant), brand names (BalanceClean vs. BalanceGreen), and efficacy-text salience (bold vs. plain font). Outcomes include perceived effectiveness, intended or actual usage per occasion (cup lines, spray seconds, grams poured), and brand choice in within-subject choice tasks. Samples are primarily university students and campus respondents, with reported study sizes including N=200 (Study 1a), N=141 (Study 1b), N=241 (Study 3), and N=72 analyzed (Study 4).",
+  "focal_constructs": [
+    "effectiveness cues",
+    "perceived product effectiveness",
+    "postpurchase consumption",
+    "single-occasion usage amount",
+    "inference making",
+    "cue salience",
+    "need for cognition",
+    "product choice"
+  ],
+  "main_findings": [
+    "Salient cues signaling effectiveness increased perceived product effectiveness and reduced single-occasion usage in both hypothetical and actual-consumption settings.",
+    "Perceived effectiveness mediated the effect of effectiveness cues on usage in studies using picture and brand-name manipulations.",
+    "The usage-reduction effect was attenuated when efficacy information was already salient and among high-need-for-cognition consumers, and effectiveness cues did not consistently increase product choice."
+  ],
+  "one_line_summary": "Across experiments, salient effectiveness cues (e.g., pictures and brand names) increased perceived efficacy but lowered per-use consumption, creating a potential trade-off with purchase outcomes.",
+  "relation_to_prior_work": "extends prior work on cue-based signaling and constructive consumption by shifting focus from initial preference effects to postpurchase usage consequences of effectiveness cues. It also extends inference-based usage research centered on supply cues by showing that inferred product effectiveness can regulate usage. It challenges the common assumption that stronger effectiveness signaling is uniformly beneficial for demand.",
+  "research_gap": "Prior research had shown that cues highlighting effectiveness can improve initial preference and purchase likelihood, but their effect on postpurchase consumption was largely unexamined. Existing usage research emphasized inferences about supply (e.g., package or serving size) rather than inferences about product effectiveness.",
+  "research_question": "How do marketing cues that signal product effectiveness affect postpurchase consumption amount per occasion? The paper tests whether salient cues increase perceived effectiveness and thereby reduce usage, and whether this pattern depends on cue salience and consumers' need for cognition while also comparing effects on initial choice."
+}

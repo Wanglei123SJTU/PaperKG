@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes an integrated framework that jointly models latent topics in consumer search phrases with channel visits and purchase decisions to infer latent purchase intentions.",
+    "It implements the framework in both discrete state space (HMM) and continuous state space and reports consistent substantive results across the two versions.",
+    "It extends the CTM setup by jointly estimating individual-level parameters from visit, purchase, and topic equations to more tightly connect text and choice components."
+  ],
+  "context": "The empirical application is in online hospitality marketing for a large global hotel firm with a parent brand and multiple subbrands. Consumers interact through paid, owned, and earned channels, including search engines (Google, Yahoo, Bing, AOL), display ads, email, referral/affiliate sources, and direct website visits.",
+  "design_and_data": "The authors use firm-level touchpoint data for 2,093 consumers from August 1 to December 15, 2012, containing 40,985 visits/click-throughs and 601 website purchases. They observe 8,163 consumer-entered search phrases from 1,296 consumers; after standard preprocessing, the text corpus has 472 unique words. They estimate a hierarchical Bayesian integrated CTM-HMM with MCMC and also provide a continuous-state implementation in web appendices. Model selection via fivefold cross-validation and log-marginal density chooses three latent purchase states and five latent topics.",
+  "focal_constructs": [
+    "path to purchase",
+    "latent purchase states",
+    "search phrase semantics",
+    "latent topics",
+    "channel visit choice",
+    "purchase propensity",
+    "correlated topic model",
+    "hidden Markov model"
+  ],
+  "main_findings": [
+    "The model identifies five latent search topics (convenience, economy, loyalty, luxury, location), and topic emphasis varies by latent purchase state; early-stage consumers are relatively more focused on loyalty/convenience, while later stages show relatively more economy/luxury searching.",
+    "The integrated model materially improves purchase prediction over benchmarks; at 5% false positive rate, true positive rate is 67.2% versus 37.8% (no-topic), 54.9% (top-50-word heuristic), and 52.7% (LDA).",
+    "Estimated state dynamics show substantial persistence and state-dependent channel preferences, with owned channels generally most likely overall and paid-channel visitation propensity highest in the late purchase state."
+  ],
+  "one_line_summary": "Using online hospitality touchpoint and search-query data, the paper develops an integrated CTM-HMM approach that links latent search topics to channel visits and purchases and improves inference and prediction of consumers' purchase-stage positions.",
+  "relation_to_prior_work": "extends prior path-to-purchase and search-keyword/topic research by jointly integrating topic modeling with visit and purchase choice modeling, instead of relying on nontext touchpoint patterns or two-stage LDA-style pipelines.",
+  "research_gap": "Prior path-to-purchase studies largely relied on clickstream or CRM patterns and underused consumer-generated textual data. Prior search-keyword/topic work did not directly connect search semantics to latent purchase stages and purchase decisions in an integrated model.",
+  "research_question": "Can latent semantic topics in consumers' search phrases be jointly modeled with channel visits and purchases to infer consumers' latent position on the path to purchase? Does this integrated approach improve prediction of purchase decisions relative to models without text, heuristic text measures, or two-step LDA-based approaches?"
+}

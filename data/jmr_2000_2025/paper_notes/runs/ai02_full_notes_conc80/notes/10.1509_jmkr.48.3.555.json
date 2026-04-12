@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper identifies perceived social utility as a driver of initial preference for feature-rich products beyond capability considerations.",
+    "It specifies conditions under which consumers trade off usability costs for social benefits, including impression-management and social-evaluation contexts.",
+    "It distinguishes public display from public performance, showing that anticipated public use can reverse preference toward feature-poor products."
+  ],
+  "context": "The setting is consumer evaluation and choice of multi-feature technology products, with examples including phones and digital video players. A central context variable is whether choice and use are private or observable by others.",
+  "design_and_data": "The paper reports a series of studies comparing feature-rich versus feature-poor product options. The studies test observer inferences about people who choose high-feature products and manipulate whether consumers focus on others' impressions versus objective evaluation. They also manipulate whether others will evaluate the decision and whether the product is expected to be publicly displayed or publicly used. Results are presented as differences in preference shares and choice likelihood across these contexts.",
+  "focal_constructs": [
+    "feature-rich versus feature-poor products",
+    "feature fatigue",
+    "perceived capability",
+    "product usability",
+    "social utility",
+    "impression management",
+    "public display versus public use"
+  ],
+  "main_findings": [
+    "Before use, consumers tend to prefer feature-rich products, but after use interest in feature-rich options drops relative to simpler alternatives.",
+    "Consumers who choose feature-rich products are seen as more technologically savvy and more open to new experiences, and social-evaluation cues increase choice of feature-rich options.",
+    "When consumers expect to use a complicated product in front of others, preference shifts toward feature-poor products because usability concerns become more important."
+  ],
+  "one_line_summary": "The paper shows that social signaling value often drives pre-use preference for feature-rich products, but anticipated usability costs, especially in public-use situations, can reverse that preference toward simpler products.",
+  "relation_to_prior_work": "refines traditional conspicuous consumption accounts by showing that feature complexity can signal desirable traits in public display contexts, yet usability costs can dominate in public performance contexts.",
+  "research_gap": "Prior feature-fatigue findings indicate that consumers initially like many features but later become less satisfied after use. This paper addresses the unresolved reason for that initial attraction by testing the role of perceived social utility and its boundary conditions.",
+  "research_question": "Why do consumers initially prefer feature-rich products despite later feature fatigue, and under what conditions will they trade off usability for social benefits? The paper examines how social evaluation and public versus private choice/use contexts shape preference for feature-rich versus feature-poor products."
+}

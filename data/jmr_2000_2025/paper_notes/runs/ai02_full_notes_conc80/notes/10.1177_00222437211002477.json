@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper augments pay-what-you-want research by examining emotion as a driver of voluntary payment in an interactive, dynamic live-streaming context rather than static one-shot settings.",
+    "It introduces a panel vector autoregression approach in this context to jointly model broadcaster emotion, viewer emotion, viewer engagement, and audience size, and to quantify both immediate and longer-lasting effects.",
+    "It provides large-scale field evidence that broadcaster emotion can be managed as a marketing lever with measurable financial returns in live streaming."
+  ],
+  "context": "The study is set on a popular Chinese live-streaming platform where one broadcaster interacts with viewers in real time. Viewers can engage through paid virtual gifts (tips) and free likes and text chats.",
+  "design_and_data": "The authors analyze 1,450 live-stream sessions randomly drawn from streams starting between 8 and 10 P.M. over January 31 to February 13, 2018, and focus on the first 120 minutes of each stream. Data are minute-level and include tips, likes, chat text, viewer counts, and recorded video. Broadcaster emotion is measured from facial expressions via a pretrained deep neural network, and viewer emotion is measured from pooled chat text using Chinese segmentation plus LIWC tone. They estimate a six-variable panel VAR with stream fixed effects and two lags, then use generalized impulse response and variance decomposition analyses, plus rolling-window and heterogeneity analyses.",
+  "focal_constructs": [
+    "broadcaster happiness",
+    "viewer emotion",
+    "viewer tipping",
+    "viewer likes",
+    "viewer chat activity",
+    "audience size",
+    "emotional contagion",
+    "pay-what-you-want payment"
+  ],
+  "main_findings": [
+    "Positive broadcaster emotion increases viewer emotion, and positive viewer emotion also increases broadcaster emotion.",
+    "Happier broadcasters intensify viewer engagement, including tips, likes, and chats; viewer emotion also positively affects these engagement behaviors.",
+    "The emotion effects are not strongest at stream start: they become pronounced after a stream has run for a while, and tip effects are stronger for broadcasters with greater prior experience, prior tip performance, or prior popularity."
+  ],
+  "one_line_summary": "Using minute-level data from 1,450 Chinese live streams and a panel VAR, the paper shows that broadcaster happiness and viewer engagement coevolve, with broadcaster smiles increasing viewer tips and other engagement over time.",
+  "relation_to_prior_work": "extends prior pay-what-you-want and emotional-contagion research from mostly static or immediate-effect settings to a dynamic live-streaming environment where broadcaster emotion, viewer emotion, and multiple engagement behaviors jointly evolve over time.",
+  "research_gap": "Prior live-streaming studies were largely survey or qualitative, or modeled engagement outcomes separately, leaving the joint dynamic interdependence among broadcaster emotion, viewer emotion, and multiple viewer activities underidentified. Prior pay-what-you-want work was mostly in static contexts and did not quantify whether provider emotion drives ongoing voluntary payments over time in interactive online environments.",
+  "research_question": "How do broadcaster emotion, viewer emotion, and viewer activities in live streaming influence one another over time? Specifically, does broadcaster happiness causally affect viewer emotion and engagement (especially tips), do viewer-side variables feed back to broadcaster emotion, and how persistent are these effects in a dynamic system?"
+}

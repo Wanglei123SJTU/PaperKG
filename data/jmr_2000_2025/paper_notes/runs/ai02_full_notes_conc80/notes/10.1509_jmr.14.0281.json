@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a unifying formal model of task completion that includes both pre-subgoal motivation (goal-gradient style) and post-subgoal motivation (social-cognitive style), and derives propositions on optimal subgoal ordering and structure.",
+    "It provides laboratory evidence designed to isolate the motivational mechanics of subgoal ordering, including a direct comparison of ascending, descending, and even subgoal orders and a calibration of the model's motivational functions.",
+    "It adds a choice-based follow-up and a stylized debt-repayment extension to discuss when small-victories ordering can help in practice and when interest-rate differences should dominate that advice."
+  ],
+  "context": "The paper is motivated by consumer debt reduction, especially the debt snowball idea of paying smaller debts first, but tests the mechanism in an abstract task setting. Participants at a Texas A&M laboratory completed a tedious typing task partitioned into subgoals (columns) with different orderings.",
+  "design_and_data": "In Study 1, 91 participants were randomly assigned to ascending, descending, or even column-size orderings in a 30-minute Excel typing task (150 ten-character strings across 5 columns) after a 5-minute practice task. The three structures were 10-20-30-40-50, 50-40-30-20-10, and 30-30-30-30-30; participants received performance-based payments tied to completion speed and unfinished cells. In Study 2, 70 participants performed the same task but chose their preferred ordering before the task. The authors analyze completion time and completion probability and calibrate their model by estimating pre-subgoal and post-subgoal functions (up to fourth-degree polynomials) with cell fixed effects and practice-time controls.",
+  "focal_constructs": [
+    "small victories",
+    "subgoal ordering",
+    "post-subgoal motivation",
+    "pre-subgoal motivation",
+    "task completion speed",
+    "debt snowball"
+  ],
+  "main_findings": [
+    "In the randomized study, participants in the ascending ordering completed cells faster than those in descending ordering (about 1.42 seconds per cell faster) and had a higher completion rate within 30 minutes (71% vs 48% in descending; even was intermediate).",
+    "Participants sped up near the end of columns and also tended to improve after completed columns, and model calibration found evidence of both pre-subgoal and post-subgoal effects with post-subgoal effects dominating in this environment.",
+    "When participants chose their ordering, ascending was chosen least often (16 of 70), and regression interactions suggest larger performance gains from choosing ascending among participants with higher self-control, higher cognitive reflection, and higher risk aversion."
+  ],
+  "one_line_summary": "The paper develops and tests a model showing that ordering unequal subgoals from smallest to largest can speed completion of a tedious task, with post-subgoal motivation outweighing pre-subgoal motivation in the observed data.",
+  "relation_to_prior_work": "extends prior work on subgoals and debt repayment by formally reconciling social-cognitive and goal-gradient accounts of motivation and testing their comparative predictions in a controlled, non-debt-framed lab task.",
+  "research_gap": "Prior studies showed mixed effects of subgoals and debated whether subgoal focus helps or distracts from superordinate goals, but offered less evidence on the optimal ordering and structure of subgoals. The paper addresses this by building a single formal framework that nests competing motivational mechanisms and yields testable ordering predictions.",
+  "research_question": "How should a large task be partitioned and ordered into subgoals to maximize completion performance? In particular, does a small-victories strategy (completing smaller subgoals first) improve performance, and is the effect better explained by post-subgoal motivation, pre-subgoal motivation, or their relative dominance?"
+}

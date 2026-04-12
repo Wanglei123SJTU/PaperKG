@@ -1,0 +1,4 @@
+{
+  "rationale": "Keep: the cited paper directly studies recommendation in a social-plus-product dual network (YouTube/Last.fm) and shows how user-generated social links change exploration outcomes, which aligns with the citing paper’s core constructs (content-based vs social filtering, user behavior changes, concentration effects). The citing note says it extends prior recommender research in e-commerce settings, and this 2012 JMR article appears to be a likely foundational/mechanism prior rather than an incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper provides a direct empirical assessment of the profit implications of movie-specific differential pricing versus uniform pricing in theatrical markets using data with within-theater movie-level price variation.",
+    "It introduces and applies a nested PD demand model that flexibly captures substitution across movies, theaters, and the outside option.",
+    "It shows that a simple 2D/3D two-tier uniform pricing policy can capture most of the profit gains from full differential pricing relative to full uniform pricing."
+  ],
+  "context": "The study is set in the Hong Kong movie theatrical market, where ticket prices vary both across multiplexes and across movies within the same multiplex. The data period is June-August 2012 in a market dominated by a few chains and with substantial Hollywood movie presence.",
+  "design_and_data": "The authors compile daily admissions and evening ticket prices by movie, theater, and day for five major Hong Kong chains, and supplement with movie budget data for instruments. After exclusions, the sample contains 22,380 movie-theater-day observations covering 80 movies and 34 theaters. They estimate a structural generalized extreme value demand system (their nested PD model) using GMM with BLP-style contraction and IVs, then run calibrated supply-side counterfactual pricing equilibria under full uniform, 2D/3D two-tier uniform, and full differential pricing.",
+  "focal_constructs": [
+    "uniform pricing puzzle",
+    "movie-based differential pricing",
+    "2D/3D two-tier uniform pricing",
+    "theater profitability",
+    "movie intrinsic appeal",
+    "price sensitivity heterogeneity",
+    "substitution across movies, theaters, and outside option"
+  ],
+  "main_findings": [
+    "Full movie-specific differential pricing produces higher profits than 2D/3D two-tier uniform pricing, but the incremental gain over two-tier pricing is limited.",
+    "Compared with full uniform pricing, full differential pricing is typically about 20%-25% more profitable, and two-tier pricing captures roughly 65%-75% of that profit gain (about two-thirds in the main analysis).",
+    "Estimated movie-specific intercepts are bimodal by 2D versus 3D format with relatively small within-mode variation, and consumers are price sensitive with significant heterogeneity."
+  ],
+  "one_line_summary": "Using Hong Kong theater-level daily price and attendance data, the paper estimates demand and counterfactually shows that 2D/3D two-tier uniform pricing captures most, but not all, of the profit gains from full movie-specific differential pricing over full uniform pricing.",
+  "relation_to_prior_work": "extends prior work on the uniform pricing puzzle and movie theater pricing by directly quantifying the economic impact of full movie-based differential pricing versus uniform alternatives, which the paper argues had not been empirically assessed. It introduces a nested extension of the principles of differentiation framework to model substitution among movie-theater options and the outside option.",
+  "research_gap": "The paper states that although many theories explain uniform pricing for movies, there had been no direct empirical assessment of the economic impact of full movie-based differential pricing relative to uniform pricing, mainly because most markets lacked within-theater movie-level price variation.",
+  "research_question": "To what extent would movie-based differential ticket prices improve competing multiplexes' profits relative to uniform pricing? How different are profit outcomes under the emerging 2D/3D two-tier uniform pricing policy compared with full movie-specific differential pricing?"
+}

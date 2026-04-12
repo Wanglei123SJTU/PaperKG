@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper directly investigates systematic misprediction of others’ preferences (especially errors tied to similarity/dissimilarity), which overlaps with the citing paper’s core focus on egocentric projection/false-consensus in consumer preference prediction. Both notes describe closely related preference-inference mechanisms in marketing contexts, making this plausibly a substantive prior-work anchor rather than a generic mention. Even though the raw evidence is only a DOI match (no local citation text), this pair is not safe to drop.",
+  "triage_decision": "keep_for_relation_judgment"
+}

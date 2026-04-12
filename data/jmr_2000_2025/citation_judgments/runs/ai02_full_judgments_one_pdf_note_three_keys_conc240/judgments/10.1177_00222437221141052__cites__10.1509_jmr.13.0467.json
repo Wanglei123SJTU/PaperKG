@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "Meissner et al. is used as a concrete prior benchmark for eye-tracking research on complex/high-involvement choice and for conjoint work that used fixation frequency as a proxy for learning. The citing paper explicitly positions its model as extending this prior approach by modeling brand-specific attention trajectories (including saccade-based attention types) and by incorporating ownership-related prior experience. Even though the citation appears with other references, it has a clear role in framing what the new paper adds beyond earlier conjoint eye-tracking studies.",
+  "relation_description": "The citing paper treats Meissner et al. (2016) as prior conjoint eye-tracking work on final-stage choice and fixation-based learning signals. It extends that line with a trajectory-based attention-choice model and out-of-sample predictive validation that includes brand ownership effects.",
+  "relation_type": "extends"
+}

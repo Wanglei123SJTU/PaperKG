@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper claims to be the first to examine actual C2C helping behavior both within and between rival brand communities and a related product-category community.",
+    "It claims that participation effects are not uniformly positive: community strategies can backfire by reducing cross-community helping and consumer access to help.",
+    "It claims to distinguish the effects of participation intensity versus membership duration on helping likelihood across community types."
+  ],
+  "context": "The primary setting is a third-party-hosted online forum ecosystem for 3-D graphics cards, with two rival brand communities (ATI and NVIDIA) and one product-category community (Graphics Card). A second study uses desktop processor forums (Intel, AMD, and a general hardware forum) on another third-party-hosted site context without a built-in thank-you button.",
+  "design_and_data": "Study 1 uses behavioral forum data where users share common IDs across forums and helping is observed via recipient-generated thank-you acknowledgments on posts. The authors collected 1,069,066 messages from 17,026 users over 69 months, and analyzed 4,501 users active in at least one focal forum during a common 25-month window; the paper reports hazard-model analysis of 9,192 actual helping events. The dependent variable is a monthly indicator of whether a user provided help in a forum, estimated with repeated-event Cox PH and Gompertz frailty hazard models including participation, membership duration, and controls. Study 2 is a four-month cross-sectional replication in processor forums (1,022 threads, 7,147 messages) using manual coding of explicit thank-you text and forum-level logistic regressions.",
+  "focal_constructs": [
+    "consumer-to-consumer helping behavior",
+    "brand-community participation",
+    "product-category community participation",
+    "oppositional loyalty",
+    "intergroup bias in helping",
+    "membership duration",
+    "likelihood of helping"
+  ],
+  "main_findings": [
+    "In Study 1, higher participation in a brand community increased helping in that same brand forum and reduced helping in the rival brand forum.",
+    "Higher participation in the product-category community increased helping within the product-category forum but reduced helping in both brand forums, contrary to the predicted positive spillover.",
+    "Study 2 reproduced the cross-community bias pattern and, in the nonoptional product category, found that higher participation in both brand forums also reduced helping in the product-category forum."
+  ],
+  "one_line_summary": "Across two third-party-hosted forum settings, the paper shows that community participation increases in-group C2C helping but often decreases helping across community boundaries, creating potential backfire effects for community strategies.",
+  "relation_to_prior_work": "extends brand-community and C2C helping research by moving beyond within-community outcomes to observed helping across rival brand and product-category communities, and by contrasting participation level with membership duration as predictors of helping.",
+  "research_gap": "Prior literature treats helping as a defining community feature but offers little direct evidence on whether participation actually increases C2C helping between individuals, especially across community boundaries. It also provides limited guidance on product-category communities and on whether brand-community participation suppresses helping to rival-brand or product-category members.",
+  "research_question": "How does participation in third-party-hosted brand and product-category communities affect a consumer's likelihood of helping others? The paper asks who gets helped across community boundaries (own brand, rival brand, product-category members) and whether firms should promote brand communities, product-category communities, or both to foster C2C helping."
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Aribarg, Pieters, and Wedel (2010) to motivate a core identification problem: ad recognition/recall measures are biased by preexisting brand familiarity. It then positions its own method as a practical extension of that insight, explicitly noting that because eye tracking is not feasible in their setting, they develop a precampaign survey plus matching approach to adjust baseline brand knowledge across media formats. The cited work is also revisited in the discussion of creative recall bias, reinforcing its role in interpretation rather than as a passing background citation.",
+  "relation_description": "The citing paper extends the bias-adjustment line of work from Aribarg et al. (2010) to cross-media TV vs Internet brand-lift measurement in field campaigns. It adopts the same substantive concern about familiarity-driven recognition bias but implements a different correction strategy (precampaign baseline and matching) instead of eye-tracking-based BAR adjustment.",
+  "relation_type": "extends"
+}

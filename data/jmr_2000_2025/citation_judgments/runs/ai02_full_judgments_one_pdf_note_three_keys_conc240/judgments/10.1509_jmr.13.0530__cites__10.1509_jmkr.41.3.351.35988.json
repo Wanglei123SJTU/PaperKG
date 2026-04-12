@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citation appears in the model-identification section, where the authors explicitly use Bodapati and Gupta (2004) to support how heterogeneity parameters are identified in aggregate demand models. This is not just a passing background list; it anchors their technical argument before they explain how availability effects alter identification in their own setup. Although they do not directly replicate that paper's full model, they rely on it as prior methodological grounding for recoverability/identification from aggregate data.",
+  "relation_description": "The citing paper uses Bodapati and Gupta (2004) as methodological precedent for identifying heterogeneity in aggregate choice models. It builds its own identification discussion by adapting that logic to an availability-contingent demand framework with retailer stocking dynamics.",
+  "relation_type": "foundational_for"
+}

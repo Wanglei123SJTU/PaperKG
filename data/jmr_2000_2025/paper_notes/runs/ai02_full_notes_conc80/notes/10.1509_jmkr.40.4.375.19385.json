@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper extends a commonly used dynamic advertising model to multimedia communications by adding cross-media interaction (synergy) and deriving implications for budget and allocation decisions.",
+    "It demonstrates a Kalman filter state-space estimation approach that managers can use to infer media effectiveness and cross-media synergy from routine sales and advertising data.",
+    "It derives analytical propositions on how synergy affects optimal media budget, media mix, and the carryover effect, and then generalizes the framework to N media with differential carryover and asymmetric synergy."
+  ],
+  "context": "The empirical setting is Levi Strauss's Dockers khaki pants advertising campaign in a consumer market. The analysis focuses on network television and print advertising decisions and retail sales over monthly periods.",
+  "design_and_data": "The authors formulate a dynamic sales response model with lagged sales (carryover), separate television and print effects, and a television x print interaction term for synergy. They estimate a state-space version with maximum-likelihood Kalman filtering, including diminishing returns (square-root media spending), seasonal dummies, and a grid-search check for differential carryover. The data are proprietary, rescaled monthly Dockers retail sales and advertising expenditures from 1994-1997 (47 months). They compare alternative model specifications using AIC, AICC, and BIC, run residual and exogeneity diagnostics, and perform holdout cross-validation (40 estimation months, 7 forecast months).",
+  "focal_constructs": [
+    "integrated marketing communications",
+    "cross-media synergy",
+    "media effectiveness",
+    "advertising carryover",
+    "media budget",
+    "media mix allocation",
+    "Kalman filter estimation",
+    "dynamic advertising response"
+  ],
+  "main_findings": [
+    "Using Dockers data, the estimated television-print synergy term is positive and statistically significant, indicating cross-media synergy in this consumer market.",
+    "The synergy specification is preferred to no-synergy and alternative interaction models by AIC, AICC, and BIC, and it shows acceptable diagnostics and holdout forecasting.",
+    "Theoretical results show that greater synergy increases the optimal total media budget and shifts allocation toward the less effective activity, implying that models that ignore synergy can understate optimal budgets and overstate apparent overspending."
+  ],
+  "one_line_summary": "The paper builds and estimates a dynamic multimedia advertising model with synergy, finds significant television-print synergy for Dockers, and shows analytically that synergy changes optimal media budgeting and allocation rules.",
+  "relation_to_prior_work": "extends prior advertising models that were often single-medium or static by embedding cross-media interaction in a dynamic carryover framework and solving for optimal decisions analytically. It also goes beyond earlier multimedia evidence by testing synergy with market data while explicitly addressing dynamics, model selection, diagnostics, and out-of-sample validation.",
+  "research_gap": "The paper argues that although IMC emphasizes synergy, its role in planning multimedia communications is not well understood. Prior work offered limited empirical evidence on cross-media synergy in dynamic markets and lacked theoretical results on optimal budgeting and allocation when synergy is present.",
+  "research_question": "Does measurable synergy exist between multimedia advertising activities in dynamic consumer markets, and can managers estimate it from market data? If synergy is present, how should it change optimal media budget size, media mix allocation, and the role of advertising carryover?"
+}

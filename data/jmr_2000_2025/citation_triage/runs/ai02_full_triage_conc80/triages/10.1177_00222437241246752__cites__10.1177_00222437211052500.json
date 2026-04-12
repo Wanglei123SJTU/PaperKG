@@ -1,0 +1,4 @@
+{
+  "rationale": "The two papers are closely aligned in problem setting and constructs: both model Yelp review text to explain star ratings and address heterogeneity/segmentation, with the cited paper contributing attribute-sentiment measurement and a latent-class structural model. Given this methodological and substantive proximity (not a clearly generic citation), the pair could reflect a meaningful prior-method or foundational comparison use and should not be dropped at triage.",
+  "triage_decision": "keep_for_relation_judgment"
+}

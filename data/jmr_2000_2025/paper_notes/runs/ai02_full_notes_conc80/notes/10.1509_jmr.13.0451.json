@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Demonstrates that overall scarcity versus abundance across items in a product class shifts within-set allocation toward the most-preferred option rather than affecting all options equally.",
+    "Provides process evidence that scarcity's effect on choice operates through arousal, with mediation by reported arousal and moderation by an independent arousal induction.",
+    "Shows that the effect generalizes from category-level supply manipulations to a broader scarcity mindset activated in an unrelated context."
+  ],
+  "context": "The paper studies consumer simultaneous choice among multiple items within a product class. The experiments use everyday categories (yogurts, vegetables, candies, and store gift cards) in online and laboratory settings where participants can repeat or vary items.",
+  "design_and_data": "Five experiments test scarcity versus abundance effects on multi-item choice using between-subject manipulations and preference-ranked coding of favorite-choice share. Study 1 (N = 111, online) manipulated actual supply of five yogurt flavors (approximately 5 vs 50 units each), and Study 2 (N = 200, online) held supply constant (8 pieces each) but changed perceived scarcity via large versus small containers for vegetables. Study 3 (N = 204, online) used scarcity, abundance, and control conditions in an incentive-compatible gift-card task, measured pre-post arousal with the Affect Grid, and also measured involvement proxies; Study 4 (N = 153, lab) crossed supply level with an arousal-inducing bright red versus white survey background in real candy take-home choices. Study 5 (N = 200, online) primed general scarcity versus abundance versus neutral concepts through a lexical decision task before an unrelated gift-card choice task.",
+  "focal_constructs": [
+    "category-level scarcity salience",
+    "general sense of scarcity",
+    "arousal",
+    "preference polarization",
+    "relative liking of favorite versus nonfavorites",
+    "choice share of the favorite",
+    "simultaneous multiple-item choice"
+  ],
+  "main_findings": [
+    "Across Studies 1 and 2, scarce versus abundant supply (actual or perceived) increased the liking gap between favorites and nonfavorites and increased the share of favorites chosen.",
+    "In Study 3, scarcity increased reported arousal relative to abundance/control, and reported arousal significantly mediated scarcity's effect on favorite choice share, while decision time and self-reported involvement did not mediate.",
+    "In Study 4, an incidental arousal cue (bright background) removed the scarcity-abundance difference by raising favorite choice under abundance, and Study 5 showed that a general scarcity prime also increased favorite choice share relative to an abundance prime."
+  ],
+  "one_line_summary": "Five experiments show that making scarcity salient for a product class increases arousal, polarizes evaluations toward favorites over nonfavorites, and raises the favorite's choice share.",
+  "relation_to_prior_work": "extends object-specific scarcity and variety-seeking research by moving from single-item availability effects to within-category allocation when all options are scarce or abundant. It also extends arousal research by testing scarcity as an antecedent of arousal in consumer choice and linking arousal to preference polarization in multi-item selection.",
+  "research_gap": "Prior work had focused on object-specific scarcity and had not directly examined whether overall category-level scarcity versus abundance changes evaluation and choice of individual items within a multi-item set. The paper also notes that direct evidence for scarcity increasing arousal in this consumer choice context was lacking.",
+  "research_question": "How does making overall scarcity versus abundance salient for a product class affect consumers' simultaneous choices among multiple items? Specifically, does scarcity increase the choice share of the most-preferred item by inducing arousal that polarizes evaluations, and does this pattern extend to a general scarcity mindset?"
+}

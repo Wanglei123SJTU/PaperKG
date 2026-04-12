@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Proposes an integrated three-part method to quantify confusion between leading brands and visual copycat packages using objective image analysis, a rapid triangle test, and a competing accumulator model.",
+    "Extends the competing accumulator framework by modeling drift as a function of image-based visual similarity and by incorporating unobserved heterogeneity across participants.",
+    "Introduces a quantitative copycat confusion metric (CC) with three decision tiers (copy alert, copy watch, copy safe) intended for managerial monitoring and trademark litigation support."
+  ],
+  "context": "The study focuses on consumer package recognition in retail-like shelf conditions for fast-moving packaged goods. It uses 15 product categories with leading brands, visually similar market brands, and experimentally constructed copycat packages.",
+  "design_and_data": "The authors collected standardized package images for 15 categories, selecting a leading brand and a visually similar market brand in each, and created experimental copycats by editing leading-brand images with details from market brands. Ninety-nine paid undergraduates completed a lab triangle task (8 excluded), yielding 30 trials per participant across categories; each trial showed three packages for 300 ms after fixation and masking, and accuracy plus response latency were recorded. Image processing generated color and texture similarity descriptors (color histogram, dominant color, and texture histograms across spatial layouts). A Bayesian competing accumulator model was estimated with MCMC, and 12 model specifications were compared via log-marginal likelihood.",
+  "focal_constructs": [
+    "visual copycat brands",
+    "brand confusion",
+    "package design similarity",
+    "global color similarity",
+    "global texture similarity",
+    "perceptual decision accuracy and response time",
+    "competing accumulator model",
+    "copycat confusion metric"
+  ],
+  "main_findings": [
+    "The best-fitting specification uses global color histogram similarity and global texture similarity; both effects are positive and significant in the drift process, while dominant color and additional vertical/horizontal/local texture terms do not improve fit.",
+    "Experimental copycats are harder to discriminate than market copycats, showing lower identification accuracy and longer response times, and the model reproduces these patterns reasonably well.",
+    "Using the CC metric thresholds, 8 of 15 experimental copycats are classified as copy alert and 1 as copy watch, while market copycats show 0 alerts and 4 watches; sensitivity checks indicate the CC metric is fairly robust to alternative image-processing settings."
+  ],
+  "one_line_summary": "The paper develops and tests a short-exposure, image-based modeling approach that quantifies visual copycat package confusion and classifies copycat risk with a three-level CC metric.",
+  "relation_to_prior_work": "extends prior copycat and trademark dilution research by replacing long-exposure, largely subjective similarity assessment with objective image descriptors and a 300 ms perceptual identification task. It also extends competing accumulator models by linking drift rates to visual package similarity and allowing participant-level heterogeneity.",
+  "research_gap": "Prior work on copycat confusion and trademark dilution lacked an objective measure of visual package similarity and a quantitative metric for confusion risk that could be used in managerial decisions or litigation. Existing studies also typically used much longer exposure times than real shelf viewing, limiting ecological realism.",
+  "research_question": "How can confusion between leading brands and visually similar copycat packages be measured objectively under brief, shelf-like exposure conditions? Which package visual features drive the speed and accuracy of perceptual discrimination, and how can these effects be converted into a practical copycat risk metric?"
+}

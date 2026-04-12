@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "The paper combines randomized online ad exposure with geographic and temporal variation in offline alcohol advertising regulation to estimate how regulation changes online ad effectiveness.",
+    "It provides what the authors describe as the first empirical evidence of substitution between online and offline advertising media.",
+    "It shows an informative role for online advertising under offline bans, with larger effects for new and low-awareness products."
+  ],
+  "context": "The study is set in the US alcohol market, where states and some cities differ in restrictions on offline alcohol advertising (especially out-of-home media such as billboards, signage, and transit ads). It evaluates online banner ad campaigns for alcoholic beverages during 2001-2008.",
+  "design_and_data": "The authors use field-test survey data for 275 online alcohol display campaigns, covering 61,580 respondents randomly assigned to a focal alcohol ad or a placebo ad. Outcomes are immediate survey measures, primarily purchase intent (likely/very likely to purchase), plus favorable opinion and ad recall. They estimate state-level models using variation in out-of-home ad bans (17 regulated states/areas versus 33 unregulated states) with campaign and state fixed effects and demographic controls. They also analyze four local policy changes (Philadelphia public-property ban, Pennsylvania college-newspaper ban repeal, San Francisco transit enforcement increase, New York TV spirits-ad policy loosening) using difference-in-differences/triple-difference style comparisons with control groups, plus placebo-category falsification tests.",
+  "focal_constructs": [
+    "online display advertising effectiveness",
+    "offline out-of-home advertising bans",
+    "online-offline media substitutability",
+    "purchase intent",
+    "local advertising regulation",
+    "product awareness"
+  ],
+  "main_findings": [
+    "In locations with offline alcohol ad bans, baseline purchase intent is lower, but randomized online ad exposure has a larger incremental effect; model-implied lift is about 6 percent with bans versus about 2 percent without.",
+    "Evidence from four local regulatory changes is directionally consistent: tighter offline restrictions raise relative online alcohol ad effectiveness, and loosened restrictions reduce that relative advantage.",
+    "The interaction is stronger for low-awareness and new products, and similar interactions are not found in placebo categories such as snacks, non-alcoholic beverages, and all food."
+  ],
+  "one_line_summary": "Using randomized online alcohol ad exposure matched to variation in offline ad restrictions, the paper finds that online advertising is more effective where offline advertising is banned, implying substitution that weakens local bans.",
+  "relation_to_prior_work": "extends prior online advertising and media-mix research by showing that online display ad effects depend on the offline media environment and can substitute for offline advertising. introduces empirical evidence in advertising-regulation research that internet channels can reduce the effectiveness of local offline ad bans.",
+  "research_gap": "Despite widespread advertising bans, there was little systematic empirical evidence on how internet access changes the effectiveness of local advertising regulation outside tax-policy settings. The paper also addresses an unresolved question in media-mix research: whether online advertising complements or substitutes for offline advertising.",
+  "research_question": "Do offline alcohol advertising bans change the effectiveness of online display advertising for alcoholic beverages? More broadly, is online advertising a substitute for or a complement to offline advertising, and does this substitution reduce the effectiveness of local advertising bans?"
+}

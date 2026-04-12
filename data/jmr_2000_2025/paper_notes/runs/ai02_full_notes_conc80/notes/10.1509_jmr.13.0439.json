@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides an experimental estimate of the economic cost of annoying display ads to publishers by computing a compensating differential for lost impressions.",
+    "Develops and uses user-rated sets of annoying (bad) and nonannoying (good) ads, including a causal test of animation's effect on perceived annoyance, to create stimuli for downstream experiments.",
+    "Uses large-scale online mouse tracking to study process-level cognitive effects of annoying ads during content consumption."
+  ],
+  "context": "The paper studies online display advertising on websites, where publishers earn ad revenue but may lose users when ads are annoying. The empirical settings are Amazon Mechanical Turk tasks that simulate web content consumption during e-mail classification and article reading.",
+  "design_and_data": "A preparatory MTurk study analyzed 141 U.S. participants who rated 36 ads each from a constructed pool of 144 ads (72 animated ads plus matched static variants) and produced 1,846 text comments about annoyance. Experiment 1 was a randomized 3 x 3 MTurk field experiment (n = 1,223) crossing pay rates ($0.01, $0.02, $0.03 bonus per five e-mails) with ad condition (bad, good, none) during Enron e-mail classification; the main outcome was impressions (e-mails classified), modeled with negative binomial GLMs. Experiment 2 randomized 2,840 MTurk participants to bad, good, or no ads while reading a news article image, then measured page time, reading comprehension, and mouse-tracking metrics (fixations, entrances, distance, and time) over ad and text areas.",
+  "focal_constructs": [
+    "annoying display advertisements",
+    "website abandonment",
+    "compensating differential",
+    "ad animation",
+    "impressions",
+    "mouse-tracking attention",
+    "classification and reading comprehension accuracy"
+  ],
+  "main_findings": [
+    "Animated ads were rated much more annoying than static versions of the same ads (mean 3.6 vs 2.4, p < .001), and the most annoying ads were all animated.",
+    "In the field experiment, bad ads caused fewer impressions than good or no ads, and the estimated compensation needed to offset bad ads was about $1.53 CPM versus no ads and $1.15 CPM versus good ads.",
+    "Bad ads reduced task accuracy and increased ad-directed attention in mouse-tracking measures, while text-area mouse behavior changed little, so evidence for a simple reading-disruption mechanism was limited."
+  ],
+  "one_line_summary": "Using three MTurk-based experiments, the paper shows that annoying display ads increase abandonment and hurt performance, with implied publisher costs that can exceed typical display-ad revenue.",
+  "relation_to_prior_work": "extends prior internet advertising research by moving beyond recall and attitude outcomes to experimentally quantify publisher-side abandonment costs and by applying large-scale mouse tracking to ad annoyance during web content consumption.",
+  "research_gap": "Prior research had examined intrusiveness, attention, and ad outcomes, but the publisher-side economic cost of annoying online display ads from user abandonment had not been experimentally quantified. Process evidence on how annoying ads affect users' cognitive behavior during content consumption was also limited.",
+  "research_question": "What is the economic cost of annoying display ads to publishers, measured as the compensating payment needed to maintain impressions when annoying ads are present? What cognitive effects do annoying ads have on users, including task accuracy, reading-related behavior, and attention patterns?"
+}

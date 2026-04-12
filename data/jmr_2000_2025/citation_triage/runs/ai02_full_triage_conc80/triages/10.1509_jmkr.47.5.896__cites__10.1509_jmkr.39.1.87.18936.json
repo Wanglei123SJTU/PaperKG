@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper centers on diagnosing when MVN heterogeneity is inadequate in HB models and explicitly situates itself against flexible alternatives (e.g., mixture heterogeneity), while the cited paper directly compares HB normal heterogeneity to finite mixtures and tests robustness to multimodality/non-normality. That thematic overlap suggests the cited work could be a substantive prior comparison/foundation rather than an incidental mention. With only DOI-level match and no in-text snippet, it is safer to retain for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

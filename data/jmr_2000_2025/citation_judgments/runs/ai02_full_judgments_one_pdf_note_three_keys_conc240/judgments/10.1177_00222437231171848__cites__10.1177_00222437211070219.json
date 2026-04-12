@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper does more than list this reference: it summarizes Ada et al. (2022)'s core empirical result that providing context information raises display ad revenue and uses it in the contextual-targeting literature review. It also explicitly positions its own study as methodologically similar (a natural experiment from a policy change) while shifting to GDPR compliance and a different publisher setting. This citation helps frame why the authors test whether web page context can offset losses from reduced personal-data targeting.",
+  "relation_description": "The citing paper builds on Ada et al. (2022) by extending the context-information line of work to a GDPR setting, examining whether contextual relevance mitigates post-GDPR declines in ad outcomes. It uses the cited paper as prior evidence that context can improve auction revenue and then tests that logic under privacy-regulation constraints.",
+  "relation_type": "extends"
+}

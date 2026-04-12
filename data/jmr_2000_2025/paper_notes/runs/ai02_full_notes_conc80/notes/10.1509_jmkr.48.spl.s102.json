@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper documents two previously undocumented patterns in individual investors' stock repurchases: investors avoid repurchasing stocks previously sold for a loss, and they avoid repurchasing stocks that rose after sale.",
+    "It proposes that these patterns reflect naive reinforcement learning shaped by counterfactual emotions, especially disappointment and regret (with rejoicing/elation as positive counterparts).",
+    "It tests alternative explanations (tax motives, mean-reversion beliefs, and superior information/skill) and argues these do not primarily account for the repurchase patterns."
+  ],
+  "context": "The study examines individual investors' common-stock trading and repurchase decisions in brokerage accounts. It uses data from a large discount broker and a large retail broker, covering different investor clienteles and market periods.",
+  "design_and_data": "The authors analyze account-level trade and position records for 66,465 investors at a large discount brokerage (1991-1996) and 596,314 investors at a large retail brokerage (data ending June 1999), restricting to common stocks. They compute opportunity-adjusted repurchase ratios over rolling 252-trading-day windows, comparing repurchases of prior winners versus prior losers and stocks up versus down since sale, separately for taxable and tax-deferred accounts. They then estimate Cox proportional hazard models with return bins for realized return at sale and return since sale, plus controls for trading-volume share and prior holding period. Additional analyses test post-repurchase performance with CAPM and four-factor models and assess alternative explanations using follow-on purchases and non-owned stock purchases.",
+  "focal_constructs": [
+    "stock repurchase decisions",
+    "realized gains and losses",
+    "price change since sale",
+    "counterfactual thinking",
+    "regret",
+    "disappointment",
+    "reinforcement learning",
+    "disposition-related trading behavior"
+  ],
+  "main_findings": [
+    "Across both broker datasets and in both taxable and tax-deferred accounts, investors repurchase prior winners at significantly higher rates than prior losers.",
+    "Investors repurchase stocks that are down since sale much more than stocks that are up since sale, and this up/down effect is concentrated in stocks previously sold for a gain; for stocks previously sold for a loss, the up/down difference is small and not statistically significant.",
+    "Repurchases of stocks sold for a gain and later down do not show reliable superior abnormal performance (CAPM alpha is negative; four-factor alpha is not significantly positive), and the documented patterns are not primarily explained by taxes or a general mean-reversion strategy."
+  ],
+  "one_line_summary": "Using large brokerage trade records, the paper shows that investors are less likely to repurchase stocks they sold for losses or that rose after sale, consistent with counterfactual regret/disappointment and reinforcement learning.",
+  "relation_to_prior_work": "extends prior work on the disposition effect and investor learning by shifting attention from sell timing to subsequent repurchase of the same stock. It applies regret/disappointment and counterfactual mechanisms from decision and consumer research to large-scale field trading data.",
+  "research_gap": "Prior research documented the disposition effect and buying/selling responses to past returns, but did not directly establish how an investor's own prior outcome with a specific stock shapes later repurchase of that same stock. The paper addresses this gap with opportunity-adjusted repurchase tests across prior sale outcomes and post-sale price movements.",
+  "research_question": "Do investors' prior experiences with a stock affect whether they buy it again, specifically whether the stock was sold for a gain or loss and whether it rose or fell after the sale? Are the observed repurchase patterns consistent with regret/disappointment and counterfactual reinforcement learning rather than taxes, skill, or mean-reversion beliefs?"
+}

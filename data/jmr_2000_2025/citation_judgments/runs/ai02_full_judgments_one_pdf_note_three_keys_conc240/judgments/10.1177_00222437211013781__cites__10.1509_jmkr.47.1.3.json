@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citation is used for a concrete methodological role rather than a passing mention. In the methods discussion and appendix, the authors explicitly invoke Petrin and Train's control function approach to address endogeneity as a robustness check, including first-stage instrument equations and residual inclusion. Even though their primary correction uses a different LIV method, this cited paper materially supports how they validate the credibility of their estimates.",
+  "relation_description": "The citing paper applies the cited paper's control function endogeneity-correction idea as an alternative estimation strategy in robustness analysis. It adapts that approach to its B2B satisfaction setting and uses it to confirm that core results are stable.",
+  "relation_type": "applies"
+}

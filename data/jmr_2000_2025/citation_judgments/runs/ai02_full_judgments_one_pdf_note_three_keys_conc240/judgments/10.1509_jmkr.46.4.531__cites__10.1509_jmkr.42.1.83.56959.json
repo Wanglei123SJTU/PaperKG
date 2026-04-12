@@ -1,0 +1,6 @@
+{
+  "citation_substance": "mention_only",
+  "rationale": "The cited paper appears only in a grouped literature-list citation where the authors classify prior disaggregate methods as full-information ML approaches. The citing paper does not discuss Villas-Boas and Zhao's model, assumptions, or findings separately, and it does not build its estimator from that paper specifically. The citation functions as background positioning rather than a distinct conceptual or methodological basis for the new SML aggregate-data estimator.",
+  "relation_description": null,
+  "relation_type": null
+}

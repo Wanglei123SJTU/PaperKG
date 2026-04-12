@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Yang and Allenby (2003) for more than background: it explicitly discusses their demographic-neighbor concept and their finding that combining geographic and demographic neighbors improves modeling. It then incorporates that same dual-neighbor logic in its own model setup, including weighted neighborhood matrices and a distance-decay specification noted as following Yang and Allenby. The cited work therefore materially informs the citing paper's conceptual framing and parts of its measurement/model construction, even though the citing paper introduces a different dynamic spatiotemporal Poisson framework.",
+  "relation_description": "The citing paper extends Yang and Allenby's interdependent-preferences approach by carrying forward the joint geographic and demographic neighbor idea into a time-varying spatiotemporal diffusion model for online grocery adoption. It adds temporal dynamics and a different outcome structure (regional new-buyer counts) rather than simply repeating the original individual choice model.",
+  "relation_type": "extends"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "This article presents the first attempt to quantify the economic magnitude of prescription drug DTCA on brand sales through reduced interpurchase time (improved refill compliance).",
+    "It separates three advertising channels affecting compliance: intertemporal effects of the currently taken brand, effects of competing brands, and advertising effects on patient mix at therapy start.",
+    "It shows that own-brand compliance effects can differ by brand and can be negative when salient TV risk disclosures provide new side-effect information to current users."
+  ],
+  "context": "The study is set in U.S. cholesterol-lowering prescription drugs, especially heavily advertised statins during 1996-1999. It uses insured hyperlipidemic patients in Blue Shield of California claims data, where the condition is chronic and largely asymptomatic.",
+  "design_and_data": "The author uses a four-year panel of pharmacy claims for patients initiating cholesterol therapy at Blue Shield of California. From 19,618 starters, the estimation sample includes 16,011 patients and 123,736 refill gaps (May 1996 to September 1999), excluding single-fill patients and concurrent multi-drug users. Compliance is measured as noncompliant days between fills, adjusted for pill stock, and linked to monthly brand-level DTCA spending from Competitive Media Reporting Ad$pender. The analysis uses count-data models (primarily negative binomial, with fixed-effects checks) and controls for brand effects, copayments, channel, dose, therapy duration, seasonality, and major entry shocks.",
+  "focal_constructs": [
+    "direct-to-consumer advertising (DTCA)",
+    "drug therapy compliance",
+    "noncompliant days between refills",
+    "own-brand advertising effects",
+    "competing-brand advertising spillovers",
+    "patient mix at therapy initiation",
+    "side-effect risk information salience"
+  ],
+  "main_findings": [
+    "DTCA effects on compliance are statistically significant but economically small, with compliance-related return measured in cents on the dollar and own-brand incremental sales from compliance gains no more than about 15% of advertising spend.",
+    "Higher category advertising around therapy initiation predicts better subsequent compliance, and higher contemporaneous advertising by other brands also improves compliance, indicating category-level spillovers.",
+    "Own-brand effects are heterogeneous: advertising improves compliance for two major brands but decreases it for Lipitor, with the negative effect concentrated in television ads and among patients for whom side-effect warnings were likely new information."
+  ],
+  "one_line_summary": "Using Blue Shield of California statin claims linked to ad spend, the paper finds that DTCA has small compliance effects with positive category spillovers but brand-specific own effects that can even be negative when TV side-effect disclosures are newly salient.",
+  "relation_to_prior_work": "extends prior DTCA work centered on demand expansion and limited compliance evidence by providing objective refill-based estimates of compliance effects and their economic magnitude. It also addresses limitations of survey-based evidence by distinguishing own-brand and cross-brand advertising effects and examining patient-mix effects at therapy onset.",
+  "research_gap": "The paper argues that empirical evidence on advertising's actual effect on compliance is scant, while widely cited support comes largely from self-reported telephone surveys vulnerable to priming. It also notes that prior analyses did not clearly quantify the economic magnitude of compliance effects or cleanly identify own-versus-other brand spillovers in claims-based settings.",
+  "research_question": "Does direct-to-consumer advertising improve compliance with prescribed cholesterol-lowering drug therapy, and what is the economic magnitude of that effect on brand sales through shorter interpurchase time? The paper asks separately how own-brand advertising, competing-brand advertising, and advertising at therapy initiation (patient mix) affect refill compliance."
+}

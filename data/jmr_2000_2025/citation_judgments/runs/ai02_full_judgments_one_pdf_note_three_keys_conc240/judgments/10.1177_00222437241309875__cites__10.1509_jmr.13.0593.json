@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Venkatraman et al. (2015) as prior neuroforecasting evidence linking neurophysiological measures to market-level outcomes and explicitly discusses its finding that EEG alpha and frontal alpha asymmetry showed moderate associations with ad elasticity. This prior result is used to motivate inclusion of alpha-band and alpha-asymmetry metrics in the citing paper's metric set and to frame the incremental-prediction question beyond traditional measures. The citing paper then contrasts its own results against that backdrop by showing only gamma robustly predicts box office in its mega-analysis.",
+  "relation_description": "The citing study treats the cited paper as a conceptual and empirical foundation for testing whether EEG-based signals add predictive value for market success beyond traditional measures. It leverages the cited paper's reported alpha/asymmetry-market links as prior evidence when selecting and evaluating EEG predictors in a new movie-trailer context.",
+  "relation_type": "foundational_for"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a forward-looking influencer marketing approach that targets prospective influencers early and contracts their future endorsements before they become expensive or unavailable.",
+    "Proposes a two-phase framework that jointly solves timing and selection trade-offs and outputs a practical decision triplet (buying time, selection size, and model specification), with separate procedures for managers with and without ROIS knowledge.",
+    "Provides substantive evidence that early interactivity signals (outgoing and incoming activities) are key for identifying prospective influencers in the empirical setting."
+  ],
+  "context": "The empirical application is on a worldwide leading user-generated audio platform where creators (e.g., music artists, comedians, podcasters) interact through follows, messages, reposts, comments, and likes. The managerial use case is buying future brand endorsements from newly registered creators while they are still largely unknown.",
+  "design_and_data": "The authors build and test a framework with a learning phase (historical network data) and an implementation phase (current early-stage data). The data are longitudinal platform records for 35,000 users who registered in the same week; analyses focus on 3,382 creators who uploaded at least one audio item early, tracked over 123 weeks (about 31 months). They evaluate multiple model classes, including rare-event methods, across buying times of 3, 6, 9, and 12 months, with endorsement outcomes at month 31; success is mainly defined as reaching the top 1.5% in average monthly plays near the end of the horizon. Using 1,000 data-based simulation iterations with random sample splits, they compare profit realization under different ROIS levels and manager information conditions.",
+  "focal_constructs": [
+    "prospective influencers",
+    "future endorsements",
+    "influencer seeding",
+    "rare-event prediction",
+    "weak signals",
+    "buying time",
+    "selection size",
+    "return on successful influencer spend (ROIS)"
+  ],
+  "main_findings": [
+    "The dominant solutions in the empirical setting buy at 6 months after registration, and dominant predictive specifications are rare-event models (SMOTE-logit, King and Zeng rare-events logit, and extreme gradient boosting).",
+    "Across dominant specifications, interactivity (outgoing and incoming activities) is the main early signal, while social capital measures appear in a minority of dominant cases.",
+    "With ROIS knowledge, the framework yields substantial positive profit realization in simulation (about 20% for ROIS above about 280%, with maxima up to about 60% at high ROIS), while without ROIS knowledge profit realization is lower but still meaningful (about 15%); a random selection benchmark shows negative median realization."
+  ],
+  "one_line_summary": "The paper develops and simulates a framework for contracting future endorsements from newly registered prospective influencers, showing that rare-event modeling and early interactivity signals can produce meaningful profits versus naive seeding.",
+  "relation_to_prior_work": "introduces a new seeding target and decision framework by shifting from established influencers to prospective influencers under rare-event conditions, while drawing on prior influencer-seeding and rare-event prediction literatures.",
+  "research_gap": "Prior influencer seeding research mainly emphasizes targeting existing influencers, but escalating endorsement prices and contractual constraints make that strategy difficult for many firms. The paper identifies a missing framework for early, profitable selection of prospective influencers when eventual influencer emergence is rare and signals are weak.",
+  "research_question": "How can firms detect and select newly registered users who are likely to become influencers and contract their future endorsements at low cost? The paper asks when to buy and how many users to select so expected profits are maximized despite rare events and weak early signals."
+}

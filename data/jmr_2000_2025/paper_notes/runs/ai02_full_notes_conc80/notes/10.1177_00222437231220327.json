@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper identifies a novel empirical effect: canary categories, where purchasing in a category predicts a lower likelihood of returning to the retailer, and contrasts them with bellwether categories.",
+    "It proposes a stylized mechanism and model showing four contributors to the canary effect: favorite-brand availability, willingness to substitute, attractiveness/cost of switching stores, and beliefs about future availability.",
+    "It argues and documents that canary categories are endogenous to retailer-specific assortments and local preferences, implying a category can be canary at one retailer and destination-like at another."
+  ],
+  "context": "The primary setting is a large U.S. convenience-store chain selling consumer packaged goods in urban and suburban markets, with customer return behavior tracked at the store and chain levels. The authors also replicate the core pattern at a U.S. membership-based wholesale club.",
+  "design_and_data": "Using loyalty-card transaction histories for 103,366 customers (Nov 2003-Nov 2005) and 501 categories at a convenience chain, the authors define a 2004 preperiod and a later postperiod, split customers into classification and holdout samples, classify categories by preperiod purchaser survival quartiles, and estimate holdout survival models with controls and customer fixed effects. They use 111 stores' weekly SKU-level assortment data to study favorite-brand availability, substitution, local preference heterogeneity, and localization of assortments. They run extensive robustness checks (alternative models, controls, period definitions, outcome definitions, and category aggregation), chain-level survival analyses, and out-of-sample prediction tests. They also run four online experiments that randomize preferred-brand availability, urgency, distance to an alternative store, and temporary vs. permanent unavailability, and measure stated current purchase and future return intentions.",
+  "focal_constructs": [
+    "canary categories",
+    "bellwether categories",
+    "customer survival and churn",
+    "favorite-brand availability",
+    "brand substitution",
+    "local preferences and localized assortments",
+    "store switching costs and lock-in",
+    "expectations about future availability"
+  ],
+  "main_findings": [
+    "At the convenience retailer, purchases in canary categories are negatively associated with later store survival while bellwether-category purchases are positively associated, even with controls and customer fixed effects (e.g., about -0.151 percentage points per canary unit vs +0.197 for bellwether in the holdout OLS model).",
+    "Customers are much more likely to face missing favorite brands in canary categories (about 3.30%) than in bellwether categories (about 1.11%); when favorites are missing, they are less likely to buy and are less likely to return, and canary-category customers show more substitution when favorites are unavailable.",
+    "Online experiments provide causal support for the mechanism: making preferred brands unavailable increases the share who buy now but do not return (Segment B), and this pattern strengthens with higher urgency and with permanent (vs temporary) unavailability; key effects are larger for the representative canary category (juice) than the representative bellwether category (milk) for availability and permanence manipulations."
+  ],
+  "one_line_summary": "The paper shows that some retail categories are canary categories in which current purchases predict future customer defection, and links this to missing favorite brands, substitution under lock-in, and incomplete local assortment matching.",
+  "relation_to_prior_work": "extends prior assortment-management and store-choice research by introducing canary categories as a retention-relevant category type, complementing destination-category logic and connecting category purchases to cross-store switching behavior.",
+  "research_gap": "Prior assortment and store-choice studies document heterogeneous category effects but do not clearly identify categories where purchasing signals lower future customer survival at the retailer. The paper addresses this by defining and testing canary categories and their mechanism.",
+  "research_question": "Do there exist product categories in which a customer's purchase predicts lower future return to the retailer rather than higher return? If so, what explains this canary category effect, particularly the roles of favorite-brand availability, substitution behavior, switching frictions, and expectations about future availability?"
+}

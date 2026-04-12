@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Shows that relative nonprice attribute quality levels across formats (parity versus dominance) are key drivers of perceived complementarity and bundle choice in multiformat digital products.",
+    "Demonstrates a counterintuitive effect that attribute parity can increase bundle choice even when the shared salient attribute is equally low for both formats.",
+    "Contributes to substitution-in-use and bundling literatures by showing that design can shift attention from intended usage to broader potential usages and flexibility, beyond price-based explanations."
+  ],
+  "context": "The paper studies information products sold in multiple formats, such as print and digital books and movie rental formats. Empirical tests use a publisher's print versus PDF books in field settings and Internet versus DVD-by-mail movie subscriptions in a lab setting.",
+  "design_and_data": "The authors first used an SIU-based development process (focus groups, expert ranking, and respondent appropriateness ratings) to identify key usage situations and attribute dimensions for book formats. Study 1 was a customer survey mailed to 3,500 publisher customers (about 1,100 responses; regression N=930) measuring usage situations, relative attribute quality, and perceived complementarity. Study 2 was an online field experiment with actual customers browsing about 500 titles, choosing among print, PDF, bundle, or none under varying PDF prices; final data were 1,429 choices from 811 respondents analyzed with a mixed-effects multinomial logit with price and covariates. Study 3 was a 2x2 between-subjects lab experiment (N=116 undergraduates) on Internet versus DVD-by-mail subscriptions manipulating quality parity/dominance on a salient common attribute and measuring bundle preference and process variables.",
+  "focal_constructs": [
+    "usage situations",
+    "salient attributes",
+    "relative attribute quality parity",
+    "attribute dominance across formats",
+    "perceived substitutability/complementarity",
+    "bundle purchase likelihood",
+    "flexibility for future usage"
+  ],
+  "main_findings": [
+    "When formats were equivalent on usage-salient attributes, consumers perceived the formats as more complementary (or less perfectly substitutable) than when one format dominated.",
+    "In field choice data, equal perceived quality on salient attributes increased bundle purchase likelihood relative to choosing a single format, while controlling for price and other covariates.",
+    "In the lab experiment, both high-high and low-low parity on the salient common attribute increased bundle preference, and this effect operated through considering more usage situations, greater perceived flexibility, and complementarity perceptions."
+  ],
+  "one_line_summary": "Across survey, field experiment, and lab evidence, the paper shows that when two formats are equal on a salient attribute, consumers view them as more complementary and are more likely to choose the bundle because it offers flexibility across usage situations.",
+  "relation_to_prior_work": "extends substitution-in-use and bundling research by identifying a design-based, nonprice mechanism in which parity on salient attributes shifts attention to unique attributes, increasing complementarity perceptions and bundle choice.",
+  "research_gap": "Prior substitution-in-use work emphasizes intended usage, and bundling research has largely emphasized pricing and bundle composition. The paper argues that less is known about how nonprice design attributes, especially quality parity versus dominance on salient attributes, interact with usage situations to shape perceived substitutability/complementarity and bundle choice in multiformat information products.",
+  "research_question": "How do usage situations and relative attribute quality levels across product formats determine whether consumers perceive formats as substitutes or complements? Under what conditions does this perception increase the likelihood of choosing a bundle of formats rather than a single format?"
+}

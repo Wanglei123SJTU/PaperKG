@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces a new Bayesian gift-choice model that jointly captures preference prediction (giver vs. receiver preferences) and the signaling value of price in gift choice.",
+    "Develops and applies a two-stage choice-based conjoint procedure that identifies giver and receiver self-preferences, manipulates information about receiver preferences, and estimates gift-choice mechanisms with hierarchical Bayesian methods.",
+    "Provides a decomposition of gift-giving deadweight loss into inaccurate preference prediction and price-signaling components, and links their relative importance to information and market price variation."
+  ],
+  "context": "The paper studies consumer gift purchasing in retail settings where people buy gifts for friends. Empirically, it uses university friend pairs in Southeast Asia and two product categories: headphones and wireless mice.",
+  "design_and_data": "The authors build a multinomial probit gift-choice model with Bayesian updating of gift preferences and a price-signaling term, estimated via hierarchical Bayesian methods. Study 1 uses 99 friend pairs (198 participants): stage 1 has six self-choice conjoint tasks, then information disclosure manipulation (none, one answer, or all six answers), then six gift-choice tasks. Study 2 uses 244 friend pairs (488 participants): stage 1 has eight self-choice tasks, information disclosure varies from 0 to 8 revealed answers, and stage 2 randomly assigns participants to either gift-choice or agent-choice tasks (eight tasks each). They compare model variants using log-marginal density and use posterior simulations over many possible markets to decompose deadweight loss.",
+  "focal_constructs": [
+    "gift preferences",
+    "giver uncertainty about receiver preferences",
+    "preference prediction",
+    "price sensitivity",
+    "signaling value of price",
+    "deadweight loss of gift giving",
+    "information disclosure"
+  ],
+  "main_findings": [
+    "Gift preferences are a weighted average of giver and receiver self-preferences, and more information about receiver preferences shifts weight toward the receiver.",
+    "Gift givers are less price sensitive than receivers when buying for self, consistent with a positive signaling value of price; this reduction in price sensitivity is strongest under high uncertainty and weakens with more information.",
+    "Deadweight loss is driven by both preference prediction error and price signaling, and price signaling becomes especially important in markets with high price variation, reaching the dominant share in some scenarios."
+  ],
+  "one_line_summary": "Using a Bayesian gift-choice model and two conjoint experiments, the paper shows that uncertainty makes givers rely more on price as a relationship signal, reducing price sensitivity and materially increasing gift-giving deadweight loss beyond preference prediction errors alone.",
+  "relation_to_prior_work": "extends prior gift-giving research that mainly explains welfare loss through preference misprediction by adding and estimating a second mechanism: price signaling that reduces giver price sensitivity. It also contrasts with standard self-choice uncertainty findings by showing that, in gift choice, more information about receiver preferences can increase price sensitivity.",
+  "research_gap": "Prior gift-giving work largely attributes deadweight loss to inaccurate predictions of receiver preferences, while the role of reduced price sensitivity from price signaling is largely untested. The relative contribution of these two mechanisms, and how giver uncertainty about receiver preferences moderates them, was not known.",
+  "research_question": "How much of gift-giving deadweight loss is due to preference prediction error versus a signaling value of price that lowers giver price sensitivity? How does the giver's information (uncertainty) about receiver preferences change gift preference formation and price sensitivity during gift choice?"
+}

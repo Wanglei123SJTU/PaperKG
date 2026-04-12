@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper provides an empirical estimate of product-harm spillover effects on unaffected products within the same brand by studying Volkswagen models that were not EPA violators.",
+    "It uses second-price online auction outcomes to directly measure changes in consumers' willingness to pay, rather than relying only on sales or stock-market responses.",
+    "It contributes evidence that a major crisis can generate a negative demand shock for unaffected branded products in used-car markets."
+  ],
+  "context": "The study is set in the U.S. eBay Motors used-car auction market around the September 18, 2015 EPA announcement of Volkswagen diesel emissions violations. It examines Volkswagen cars that were not identified as violating models and compares them with non-Volkswagen cars.",
+  "design_and_data": "The data contain 49,497 successfully sold U.S. eBay Motors car auction listings from November 2014 to August 2016, with car attributes and auction-level variables. The core design is difference-in-differences, with Volkswagen listings as treatment and other manufacturers as controls, estimated separately by fuel type and model-year groups (including non-violating diesel 2000-2008 and gasoline 2000-2008 and 2009-2015). Regressions include extensive listing controls, time and body-type fixed effects, plus seller and make fixed effects in key specifications, with clustered standard errors. The paper also reports placebo tests, alternative control-group constructions, and synthetic control checks.",
+  "focal_constructs": [
+    "product-harm crises",
+    "spillover effects",
+    "consumer willingness to pay",
+    "used-car auction prices",
+    "Volkswagen diesel emissions scandal",
+    "bidding behavior",
+    "reserve-price strategies"
+  ],
+  "main_findings": [
+    "After the EPA announcement, final bid prices for Volkswagen non-violating diesel cars (model years 2000-2008) fell by about 14-15%.",
+    "Final bid prices for Volkswagen gasoline cars fell by about 9-11% in both model-year groups (2000-2008 and 2009-2015).",
+    "There is little evidence of major post-scandal changes in bidder participation, bidding activity, listing counts, or reserve-price choices for non-violating Volkswagen cars, so the price declines are interpreted as lower buyer willingness to pay."
+  ],
+  "one_line_summary": "Using U.S. eBay Motors auction data, the paper shows that the 2015 Volkswagen diesel scandal lowered prices for unaffected Volkswagen used cars, indicating a negative within-brand demand spillover.",
+  "relation_to_prior_work": "extends prior product-harm crisis research that reports mixed spillover evidence by identifying price and willingness-to-pay effects on unaffected products under the same brand in a real market. It also differs from related Volkswagen scandal studies by focusing on U.S. used-car auction prices and buyer demand responses rather than new-car sales, transaction counts, or supply effects in other countries.",
+  "research_gap": "The paper states that although product-harm crises are widely studied, negative spillovers to unaffected products under the same brand are underexplored and existing evidence is equivocal. It also motivates a need for direct evidence on willingness-to-pay effects rather than only sales or firm-value outcomes.",
+  "research_question": "Does the Volkswagen diesel emissions scandal reduce transaction prices for Volkswagen cars that were not emissions violators, indicating a spillover to unaffected products under the same brand? If prices fall, are the changes consistent with lower buyer willingness to pay rather than shifts in bidder entry, bidding behavior, supply, or seller reserve-price strategies?"
+}

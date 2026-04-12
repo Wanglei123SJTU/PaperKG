@@ -1,0 +1,4 @@
+{
+  "rationale": "Keep: the citing paper’s core method is a multivariate time-varying state-space/dynamic linear system with evolving elasticities and Bayesian estimation, while the cited paper is explicitly a hierarchical Bayesian dynamic linear model for evolving market-response parameters under nonstationarity. This is a strong plausible method/foundation linkage (despite only one DOI match and no local citation context), so it is not safe to treat as an obvious mention-only citation.",
+  "triage_decision": "keep_for_relation_judgment"
+}

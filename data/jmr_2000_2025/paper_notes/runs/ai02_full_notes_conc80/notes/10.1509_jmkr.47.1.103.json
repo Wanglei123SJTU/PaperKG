@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a new brand-level method for estimating primary demand effects with aggregate data by aggregating estimated brand own- and cross-effects rather than aggregating sales and expenditures first.",
+    "It introduces a decomposition of primary demand into a competition-neutral component and a competitive-dynamics component, allowing separation of inherent responsiveness from observed net effects.",
+    "It argues and empirically shows that category sales models can mask brand heterogeneity and produce biased period-by-period primary-demand predictions."
+  ],
+  "context": "The study is set in the U.S. prescription pharmaceutical market after the 1997 relaxation of FDA rules on direct-to-consumer advertising. Empirical analyses cover 86 drug categories during 2001-2005, representing about 85% of U.S. prescription drug sales.",
+  "design_and_data": "The authors estimate a reduced-form dynamic log-log brand sales model with own and competitive marketing effects, lagged sales, prices, and controls for life cycle, innovation type, indications, patent loss, seasonality, and category effects. Data come from IMS Health MIDAS and FDA records, quarterly from 2000Q4 to 2005Q4; after filtering, the sample includes 2,831 brands across 86 categories (47,308 observations). They derive period-specific primary-demand effects from estimated brand elasticities and observed expenditure growth, then compute total and competition-neutral elasticities. They compare results to a conventional category sales model and run a second-stage moderator analysis of category-level primary-demand responsiveness.",
+  "focal_constructs": [
+    "primary demand effects",
+    "detailing expenditures",
+    "direct-to-consumer advertising",
+    "professional journal advertising",
+    "competitive substitution effects",
+    "competition-neutral primary demand elasticity",
+    "brand heterogeneity"
+  ],
+  "main_findings": [
+    "Average total primary-demand effects are small: long-term elasticities are about 0.047 for detailing, 0.036 for professional journal advertising, and 0.041 for DTC advertising.",
+    "Competition-neutral primary-demand responsiveness is much larger, especially for detailing (long-term about 0.278), implying that small net category effects mainly reflect strong competitive interactions rather than inherently low responsiveness.",
+    "Contrary to much prior work, detailing is more effective than DTC advertising for driving primary demand in almost all categories, and category sales models can yield systematically different and sometimes sign-reversed predictions of cumulative sales impact."
+  ],
+  "one_line_summary": "Using quarterly U.S. pharmaceutical data for 86 categories, the paper develops a brand-level aggregate-data method and finds that small observed primary-demand effects are largely due to competition, with detailing more potent than DTC advertising in expanding primary demand.",
+  "relation_to_prior_work": "extends prior pharmaceutical primary-demand research by moving from category sales models to a brand-level aggregate-data decomposition that separates inherent primary-demand responsiveness from competitive dynamics. It revisits the common conclusion that DTC advertising is more effective than detailing and finds the opposite once brand heterogeneity and competitive interactions are modeled.",
+  "research_gap": "Prior studies mainly infer primary-demand effects from category sales models, which cannot disentangle whether small category-level effects come from inherently weak responsiveness or from offsetting competitive interactions across brands. Existing evidence is also limited in scope, with little broad analysis that jointly evaluates detailing, DTC, and professional journal advertising while accounting for heterogeneity and potential endogeneity.",
+  "research_question": "How strongly do physician-oriented marketing (detailing and professional journal advertising) and patient-oriented marketing (DTC advertising) drive primary demand for prescription drugs in the U.S.? Are the small primary-demand effects reported in prior research due to low inherent responsiveness or to competitive dynamics among brands, and can a brand-level aggregate-data method separate these sources?"
+}

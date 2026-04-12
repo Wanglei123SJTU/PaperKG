@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper (10.1509/jmr.10.0395) is methodologically very close to the citing paper: both are Bayesian latent/mixture segmentation regressions with segment-level spike-and-slab variable selection. The citing note explicitly positions its contribution against prior latent class variable-selection models that select predictors independently, which strongly suggests this citation is a substantive methodological reference rather than a passing mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

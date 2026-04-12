@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the citing paper, Naik and Tsai (2000) is cited in the methodological motivation to support the claim that ignoring measurement noise in advertising variables yields inconsistent parameter estimates, and this point is reiterated in the empirical interpretation section. That claim is central to the paper's decision to extract latent intermediate factors and filter noise with a state-space/Kalman approach rather than use raw mind-set metrics directly. The citation therefore plays a meaningful role in framing and justifying the core estimation strategy, not just background listing.",
+  "relation_description": "The citing paper treats Naik and Tsai (2000) as prior methodological grounding for the measurement-error problem in advertising models. It builds its own denoising dynamic factor framework on that premise to link advertising, intermediate effects, and sales.",
+  "relation_type": "foundational_for"
+}

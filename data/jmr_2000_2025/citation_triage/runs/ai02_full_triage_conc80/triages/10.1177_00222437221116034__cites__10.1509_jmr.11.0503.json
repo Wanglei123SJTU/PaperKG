@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s stated contribution is an optimal-control/mixed-logit framework for customer-level exposure optimization across brands and media, while the cited paper is a field experiment on when dynamic vs. generic retargeting content works. Although the topics are related (targeting/personalization), the provided evidence does not show an explicit methodological or theoretical dependency in the citing paper’s prior-work summary, and the raw match is only a DOI with no in-text context. This is not safe to drop as obvious mention-only, but evidence is too sparse to clearly keep.",
+  "triage_decision": "uncertain"
+}

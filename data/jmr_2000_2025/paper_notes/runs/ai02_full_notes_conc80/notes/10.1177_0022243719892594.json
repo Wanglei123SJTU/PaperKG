@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper identifies when positive emotional language in reviews enhances impact versus backfires, showing a product-type boundary condition (hedonic vs utilitarian).",
+    "It proposes and tests a process model in which expectation violation increases surprise and lowers trust in the review, which then reduces helpfulness and product favorability.",
+    "It introduces and applies the Evaluative Lexicon as a tool to quantify valence, extremity, and emotionality in natural language marketing data."
+  ],
+  "context": "The paper studies online consumer reviews and word of mouth, with a major empirical focus on Amazon reviews. The product domain includes both hedonic categories (for example, movies and music) and utilitarian categories (for example, software, textbooks, and household tools).",
+  "design_and_data": "The authors combine computational text analysis with controlled experiments. Archival analyses use Amazon review data, including a main sample of 46,832 positive reviews across 516 products with 555,508 helpfulness votes, and a later sample of 128,938 reviews to test which reviews reach product front pages. Emotionality and extremity are quantified with the Evaluative Lexicon, and models control for factors such as review length, star rating, timing, and fixed effects. Five experiments (mostly MTurk plus one student lab sample) manipulate product type or motive, review emotionality, and reviewer expertise, and measure expectations, surprise/oddity, trust, helpfulness, purchase intentions, and actual choice.",
+  "focal_constructs": [
+    "positive emotionality in review language",
+    "hedonic versus utilitarian product type",
+    "review helpfulness",
+    "trust in the review",
+    "expectation violation and surprise",
+    "product favorability and purchase intentions",
+    "review popularity and spread"
+  ],
+  "main_findings": [
+    "Reviewers who express greater positive emotionality give more positive overall product evaluations, and this reviewer-side effect does not depend on product type.",
+    "For readers, positive emotionality has opposite effects by product type: it increases helpfulness and favorability for hedonic products but decreases helpfulness, favorability, purchase intentions, and choice for utilitarian products.",
+    "The backfiring pattern is explained by expectation violation leading to surprise/oddity and reduced trust in the review; increasing reviewer expertise attenuates this pattern, and including explanations in reviews eliminates it in the Amazon data."
+  ],
+  "one_line_summary": "Using Amazon data and experiments, the paper shows that positive emotional language in reviews helps hedonic products but backfires for utilitarian products because unexpected emotion reduces trust in the review.",
+  "relation_to_prior_work": "extends prior online review and word-of-mouth research that often treats emotional content as broadly beneficial by showing a clear boundary condition where it reverses for utilitarian products. It also advances nascent trust research in online reviews by linking review content and expectation violation to trust in the specific review.",
+  "research_gap": "Prior work on consumer reviews had not systematically examined when emotionality in review text is enhancing versus when it backfires, and often focused on related but distinct constructs such as figurative language or arousal. The role of trust in the review itself as a mechanism for these effects was also identified as underexplored.",
+  "research_question": "When does positive emotional content in consumer reviews increase versus decrease review impact? The paper asks whether these effects differ for hedonic and utilitarian products and why the same emotional language can be persuasive in one case but counterproductive in the other."
+}

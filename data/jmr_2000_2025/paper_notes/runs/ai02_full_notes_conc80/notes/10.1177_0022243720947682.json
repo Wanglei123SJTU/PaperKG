@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Identifies initial brand market share as a key determinant of whether corporate political advocacy (CPA) produces net customer gains or losses.",
+    "Shows that CPA outcomes are jointly driven by individual-level identity-based responses and a market-level customer sorting mechanism.",
+    "Documents perceived authenticity as a necessary condition for small-share brands to benefit from CPA."
+  ],
+  "context": "The paper studies brand activism in consumer markets where firms publicly take stances on divisive sociopolitical issues such as transgender bathroom access, Brexit, immigration, gun control, and abortion. Empirical settings include product choice contexts (T-shirts, rental cars, shoes) and a live Facebook advertising campaign.",
+  "design_and_data": "The authors report six experiments: a lab incentive-compatible T-shirt choice study (n=509), a Prolific U.K. rental-car study (n=1,007), three MTurk studies including politically balanced samples (n=484, n=1,002, n=777), and a field Facebook ad experiment (n=39,633). They manipulate CPA presence and stance, participants' alignment with the stance, initial market share (via number of competitors, price, or quality), and CPA authenticity (high vs low; leader vs follower/copycat framing). Dependent variables are focal-brand choice and, in the field study, click-through rate. Analyses use logistic/mixed-effects regressions and mediation via brand (dis)identification.",
+  "focal_constructs": [
+    "corporate political advocacy (CPA)",
+    "initial market share",
+    "issue alignment",
+    "brand identification and disidentification",
+    "negativity bias",
+    "perceived authenticity",
+    "individual-level brand choice",
+    "market-level customer sorting"
+  ],
+  "main_findings": [
+    "Aligned CPA increases individual choice and misaligned CPA decreases individual choice, and these effects are mediated by brand identification versus disidentification.",
+    "Consumer response shows negativity bias: brands are more likely to lose misaligned existing customers than gain aligned new customers.",
+    "At the market level, CPA decreases choice for large-share brands but can increase choice for small-share brands; low authenticity removes or weakens this small-share benefit while not reducing losses for large-share brands."
+  ],
+  "one_line_summary": "Across six experiments, the paper finds that CPA usually hurts large-share brands but can help small-share brands through customer sorting, especially when the advocacy is perceived as authentic.",
+  "relation_to_prior_work": "extends prior CPA and marketing-politics research by specifying when CPA is net positive or negative through initial market share and market-level sorting. It also differentiates CPA from CSR by showing that authenticity mainly affects gains from aligned consumers rather than buffering losses from misaligned consumers.",
+  "research_gap": "Existing identity-based and negativity-bias arguments imply CPA should be net harmful because opposition reactions are stronger than support reactions. The paper argues this view is incomplete because it does not model how initial market share changes the balance of customers a brand can lose versus gain after CPA.",
+  "research_question": "When a brand takes a public stance on a divisive sociopolitical issue, what determines whether the net market effect is customer gain or loss? The paper asks how individual-level alignment and negativity bias aggregate into market outcomes, and whether initial market share and perceived authenticity condition those outcomes."
+}

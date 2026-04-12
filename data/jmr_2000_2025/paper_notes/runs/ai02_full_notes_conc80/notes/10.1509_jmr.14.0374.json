@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper shows that exposure to sex-based ads can decrease heterosexual men's preference for romantically linked products and services.",
+    "It proposes and tests a mechanism in which sexual imagery activates a sex goal that devalues romantic connection, and this devaluation mediates lower dating-service interest and willingness to pay.",
+    "It documents boundary conditions: the effect is one-directional in men (sex imagery reduces romantic preference, but romantic imagery does not reduce sex-related preference) and does not generalize to women in the same way."
+  ],
+  "context": "The paper examines incidental exposure to sexual versus nonsexual/romantic video advertising and its spillover effects on preferences for relationship-linked offerings (e.g., dating services, jewelry, romance-themed media) and sex-themed media. Studies use heterosexual U.S. participants, mainly from MTurk, plus a male undergraduate lab sample.",
+  "design_and_data": "Experiment 1 (N = 471 heterosexual MTurk adults) randomized participants to six sex-based versus matched control video ads, then measured evaluation of a relationship-relevant ad/product (eHarmony for singles, Kay jewelry for those in relationships), with thought coding as a manipulation check. Experiment 2 (N = 84 heterosexual male undergraduates) used sex-based versus nonsexual ad with the same actress versus baseline, measured feelings toward sex-related and romantic-connection phrases, and assessed likelihood and willingness to pay for a long-term dating website; mediation was tested using Sobel and bootstrap analyses. Experiment 3 (N = 728 heterosexual male MTurk adults) used sex-based versus romantic versus no-ad conditions and measured purchase likelihood for a romance-themed versus sex-themed movie. Experiment 4 (N = 681 heterosexual female MTurk adults) used the same 3 x 2 structure as Experiment 3 with female participants and female-targeted stimuli.",
+  "focal_constructs": [
+    "sexual imagery in advertising",
+    "romantic connection motive",
+    "sex drive",
+    "goal devaluation",
+    "preference for romantically linked products and services",
+    "preference for sex-related products",
+    "gender differences"
+  ],
+  "main_findings": [
+    "Across Experiments 1 and 2, exposure to sex-based ads reduced men's evaluations and purchase intentions for romantically linked offerings, and in Experiment 1 this held for men regardless of relationship status.",
+    "In Experiment 2, sex-based ads increased valuation of sex-related cues and decreased valuation of romantic-connection cues, and devaluation of romantic connection mediated lower likelihood of joining and lower willingness to pay for a dating website.",
+    "In Experiment 3, sex-based ads reduced men's preference for a romance-themed movie but increased preference for a sex-themed movie, while romantic ads did not reduce men's preference for sex-themed content; in Experiment 4, sex-based ads did not decrease women's preference for a romance-themed movie."
+  ],
+  "one_line_summary": "Across four experiments, exposure to sex-based advertising reduced heterosexual men's preference for romantically linked offerings via devaluation of romantic connection, with asymmetric effects and no comparable devaluation in women.",
+  "relation_to_prior_work": "extends prior sex-in-advertising research that focused mainly on ad attitudes, recall, and sales by testing downstream preference spillovers across romantic and sexual product domains. It also advances fundamental-motives work by showing that sexual and romantic motives can conflict under sexual imagery in men, rather than always operating as aligned mating motives.",
+  "research_gap": "The paper identifies that, unlike food-cue research, there is limited research on how exposure to sexual imagery affects subsequent preferences and behavior beyond the focal ad. It also addresses limited evidence on how sexual and romantic motives interact in consumer choice.",
+  "research_question": "Does exposure to sexual imagery in advertising change consumer preferences, especially men's preferences for products and services linked to romantic connection? If so, is the effect explained by devaluation of romantic connection, does the reverse pattern occur for romantic imagery, and does the pattern differ for women?"
+}

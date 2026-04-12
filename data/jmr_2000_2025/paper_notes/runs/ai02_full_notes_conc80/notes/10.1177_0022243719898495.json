@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper offers a theory-driven model of ethics committee utilization that links managerial role and ethics consultation experience to preferences for committee engagement and prescriptive authority.",
+    "It distinguishes task management and relationship management roles, and receiver/provider ethics-consultation perspectives, as noninterchangeable antecedents of how service providers use ethics committees.",
+    "It extends marketing ethics decision-process research by analyzing the predecision to seek third-party ethics consultation in complex services, beyond prior descriptive studies of ethics committee use."
+  ],
+  "context": "The empirical setting is U.S. hospital-based health care, where clinical ethical dilemmas are common and hospitals maintain ethics committees. Data come from service providers across a multihospital health system that includes tertiary and community hospitals.",
+  "design_and_data": "The authors first ran a pilot survey of 208 service providers, then conducted the main study in six hospitals within one U.S. multihospital system. In the main study, 240 respondents evaluated six real-case clinical ethics vignettes, producing 1,440 observations, and rated both preference to engage an ethics committee and preference for committee outcome prescription. Respondents were classified as task managers versus relationship managers and by ethics consultation experience (none, receiver only, provider only, both). Analyses used hierarchical linear modeling for repeated vignette responses with individuals nested in practice locations, with demographic and facility controls.",
+  "focal_constructs": [
+    "ethical dilemmas",
+    "ethics committee engagement preference",
+    "ethics committee outcome prescription preference",
+    "task management role",
+    "relationship management role",
+    "ethics consultation experience (provider vs receiver)",
+    "decision difficulty"
+  ],
+  "main_findings": [
+    "Task managers were more likely than relationship managers to prefer engaging an ethics committee when facing ethical dilemmas.",
+    "Preference for engaging an ethics committee was positively associated with preference that the committee prescribe an outcome, but this association was weaker for task managers than for relationship managers.",
+    "Ethics consultation experience moderated this pattern: among task managers, receiver-only and especially dual receiver-plus-provider experience increased preference for ethics committee outcome prescription, while provider-only experience did not show a significant moderating effect."
+  ],
+  "one_line_summary": "Using vignette-based data from hospital service providers, the study shows that managerial role and prior ethics consultation experience jointly shape whether providers want to engage ethics committees and whether they want those committees to prescribe ethical-dilemma outcomes.",
+  "relation_to_prior_work": "extends prior conceptual models of ethical decision-making in marketing by examining service providers' decisions to seek organizational ethics consultation and expected committee roles. It also extends a mostly descriptive ethics-committee literature by introducing a role- and experience-contingent empirical framework.",
+  "research_gap": "Although ethics committees are widespread, prior research on service providers' preference to engage them is sparse. Existing studies are characterized as largely descriptive and demographic, with limited theory about organizational factors that shape whether providers consult ethics committees and what role they want committees to play.",
+  "research_question": "The paper asks why and when service providers voluntarily consult ethics committees when facing ethical dilemmas in complex services. It tests whether primary managerial role (task management vs relationship management) affects preference to engage an ethics committee and preference for committee outcome prescription. It also examines how prior ethics consultation experience as a receiver, provider, or both changes these preferences."
+}

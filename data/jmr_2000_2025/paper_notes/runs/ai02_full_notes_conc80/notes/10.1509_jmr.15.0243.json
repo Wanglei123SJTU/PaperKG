@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper introduces and validates distinct cue-based constructs and dictionaries for frontline solving work, relational work, and displayed affect, using verbal and nonverbal data from service interactions.",
+    "It provides a dynamic, within-interaction analysis of problem-solving effectiveness, estimating how the effect of frontline solving work on CSAT evolves over time.",
+    "It shows that excessive relational talk and positive affect displays can reduce the effectiveness of solving work, offering a counterpoint to the common \"more is better\" view of relational behavior in recovery contexts."
+  ],
+  "context": "The study examines frontline service-failure and complaint interactions in commercial air travel, where employees and customers negotiate solutions under time pressure at check-in counters, gates, and in-flight settings. Empirical contexts include easyJet operations in UK airports and Southwest operations in US airports, plus a controlled airline-passenger experiment.",
+  "design_and_data": "Study 1 uses fly-on-the-wall video data from the TV series Airline, capturing naturalistic frontline problem-solving episodes in UK and US airports. From 111 usable interactions, 9 were reserved for dictionary development and 102 were analyzed, segmented into 373 time-ordered segments and coded thin slices for nonverbal cues; the authors built and validated dictionaries for solving and relational verbal cues and coded displayed affect and CSAT from nonverbal behavior. They estimated dynamic effects with a random-parameters panel model including interactions with time and robustness checks. Study 2 is a 2 x 2 x 2 between-subjects experiment (high/low solving work x high/low relational work x missed flight/lost baggage) with 568 recent airline travelers from a US online panel using controlled audio scenarios.",
+  "focal_constructs": [
+    "frontline solving work",
+    "frontline relational work",
+    "frontline displayed affect",
+    "customer satisfaction (CSAT)",
+    "verbal cues",
+    "nonverbal cues",
+    "outsourced regulation theory"
+  ],
+  "main_findings": [
+    "Frontline solving work has a positive effect on CSAT, and this effect increases as the interaction unfolds.",
+    "Higher levels of frontline relational work weaken the positive solving work-CSAT relationship over time, and at high relational work the solving effect can become nonsignificant.",
+    "Higher levels of positive displayed affect similarly weaken the solving work-CSAT relationship over time, and solving work still improves CSAT when problem-resolution outcomes are held constant."
+  ],
+  "one_line_summary": "Using naturalistic airline interaction videos and a controlled experiment, the paper finds that frontline solving work increasingly raises CSAT over time, but excessive relational talk or positive affect displays reduce that benefit.",
+  "relation_to_prior_work": "extends complaint-handling and service-recovery research by shifting from static pre/post evaluations to dynamic within-interaction process analysis using both verbal and nonverbal cues; it also challenges the assumption that more relational behavior and positive affect are always beneficial during service failure resolution.",
+  "research_gap": "Prior service recovery and complaint-handling work mostly studies customer states before complaints or outcomes after recovery, with limited attention to real-time problem-solving processes during interactions. Existing studies also provide little evidence on time-varying effects and on how nonverbal affect cues jointly shape the effectiveness of frontline solving work.",
+  "research_question": "How does frontline solving work influence customer satisfaction during ongoing problem-solving interactions after service failures? Does this influence change over time as interactions progress, and is it moderated by frontline relational verbal work and displayed nonverbal affect?"
+}

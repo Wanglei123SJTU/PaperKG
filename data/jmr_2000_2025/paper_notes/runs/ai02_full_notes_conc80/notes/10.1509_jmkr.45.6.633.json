@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper introduces a theory of self-concept maintenance in which people balance external rewards from cheating against internal rewards from seeing themselves as honest.",
+    "It identifies two mechanisms - attention to moral standards and categorization malleability - that determine how much dishonesty can occur without self-concept updating.",
+    "Across six experiments, it claims evidence for practical levers to curb everyday dishonesty, especially moral reminders and reduced opportunities for reinterpretation."
+  ],
+  "context": "The studies are paid behavioral experiments with university students, where participants complete performance tasks and sometimes can overreport results for money. The substantive motivation is common marketplace dishonesty such as return fraud, tax overclaiming, and employee theft.",
+  "design_and_data": "The paper reports six experiments using matrix-solving tasks (and one multiple-choice task) with control conditions versus cheating-opportunity conditions created by self-reporting and destroying evidence (e.g., recycle/shred procedures). Manipulations include Ten Commandments recall, honor-code commitment statements, payment amount per correct answer, tokens versus direct money, beliefs about others' performance, and probability of being caught. One experiment also measures self-concept (honesty and morality self-ratings) and predictions of later task performance after an initial cheating opportunity. Reported sample sizes for the six main experiments are 229, 207, 450, 44, 108, and 326 participants.",
+  "focal_constructs": [
+    "self-concept maintenance",
+    "dishonesty magnitude",
+    "attention to moral standards",
+    "categorization malleability",
+    "external rewards and costs",
+    "moral reminders",
+    "medium of exchange (tokens)"
+  ],
+  "main_findings": [
+    "When given a chance to cheat, participants overreport performance, but average cheating remains far below the maximum possible level.",
+    "Making moral standards salient (Ten Commandments recall or honor-code signing) eliminates cheating relative to comparable cheating-opportunity conditions.",
+    "Cheating increases when actions are easier to reinterpret (tokens instead of direct money), while tested changes in incentive size, detection probability, and beliefs about others' performance show little or no significant effect on cheating magnitude."
+  ],
+  "one_line_summary": "Across six experiments, the authors find that people often cheat a little but not maximally, consistent with self-concept maintenance shaped by moral attention and categorization flexibility.",
+  "relation_to_prior_work": "introduces an integrated account that combines the economic external cost-benefit view of dishonesty with psychological self-concept mechanisms to explain limited, under-the-radar cheating.",
+  "research_gap": "The paper argues that standard external cost-benefit models and purely internal psychological accounts do not explain why many people commit small amounts of dishonesty rather than maximal cheating. It addresses the missing integrated explanation of how external incentives and self-concept concerns jointly shape dishonest behavior.",
+  "research_question": "How do people resolve the conflict between profiting from dishonesty and maintaining a positive self-image as honest? The paper asks whether cheating is driven only by external incentives and punishment risk or also by self-concept processes that permit limited dishonesty."
+}

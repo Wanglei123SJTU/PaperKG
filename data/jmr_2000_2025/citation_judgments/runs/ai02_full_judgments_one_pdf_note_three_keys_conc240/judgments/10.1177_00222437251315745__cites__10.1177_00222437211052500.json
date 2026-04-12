@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is discussed in detail in the literature review and discussion, not just listed in a citation bundle. The citing paper uses Chakraborty et al. (2022) to define a contrasting modeling approach: predefined attribute-sentiment prediction with human-labeled training data, versus the citing paper's generative topic model over all text. This comparison helps motivate the citing paper's core contribution (separating formative and reflective topics) and delimit its scope relative to attribute-constrained methods.",
+  "relation_description": "The citing paper substantively positions its SRTM against Chakraborty et al. (2022) as a different approach to extracting review insights. It argues that Chakraborty et al.'s attribute-focused setup can bypass reflective-topic issues, while SRTM explicitly models reflective versus formative topics and could be combined with attribute priors in future work.",
+  "relation_type": "other"
+}

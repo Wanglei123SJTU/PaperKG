@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper shows that a modest and common indoor temperature range (67F-77F), not just extreme heat or cold, can systematically influence consumer decision making.",
+    "It proposes and tests a resource depletion account in which warm temperatures reduce available cognitive resources and increase reliance on System 1 heuristic processing.",
+    "It demonstrates that temperature effects are contingent on task complexity, with stronger effects for complex choices such as difficult gambles and innovative product adoption."
+  ],
+  "context": "The studies focus on everyday ambient indoor temperatures relevant to retail, office, and lab environments. Evidence comes from St. Louis County lottery sales data and controlled laboratory consumer decision tasks.",
+  "design_and_data": "The pilot study analyzes daily St. Louis County lottery sales from July 1, 2006, to June 30, 2007 (365 days), matched with daily temperature data and controls such as day-of-week, trend, and jackpot size. Study 1 is a 2 x 2 lab experiment (N=46) manipulating temperature (67F vs 77F) and gamble difficulty. Study 2 is a 2 x 2 lab experiment (N=88) manipulating temperature and ego depletion, with proofreading performance as the outcome. Studies 3 (N=117) and 4 (N=128) manipulate temperature (and in Study 4 also depletion) and measure performance on cognitive estimation versus general knowledge tasks, plus complex consumer choices (innovative vs regular voice recorder; cell phone plan choice).",
+  "focal_constructs": [
+    "ambient temperature",
+    "resource depletion",
+    "System 1 heuristic processing",
+    "task complexity",
+    "gambling propensity",
+    "innovative product adoption",
+    "complex choice performance"
+  ],
+  "main_findings": [
+    "Warmer conditions reduced difficult lottery and gamble choices more than easy ones, including lower sales for more complex lottery types and lower lab propensity to take difficult gambles.",
+    "Warm temperatures impaired performance on effortful cognitive tasks (proofreading, cognitive estimation), and this effect was attenuated when participants were already depleted.",
+    "Warm temperatures increased heuristic responding in complex consumer choices, including lower willingness to buy an innovative product and poorer choice of the more economical cell phone plan."
+  ],
+  "one_line_summary": "Across a field pilot and four lab studies, the paper finds that warm (77F) versus cool (67F) temperatures deplete cognitive resources, increase heuristic processing, and worsen complex consumer choice outcomes.",
+  "relation_to_prior_work": "extends prior heat-stress and dual-process research by linking modest ambient temperature differences in common indoor settings to consumer choice via resource depletion and System 1 processing.",
+  "research_gap": "The authors state that despite temperature's salience in daily life, little research explains how modest ambient temperatures (67F-77F) affect consumer decisions. They also note limited process evidence for why warm versus cool temperatures would alter choice, especially for complex tasks.",
+  "research_question": "Do warm versus cool ambient temperatures within a modest everyday range change consumer choices and cognitive task performance? If so, is the effect driven by resource depletion that shifts people toward System 1 heuristic processing, and is it stronger for complex versus simple decisions?"
+}

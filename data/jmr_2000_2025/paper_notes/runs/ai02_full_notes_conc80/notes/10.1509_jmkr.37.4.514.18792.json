@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops a multiple-item paired-comparison model for relative preference scores, where individual responses follow binomial processes and latent preference heterogeneity follows a Dirichlet distribution (the binomial/Dirichlet model).",
+    "Provides a multinomial/Dirichlet extension for repeat tests with two items and derives interpretable quantities such as mean preference intensities, a polarization index, and reliability/regression-to-the-mean implications.",
+    "Argues that this framework can serve as a parsimonious null model for paired-comparison data while reducing data-collection burden relative to prior approaches."
+  ],
+  "context": "The paper is set in consumer preference measurement using paired comparisons in product tests and survey-based evaluations, including blind tests and applications relevant to conjoint analysis. Empirical illustrations use tests with known brands and unidentified products, mostly food categories, with 2 to 5 items per test.",
+  "design_and_data": "The authors derive an individual-level binomial response model, a Dirichlet heterogeneity model, and the resulting aggregate binomial/Dirichlet likelihood for paired-comparison scores. They estimate the model by maximum likelihood on one-way frequency distributions from 44 data sets drawn from published studies and proprietary market research tests (scales from 5 to 19 points; mostly single-survey measurements). They also estimate a multinomial/Dirichlet model on Buchanan's repeat fruit-juice test data (4 repeat comparisons, n = 179) and compare fit with Buchanan's model. Sample-size requirements are studied via simulation-based estimates of asymptotic variances under different numbers of items, scale points, repeat tests, and polarization levels.",
+  "focal_constructs": [
+    "paired-comparison preference scores",
+    "latent preference",
+    "stochastic response (chance effects)",
+    "binomial/Dirichlet model",
+    "multinomial/Dirichlet model",
+    "mean preference intensities",
+    "polarization index",
+    "reliability of preference scores (R2)"
+  ],
+  "main_findings": [
+    "Across 44 tests, the binomial/binomial-Dirichlet framework fit reasonably well on average, and for tests with more than two products the binomial/Dirichlet model was preferred to the constrained binomial model in all examined cases.",
+    "On the fruit-juice repeat-test data, the multinomial/Dirichlet model fit better than Buchanan's alternative mixture model despite using fewer independent parameters.",
+    "For two-item tests, achieving +/-0.05 accuracy (95% level) for mean preference intensities requires about two repeat paired comparisons per respondent and a sample of about 400, and moving to three or more items in one test sharply lowers sample-size needs relative to alternative methods."
+  ],
+  "one_line_summary": "The paper proposes and tests a binomial/Dirichlet paired-comparison model that separates stochastic response from latent preference and achieves comparable accuracy with substantially less data collection than prior repeat-test approaches.",
+  "relation_to_prior_work": "extends earlier paired-comparison models that explain randomness through discrimination ability by modeling preference responses as inherently stochastic with Dirichlet heterogeneity, and it reports lower sampling and repeat-measurement requirements than Buchanan-type formulations.",
+  "research_gap": "Prior paired-comparison approaches in blind tests emphasized discrimination ability and typically required large samples and multiple repeat measurements at different times, which are often impractical in product tests and related studies. The paper addresses the need for a parsimonious model that can recover latent preference from single-survey paired-comparison data with lower data requirements.",
+  "research_question": "How can relative paired-comparison scores be modeled so that chance variation is separated from latent preference without relying on large repeat-test designs? Can a binomial/Dirichlet specification (and a multinomial/Dirichlet extension for two-item repeats) deliver adequate fit and lower sample-size requirements than existing alternatives?"
+}

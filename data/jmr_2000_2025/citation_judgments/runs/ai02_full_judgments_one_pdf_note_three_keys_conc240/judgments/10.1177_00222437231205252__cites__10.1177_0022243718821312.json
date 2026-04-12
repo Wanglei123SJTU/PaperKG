@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in multiple method-relevant places, not only as a passing example. The citing paper draws on it to discuss practical weaknesses of ICT implementations (such as noncompliance) and to motivate identification choices, including concern that baseline items can behave differently when asked directly versus indirectly. It also positions the new PRT as a next-step method in the same marketing stream of privacy-protecting measurement of sensitive behavior.",
+  "relation_description": "The citing paper builds on De Jong and Pieters (2019) as a methodological predecessor for indirect questioning in marketing. It proposes PRT as a new approach that advances beyond ICT-style designs while using insights from the cited paper to justify modeling and estimation decisions.",
+  "relation_type": "extends"
+}

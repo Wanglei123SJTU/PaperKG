@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a nested-logit methodology to empirically estimate retail agglomeration effects on the combined choice of shopping trip purpose and destination using shopping trip data.",
+    "It introduces estimable parameters for purpose-adjustment and between-store attraction effects to assess how store mix and scale influence multipurpose shopping.",
+    "It demonstrates that multipurpose models improve prediction of shopping center market shares and that single-purpose models tend to underpredict larger agglomerations."
+  ],
+  "context": "The empirical application is a regional shopping center setting in the province of Northern Brabant, The Netherlands. The study focuses on household trips involving groceries, clothing and shoes, and other semidurable goods.",
+  "design_and_data": "The authors estimate three focal-good nested-logit models (groceries, clothing and shoes, and other goods) using telephone-survey shopping trip data. From a random sample of 3864 households, 1704 participated, and 2941 purchase trips were analyzed; 829 trips (28.2%) involved multiple goods categories. Destination utility includes floor space by goods category and travel time, and each trip uses a five-center choice set built from the chosen center plus nearest alternatives that carry the focal good. Parameters are estimated with a Bayesian procedure on 75% of relevant trips and compared with single-purpose multinomial logit models on holdout trips.",
+  "focal_constructs": [
+    "multipurpose shopping trips",
+    "retail agglomeration effects",
+    "trip purpose choice",
+    "shopping destination choice",
+    "purpose-adjustment effects",
+    "joint-attraction effects",
+    "cross-attraction effects",
+    "shopping center floor space"
+  ],
+  "main_findings": [
+    "Scale parameters are significantly different from both zero and one in all three models, indicating that trip purpose and destination choices are interdependent and that purpose-adjustment effects exist.",
+    "Joint-attraction effects are positive, but cross-attraction effects are also significant and positive, and in two models their magnitude is often similar to joint-attraction effects.",
+    "On holdout data, multipurpose models predict center choice better than single-purpose models, and single-purpose models systematically overpredict smaller-center trips and underpredict larger-center trips (especially for groceries and other goods)."
+  ],
+  "one_line_summary": "The paper develops and tests a nested-logit multipurpose shopping trip model showing that retail agglomeration significantly affects both trip purpose and destination choice and that single-purpose models underpredict trips to larger centers.",
+  "relation_to_prior_work": "introduces a joint purpose-destination discrete choice framework for shopping trips where prior empirical studies typically modeled destination choice only and treated trip purpose as exogenous. It extends single-purpose retail choice approaches by estimating purpose-adjustment and between-store attraction effects within one model.",
+  "research_gap": "Prior empirical models of shopping trips generally model destination choice conditional on a given purpose, so they cannot assess how retail supply and agglomeration affect the decision to combine multiple purchases in one trip. The paper explicitly states that no comprehensive empirical methodology was available to estimate this relationship.",
+  "research_question": "How do retail agglomeration characteristics, such as the amount and mix of store floor space across shopping centers, affect consumers' combined choice of shopping trip purpose and destination? Can a multipurpose model that endogenizes purpose choice better predict shopping center choices and market shares than conventional single-purpose models?"
+}

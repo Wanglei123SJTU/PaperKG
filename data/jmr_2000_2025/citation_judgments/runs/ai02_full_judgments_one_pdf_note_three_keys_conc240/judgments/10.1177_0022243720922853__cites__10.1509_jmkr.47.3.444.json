@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citation is used in the core estimation section, where the authors explain how they handle endogeneity in marketing-mix variables. They explicitly draw on Luan and Sudhir (2010) for an augmented control-function approach and for correcting both intercept and slope endogeneity. This directly shapes the citing paper's empirical specification rather than serving as a passing background mention.",
+  "relation_description": "The citing paper applies Luan and Sudhir (2010)'s endogeneity-correction logic by using an augmented control-function setup that addresses intercept and slope endogeneity. It uses that methodological approach within its own DiD/panel analysis of private-label umbrella rebranding.",
+  "relation_type": "applies"
+}

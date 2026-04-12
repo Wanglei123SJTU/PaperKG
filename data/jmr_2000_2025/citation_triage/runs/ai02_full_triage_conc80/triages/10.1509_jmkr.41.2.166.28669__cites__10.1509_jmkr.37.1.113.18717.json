@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper develops dynamic-estimation methods (DLS/MKF, including a modified Kalman filter) for measurement error, and the citing paper also uses a dynamic state-space style framework (hierarchical Bayesian dynamic linear model with time-varying observation covariance), so a methodological link is plausible. However, the provided evidence is only a single DOI-matched reference with no in-text citation context, so substantive reliance versus background mention cannot be determined confidently.",
+  "triage_decision": "uncertain"
+}

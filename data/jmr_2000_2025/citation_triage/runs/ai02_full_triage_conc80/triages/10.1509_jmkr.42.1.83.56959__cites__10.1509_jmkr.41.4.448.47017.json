@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s core contribution is a joint household demand–manufacturer–retailer supply model with inferred wholesale prices, while the cited paper is a store-level hierarchical Bayesian demand model for cross-subcategory competition in orange juice, with no supply-side modeling. That topical/method mismatch suggests it may be background prior work, but the evidence here is only a DOI match (no in-text citation context), so it is not safe to drop as an obvious mention-only citation.",
+  "triage_decision": "uncertain"
+}

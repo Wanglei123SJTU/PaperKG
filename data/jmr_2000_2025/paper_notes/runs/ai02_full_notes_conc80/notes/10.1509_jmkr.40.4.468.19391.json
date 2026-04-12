@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Demonstrates in a marketing context that nonverbal auditory and visual ad elements differentially interact with script type: auditory elements are relatively more disruptive for English and visual elements are relatively more disruptive for Chinese.",
+    "Extends prior script-processing work by using real advertising sentences, incidental ad viewing, and higher-level outcomes including cognitive responses, attitudes, attitude strength, and customer interest.",
+    "Shows the reciprocal retrieval effect in advertising memory: reinstated auditory cues are relatively stronger for English copy recall, whereas reinstated visual cues are relatively stronger for Chinese copy recall, with implications for integrated campaigns and ad tracking."
+  ],
+  "context": "The paper studies multimedia advertising that combines verbal copy with nonverbal music/sounds and images/logos, focusing on copy written in English (alphabetic) versus Chinese (logographic). Empirical tests are run with Singapore bilinguals to isolate script effects while holding population background relatively constant.",
+  "design_and_data": "Three between-participants experiments were conducted with bilingual Singapore students. Experiment 1 (n = 120) used a 2 x 2 design (script: Chinese vs English; distraction: auditory music vs visual images) with a tennis racquet ad and measured recall, attitude positivity, attitude strength, and information-request interest. Experiment 2 (n = 80) used a similar 2 x 2 script x distraction design with interspersed auditory or visual distracters in a divided-attention setup and measured thought listings (cognitive responses), attitudes, attitude strength, and recall. Experiment 3 (n = 80) used a 2 x 2 design (script: Chinese vs English; retrieval cue: auditory vs visual) where all ads were audiovisual at exposure and only cue type at recall was manipulated for two target ads, with cued recall as the outcome.",
+  "focal_constructs": [
+    "auditory advertising elements",
+    "visual advertising elements",
+    "alphabetic English script",
+    "logographic Chinese script",
+    "distraction interference",
+    "cognitive responding",
+    "retrieval cues",
+    "ad copy recall"
+  ],
+  "main_findings": [
+    "Across Experiments 1 and 2, script x distraction interactions were significant: auditory distraction reduced processing outcomes more for English copy, whereas visual distraction reduced outcomes more for Chinese copy.",
+    "This differential interference pattern appeared across multiple outcomes, including recall, positivity and strength of attitudes, customer interest, and the number of positive cognitive responses generated.",
+    "In Experiment 3, the pattern reversed for retrieval support: auditory reinstatement cues produced better recall for English copy, whereas visual reinstatement cues produced better recall for Chinese copy."
+  ],
+  "one_line_summary": "Across three experiments, the paper finds that auditory ad elements are relatively more disruptive and more effective recall cues for English copy, while visual elements are relatively more disruptive and more effective recall cues for Chinese copy.",
+  "relation_to_prior_work": "extends Tavassoli and Han's script-processing findings from nonsensical-word learning and pair-recognition paradigms to real advertising copy, incidental ad exposure, persuasion-related outcomes, and cued recall in an applied marketing setting.",
+  "research_gap": "Prior evidence on script-based auditory versus visual processing differences came largely from nonsensical Korean word tasks with intentional dual-task learning and pair-recognition measures, which the authors argue may not generalize to advertising. The paper addresses this by testing real Chinese and English ad sentences and higher-level persuasion and memory outcomes relevant to marketing.",
+  "research_question": "Do nonverbal auditory and visual advertising elements differentially affect how consumers process ad copy written in alphabetic English versus logographic Chinese? Specifically, are auditory elements relatively more interfering at exposure but more helpful as retrieval cues for English, with the reverse pattern for visual elements in Chinese?"
+}

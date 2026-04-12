@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper shows that decision order in staged attribute choices has a systematic effect on purchase quantity, not just on choice incidence.",
+    "It proposes and tests attribute replaceability as a key driver of trade-off difficulty that explains quantity and variety outcomes across flavor, brand, and size decisions.",
+    "It demonstrates managerial relevance by showing that shelf-display organization and the explicit availability of deferral can change how much consumers buy."
+  ],
+  "context": "The studies examine everyday consumer packaged-goods purchase decisions in warehouse or grocery-like settings where buyers can select multiple options across flavors, sizes, and brands (e.g., yogurt, ice cream, soda, chips, cookies, bagels). One study uses real-money jelly bean purchases, and another tests shelf-display organization as a marketplace cue for decision order.",
+  "design_and_data": "Evidence comes from a pilot plus seven controlled experiments, mostly with undergraduate participants, that manipulate decision order (e.g., flavor-then-size vs size-then-flavor) and moderators such as taste/quality ratings, similarity of flavor levels, shelf organization, and explicit deferral options. Reported sample sizes include pilot n=80 and studies with n=85, 121, 207, 223, 284, 100, and 396; a follow-up mediation test used n=81. Participants made multi-option quantity choices in categories such as ice cream, yogurt, soda, chips, cookies, and bagels, and one study used actual incentivized purchases of jelly beans. Main dependent measures were total quantity chosen and attribute variety (Herfindahl-based index), analyzed primarily with ANOVA and mediation tests using felt ambivalence.",
+  "focal_constructs": [
+    "decision order",
+    "purchase quantity decisions",
+    "attribute replaceability",
+    "decision difficulty",
+    "choice conflict and ambivalence",
+    "variety chosen",
+    "choice deferral",
+    "shelf-display organization"
+  ],
+  "main_findings": [
+    "Consumers chose greater overall quantity when the less replaceable attribute decision (such as flavor or brand) occurred before the more replaceable attribute decision (such as size), versus the reverse order.",
+    "Decision order increased variety on the less replaceable attribute (flavor or brand) but did not reliably increase size variety.",
+    "When first-stage trade-offs were made more replaceable (e.g., taste ratings, quality ratings, highly similar flavors) or when explicit deferral was available, the order effect on quantity declined or disappeared; organizing shelves by size (making flavor trade-offs more salient) increased quantity and flavor variety."
+  ],
+  "one_line_summary": "Across seven experiments, the paper finds that consumers buy more units and more variety when they first decide on a less replaceable attribute than on a more replaceable attribute, and that this effect is moderated by replaceability, shelf organization, and deferral options.",
+  "relation_to_prior_work": "extends prior consumer choice research on decision conflict and staged processing by showing that these mechanisms affect purchase quantity and variety, not only which option is chosen or whether a choice is made.",
+  "research_gap": "Prior research emphasized choice and choice incidence, with relatively limited attention to purchase quantity decisions. The paper identifies a gap in understanding how the order of staged attribute trade-offs systematically changes quantity and variety chosen.",
+  "research_question": "How does the order of staged attribute decisions influence how much consumers buy and how much variety they choose when multiple options can be purchased? Specifically, does making a less replaceable and harder trade-off first increase quantity and variety, and when do replaceability changes or deferral options reduce this effect?"
+}

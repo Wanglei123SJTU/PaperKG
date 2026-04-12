@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes PIE, a holistic preference framework in which consumer choice is driven by needs determined by product physical attributes (P), individual characteristics (I), and external peer-group characteristics (E).",
+    "The paper introduces an incentive-aligned group-sourced preference measurement mechanism that captures real-time external feedback on E-driven needs during choice tasks.",
+    "The paper claims that PIE can improve predictive preference measurement relative to benchmark conjoint approaches and can be applied to product design by linking needs back to physical attributes."
+  ],
+  "context": "The empirical settings span consumer products and services with different social visibility: sunglasses, bicycles, coffeemakers, and Italian restaurants. The studies are conducted with college-student participants in lab/online experimental tasks where peer input can be incorporated into choices.",
+  "design_and_data": "The authors run three studies: Study 1 (sunglasses), Study 2 (bicycles and coffeemakers), and Study 3 (Italian restaurants). Studies 1 and 2 use between-subject designs comparing a group-sourced condition to a control condition; participants complete repeated choice sets, and in the group-sourced condition peers provide E-driven need ratings and profile recommendations. A one-week-later holdout task asks participants to choose from 20 options while accompanied by a friend; complete samples are 87 participants in Study 1 and 80 in Study 2. The analysis estimates hierarchical Bayes multinomial logit models (multiple P/I/E specifications), and Study 3 additionally uses 160 undergraduates to compare needs-based versus attribute-based tasks and map physical attributes to needs for holdout prediction.",
+  "focal_constructs": [
+    "PIE framework",
+    "product physical attributes (P)",
+    "individual characteristics (I)",
+    "external peer-group characteristics (E)",
+    "customer needs",
+    "group-sourced preference measurement",
+    "incentive alignment",
+    "out-of-sample predictive performance"
+  ],
+  "main_findings": [
+    "Across sunglasses, bicycles, and coffeemakers, incorporating E-driven needs improves holdout prediction versus benchmark models based only on P or on P plus I.",
+    "In most categories, using consultant-provided E evaluations in the group-sourced condition outperforms using only the focal participant's self-rated E evaluations (for example, sunglasses best model 53% vs. 39% holdout hit rate).",
+    "In the restaurant application, the needs-based condition slightly outperforms the physical-attribute condition in holdout prediction (26% vs. 21% and 20% vs. 18%), showing that needs-level modeling can be linked to product design through P-to-needs mapping."
+  ],
+  "one_line_summary": "This paper introduces PIE and a group-sourced, incentive-aligned preference measurement method, and shows that explicitly incorporating external peer input improves prediction and supports needs-based product design.",
+  "relation_to_prior_work": "extends traditional conjoint and Luo, Kannan, and Ratchford (2008) by explicitly modeling external social input (E) alongside product attributes (P) and individual factors (I) in a needs-to-choice structure. It also introduces a new data-collection mechanism to observe and use external feedback at the time of preference elicitation.",
+  "research_gap": "Existing preference measurement methods, including conjoint and related subjective-criteria extensions, do not explicitly model or measure the influence of other people's opinions in preference formation. The paper identifies a practical measurement gap: a lack of feasible, incentive-compatible procedures to capture external feedback during the choice task.",
+  "research_question": "Can individual preferences be measured more accurately when consumer needs are modeled as a function of P, I, and E rather than P (or P plus I) alone? Does an incentive-aligned group-sourced mechanism that captures external peer feedback improve out-of-sample prediction and provide actionable input for product design?"
+}

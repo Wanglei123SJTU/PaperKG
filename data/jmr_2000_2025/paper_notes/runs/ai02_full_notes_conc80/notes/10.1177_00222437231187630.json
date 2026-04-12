@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper claims to connect advertising creativity research with new product newness by identifying when divergence-focused versus relevance-focused creative ads are more effective.",
+    "It claims a self-referencing process model in which persuasion is maximized in a Goldilocks region of moderate self-referencing because narrative and analytical processing counterbalance each other.",
+    "It claims practical guidance for managers on matching relevant ads to really new products and divergent ads to incrementally new products."
+  ],
+  "context": "The studies examine advertising for new products in China across multiple categories, including pens, ceramic and sintered stone tiles, and consumer technology devices. The focal outcomes are product choice or purchase intention for really new products (RNPs) versus incrementally new products (INPs).",
+  "design_and_data": "Study 1a is a 2 x 2 lab experiment (divergent vs relevant ad x RNP vs INP) with 128 undergraduates in eastern China and a consequential choice between the advertised pen and cash. Study 1b is a ten-day field study in a large tile store in eastern China with 204 purchasing customers, where ad type alternated by day and outcomes included purchase shares, purchase quantity, and revenue. Study 2a is a 2 x 2 process experiment with 220 undergraduates measuring self-referencing and purchase intention, analyzed with quadratic regression and MEDCURVE mediation. Study 2b uses two online Sojump samples (n=136 and n=142) with low, medium, and high self-referencing manipulations and measures autobiographical memory, processing fluency, and purchase intention.",
+  "focal_constructs": [
+    "advertising creativity",
+    "divergent ads",
+    "relevant ads",
+    "product newness (RNPs vs INPs)",
+    "self-referencing",
+    "narrative processing",
+    "analytical processing",
+    "purchase intention for new products"
+  ],
+  "main_findings": [
+    "For really new products, relevant ads produced higher purchase outcomes than divergent ads, while for incrementally new products, divergent ads produced higher purchase outcomes than relevant ads.",
+    "Self-referencing showed an inverted U-shaped relationship with purchase intention for new products.",
+    "Self-referencing mediated the joint effect of creative ad type and product newness, and higher self-referencing increased narrative processing but reduced analytical processing with diminishing returns."
+  ],
+  "one_line_summary": "Across four studies, the paper finds that ad effectiveness depends on product newness, with relevant ads working better for really new products and divergent ads for incrementally new products because each pairing moves self-referencing toward a persuasion-maximizing moderate level.",
+  "relation_to_prior_work": "extends prior advertising creativity and new product literature by integrating them in one framework that links divergence versus relevance ad focus to RNP versus INP effectiveness and explains outcomes through an inverted U-shaped self-referencing mechanism.",
+  "research_gap": "Prior work has examined advertising creativity and has separately distinguished really new versus incrementally new products, but has made little attempt to connect these streams to determine which creative ad form works best for each product type. The literature also had not reached a firm conclusion on whether self-referencing affects persuasion linearly or with an inverted U-shape.",
+  "research_question": "Which type of creative ad, divergence-focused or relevance-focused, is more effective for really new products versus incrementally new products? Through what consumer process does this fit affect purchase intention, and is persuasion maximized at a moderate level of self-referencing?"
+}

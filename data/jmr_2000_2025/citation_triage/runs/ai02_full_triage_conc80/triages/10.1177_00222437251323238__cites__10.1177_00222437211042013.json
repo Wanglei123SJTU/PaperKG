@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper and cited paper both involve scalable computer-vision/machine-learning pipelines with interpretability tools (e.g., SHAP), so the citation could plausibly be methodological precedent rather than a purely incidental mention. However, the domains differ (celebrity face scoring vs. online course video consumption), and the raw evidence provides only a DOI match with no in-text citation context, so substantive use cannot be confirmed from current evidence.",
+  "triage_decision": "uncertain"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper generalizes noncompensatory screening by defining a subset-conjunctive rule in which an alternative must satisfy at least t of m criteria, with conjunctive and disjunctive rules as special cases.",
+    "It introduces a probabilistic version of screening via attribute-level consideration probabilities, allowing uncertainty in acceptability judgments and response error.",
+    "It develops latent-class maximum-likelihood procedures (for consideration data and for a two-stage choice extension) to infer segment-level screening rules and consideration probabilities."
+  ],
+  "context": "The empirical applications are in consumer evaluations of household batteries and personal computers. One study uses acceptable/unacceptable consideration judgments for battery concepts, and the other uses repeated PC choices with a no-choice option.",
+  "design_and_data": "The authors derive likelihood-based models for probabilistic t-subset-conjunctive screening under independence of attribute-level acceptability, and estimate pooled and latent-class versions with BIC model selection over segment counts and t values. In the battery application, 175 mall-intercept battery purchasers each evaluated 32 experimentally designed battery profiles on consider/do-not-consider judgments. In the PC application, 297 participants each completed 8 choice sets over 5 attributes; the proposed latent-class subset-conjunctive choice model was compared with a latent-class nested Dogit benchmark, including repeated holdout validation splits.",
+  "focal_constructs": [
+    "subset-conjunctive screening rule",
+    "conjunctive and disjunctive rules",
+    "attribute-level consideration probabilities",
+    "consumer uncertainty in acceptability",
+    "latent-class heterogeneity",
+    "consideration set formation",
+    "two-stage consideration-choice model"
+  ],
+  "main_findings": [
+    "In the battery consideration data, the preferred latent-class subset-conjunctive solution was a three-segment model, with t = 2 overall and segment patterns indicating strong price screening for some consumers and greater feature responsiveness for others.",
+    "For battery holdouts, latent-class logistic regression and subset-conjunctive models had essentially the same predictive accuracy (about .89-.90 hit rates and mean absolute deviation about .04), indicating similar fit despite different process interpretations.",
+    "In the PC choice data, the proposed two-segment subset-conjunctive choice model (t = 4) fit better than the latent-class nested Dogit model by LL/BIC and produced notably different predicted choice, no-choice, and market-share outcomes (including share differences up to about 15%)."
+  ],
+  "one_line_summary": "The paper develops and estimates latent-class probabilistic subset-conjunctive screening models and shows with battery and PC data that they can predict comparably to linear models while yielding different behavioral and market-share implications.",
+  "relation_to_prior_work": "extends prior conjunctive/disjunctive and consideration-set models by relaxing the one-criterion versus all-criteria restriction to an at-least-t-of-m rule and by allowing stochastic acceptability at the attribute-level. It also contrasts with deterministic threshold-based screening formulations by modeling uncertainty directly and supporting segment-level probabilistic rule inference with nominal or ordinal attributes.",
+  "research_gap": "Existing screening models in this literature are described as deterministic conjunctive/disjunctive formulations that do not account for uncertainty in whether attribute levels are acceptable. The paper addresses the lack of a general, estimable framework that allows flexible noncompensatory subset rules and latent heterogeneity in screening behavior.",
+  "research_question": "How can conjunctive and disjunctive screening be generalized so consumers can require satisfaction on any subset size of criteria and still express uncertainty about attribute-level acceptability? Can such probabilistic subset-conjunctive rules be inferred for heterogeneous consumer segments from consideration or choice data, and do they lead to different substantive predictions than standard linear models?"
+}

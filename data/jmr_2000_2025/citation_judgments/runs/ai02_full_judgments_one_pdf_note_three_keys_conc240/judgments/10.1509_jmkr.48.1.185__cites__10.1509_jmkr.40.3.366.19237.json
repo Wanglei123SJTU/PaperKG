@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in the Results sections as methodological support for how the authors estimate interactions with continuous moderators. Specifically, the citing paper references Irwin and McClelland (2003) when describing mean-centering continuous measures, dummy-coding experimental conditions, and constructing interaction terms in Experiments 2 and 3. This is more than a generic literature-list mention because it directly justifies the analysis strategy used to test key hypotheses.",
+  "relation_description": "The citing paper applies methodological guidance from Irwin and McClelland (2003) in its regression-based interaction tests, treating moderator variables as continuous and using centered/dummy-coded terms rather than dichotomization.",
+  "relation_type": "applies"
+}

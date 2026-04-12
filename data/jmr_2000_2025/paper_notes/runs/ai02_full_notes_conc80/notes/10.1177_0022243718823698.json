@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Examines assortment organization across multiple product categories with a behavioral focus on purchases and expenditures, rather than only store perceptions or preferences.",
+    "Provides evidence from two field experiments, a lab experiment, and a virtual reality experiment, offering field-based behavioral evidence on complement-based assortment organization.",
+    "Shows that complement-based organization increases ease of visualization of the consumption process, and links this mechanism to higher purchasing outcomes with boundary conditions."
+  ],
+  "context": "The primary empirical context is grocery retailing in southern Europe, including a real store reorganization from substitute-based to complement-based category groupings with a comparable control store. Additional evidence comes from an online home-furnishing catalog task and a three-dimensional virtual grocery store simulation.",
+  "design_and_data": "The paper reports four studies. Study 1 uses an interrupted time-series design with a concurrent control store at a large grocery chain, analyzing 1,112,652 anonymous trip-level transactions across 105 weeks (579,756 treatment; 532,896 control) and estimating GLS autoregressive models for items, SKUs, categories, and spending. Study 2 is a between-subjects lab experiment with 112 Amazon Mechanical Turk participants using a six-page furniture catalog, measuring clicked-item consideration set size and ease of visualization, and testing mediation with bootstrap methods. Study 3 is a field intercept study with 237 grocery shoppers in pre- and post-reorganization periods, measuring shopping involvement before entry and linking it to receipt-level purchases and spending. Study 4 is a 2x2 virtual-store experiment (assortment organization x goal specificity) with 160 panel participants, measuring selected items and categories.",
+  "focal_constructs": [
+    "complement-based assortment organization",
+    "substitute-based assortment organization",
+    "purchase behavior",
+    "consumer expenditures",
+    "ease of visualization of the consumption process",
+    "shopping involvement",
+    "shopping goal specificity",
+    "consideration set size"
+  ],
+  "main_findings": [
+    "In the field interrupted time-series study, switching to a complement-based organization increased purchases and spending relative to the control store, including sustained lifts in items, SKUs, categories, and expenditure.",
+    "In the lab study, complement-based organization increased consideration set size, and this effect was mediated by greater ease of visualization of the consumption process.",
+    "The purchase lift from complement-based organization was attenuated when shoppers were more involved or had more specific shopping goals, and was strongest for less involved shoppers and those with nonspecific goals."
+  ],
+  "one_line_summary": "Across field, lab, and virtual-store studies, organizing assortments by complementary consumption goals rather than substitutes increased purchasing outcomes, largely because it made consumption easier to visualize.",
+  "relation_to_prior_work": "extends prior assortment-organization research that mainly examined perceptual outcomes and often single-category settings by testing actual purchase and spending behavior across multiple categories, while connecting the effect to cross-stimulus sensitization and unplanned consideration mechanisms.",
+  "research_gap": "Prior research on complement-based versus substitute-based organization was limited and centered on store perceptions and preference, not actual purchasing outcomes. The paper addresses the lack of behavioral evidence on whether organizing multiple categories by complements changes purchases and expenditures.",
+  "research_question": "Does organizing product categories by complements tied to consumption goals, rather than by substitutes or physical attributes, increase actual purchases and expenditures? If so, is the effect driven by easier visualization of the consumption process, and when is this effect stronger or weaker based on shopper involvement and goal specificity?"
+}

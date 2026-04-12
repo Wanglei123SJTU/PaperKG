@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s core contribution is bagging/boosting for churn with a binary logit benchmark, while the cited paper is a methodological comparison within logit heterogeneity models (finite mixture vs HB mixed logit), so there is plausible but limited overlap via the logit benchmark. However, the matched evidence provides only a bare DOI match (no in-text citation context or reference text), so it is not possible to confidently classify this as clearly incidental or clearly substantive.",
+  "triage_decision": "uncertain"
+}

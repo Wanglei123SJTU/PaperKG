@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides, to the authors' knowledge, the first investigation of anticipated reputational benefits as a driver of prosocial behavior in referral programs, and tests when these benefits break down as action costs rise.",
+    "Develops and empirically tests a two-stage process account in which recipient-benefiting incentives are supported by sender reputational gains at referral and by direct recipient motivation at uptake.",
+    "Offers practical guidance for marketers by showing that recipient-benefiting referral designs can outperform the commonly used sender-benefiting designs in generating new-customer conversions."
+  ],
+  "context": "The paper examines customer referral programs where existing customers invite people in their social network to join a firm's product or service. The studies span a meal-photo app, a video game subscription service, a lab referral task, and online referral scenarios (e.g., food delivery and an Amazon loyalty program).",
+  "design_and_data": "The authors report eight experiments (plus five Web Appendix studies), combining field, lab, and online randomized designs. Study 1 is a five-condition field email experiment with 6,364 GiftAMeal customers that measures new-download conversions by incentive structure. Study 2 is a three-condition field experiment with 1,438 delivered emails at Game Access that tracks referral, uptake, conversion, and one-month follow-up retention. Subsequent experiments randomize sender vs recipient role, referral anonymity, and action costs, including a fully incentivized lab study with real referrals; key outcomes are referral rate, uptake rate, and conversion rate, with process measures of anticipated reputational benefits and perceived action costs.",
+  "focal_constructs": [
+    "sender-benefiting referral incentives",
+    "recipient-benefiting referral incentives",
+    "anticipated reputational benefits",
+    "action costs",
+    "referral rate",
+    "uptake rate",
+    "conversion rate"
+  ],
+  "main_findings": [
+    "Recipient-benefiting incentives produced higher overall conversion rates than sender-benefiting incentives in the field studies, including Study 2 (4.77% vs 1.71%), and this advantage remained at one-month follow-up.",
+    "At the referral stage, recipient-benefiting incentives were typically as effective as sender-benefiting incentives when referrals were identified and low-cost, but they became less effective when referrals were anonymous or referral action costs were high.",
+    "At the uptake stage, recipient-benefiting incentives outperformed sender-benefiting incentives when uptake action costs were high, and this difference disappeared when uptake costs were experimentally reduced."
+  ],
+  "one_line_summary": "Across two field experiments and six additional experiments, the paper shows that recipient-benefiting referral incentives can recruit more new customers than sender-benefiting incentives because reputational benefits sustain sending while direct recipient rewards offset high uptake costs.",
+  "relation_to_prior_work": "extends prior evidence that selfish incentives usually outperform prosocial incentives by showing that in social-network referral programs, prosocial recipient-benefiting incentives can match referral generation and outperform at uptake due to reputational benefits and action-cost asymmetries.",
+  "research_gap": "Prior work on prosocial versus selfish incentives largely uses anonymous beneficiaries (e.g., charities or strangers), leaving unclear how incentives work when actions are directed at known social ties in referral programs. Existing referral practice and research also emphasize sender motivation, with limited evidence on how incentive structure operates across both referral and uptake stages under asymmetric action costs.",
+  "research_question": "How does referral incentive structure (sender-benefiting vs recipient-benefiting) affect behavior at the two decision stages of customer referrals and the resulting conversion rate? Can anticipated reputational benefits at the referral stage and asymmetric action costs across referral and uptake explain when recipient-benefiting incentives outperform sender-benefiting incentives?"
+}

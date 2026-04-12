@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Derives local D-optimal designs for main-effects binary and multinomial logit choice experiments by treating attribute levels as continuous design variables and optimizing over the full design space.",
+    "Shows that optimal designs can be implemented in practice through a sequential updating rule that targets optimal response probabilities using observed empirical choice rates.",
+    "Demonstrates that the optimal structure uses boundary-point orthogonal main-effects patterns for all but one attribute, with one manipulator attribute used to tune choice probabilities, and quantifies efficiency gains via Monte Carlo."
+  ],
+  "context": "The paper studies stated choice/conjoint-style multinomial choice experiments in which respondents choose among alternatives described by multiple attributes. The focus is methodological design of choice sets rather than a single substantive market.",
+  "design_and_data": "The study is primarily analytical: it derives the Fisher information matrix and D-optimality criterion for main-effects binary and multinomial logit models, then algebraically restructures the optimization problem. Numerical optimization is used to obtain optimal utilities/probabilities and design tables for cases with 2, 4, and 8 attributes and choice sets with 2, 3, and 5 alternatives. A Monte Carlo experiment (1000 iterations, 360 choice sets per iteration) for four-attribute models compares unconstrained optimal, constrained optimal, standard 2^K main-effects, and cyclic multi-level designs using determinants of estimated variance-covariance matrices.",
+  "focal_constructs": [
+    "D-optimal design",
+    "multinomial logit choice experiment",
+    "main-effects orthogonal arrays",
+    "attribute boundary levels",
+    "response probability balance",
+    "manipulator attribute",
+    "sequential design updating",
+    "Fisher information determinant"
+  ],
+  "main_findings": [
+    "For main-effects logit models, the D-optimal design places all but one attribute at extreme bounds in an orthogonal 2^(K-1) pattern, while the remaining attribute is used to achieve optimal choice probabilities.",
+    "In binary designs, optimal probability splits move toward balance as attributes increase (reported examples: 0.82/0.18 with 2 attributes, 0.74/0.26 with 4, and 0.67/0.33 with 8).",
+    "Monte Carlo results show sizable efficiency gains from optimal designs versus common alternatives, with additional gains when the manipulator attribute is not tightly constrained and probabilities can be moved closer to optimal levels."
+  ],
+  "one_line_summary": "The paper derives and numerically characterizes D-optimal main-effects multinomial choice designs, showing they are implemented by boundary-point orthogonal layouts plus one continuously adjusted attribute that targets optimal response probabilities.",
+  "relation_to_prior_work": "extends optimal design research from constrained discrete conjoint search procedures and single-variable binary design settings to multivariate multinomial choice models optimized over continuous attribute levels.",
+  "research_gap": "Prior choice-design studies typically restricted attributes to fixed discrete levels and imposed design principles such as minimal overlap (and often balance/orthogonality), limiting search to a constrained set of candidate designs that could miss full D-optimal solutions. The paper also addresses the practical concern that nonlinear optimal designs seem to require known parameters ex ante.",
+  "research_question": "How can fully D-optimal designs be derived for main-effects binary and multinomial logit choice experiments when attribute levels are treated as continuous and optimized jointly across alternatives and choice sets? Can such designs be implemented in practice without knowing true parameters in advance, by using response-probability-based sequential updating?"
+}

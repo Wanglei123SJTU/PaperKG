@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper documents the anchor contraction effect, a systematic tendency for bilinguals to report more intense emotions when using L2 rather than L1 rating scales.",
+    "It establishes ACE, tests its underlying process, and rules out alternative explanations across nine experiments and multiple response formats.",
+    "It proposes and tests managerially relevant corrective techniques based on nonverbal scale cues, specifically emoticons and colors."
+  ],
+  "context": "The paper is set in international marketing research contexts where multilingual respondents often answer surveys in a nonnative language, frequently English. Empirical tasks include chocolate taste ratings, movie interpretation, product and print-ad evaluation, and post-task emotion reports.",
+  "design_and_data": "The authors report nine experiments with more than 1000 respondents in total. Most studies use Dutch-English bilingual student samples, and one uses a balanced trilingual French-Dutch sample in Brussels to address stereotype concerns. Designs manipulate language of rating scales (L1 vs L2) and, in some studies, target language, emotion valence, appraisal type (emotional vs nonemotional), and scale format (unipolar/bipolar, endpoint-only vs all-points labels, and emotion in question vs scale). Process evidence includes correlation and mediation tests of perceived anchor intensity, and intervention studies test emoticon and color-based scale modifications.",
+  "focal_constructs": [
+    "anchor contraction effect (ACE)",
+    "L1 versus L2 rating-scale language",
+    "perceived emotional intensity of anchors",
+    "emotional response extremity",
+    "language of to-be-rated stimuli",
+    "response scale format",
+    "nonverbal corrective cues (emoticons, colors)"
+  ],
+  "main_findings": [
+    "Across studies, bilingual respondents gave more intense emotion ratings on L2 than on L1 scales, for both positive and negative emotions, with reported ACE effect sizes from d = .36 to d = 1.20.",
+    "ACE tracks anchor perception: effects were larger for emotions with bigger perceived L1-L2 intensity gaps, and perceived anchor intensity partially mediated language effects on ratings.",
+    "ACE appeared across multiple tasks and scale formats but was largely absent for nonemotional appraisals, and adding nonverbal cues (emoticons or graded color markers) eliminated the L1-L2 rating difference."
+  ],
+  "one_line_summary": "Across nine experiments, the study shows that bilinguals report stronger emotions on nonnative-language rating scales because L2 emotional anchors feel less intense, and that simple visual cues can remove this bias.",
+  "relation_to_prior_work": "extends prior bilingualism and measurement research by showing that the language of rating-scale anchors, not only the language of the target stimulus, can systematically bias emotional ratings and by demonstrating practical visual corrections.",
+  "research_gap": "Prior work had examined how the language of the to-be-rated target changes emotional reactions, but the authors note that research had not tested whether the language of the measurement instrument itself introduces systematic error. This paper addresses that missing issue for emotion-laden scales used in international marketing research.",
+  "research_question": "Do bilingual respondents report different emotional intensity when answering with L1 versus L2 rating scales? If yes, is the difference driven by the perceived emotional intensity of scale anchors, does it generalize across measures and formats, and can simple survey-design interventions reduce or eliminate it?"
+}

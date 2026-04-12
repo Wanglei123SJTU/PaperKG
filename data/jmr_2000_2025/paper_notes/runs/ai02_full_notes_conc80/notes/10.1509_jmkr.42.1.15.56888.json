@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a practical three-condition framework (awareness, motivation, and ability) to determine when the Lucas critique is likely to apply in marketing settings.",
+    "It provides a cross-paradigm guide to diagnose and accommodate the Lucas critique in reduced-form models, VAR/cointegration models, and structural models.",
+    "It identifies future research directions, including stronger policy-regime validation tests and broader use of super-exogeneity and parameter-stability diagnostics."
+  ],
+  "context": "The paper is set in academic marketing policy modeling, especially models used to evaluate pricing, promotion, and advertising decisions. It discusses illustrative market cases such as P&G's value-pricing shift, the Marlboro price cut, and the Dutch supermarket price war.",
+  "design_and_data": "This is a conceptual review and perspective paper rather than an original empirical study. The authors synthesize prior economics and marketing literature on the Lucas critique and organize implications for three modeling traditions: reduced-form, VAR/VECM with cointegration, and structural (including NEIO) models. They discuss available diagnostic approaches, especially parameter-stability and super-exogeneity tests, and use published examples to illustrate applicability and limits. No new dataset or original estimation is reported.",
+  "focal_constructs": [
+    "Lucas critique",
+    "policy invariance",
+    "forward-looking behavior",
+    "awareness-motivation-ability conditions",
+    "reduced-form marketing models",
+    "VAR/VECM and cointegration",
+    "super-exogeneity tests",
+    "structural models (NEIO)"
+  ],
+  "main_findings": [
+    "The Lucas critique is most relevant in marketing when agents are aware of a policy change, motivated to respond, and able to change behavior.",
+    "Ignoring the critique can yield biased policy implications, particularly for large or long-run policy changes, whereas small unexpected tactical shocks are less likely to trigger major parameter shifts.",
+    "No modeling approach is automatically safe: reduced-form and VAR-based policy simulations need explicit diagnostics, and structural models reduce vulnerability only when their behavioral and game assumptions are correctly specified."
+  ],
+  "one_line_summary": "The paper argues that the Lucas critique can materially undermine marketing policy simulations under identifiable conditions and offers guidance on when and how to diagnose or accommodate it across major modeling paradigms.",
+  "relation_to_prior_work": "transfers the Lucas-critique discussion from macroeconomics to marketing and refines it by proposing marketing-specific relevance conditions. It integrates prior marketing evidence on forward-looking behavior and existing econometric diagnostics to assess the credibility of policy simulations.",
+  "research_gap": "The Lucas critique had been largely neglected in marketing, despite the field's extensive use of econometric models for policy recommendations. The paper addresses the lack of explicit guidance on when the critique matters and how researchers should test for and handle it.",
+  "research_question": "When is the Lucas critique applicable to marketing models used for policy analysis, and how severe are the consequences of ignoring it? The paper also asks how different modeling approaches can diagnose and accommodate the critique in practice."
+}

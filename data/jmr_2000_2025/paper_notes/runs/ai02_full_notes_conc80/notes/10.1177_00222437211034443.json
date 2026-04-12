@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper claims to provide the first evidence from actual retail transaction data that advertised reference prices (via initial perceived discount) affect negotiated prices in bargaining settings.",
+    "It claims a novel mechanism: higher initial perceived discount reduces negotiated discounts partly by lowering consumers' likelihood of initiating negotiation, highlighting negotiation initiation as a key decision.",
+    "It claims to quantify how initial perceived discount changes revenue through both demand and negotiated price under bargaining, and to compare optimal advertised reference price implications across bargaining versus fixed pricing."
+  ],
+  "context": "The field setting is a large U.S. durable goods retailer selling appliances, electronics, and home improvement items, where price tags often show both a posted price and an advertised reference price and in-store bargaining is common. The experiment uses university-branded low-price merchandise (collectibles/sports memorabilia type products) in a controlled negotiation environment.",
+  "design_and_data": "The paper first analyzes in-store transaction data from October 2015 to September 2017: 220,554 products in 43,534 orders (final estimation sample 146,941 product observations after removing duplicate same-product units within orders). It estimates negotiated discount regressions with brand-category and order fixed effects, plus Tobit and IV specifications to address censoring and endogeneity of initial perceived discount and posted price. It then runs an incentive-aligned lab experiment with 181 undergraduates making purchase decisions for eight products; for each participant, four products are fixed-price and four allow bargaining, and advertised reference prices are randomized to induce exogenous variation in initial perceived discount. Participants can negotiate via counteroffers in bargaining conditions, and payments are tied to realized choices/prices through a probabilistic payout rule.",
+  "focal_constructs": [
+    "advertised reference price (ARP)",
+    "initial perceived discount (IPD)",
+    "negotiated discount",
+    "negotiation initiation likelihood",
+    "purchase likelihood",
+    "revenue",
+    "bargaining versus fixed pricing",
+    "anchoring in negotiations"
+  ],
+  "main_findings": [
+    "In field data, a $1 increase in initial perceived discount is associated with about a 6.6-cent reduction in negotiated discount; in the lab experiment, a $1 increase causally lowers negotiated discount by about 5.7 cents.",
+    "About 55% of the reduction in negotiated discount is attributed to a lower likelihood that consumers initiate negotiation when initial perceived discount is higher.",
+    "A $1 increase in initial perceived discount raises purchase likelihood in both fixed pricing (about 2.02%) and bargaining (about 2.78%); under bargaining it increases revenue by about 33.85 cents at the mean IPD, with about 71% from demand and about 29% from higher negotiated price, and the optimal ARP level is similar across pricing regimes but the benefit from posting it is about 33% higher under bargaining."
+  ],
+  "one_line_summary": "Using retail transactions and a randomized lab bargaining experiment, the paper shows that higher ARP-driven initial perceived discounts reduce negotiated discounts yet increase demand and revenue, and they are more valuable to sellers when bargaining is allowed.",
+  "relation_to_prior_work": "extends reference-price and comparative-pricing research from fixed-price contexts to settings where consumers can negotiate, and it links this stream to anchoring-in-negotiation work. It refines prior bargaining studies that assume consumers always negotiate by showing that ARP/IPD also shifts the decision to initiate negotiation.",
+  "research_gap": "Prior advertised reference price research mostly studies fixed-price settings, leaving unclear how ARP-induced initial perceived discounts affect negotiated prices when bargaining is possible. Prior anchoring/negotiation work typically treats negotiation as given, so it does not establish whether ARP changes negotiation initiation and how that channel alters demand and revenue.",
+  "research_question": "How does the initial perceived discount created by an advertised reference price affect negotiated discounts when consumers can bargain over posted prices? The paper also asks how this effect operates through negotiation initiation versus conditional bargaining outcomes, and how IPD changes demand, revenue, and optimal ARP incentives under bargaining versus fixed pricing."
+}

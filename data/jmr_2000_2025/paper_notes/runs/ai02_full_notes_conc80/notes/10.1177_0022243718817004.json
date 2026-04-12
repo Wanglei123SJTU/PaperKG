@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops and tests hypotheses from bounded rationality and psychological distance to explain how the realization probability (Prob) affects attention, information processing, and choice in preference measurement tasks.",
+    "It provides eye-tracking evidence that compares purely hypothetical choices (Prob = 0), incentive-aligned choices (0 < Prob < 1), and deterministic choices (Prob = 1), which the authors state had not been jointly examined.",
+    "It shows a practical design implication for incentive-aligned CBC: placing a higher-Prob question early creates carryover effects on later attention/processing and changes preference estimates."
+  ],
+  "context": "The paper studies marketing preference measurement in incentive-aligned choice experiments, including choice-based conjoint style tasks. The empirical settings are lab studies using snack boxes, chocolate bars, and laptop computer conjoint choices.",
+  "design_and_data": "The authors run three lab experiments with eye tracking. Study 1 uses one snack-box choice among eight alternatives, with Prob manipulated across 0, .01, .50, .99, and 1 (N = 307 choice respondents; complete eye-tracking data for 86; follow-up survey for 187). Study 2 uses one chocolate-bar choice among four pictured alternatives with Prob set to 0, .25, .5, .75, or 1 (N = 148; complete eye-tracking data for 136), plus follow-up measures and coding of stated reasons. Study 3 is an incentive-aligned laptop CBC with 10 main questions plus 1 external-validity question, randomizing whether the higher-Prob external-validity task is first or last and whether a no-choice option is present (N = 351; complete eye-tracking data for 297), analyzed with mixed-effects models and hierarchical Bayes partworth estimation.",
+  "focal_constructs": [
+    "incentive alignment",
+    "probability a choice is realized (Prob)",
+    "attention to choice-relevant information",
+    "information processing comprehensiveness",
+    "price sensitivity",
+    "novelty seeking",
+    "psychological distance",
+    "carryover effects across survey questions"
+  ],
+  "main_findings": [
+    "As Prob increases from 0 to 1, respondents allocate more attention to choice-relevant information and process information more comprehensively, including greater likelihood of attending to all attributes within alternatives and less attribute ignoring.",
+    "Higher Prob is associated with greater price sensitivity and lower novelty seeking, and respondents provide more concrete reasons for choices, consistent with reduced psychological distance.",
+    "In incentive-aligned CBC, placing a higher-Prob question at the beginning (vs. end) raises attention and comprehensive processing in subsequent questions and leads to different partworth and attribute-importance estimates; adding a no-choice option reduces attention."
+  ],
+  "one_line_summary": "Across three eye-tracking experiments, the paper shows that increasing the probability a choice is realized from 0 to 1 increases attention and comprehensive processing, increases price sensitivity, reduces novelty seeking, and creates carryover effects when higher-probability tasks are placed first.",
+  "relation_to_prior_work": "extends prior incentive-aligned preference measurement research by moving beyond a simple hypothetical-versus-incentivized comparison to study how behavior changes as Prob varies from 0 to 1, including deterministic choices. It integrates bounded rationality and psychological distance perspectives to explain observed changes in processing and choice.",
+  "research_gap": "Prior work showed that incentive alignment can induce truth-telling and improve external validity versus hypothetical choice, but little was known about how different realization probabilities affect attention, information processing, and choice behavior. The authors state that the literature had not addressed how these outcomes vary as Prob moves from 0 to 1.",
+  "research_question": "How do attention, information processing, and choice in choice experiments change as the probability that a decision is realized (Prob) increases from 0 to 1? The paper also asks whether, under practical incentive-aligned CBC constraints, introducing a higher-Prob question earlier in the survey can generate carryover effects on later processing and estimated preferences."
+}

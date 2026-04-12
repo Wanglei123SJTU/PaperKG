@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is a substantive promotion-response method paper (hidden Markov/hierarchical Bayesian modeling of unobserved competitive promotions), and the citing study also analyzes promotion effects with spillovers/cannibalization, so a nontrivial connection is plausible. However, the provided citing-note evidence does not indicate use of the cited model (the citing design relies on DiD, random effects, IPW, and episode-level trend/spillover modeling), and the match evidence is only a bare DOI reference with no in-text context. Given this mixed but limited evidence, it is not safe to drop or clearly keep.",
+  "triage_decision": "uncertain"
+}

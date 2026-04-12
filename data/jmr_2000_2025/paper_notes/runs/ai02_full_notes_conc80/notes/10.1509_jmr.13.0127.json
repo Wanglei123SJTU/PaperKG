@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper claims to provide a causal explanation of how, when, and why network clustering affects individual innovativeness in interdependent customer ideation by using controlled experiments with exogenous communication networks.",
+    "It claims that clustering lowers innovativeness because it increases redundancy among neighbors' ideas, identifying redundancy as the key mechanism.",
+    "It claims that typical high-clustering online customer ideation platforms are structurally suboptimal and that lowering interconnectivity can improve idea innovativeness."
+  ],
+  "context": "The paper studies online customer crowdsourcing for product/service ideation, where people can see others' ideas while generating their own ideas. The setting mirrors noncollaborative ideation platforms such as discussion-board style systems (e.g., Dell IdeaStorm and MyStarbucksIdea) and uses tasks like generating features for mobile banking apps and Facebook.",
+  "design_and_data": "The evidence comes from five experiments in which participants were randomly assigned to positions in exogenously designed communication networks and completed multi-round ideation tasks. A custom browser-based platform enabled real-time anonymous networked ideation in Studies 1, 2, 3, and 5, while Study 4 used a controlled simulated-neighbor setup to manipulate idea redundancy. Samples included students (Study 1 n=64, Study 2 n=36, Study 3 n=60, Study 5 n=96) and MTurk adults (Study 4 n=70), with networks from 6 to 16 nodes and manipulations of clustering, redundancy, and ideation rules. Idea innovativeness was rated by 2-3 independent judges per idea using a multi-item scale, and analyses used regression/panel models, mediation, and moderation tests.",
+  "focal_constructs": [
+    "network clustering",
+    "interconnectivity among neighbors",
+    "idea redundancy",
+    "individual idea innovativeness",
+    "interdependent ideation",
+    "degree centrality",
+    "interdependent ideation style"
+  ],
+  "main_findings": [
+    "Higher clustering among a participant's idea sources reduced that participant's idea innovativeness when interdependent ideation was more likely (for example, at higher degree or when using others' ideas was allowed).",
+    "Concepts spread over network ties across rounds, and clustering increased redundancy among neighbors' ideas; this redundancy mediated the negative clustering effect on innovativeness.",
+    "The negative effect was attenuated or absent when participants did not rely on others' ideas, and redundancy had a stronger negative effect for participants with a more interdependent ideation style."
+  ],
+  "one_line_summary": "Across five controlled experiments, the paper shows that lower neighbor clustering in customer ideation networks improves individual idea innovativeness by reducing redundancy in the ideas people draw on for inspiration.",
+  "relation_to_prior_work": "extends prior work on wisdom of crowds, organizational network creativity, and brainstorming by examining noncollaborative online customer ideation with explicit manipulation of communication-network structure. It uses exogenous network assignment to address endogeneity and homophily concerns and links clustering effects to redundancy of idea inspirations.",
+  "research_gap": "Prior related literatures had not clearly identified the causal effect of communication-network structure, especially clustering, on individual customer innovativeness in online interdependent product ideation. The mechanism and boundary conditions for such effects, particularly whether clustering works through redundancy in idea inputs, were largely untested.",
+  "research_question": "How does the clustering of a customer's idea sources in an online communication network affect that customer's ability to generate innovative product/service ideas in interdependent ideation tasks? The paper also asks why this effect occurs, via redundancy among neighbors' ideas, and when it is stronger or weaker depending on reliance on others' ideas."
+}

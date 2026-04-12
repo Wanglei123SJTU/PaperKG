@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in a specific methodological role, not just as background. In the Study 3 regression reporting note, the authors cite Irwin and McClelland (2001) to justify how coefficients should be interpreted when interaction terms are present, including the conditional-at-zero interpretation and possible extrapolation issues. This directly supports the interpretation of their moderated model results, so the citation function is substantive.",
+  "relation_description": "The citing paper applies Irwin and McClelland's guidance on interpreting moderated regression coefficients to its own interaction-based analyses. It uses that guidance to frame how lower-order coefficients in its moderated model should be read when an interaction is included.",
+  "relation_type": "applies"
+}

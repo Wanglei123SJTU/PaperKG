@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the episode-level model section, the citation is used to justify adding episode-position effects because consumption can change as users move through a series. The paper cites Lu et al. again when interpreting variation across episode bins as possible dropout before completion. This is more than a passing bibliography mention, but it does not build directly on Lu et al.'s specific model; it mainly transfers a behavioral regularity to a new context.",
+  "relation_description": "The citing paper uses Lu et al. (2022) as prior evidence that engagement declines as users progress through sequential content. It applies this idea to serialized comics by modeling episode-position heterogeneity and by interpreting end-of-series drop-off patterns under WFF.",
+  "relation_type": "applies"
+}

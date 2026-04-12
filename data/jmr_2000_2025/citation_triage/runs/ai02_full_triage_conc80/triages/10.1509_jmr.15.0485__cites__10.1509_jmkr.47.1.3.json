@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper explicitly states it uses a “control-function instrumental-variable approach” to handle peer-turnover endogeneity, while the cited paper’s core contribution is introducing a control-function method for endogeneity correction. This strong method-level alignment suggests the citation is likely serving as a methodological source rather than a purely incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

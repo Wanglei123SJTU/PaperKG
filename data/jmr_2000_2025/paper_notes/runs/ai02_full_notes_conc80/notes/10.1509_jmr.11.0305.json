@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides what the authors describe as the first investigation of how market expansion and customer acceleration jointly create value in a word-of-mouth seeding program for a new product.",
+    "Defines and operationalizes a seeding program's social value as the global change in customer equity attributable to seeded customers' communications.",
+    "Shows, through simulations on multiple empirical network structures, how competition, targeting, profit decline, retention, and measurement horizon change the expansion-versus-acceleration mix and program value."
+  ],
+  "context": "The paper studies new product launches in competitive markets where one brand runs a seeding program that induces early adoption and word of mouth. Evidence is generated across 12 social network structures, including offline and online communities and empirical-degree-based network constructions.",
+  "design_and_data": "The authors build a stochastic cellular automata (agent-based) diffusion model with two competing brands, external and internal influence parameters, and a 30-period horizon. Network inputs come from 12 social structures: published networks (URV email, PGP, Cameroon tontines), six Lithium brand communities, a YouTube network, and two networks generated from Keller-Fay TalkTrack and CNET degree distributions. They compare no program versus seeding by random customers, hubs, and experts, with seed size typically varied from 0.5% to 5%. They run full-factorial simulations with repeated stochastic realizations (20 per parameter set) and also estimate pooled regressions across networks to test how market and network factors affect the acceleration ratio.",
+  "focal_constructs": [
+    "word-of-mouth seeding programs",
+    "social value",
+    "customer equity",
+    "market expansion",
+    "customer acceleration",
+    "influential targeting",
+    "brand strength",
+    "customer attrition"
+  ],
+  "main_findings": [
+    "Across the 12 networks, seeding programs create substantial social value, and under equal-brand conditions most of that value comes from market expansion rather than acceleration (average acceleration share is well below 50%).",
+    "Programs targeted at influentials generate more social value than random seeding, and a larger proportion of influential-program value is driven by acceleration.",
+    "Acceleration's role increases when the focal brand is stronger and when future customer value declines (higher discount or price decline), while lower retention reduces acceleration's role and short-horizon measurement overestimates program value by misclassifying acceleration as expansion."
+  ],
+  "one_line_summary": "Using agent-based simulations on 12 empirical network structures, the paper decomposes seeding-program value into expansion and acceleration and shows how their balance shifts with targeting, competition, retention, discounting, and time horizon.",
+  "relation_to_prior_work": "introduces a joint, competitive decomposition of word-of-mouth seeding value into market expansion and customer acceleration, whereas prior approaches largely emphasized either reach/expansion or acceleration in isolation. It reorients evaluation from single-mechanism metrics to social-system customer-equity impact.",
+  "research_gap": "Prior work on word-of-mouth value uses two largely separate lenses: counting newly affected customers (expansion) or valuing earlier adoption timing (acceleration). The paper argues that this separation, especially in competitive markets, leaves an unresolved problem of how both mechanisms jointly generate the monetary value of seeding programs.",
+  "research_question": "How should the value of a word-of-mouth seeding program be measured at the social-system level in terms of customer equity? In competitive new product markets, how do market expansion and customer acceleration combine to create that value, and how do targeting and market conditions change their relative roles?"
+}

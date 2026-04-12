@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "The paper shifts the focus from partitioned versus nonpartitioned prices to preferences across different partitions of the same total mandatory price.",
+    "It proposes and tests a mechanism that links perceived component benefit to component-level price sensitivity: higher perceived benefit implies lower price sensitivity.",
+    "It identifies a boundary condition for zero-priced components and reports evidence that the effects are not driven by perceived quality, price fairness, or component reference prices."
+  ],
+  "context": "The paper studies mandatory two-part prices in consumer purchase settings such as auto parts with labor or shipping charges, refrigerator add-on features, laptop plus surge protector offers, and pizza-wings meal specials. In these settings, alternatives often keep total price fixed while reallocating amounts across components.",
+  "design_and_data": "A pilot study used 85 undergraduate business students choosing between auto repair shops with identical total prices but different labor-part splits across bumper versus headlight scenarios. Study 1 used a conjoint ranking task with 81 undergraduate business students evaluating nine refrigerator profiles where either a high-benefit (ice maker) or low-benefit (sound-silencing system) component was partitioned and benefits were measured. Study 2 (N = 156) and Study 3 (N = 77) used scenario-based choices/evaluations with equal total prices, varying partition shares and manipulating perceived benefit while measuring perceived quality. Study 4 used 115 undergraduate business students, manipulated consumption goals in a pizza-wings offer, and measured perceived benefits, perceived quality, perceived fairness, and component reference prices.",
+  "focal_constructs": [
+    "partitioned pricing",
+    "component-level price sensitivity",
+    "perceived consumption benefit",
+    "price partition preferences",
+    "component nature versus component size",
+    "marketplace norms for zero-price components"
+  ],
+  "main_findings": [
+    "Consumers were more sensitive to price changes for components perceived as lower benefit than for components perceived as higher benefit.",
+    "With total price held constant, participants generally preferred partitions that assigned a lower price to the low-benefit component and a higher price to the high-benefit component.",
+    "Manipulating perceived benefits via usage context or consumption goals shifted which partition was preferred, and these shifts were not explained by perceived quality, perceived fairness, or measured reference prices."
+  ],
+  "one_line_summary": "Across a pilot and four studies, the paper shows that for equal total prices consumers prefer partitions that price low-benefit components lower and high-benefit components higher because price sensitivity is greater for low-benefit components.",
+  "relation_to_prior_work": "extends prior price-partitioning research that mainly contrasts partitioned with nonpartitioned prices by explaining preferences across alternative partitions of the same total price through perceived component benefits, rather than relying only on component-size or reference-dependence accounts.",
+  "research_gap": "Prior work largely examined whether partitioning a total price changes responses relative to nonpartitioned pricing, but gave limited attention to how different partitions of the same total price affect preference. The paper addresses the unresolved role of component nature, beyond relative component size, in shaping component-level price sensitivity.",
+  "research_question": "When the same total mandatory price is partitioned differently across components, do consumers systematically prefer some partitions over others? Specifically, does perceived consumption benefit of each component determine component-level price sensitivity and thereby drive partition preferences?"
+}

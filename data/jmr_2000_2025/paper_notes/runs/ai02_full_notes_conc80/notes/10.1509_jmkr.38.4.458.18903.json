@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and tests that brand commitment moderates spillover by triggering defense motivation, which isolates negative information and facilitates positive spillover.",
+    "It shows that commitment provides benefits beyond favorable brand attitude by reducing attitude damage from negative messages and amplifying gains from positive messages through spillover patterns.",
+    "It positions spillover as a defensive resistance mechanism and extends missing-information inferencing research from neutral inference mechanics to motivation-driven processing for familiar brands."
+  ],
+  "context": "The studies are set in consumer evaluations of athletic shoes. Stimuli use a fictitious unfamiliar brand (Avanti) and a low-share real brand used as a known target (Mizuno), with message claims about shock absorption and belief measures on other shoe attributes.",
+  "design_and_data": "After multiple pretests to validate message valence/credibility and perceived interattribute associations, the authors run three experiments. Experiment 1 uses a 3 (positive, negative, none) x 3 (attribute association: high, moderate, low) mixed design with undergraduates (n = 59) and an unknown fictitious brand. Experiment 2 uses a 3 x 2 (high vs low commitment) x 3 mixed design with local adult respondents (n = 108), manipulating commitment via a public endorsement/release procedure for Mizuno; Experiment 3 replicates with undergraduates (n = 120), adds anonymity to reduce self-presentation pressure, and includes process measures (thought listings, perceived diagnosticity, involvement). Main outcomes are beliefs about target and unmentioned attributes, plus brand attitude and commitment.",
+  "focal_constructs": [
+    "spillover effects",
+    "brand commitment",
+    "message valence",
+    "attribute association",
+    "perceived diagnosticity",
+    "biased assimilation",
+    "defense motivation",
+    "attitude change"
+  ],
+  "main_findings": [
+    "For an unknown brand, strong credible negative information about shock absorption spilled over to associated unmentioned attributes, whereas equally strong positive information did not.",
+    "For a well-liked brand with low commitment, spillover occurred in both valence conditions for highly associated attributes (with mixed effects for moderate associations and none for low associations).",
+    "When commitment was high, negative spillover was largely isolated while positive spillover extended to associated attributes; process data showed biased assimilation and lower perceived diagnosticity of negative information."
+  ],
+  "one_line_summary": "This paper shows that brand commitment changes communication spillover, suppressing negative spillover and enhancing positive spillover from a target attribute to related unmentioned attributes.",
+  "relation_to_prior_work": "extends missing-information and inferencing research by examining not only how consumers infer absent attributes, but how far inferences spread under positive versus negative communications and varying brand commitment. It also links attitude-strength and motivated-reasoning ideas to spillover by showing commitment-related shifts in perceived diagnosticity and biased elaboration.",
+  "research_gap": "Prior missing-information and inferencing work mainly explains the bases of inference generation, often with fictitious or unknown brands, but gives limited guidance on the extent of spillover across positive versus negative messages. The authors also note that little is known about the conditions under which spillover occurs and how commitment moderates it.",
+  "research_question": "When does communication about one brand attribute change beliefs about other related but unmentioned attributes (spillover) rather than remain isolated? The paper tests how message valence, prior positive attitude toward a brand, and especially attitudinal commitment shape this spillover."
+}

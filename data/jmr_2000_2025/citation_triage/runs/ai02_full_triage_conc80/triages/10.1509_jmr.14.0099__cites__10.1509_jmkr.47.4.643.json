@@ -1,0 +1,4 @@
+{
+  "rationale": "The only linkage provided is a single DOI match (reference index 42) with no in-text citation context, so there is no direct evidence of how the 2010 paper is used. While both papers involve social influence/WOM broadly, the cited study’s core contribution is a Bayesian network-influence method for log-in activity, which is not obviously the same as the citing paper’s conversation-level WOM valence/channel/tie-strength mixed-model analysis. Given this sparse and mixed evidence, it is not safe to drop outright.",
+  "triage_decision": "uncertain"
+}

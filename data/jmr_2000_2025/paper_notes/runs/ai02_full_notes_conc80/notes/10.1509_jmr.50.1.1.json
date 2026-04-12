@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The article explicitly identifies two urgent challenges for marketing as a field: an academia-practice gap and a scientific credibility gap.",
+    "It announces concrete JMR editorial standards to improve reproducibility, including fuller method disclosure, complete statistical reporting, and code availability for new methods/models.",
+    "It signals an editorial shift toward rewarding ecological validity and practical usability to reconnect marketing research with real-world decision contexts."
+  ],
+  "context": "The piece is an editorial in Journal of Marketing Research (JMR) reflecting on Paul Green's legacy and the evolution of marketing scholarship. It discusses JMR's growth and changing orientation, including high submission volume, internationalization, and movement from method-centric work toward broader theory-driven research.",
+  "design_and_data": "This is a conceptual/editorial essay, not an empirical study with original data collection or hypothesis testing. The author uses historical and descriptive observations about JMR (e.g., journal composition over time, submission scale, and topical shifts) plus examples from the literature on fraud, p-hacking, and replication. The article also presents policy-oriented guidance for manuscript reporting and review standards at JMR.",
+  "focal_constructs": [
+    "academia-practice gap",
+    "scientific credibility gap",
+    "replicability",
+    "reporting transparency",
+    "p-hacking and false positives",
+    "ecological validity",
+    "method usability and code sharing"
+  ],
+  "main_findings": [
+    "JMR has evolved from a predominantly methods-focused outlet to a broader, theory-oriented journal with substantially larger and more international submissions.",
+    "The field's stronger theoretical orientation has raised academic standing but also increased concern about disconnection from managerial practice.",
+    "The article concludes that stronger transparency and reproducibility standards are needed, including detailed materials/procedures reporting, fuller statistics, and code access for nonstandard methods."
+  ],
+  "one_line_summary": "In a tribute to Paul Green, Meyer argues that marketing research now faces widening practice relevance and scientific credibility problems and outlines stricter JMR transparency and reproducibility expectations as a response.",
+  "relation_to_prior_work": "introduces journal-level policy responses to concerns in prior work about false positives and weak replication norms, while positioning these reforms as a return to core scientific standards rather than a new methodological doctrine.",
+  "research_gap": "The article states that marketing faces unresolved tension between academic rigor/theory and practical relevance, with fewer industry-academic collaborations than in earlier decades. It also highlights inadequate norms for replication-ready reporting, which leaves the field vulnerable to undetected false positives and misconduct concerns.",
+  "research_question": "The essay asks how JMR and the marketing field should respond to major structural challenges that have emerged as the discipline evolved. In particular, it focuses on how to reduce the gap between academic research and practice and how to strengthen confidence in the validity and reproducibility of published findings."
+}

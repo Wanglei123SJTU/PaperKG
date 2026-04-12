@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a categorization-based framework in which salient temporal boundaries create top-down biases in anticipated duration.",
+    "Provides convergent evidence from seven preregistered experiments and a large field data set that equal-duration periods feel longer when they span more category boundaries.",
+    "Shows that boundary-based duration bias affects consequential consumer decisions, including scheduling preferences, time-money trade-offs for waiting, and rideshare option choice."
+  ],
+  "context": "The paper studies routine consumer judgments about clock and calendar intervals in tasks such as planning work, scheduling activities, and valuing waits. Its field setting is Chicago rideshare demand, where consumers choose between independent and shared trips with different expected arrival times.",
+  "design_and_data": "The authors report seven experiments (total N = 3,509) using MTurk and Prolific participants, with preregistered designs that manipulate whether equal-duration periods are boundary-expanded or boundary-compressed across hours, months, years, seasons, and imposed class-schedule boundaries. Dependent measures include perceived duration ratings, expected number of HITs completed, scheduling choices for pleasant vs unpleasant activities, and willingness to pay or accept in waiting scenarios. They also analyze a preregistered confirmatory field sample of 1,820,671 Chicago rideshare trips (after exclusions), constructing trip-level probabilities that shared vs independent rides cross an hour boundary and estimating choice models with controls for fare and duration differences, route, and time fixed effects.",
+  "focal_constructs": [
+    "perceived duration",
+    "temporal category boundaries",
+    "boundary-expanded vs boundary-compressed periods",
+    "hierarchical time categorization",
+    "boundary salience",
+    "scheduling preferences",
+    "willingness to pay to avoid waiting",
+    "shared vs independent rideshare choice"
+  ],
+  "main_findings": [
+    "Across experiments, equal-length intervals were perceived as longer when they crossed more temporal category boundaries, and participants anticipated completing more work in those intervals.",
+    "The effect followed hierarchical and salient categorization: it appeared when month boundaries were in the middle date position, weakened when year became the highest differentiating unit, and shifted to imposed class boundaries when those were made salient.",
+    "Behaviorally, participants preferred boundary-expanded slots for pleasant activities and boundary-compressed slots for unpleasant activities, valued avoiding boundary-expanded waits more, and in field data were less likely to choose shared rides when the shared option was boundary-expanded relative to the independent option (odds about 41% lower in mixed choice sets)."
+  ],
+  "one_line_summary": "Across seven experiments and a large rideshare field analysis, the paper shows that equal-duration intervals feel longer when they cross more salient temporal category boundaries, which shifts scheduling, valuation, and transportation choices.",
+  "relation_to_prior_work": "extends prior marketing work on time misestimation by proposing a top-down categorization mechanism alongside and against purely bottom-up attentional accounts such as left-digit bias. The authors show cases that are inconsistent with a simple leftmost-digit explanation, including effects driven by the most differentiating unit and by experimentally imposed category boundaries.",
+  "research_gap": "The paper argues that although prior studies show contextual and experiential influences on duration judgments, a cohesive framework for when and why consumers over- or underestimate anticipated duration is lacking. It addresses the unresolved role of natural temporal categorization and boundary salience in shaping those estimates.",
+  "research_question": "Do consumers perceive objectively equal time periods as different in length depending on how many salient temporal category boundaries they span? If so, are these effects governed by hierarchical and salient categorization, and do they change real consumer decisions such as scheduling, paying to avoid waits, and choosing rideshare options?"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is a core prior in marketing text analytics (LDA-based extraction of latent dimensions and valence from online reviews), and the citing paper’s stated gap explicitly contrasts its method against prior bag-of-words/topic and valence-focused approaches. Given this direct methodological lineage in the notes, this citation is plausibly foundational/method-source rather than an incidental mention, so it should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

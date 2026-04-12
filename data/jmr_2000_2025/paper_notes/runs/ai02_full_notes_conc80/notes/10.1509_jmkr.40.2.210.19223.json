@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The study provides a formal empirical test of the expropriation scenario by directly relating one party's specific investments to the receiver's opportunism.",
+    "It develops and tests a contingency argument that the effect of specific investments on opportunism is nonmonotonic and shifts from expropriation to bonding under certain relationship conditions.",
+    "It conducts parallel analyses on both sides of matched buyer-supplier dyads to compare receiver self-reports with investor attributions and identify side-specific differences."
+  ],
+  "context": "The empirical setting is channel relationships between manufacturers of building materials and independent distributors. The unit of analysis is a specific supplier-buyer relationship for a particular product (for example, doors, windows, roofing products, and related materials).",
+  "design_and_data": "The authors collected survey data from both sides of dyads using mail questionnaires and a parallel telephone interview option. They screened manufacturers, obtained supplier responses, then contacted identified buyer counterparts; the final matched sample was 198 buyer-supplier dyads. Multi-item reflective scales measured opportunism, buyer-specific investments, extendedness, solidarity, and controls, and the hypotheses were tested with OLS regression models including interaction terms estimated separately for supplier and buyer reports.",
+  "focal_constructs": [
+    "specific investments",
+    "receiver opportunism",
+    "expropriation effect",
+    "bonding effect",
+    "relationship extendedness",
+    "norm of solidarity",
+    "buyer-supplier dyads"
+  ],
+  "main_findings": [
+    "Buyer-specific investments showed a positive main effect on supplier opportunism in both models, consistent with baseline expropriation risk.",
+    "The interaction between buyer-specific investments and solidarity was negative and significant in both supplier and buyer analyses, indicating a shift from expropriation at low solidarity to bonding at high solidarity.",
+    "The interaction between buyer-specific investments and extendedness was negative and significant in the buyer model but not significant in the supplier model, revealing asymmetry between exchange sides."
+  ],
+  "one_line_summary": "Using 198 matched buyer-supplier dyads, the paper finds that buyer-specific investments can either raise or reduce supplier opportunism depending mainly on solidarity norms, with extendedness effects appearing only from the buyer side.",
+  "relation_to_prior_work": "extends prior repeated-game and transaction cost work by testing whether relationship conditions moderate the specific investment-opportunism link, rather than only examining direct effects on cooperation, and by providing an explicit opportunism-based test of expropriation arguments.",
+  "research_gap": "Transaction cost theory predicts that specific investments can be expropriated, but prior marketing studies had rarely measured opportunism directly and thus had not formally tested this expropriation prediction. Prior work on repeated interaction largely emphasized cooperation and main effects, leaving unclear whether relationship conditions shift the effect of specific investments from expropriation to bonding.",
+  "research_question": "Do specific investments made by one exchange partner increase the receiver's opportunism (expropriation) or can they instead reduce opportunism (bonding)? The paper asks whether this effect depends on relationship extendedness and solidarity norms, and whether the pattern is similar when examined from receiver self-reports versus investor attributions."
+}

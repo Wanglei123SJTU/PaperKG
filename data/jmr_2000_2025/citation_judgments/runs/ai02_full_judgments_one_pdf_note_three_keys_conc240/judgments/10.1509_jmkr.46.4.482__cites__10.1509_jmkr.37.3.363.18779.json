@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the model development section, the cited paper is not just listed as background; it is explicitly invoked to characterize the standard HB covariance treatment the authors aim to improve. The core contribution of the citing paper is framed as overcoming restrictive covariance heterogeneity assumptions associated with that prior approach. Because the citation helps motivate and define the methodological improvement rather than serving as a passing domain reference, the role is substantive.",
+  "relation_description": "The citing paper uses Ansari, Essegaier, and Kohli (2000) as a representative hierarchical Bayes model that uses an inverse Wishart prior for covariance heterogeneity. It then proposes a reparameterized conditional-normal HB specification to relax that restriction and reports better parameter recovery and prediction.",
+  "relation_type": "refines"
+}

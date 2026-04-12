@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops what the authors describe as the first structural econometric model of organizational buying for B2B markets that jointly models buyer contracting and user product choice in routinized exchange relationships.",
+    "It introduces an inclusive value loss construct to parsimoniously map user dissatisfaction from buyer contract choices into buyer utility, enabling internally consistent two-way buyer-user influence.",
+    "It provides a structural diffusion framework for disposable products in a trial-repeat setting with SOW contracts, and implements estimation using an EM plus MPEC approach that also imposes new-product adoption-process constraints."
+  ],
+  "context": "The empirical setting is a U.S. hospital market for a disposable surgical device category in a duopoly, where a smaller supplier launches a new product line against a dominant incumbent. Hospital buyers contract via GPO-mediated SOW terms, and surgeons then choose product lines for surgeries under those contracting conditions.",
+  "design_and_data": "The authors assemble proprietary panel data combining quarterly product usage shares, contract status and switching, hand-coded GPO contract terms (off-contract prices, discounts, SOW thresholds), and hospital/surgeon characteristics. The final sample is a balanced panel of 201 hospitals over 19 quarters (3,819 hospital-quarters), covering 17,239 surgeons and nine GPOs. They estimate a structural multiagent model in which surgeons make trial/usage choices conditional on contracts, while forward-looking buyers solve a dynamic contract-switching (optimal stopping) problem trading off purchasing costs and user dissatisfaction. Estimation combines latent segments with EM and MPEC.",
+  "focal_constructs": [
+    "organizational buying behavior",
+    "multistakeholder buyer-user interactions",
+    "share-of-wallet contracts",
+    "innovation adoption and diffusion",
+    "contract switching",
+    "inclusive value loss",
+    "push versus pull tactics",
+    "routinized exchange relationships"
+  ],
+  "main_findings": [
+    "Hospitals split into two latent segments, a larger buyer-centric segment and a smaller user-centric segment, and contract switching to the innovator is much more likely in the user-centric segment.",
+    "Innovation diffusion is faster in teaching hospitals and in hospitals where surgeries are more concentrated among a few surgeons.",
+    "Pull tactics that increase user valuation of the innovation are more effective than simple price-cut push tactics early on, and SOW contracts can accelerate diffusion of a superior innovation from a smaller supplier, especially in user-centric hospitals."
+  ],
+  "one_line_summary": "Using proprietary hospital-surgeon panel data, the paper estimates a structural multistakeholder model of buyer contracting and surgeon usage under SOW contracts to explain diffusion of a surgical-device innovation.",
+  "relation_to_prior_work": "introduces a structural revealed-preference model for B2B organizational buying in settings where prior empirical work largely relied on survey evidence or as-if unitary buyer models. It extends structural diffusion modeling beyond durable one-time B2C purchases to disposable trial-repeat adoption with buyer contracting dynamics, and challenges the standard theoretical expectation that SOW contracts necessarily favor dominant firms.",
+  "research_gap": "Econometric work on organizational buying with transactional data is limited and often treats organizations as unitary buyers, leaving stakeholder interactions inside firms unmodeled. Prior SOW-contract theory and diffusion research do not jointly model multistakeholder contracting and user adoption for disposable products, so the impact of SOW contracts on smaller-firm innovation diffusion remains unresolved.",
+  "research_question": "How do hospital buyers and surgeons jointly determine contract choice, product usage, and innovation diffusion under SOW contracts in a B2B market? Which stakeholder has more influence across hospitals, when should suppliers use push (buyer-focused) versus pull (user-focused) tactics, and do SOW contracts suppress or speed diffusion of innovations from smaller firms?"
+}

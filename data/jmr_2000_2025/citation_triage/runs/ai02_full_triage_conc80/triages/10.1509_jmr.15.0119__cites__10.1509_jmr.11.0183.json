@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper highlights dynamic estimation with potentially endogenous lagged outcomes (using system GMM), and the cited paper is a methodological work on fixed-effects bias/inconsistency in dynamic installed-base adoption models with correction/IV solutions. That methodological overlap makes it plausibly substantive (method/source reference) rather than an obvious incidental mention, even though the match evidence is only DOI-level.",
+  "triage_decision": "keep_for_relation_judgment"
+}

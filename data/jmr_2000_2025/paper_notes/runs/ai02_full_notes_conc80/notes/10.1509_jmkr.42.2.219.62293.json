@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops a consumer-level framework in which utility for a mass customization configuration is jointly determined by achievable product utility and perceived customization complexity.",
+    "It identifies four design levers of mass customization configurations - extent of customization, level heterogeneity, individual module pricing, and default version - and theorizes their effects on product utility and complexity.",
+    "It empirically tests this framework with a random-coefficient extended logit model with latent variables and consumer expertise effects, and derives design implications for firms offering customization."
+  ],
+  "context": "The study is set in online mass customization of personal computers, similar to vendor Web configurators such as those used by PC manufacturers. Respondents customized PCs under different configuration designs and evaluated whether they would use each design if available.",
+  "design_and_data": "The authors ran an Internet-based experiment in 2001 with members of a Dutch consumer panel; after exclusions, 409 respondents remained. Each respondent completed a practice task and then customized a PC in 8 experimental conditions drawn from a 32-profile fractional factorial design that manipulated extent of customization, level heterogeneity, individual module pricing, and default options. For each task, respondents reported whether they would use the configuration, purchase likelihood of the configured PC, and three complexity ratings; expertise was measured with five self-report items. The model was estimated as a random-coefficient extended logit with latent constructs using smooth simulated maximum likelihood with Halton draws (2427 observations).",
+  "focal_constructs": [
+    "mass customization utility",
+    "product utility",
+    "perceived complexity",
+    "extent of mass customization",
+    "module level heterogeneity",
+    "individual pricing of modules",
+    "default version",
+    "consumer expertise"
+  ],
+  "main_findings": [
+    "Achievable product utility has a positive effect on mass customization utility, while perceived complexity has a negative effect, and complexity also reduces achievable product utility.",
+    "Consumers with higher expertise perceive less complexity, and the negative effect of complexity on product utility is weaker for more expert consumers.",
+    "Configuration design significantly changes outcomes: greater customization extent increased product utility without a significant complexity increase in this study, level heterogeneity and individual module pricing reduced product utility, individual module pricing increased complexity, and base defaults produced higher product utility than advanced defaults."
+  ],
+  "one_line_summary": "Using an online PC customization experiment, the study shows that consumers prefer customization configurations that increase achievable product utility and reduce perceived complexity, with expertise mitigating complexity costs.",
+  "relation_to_prior_work": "extends prior mass customization research by focusing on preferences among alternative customization configurations rather than on the customize-versus-standard purchase decision. It integrates choice task complexity theory, consumer choice theory, and loss aversion to explain these configuration preferences.",
+  "research_gap": "Prior consumer research on mass customization had begun to study customization choices, but there was little evidence on how different configuration designs themselves change the utility consumers derive from customizing. The paper addresses this missing explanation of why consumers evaluate one mass customization configuration differently from another.",
+  "research_question": "When consumers are already mass customizing a product, why do they prefer one mass customization configuration over another? Specifically, how do configuration design factors influence achievable product utility and perceived complexity, and how do these two mechanisms jointly determine utility for using a given configuration?"
+}

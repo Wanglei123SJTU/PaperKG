@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is not a passing reference; it is one of the focal empirical reanalyses in a dedicated subsection (\"Testing Serial Mediation\") with detailed model tests and interpretation. The citing paper uses Tonietto and Malkoc (2016) data and claims to reassess its mediation structure via Bayes-factor-based conditional independence tests. It explicitly states that its reanalysis refutes the serial mediation ordering among the two mediators and offers an alternative latent-mediator interpretation, directly revising the original study's interpretation.",
+  "relation_description": "The citing paper reanalyzes Tonietto and Malkoc (2016) as a key application of its method and argues that the original serial mediation interpretation is not supported by stronger causal-identification tests. It replaces that interpretation with a different causal account (a single latent mediator structure), thereby contesting the original mediation conclusion.",
+  "relation_type": "challenges"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper reconciles discounting and anticipation findings by showing that the provision of choice changes whether delayed hedonic consumption is valued more or less over time.",
+    "It shows that anticipation is short lived: with self-choice, evaluations follow an inverted U-shape over delay length rather than rising monotonically.",
+    "It identifies intrinsic motivation as the mediating mechanism and synthesizes anticipation, discounting, and motivation perspectives."
+  ],
+  "context": "The studies examine delayed hedonic consumption where choice and consumption are separated in time, a setting common in advance selling. Empirical contexts include theatrical dramas, music concerts, and chocolate tasting with student participants.",
+  "design_and_data": "The paper reports three between-subject experiments. Experiment 1 is a scenario study (N = 119 undergraduates) with a 2 (choosing agent: self vs other) x 2 (delay: same day vs one week) design using drama choices and intention measures. Experiment 2 uses real delays in a 2 (inherent interest: pop vs classical concerts) x 2 (choosing agent) x 3 (delay: none, one week, two weeks) design (N = 285; analyzed N = 246), and measures evaluations, perceived control, autonomy, and intrinsic motivation. Experiment 3 uses real choices and delays for chocolate tasting in a 4-level delay design (none, one week, two weeks, one month; N = 110; analyzed N = 104), measuring both preconsumption and postconsumption evaluations and intrinsic motivation.",
+  "focal_constructs": [
+    "temporal separation between choice and consumption",
+    "anticipation",
+    "discounting",
+    "provision of choice",
+    "autonomy",
+    "perceived control",
+    "intrinsic motivation",
+    "preconsumption and postconsumption evaluation"
+  ],
+  "main_findings": [
+    "When consumers chose hedonic options themselves, delayed evaluations increased over short delays but declined over longer delays, producing an inverted U-shaped pattern.",
+    "When someone else chose the same option, evaluations declined with delay, consistent with discounting, and this decline appeared regardless of inherent interest.",
+    "The effects on preconsumption evaluations were mediated by intrinsic motivation, and the condition with strongest anticipation (one-week delay in Experiment 3) showed lower postconsumption evaluations."
+  ],
+  "one_line_summary": "Across three experiments, the paper shows that for hedonic consumption, self-choice creates short-run anticipation but longer delays and other-choice lead to discounting, with intrinsic motivation mediating these patterns and short-run anticipation lowering later satisfaction.",
+  "relation_to_prior_work": "extends prior discounting and anticipation research by identifying choice-based autonomy and delay-based perceived control as boundary conditions for when delayed hedonic consumption is anticipated versus discounted, and by showing anticipation is short lived.",
+  "research_gap": "Prior work showed both discounting and anticipation for delayed consumption, but it did not clearly specify when each pattern should occur or how delay length changes the effect. The postconsumption consequences of anticipatory increases in valuation were also unclear.",
+  "research_question": "When purchase/choice precedes hedonic consumption, under what conditions does delay increase valuations (anticipation) versus decrease them (discounting)? Specifically, how do choosing agent (self vs other), delay length, and intrinsic motivation shape preconsumption evaluations, and what are the downstream effects on postconsumption evaluations?"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper develops a dynamic market equilibrium model that incorporates incomplete consumer information about seller costs and Bayesian belief updating from historical prices.",
+    "It links consumer price expectations to sequential search, demand, and sellers' dynamic mixed-strategy pricing in one endogenous buyer-seller framework.",
+    "It proposes adaptive consumer search as an alternative explanation for asymmetric price adjustment (rockets and feathers) and tests the model's implications in simulated market experiments."
+  ],
+  "context": "The setting is a repeated market for a homogeneous good with two competing sellers and buyers who can sequentially search at a cost. The empirical tests use controlled simulated markets designed to resemble frequently purchased categories with recurring cost shocks (the paper uses gasoline as an example context).",
+  "design_and_data": "The theory is a dynamic game with stochastic high/low marginal costs, heterogeneous buyer search costs, adaptive expected prices based on past observed prices, and perfect Bayesian Nash equilibrium in symmetric mixed strategies. Experiment 1 compares positive versus negative cost-shock markets over 44 periods, with 20 undergraduate participants per session (4 sellers, 16 buyers) and random matching in each period. Experiment 2 uses a 2 x 2 x 2 between-subject design (shock direction x shock size x collusion-facilitated feedback), 160 undergraduates total, and 52 periods, and also elicits buyers' expected prices and confidence. The authors analyze individual search with logistic regressions, market-level correlations for search-price-profit links, comparisons to theoretical point predictions, and a self-tuning EWA learning model.",
+  "focal_constructs": [
+    "consumer price expectations",
+    "sequential search behavior",
+    "search intensity",
+    "dynamic pricing strategies",
+    "seller marginal cost uncertainty",
+    "adaptive learning",
+    "asymmetric price adjustment"
+  ],
+  "main_findings": [
+    "Higher observed current prices increase consumer search, while higher expected prices formed from past prices reduce search.",
+    "Greater consumer search intensity is associated with wider price dispersion and lower seller profits.",
+    "Prices adjust faster upward after cost increases than downward after cost decreases; buyers search more after positive cost shocks and less after negative shocks, and sellers earn higher profits in negative-shock markets."
+  ],
+  "one_line_summary": "The paper develops and experimentally tests a dynamic Bayesian search-pricing model showing that historical-price-based expectations reduce consumer search and contribute to asymmetric price adjustment after cost shocks.",
+  "relation_to_prior_work": "extends equilibrium search models by allowing consumers to learn about unobserved seller costs from historical prices and by endogenizing sequential search and seller pricing jointly. It also connects marketing reference-price research, which has focused mainly on choice, to search behavior and market pricing dynamics.",
+  "research_gap": "Prior equilibrium search models typically assume consumers know the equilibrium price distribution and use search only to collect offers, not to learn about market conditions such as cost realizations. Marketing price expectation research had largely examined effects on choice rather than on search and seller pricing dynamics under cost uncertainty.",
+  "research_question": "How do consumers form price expectations from historical prices when sellers' marginal costs are unobserved, and how do those expectations affect sequential search after current prices are observed? How does this adaptive search behavior feed back into sellers' dynamic pricing and the speed of price adjustment under positive versus negative cost shocks?"
+}

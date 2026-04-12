@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The article argues for a methodological shift in marketing research toward greater use of field experiments.",
+    "It clarifies defining features and uses of field experiments, including testing theory in real settings, estimating effect sizes, and detecting second-order or long-term effects.",
+    "It offers practical guidance for planning and running field experiments, including setting choice, independent versus collaborative designs, partner considerations, and managing real-world noise and design compromises."
+  ],
+  "context": "The paper is a methodological essay in marketing and behavioral research focused on studying consumer behavior in naturally occurring marketplace environments. Its examples come from settings such as winery tasting rooms, catalog retail, social media platforms, and other firm or public-organization contexts.",
+  "design_and_data": "This is a conceptual methodological article, not a new empirical study with original data collection. It synthesizes prior literature and uses published field experiments as illustrative cases, with detailed discussion of pricing studies in a winery and a plus-size clothing catalog. It also reports a descriptive benchmark that only 3 of 50 Journal of Marketing Research articles in 2013 were based on field experiments. The paper provides implementation guidance on experiment type, partner collaboration, operational constraints, and handling experimental noise in the field.",
+  "focal_constructs": [
+    "field experiments",
+    "laboratory experiments",
+    "observed behavior in natural settings",
+    "external validity",
+    "effect size estimation",
+    "second-order and long-term effects",
+    "price fairness perceptions",
+    "design tightness and experimental noise"
+  ],
+  "main_findings": [
+    "Field experiments can provide directly interpretable real-world behavioral effects, including effect sizes, who is affected, and short- and long-term marketplace outcomes.",
+    "External validity is presented as theory-dependent rather than method-dependent, while field settings can uniquely indicate where and when effects occur and how important they are in practice.",
+    "The article concludes that field experiments should be an integral part of marketing researchers' methods toolkit despite higher operational costs and reduced control."
+  ],
+  "one_line_summary": "This article advocates broader adoption of field experiments in marketing by defining their methodological value, illustrating their practical advantages with pricing examples, and outlining key design and implementation trade-offs.",
+  "relation_to_prior_work": "extends prior calls for real-world experimentation by providing a marketing-specific synthesis of why and how to use field experiments. It adopts Lynch's view that generalizability depends on theory and boundary conditions, while emphasizing the distinctive practical insight of field evidence.",
+  "research_gap": "The paper states that despite repeated encouragement, field experiments remain underused in marketing research, with most evidence still coming from laboratory studies and requiring extrapolation to real markets. It also highlights that field-specific implementation issues are often overlooked or underacknowledged.",
+  "research_question": "Why are field experiments still used infrequently in marketing research despite their ability to measure consequential behavior in real settings, and what value do they add relative to lab studies? How should researchers design, plan, and execute field experiments while addressing practical constraints such as partner coordination, noise, and imperfect control?"
+}

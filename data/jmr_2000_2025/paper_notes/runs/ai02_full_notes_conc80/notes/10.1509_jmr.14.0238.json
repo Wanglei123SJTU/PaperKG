@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides a broad, high-powered examination of anchoring in marketplace payment behavior using many field experiments rather than isolated studies.",
+    "Shows that anchor separation in percentile rank within the payment distribution is more diagnostic of anchoring in payment than raw numeric distance between anchors.",
+    "Demonstrates a strong field-versus-hypothetical divergence and argues that anchor stimulus selection can create misleading impressions of anchoring robustness."
+  ],
+  "context": "The paper studies consumer-elective pricing, mainly pay-what-you-want transactions where customers choose their own payment amounts. Empirical settings include an online media bundle retailer, a campus doughnut stand, and museum admission contexts.",
+  "design_and_data": "The article reports 20 experiments: 16 field studies (N = 21,997) and 4 hypothetical studies (N = 3,174). Most field studies randomly assign customers to different default or suggested anchors during real transactions and measure actual payments (with one field allocation task without personal payment consequences in Study 1). The authors vary anchor levels, absolute versus distributional (percentile-rank) anchor gaps, and proposed moderators from prior literature such as precision, social norm information, retail-value justification, and maximum-price framing. Final hypothetical studies replicate key designs to compare consequential and nonconsequential judgments.",
+  "focal_constructs": [
+    "anchoring",
+    "pay-what-you-want pricing",
+    "default and suggested prices",
+    "distributional anchor gap",
+    "absolute anchor gap",
+    "low versus high anchors",
+    "hypothetical versus real payment judgments"
+  ],
+  "main_findings": [
+    "Anchoring is observed in both a nonpayment field task and real-payment field tasks, but in payment settings effects are better predicted by anchors' percentile-rank separation than by their absolute numeric gap.",
+    "Low anchors tend to pull payments down more than high anchors raise them, and very high anchors are often ineffective in field payment contexts.",
+    "Manipulations often expected to strengthen anchoring (for example precision, norm cues, and alternative framings) are mostly null with real payments, while similar hypothetical studies produce larger and more reliable anchoring effects."
+  ],
+  "one_line_summary": "Across 16 field and 4 hypothetical studies, anchoring in pay-what-you-want payment is real but conditional, with effects tied more to distributional anchor distance and much stronger in hypothetical than real-payment settings.",
+  "relation_to_prior_work": "refines prior anchoring research by showing that effects widely documented in lab and hypothetical paradigms are less reliable in consequential field payment decisions. It further indicates that moderators often reported to amplify anchoring do not consistently generalize to real-payment contexts.",
+  "research_gap": "Prior anchoring evidence is dominated by laboratory and hypothetical studies, while field findings with real payments are mixed, sparse, and often based on contrived elicitation procedures or isolated single-study tests. The paper addresses the lack of a broad, systematic account of when anchoring changes real marketplace payments.",
+  "research_question": "How does anchoring operate when consumers make real payments in field settings, especially under pay-what-you-want pricing? The paper asks which conditions bound the effect, including anchor gap structure (absolute vs distributional), anchor magnitude asymmetry (low vs high), and whether commonly proposed anchoring enhancers work outside the lab."
+}

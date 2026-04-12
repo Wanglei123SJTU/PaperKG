@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper explicitly emphasizes a Bayesian framework for mediation (including moderated mediation using posterior draws), while the cited paper’s core contribution is a Bayesian mediation approach with MCMC-based mediated-effect uncertainty and endogeneity handling. Given this strong methodological overlap and a verified DOI match, this is not clearly an incidental background mention and should be reviewed in full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

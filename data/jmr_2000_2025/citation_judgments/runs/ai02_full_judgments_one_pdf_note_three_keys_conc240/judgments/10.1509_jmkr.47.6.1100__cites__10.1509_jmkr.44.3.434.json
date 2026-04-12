@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in the core empirical methodology section, not just in background listing. The authors explicitly state they use a two-stage limited-information demand-supply estimation approach following Che, Sudhir, and Seetharaman (2007), and they also cite it for using prices from another market as instruments in robustness checks. This indicates a meaningful methodological role in how the citing study is executed and validated.",
+  "relation_description": "The citing paper applies Che et al. (2007)'s empirical strategy by adopting a similar two-stage demand-then-supply estimation framework and instrument logic for handling price endogeneity. It uses that approach in a new nonlinear pricing context focused on quantity-discount-dependent preferences.",
+  "relation_type": "applies"
+}

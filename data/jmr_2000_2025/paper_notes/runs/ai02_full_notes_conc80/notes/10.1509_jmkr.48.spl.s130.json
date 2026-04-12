@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides field evidence from Kiva on psychological drivers of prosocial lending decisions.",
+    "It extends identifiable-victim logic to microfinance by showing that larger borrower groups receive less favorable lending behavior.",
+    "It documents lender-borrower social-proximity matching in real lending data across gender, occupation, and first-name initial."
+  ],
+  "context": "The study is set on Kiva.org, an online direct-to-borrower microfinance platform where individuals lend small uncollateralized amounts to entrepreneurs in developing countries. Lenders browse borrower profiles and loan information, choose recipients, and fund loans in fixed increments.",
+  "design_and_data": "For group-size effects, the authors analyze Kiva records of 289,329 loans to 23,024 borrowers between November 27, 2007, and June 18, 2008. They estimate random-effects regressions for loan value and Cox proportional hazards models for time until full funding, controlling for loan, borrower, industry, and borrower-country economic and cultural variables. For social-distance effects, they combine borrower records (40,424 borrowers, March 30, 2005, to April 11, 2008) with scraped profiles of 163,746 lenders (694,552 loans), with AMT coding of lender gender, occupation, and first-name initial. They compare observed lender-borrower matches to random-selection base rates and use controlled logit models to obtain adjusted match probabilities.",
+  "focal_constructs": [
+    "prosocial lending",
+    "microfinance lending decisions",
+    "borrower group size",
+    "identifiable victim effect",
+    "social distance",
+    "gender similarity",
+    "occupation similarity",
+    "first-name-initial similarity"
+  ],
+  "main_findings": [
+    "Loan amounts decrease as borrower group size increases, and loans to larger groups are funded more slowly.",
+    "Lenders are more likely than chance to lend to socially proximate borrowers, with strong support for gender and occupation similarity and weaker, mixed support for first-name-initial similarity.",
+    "These psychological effects persist even when financially relevant variables such as loan term and field partner risk ratings are included."
+  ],
+  "one_line_summary": "Using field data from Kiva, the paper shows that lenders favor smaller borrower groups and borrowers socially similar to themselves, even after accounting for financial loan information.",
+  "relation_to_prior_work": "extends lab-based charitable giving research on identifiable-victim and similarity effects by showing these mechanisms in real-world microlending choices.",
+  "research_gap": "Despite rapid growth in microfinance, the authors state that little research examines how individual lenders make direct-to-borrower lending decisions. They also note uncertainty about whether lab findings on charitable giving generalize to real prosocial lending contexts.",
+  "research_question": "The paper asks whether borrower group size affects microlending decisions on Kiva and whether lenders prefer borrowers who are socially similar to themselves. It also examines whether such psychological effects operate alongside financially relevant loan information."
+}

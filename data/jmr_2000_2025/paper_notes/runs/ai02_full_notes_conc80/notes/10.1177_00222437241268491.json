@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper identifies a backfire effect of donor-focused WOM solicitations: they reduce donors' willingness to share relative to charity-focused solicitations.",
+    "It proposes and tests a message-driven mechanism in which donor-focused WOM is perceived as less altruistic, which lowers perceived persuasion efficacy and reduces sharing.",
+    "It shows downstream consequences of WOM type for fundraising outcomes, with donor-focused WOM attracting fewer new donors and lower total donations."
+  ],
+  "context": "The paper is set in charitable giving, where nonprofit organizations ask existing donors to spread post-donation WOM to their networks, often on social media. Empirical settings are U.S.-based, including a field partnership with Macon Periods Easier and multiple online donor samples.",
+  "design_and_data": "The authors report 12 studies (7 in the article and 5 supplemental), mostly using U.S. participants from MTurk or CloudResearch Connect, plus a field experiment with 58 donors at a nonprofit event. WOM type was manipulated mainly by changing sentence order so the first sentence emphasized either the donor (donor-focused) or the charity (charity-focused) while holding core content constant in many studies. Outcomes included sharing likelihood ratings, binary willingness to share, and observed posting behavior via social media/chatroom screenshots, with several incentive-compatible donation procedures (lottery-funded donations or endowed bonuses). A final 3-stage design generated real posts, had independent coders classify them, and tested their effects on donation behavior in a separate sample (N=532).",
+  "focal_constructs": [
+    "donor-focused WOM",
+    "charity-focused WOM",
+    "message altruism",
+    "persuasion efficacy",
+    "persuasion motive",
+    "WOM sharing",
+    "donation decisions"
+  ],
+  "main_findings": [
+    "Across field and online studies, donors were less likely to share donor-focused WOM than charity-focused WOM.",
+    "The sharing gap was explained by a serial process in which donor-focused WOM was seen as less altruistic, reducing perceived persuasion efficacy; key alternative paths via impression management and self-promotion were not supported in their main mediation tests.",
+    "In downstream tests, donor-focused WOM led to fewer people deciding to donate and lower total donations, while donation amount among those who did donate did not differ by WOM type."
+  ],
+  "one_line_summary": "Across multiple studies, donor-focused charity WOM requests backfired versus charity-focused requests because they were seen as less altruistic and less persuasive, reducing both sharing and new-donor conversion.",
+  "relation_to_prior_work": "extends prior charitable WOM research by shifting attention from whether WOM matters to which solicited WOM type donors will share and what that implies for fundraising outcomes. It also introduces a message-driven explanation based on perceived message altruism and persuasion efficacy, contrasting with people-driven self-presentation accounts emphasized in prior work.",
+  "research_gap": "Although charities increasingly ask donors to spread WOM, the paper argues it was unclear which solicitation type is more effective at prompting sharing, and organizations used inconsistent approaches. The authors also position a gap in mechanism: prior work emphasized donor-focused motives (people-driven accounts) more than message-level perceptions that may determine sharing.",
+  "research_question": "Do donors respond differently to requests to share donor-focused versus charity-focused WOM after giving to charity? If so, is any difference driven by perceived message altruism and persuasion efficacy, and does WOM type also affect downstream donation outcomes from message recipients?"
+}

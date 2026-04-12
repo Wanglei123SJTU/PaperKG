@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Integrates innovation diffusion, relational exchange behavior, and organizational learning perspectives in one performance model.",
+    "Extends prior work by modeling both curvilinear and interaction effects of product portfolio innovativeness, market sophistication, promotion expenditures, and product exploration experience across relational and transactional segments.",
+    "Provides empirical support for two under-tested ideas: innovation performance depends on overall marketplace and segment characteristics, and product exploration experience contributes to learning-related performance gains."
+  ],
+  "context": "The study is set in the nonprofit professional theater industry, where organizations repeatedly develop and stage new plays as well as existing works. Data come from Theatre Communications Group member theaters that sell both subscription packages (relational customers) and single tickets (transactional customers).",
+  "design_and_data": "The authors analyze objective fiscal and operating data corroborated by external financial audits, primarily from fiscal year 2001, for 124 theaters (112 in subscriber analyses because some theaters had no subscriptions). Dependent variables are subscriber and single-ticket revenues per available seat; key predictors include product portfolio innovativeness (percent new-to-the-world plays), promotion expenditures per available seat, product exploration experience (readings/workshops plus new full productions over 1999-2000, scaled by productions), and market sophistication (Money magazine community arts index). They estimate regression models with quadratic terms and interaction terms, plus controls for prices, classics share, quality, population, and a Heckman selection correction factor. Model diagnostics reported no major outlier, heteroskedasticity, or normality problems.",
+  "focal_constructs": [
+    "product portfolio innovativeness",
+    "market sophistication",
+    "product exploration experience",
+    "promotion expenditures",
+    "relational market segment revenue",
+    "transactional market segment revenue",
+    "organizational learning"
+  ],
+  "main_findings": [
+    "Revenue from relational customers (subscriber tickets) shows an inverted U relationship with product portfolio innovativeness, peaking at roughly a quarter of offerings as new-to-the-world plays.",
+    "For transactional customers (single tickets), market sophistication positively moderates the effect of product portfolio innovativeness; innovativeness is increasingly beneficial in sophisticated markets and nonsignificant in less sophisticated markets.",
+    "Product exploration experience positively interacts with promotion expenditures for both segments, indicating stronger promotion-revenue effects when exploration experience is higher; the direct exploration effect is weak and mainly evident for transactional revenue."
+  ],
+  "one_line_summary": "Using objective theater industry data, the paper finds that innovation and promotion effectiveness depend on customer segment, market sophistication, and accumulated product exploration experience.",
+  "relation_to_prior_work": "extends innovation-performance research by explicitly testing segment-specific and market-level contingency effects, and by empirically examining exploration-based learning as a mechanism that improves marketing payoff.",
+  "research_gap": "Prior empirical work had not fully addressed how innovation and marketing strategies should be aligned with external market characteristics in multisegment markets. The paper also targets a noted gap in operationalizing and testing whether cumulative product exploration and learning translate into better performance.",
+  "research_question": "How do product portfolio innovativeness, market sophistication, promotion expenditures, and product exploration experience jointly shape firm revenue performance? Specifically, the paper asks whether these effects differ between relational customers (subscribers) and transactional customers (single-ticket buyers), including curvilinear and moderating relationships."
+}

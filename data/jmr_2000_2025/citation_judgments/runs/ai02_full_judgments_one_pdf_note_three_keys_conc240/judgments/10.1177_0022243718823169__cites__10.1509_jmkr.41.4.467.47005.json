@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the empirical model section, the citation appears exactly where the authors justify using a negative binomial regression for overdispersed weekly sales counts. This is a concrete method-use citation, not just a background literature list. The citing paper does not rely on the cited paper's full nonrandom marketing-mix endogeneity framework, but it does use it as precedent for count-model specification. Thus the citation plays a substantive methodological role.",
+  "relation_description": "The citing paper applies Manchanda et al. (2004) as methodological support for modeling overdispersed sales counts with a negative binomial specification in its hierarchical field-experiment demand model.",
+  "relation_type": "applies"
+}

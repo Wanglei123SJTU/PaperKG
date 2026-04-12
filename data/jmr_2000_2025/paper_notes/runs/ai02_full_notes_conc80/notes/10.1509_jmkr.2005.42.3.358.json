@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a framework for product returns that links prechoice processing to postpurchase choice reversibility through the accessibility and diagnosticity of prechoice cognitive responses.",
+    "Shows that the nature of prechoice thoughts (comparative versus noncomparative) changes their diagnostic value for defending a prior choice, depending on whether disconfirming information favors a rejected brand or a new brand.",
+    "Applies inoculation theory to reversible consumer choice and product returns, arguing and showing that mild prepurchase negative information can increase resistance to later disconfirming attacks."
+  ],
+  "context": "The paper studies reversible purchase decisions in settings where purchase and consumption are separated in time, allowing exposure to disconfirming information before use. Empirical tests use portable CD player choices in lab experiments with subsequent comparative-ad exposure and a return option.",
+  "design_and_data": "The authors ran pilot experiments and two main two-phase laboratory studies with a two-day delay between choice and attack. Study 1 used a 2 x 2 between-subjects design (presentation: sequential vs simultaneous; disconfirming information favoring rejected Brand B vs new Brand C) with 87 undergraduate participants. Study 2 used a 2 x 2 between-subjects design (prepurchase negative information about chosen Brand A: none vs mild; presentation: sequential vs simultaneous) with 118 undergraduates, with 101 retained for analysis after excluding participants who did not choose Brand A initially. Across studies, product return likelihood was measured by expressed choice reversal and a behavioral return action (return slip), and thought listings were coded into comparative/noncomparative categories, with Study 2 also recording thought latency.",
+  "focal_constructs": [
+    "product returns",
+    "choice reversibility",
+    "prechoice cognitive responses",
+    "comparative thoughts",
+    "noncomparative thoughts",
+    "disconfirming information",
+    "accessibility and diagnosticity",
+    "inoculation"
+  ],
+  "main_findings": [
+    "In Study 1, when disconfirming information favored a new brand (Brand C), sequential presentation led to lower reversal than simultaneous presentation (37.5% vs 73.3%), but when disconfirming information favored the rejected brand (Brand B), reversal did not differ by presentation format.",
+    "Study 1 coding showed that simultaneous presentation generated more comparative thoughts, whereas sequential presentation generated more noncomparative thoughts, with no difference in total thought volume across presentation conditions.",
+    "In Study 2, under disconfirming information favoring Brand C, inoculated consumers in the sequential condition were less likely to return (7.4%) than consumers given only positive prepurchase information in sequential presentation (34.6%) and than inoculated consumers in simultaneous presentation (37%), and inoculation increased the number of relevant prechoice thoughts."
+  ],
+  "one_line_summary": "The paper shows that return decisions after disconfirming information are shaped by prechoice cognition, with sequential presentation and inoculation producing more return-resistant choices in high-involvement settings.",
+  "relation_to_prior_work": "extends prior merchandise-return research that mainly modeled policies and return propensity by testing cognitive mechanisms behind postpurchase choice reversibility. It also extends inoculation theory from attitude resistance to reversible product choice and return behavior.",
+  "research_gap": "Prior returns research largely focused on financial modeling, return-policy design, or propensity prediction, with limited attention to the psychological process that makes consumers reverse a purchase decision. The role of prechoice cognitive-response structure in later product returns under disconfirming information had not been directly examined.",
+  "research_question": "How does the prechoice process affect consumers' likelihood of returning a chosen product after they encounter disconfirming information before consumption? Specifically, do the amount and nature of prechoice thoughts, shaped by presentation format and inoculation, determine whether consumers reverse their choice when the attack favors a rejected brand versus a new brand?"
+}

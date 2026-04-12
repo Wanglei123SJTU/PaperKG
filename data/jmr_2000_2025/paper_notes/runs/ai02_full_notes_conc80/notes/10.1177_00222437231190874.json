@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper quantifies how individual negative reviews affect not only product demand but also information search and consideration-set formation.",
+    "The authors state that, to their knowledge, this is the first study to document effects of individual reviews on both search decisions and purchase decisions.",
+    "The paper introduces manager-oriented measures of review impact, including a two-dimensional product vulnerability map and an elasticity of category sales to negative reviews."
+  ],
+  "context": "The study is set in a major UK online retailer selling technology and home-and-garden products across 627 categories. On product pages, consumers must scroll down to see reviews, and up to five reviews are shown by default in newest-first order.",
+  "design_and_data": "The authors use clickstream and review data from February 1 to March 31, 2015. The analysis sample focuses on visits where consumers scrolled to the review area and the product had at least one review, yielding 68,960 consumer-product observations in 50,211 sessions from 37,032 consumers (1,775 purchases). Identification exploits quasi-exogenous variation from newest-first review display: new reviews push older ones off the first review page, changing the number of negative reviews visible to otherwise similar visitors. They estimate staged reduced-form regressions with product and day fixed effects and controls, and apply LDA topic modeling to classify negative-review text.",
+  "focal_constructs": [
+    "negative online reviews",
+    "purchase probability",
+    "information search behavior",
+    "substitute product search",
+    "prior product information",
+    "consideration set size",
+    "utilitarian versus hedonic products",
+    "review topic content"
+  ],
+  "main_findings": [
+    "For consumers who viewed the on-page reviews, seeing at least one negative review significantly lowered purchase probability (about 41.8% relative decrease versus seeing no negative review), and the implied overall demand drop was about 8.4% because only about one-fifth scrolled to reviews.",
+    "Negative reviews reduced continued information collection about the focal product (lower likelihood of opening additional review pages or sorting reviews) but increased substitute search; one negative review raised competitor-page visiting probability by about 9.7%.",
+    "Effects were concentrated in utilitarian categories and in reviews about functionality or customer service, while effects were not significant for hedonic products or taste-related review topics."
+  ],
+  "one_line_summary": "Using quasi-exogenous variation in visible review valence at a UK online retailer, the paper shows that negative reviews reduce purchases and redirect search toward substitutes, especially for utilitarian products and functionality/customer-service complaints.",
+  "relation_to_prior_work": "extends prior online WOM work, especially Vana and Lambrecht (2021), by moving from individual-review effects on purchase to a broader analysis of negative reviews across search and purchase stages and by linking these effects to consideration-set expansion and sequential search behavior.",
+  "research_gap": "Prior research largely emphasized aggregate review signals (for example, average rating) and left unclear how single negative reviews shape the full online decision process. The paper addresses the limited evidence on whether individual negative reviews change information search behavior, substitute exploration, and consideration-set dynamics in addition to purchase outcomes.",
+  "research_question": "How do negative individual reviews shown on product pages affect online consumers' purchase decisions and intermediate search choices during a shopping session? The study also asks when these effects are stronger, focusing on prior product information, product type (utilitarian vs hedonic), and negative-review topic content."
+}

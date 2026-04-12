@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper estimates store-choice behavior with a multinomial logit family model (three-level nested MNL), and the cited paper is a methodological JMR article comparing logit heterogeneity specifications (finite mixture vs HB mixed logit), so a substantive method link is plausible. However, the provided match evidence is only a DOI-level reference with no in-text citation context or excerpt showing how it is used. Given this sparse evidence, it is not safe to drop but not strong enough to clearly keep.",
+  "triage_decision": "uncertain"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s stated contribution is a distributed MCMC algorithm for large-N Bayesian hierarchical target marketing models, and its prior-work linkage centers on computational MCMC papers (e.g., Scott et al., Neiswanger et al.), not consumer-liquidity theory. The cited paper is an empirical causal study of liquidity constraints and bulk buying/sale timing in grocery categories, which appears thematically distant from the citing paper’s methodological core and donor-targeting application. With only a single DOI-level reference match and no evidence of methodological or foundational use, this looks like an incidental/background citation.",
+  "triage_decision": "drop_obvious_mention_only"
+}

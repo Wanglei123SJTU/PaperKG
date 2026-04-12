@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper introduces a channel competition model with exclusive retailers that explicitly incorporates manufacturer asymmetry in product quality and production cost.",
+    "It shows that a rival's presence can alleviate double marginalization enough that stronger competition can benefit both the manufacturer and its retailer, so rival exit can hurt both parties.",
+    "It shows that a high-quality manufacturer may prefer a stronger rival and that a multiproduct monopolist may profitably spin off a low-quality product to create a competing channel."
+  ],
+  "context": "The paper studies markets where manufacturers sell through independent exclusive retailers or franchise territories, such as specialty products, major appliances, and automobiles. The focal market has two competing manufacturer-retailer dyads with exclusive distribution.",
+  "design_and_data": "This is a theoretical analytical paper with no empirical dataset. The core model is a sequential pricing game in which two manufacturers set wholesale prices to their exclusive retailers, retailers set retail prices, and consumers with heterogeneous willingness to pay for quality (uniform on [0,1]) choose one product or an outside option. Products are quality differentiated (q1 > q2) with asymmetric costs, and the authors derive closed-form equilibrium prices, sales, and profits before and after a rival channel exits. Web Appendix extensions test robustness under alternative channel structures and consumer preference assumptions.",
+  "focal_constructs": [
+    "exclusive retail channels",
+    "quality differentiation",
+    "double marginalization",
+    "retail pass-through",
+    "competitor exit",
+    "competitor quality strength",
+    "product spinoff strategy"
+  ],
+  "main_findings": [
+    "A rival channel's exit increases the surviving product's wholesale and retail prices, and when the rival is not very competitive, the surviving manufacturer's and retailer's profits can both decrease.",
+    "In that region, consumers are also worse off because the surviving retail price rises, so rival exit can generate an all-lose outcome for manufacturer, retailer, and consumers.",
+    "The high-quality manufacturer can benefit from an increase in the rival's perceived quality, and a multiproduct monopolist with an exclusive retailer can earn higher profit by spinning off a low-quality product to an independent competing manufacturer even without counting spinoff proceeds."
+  ],
+  "one_line_summary": "In a quality-differentiated exclusive-channel model, the paper shows that keeping or even strengthening a rival can increase a manufacturer's and retailer's profits by reducing double marginalization.",
+  "relation_to_prior_work": "extends prior channel competition work that mainly uses reduced-form demand or symmetric horizontal differentiation by modeling quality and cost asymmetry in exclusive channels. It also departs from standard entry/exit intuition by showing that intensified competition can improve both manufacturer and retailer outcomes through pass-through and double-marginalization effects.",
+  "research_gap": "Existing channel competition literature has largely emphasized reduced-form demand or horizontally differentiated symmetric firms, with limited explicit treatment of quality and cost asymmetry in decentralized exclusive channels. This leaves unclear how rival exit, rival strength, and consumer price sensitivity changes jointly affect manufacturer and retailer profits under double marginalization.",
+  "research_question": "How does a competitor's exit or strength affect equilibrium prices, sales, and profits in a decentralized channel with exclusive retailers and quality-differentiated products? Can a high-quality manufacturer and its retailer become better off from stronger competition because of changes in pass-through and double marginalization?"
+}

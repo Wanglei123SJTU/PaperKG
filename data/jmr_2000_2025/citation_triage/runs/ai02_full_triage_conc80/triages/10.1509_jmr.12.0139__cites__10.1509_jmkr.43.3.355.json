@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is methodologically adjacent (a hierarchical Bayes joint model with correlated selection and ordinal-rating components), and the citing paper also uses a joint two-stage model with correlated errors and hierarchical Bayes. This suggests a plausible method/foundational link, but the provided match evidence is only a single DOI entry with no in-text citation context, and the application domains differ (recommenders vs hotel choice/satisfaction).",
+  "triage_decision": "uncertain"
+}

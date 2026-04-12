@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides empirical evidence that choice complexity and individual decision time affect choice model predictive performance and influence more than random error alone.",
+    "Introduces a complexity-adjusted mixed logit (CAM logit) model that parameterizes complexity and decision-time effects on decision weights, no-choice utility, and error scale.",
+    "Shows the practical consequences of complexity by comparing market share predictions across different complexity conditions."
+  ],
+  "context": "The study uses a consumer choice experiment for yogurt products, framed as a lunch dessert choice in a self-service restaurant, with a no-choice option. Respondents are yogurt consumers from the Dutch CentERpanel household panel.",
+  "design_and_data": "The data include 1114 respondents who completed discrete choice tasks. Complexity was manipulated in a 2 x 2 x 2 design: number of alternatives (2 vs 4), number of attributes (3 vs 7), and attribute-level similarity (low vs high), creating eight conditions; each respondent was randomly assigned to two conditions. Each experiment had eight choice sets plus one repeated set, one task was held out for prediction, and decision times were recorded (truncated at 120 seconds). The authors estimate condition-specific and pooled mixed logit models, model within- and between-condition predictive performance jointly with decision time, and estimate a CAM logit specification.",
+  "focal_constructs": [
+    "choice complexity",
+    "number of alternatives",
+    "number of attributes",
+    "utility similarity",
+    "individual decision time",
+    "choice model predictive performance",
+    "error scale",
+    "no-choice utility"
+  ],
+  "main_findings": [
+    "Within complexity conditions, predictive performance decreases with more attributes, greater utility similarity, and longer individual decision time, while the number of alternatives is not significant.",
+    "Between complexity conditions, longer individual decision time is associated with better transfer prediction, and pooling preference parameters across task-complexity conditions is rejected even after allowing for scale differences.",
+    "The CAM logit finds significant complexity effects on attribute-weight concentration, error scale, and no-choice utility, outperforms more restrictive mixed logit variants, and produces materially different market share predictions across complexity levels."
+  ],
+  "one_line_summary": "Using yogurt choice experiments, the paper shows that complexity and individual decision time alter both error and systematic utility components of choice models and proposes a CAM logit model for better prediction across complexity conditions.",
+  "relation_to_prior_work": "extends prior choice-experiment complexity research that mainly modeled complexity through error-scale variation by also modeling systematic shifts in decision weights and no-choice utility. It also combines this complexity perspective with decision-time differences in a unified mixed logit framework.",
+  "research_gap": "Prior work in choice experiments largely emphasized complexity effects on random error or scale. The paper argues that complexity likely also changes decision strategies and systematic utilities, and that individual decision-time differences in prediction across complexity conditions have not been jointly modeled.",
+  "research_question": "How do choice complexity and individual differences in decision time affect the predictive performance of choice experiment-based models within and across complexity conditions? Can these effects be captured in a practical model that jointly accounts for shifts in decision weights, no-choice utility, and error scale to improve market share prediction?"
+}

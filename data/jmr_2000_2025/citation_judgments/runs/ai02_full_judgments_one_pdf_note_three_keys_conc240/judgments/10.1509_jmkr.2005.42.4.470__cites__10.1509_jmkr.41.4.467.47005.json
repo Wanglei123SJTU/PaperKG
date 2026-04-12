@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Manchanda, Rossi, and Chintagunta (2004) to make a specific methodological point about endogeneity: seller design variables may be endogenously set, and this can be handled by models that incorporate endogenous variables directly into the likelihood. This citation is tied to the paper's discussion of limitations and how optimization could be pursued in richer future models, not just a generic literature list. Although it is not used as the core estimation framework in the auction model, it meaningfully informs the paper's positioning and methodological interpretation.",
+  "relation_description": "The citing paper draws on the cited paper as an example of an emerging approach for handling endogenous marketing decision variables in the likelihood. It uses this as methodological guidance for how its own auction-design optimization problem could be extended beyond the current model.",
+  "relation_type": "other"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper explicitly claims a synthesis of three elements into a new operational procedure: causal identifiability of the full mediation chain, Bayes factors for evidence on conditional independence, and explicit measurement-error modeling.",
+    "It claims a numerically reliable and efficient way to compute the Bayes factor needed for mediation model identification when measurement error is modeled.",
+    "It claims practical user benefits by enabling stronger empirical support for mediation, including data-based confirmation of causal ordering and, as a by-product, distinguishing true mediators from manipulation checks or multiple measures of one outcome."
+  ],
+  "context": "The paper studies measurement-of-mediation designs common in marketing and behavioral experiments, where treatment X is randomly assigned and both mediator M and outcome Y are measured (often with rating-scale indicators). It demonstrates the method by reanalyzing published studies from marketing and psychology.",
+  "design_and_data": "The authors develop a Bayesian model-comparison procedure that tests full mediation by comparing a model constrained to beta3=0 (conditional independence of X and Y given M) against an unconstrained model. They combine this with latent variable models to account for classical measurement error and discretized indicators (ordered probit links), estimated via MCMC and a Savage-Dickey Bayes factor computation. Evidence includes an illustrative simulation with 1,000 replications at N=50, 200, and 1,000; a comprehensive simulation with 3,024 design cells and 100 replications per cell (302,400 datasets); and reanalyses of six published mediation studies.",
+  "focal_constructs": [
+    "mediation analysis",
+    "full causal mediation",
+    "conditional independence",
+    "Bayes factor",
+    "measurement error",
+    "latent variable modeling",
+    "causal ordering of measured variables",
+    "causal model identification"
+  ],
+  "main_findings": [
+    "A statistically significant indirect effect does not identify mediation, because observationally equivalent alternatives (including reversed M-Y ordering or unobserved confounding) can produce similar estimates.",
+    "With random assignment and a reliable total X->Y effect, strong evidence for conditional independence X and Y given M uniquely supports the full mediation causal chain from X through M to Y.",
+    "Accounting for measurement error and discretization can materially change conclusions: simulations show improved recovery of true full mediation when modeled, and reanalyses show cases where evidence strengthens (e.g., Sussman and O'Brien) and cases that remain inconclusive or reject full mediation (e.g., Yan and Muthukrishnan; Sela and LeBoeuf)."
+  ],
+  "one_line_summary": "The paper proposes and validates a Bayesian procedure that uses Bayes factors and latent-variable measurement models to quantify evidence for full mediation and causal ordering in experiments with measured mediators.",
+  "relation_to_prior_work": "synthesizes causal identifiability results from the causality literature, Bayesian evidence measures, and latent measurement models into a single mediation workflow. It argues that prior mediation approaches can estimate indirect effects but generally require assumed causal direction and do not directly measure evidence for conditional independence that identifies full mediation.",
+  "research_gap": "Existing mediation methods can show an indirect effect but cannot by themselves uniquely identify mediation as the data-generating causal model when causal ordering is uncertain or confounding is possible. The paper also highlights that NHST of the direct effect lacks a graded evidence metric for conditional independence, and unmodeled measurement error/discretization can spuriously obscure full mediation.",
+  "research_question": "How can researchers measure data-based evidence that mediation is the underlying causal model, rather than observationally equivalent alternatives, in measurement-of-mediation designs with randomized treatment and measured mediator and outcome? Can this evidence be quantified through conditional independence testing in a way that remains valid when mediator/outcome measures contain error or are discretized?"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Replicates Bronnenberg, Dhar, and Dube's core U.S. finding in France and shows robustness to time aggregation, regional aggregation, and data duration.",
+    "Adds chain and brand x chain effects to the variance decomposition and shows that chain structure is both a source of regional variation and an important determinant of shares on its own.",
+    "Shows that using longer weekly data with brand x time interactions reveals substantially larger time-related variation in shares, implying a need for longer-horizon data."
+  ],
+  "context": "The paper studies consumer packaged goods market shares in France, comparing national brands across regions and retail chains. The setting includes both nationally present chains and regionally concentrated chains, allowing separation of region and chain components of share variation.",
+  "design_and_data": "The authors use IRI France scanner data at the SKU-store-week level for January 1999 to January 2004, covering 25 categories, 443 outlets, and 23 chains. They analyze the top two national brands per category (50 brands total), first aggregating to brand-region-four-week data to match Bronnenberg, Dhar, and Dube, and then varying duration (39 vs 66 four-week periods), time frequency (four-week vs weekly), region definitions (9, 22, 96), and chain aggregation. They estimate a sequence of generalized linear ANOVA-style models (M0-M6) and report variance shares (eta-square) for brand, market, time, chain, and interaction terms. They also assess spatial dependence of brand shares using Conley and Topa's spatial autocorrelation approach.",
+  "focal_constructs": [
+    "national brand market share variation",
+    "brand x market interactions",
+    "retail chain effects",
+    "brand x chain interactions",
+    "brand x time interactions",
+    "spatial autocorrelation of market shares",
+    "time aggregation and data duration"
+  ],
+  "main_findings": [
+    "In BDD-comparable specifications, brand x market effects are the dominant source of total market share variation in France (about 77 percent), while time main effects are much smaller.",
+    "Chain effects explain more market share variation than market or time main effects in France, and adding chain terms reduces combined region and brand x region total variance from 8.8 percent to 6.4 percent (a 27 percent decrease).",
+    "With five years of weekly data and brand x time interactions, combined brand-time effects explain 20.2 percent of total variation, slightly exceeding combined brand-region effects at 18.3 percent."
+  ],
+  "one_line_summary": "Using French scanner data, the study confirms strong geographic variation in national brand shares, shows that chain structure explains substantial additional variation, and finds that brand-time effects become large when longer weekly data are used.",
+  "relation_to_prior_work": "extends Bronnenberg, Dhar, and Dube (2007) by testing whether their U.S. result on dominant geographic share variation generalizes to France and by checking robustness to alternative aggregation and duration choices. It also adds explicit chain-level and brand-time interaction decompositions that were not central in the baseline replication.",
+  "research_gap": "Prior evidence that geographic differences dominate national brand share variation was centered on U.S. data, leaving unclear whether the pattern generalizes to other countries. The paper also identifies limited evidence on the relative importance of retail chain structure versus region and time in explaining market share variation.",
+  "research_question": "Do the large brand-specific geographic differences in market shares documented in U.S. consumer packaged goods data also hold in France? How much of market share variation is attributable to retail chain structure relative to region and time, and does longer, higher-frequency data reveal stronger brand-specific time variation?"
+}

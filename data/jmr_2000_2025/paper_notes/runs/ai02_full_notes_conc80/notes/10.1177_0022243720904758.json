@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Identifies a visual progression of outcomes in ads as a novel antecedent of spontaneous process simulation.",
+    "Shows boundary conditions and effect reversals for process simulation in persuasion, including when it helps under skepticism and when it hurts under a focus on quick results.",
+    "Challenges common practice favoring before/after ads by showing when progression ads are more or less effective."
+  ],
+  "context": "The paper studies advertising that promises a desired change (\"change ads\") across multiple consumer and public-policy domains, including weight loss, teeth whitening, hair growth, alcohol-abuse PSA messaging, nasal decongestion, and headache relief. Evidence comes from marketplace-like ad exposures in a field setting, a lab, and online experiments.",
+  "design_and_data": "The authors report eight studies (total N = 2,023) using between-subjects experiments plus one field test. Study 1a is a field study with passersby in Boston (N = 100) measuring petition signing after exposure to before/after vs progression leaflets; Study 1b is a lab incentive-compatible choice study (N = 121). Studies 2-7 are MTurk experiments (N = 151-412 each) that manipulate ad type and moderators (cognitive load, skepticism, time focus, and whether quick results are plausible), with measures including ad credibility scales, process simulation scales, belief shift, product choice, and click-through behavior. Mediation and moderated-mediation analyses (PROCESS) are used to test mechanisms.",
+  "focal_constructs": [
+    "progression ads",
+    "before/after ads",
+    "process simulation",
+    "ad credibility",
+    "persuasion",
+    "cognitive load",
+    "skepticism",
+    "time focus"
+  ],
+  "main_findings": [
+    "Across several domains, progression ads generated more process simulation than before/after ads and were typically more credible and more persuasive.",
+    "The ad-type advantage depends on boundary conditions: it disappears under cognitive load and is stronger under high skepticism.",
+    "When consumers prioritize getting results quickly and quick results are believable, progression ads increase perceived time to results and can become less credible and less persuasive than before/after ads."
+  ],
+  "one_line_summary": "Across eight studies, progression ads that show intermediate steps usually outperform before/after ads because they increase process simulation and credibility, but this advantage reverses when consumers focus on fast outcomes that are attainable quickly.",
+  "relation_to_prior_work": "extends prior process-versus-outcome simulation research by identifying visual progression in change ads as an antecedent of process simulation and by specifying when process simulation improves versus undermines credibility and persuasion.",
+  "research_gap": "Prior work on process and outcome simulation did not resolve which common change-ad format (before/after vs progression) is more persuasive, nor did it clearly specify when process simulation helps versus backfires in this context. The authors target this unresolved issue by testing mechanisms, moderators, and reversals.",
+  "research_question": "Do ads that depict intermediate steps of a transformation (progression ads) produce higher credibility and persuasion than standard before/after ads in change-ad contexts? If so, is this driven by spontaneous process simulation, and under what conditions is the effect attenuated, amplified, or reversed?"
+}

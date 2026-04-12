@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops and empirically validates a reference-dependent-preferences-based theory in which base warranty coverage serves as the reference point for valuing extended warranties.",
+    "It is presented as the first empirical study to investigate the interaction between base and extended warranties, addressing a gap highlighted by prior warranty research.",
+    "Using the estimated model, the paper quantifies targeting and price-promotion opportunities for extended warranties under different macroeconomic conditions."
+  ],
+  "context": "The empirical setting is the U.S. automobile market, where vehicles come with transferable manufacturer base warranties and optional paid extended warranties sold largely at dealerships. The data cover new and used vehicle purchases across dealerships in Georgia, North Carolina, South Carolina, Tennessee, and Virginia.",
+  "design_and_data": "The authors build a theory model based on reference-dependent preferences (with loss aversion) and derive four testable predictions about extended warranty purchase and coverage choice. They test these predictions using transaction-level dealership data from July 2009 to July 2014, augmented with VIN-decoded vehicle attributes, J.D. Power quality ratings, and scraped base warranty terms by automaker. The raw data contain 139,744 transactions; the final estimation sample for individual buyers is 37,818 transactions (23,551 new and 14,267 used), spanning 31 dealers, 18 automakers, 177 models, and 921 make-model-year combinations. Empirically, they estimate binary logistic models for buy/no-buy decisions and multinomial logit models for menu choice, with multiple fixed effects, robustness checks, and macroeconomic-spell analyses.",
+  "focal_constructs": [
+    "base warranty",
+    "extended warranty purchase",
+    "reference-dependent preferences",
+    "loss aversion",
+    "residual warranty coverage",
+    "extended warranty menu choice",
+    "vehicle quality",
+    "macroeconomic conditions"
+  ],
+  "main_findings": [
+    "Conditional on rich controls, buyers purchasing vehicles with base warranties buy extended warranties at a 25.35% higher rate than buyers of otherwise identical vehicles without base warranties.",
+    "Within vehicle type, larger residual base warranty coverage is associated with higher extended warranty take-up, and buyers with base warranties are more likely to choose expansive rather than limited extended warranty coverage.",
+    "In weaker macroeconomic periods, buyers are more price sensitive yet also more likely to purchase extended warranties, and simulated discounts are especially effective at moving nonbuyers into the more expansive menu option."
+  ],
+  "one_line_summary": "The paper shows, theoretically and empirically in U.S. auto transactions, that base warranties create a reference point that increases extended warranty demand and pushes covered buyers toward broader plans, with effects that vary by macroeconomic conditions.",
+  "relation_to_prior_work": "challenges prior work that treated base and extended warranties as substitutes by showing they behave more like complements when consumers evaluate warranty outcomes relative to a base-warranty reference point.",
+  "research_gap": "Prior empirical work largely studied base warranties or extended warranties in isolation, leaving unclear how the two interact in consumer decisions. The paper explicitly responds to Chu and Chintagunta's call to explain the interaction between base and extended warranties.",
+  "research_question": "Why do consumers buy extended warranties on durable goods that already include base warranties? The paper asks whether base warranty coverage acts as a reference point that, through loss aversion, raises extended warranty purchase likelihood and affects the choice of broader versus limited extended warranty plans."
+}

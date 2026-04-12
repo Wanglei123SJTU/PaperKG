@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Shows that temporal framing (deferring vs expediting) affects not only the level of discount rates but also the pattern of discounting across time horizons (present bias).",
+    "Provides direct evidence that differences in outcome representation concreteness are a psychological driver of the framing-by-horizon effect.",
+    "Demonstrates that increasing concreteness in expedite decisions through visualization reduces or eliminates the defer-expedite asymmetry in present bias."
+  ],
+  "context": "The paper examines consumer intertemporal timing-cost trade-offs in consumption decisions. Empirical tasks use lottery payouts, concert attendance timing, and online DVD delivery options (Amazon) to represent monetary and nonmonetary settings.",
+  "design_and_data": "Experiment 1 used 149 undergraduates in a 2 (defer vs expedite) x 3 (prize amount: $15, $250, $3,000) x 3 (horizon: 3 months, 1 year, 3 years) mixed design, with continuously compounded discount rates as the dependent variable. A follow-up Experiment 1a with MBA students changed the design (time horizon between subjects, amount within subjects) and replicated the focal interaction. Experiment 2 used 98 undergraduates in a 2 x 2 mixed design (defer vs expedite; 3 months vs 1 year) with a concert-ticket scenario. Experiment 3 used 192 undergraduates in a 2 (visualization vs control) x 2 (defer vs expedite) x 2 (3 days vs 10 days) mixed design in a DVD-shipping scenario, plus a self-reported concreteness manipulation check.",
+  "focal_constructs": [
+    "temporal framing (defer vs expedite)",
+    "present-biased preferences",
+    "discount rates",
+    "time horizon sensitivity",
+    "outcome concreteness",
+    "mental representations",
+    "visualization",
+    "intertemporal choice"
+  ],
+  "main_findings": [
+    "Across Experiments 1 and 2, discount rates declined more with longer horizons in defer frames than in expedite frames, indicating stronger present bias under deferral.",
+    "Defer frames produced higher overall discount rates than expedite frames, replicating prior delay-expedite asymmetry findings across monetary and nonmonetary outcomes.",
+    "In Experiment 3, delay frames generated more concrete plans than expedite frames in control conditions, and visualization increased similarity in concreteness and eliminated the framing-by-horizon difference in present bias."
+  ],
+  "one_line_summary": "Across three experiments, framing timing decisions as deferring versus expediting changed how strongly discount rates fell with longer horizons, and this asymmetry was explained by differences in outcome concreteness.",
+  "relation_to_prior_work": "extends prior intertemporal framing work by showing that defer-expedite framing changes the slope of discounting across horizons, not only overall discount levels, and by linking this effect to concreteness of mental representation.",
+  "research_gap": "Prior research on defer-versus-expedite framing mainly documented level differences in discount rates at a given horizon and did not directly test whether framing alters sensitivity of discounting to horizon length. The mechanism behind this effect was not clearly established, especially regarding the role of representation concreteness.",
+  "research_question": "Does framing the same intertemporal choice as deferring a near outcome versus expediting a later outcome change consumers' sensitivity to time horizon (present bias), beyond known differences in overall discount rates? If so, is this effect driven by differences in the concreteness of outcome representations, and can making representations more similar reduce the asymmetry?"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "Ansari et al. is not only listed as generic background; it is used in the method section to justify the functional form for mapping relationship characteristics to edge weights. The citing paper also uses Ansari et al. in its framing as an example of existing weighted-network approaches that rely on researcher-assigned weights, which it presents as a limitation. Because this cited work helps motivate both the modeling setup and the claimed improvement, the citation plays a meaningful substantive role.",
+  "relation_description": "The citing paper treats Ansari et al. (2011) as prior weighted-network work and then improves on that approach by estimating relationship-importance weights from observed diffusion rather than fixing them a priori. It also adopts a similar exponential tie-weight construction form in its own model.",
+  "relation_type": "refines"
+}

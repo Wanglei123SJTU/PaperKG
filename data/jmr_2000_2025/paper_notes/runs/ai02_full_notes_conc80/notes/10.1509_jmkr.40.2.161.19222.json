@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Demonstrates reciprocal effects between brand equity and trivial-attribute strategy: brand equity shapes short-run gains from trivial differentiation, and trivial differentiation can feed back to affect later brand responses.",
+    "Shows that when triviality is disclosed before choice, the value of a trivial attribute depends on an equity-by-context interaction in intratier competition (low equity benefits more from sharing with a midequity brand, high equity from uniqueness).",
+    "Provides evidence on brand-dilution mechanisms by comparing prechoice versus postchoice disclosure and by measuring consumer attributions about marketer intent."
+  ],
+  "context": "The studies are set in apparel product choices, first down jackets and then related fleece jackets, using familiar retail brands mapped to low, mid, and high equity tiers (e.g., Kmart, Wal-Mart, Mervyns, L.L. Bean, Eddie Bauer). Participants evaluate Consumer Reports style attribute descriptions and, in some conditions, explicit disclosure that down fill type is performance irrelevant.",
+  "design_and_data": "The paper reports controlled experiments with undergraduate participants and brand-choice tasks among intratier competitors. Study 1 used a 2 x 2 x 2 between-subjects design (brand tier: low/high, disclosure: subjective/prerevealed, context: unique/shared) plus tier-specific controls; 344 participants were recruited and analyses used those passing a comprehension check (260). Study 1A tested robustness in a shared-context setup with a 2 x 2 design (revelation x brand tier), included a learning phase with midequity brands, and used 113 participants. Study 2 used a 2 x 2 design (brand tier x disclosure timing pre vs post) with two sequential choices (down jacket then fleece jacket); 233 participated and 188 passed comprehension; logit/logistic models compared target-brand choice shares and retention versus controls.",
+  "focal_constructs": [
+    "brand equity",
+    "trivial attributes",
+    "prechoice disclosure",
+    "postchoice disclosure",
+    "decision context (unique vs shared attribute)",
+    "intratier competition",
+    "brand dilution",
+    "consumer attributions of marketer intent"
+  ],
+  "main_findings": [
+    "Without disclosure of triviality, both low and high equity brands gained intratier choice share from offering an attractive trivial attribute.",
+    "With prechoice disclosure, valuation depended on brand equity and context: low equity brands benefited when the trivial attribute was shared with a midequity brand, whereas high equity brands benefited mainly when the trivial attribute was uniquely offered.",
+    "When disclosure occurred after initial choice, low equity brands were less able than high equity brands to retain prior choosers for a subsequent new differentiation, and low-tier prior choosers made more negative inferences about the new attribute's performance value."
+  ],
+  "one_line_summary": "Across experiments, disclosed trivial attributes helped low equity brands mainly when shared with a higher-equity context brand and helped high equity brands mainly when unique, while postchoice disclosure harmed later differentiation primarily for low equity brands.",
+  "relation_to_prior_work": "extends prior trivial-differentiation research by showing that brand equity, competitive context, and disclosure timing jointly determine whether a trivial attribute helps or hurts choice. It also connects this stream to brand-dilution work by testing how learning after purchase affects reactions to a brand's subsequent differentiation.",
+  "research_gap": "Prior work showed that trivial attributes can influence choice even when their irrelevance is disclosed, but it did not clearly establish how brand equity and context jointly moderate this effect in close-brand competition. It also left unclear whether using trivial differentiation feeds back to weaken a brand's future differentiation, especially when consumers learn the truth only after choosing.",
+  "research_question": "How does brand equity affect consumer valuation of attractive but performance-irrelevant attributes, particularly when the attribute's triviality is disclosed before choice and when context brands either share or do not share that attribute? Do trivial-attribute strategies create reciprocal effects on brand equity, such that postchoice revelation of triviality changes consumers' willingness to accept a brand's later differentiated offering?"
+}

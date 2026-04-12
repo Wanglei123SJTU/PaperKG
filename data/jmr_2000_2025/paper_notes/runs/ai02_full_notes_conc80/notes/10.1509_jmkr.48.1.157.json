@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper shows that consumers are not indifferent across economically equivalent trade-in price formats and can prefer either overpayment or underpayment on the used model.",
+    "It develops a simple prospect-theory-based analytical model and provides experimental evidence for a critical used-to-new price ratio at which preference reverses.",
+    "It offers practical guidance for firms and policymakers on framing trade-ins and contributes to behavioral pricing by studying a naturally partitioned price with one gain component and one loss component."
+  ],
+  "context": "The paper studies trade-in transactions in which consumers sell a used product while buying a new one, a common practice in durable-goods markets such as automobiles and electronics. The empirical tests use hypothetical retail digital camera trade-in scenarios with two stores offering different trade-in allowance/new-price splits but identical net outlay.",
+  "design_and_data": "The authors first derive a formal analytical model from the prospect theory value function, emphasizing loss aversion and diminishing sensitivity, and define conditions for optimal over- versus underpayment framing. They then run three laboratory experiments with undergraduate participants using hypothetical camera trade-in offers that are financially equivalent but differently partitioned: Study 1 (n=55; plus a pretest n=52) manipulates low versus high used/new price ratios and reference-price information; Study 2 (n=94) manipulates low/high ratio and separate versus combined coding primes; Study 3 (n=188) manipulates regulatory focus (promotion vs prevention) and ratio under separate coding. Dependent measures include store choice, offer/store attractiveness ratings, and perceived separability checks.",
+  "focal_constructs": [
+    "trade-in transactions",
+    "overpayment versus underpayment framing",
+    "used-to-new price ratio",
+    "prospect theory value function",
+    "loss aversion",
+    "diminishing sensitivity",
+    "separate versus combined coding",
+    "regulatory focus"
+  ],
+  "main_findings": [
+    "When the used-to-new price ratio is low, participants prefer the overpayment format, but when the ratio is high, preference reverses toward underpayment for economically equivalent deals.",
+    "The ratio-based reversal appears when consumers code the two price components separately; when the transaction is evaluated in combined form, the reversal is not observed.",
+    "Loss aversion moderates the effect: prevention-focused participants show the predicted reversal (overpayment at low ratio, underpayment at high ratio), whereas promotion-focused participants generally continue to prefer overpayment."
+  ],
+  "one_line_summary": "Using a prospect-theory model and three experiments, the paper shows that preferences in economically equivalent trade-in deals switch from overpayment to underpayment as the used-to-new price ratio rises, especially when transactions are separately coded and loss aversion is stronger.",
+  "relation_to_prior_work": "extends prior trade-in research that emphasized a general preference for overpayment by identifying a ratio-dependent boundary condition and reversal to underpayment, and it links this to partitioned-pricing work by analyzing a mixed gain-loss partition rather than two expenditure components.",
+  "research_gap": "Prior trade-in studies mainly document that consumers like being overpaid on the trade-in allowance in economically equivalent deals. The paper addresses the unresolved question of when this preference should reverse and what mechanism determines that tipping point.",
+  "research_question": "Do consumers always prefer overpayment on a trade-in allowance in financially equivalent trade-in transactions, or can they prefer underpayment under some conditions? Specifically, does preference depend on the ratio of used-model price to new-model price, and on whether consumers code the two monetary components separately with loss aversion and diminishing sensitivity shaping the outcome?"
+}

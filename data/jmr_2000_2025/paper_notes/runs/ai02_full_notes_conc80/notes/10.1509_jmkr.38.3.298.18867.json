@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes an experimental, choice-based approach to television schedule optimization instead of relying only on observational ratings from the current lineup.",
+    "It provides a practical fractional factorial/permutation design procedure that can handle varying program lengths and constraints on eligible time slots.",
+    "It develops and validates a latent class multinomial logit framework for predicting ratings across many feasible schedules and demonstrates sizable gains from rescheduling existing programs."
+  ],
+  "context": "The empirical application is prime-time television scheduling in New Zealand, focusing on three major commercial networks (TV1, TV2, TV3). The optimization problem is framed as TV3 rescheduling its existing programs across a week while competitors' lineups are held fixed.",
+  "design_and_data": "The authors design a constrained choice experiment in which respondents evaluate rearranged TV Guide-like weekly schedules and choose a channel or watch-nothing in each half-hour slot. In the New Zealand test, practical restrictions reduce the search to 2 x 10! = 7,257,600 feasible weekly schedules for TV3; questionnaires include 8 experimental pages plus 2 holdout pages (current schedule), with 10 questionnaire versions built from cyclic permutations. Sample1 is 164 university students for estimation and concurrent holdout validation, and a latent class multinomial logit model (3 segments by BIC) is estimated with program effects, lead-in flow states, and one-hour duration effects. Predictive validity uses Sample21 (n=112, hypothetical upcoming schedules) and an independent diary sample Sample22 (n=96, actual viewing) over two weeks with real schedule changes.",
+  "focal_constructs": [
+    "television program scheduling",
+    "choice experiment design",
+    "fractional factorial permutation design",
+    "latent class multinomial logit",
+    "viewer heterogeneity",
+    "lead-in audience flow effects",
+    "weekly ratings and channel share optimization"
+  ],
+  "main_findings": [
+    "For the holdout current schedule, the model's overall average absolute prediction error is 1.48 rating points, indicating good concurrent validity.",
+    "In predictive validation, stated-preference predictions overstate actual viewing by about a factor of two, but after a constant ex post adjustment the average absolute error is 1.60 for all shows and 1.78 for changed shows, better than a naive forecast error of 3.6.",
+    "The optimized TV3 schedule raises predicted weekly TV3 ratings from 438 to 518 (+18.3%) and increases average mid-evening channel share from 47.8% to 52.0% (about +9%), outperforming the comparison observational approach in this application."
+  ],
+  "one_line_summary": "Using a constrained choice experiment and a latent class multinomial logit model, the paper shows that rescheduling an existing TV network lineup can substantially increase predicted weekly ratings without buying new programs.",
+  "relation_to_prior_work": "introduces an experimental alternative to earlier observational TV scheduling models by collecting stated choices on multiple rearranged schedules and using those data for optimization under realistic constraints.",
+  "research_gap": "Prior optimization studies mainly extrapolate from observational ratings under the current schedule, which may be unreliable when programs move to new competitive contexts and can yield implausible schedules. The paper targets this gap with a feasible experimental design that observes preferences under alternative schedule configurations.",
+  "research_question": "Can an experimentally designed choice-modeling approach predict viewer behavior well enough to optimize a network's weekly program schedule? Specifically, can a network increase total prime-time ratings by rescheduling its existing programs, under practical timing and format constraints, while competitors' schedules remain fixed?"
+}

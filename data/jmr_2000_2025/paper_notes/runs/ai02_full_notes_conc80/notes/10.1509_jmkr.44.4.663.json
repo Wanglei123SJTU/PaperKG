@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces and tests a brand-synergy effect in multiple extensions, using a strict criterion that each extension is evaluated more favorably when introduced together than alone.",
+    "Shows that synergy depends on complementarity and a shared manufacturer, not just the number of extensions shown or simple category similarity between extensions.",
+    "Demonstrates that synergy is contingent on regulatory focus and is stronger under promotion focus, supporting a set-completion account over an attribute-accessibility account."
+  ],
+  "context": "The paper studies consumer responses to simultaneous brand-extension announcements in mock print ads for established brands (Xerox, IBM, Nike). Extension products include digital cameras, digital photo printers, snowboards, and snowboard boots arranged as complementary, same-category, or unrelated pairs.",
+  "design_and_data": "Three controlled experiments with undergraduate participants were conducted. Experiment 1 (N = 252) used a 2 (parent-extension similarity: similar vs dissimilar) x 3 (ad type: single vs complementary vs unrelated) design with Xerox and measured target extension evaluations, ad evaluations, and perceived similarity. Experiment 2 (N = 214) used a 2 (parent brand: Xerox vs IBM) x 3 (same-parent complementary vs different-parent complementary vs single) design and added measures of product-benefit salience and perceived firm commitment. Experiment 3 (N = 193) used a 2 (parent brand: Xerox vs Nike) x 4 (single vs complementary vs same-category vs unrelated) x 2 (promotion vs prevention focus, manipulated or assessed) design and measured extension evaluations, purchase intentions, and ad evaluations.",
+  "focal_constructs": [
+    "brand extension evaluations",
+    "parent-extension similarity",
+    "multiple brand extensions",
+    "complementary products",
+    "brand synergy",
+    "set-completion process",
+    "attribute-accessibility process",
+    "promotion vs prevention focus"
+  ],
+  "main_findings": [
+    "Across studies, a target extension was evaluated more favorably when paired with a complementary extension than when presented alone, and this effect was independent of parent-extension similarity.",
+    "The synergy effect appeared when both extensions came from the same manufacturer but not when complementary extensions came from different manufacturers.",
+    "Synergy was evident among promotion-focused participants and in purchase intentions, was not found for same-category pairs, and prevention-focused participants showed relatively negative responses to unrelated pairings."
+  ],
+  "one_line_summary": "The paper shows that simultaneous complementary brand extensions can create positive evaluation synergy beyond parent-extension similarity, but mainly when both products are from the same brand and consumers are promotion focused.",
+  "relation_to_prior_work": "extends prior brand-extension work that emphasized parent-extension similarity by showing that inter-extension relationships in simultaneous launches also shape evaluations. It provides evidence favoring a set-completion mechanism over a pure attribute-accessibility explanation.",
+  "research_gap": "Prior brand-extension research largely focused on evaluations of single extensions based on similarity to the parent brand. The paper identifies a gap in understanding how consumers evaluate multiple extensions introduced together and under what conditions such pairings create incremental value.",
+  "research_question": "When two brand extensions are introduced in close temporal proximity, do they generate a positive synergy effect on evaluations beyond parent-extension similarity? If so, is this effect driven by accessibility of complementary benefits or by set-completion from owning related products of the same manufacturer, and does regulatory focus moderate the effect?"
+}

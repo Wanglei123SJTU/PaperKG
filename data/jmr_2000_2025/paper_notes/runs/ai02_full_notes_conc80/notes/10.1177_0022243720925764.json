@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and tests an integrated framework that links weather to affect, affect to hedonic consumption, and weather to hedonic consumption rather than testing these links in isolation.",
+    "It claims to extend gender-differences research by showing that affective mediation of the weather-consumption relationship is stronger for women than for men.",
+    "It claims managerial and policy relevance by showing how distal environmental cues such as weather can be combined with marketing actions for targeting and interventions in hedonic consumption contexts."
+  ],
+  "context": "The paper examines weather-related variation in hedonic consumption across food and nonfood settings. Evidence comes from New York census-tract spending data and multiple survey/experiment samples (including U.S. MTurk and Australian students) using actual weather, forecasted weather, and perceived weather.",
+  "design_and_data": "The article reports seven studies using triangulated methods: secondary data, experiments, and national surveys. Study 1 analyzes 4,838 New York census tracts (2007) with weather, demographics, and spending data on entertainment and tobacco, estimated with geographically weighted regression to address spatial autocorrelation. Studies 2a and 2b are between-subject experiments that manipulate weather salience and measure affect plus hedonic food preference or nonfood gift card choice. Studies 3a and 3b link participants' zip/IP/time to actual local temperature and precipitation in U.S. online surveys; Study 4 manipulates weather forecasts; Study 5 uses participants' perceived weather; mediation and moderated mediation are tested with bootstrap PROCESS models.",
+  "focal_constructs": [
+    "weather conditions",
+    "affect",
+    "hedonic consumption",
+    "gender differences",
+    "mediated effect",
+    "moderated mediation",
+    "food vs. nonfood choice"
+  ],
+  "main_findings": [
+    "Across studies, worse weather conditions (e.g., lower temperature or higher precipitation) were associated with greater hedonic consumption, and this relationship was mediated by affect.",
+    "The affective mediation was stronger for women than for men, with stronger weather-to-affect and affect-to-consumption paths among women.",
+    "The pattern replicated for both food and nonfood outcomes and with measured, forecasted, and perceived weather; nonfood results reduce a pure thermoregulation explanation, though Study 5 also found some direct weather effects."
+  ],
+  "one_line_summary": "Across seven studies, the paper finds that weather influences hedonic consumption through affect, and this mediated pathway is consistently stronger for women than for men.",
+  "relation_to_prior_work": "extends prior weather-consumption research by moving beyond main-effect associations to a joint mediation and moderation test in which affect transmits weather effects and gender alters pathway strength. It also extends gender research by applying gender differences to weather-induced hedonic consumption in both food and nonfood domains.",
+  "research_gap": "The paper states that most prior studies examined only the overall weather-outcome association, with limited direct tests of mediation and almost no work combining mediation and moderation in one model. It also argues that gender differences in the weather-consumption link had not been systematically examined.",
+  "research_question": "How and why does the association between weather and hedonic consumption differ between women and men? Specifically, does affect mediate the weather-hedonic consumption relationship, and is this mediation stronger for women than for men across food and nonfood consumption outcomes?"
+}

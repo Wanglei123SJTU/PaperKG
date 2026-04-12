@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Proposes a method that combines micro brand-awareness tracking data with aggregate sales and advertising data to improve specification and estimation of aggregate discrete choice demand with heterogeneous choice sets.",
+    "Shows that stated choice sets can be incorporated as random coefficients, enabling demand estimation without imposing strong assumptions on how choice sets are formed.",
+    "Develops an empirical framework to separately identify advertising's availability effect on brand awareness and substitution effect on utility."
+  ],
+  "context": "The empirical setting is the German ground coffee market, focusing on five major national brands (Jacobs, Melitta, Dallmayr, Tchibo, Eduscho) sold through six major retail chains. The analysis combines national weekly market data (2000-2001) with individual tracking-survey data on brand awareness in Germany.",
+  "design_and_data": "The study estimates aggregate random-coefficients discrete choice demand at the brand x retail-chain x week level (103 weeks), including an outside good. Data include MADAKOM weekly sales, prices, and promotions; monthly brand-level TV advertising expenditures transformed into goodwill; and repeated cross-sectional tracking-survey data (15,254 consumers, 1998-2002) with unaided brand recall and demographics/usage measures. Two limited-information specifications are estimated: one treats observed choice sets as random coefficients, and one models choice-set probabilities with a multinomial logit as a function of demographics, usage behavior, and goodwill before embedding these probabilities in demand. Price and goodwill endogeneity in demand are addressed with instruments based on raw coffee commodity costs and TV advertising costs.",
+  "focal_constructs": [
+    "choice set heterogeneity",
+    "brand awareness (unaided recall)",
+    "aggregate discrete choice demand",
+    "full information assumption",
+    "random coefficients",
+    "advertising goodwill",
+    "availability effect of advertising",
+    "substitution effect of advertising"
+  ],
+  "main_findings": [
+    "Ignoring heterogeneity in choice sets biases estimated brand values and the price coefficient downward, yielding understated price elasticities.",
+    "Using a full-information demand model for pricing leads to overly high markups and prices and can generate substantial profit losses in counterfactual pricing exercises.",
+    "Advertising has a significant direct effect on brand awareness (choice-set inclusion) in addition to its effect on utility, and the awareness channel is as important as, and for some brands larger than, the utility channel."
+  ],
+  "one_line_summary": "The paper shows that integrating consumer-level brand-awareness tracking data into aggregate demand estimation for German coffee corrects biases from the full-information assumption and reveals that advertising works through both awareness and preference channels.",
+  "relation_to_prior_work": "extends Berry-Levinsohn-Pakes style aggregate random-coefficients demand models by relaxing the full information assumption and incorporating heterogeneous consumer choice sets. It introduces tracking-study awareness data to avoid relying on strong stationarity and independence assumptions used in prior approaches that infer choice sets from purchases or marginal availability. It refines prior advertising analyses by separately estimating awareness and utility effects within one aggregate demand framework.",
+  "research_gap": "Aggregate discrete choice models typically assume all consumers choose from the full set of available brands, despite evidence that consumers consider only subsets that vary across people and time. With sales and marketing-mix data alone, prior work cannot separately identify nonpurchase due to dislike versus lack of awareness without strong assumptions (for example, stationarity, independence, or restrictive functional forms).",
+  "research_question": "How can aggregate discrete choice demand models be estimated when consumers have limited and heterogeneous brand awareness rather than full information? Can micro tracking data on awareness be used to recover unbiased demand primitives and to separately identify advertising's effect on choice-set inclusion versus its effect on utility conditional on consideration?"
+}

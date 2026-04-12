@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides large-scale field evidence that, in this firm, a mixed cash-plus-merchandise incentive plan outperformed a monetarily equivalent all-cash plan in eliciting sales effort and output.",
+    "Demonstrates a gap between stated and revealed incentive preferences within the same salesforce, suggesting stated-preference methods alone can mislead compensation design.",
+    "Uses repeated panel observations to recover effort as an intervening mechanism and offers suggestive evidence that separate mental accounting, financial slack, and money abstraction relate to heterogeneity."
+  ],
+  "context": "The study is set in a division of a Midwestern U.S. frozen foods manufacturer using a direct store delivery system. Route salespeople (typically managing about 10 stores) are paid only on output through commissions and target-based bonuses.",
+  "design_and_data": "The authors implemented a firm-wide field intervention that switched salespeople from a mixed cash-plus-points bonus plan (points redeemable for merchandise) to an all-cash bonus plan designed to be equal in monetary cost to the firm. Core panel data include monthly route-level sales, targets, and payouts from July 2011 to March 2012, with the switch in October 2011; 580 stable salesperson-routes were analyzed after excluding 96 routes with turnover or route changes. They estimate interrupted time-series regressions with salesperson fixed effects and controls (year, prior-year month sales, and targets), plus random-coefficient models for heterogeneous treatment effects and an effort-recovery procedure following Bandiera, Rasul, and Barankay (2005). They also fielded a post-intervention survey (216 usable responses) and a choice-based conjoint study (148 respondents).",
+  "focal_constructs": [
+    "cash incentives",
+    "merchandise (noncash) incentives",
+    "sales compensation plans",
+    "salesperson effort",
+    "sales performance",
+    "mental accounting",
+    "stated versus revealed preferences"
+  ],
+  "main_findings": [
+    "After controls, switching from mixed incentives to all-cash incentives reduced monthly sales by about 4.36% on average.",
+    "Estimated individual-level intervention effects were negative across salespeople, with larger drops among higher-performing salespeople.",
+    "Recovered effort declined from pre- to post-intervention and tracked sales declines; post-survey patterns were suggestive that greater household discretionary resources and more concrete money construal were associated with larger drops, while conjoint stated preferences still favored cash."
+  ],
+  "one_line_summary": "In a large field intervention at a U.S. frozen foods manufacturer, replacing a cash-plus-merchandise bonus plan with an equal-cost all-cash plan lowered sales (about 4.36%) and effort, with heterogeneity patterns interpreted as suggestive of separate mental accounts.",
+  "relation_to_prior_work": "challenges the standard principal-agent and stated-preference expectation that cash incentives should dominate noncash incentives by showing lower sales after a switch to equal-cost all-cash bonuses. introduces evidence consistent with mental accounting as a plausible explanation for merchandise incentives' higher effective utility in this setting.",
+  "research_gap": "Merchandise incentive programs are widespread and costly, yet standard theory implies cash should be superior and lower cost, creating an unresolved puzzle. Prior evidence on behavioral performance effects is sparse and contradictory, with much of it based on stated preferences rather than large-scale field behavior.",
+  "research_question": "Do salespeople perform better under merchandise incentives or monetarily equivalent cash incentives in real compensation plans? Can observed sales changes be linked to effort changes, and what factors explain heterogeneity in responses across salespeople?"
+}

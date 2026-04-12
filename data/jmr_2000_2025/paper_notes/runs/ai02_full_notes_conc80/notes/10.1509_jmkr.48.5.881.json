@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "A novel automated process is presented to elicit product attributes and attribute dimensions from online customer reviews using minimal human intervention.",
+    "The approach extends traditional market structure analysis by using the voice of the consumer for attribute generation and selection, including vocabulary granularity and synonym differences.",
+    "The method supports repeatable over-time and sentiment-polarity (pros vs cons) analyses to aid, rather than replace, managerial judgment from surveys and focus groups."
+  ],
+  "context": "The empirical setting is the digital camera market, using customer reviews from Epinions.com during a period of rapid category evolution. The authors benchmark against expert buying guides, a lab survey, market-share statistics, and proprietary digital imaging research reports.",
+  "design_and_data": "The authors scraped review metadata plus user-authored pro/con lists from Epinions and built an initial dataset of 8,226 digital camera reviews across 575 products/bundles, producing a 14,081-phrase by 3,364-word matrix after parsing. They clustered phrases with K-means (k=50), decomposed clusters into attribute dimensions using a constrained assignment approach with statistical filters, and after manual noise screening retained 39 attribute clusters. They compared automated attributes with 10 expert guide sources via precision/recall and ran a web survey of 181 students (164 usable) rating familiarity and importance for 55 attributes. For market-structure visualization they created brand-by-attribute frequency tables and used correspondence analysis, including supplemental-point analysis with a second review sample of 5,567 reviews (Jan 1, 2005-Jan 28, 2008) and separate pro-versus-con mappings.",
+  "focal_constructs": [
+    "market structure analysis",
+    "voice of the consumer",
+    "online customer reviews",
+    "automated text mining",
+    "attribute generation and selection",
+    "brand positioning",
+    "correspondence analysis",
+    "sentiment polarity"
+  ],
+  "main_findings": [
+    "Compared with expert buying guides, review-mined attributes showed high recall (the VOC captured nearly all expert-mentioned attributes) while also surfacing additional attributes not consistently present in expert sources.",
+    "In the survey, attributes found by both experts and the VOC were rated significantly higher in familiarity and importance than expert-only attributes, and several VOC-only attributes were high on both measures.",
+    "Correspondence-analysis brand maps from review text were broadly consistent with market-share patterns and proprietary reports, and pro/con polarity mapping highlighted segment-level differences and \"must-have\" attribute dimensions."
+  ],
+  "one_line_summary": "The paper proposes and evaluates an automated review-text pipeline that derives product attributes from the voice of the consumer and uses them to map digital-camera market structure with managerially useful insights beyond expert guides alone.",
+  "relation_to_prior_work": "extends traditional market structure approaches that begin with predefined attributes by deriving attributes and dimensions directly from customer-review text and then mapping brands via correspondence analysis. It also introduces a simpler, less complex-language-processing dependent workflow than prior review-mining approaches focused on direct comparisons or limited predefined features.",
+  "research_gap": "The paper argues that market structure methods usually depend on predetermined attributes, yet there is little guidance on how those attributes should be selected. It also notes comparatively little prior work using online customer-review text to study market structure at the product-brand level.",
+  "research_question": "Can online customer reviews be automatically mined to generate and select product attributes for market structure analysis, rather than relying only on predefined attributes from traditional methods? Do review-based brand maps provide meaningful and managerially useful insights, including over-time changes and differences by pro versus con sentiment?"
+}

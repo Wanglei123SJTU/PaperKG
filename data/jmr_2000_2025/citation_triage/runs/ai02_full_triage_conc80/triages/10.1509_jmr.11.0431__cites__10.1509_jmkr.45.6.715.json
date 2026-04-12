@@ -1,0 +1,4 @@
+{
+  "rationale": "Keep: the cited paper appears to be a likely methodological antecedent, not an incidental mention. The citing note describes Bayesian data fusion with latent individual outcomes under aggregate constraints, and the cited note describes a very similar Bayesian data-augmentation approach for recovering individual behavior from aggregate information. With an exact DOI match (10.1509/jmkr.45.6.715), this pair plausibly reflects substantive method/theory use and warrants full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

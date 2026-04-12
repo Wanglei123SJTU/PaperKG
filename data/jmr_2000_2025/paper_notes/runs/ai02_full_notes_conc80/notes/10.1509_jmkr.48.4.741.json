@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "Shows with observed behavior (not only hypothetical judgments) that accompanying friends can impose a monetary cost on consumers in real shopping settings.",
+    "Identifies agency-communion orientation, and its interaction with self-monitoring, as key boundary conditions for friend influence on spending.",
+    "Provides process evidence for impression management by demonstrating a reversal when the focal decision shifts from spending on oneself to donating to charity."
+  ],
+  "context": "The studies span retail and experimental contexts: mass-merchandise stores, a university bookstore purchase task, a large shopping mall in Turkey, and a lab donation task. The focal social setting is shopping alone versus shopping with one accompanying friend.",
+  "design_and_data": "Pilot data come from the 1995 POPAI Consumer Buying Habits Study with in-store intercepts at 14 mass-merchandise stores; 1,208 usable shoppers (including 72 with a friend) were analyzed with OLS on log amount spent and multiple controls. Study 1 is a 2 x 2 bookstore field experiment with 87 undergraduates, where friend presence was manipulated using a trained confederate while participants bought AA batteries with a fixed budget. Study 2 is a mall intercept study in Turkey with 126 usable respondents shopping alone or with one friend, measuring agency and communion (PAQ), self-monitoring, and spending in entry/exit surveys, analyzed via interaction regressions. Study 3 is a lab experiment (final n = 124 after exclusions) that primes agency vs communion, varies friend presence, measures self-monitoring, and tests donation amounts from a potential $50 payment.",
+  "focal_constructs": [
+    "presence of an accompanying friend",
+    "consumer spending",
+    "agency-communion orientation",
+    "self-monitoring",
+    "impression management",
+    "charitable donation decision"
+  ],
+  "main_findings": [
+    "Agency-oriented consumers spend more when accompanied by a friend than when shopping alone, whereas communion-oriented consumers do not show this spending increase.",
+    "Self-monitoring moderates this pattern asymmetrically: for agency-oriented consumers, the friend-related spending increase appears at both high and low self-monitoring, while for communion-oriented consumers high self-monitoring is associated with reduced spending in the friend condition.",
+    "When the decision context changes to donating to charity, the interaction pattern reverses in line with impression management: communion-primed high self-monitors donate more with a friend, and agency-primed participants show no friend effect."
+  ],
+  "one_line_summary": "Across three field studies and one lab experiment, the paper shows that shopping with a friend raises spending for agency-oriented consumers but not communion-oriented consumers, with effects contingent on self-monitoring and reversing in a charity-donation context.",
+  "relation_to_prior_work": "extends social influence research by moving from broad public-versus-private framing and hypothetical friend effects to observed spending behavior with an accompanying friend in field and lab settings. It also links this effect to agency-communion theory and self-monitoring, and tests impression management via a context reversal to charitable giving.",
+  "research_gap": "Prior work on friend influence in shopping was limited and often based on hypothetical scenarios and perceived likelihood of overspending rather than observed spending behavior. The paper also argues that research had not clearly established how the specific influence source (an accompanying friend) interacts with agency-communion orientation.",
+  "research_question": "How does the presence of an accompanying friend influence consumers' spending decisions, and why might this effect differ across people? The paper asks whether agency-communion orientation and self-monitoring jointly shape friend influence through impression management concerns, and whether the pattern changes when the decision shifts from self-spending to charitable donation."
+}

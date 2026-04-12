@@ -1,0 +1,6 @@
+{
+  "citation_substance": "mention_only",
+  "rationale": "In the citing paper, the 2008 JMR article is used only as a brief supporting reference in a footnote about a modeling assumption: feature/display variables are treated as exogenous while price is modeled as endogenous. The paper does not adopt that article's estimator, endogeneity test, or empirical setup, and it does not build its hypotheses or main findings around it. The core endogeneity implementation in the study is instead anchored in the control-function approach of Petrin and Train (2010).",
+  "relation_description": null,
+  "relation_type": null
+}

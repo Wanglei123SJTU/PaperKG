@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "Scholz et al. (2010) is cited in the main methodological framing, including a direct comparison in Table 1 and detailed discussion in the method section. The citing paper uses it as a close prior paired-comparison approach, then argues for improvements via adaptive question selection and a log-linear estimation approach that provides respondent-level standard errors. Because this citation is used to position and justify the paper's core methodological contribution, it is more than a passing mention.",
+  "relation_description": "The citing paper refines the paired-comparison compositional line represented by Scholz et al. (2010). It keeps the general idea of constant-sum paired comparisons but replaces the cited paper's nonadaptive AHP-style setup with an adaptive design and regression-based estimation to improve efficiency and inferential output.",
+  "relation_type": "refines"
+}

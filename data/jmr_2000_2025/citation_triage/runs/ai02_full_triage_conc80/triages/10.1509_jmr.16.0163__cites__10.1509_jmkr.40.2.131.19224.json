@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper note centers on proactive churn targeting using randomized experiments and uplift (LIFT) vs risk (RISK), while the cited paper note is about permission-based email content/layout customization via an MDP-probit plus optimization framework, so direct methodological or empirical dependence is not evident from topics alone. The only match evidence is a single DOI-level reference entry with no in-text citation context or reference text. Given this sparse evidence, it is not safe to confidently drop as obvious mention-only.",
+  "triage_decision": "uncertain"
+}

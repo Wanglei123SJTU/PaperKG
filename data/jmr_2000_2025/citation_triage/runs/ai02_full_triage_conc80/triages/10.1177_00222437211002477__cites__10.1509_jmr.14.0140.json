@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s core design is dynamic VAR-based modeling with impulse responses and persistence over time, while the cited paper introduces a dynamic asymmetric SVAR framework for short- vs. long-run effects and lasting impact (“loom longer”). This methodological and temporal-over-time overlap makes a substantive method/foundational link plausible, and with only a DOI match (no in-text context), it is not safe to treat as an obvious mention-only citation.",
+  "triage_decision": "keep_for_relation_judgment"
+}

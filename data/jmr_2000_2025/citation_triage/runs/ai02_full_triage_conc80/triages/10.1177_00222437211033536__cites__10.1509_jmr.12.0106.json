@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s design note explicitly says it constructs a “topic-model-based measure of heterogeneity in needs,” while the cited paper is a methodological LDA/text-mining framework in marketing, so it could be a direct method source rather than a passing mention. Given the exact DOI match (10.1509/jmr.12.0106) and plausible methodological dependence, this pair should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

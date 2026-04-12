@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s core method is constrained Bayesian finite-mixture regression estimated via Gibbs/MCMC, while the cited paper is a simulated-annealing heuristic for bicriterion partitioning; this indicates topical overlap (market segmentation) but different methodological streams. With only a single DOI match and no in-text citation context, there is insufficient evidence to confidently classify this as either clearly incidental or clearly substantive.",
+  "triage_decision": "uncertain"
+}

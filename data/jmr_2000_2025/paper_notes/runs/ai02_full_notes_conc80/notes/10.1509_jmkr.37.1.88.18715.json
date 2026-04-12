@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces sliced inverse regression (SIR) to the marketing research literature as a practical dimension-reduction method for data-rich settings.",
+    "Provides an objective inference framework for factor extraction in SIR, including statistical tests for the number of retained factors and t-based assessment of factor-loading coefficients.",
+    "Develops conceptual links among SIR and alternative methods (PCR, PLSR, LRR, MLR, MDA, and related approaches) and offers comparative evidence from simulations and two marketing applications."
+  ],
+  "context": "The paper focuses on data-rich marketing environments in which managers must use many covariates, including applications to executive program design (survey-based new product design) and catalog direct marketing. The intended use cases include direct marketers, database marketers, and teams analyzing large exploratory or survey datasets.",
+  "design_and_data": "The authors run Monte Carlo simulations with 50 independent variables, varying signal-to-noise ratios, and 200 observations split into estimation and holdout samples, repeated over 100 realizations, under both normal and gamma covariate distributions. They compare SIR with PCR, PLSR, LRR, and MLR using adjusted R2 and factor-retention behavior. The first empirical application uses 96 usable alumni survey responses with 28 predictors (course, timing, and location preferences) and likelihood of enrollment as the dependent variable. The second empirical application uses a cleaned direct-marketing dataset of 200 customers with 73 predictors and promotional-product dollar sales as the dependent variable, with AIC/AICC used for factor selection in PCR/PLSR.",
+  "focal_constructs": [
+    "sliced inverse regression",
+    "effective dimension reduction space",
+    "factor retention",
+    "factor-loading significance",
+    "predictive accuracy",
+    "data-rich marketing environments",
+    "new product design profile",
+    "direct marketing targeting"
+  ],
+  "main_findings": [
+    "In simulations, SIR achieved the highest predictive accuracy among compared methods and retained the true low dimension more effectively, typically one factor when the data-generating model had one factor.",
+    "In the executive program design data, SIR retained one factor and achieved higher adjusted R2 (50.9%) than PLSR (48.2%, seven factors) and PCR (29.8%, twelve factors), with lower AIC/AICC than alternatives.",
+    "In the catalog direct-marketing data, SIR retained two factors and produced the best fit metrics (adjusted R2 42.5%, lowest AIC/AICC) relative to PLSR, PCR, MLR, and LRR."
+  ],
+  "one_line_summary": "The paper introduces sliced inverse regression to marketing and shows via simulations and two applications that it delivers more effective dimension reduction and stronger prediction than commonly used alternatives.",
+  "relation_to_prior_work": "introduces SIR from the statistics literature into marketing research and compares it with established approaches such as PCR, PLSR, MLR, LRR, and MDA. It also situates SIR within known methodological relationships, including links to discriminant analysis and canonical-correlation-based methods.",
+  "research_gap": "The paper argues that marketing has become data rich, but commonly used reduction methods in practice either rely on ad hoc factor-selection/loading rules or do not fully exploit dependent-variable information when constructing factors. It addresses the lack of a marketing-oriented introduction and evaluation of SIR as an objective, high-accuracy alternative.",
+  "research_question": "Can sliced inverse regression provide a better way to reduce dimensionality in data-rich marketing problems than existing methods such as PCR and PLSR? How does SIR compare with alternative approaches in predictive accuracy and in identifying a parsimonious factor structure in simulated and real marketing datasets?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper identifies a price format effect in grocery settings: the impact of unit-based versus weight-based pricing depends on product weight.",
+    "It proposes and tests that consumers anchor on the nominal value of the most visually salient displayed price when judging value.",
+    "It offers an easily implementable retail tactic (choose or highlight price format by product weight) and validates it with field evidence on real sales and spending."
+  ],
+  "context": "The paper studies U.S. grocery retail contexts where products may be priced as dollars per item or dollars per pound, in both in-store and online-style displays. Stimuli and field settings include produce and prepared foods, and one university sales setting for packaged trail mix.",
+  "design_and_data": "The authors report six main studies (plus ten additional Web Appendix studies), combining controlled experiments with two field studies. Study 1a (N=617 students) uses a 2 x 2 experiment on perceived value; Study 1b (N=804 MTurk) tests binary choice between equivalent options with different salient price formats. Study 2 (N=617 MTurk) uses a 2 x 3 design adding an exactly-1-lb condition, and Study 3 (N=1,249 MTurk; 2 x 2 x 2) manipulates whether extra numerical weight information is made salient. Field Study 4 is a 4-week deli-counter intervention at one grocery store with alternating price formats for salmon fillets and risotto cakes and transaction-level sales data (274 relevant transactions), and Field Study 5 is a 16-day university field experiment selling 1/2-lb versus 2-lb trail-mix bags under unit-based versus weight-based prices.",
+  "focal_constructs": [
+    "unit-based pricing",
+    "weight-based pricing",
+    "nominal value anchoring",
+    "visual price salience",
+    "product weight",
+    "perceived product value",
+    "purchase choice",
+    "sales"
+  ],
+  "main_findings": [
+    "Price format and product weight interact: for lower-weight products (<1 lb), salient unit-based prices produce more favorable value perceptions and higher choice than salient weight-based prices, while the pattern reverses for higher-weight products (>1 lb).",
+    "The effect attenuates when products weigh exactly one pound (where nominal values across formats are equal), and it is reduced when additional numerical weight information is made salient.",
+    "In field settings, changing the salient price format changes real outcomes: spending/sales rose for lower-weight items under unit-based pricing, and for higher-weight items under weight-based pricing in the full-interaction field test."
+  ],
+  "one_line_summary": "Across experiments and field studies, the paper shows that consumers anchor on the nominal value of the most salient posted price, making unit-based formats work better for products under 1 lb and weight-based formats work better for products over 1 lb.",
+  "relation_to_prior_work": "extends prior framing and anchoring work by examining unit-based versus weight-based prices, which are not just simple scale conversions but different informational frames in grocery purchasing. It shows that nominal-price anchoring under visual salience interacts with product weight to shape value judgments, choice, and sales.",
+  "research_gap": "Although retailers often use unit-based and weight-based prices inconsistently, prior research had not clearly established whether choosing one format over the other systematically changes consumer value perceptions and behavior in this setting. The authors also note that it was not clear a priori whether these two formats would produce a directional effect because they communicate different information.",
+  "research_question": "Does the most salient price format shown to consumers (unit-based vs. weight-based) change perceived product value and purchase behavior for grocery items sold in discrete units? If so, does the direction of the effect depend on product weight (less than vs. more than one pound) and arise because consumers anchor on the nominal value of the salient price?"
+}

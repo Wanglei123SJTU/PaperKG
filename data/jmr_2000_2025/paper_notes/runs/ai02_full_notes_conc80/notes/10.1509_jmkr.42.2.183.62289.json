@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces the concept of brand counterextensions and argues that reciprocal effects of extensions should include counterextension risk across category boundaries.",
+    "Shows that extension success, a desirable extension outcome, can indirectly dilute the parent brand by reducing perceived intercategory separation and improving evaluations of counterextensions.",
+    "Shows that this risk can propagate beyond the directly entered category to secondary counterextensions in a sequence of extensions across multiple category boundaries."
+  ],
+  "context": "The paper studies reciprocal extensions across related consumer product categories, using scenarios built around supermarket and packaged-goods categories (for example, laundry vs. dishwashing detergents; chips, pretzels, and crackers) and well-known brands. Evidence comes from adult consumers recruited in shopping areas who evaluated hypothetical extension and counterextension launches.",
+  "design_and_data": "The author reports five experiments with between-subject designs and control conditions. Study 1 (n = 320) uses a 2 x 2 x 2 design (prior extension outcome, extension-brand strength, counterextension-brand strength) with real detergent brands; Studies 2A (n = 75) and 2B (n = 260) test robustness to extension-category specificity and to removing real brand names. Study 3 (n = 150) tests sequential effects across three categories and secondary counterextensions. Study 4 (n = 176) uses a brand-choice task (Tide, Purex, Cascade) to assess whether prior extension success versus failure changes incumbent choice-share loss to a counterextension.",
+  "focal_constructs": [
+    "brand extension success versus failure",
+    "brand counterextension evaluation",
+    "intercategory similarity",
+    "category fit",
+    "major versus minor brand strength",
+    "parent brand dilution",
+    "choice share loss",
+    "secondary counterextensions"
+  ],
+  "main_findings": [
+    "Counterextensions are evaluated more favorably when the preceding extension is successful than when it fails.",
+    "Perceived similarity between the parent and extension categories mediates the effect of prior extension outcome on counterextension evaluation.",
+    "Counterextensions by major brands are evaluated more favorably, especially when the prior successful extension was launched by a major brand, and successful prior extensions produce greater incumbent share loss (indirect dilution) than failed prior extensions."
+  ],
+  "one_line_summary": "Across five experiments, the paper finds that successful brand extensions can indirectly dilute the parent brand by increasing intercategory similarity and making competitors' counterextensions more attractive and more damaging to share.",
+  "relation_to_prior_work": "extends prior reciprocal-effects and dilution research by showing that not only failed or low-quality extensions but also successful extensions can harm a brand indirectly through competitors' counterextensions. It also links sequential extension logic to cross-brand category dynamics by showing effects that generalize to secondary counterextensions.",
+  "research_gap": "Prior research largely examined how extension failure, low quality, or low typicality feeds back to parent-brand evaluations, while underemphasizing ongoing competitive interactions across categories. The paper addresses the overlooked question of whether extension success can also create indirect dilution by improving evaluations of reciprocal counterextensions from brands in the entered category.",
+  "research_question": "Does the success versus failure of a prior brand extension from Category A to Category B change how consumers evaluate a reciprocal counterextension from Category B back into Category A? The paper also asks whether this effect is mediated by perceived intercategory similarity and how major versus minor brand status of both brands shapes the effect, including consequences for parent-brand choice share."
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "citation_judgment_v1.schema.json",
+  "title": "Citation Judgment V1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "citation_substance",
+    "relation_type",
+    "relation_description",
+    "rationale"
+  ],
+  "properties": {
+    "citation_substance": {
+      "type": "string",
+      "enum": [
+        "mention_only",
+        "substantive",
+        "ambiguous"
+      ]
+    },
+    "relation_type": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        "foundational_for",
+        "extends",
+        "refines",
+        "challenges",
+        "applies",
+        "other",
+        null
+      ]
+    },
+    "relation_description": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "rationale": {
+      "type": "string"
+    }
+  }
+}

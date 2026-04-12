@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper clarifies that in moderated regression, coefficients often interpreted as main effects are actually simple effects evaluated when interacting variables are coded as 0.",
+    "It provides a practical recoding framework based on the 'magic number zero' for conducting spotlight tests at theoretically meaningful focal values and extends this logic to more complex designs.",
+    "It recommends replacing arbitrary plus/minus 1 SD probing with either focal-value spotlights or Johnson-Neyman 'floodlight' regions of significance when no focal values exist."
+  ],
+  "context": "The paper addresses analysis and reporting practices in marketing and consumer behavior studies that test interactions, especially between manipulated categorical variables and continuous measured moderators. Its examples use a fictional extension of a social influence and food-consumption experiment with confederate BMI and candy-taking behavior.",
+  "design_and_data": "This is a methodological tutorial grounded in linear regression algebra for moderated models (e.g., Y = a + bZ + cX + dZX). The authors illustrate procedures with fictitious simulated data (N = 100) designed to resemble plausible patterns from McFerran et al. (2010), and they explicitly state no real data were collected for these examples. They also report a review of one volume each of Journal of Marketing Research and Journal of Consumer Research, noting frequent errors or suboptimal practice in reported moderated regressions. Additional worked templates for multiple designs are provided in web appendices.",
+  "focal_constructs": [
+    "moderated regression",
+    "simple effects (conditional effects)",
+    "spotlight analysis",
+    "floodlight analysis",
+    "Johnson-Neyman point and regions of significance",
+    "magic number zero recoding",
+    "dichotomization of continuous moderators"
+  ],
+  "main_findings": [
+    "In interaction models, lower-order coefficients are simple effects at the zero points of interacting variables, not general main effects.",
+    "Re-centering a moderator so that a focal value equals zero yields the correct estimate, standard error, and test for the simple effect at that value while leaving the underlying fitted interaction model unchanged.",
+    "Probing at plus/minus 1 SD is often arbitrary and sample-dependent; when no meaningful focal values exist, Johnson-Neyman floodlight analysis should be used to report where simple effects are significant across the moderator range."
+  ],
+  "one_line_summary": "The article provides a regression-based tutorial showing how to correctly run and interpret simple-effects tests in moderated regression using zero-point recoding, and it advocates Johnson-Neyman floodlight regions over arbitrary plus/minus 1 SD probes when focal moderator values are absent.",
+  "relation_to_prior_work": "extends prior interaction-probing guidance (e.g., Aiken and West 1991; Jaccard et al. 1990; Irwin and McClelland 2001) by offering a unified, marketing-focused tutorial that covers both basic and more complex designs. introduces the label and reporting emphasis of 'floodlight' analysis for Johnson-Neyman regions of significance as an alternative to conventional plus/minus 1 SD spotlights.",
+  "research_gap": "The authors argue that many marketing researchers misunderstand or misapply simple-effects follow-ups in moderated regression, including dichotomizing continuous moderators and misinterpreting coefficients. They also note uncertainty about how to implement these tests in more complex designs beyond the basic 2 x continuous case.",
+  "research_question": "How should researchers correctly estimate, test, and report simple effects after finding interactions in moderated regression when one or more interacting variables are continuous? When are focal-value spotlight tests appropriate, and when should Johnson-Neyman floodlight regions be reported instead, including in more complex experimental designs?"
+}

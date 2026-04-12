@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper explicitly studies temporal consistency in sales promotions and shelf availability as drivers of SKU-level consumer utility and choice in packaged goods.",
+    "It decomposes consistency effects into two channels, systematic utility mean and utility scale, rather than treating all effects as shifts in mean utility.",
+    "It introduces and applies a random coefficients generalized scale multinomial logit (RCGSMNL) specification with alternative-specific scale factors, including price predictability interactions and same-brand consistency cross-effects."
+  ],
+  "context": "The empirical application is in the fabric softener category for frequently purchased packaged consumer goods. The setting is a single Philadelphia grocery store with weekly SKU-level price, display, feature-insert, and shelf-availability conditions.",
+  "design_and_data": "The study uses Information Resources Inc. scanner panel data from January 1990 to June 1992 for one store, with 594 households split randomly into 297 estimation and 297 holdout households. The estimation sample contains 1,970 purchase occasions and the holdout sample 2,024, with choice sets of up to 59 SKUs depending on availability. The authors estimate random-coefficients choice models by simulated maximum likelihood with repeated measures and compare nested specifications. Temporal consistency is measured mainly as 8-week rolling standard deviations for price, availability, display, and feature activity, and price predictability is captured by Fisher's kappa from each SKU's full price history.",
+  "focal_constructs": [
+    "temporal consistency of sales promotions",
+    "price variability",
+    "price predictability",
+    "feature-insert consistency",
+    "shelf availability consistency",
+    "systematic utility",
+    "utility scale",
+    "brand choice probabilities"
+  ],
+  "main_findings": [
+    "Feature-insert consistency and availability consistency significantly increase systematic utility, so inconsistency in these dimensions lowers brand evaluations.",
+    "Price variability raises systematic utility on average but lowers utility scale, and both effects are moderated by price predictability; the negative scale effect can offset mean-utility gains.",
+    "Own display-consistency effects are not significant for mean utility or scale in this category, while greater maximum display inconsistency among same-brand SKUs reduces utility scale."
+  ],
+  "one_line_summary": "Using fabric softener scanner panel data and an RCGSMNL model, the paper shows that temporal consistency in promotions and shelf availability affects both utility mean and scale, with important implications for brand choice and share.",
+  "relation_to_prior_work": "extends scanner-panel promotion and brand-choice research by explicitly modeling temporal variability and predictability of promotions and availability, which the paper argues had not been directly analyzed in prior work. It also connects and operationalizes branding-consistency arguments in prior theory by testing effects on both utility mean and choice-model scale.",
+  "research_gap": "The paper states that scanner-panel brand choice research had given little attention to temporal marketing-mix consistency, and promotion studies had focused more on level/frequency than on regularity and predictability patterns. It argues that the effect of promotion variability on brand choice had not been explicitly analyzed.",
+  "research_question": "How does temporal consistency versus variability in price, display, feature inserts, and SKU availability affect consumer product evaluations and choices in a frequently purchased packaged-goods category? Do these effects operate through both the systematic utility component and the utility scale, and how is the price-variability effect moderated by price predictability?"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper shows that introducing a simplified point-of-sale nutrition scoring system leads shoppers to switch to healthier alternatives, improving the nutrition content of purchases.",
+    "It demonstrates that nutrition scoring has spillover effects on key marketing-mix responses: shoppers become less price sensitive and more promotion sensitive after rollout.",
+    "It provides evidence that category-level factors, especially category healthiness and within-category nutrition-score heterogeneity, moderate how nutrition scoring affects food choices and response to price and promotion."
+  ],
+  "context": "The study is set in a large U.S. grocery chain that rolled out the NuVal shelf nutrition scoring system across categories during 2008-2009. It analyzes frequent shopper program behavior in eight packaged-food categories (frozen pizza, tomato products, soup, salad dressing, yogurt, spaghetti sauce, granola bars, and ice cream).",
+  "design_and_data": "The authors use a large quasi-experimental field design based on staggered category rollout of NuVal scores and compare six-month pre- and post-implementation periods by category. The core data include weekly UPC-level purchases for more than 535,000 loyalty-program shoppers, totaling over 29 million purchases; analyses focus on scored products (about 81% of sales). They estimate two equations as seemingly unrelated regressions: one predicts nutrition score of purchased UPCs, and one predicts equivalized purchase volume with price and promotion interactions. They also run an omnibus robustness check using Nielsen control-store panel data from geographically contiguous regions (8,720 households, 81,977 purchase occasions).",
+  "focal_constructs": [
+    "simplified POS nutrition scoring",
+    "nutrition content of purchases",
+    "price sensitivity",
+    "promotion sensitivity",
+    "category healthiness",
+    "within-category nutrition score variability",
+    "consumer food choice behavior"
+  ],
+  "main_findings": [
+    "After NuVal rollout, shoppers switched to higher-scoring products, with an average 21.8% increase in purchase nutrition content across the eight categories.",
+    "Price sensitivity decreased after rollout (about 19.4%), while promotion sensitivity increased (about 73.3%).",
+    "Moderation results show stronger nutrition improvement and stronger price-sensitivity attenuation in healthier categories, weaker promotion-sensitivity increases in healthier categories, and stronger promotion-sensitivity increases in categories with greater nutrition-score heterogeneity; in control-group omnibus tests, 8 of 9 hypotheses were supported, with no support for the predicted variability moderation on nutrition improvement."
+  ],
+  "one_line_summary": "Using a staggered quasi-experimental rollout of NuVal shelf scores in a U.S. grocery chain, the paper finds that simplified POS nutrition information improves purchase healthiness and shifts shopper responsiveness away from price and toward promotions.",
+  "relation_to_prior_work": "extends prior nutrition-labeling work by moving from purchase intentions and aggregate sales to household-level field behavior, modeling continuous nutrition scores, and testing spillovers to price and promotion sensitivity with category-level moderators.",
+  "research_gap": "The paper argues that despite rapid adoption of simplified in-store nutrition scoring systems, there is little hard evidence on whether they actually improve consumer food choices. It also identifies limited evidence on whether such systems alter shoppers' sensitivity to price and promotions and how category characteristics shape these effects.",
+  "research_question": "Do simplified point-of-sale nutrition scores help grocery shoppers make healthier within-category choices? The paper also asks whether introducing such scores changes shoppers' price and promotion sensitivity, and whether these effects are moderated by category healthiness and within-category variation in nutrition scores."
+}

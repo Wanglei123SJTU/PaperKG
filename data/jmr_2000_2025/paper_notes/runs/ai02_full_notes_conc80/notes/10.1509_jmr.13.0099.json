@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper provides a fuller view of result-page behavior by using search-engine-level data that observe clicks on both sponsored and organic lists rather than single-advertiser outcomes.",
+    "It identifies keyword popularity, measured by relative search volume, as a distinct and important predictor of post-search click behavior.",
+    "It links click-pattern heterogeneity to latent involvement stages consistent with a purchase-funnel interpretation and derives targeting implications for sponsored search."
+  ],
+  "context": "The empirical setting is a leading Korean search engine that displays sponsored links above organic results, similar to major U.S. search engines. The keywords are product and service queries for which advertiser activity is expected to be relatively high.",
+  "design_and_data": "The authors use individual-level search and click logs for February 2011 (28 days), covering 1,631,336 searches for 120 randomly sampled keywords from an original set of 1,200 keywords. They keep one randomly chosen search instance per unique IP address to support cross-sectional analysis and include counts of organic and sponsored clicks, plus number of sponsored links shown. They estimate a hierarchical Bayesian latent-segment model in which total clicks follow a Poisson process and each click is sponsored versus organic via a Bernoulli/logit component, with covariates for keyword popularity rank, keyword text features, number of sponsored links shown, and weekend. Estimation uses MCMC and selects a four-segment specification based on fit diagnostics.",
+  "focal_constructs": [
+    "organic click behavior",
+    "sponsored click behavior",
+    "keyword popularity (search volume rank)",
+    "total clicks per search",
+    "latent consumer segments",
+    "consumer involvement stage",
+    "keyword characteristics (brand, retailer, length)"
+  ],
+  "main_findings": [
+    "Average post-search clicking is low and concentrated in organic results, with a small sponsored-click share.",
+    "Less popular keywords are associated with more clicks per search and a higher fraction of sponsored clicks than more popular keywords.",
+    "A four-segment structure emerges in which smaller, higher-involvement segments click more and are more likely to click sponsored links, and these segments are disproportionately represented for less popular keywords."
+  ],
+  "one_line_summary": "Using individual-level search engine data from Korea, the study finds that less popular keywords generate more clicks per search and a higher share of sponsored clicks because they attract more high-involvement searchers.",
+  "relation_to_prior_work": "extends sponsored search research that emphasized advertiser-side outcomes and query-text attributes by analyzing full-page user clicks from search-engine data and adding keyword popularity as a central explanatory variable.",
+  "research_gap": "Prior empirical work largely relied on single-advertiser data, so it could not observe clicks across the full sponsored and organic result lists on the search page. It also focused mostly on keyword attributes observable from the query text (e.g., brand, retailer, length), leaving the role of keyword popularity underexplored.",
+  "research_question": "How do consumers allocate clicks between organic and sponsored links after a keyword search, and which keyword characteristics explain this behavior? In particular, the paper asks whether keyword popularity (relative search volume) predicts total click activity and sponsored-versus-organic clicking, accounting for heterogeneity across searches."
+}

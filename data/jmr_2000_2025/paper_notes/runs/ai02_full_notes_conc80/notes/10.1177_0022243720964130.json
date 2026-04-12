@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper provides a comprehensive empirical assessment of SDIAS by examining both academic performance (11 indicators) and disciplinary consequences in one framework.",
+    "It shows that SDIAS and household internet access should not be treated as interchangeable, and empirically tests how household access conditions SDIAS effectiveness.",
+    "It documents a disciplinary downside of SDIAS (especially Part II offenses) and translates both benefits and costs into substantive dollar terms for school district decision making."
+  ],
+  "context": "The study is set in Texas public K-12 school districts, where districts invest in internet access and seek E-rate subsidies. The analysis covers school years 2000-2014 and links district spending to school-level academic and disciplinary outcomes.",
+  "design_and_data": "The authors concatenate longitudinal data from USAC (district internet access spending and reimbursements), TEA AEIS/TAPR (academic outcomes), PEIMS (discipline records), FCC Form 477 (household broadband provider counts), and county socioeconomic sources. The matched academic sample includes 9,040 schools in 1,187 districts, and the matched discipline sample includes 8,663 schools in 1,157 districts, over 2000-2014. Outcomes include 11 academic indicators and 47 disciplinary reason codes grouped into FBI Part I and Part II categories. Identification uses school and year fixed effects with rich controls, 2SLS with E-rate reimbursement as an instrument for SDIAS for academic outcomes, and conditional fixed-effects Poisson with a control-function endogeneity correction for disciplinary counts.",
+  "focal_constructs": [
+    "school district internet access spending (SDIAS)",
+    "school academic performance",
+    "school disciplinary problems",
+    "Part I and Part II offenses",
+    "household internet access",
+    "E-rate reimbursement instrument",
+    "return on investment in school internet spending"
+  ],
+  "main_findings": [
+    "A one-standard-deviation increase in SDIAS (about $0.6 million) is associated with significant improvement in 8 of 11 academic performance indicators, with effect sizes around 2% to 5% of a standard deviation.",
+    "A one-standard-deviation increase in SDIAS is associated with about a 5% increase in Part II offense-related disciplinary problems, implying an estimated yearly district cost of about $25,800 to $53,440.",
+    "Both the positive academic associations and the negative disciplinary associations of SDIAS are stronger in regions with higher household internet access."
+  ],
+  "one_line_summary": "Using Texas panel data from 2000-2014, the paper finds that higher school district internet access spending is associated with better academic outcomes but also more Part II disciplinary problems, and both effects are amplified by higher household internet access.",
+  "relation_to_prior_work": "extends prior internet-and-education research by directly measuring district internet access spending, jointly modeling household internet access contingencies, and examining both academic and disciplinary outcomes rather than academic outcomes alone.",
+  "research_gap": "The paper argues that prior studies report inconsistent effects partly because many use household broadband as a proxy for school district internet spending. It also identifies two underexamined gaps: whether SDIAS effectiveness depends on household internet access and whether SDIAS has disciplinary downsides.",
+  "research_question": "How does school district internet access spending affect public school academic performance and school disciplinary problems? Are these effects contingent on the level of household internet access in the surrounding region?"
+}

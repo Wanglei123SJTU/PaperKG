@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s core method is a household-level incidence/brand-choice model with latent classes and consumer heterogeneity, while the cited paper directly evaluates discrete vs. continuous heterogeneity logit choice models in scanner brand-choice data. Given this close methodological overlap (and exact DOI match), the citation is plausibly a substantive modeling reference rather than an incidental background mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

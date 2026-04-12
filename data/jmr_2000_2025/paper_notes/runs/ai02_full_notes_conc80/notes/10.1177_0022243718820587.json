@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides field-based empirical evidence that online display advertising can produce weariness, meaning negative marginal effects of additional exposures for a meaningful user segment.",
+    "Introduces a flexible hierarchical Bayesian model that jointly handles zero, one, and multiple daily visits, nonlinear ad-stock and timing effects, latent user response classes, and publisher-level effectiveness differences.",
+    "Shows that users can be profiled into response classes using observable browsing behavior, enabling more tailored capping and allocation policies."
+  ],
+  "context": "The paper studies a desktop/laptop online display acquisition campaign for a French financial services advertiser offering credit and loan services. Ads were served across many publishers, and the focal outcome is users' daily visits (view-throughs) to the advertiser's website.",
+  "design_and_data": "The empirical setting is a 72-day campaign (May-July 2013) with 12,000 users, 601,481 user-day observations, and exposures across 473 publishers. Data combine daily impression logs, target-site visit logs, and user browsing-behavior metrics from 200 websites in the ad network. The authors estimate a hierarchical Bayesian latent-class mixture model for daily visit counts that separately models zero, one, and more-than-one visits, with a discretized log-normal component for counts above one and user random intercepts. AdStock includes geometric carryover and publisher-specific weights, and class membership is modeled as a function of browsing behavior variables.",
+  "focal_constructs": [
+    "online display ad repetition",
+    "wearout",
+    "weariness",
+    "AdStock",
+    "time since last exposure",
+    "website visits (view-through)",
+    "latent response heterogeneity",
+    "publisher effectiveness"
+  ],
+  "main_findings": [
+    "The best-fitting model has five latent classes, and one sizable class (about 24% of users) shows clear weariness: after an interior threshold, additional ad stock lowers expected visits.",
+    "Estimated publisher effectiveness varies substantially, with the most effective publisher about nine times as effective as the publisher ranked 26th.",
+    "Weariness findings are robust across many model and sample checks, but disappear under homogeneous ad response; simulation indicates that profiling and capping/reallocation can improve expected visits by about 15% overall in these data."
+  ],
+  "one_line_summary": "Using individual-level online display ad and visit panel data, the paper estimates a hierarchical latent-class model and finds that roughly one quarter of users exhibit weariness, where extra exposures reduce subsequent website visits.",
+  "relation_to_prior_work": "extends prior advertising response work by separating wearout from weariness in individual-level online field data while allowing flexible, potentially nonmonotonic response shapes. challenges conclusions from homogeneous-response formulations by showing that negative marginal effects can be averaged out when response heterogeneity is ignored.",
+  "research_gap": "Prior field studies provide limited and inconsistent evidence on negative consequences of ad repetition, partly because many analyses use aggregate data or constrain ad effects to be nonnegative. The paper targets this gap with individual-level online exposure data and a flexible heterogeneity framework designed to detect weariness if it exists.",
+  "research_question": "How do cumulative online display ad exposures and exposure timing affect individual users' website visit behavior for an advertiser? Specifically, do some users move past wearout to weariness, where additional exposures have negative marginal effects, and how should publisher placement and user profiling inform ad allocation?"
+}

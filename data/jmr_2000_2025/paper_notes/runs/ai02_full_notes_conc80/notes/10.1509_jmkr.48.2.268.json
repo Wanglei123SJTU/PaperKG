@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper shifts analysis from loyalty-program membership effects to the effect of successfully attaining a recurring reward on subsequent effort toward the same reward.",
+    "Using frequent-flier field data, it documents partial postgoal resetting and repeated success-related increases in effort across successive attempts.",
+    "Through laboratory studies, it shows that the success effect depends on goal challenge (divisibility) and that progress and successful completion increase self-efficacy, consistent with self-learning as the main mechanism."
+  ],
+  "context": "The paper studies loyalty programs with recurring rewards, especially airline frequent-flier status tiers that can be re-earned each year. It also uses controlled consumer choice and task settings in the lab to test boundary conditions and mechanism.",
+  "design_and_data": "Study 1 Part 1 uses 18 months of transaction-level data from a major U.S.-based international airline, analyzing more than 400,000 flights by about 7,000 travelers in a random-effects Weibull hazard model of interflight time. The focal subset had at least 2 million lifetime miles and at least 200,000 miles in account balance, so Tier 1 annual status was the main meaningful status goal. Study 1 Part 2 uses 43,548 travelers (20,000-30,000 miles) and a regression-discontinuity design around the 25,000-mile Tier 3 threshold to estimate the effect of barely attaining status on next-year miles and status attainment. Study 2 is a 3 x 4 between-subject lab scenario experiment (293 usable student responses) manipulating reward divisibility and accumulated spending, and Study 3 is a lab experiment (70 students) manipulating whether identical trial outcomes imply task completion (10 vs 30 trials) to measure changes in self-efficacy.",
+  "focal_constructs": [
+    "recurring goals",
+    "successful reward attainment",
+    "goal gradient",
+    "postreward resetting",
+    "partial postgoal reset",
+    "self-learning",
+    "self-efficacy",
+    "reward divisibility"
+  ],
+  "main_findings": [
+    "In airline field data, effort increased as members approached status goals (goal gradient), effort dropped after goal completion until reengagement, and successful members showed partial rather than full reset at the next cycle start.",
+    "Around the 25,000-mile cutoff, barely attaining status increased next-year flying and the probability of reattaining status; this held for first-time and prior status earners, with repeat-success patterns consistent with self-learning.",
+    "In the lab, success effects on subsequent effort appeared when goals were challenging but not too easy, and progress raised self-efficacy while successful task completion produced an additional self-efficacy boost beyond progress alone."
+  ],
+  "one_line_summary": "The paper shows that in recurring reward settings, successful goal attainment increases future effort via repeated partial resets and higher self-efficacy, especially when goals are challenging.",
+  "relation_to_prior_work": "extends prior loyalty-program research by focusing on the behavioral impact of successful reward attainment rather than membership alone and by distinguishing recurring-goal dynamics after redemption. It challenges the interpretation that postreward resetting implies no learning, showing evidence consistent with repeated self-learning and self-efficacy updating.",
+  "research_gap": "Prior loyalty-program work largely examined whether program membership affects retention or share of wallet, not how successfully earning a reward changes future effort toward the same recurring goal. Prior evidence on postreward resetting left unclear whether success generates learning that carries into subsequent goal attempts.",
+  "research_question": "How does successfully attaining a reward in a recurring-goal loyalty program affect subsequent effort to attain that same reward again? Do consumers exhibit partial postgoal resetting and repeated increases in baseline effort after success, and are these effects driven by self-learning/self-efficacy under sufficiently challenging goals?"
+}

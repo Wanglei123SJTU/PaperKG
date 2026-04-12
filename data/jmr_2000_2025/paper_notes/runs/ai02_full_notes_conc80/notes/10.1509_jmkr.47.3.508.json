@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper is the first to examine serial position effects in sequential sampling of experiential products, including desirable-only, undesirable-only, and mixed sets.",
+    "It identifies the underlying process as differential memory recall, showing a recency effect for experiential products and a reversal to primacy for nonexperiential products.",
+    "It demonstrates moderators and boundary conditions for these effects, including perceived memory enhancement, concurrent-task load, the position of an undesirable experiential item, and short time delays."
+  ],
+  "context": "The paper studies pre-purchase sequential sampling of experiential goods, mainly flavored beverages and music clips, followed by preference and rating judgments. It also includes a comparison nonexperiential setting using scissors.",
+  "design_and_data": "The authors run five controlled experiments using student and executive MBA participants. Study 1a (N=69) uses a 2x2 design with desirable vs undesirable beverage pairs and a perceived memory-enhancement manipulation; Study 1b (N=90) uses desirable vs undesirable music pairs with a concurrent-task manipulation. Study 2 (N=58) compares desirable experiential music with desirable nonexperiential scissors and collects recall and response-latency process measures. Study 3 (N=78) and Study 4 (N=87) test mixed sequences of two desirable and one undesirable music clip, varying undesirable-item position and introducing short delays.",
+  "focal_constructs": [
+    "experiential product sampling",
+    "serial position effects",
+    "recency effect",
+    "primacy effect",
+    "product desirability and undesirability",
+    "memory recall",
+    "mixed choice sets",
+    "time delay"
+  ],
+  "main_findings": [
+    "When two sampled experiential products were both desirable, participants preferred the second sampled option, but when both were undesirable, participants relatively preferred the first option.",
+    "These outcomes were tied to better recall of the most recently sampled experiential item, and the effects weakened when perceived memory was enhanced or when a concurrent task was added.",
+    "For desirable nonexperiential products, preference showed primacy for the first sampled item; in mixed experiential sets, an undesirable item first amplified preference for the second desirable item, an undesirable item between desirable items shifted preference to the first desirable item, and short delays reversed this shift back toward the second desirable item."
+  ],
+  "one_line_summary": "Across five experiments, sequential sampling of experiential products produced recency-based recall that shaped choice toward the second desirable item but the first undesirable item, with reversals under nonexperiential or delay conditions.",
+  "relation_to_prior_work": "extends prior order-effect research that largely examined nonexperiential, information-based sequences by showing that experiential sampling follows a different memory pattern and yields different choice outcomes.",
+  "research_gap": "Prior sampling research focused mainly on effects of sampling a single experiential item, and serial-order research largely examined nonexperiential contexts. The paper identifies a missing test of how the sequence of multiple experiential samples, including desirable and undesirable items, affects subsequent choice.",
+  "research_question": "How does the sequential order of sampled experiential products affect consumers' subsequent preferences and ratings? The paper tests whether outcomes differ for desirable versus undesirable samples, whether memory-related factors moderate these effects, and whether mixed sets with an undesirable item and short delays change the preference pattern."
+}

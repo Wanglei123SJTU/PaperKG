@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Stephen and Galak (2012) as a specific methodological reference point when discussing copula use in marketing. It explicitly notes that Stephen and Galak treated count outcomes by converting them to continuous variables, then argues for a different approach that directly models dependence between discrete marginals. This citation is part of the paper's method positioning and justification for its own HMM plus discrete-copula framework, not just a passing literature list mention.",
+  "relation_description": "The citing paper refines prior copula-based count modeling exemplified by Stephen and Galak (2012) by proposing a direct discrete copula construction for joint email-open and purchase counts. It positions this as a more suitable and efficient treatment for its distinct discrete marginals (binomial and zero-inflated negative binomial).",
+  "relation_type": "refines"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces an experimental menu-based conjoint framework for mass customization that directly models each customer's portfolio of feature choices across menus.",
+    "Develops a Bayesian constrained random-effects multivariate probit model that allows feature-level heterogeneity, cross-feature utility correlations, scenario covariates, and explicit menu constraints.",
+    "Provides practical Bayesian computation for this setting (including slice sampling and a griddy Metropolis-Hastings step) and demonstrates managerial use in pricing/menu design with a Web-based information service application."
+  ],
+  "context": "The empirical application is an Internet Yellow Pages service developed by a major information and telecommunications provider. Respondents were advertising managers from small and mid-sized businesses evaluating whether to add paid Web listing enhancements to a free basic listing.",
+  "design_and_data": "The study uses a menu-based conjoint experiment with six disguised service features (EL, P1, P2, P3, EP, SP), feature-specific prices, contract commitments (3, 6, 12 months), and discount structures (none, x% for two services, 2x% for three services). A fractional factorial design produced 81 menus arranged into nine sets of nine; each of 360 respondents completed 10 menus, with 9 used for calibration and 1 as holdout. Respondents were randomly recruited by business phone calls, prequalified, and then completed supervised self-administered interviews. The authors estimate aggregate and random-effects constrained MVP models via Bayesian MCMC and compare them with modified multinomial probit models based on converting menu choices to single bundle choices.",
+  "focal_constructs": [
+    "mass customization choice menus",
+    "menu-based conjoint experimentation",
+    "feature-level latent utility",
+    "price sensitivity for optional features",
+    "multi-feature discount structures",
+    "customer heterogeneity",
+    "correlated utilities across features",
+    "constrained menu choices"
+  ],
+  "main_findings": [
+    "The proposed MVP approach outperformed modified MNP alternatives in predictive performance, especially for predicting full feature portfolio compositions, and random-effects MVP performed best.",
+    "Allowing correlation among feature utilities improved prediction of combinations of features, and ignoring menu constraints led to overstated expected revenues with larger uncertainty.",
+    "In the Internet Yellow Pages application, discount structure materially changed feature portfolios and revenues (with larger discounts shifting choices toward premium combinations), while contract commitment length had relatively small revenue impact."
+  ],
+  "one_line_summary": "The paper proposes and validates a Bayesian constrained random-effects MVP method for menu-based conjoint data to estimate feature-level demand and pricing effects in mass customization, illustrated with a Web-based information service.",
+  "relation_to_prior_work": "extends traditional choice-based conjoint and prior aggregate MVP work by modeling constrained menu-based multiple feature selection with random effects and by empirically comparing this feature-level approach to single-choice bundle-conversion models.",
+  "research_gap": "Traditional conjoint and multinomial choice approaches are built for choosing one preconfigured product with one total price, not for menu tasks where customers simultaneously choose multiple individually priced features. The paper identifies a need for methods that preserve this multiple-choice structure while handling feature constraints, customer heterogeneity, and correlated utilities across features.",
+  "research_question": "How can firms model and predict customer demand when customers choose portfolios of individually priced features from experimental choice menus rather than selecting a single preconfigured product? Can a Bayesian constrained random-effects MVP framework recover feature preferences and price sensitivities, incorporate menu constraints and heterogeneity, and provide better predictive performance and pricing insight than converted single-choice alternatives?"
+}

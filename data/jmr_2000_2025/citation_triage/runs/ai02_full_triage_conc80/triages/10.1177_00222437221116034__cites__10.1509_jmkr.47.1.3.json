@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s design explicitly states it estimates a random-effects MNL with “endogeneity control functions,” while the cited paper’s core contribution is a control-function method for endogeneity in discrete/mixed logit consumer choice models. This direct method overlap suggests the citation is likely being used as a substantive estimation reference rather than a generic mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

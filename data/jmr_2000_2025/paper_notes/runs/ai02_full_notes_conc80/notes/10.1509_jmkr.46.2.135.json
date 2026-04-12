@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Develops five theoretical cases of competition based on whether consumers value quality and/or network size, with different predictions for market efficiency.",
+    "Provides a unified empirical comparison of quality and network effects on market-share outcomes across the same set of high-tech categories, which the authors state prior marketing studies had not explicitly done.",
+    "Proposes and empirically tests that network effects can positively interact with quality, so network effects may enhance rather than necessarily undermine market efficiency."
+  ],
+  "context": "The paper studies personal-computer-related high-tech markets, mainly software categories such as operating systems, word processors, spreadsheets, browsers, and internet service providers, plus microprocessors. The empirical setting is historical category competition in the 1980s and 1990s where network effects are expected to be strong.",
+  "design_and_data": "The authors assemble annual historical data for 19 product markets, with category-specific windows roughly from 1982 to 1999. Market-share data come mainly from IDC and Dataquest, supplemented by archival sources when needed. Quality is measured from expert reviews in PC Magazine, PC/Computing, PC World, and Macworld; textual reviews were content-analyzed by two trained raters (87% interrater reliability) into annual scores. Network size is measured as accumulated market share over the prior three years (with checks at four and five years), and evidence is analyzed via graphical and categorical switch analyses, logit and discrete-time hazard models of leadership switches, pooled share regressions (with price and growth controls when available), and a Granger-causality test.",
+  "focal_constructs": [
+    "network effects",
+    "product quality",
+    "market share leadership",
+    "market efficiency",
+    "path dependence and lock-in",
+    "first-mover advantage",
+    "quality-network interaction"
+  ],
+  "main_findings": [
+    "Market-share leadership changes frequently across categories, with an average leadership duration of 3.8 years.",
+    "Quality dynamics are strongly linked to leadership changes: 88% of share switches are associated with a quality switch (current or prior) or with the challenger already having superior quality.",
+    "Both network size and quality positively affect market share, but quality is the stronger driver of leadership change, and the positive quality x network interaction indicates network effects can enhance market efficiency."
+  ],
+  "one_line_summary": "Using historical data from 19 PC high-tech categories, the paper finds that network effects matter but quality more strongly drives market-share leadership, so markets are generally efficient rather than locked into inferior standards.",
+  "relation_to_prior_work": "challenges claims that network effects typically lock high-tech markets into inferior standards by showing broad evidence that quality-led brands tend to become market-share leaders, and it refines prior marketing work that mostly studied network effects in isolation.",
+  "research_gap": "The authors argue that prior marketing research had examined the presence, nature, or diffusion role of network effects but had not explicitly tested the relative importance of quality versus network effects in one unified framework on the same categories. As a result, evidence on whether high-tech markets are efficient or perverse was limited.",
+  "research_question": "Do network effects in high-tech markets swamp consumers' responsiveness to product quality, or do better-quality brands ultimately win? How do quality and network effects interact in shaping market-share flows and leadership switches, and what does that imply for market efficiency?"
+}

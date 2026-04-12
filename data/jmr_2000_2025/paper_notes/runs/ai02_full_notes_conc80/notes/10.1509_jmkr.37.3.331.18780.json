@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The article directly compares three learning accounts of brand-quality association formation: a direct association spreading-activation model, an ACT-R spreading-activation model, and a least mean squares (LMS) connectionist model.",
+    "Across five studies, it provides evidence that predictive brand associations are learned through cue competition and error-driven updating, as specified by the LMS model.",
+    "It shows that subbranding and ingredient-branding strategies can either protect brands from dilution or promote dilution, depending on how quality information is distributed across brand cues."
+  ],
+  "context": "The paper studies portfolio-branding decisions in which products carry family brands, subbrands, and ingredient brands. Empirical settings include controlled learning tasks about motorcycle product lines and lab taste tests with brownies, chocolate chips, muffins, and low-fat baked goods.",
+  "design_and_data": "The evidence comes from five experiments. Studies 1-3 use written historical quality information for unfamiliar motorcycle brands and manipulate portfolio quality composition under family-brand versus family-plus-subbrand naming, with bid prices and quality-related ratings as outcomes. Studies 4-5 use experiential taste tests with branded food products to examine joint-branding and ingredient-branding sequences, then measure expected quality and ingredient preference judgments. Samples were introductory marketing students (N=95, 28, 68, 45, and 48).",
+  "focal_constructs": [
+    "brand-quality associations",
+    "predictive value of brand cues",
+    "family brands",
+    "subbrands",
+    "ingredient branding",
+    "joint branding",
+    "brand dilution",
+    "LMS cue competition"
+  ],
+  "main_findings": [
+    "When products were identified by a family brand, declines in portfolio quality reduced the family brand's quality value.",
+    "When subbrands identified high-quality items, lowering the quality of family-brand-only items increased subbrand value, and when subbrands identified low-quality items, family-brand quality value was protected; these patterns supported LMS predictions over spreading-activation alternatives.",
+    "Joint branding increased initial expected product quality, but consuming a joint-branded product reduced the ingredient brand's later incremental value, and order effects in ingredient learning matched LMS predictions rather than DA or ACT-R."
+  ],
+  "one_line_summary": "Across five experiments, the paper finds that consumers learn brand-quality associations via LMS-style error-driven cue competition, so subbranding and ingredient-branding can either protect or dilute brand equity depending on cue structure.",
+  "relation_to_prior_work": "challenges the sufficiency of spreading-activation brand-memory models for explaining predictive brand-quality learning in portfolio branding settings. It introduces a connectionist LMS account as a better fit to observed subbranding and ingredient-branding effects. It also reframes prior brand-equity thinking by separating learning to recall from learning to value.",
+  "research_gap": "Prior brand-association work largely applies spreading-activation memory logic that treats cues as independently additive, but this leaves unclear how consumers learn predictive quality associations when multiple brand cues co-occur in portfolio branding. The paper addresses this unresolved issue by testing whether predictive learning is independent or competitive across cues.",
+  "research_question": "How do consumers learn predictive associations between family brands, subbrands, ingredient brands, and product quality when multiple cues identify products? Which model of learning - direct association, ACT-R spreading activation, or LMS connectionist learning - best explains these associations and their implications for brand dilution under portfolio-branding strategies?"
+}

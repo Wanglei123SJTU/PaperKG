@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the methods/setup section, the authors explicitly state that their study follows an incentive-alignment scheme typical of CBC studies and cite Ding, Grewal, and Liechty (2005) in that sentence. They then describe a real-stakes random-winner/probabilistic-realization design, indicating procedural borrowing from that incentive-alignment tradition. Although the citation is brief and grouped with Ding (2007), it has a concrete methodological function in the experiment design rather than being only a generic background mention.",
+  "relation_description": "The citing paper applies the incentive-aligned conjoint design logic from Ding, Grewal, and Liechty (2005) to its own CBC data-collection setup. It uses that prior work as methodological precedent for implementing real economic consequences, while focusing its main contribution on a different modeling problem (eye-tracking-based bounded rationality).",
+  "relation_type": "applies"
+}

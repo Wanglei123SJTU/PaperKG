@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides evidence that the textual content of earlier replies in online discussion threads dynamically shapes which product attributes later respondents discuss.",
+    "Shows that affiliation motives are sufficient to produce conformity in attribute mentions, including repetition of noncritical information that can dilute diagnostic information.",
+    "Extends hidden-profile and information-cascade insights to online advice forums by showing respondents can follow other respondents more than the advice seeker's stated criteria, sometimes yielding suboptimal recommendations."
+  ],
+  "context": "The paper studies online consumer discussion forums where advice seekers ask for help choosing among options, including TripAdvisor and DISboards threads about hotels and restaurants, plus experimental scenarios in parking, restaurant, and resort choices. The focal setting is sequential reply threads where the seeker often states decision criteria explicitly.",
+  "design_and_data": "The authors first analyze 336 posts from 88 real discussion threads (Seattle, Washington DC, and Orlando; hotels and restaurants) from 2011-2013, coding whether attributes were mentioned by the query, first respondent, second respondent, and third respondent, and estimating repeated-measures logistic models. They then run four experiments: Study 1 (n = 80 students/alumni), Study 2 (n = 206 undergraduates; analysis sample 194), Study 3 (n = 156 undergraduates; analysis sample 150), and Study 4 (n = 195 MTurk adults). Across experiments, they manipulate whether prior responses mention critical versus noncritical attributes, vary number of prior responses, and manipulate or measure affiliation goals/desire to affiliate. Key outcomes are open-ended attribute mentions and, in Study 4, public recommendations.",
+  "focal_constructs": [
+    "online discussion forum content",
+    "attribute repetition",
+    "conformity versus counterconformity",
+    "desire for affiliation",
+    "critical versus noncritical attributes",
+    "advice seeker decision criteria",
+    "conversational norms",
+    "suboptimal recommendation"
+  ],
+  "main_findings": [
+    "Across three real forums, later respondents were significantly more likely to mention attributes that earlier respondents had mentioned, often with effects as strong as or stronger than the advice seeker's query.",
+    "In experiments, respondents repeated noncritical attributes when prior respondents mentioned them, even when critical information was stated by the advice seeker and even when prior replies had already provided complete information.",
+    "Affiliation drives this bias: conformity effects were stronger under affiliation goals or higher measured desire to affiliate, attenuated under an accuracy goal, and in Study 4 high-affiliation participants were more likely to recommend the suboptimal option when prior respondents did so."
+  ],
+  "one_line_summary": "The paper shows that in online advice threads, early respondents can drive later discussion content as much as or more than the original question because affiliation motives induce repetition of previously mentioned, even noncritical, attributes.",
+  "relation_to_prior_work": "extends prior online WOM and group decision-making research by moving from quantitative review metrics to sequential textual content and showing affiliation-driven conformity in attribute mentions, including cases where noncritical information is repeated and influences recommendations.",
+  "research_gap": "Prior research on systematic biases in online consumer content focused mainly on quantitative metrics such as rating valence, variance, and volume, with much less attention to textual discussion content. Consequently, it was unclear how earlier replies in online advice threads influence later attribute mentions and whether such influence helps or biases the information provided to advice seekers.",
+  "research_question": "When consumers respond to advice-seeking posts in online discussion forums, is subsequent content driven more by the advice seeker's stated criteria or by earlier respondents' content? The paper also asks when and why respondents repeat previously mentioned attributes rather than contribute unmentioned information that is more diagnostic for the advice seeker."
+}

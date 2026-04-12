@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing note says this paper “shifts attention from the dominant position/keyword/attribution focus in prior paid-search research,” and the cited paper is exactly a paid-search keyword conversion/position-endogeneity model, making it a plausible direct prior-work anchor rather than a generic mention. Both are JMR paid-search modeling papers, and the reference is DOI-matched (10.1509/jmr.10.0354), which supports a precise intended citation. Given this likely conceptual contrast/foundation role, it should be kept for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

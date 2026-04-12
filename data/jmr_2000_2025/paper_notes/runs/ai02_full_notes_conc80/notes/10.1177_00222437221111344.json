@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces combinatory recommendations as a novel, actionable cue that consumption advisers can use to signal category expertise.",
+    "Shows that perceived depth of knowledge includes understanding interactions across attributes of multiple products, not only knowledge of attributes in isolation.",
+    "Demonstrates meaningful downstream persuasive effects of this cue on product attitudes and real ad performance, including a field Instagram test."
+  ],
+  "context": "The paper studies consumer responses to unsolicited advice from consumption advisers such as chefs, interior designers, store associates, and social media influencers across domains including food, wall art, music, and skin care. The setting includes both controlled experiments and a real Instagram advertising environment for a skin-care advice platform.",
+  "design_and_data": "The authors report nine studies using randomized between-subject designs in lab and online samples (MTurk and undergraduate participants) plus one field experiment. Manipulations vary recommendation format, especially combinatory (joint-use compatibility) versus nonjoint alternatives (substitute or single-item), and test moderators such as explicitness of interaction language and temporal/spatial distance between consumption acts. Key measures include perceived expertise, perceived depth and breadth of knowledge, helpfulness, and product attitudes, with mediation and moderated mediation analyses. The field study is an Instagram A/B ad test comparing creatives with versus without combinatory recommendation language and measuring click-through rate, sign-up rate, and cost per click.",
+  "focal_constructs": [
+    "combinatory recommendations",
+    "perceived expertise",
+    "depth of knowledge",
+    "breadth of knowledge",
+    "product compatibility",
+    "persuasiveness",
+    "product attitudes",
+    "temporal and spatial distance of consumption acts"
+  ],
+  "main_findings": [
+    "Combinatory recommendations (joint-use advice) generally signal greater expertise than substitute or single-item recommendations, and this difference is tied to higher perceived depth of knowledge rather than breadth.",
+    "The expertise-signaling effect does not depend on recommendation helpfulness and appears for both positive and negative combinatory advice, but it is stronger when compatibility is stated explicitly and weaker when recommended consumption acts are more temporally or spatially distant.",
+    "Higher perceived expertise from combinatory recommendations improves attitudes toward recommended products and subsequent unrelated recommendations, and in an Instagram field test ads with combinatory language produced higher click-through rates and lower cost per click (with a marginally higher sign-up rate)."
+  ],
+  "one_line_summary": "Across nine studies, the paper finds that recommending products as compatible for joint use signals adviser expertise and increases persuasion, especially when interaction cues are explicit and close in use context.",
+  "relation_to_prior_work": "extends signaling and persuasion research by identifying recommendation structure itself as an expertise cue and by specifying when this cue is stronger or weaker. It refines consumer expertise theory by showing that perceived knowledge depth includes inferred ability to evaluate interactions across products. It extends bundling and curation work by explaining favorable responses through inferences about curator expertise, not only evaluations of bundled items.",
+  "research_gap": "Prior work had documented several expertise cues but had not clearly established whether giving joint-use compatibility recommendations itself functions as an expertise signal. Related bundling and curation research mostly emphasized evaluations of bundled items, leaving underexplored how these recommendations shape perceptions of the recommender and downstream persuasion.",
+  "research_question": "Do unsolicited combinatory recommendations, compared with nonjoint-use recommendations involving similar products, signal greater adviser expertise to consumers? If so, is this effect driven by perceived depth of knowledge, when is it strengthened or weakened, and does it improve attitudes toward recommended and subsequent products?"
+}

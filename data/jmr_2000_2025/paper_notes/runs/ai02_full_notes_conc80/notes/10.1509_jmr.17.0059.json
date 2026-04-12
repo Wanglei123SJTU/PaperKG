@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper introduces the manufacturer's strategic contracting response into showrooming analysis and shows that showrooming need not be a pure threat to B&M retailers.",
+    "It derives equilibrium conditions under which showrooming raises B&M retailer profit and identifies parameter regions where both the B&M retailer and manufacturer gain.",
+    "It demonstrates robustness of this insight across multiple model extensions, including imperfect or endogenous service monitoring and wholesale-price-only contracting with differentiated retailers."
+  ],
+  "context": "The setting is a vertical channel with one manufacturer, one brick-and-mortar (B&M) retailer that can provide fit-revealing informational service, and one online retailer that cannot provide that service in the main model. Consumers often need in-store information to identify a fitting variant, then may purchase online at a lower price.",
+  "design_and_data": "The paper is analytical and uses game-theoretic channel models rather than empirical data. In the main model, the manufacturer chooses contract terms (wholesale price and possible service compensation), the B&M retailer chooses price and costly service, the online retailer chooses price, and consumers may or may not be able to showroom. The authors solve equilibria with and without showrooming and compare profits for the B&M retailer, manufacturer, and industry as functions of service cost (k) and service-detection rate (r). They also analyze extensions: endogenous detection, alternative service cost functions, retailer differentiation, wholesale-price-only contracts, wholesale price discrimination, online returns, and offline shopping costs.",
+  "focal_constructs": [
+    "showrooming",
+    "retail informational service",
+    "manufacturer-retailer contract endogeneity",
+    "service compensation with imperfect monitoring",
+    "wholesale pricing incentives",
+    "service free riding",
+    "double marginalization"
+  ],
+  "main_findings": [
+    "When manufacturer contracting is endogenous, consumer ability to showroom can increase the B&M retailer's equilibrium profit if service cost is not too high and the manufacturer's service-detection rate is in an intermediate range.",
+    "Showrooming can increase manufacturer profit when detection is relatively high (in the main model, a sufficient condition is r > 8k), and for some parameter regions both manufacturer and B&M retailer are better off.",
+    "With retailer differentiation, the positive B&M profit effect can arise even under wholesale-price-only contracts, and it remains possible when the manufacturer can set different wholesale prices across channels."
+  ],
+  "one_line_summary": "The paper shows with channel game theory that showrooming can raise, rather than reduce, B&M retailer profit because manufacturers adjust service incentives, and under some conditions both the retailer and manufacturer gain.",
+  "relation_to_prior_work": "extends prior showrooming research that largely starts from the premise that showrooming hurts B&M retailers by explicitly modeling the manufacturer's strategic response in channel contracts. It also differs from coordination-focused service literature by examining non-fully coordinated settings and retailer-profit consequences rather than only first-best manufacturer outcomes.",
+  "research_gap": "Prior practitioner and academic discussions of showrooming mostly emphasize it as harmful to B&M retailers and focus on anti-showrooming tactics. The paper argues that this view omits the manufacturer's role in valuing and compensating retail informational service, leaving open whether showrooming can improve B&M profitability when contracts are endogenous.",
+  "research_question": "Does consumer ability to showroom necessarily hurt a B&M retailer once the manufacturer's contracting decisions are modeled endogenously? Under what conditions on service cost and service monitoring can manufacturer incentives make showrooming increase B&M retailer profit, and possibly manufacturer profit as well?"
+}

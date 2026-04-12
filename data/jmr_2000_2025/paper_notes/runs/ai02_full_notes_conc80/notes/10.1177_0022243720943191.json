@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper shows that customization effects differ by brand tier: luxury brands can benefit from customization, but too much consumer design input can reduce value.",
+    "It identifies a core tension in luxury customization between consumers' self-expression and preservation of designer-driven signaling/status value.",
+    "It argues that managers should calibrate both the amount and type of design freedom, and shows that brand prominence cues (logo vs. signature) alter preferred design freedom in luxury contexts."
+  ],
+  "context": "The paper is set in luxury fashion and accessories, where brands are introducing online self-customization tools (e.g., sneakers, bags, sunglasses, backpacks). The empirical settings compare luxury and mainstream brands using European student samples and shoppers in Milan's fashion district.",
+  "design_and_data": "The authors run four between-subjects experiments. Study 1 (n=317 students) uses a 2 x 3 design (brand: Adidas vs. Hermes; design freedom: none/low/high) for sneakers and measures purchase intentions. Study 2 (n=297 women shoppers in Milan) uses a 2 x 2 design (brand: Zara vs. Chanel; low/high design freedom) for bags and tests moderation by measured fashion consciousness, including Johnson-Neyman floodlight analysis. Study 3 (n=294 male students) and Study 4 (n=249 female students) examine desired design freedom in 2 x 2 designs for mainstream vs. luxury brands, manipulating brand logo prominence (Study 3) and brand signature prominence while controlling logo visibility (Study 4).",
+  "focal_constructs": [
+    "self-customization",
+    "design freedom",
+    "luxury versus mainstream brand type",
+    "purchase intentions",
+    "fashion consciousness",
+    "status signaling value",
+    "brand logo prominence",
+    "brand signature prominence"
+  ],
+  "main_findings": [
+    "For mainstream brands, more design freedom increases purchase intentions, but for luxury brands the effect is non-linear and declines at high design freedom (inverted U pattern).",
+    "At high design freedom, fashion consciousness decreases purchase intentions for luxury customization and increases purchase intentions for mainstream customization.",
+    "For luxury products, prominent logos increase desired design freedom, whereas high brand-signature prominence decreases desired design freedom; these prominence effects are weak or not significant for mainstream products."
+  ],
+  "one_line_summary": "Across four experiments, the paper shows that customization must be more constrained in luxury than in mainstream brands because excessive design freedom can erode luxury signaling value, with effects shaped by fashion consciousness and brand prominence cues.",
+  "relation_to_prior_work": "extends mass-customization research by showing that the commonly reported positive effect of greater design freedom does not uniformly apply in luxury branding contexts. It introduces a signaling-based account and shows that which brand cue is made prominent (logo vs. signature) changes desired customization freedom for luxury products.",
+  "research_gap": "Prior customization findings largely come from non-luxury categories and therefore do not resolve whether customization strengthens or harms luxury brand value. The paper explicitly notes that the impact of luxury customization initiatives on brand equity and signaling is not well understood.",
+  "research_question": "Can luxury brands benefit from offering self-customization, and if so, how much design freedom should they give consumers? More specifically, does increasing design freedom have different effects for luxury versus mainstream brands because luxury consumers also value designer expertise and status signaling?"
+}

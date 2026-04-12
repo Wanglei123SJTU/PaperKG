@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a general method to infer WTP in English auctions from two no-regret bidding premises (no bidder bids above WTP, and no bidder lets a rival win at a beatable price) without imposing restrictive equilibrium or maximand assumptions.",
+    "It models WTP as a combination of pure product valuation and auction-environment effects, including bidder and seller characteristics, bidder/item competition, and heterogeneity through interactions.",
+    "It demonstrates a managerial application in which sellers can simulate how concurrent similar listings change bidders' WTP and expected auction revenue, including settings with a buy-it-now option."
+  ],
+  "context": "The study examines online notebook computer auctions on a major Korean Internet auction site during July-October 2001. The platform uses ascending first-price (English) auctions without proxy bidding and allows a buy-it-now posted-price option.",
+  "design_and_data": "The data contain 21,952 bids across 2,322 notebook auctions, with product attributes, bidder demographics and histories, seller reputation measures, auction design variables, and competition measures. The authors estimate a parametric ln(WTP) model using interval restrictions implied by observed bids under two behavioral premises, and they allow for auctions with and without exercised buy-it-now options. They construct latent bidders by identifying bidders active in concurrently open, closely matching items and estimate models with observed bidders only (14,051 observations) and with latent bidders included (25,827 observations). They also simulate second-highest WTP and regress observed final bids on simulated second-highest WTP to assess fit.",
+  "focal_constructs": [
+    "consumer willingness to pay (WTP)",
+    "ascending first-price (English) auctions",
+    "no-regret bidding rule",
+    "latent bidders",
+    "market thickness (breadth and depth)",
+    "buy-it-now option",
+    "bidder experience and search behavior",
+    "seller reputation"
+  ],
+  "main_findings": [
+    "Most notebook product characteristics significantly affect WTP in expected ways.",
+    "WTP declines as more similar items are concurrently listed, and it declines further when those similar items are of the same brand.",
+    "More extensive prior site surfing and bidding/winning histories are associated with lower WTP, indicating roles for search costs and bidder experience."
+  ],
+  "one_line_summary": "Using Korean online notebook auction data, the paper estimates WTP from bid bounds under minimal bidding assumptions and finds that concurrent-item competition and bidder experience reduce willingness to pay.",
+  "relation_to_prior_work": "extends prior auction empirics by recovering WTP with minimal behavioral restrictions and by explicitly incorporating latent bidders and concurrent-item competition measures that are relatively unexplored in earlier models.",
+  "research_gap": "The paper states that auction-based valuation methods often cannot cleanly separate intrinsic product value from auction-market effects and typically depend on restrictive equilibrium and bidder-maximand assumptions, especially problematic with buy-it-now mechanisms and asymmetric settings. It also highlights limited empirical treatment of competition among concurrent bidders and items and bidder heterogeneity in WTP estimation.",
+  "research_question": "How can consumer WTP be inferred from English auction bids when observed bids are only partial information about valuations and bidder strategies/equilibrium processes are not fully specified? The paper also asks how auction-market factors, especially competition among concurrent items and bidders, together with bidder and seller characteristics, shape WTP beyond pure product features."
+}

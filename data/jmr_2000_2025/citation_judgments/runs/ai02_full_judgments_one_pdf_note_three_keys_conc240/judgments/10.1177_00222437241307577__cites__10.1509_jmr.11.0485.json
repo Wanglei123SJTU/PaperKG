@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the citing paper, the Kishore et al. citation is tied to a concrete design decision rather than a broad literature-list mention. The authors explicitly invoke it when explaining how they kept contest conditions equivalent across treatment groups (same total prize money and number of winners), which is central to their causal comparison. This indicates a meaningful methodological use of the cited study's design logic, even though the focal phenomenon here is sales contests rather than bonuses versus commissions.",
+  "relation_description": "The citing paper uses Kishore et al. (2013) as a methodological precedent for incentive-equivalent treatment design when comparing alternative compensation/contest schemes. It applies that equivalence principle to its own field experiment contrasting single-segment and multi-segment contests.",
+  "relation_type": "applies"
+}

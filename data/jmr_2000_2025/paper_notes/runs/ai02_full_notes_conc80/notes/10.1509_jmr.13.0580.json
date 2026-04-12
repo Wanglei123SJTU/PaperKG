@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides updated and broader empirical generalizations of marketing communication carryover effects across mass media advertising, targeted advertising, and personal selling.",
+    "Introduces and applies model-specific derivations to correctly compute long-term share of total effect (LSTE) across common response functional forms and carryover model classes, instead of assuming carryover coefficients always equal long-term share.",
+    "Adds a meta-analysis of 90% implied duration intervals and shows how specification choices such as carryover model type and data interval affect estimated carryover."
+  ],
+  "context": "The paper studies firm-level traditional outbound marketing communications effectiveness, including mass media advertising, targeted advertising (e.g., direct mail/online/email), and personal selling. The evidence spans multiple industries and regions (including pharma and nonpharma products) from studies covering 1962-2015.",
+  "design_and_data": "The authors compile 918 unambiguous firm-level carryover observations from 114 papers and 168 distinct datasets, using econometric field studies and field experiments and excluding nonstationary, ambiguous, and anomalous cases per stated rules. They derive model-consistent LSTE values across lagged-DV (Koyck/PAM), stock, delayed-maximum-lag/distributed-lag, GDL, VAR, and experimental contexts. A second dataset contains 863 derivable 90% implied duration intervals (in months). They estimate hierarchical linear models with nesting (estimates within models within datasets), using 23 covariates plus selected interactions.",
+  "focal_constructs": [
+    "marketing communication carryover effects",
+    "long-term share of total effect (LSTE)",
+    "90% implied duration interval (IDI)",
+    "mass media advertising",
+    "targeted advertising",
+    "personal selling",
+    "carryover model type",
+    "data interval aggregation bias"
+  ],
+  "main_findings": [
+    "The average corrected LSTE across all observations is 0.607.",
+    "Carryover is larger for personal selling and targeted advertising than for mass media advertising; reported mean LSTE values are about 0.684 (personal selling), about 0.65 (targeted advertising), and 0.523 (mass media advertising).",
+    "Median 90% implied duration intervals are 12.6 months for personal selling, 2.0 months for targeted advertising, and 3.4 months for mass media advertising, and data-interval aggregation bias is present and is accentuated when stock models are used."
+  ],
+  "one_line_summary": "Using a large 1962-2015 meta-analytic database, the paper quantifies and explains cross-study variation in marketing communication carryover magnitude and duration across instruments and model forms.",
+  "relation_to_prior_work": "extends earlier carryover meta-analyses that were older, advertising-centric, and largely limited to Koyck/PAM structures by adding a larger and more recent multi-instrument database and broader model classes. It also corrects prior practice that treated carryover coefficients as long-term share in settings where that equivalence does not hold.",
+  "research_gap": "Prior formal carryover meta-analyses were outdated, mostly limited to mass media advertising and Koyck-type models, and did not cover personal selling or targeted advertising carryover estimates. In addition, 90% duration intervals had not been freshly meta-analyzed, and many prior long-term effect calculations did not adjust for model-form differences in deriving carryover shares.",
+  "research_question": "What are reliable, up-to-date empirical generalizations for the magnitude and duration of marketing communication carryover effects across mass media advertising, targeted advertising, and personal selling? How do these carryover estimates vary with market/data conditions and with modeling choices such as response functional form, carryover model type, lag structure, and data interval?"
+}

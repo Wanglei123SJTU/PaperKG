@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The study introduces informational capital market feedback and managerial learning theories into marketing decision making, proposing unpredicted approval-event returns as an additional signal for setting early-stage marketing actions.",
+    "It is presented as the first study to decompose abnormal returns at a specific product-related event into manager-predicted and unpredicted components and link the unpredicted component to subsequent product-market strategy.",
+    "It adds to pharmaceutical marketing evidence by showing that the stronger sales elasticity of detailing versus DTC is especially pronounced early in the drug life cycle when unpredicted abnormal approval returns are high."
+  ],
+  "context": "The empirical setting is the U.S. pharmaceutical industry, focusing on FDA new drug approval announcements and postapproval promotion choices. The marketing actions studied are drug-level detailing and direct-to-consumer advertising after approval and launch.",
+  "design_and_data": "The authors assemble U.S. data for 1997-2009 by combining Pharmaprojects, IMS Health, CRSP, Compustat, IBES, Factiva/LexisNexis, FDA/company disclosures, and insider trading records. Their final sample for event and budget analyses is 254 approved prescription drugs from 65 firms, after excluding overlapping major corporate events around approval dates and requiring postlaunch data. They compute approval-event CARs with a Carhart four-factor event study and decompose CAR into predicted and unpredicted components via a mixed model with firm random effects and category/year fixed effects. They then estimate joint postapproval advertising budget/mix equations with instrumented UCAR using simulated maximum likelihood, and use drug-level VAR impulse responses from monthly postlaunch advertising-sales series to test whether UCAR predicts advertising effectiveness.",
+  "focal_constructs": [
+    "unpredicted cumulative abnormal return (UCAR)",
+    "predicted cumulative abnormal return (PCAR)",
+    "informational market feedback",
+    "managerial learning",
+    "postapproval advertising budget",
+    "detailing spending",
+    "direct-to-consumer (DTC) advertising",
+    "advertising effectiveness on sales"
+  ],
+  "main_findings": [
+    "Early postapproval advertising spending is higher when the unpredicted component of abnormal approval returns is higher.",
+    "The budget response is more pronounced for detailing than for DTC advertising, with higher UCAR associated with a lower DTC-to-detailing ratio.",
+    "Postlaunch advertising has stronger sales effects when UCAR is higher, and this UCAR-related lift is especially strong for detailing and persists for at least about four months after launch."
+  ],
+  "one_line_summary": "Using U.S. pharmaceutical approvals, the paper shows that firms learn from the unpredicted part of stock market reactions to FDA approval, increasing early advertising - especially detailing - and obtaining stronger subsequent advertising-to-sales effects.",
+  "relation_to_prior_work": "introduces the price informativeness and managerial learning perspective from financial economics into the marketing-finance interface by treating capital market reactions as information for subsequent marketing choices. It goes beyond prior work centered on valuation effects or aggregate VAR feedback by separating manager-predicted from unpredicted event returns at a product-specific approval and linking the unpredicted part to drug-level advertising decisions and effectiveness.",
+  "research_gap": "Prior marketing-finance studies mainly examine how marketing actions affect stock market outcomes, and feedback analyses generally do not model stock returns as informational signals that managers learn from when setting later marketing actions. The literature also had not clearly separated manager-predicted versus unpredicted portions of product-event abnormal returns when studying postevent marketing strategy.",
+  "research_question": "If capital markets react with abnormal stock returns to new product development success, do managers use that reaction to guide subsequent marketing decisions? Specifically, does the unpredicted-by-manager component of FDA approval abnormal returns affect early postapproval advertising budgets and the sales effectiveness of postlaunch advertising?"
+}

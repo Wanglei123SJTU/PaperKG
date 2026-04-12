@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces and defines \"perverse halo\" as negative online-chatter spillover from one automobile nameplate to another.",
+    "It provides a daily, nameplate-level analysis of recall-related spillovers across 48 nameplates, rather than focusing only on firm-level outcomes of recalled brands.",
+    "It connects social-media spillovers to managerial action (apology advertising) and downstream performance outcomes (sales and stock market returns)."
+  ],
+  "context": "The study is set in the U.S. automobile industry during a period of intense recalls (2009-2010), examining Toyota, Honda, Nissan, and Chrysler nameplates. It focuses on social-media chatter in forums, blogs, and review sites around recall or acceleration concerns.",
+  "design_and_data": "The authors assemble a 470-day daily panel (January 1, 2009 to April 15, 2010) of online chatter for 48 nameplates across four brands, with recall data from NHTSA and additional data on media citations, advertising, key developments, and crisis events. Chatter was scraped from about 1,000 social-media sources and content-coded at sentence level; the authors manually linked posts to nameplates and report about 80% algorithm accuracy versus human coding for negative chatter. They estimate 17 segment-level VARX models and use generalized impulse response functions to quantify cross-nameplate spillovers and dynamics, treating recalls as exogenous shocks after checks (including Granger tests). They then run aggregate analyses using monthly nameplate-level panel VAR for sales and daily brand-level VARX for abnormal stock returns.",
+  "focal_constructs": [
+    "perverse halo",
+    "negative online chatter",
+    "product recalls",
+    "nameplate-level spillover",
+    "country of origin",
+    "brand dominance (market share)",
+    "apology advertising",
+    "sales and abnormal stock returns"
+  ],
+  "main_findings": [
+    "Perverse halo in negative chatter is extensive, appearing both within brands and across brands, with low exclusivity among the Japanese brands.",
+    "Spillovers are strongest between brands from the same country and are generally stronger from more dominant brands to less dominant brands than vice versa.",
+    "Toyota apology advertising about recalls increased concerns for Toyota and rivals, and chatter spillovers worsened downstream outcomes, including lower sales and stock performance; online chatter amplified recall-related sales damage by about 4.5 times."
+  ],
+  "one_line_summary": "Using daily social-media and recall data in U.S. autos, the paper shows that negative chatter about one recalled nameplate spills over to rivals, is patterned by country of origin and brand dominance, and damages sales and stock outcomes.",
+  "relation_to_prior_work": "extends prior product-recall research that mostly examined recalled firms by analyzing rival spillovers in daily, nameplate-level social-media chatter and linking those spillovers to downstream sales and stock performance.",
+  "research_gap": "Prior recall research mostly focused on the recalled firm's own outcomes, with scarce evidence on how recalls affect rival brands. The paper argues that little is known about daily, nameplate-level spillover dynamics in online chatter and their downstream consequences.",
+  "research_question": "Do product recalls generate a perverse halo in social media, such that negative chatter about one nameplate increases negative chatter about other nameplates within and across brands? How do country of origin and brand dominance shape this spillover, and what are its wear-in and wear-out dynamics? What role does apology advertising play, and do these chatter spillovers affect downstream sales and stock market performance?"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper shows that sampling a cue high in incentive value increases subsequent reward-seeking, not only for similar consumption cues but also for other rewarding options.",
+    "It proposes and tests a general-motivation account of reverse alliesthesia, showing attenuation when the activated state is satiated and stronger effects for people high on BAS sensitivity.",
+    "It extends reverse alliesthesia evidence beyond gustatory sampling by showing that appetitive odors increase and aversive odors decrease later reward-seeking behavior."
+  ],
+  "context": "The paper is set in consumer marketing contexts where firms use sampling promotions, especially food and beverage sampling. The studies use laboratory tasks with consumption choices and product desirability judgments involving drinks, chocolate, and odors.",
+  "design_and_data": "The authors run four randomized experiments. Experiment 1 (N = 85) uses a cue present versus absent design in which participants either sample Hawaiian Punch or not, then choose drink size and number of food items. Experiment 2 (N = 284) uses a 2 x 2 design (high vs. low incentive-value chocolate x low vs. high satiation via an unexpected dollar reward) plus a no-sampling control, and measures actual Pepsi consumption during a video task. Experiment 3 (N = 151) uses cue present versus absent with measured BAS sensitivity and measures both Pepsi consumption and desirability ratings for hedonic, utilitarian, and on-sale products; Experiment 4 (N = 159) manipulates odor incentive value (appetitive Febreze vs. aversive ammonia vs. neutral water) and measures Pepsi consumption.",
+  "focal_constructs": [
+    "product sampling",
+    "incentive value",
+    "reverse alliesthesia",
+    "general motivational state",
+    "reward-seeking behaviors",
+    "behavioral activation system (BAS) sensitivity",
+    "gustatory and olfactory cues"
+  ],
+  "main_findings": [
+    "Sampling high-incentive cues increased subsequent reward-seeking, including larger selected drink size, more food selected, and greater actual Pepsi consumption relative to no-sampling or lower-incentive conditions.",
+    "The effect pattern supports a general motivation account: it was attenuated when an intervening unexpected reward was used to satiate motivation, and it was stronger among participants high in BAS sensitivity.",
+    "Generalization effects appeared for rewarding options beyond the sampled cue (hedonic food, hedonic nonfood, and on-sale items), while utilitarian nonrewarding items were unaffected; appetitive odors increased and aversive odors decreased subsequent Pepsi consumption versus neutral odor."
+  ],
+  "one_line_summary": "Across four experiments, the paper finds that sampling high-incentive gustatory or olfactory cues activates a general reward-seeking state that broadens subsequent pursuit of rewarding options, while aversive cues dampen it.",
+  "relation_to_prior_work": "extends sparse reverse alliesthesia research by adjudicating cue-specific, drive-specific, and general-motivation predictions, and by broadening tests beyond addiction and gustatory-only settings to include nongustatory and aversive cues.",
+  "research_gap": "The paper states that prior evidence on reverse alliesthesia is sparse and unclear about specificity, leaving open whether effects are cue-specific, drive-specific, or general motivational. It also notes little evidence outside gustatory cues and no tests of whether aversive cues suppress subsequent reward-seeking.",
+  "research_question": "Does sampling a consumption cue high in incentive value increase or decrease subsequent consumption-related behavior relative to common intuition that sampling should satiate? If an increase occurs, is it limited to the sampled cue, limited to the relevant drive domain, or generalized to broader reward-seeking, and does this pattern extend to nongustatory and aversive cues?"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces a two-sided newspaper competition model in which media earn both subscription fees and advertising fees and advertisers value both audience size and ideological fit.",
+    "Shows that advertising can either increase or decrease media bias depending on advertiser heterogeneity and whether advertisers single-home or double-home across outlets.",
+    "Identifies two mechanisms through which advertising affects slant choices: a moderating readership effect and a polarizing incremental pricing effect under single-homing."
+  ],
+  "context": "The paper studies competing newspapers that choose political slant while selling to readers and advertisers in a two-sided market. Readers differ in political preferences, and advertisers differ in whether their products appeal more to liberal or conservative audiences.",
+  "design_and_data": "This is a formal theoretical paper with no empirical dataset. The authors build a two-stage game with two newspapers, a mass of readers, and a mass of advertisers: newspapers choose slant locations first, then subscription and advertising prices. Reader ideology and advertiser product appeal are modeled as continuous distributions, and ad effectiveness depends on ideological match between product appeal and audience preferences. The analysis characterizes symmetric equilibria under full market coverage and compares outcomes to a subscription-only benchmark from Mullainathan and Shleifer (2005), with additional discussion of incomplete coverage in a web appendix.",
+  "focal_constructs": [
+    "media bias in news reporting",
+    "advertising versus subscription revenue",
+    "two-sided media markets",
+    "advertiser heterogeneity in ideological product appeal",
+    "single-homing and double-homing by advertisers",
+    "newspaper slant/polarization",
+    "targeted advertising effectiveness"
+  ],
+  "main_findings": [
+    "When advertiser heterogeneity in ideological appeal is large, advertisers single-home and equilibrium media slant is more polarized than in the subscription-only benchmark.",
+    "When advertiser heterogeneity is small, advertisers double-home and advertising acts as a moderating force, reducing equilibrium polarization relative to subscription-only competition.",
+    "Adding advertising introduces a readership-expansion incentive to moderate slant, but under single-homing an incremental pricing effect dominates and pushes outlets to polarize to soften price competition across both reader and advertiser sides."
+  ],
+  "one_line_summary": "The paper shows in a two-sided newspaper model that advertising can either intensify or reduce media bias, depending on advertiser heterogeneity and resulting single-homing versus double-homing behavior.",
+  "relation_to_prior_work": "extends Mullainathan and Shleifer (2005) by allowing newspapers to compete for both subscribers and advertisers rather than subscriptions alone. It also departs from two-sided media models where advertisers care only about audience size by modeling advertiser demand for ideological targeting based on audience composition.",
+  "research_gap": "Prior media-bias models emphasized subscription-driven incentives even though newspapers earn substantial revenue from advertising. Existing advertising-based media models often did not let advertiser payoffs depend on the political profile of readers, leaving unclear how targeted advertising demand affects equilibrium bias.",
+  "research_question": "How does adding advertising revenue to subscription revenue change newspapers' equilibrium political slant? Under what conditions does advertiser targeting heterogeneity lead advertisers to single-home or double-home, and how do these homing patterns affect whether advertising polarizes or moderates media bias?"
+}

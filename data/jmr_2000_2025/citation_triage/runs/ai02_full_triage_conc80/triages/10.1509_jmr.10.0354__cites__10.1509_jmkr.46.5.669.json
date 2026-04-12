@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper appears methodologically central rather than incidental: it introduces Bayesian mediation with latent instrumental variables to handle endogeneity without valid observed instruments, and the citing paper’s core contribution is likewise a Bayesian latent-IV approach for endogeneity correction under sparse data. Given this specific conceptual overlap (plus a direct DOI match), this pair should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

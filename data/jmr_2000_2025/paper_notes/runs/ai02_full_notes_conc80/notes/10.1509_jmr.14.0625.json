@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The study provides a segment-specific cross-channel analysis of banner advertising by distinguishing recent and nonrecent online consumers using website-visit recency.",
+    "Using distinct product campaigns where items are available only during the campaign week, it separates within-campaign informational effects from cross-campaign brand-building effects of banner advertising.",
+    "It jointly models website visits and offline purchases to show how online ads can affect offline sales indirectly through website behavior as well as through direct effects for specific segments and media."
+  ],
+  "context": "The empirical setting is a well-known German retailer with more than 800 stores and predominantly offline sales of private-label durable goods. The firm ran weekly blitz campaigns with changing themed assortments, promoted mainly by banner ads and in 6 campaigns by TV ads.",
+  "design_and_data": "The authors use single-source GfK Panel Services Germany data for 508 households over 17 weeks in 2009, covering 17 distinct weekly campaigns, with the first 4 campaigns used for initialization of lagged effects. The data combine household-level exposures to banner, contextual, and nonbranded sponsored search ads, website visit timestamps, weekly purchase survey records with day-level purchase timing, and daily TV ad expenditures. They estimate a joint Bayesian multivariate probit with household random effects for website-visit and offline-purchase incidence, including within-campaign and cross-campaign banner stock effects and interactions with recent versus nonrecent online status. Estimation uses MCMC and allows correlated contemporaneous errors and correlated random intercepts across equations.",
+  "focal_constructs": [
+    "banner advertising exposure",
+    "website visit incidence",
+    "offline purchase incidence",
+    "consumer online recency",
+    "recent versus nonrecent online consumers",
+    "within-campaign effects",
+    "cross-campaign brand-building effects",
+    "TV advertising"
+  ],
+  "main_findings": [
+    "Within campaigns, banner advertising increases website visit incidence for nonrecent online consumers but not for recent online consumers.",
+    "For nonrecent online consumers, website visits significantly increase offline purchase incidence, implying a positive indirect within-campaign effect of banner ads on offline sales, while a direct within-campaign banner effect on offline purchases is not supported.",
+    "Across campaigns, prior banner exposure increases website visits for both segments and increases offline purchase incidence for recent online consumers, consistent with a cross-campaign brand-building effect; TV ads increase website visits for nonrecent consumers and directly increase offline purchases for recent consumers."
+  ],
+  "one_line_summary": "Using single-source household data from a German retailer, the paper finds that banner ads mainly activate nonrecent consumers to visit the website and influence their offline buying indirectly, while recent consumers show cross-campaign brand-building and TV-driven direct offline responses.",
+  "relation_to_prior_work": "extends prior banner-advertising research that focused mainly on online outcomes or did not separate campaign effects by jointly modeling segment-specific within- and cross-campaign effects on website visits and offline purchases. It also clarifies carryover by showing that positive cross-campaign offline effects for recent consumers are consistent with brand building rather than only lagged response to campaign information.",
+  "research_gap": "Prior studies on banner advertising mostly examine online outcomes and offer limited guidance for firms that sell predominantly offline. The literature has not clearly addressed heterogeneity by online recency, whether offline effects are direct or mediated by website visits, and whether effects are within-campaign versus cross-campaign.",
+  "research_question": "The paper asks whether banner advertising effects on website visit incidence and offline purchase incidence differ between recent and nonrecent online consumers. It also asks whether banner ads affect offline purchases directly, indirectly through website visits, or both, and whether banner exposures in one campaign carry over to later campaigns after product-specific information is no longer relevant."
+}

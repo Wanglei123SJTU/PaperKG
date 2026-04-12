@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides an explicit self-selection model of couponing that identifies when coordinating a price cut with a coupon is optimal, based on marginal consumers' hassle costs.",
+    "Derives and empirically tests predictions on the joint relationships among coupon face value, shelf price, total redemptions, incremental redemptions, and coupon efficiency.",
+    "Shows a theoretical condition under second-degree price discrimination in which all consumer prices can decrease, with associated welfare implications."
+  ],
+  "context": "The paper studies manufacturer free-standing insert (FSI) coupon events in consumer packaged goods. Empirical tests use coupon-event measures merged with supermarket price data, covering six packaged-goods categories.",
+  "design_and_data": "The authors first develop a monopolist economic model with one product and a unit mass of consumers, where coupon hassle costs are correlated with willingness to pay; they solve for optimal shelf price and coupon face value under different constraint cases. The model yields comparative statics for price and for total and incremental coupon redemptions, and links these to coupon efficiency (incremental redemptions divided by total redemptions). They then test hypotheses using 222 coupon events from 68 brands across six categories, with events from IRI CouponScan merged to Dominick's price data (1989-1994). They estimate brand fixed-effects OLS models with White standard errors for price ratio, coupon-period price, and efficiency outcomes.",
+  "focal_constructs": [
+    "coupon face value",
+    "shelf price",
+    "coupon hassle costs",
+    "new customer effect",
+    "trading down effect",
+    "regular price effect",
+    "coupon efficiency",
+    "second-degree price discrimination"
+  ],
+  "main_findings": [
+    "The model predicts that a firm can optimally lower shelf price during a coupon event when marginal consumers have moderate hassle costs; with high hassle costs, the optimal coupon strategy raises price.",
+    "In the data, coupon-period shelf price is positively related to coupon face value, so smaller face-value coupons are associated with lower shelf prices.",
+    "Coupon efficiency increases when coupon-period retail price is lower, consistent with the model's prediction."
+  ],
+  "one_line_summary": "The paper develops and tests a coupon-pricing model showing that firms may profitably cut shelf prices during coupon events when marginal consumers have moderate coupon hassle costs.",
+  "relation_to_prior_work": "extends prior coupon price-discrimination work by explicitly modeling consumer self-selection through hassle costs and deriving conditions under which shelf prices rise or fall during coupon events. It is positioned to reconcile mixed prior evidence on coupon-price synchronization and contrasts with analyses that rely on assumptions implying price increases during couponing.",
+  "research_gap": "Prior targeted-couponing logic generally implies higher shelf prices during coupon periods, yet empirical evidence on whether prices rise or fall with coupons is mixed across categories. The paper argues that existing work did not clearly delineate, using an explicit self-selection mechanism, the conditions on consumer hassle costs that determine when price reductions should be coordinated with coupon events.",
+  "research_question": "Should firms lower or raise shelf prices when they run coupon events that are available to all consumers, and under what conditions is each strategy optimal? The paper also asks how coupon face value should relate to shelf price and to coupon redemptions and efficiency."
+}

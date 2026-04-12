@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper examines generic-to-branded paid-search spillover using a latent-awareness Bayesian DLM, whereas the citing paper examines CRM-induced social-network spillovers in a telecom field experiment (DiD/IV), so direct method/data dependence is not clear from the notes. But both papers are explicitly about marketing spillover effects, and the matched evidence provides only a DOI-level reference with no citation-context text, so it is not safe to drop as an obvious incidental mention.",
+  "triage_decision": "uncertain"
+}

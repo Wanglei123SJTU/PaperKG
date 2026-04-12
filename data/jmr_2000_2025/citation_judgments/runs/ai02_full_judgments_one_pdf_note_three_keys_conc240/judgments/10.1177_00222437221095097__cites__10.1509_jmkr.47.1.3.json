@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citation is used in the empirical identification section, not just as background. The authors explicitly adopt a control function approach attributed to Petrin and Train (2010) as an alternative endogeneity correction, describing residual inclusion from a first stage into the second-stage outcome model. They then use this approach to check robustness against their main copula-based correction, so the cited work has a clear functional methodological role.",
+  "relation_description": "The citing paper applies Petrin and Train's control function method as a robustness-based identification strategy for endogeneity. It uses the approach to correct an endogenous momentum regressor and confirm that core results are consistent with the main specification.",
+  "relation_type": "applies"
+}

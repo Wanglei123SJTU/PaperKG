@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper centrally models spatial/social error correlation via a network-weight matrix and variance-covariance structure, while the cited paper is a marketing method paper on modeling spatial dependence/covariance (kriging with geographic and retailer-structure components). That methodological overlap makes the cited work a plausible foundational/method source rather than an obvious incidental mention, even though the raw evidence here is only a DOI-level match.",
+  "triage_decision": "keep_for_relation_judgment"
+}

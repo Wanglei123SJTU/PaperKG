@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "This study claims to be the first to document a societal spillover of direct-to-consumer prescription drug advertising on a public health outcome, birth rates, rather than on sales or prescriptions.",
+    "It advances border-based identification by implementing a zip code-level DMA border design, argued to provide sharper local comparisons than county-level border designs.",
+    "It offers a proof-of-concept for regulators and firms to use variation in pharmaceutical marketing exposure to monitor and anticipate population-level health outcomes."
+  ],
+  "context": "The paper studies U.S. direct-to-consumer television advertising for erectile dysfunction drugs (Viagra, Levitra, Cialis) after DTCA rules were relaxed. Empirically, it uses Massachusetts DMA-border zip codes and a national sample of large U.S. counties during the 2000s.",
+  "design_and_data": "The authors combine Kantar Media monthly ED-drug TV advertising data (national plus local, scaled per 100 capita) with two birth data sources. First, they use complete Massachusetts inpatient hospital records (Oct 2002-Aug 2010), construct zip code-month birth rates for women aged 20-49, and estimate population-weighted panel models using zip code fixed effects and DMA-border-based identification, matching ads in month t to births in t+10. Second, they use U.S. micro birth certificate data (2000-2004; about 15.22 million records, with roughly 13 million matched records in 418 counties), impute conception month from gestational age, and estimate county-month weighted panels with saturated fixed effects (including county, month, DMA-year, and DMA x Levitra-entry controls) matching ads to conception about two months later. They report robustness checks on functional form, timing windows, and falsification tests (for example, allergy-drug ads).",
+  "focal_constructs": [
+    "direct-to-consumer advertising",
+    "erectile dysfunction drug television advertising",
+    "birth rate",
+    "conception rate",
+    "societal spillover effects",
+    "DMA border identification",
+    "demographic heterogeneity",
+    "media effects"
+  ],
+  "main_findings": [
+    "Higher ED-drug TV advertising is associated with higher birth outcomes in both datasets, with implied birth-rate elasticities around 0.04-0.08.",
+    "At an elasticity of about 0.07, a 1% increase in ED-drug advertising is associated with roughly 1,211 additional U.S. births per year in back-of-the-envelope calculations.",
+    "The effect is stronger in lower-income counties and in counties with more families with children, while falsification and timing tests support biological plausibility and father-age analyses do not support an older-father-only channel."
+  ],
+  "one_line_summary": "Using Massachusetts hospital records and national U.S. birth certificates, the paper finds that greater local exposure to erectile dysfunction drug TV advertising is associated with modest but significant increases in conception and birth rates.",
+  "relation_to_prior_work": "extends prior DTCA research from intended market outcomes (such as prescriptions and sales) to an unintended public health outcome, birth rates. It also extends media-and-fertility studies by showing that advertising content, not only entertainment programming, is associated with fertility changes.",
+  "research_gap": "Prior DTCA studies mainly examined intended market outcomes or spillovers across competing products, with little evidence on broader societal public health consequences. The paper identifies a lack of causal evidence on whether pharmaceutical TV advertising can affect population birth outcomes.",
+  "research_question": "Does exposure to erectile dysfunction drug television advertising increase population-level birth rates? If it does, is the effect heterogeneous across demographic segments, and what mechanisms might explain the relationship?"
+}

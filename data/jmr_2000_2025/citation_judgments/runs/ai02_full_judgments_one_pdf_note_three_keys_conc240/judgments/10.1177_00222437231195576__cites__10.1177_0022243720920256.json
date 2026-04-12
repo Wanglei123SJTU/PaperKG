@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the identity disclosure section, the citing paper directly quotes Zhou et al. (2020) and uses it as specific conceptual support, not just a generic citation list. The citation helps justify why identity disclosure may raise privacy concerns even as it can aid trust judgments, which feeds into the paper's hypothesis development on substitution effects. Although the cited paper's methods are not reused, its core argument is actively transferred into the citing paper's theoretical framing.",
+  "relation_description": "The citing paper borrows Zhou et al. (2020)'s \"face dilemma\" idea - that facial information can improve decisions but also creates privacy risk - to frame identity disclosure as a double-edged platform design choice. It applies this privacy-perception trade-off logic to online review platforms when motivating hypotheses about identity disclosure and its substitution by governance mechanisms.",
+  "relation_type": "applies"
+}

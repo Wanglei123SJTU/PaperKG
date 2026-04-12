@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces a unified duopoly model in which firms jointly choose product quality, advertising intensity, and price, with advertising endogenously determining which consumers are informed.",
+    "Characterizes when equilibrium features no differentiation, advertising-only differentiation, or quality-only differentiation, and argues that endogenous awareness implies less product differentiation than classic full-information models.",
+    "Shows in three extensions (fixed quality costs, continuous advertising, and simultaneous advertising-pricing decisions) that the main comparative-statics largely persist, while also identifying conditions where quality and advertising differentiation can coexist."
+  ],
+  "context": "The paper studies a stylized duopoly market in which consumers differ in willingness to pay for quality and can purchase only products they are informed about. Advertising is modeled as informative reach that affects each firm's probability of entering consumers' consideration sets.",
+  "design_and_data": "This is a theoretical, game-theoretic analysis with no empirical dataset. In the main model, firms choose quality first, then choose between light and heavy advertising reach levels with different costs, then set prices; consumers have uniformly distributed quality valuations and buy the highest-utility informed option. The authors solve for subgame-perfect equilibria, using pure strategies for quality and advertising and mixed strategies for pricing, and derive equilibrium regions as functions of advertising cost-effectiveness (cost differential vs reach differential). They also analyze three extensions: convex fixed quality costs, continuous advertising with discrete quality levels, and simultaneous advertising-pricing decisions.",
+  "focal_constructs": [
+    "vertical product quality",
+    "informative advertising reach",
+    "advertising cost-effectiveness",
+    "consumer informedness and consideration sets",
+    "captive and competitive segments",
+    "mixed-strategy price competition",
+    "minimal vs maximal differentiation"
+  ],
+  "main_findings": [
+    "When heavy advertising is not cost-effective, both firms choose maximal quality, advertise lightly, and use similar mixed pricing; informationally captive segments soften price competition despite no quality differentiation.",
+    "When heavy advertising is moderately cost-effective, firms keep maximal quality but differentiate in advertising (one heavy, one light), which sustains asymmetric mixed-pricing behavior.",
+    "When heavy advertising is very cost-effective, both firms advertise heavily and differentiate in quality with distinct prices; in the main model, firms do not simultaneously differentiate in both quality and advertising."
+  ],
+  "one_line_summary": "This paper develops a duopoly model of quality, informative advertising, and pricing and shows that equilibrium differentiation shifts from none to advertising-only to quality-only as advertising becomes more cost-effective.",
+  "relation_to_prior_work": "extends prior vertical differentiation models that assume full consumer information by endogenizing awareness through informative advertising. It also extends advertising-competition work with fixed product positions by endogenizing quality choice and its interaction with advertising and pricing.",
+  "research_gap": "Existing vertical differentiation models largely presume all consumers know all products, while advertising studies often hold product quality fixed. The paper addresses the missing joint framework where firms simultaneously use quality and informative advertising to manage price competition.",
+  "research_question": "When should competing firms differentiate in product quality versus advertising intensity when both strategic levers are available? Can minimal differentiation in quality and advertising be sustained while still avoiding severe price competition? How do these incentives change under quality fixed costs, continuous advertising, or simultaneous advertising-pricing timing?"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper uses a finite-mixture, latent-segment estimation framework with BIC/CAIC-based model selection, while the cited paper is a methodological comparison of finite mixture versus HB conjoint models using similar evaluation concerns (fit/prediction/partworth recovery). This makes a substantive methods link plausible, but the provided evidence has only a bare DOI match and no in-text citation context showing how it is used, so it cannot be confidently kept or dropped.",
+  "triage_decision": "uncertain"
+}

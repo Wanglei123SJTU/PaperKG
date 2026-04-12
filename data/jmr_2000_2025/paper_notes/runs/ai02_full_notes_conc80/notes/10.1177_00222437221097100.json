@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Integrates scarcity/price-sensitivity research with stigmatized-identity cue and discrimination literatures to explain when low-SES consumers forgo financially advantageous options.",
+    "Extends the ghetto tax literature by proposing a psychological ghetto tax: low-SES consumers may deliberately avoid cheaper options to reduce expected SES-based discrimination.",
+    "Provides evidence in both hypothetical and consequential decisions and tests a managerially actionable intervention (store inclusion statements) to mitigate the effect."
+  ],
+  "context": "The studies are set in Rio de Janeiro, a highly unequal megacity where affluent neighborhoods and favelas are geographically close and low- and high-SES consumers often encounter each other in commercial spaces. Participants were recruited in wealthy areas (e.g., South Zone) and deprived areas (e.g., Favela da Mare), plus one lower-middle-income neighborhood.",
+  "design_and_data": "The paper reports five studies conducted in Portuguese in Rio de Janeiro, plus pilot and pretests. Designs include mixed and between-subject experiments comparing low- vs. high-SES consumers (SES inferred by neighborhood in most studies; manipulated in Study 2) and intergroup vs. intragroup shopping contexts. Outcomes are choice-based measures of price sensitivity (e.g., choosing cheaper but less convenient options), with both hypothetical scenarios and consequential tasks using voucher lotteries or real-money purchase decisions. Mechanism evidence comes from expected discrimination measures and mediation analyses, and Study 5 manipulates inclusion-statement types (equality, diversity, antidiscrimination, control).",
+  "focal_constructs": [
+    "socioeconomic status",
+    "price sensitivity",
+    "expected SES-based discrimination",
+    "stigmatized-identity cues",
+    "intergroup commercial settings",
+    "intragroup commercial settings",
+    "psychological ghetto tax",
+    "social inclusion statements"
+  ],
+  "main_findings": [
+    "Low-SES participants, relative to high-SES participants, reported greater concern with both price and potential discrimination/discomfort in upscale commercial settings.",
+    "When the cheaper option required intergroup contact (e.g., upscale or outside-neighborhood setting), low-SES consumers were less likely to choose it, while high-SES consumers were largely unaffected by group-contact context.",
+    "Expected discrimination partially explained the reduced price sensitivity among low-SES consumers, and inclusion statements emphasizing customer equality or diversity increased low-SES choice of the cheaper intergroup option (antidiscrimination statements were weaker)."
+  ],
+  "one_line_summary": "Across five studies in Rio de Janeiro, the paper shows that expected SES-based discrimination makes low-SES consumers less price sensitive in intergroup upscale settings, and that inclusion cues can partially restore price-sensitive choices.",
+  "relation_to_prior_work": "extends prior scarcity and ghetto-tax research by showing that beyond structural barriers, expected SES-based discrimination can itself reduce low-SES consumers' price sensitivity, and by documenting this effect in consequential purchase contexts with a mitigation intervention based on inclusion statements.",
+  "research_gap": "Prior work had not directly shown that stigmatized-identity cues in commercial settings can make consumers incur real financial costs by becoming less price sensitive, especially among highly constrained low-SES consumers. The scarcity literature also had not examined expected discrimination as a factor that can alter the SES-price sensitivity relationship.",
+  "research_question": "How do financial scarcity and expected SES-based discrimination jointly shape price sensitivity among low-SES consumers? Specifically, do low-SES consumers forgo cheaper options when those options are in intergroup upscale settings, and can store inclusion statements reduce this avoidance and restore price sensitivity?"
+}

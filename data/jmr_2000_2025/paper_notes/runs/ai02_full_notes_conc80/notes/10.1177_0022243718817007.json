@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Defines WOM spikes as an abnormal positive transient shock and argues that spikiness is a WOM dimension distinct from volume and valence, with a conceptual distinction between event spikes and rogue spikes.",
+    "Introduces a robust, data-driven filtering procedure to detect spikes in WOM time series while separating them from trend and random fluctuations.",
+    "Provides large-scale empirical evidence on spike prevalence, content, and links to firm events, and shows that spike measures have managerial value for predicting postrelease sales."
+  ],
+  "context": "The empirical setting is the U.S. movie industry, focusing on online prerelease conversations in the 60 days before release. WOM data come from public social media channels (Twitter, blogs, and user forums) around Hollywood movie launches.",
+  "design_and_data": "The paper models daily WOM volume with a local linear trend and adds spikes as additive positive shocks, then detects spikes using a robust Holt-Winters style filter with a time-varying threshold and automatic tuning via one-step-ahead MAPE minimization. The main sample covers prerelease WOM for 157 U.S. movies released in 2010-2011, combined with opening-weekend box office, production budget, advertising, genre, MPAA rating, star power, and manually collected event dates (trailers, press events, early releases, premieres). For content, the authors analyze systematically sampled messages for 106 movies with full 60-day text availability, obtaining 92,235 messages coded via MTurk on topic, tone, sentiment, and event driver (368,940 total classifications). They estimate multinomial logit models for spike vs. nonspike content differences, a logit model for spike-event co-occurrence, and revenue regressions including WOM and movie controls.",
+  "focal_constructs": [
+    "prerelease WOM spikes",
+    "WOM spikiness",
+    "event spikes",
+    "rogue spikes",
+    "WOM topic, tone, and sentiment",
+    "movie-related promotional and press events",
+    "opening-weekend box-office revenue"
+  ],
+  "main_findings": [
+    "Prerelease WOM spikes are widespread and short-lived: movies average 6.96 spikes in the 60 days before release, spikes occur more often near release, and spike magnitudes follow a power-law pattern.",
+    "Only about 20% of prerelease spikes co-occur with observed movie-related events, while about 80% are rogue spikes; however, spike messages are more likely than nonspike messages to mention event drivers.",
+    "Relative to nonspike WOM, spike WOM is more likely to contain movie-specific factual content and to be positive or mixed in sentiment, and greater prerelease spikiness predicts higher opening-weekend box office after controlling for WOM volume, valence, advertising, and movie characteristics."
+  ],
+  "one_line_summary": "Using prerelease social media data on U.S. movie releases, the paper defines and detects WOM spikes, shows that most spikes are spontaneous rather than event-driven, and finds that spikier prerelease WOM predicts higher opening-weekend box office.",
+  "relation_to_prior_work": "introduces a dynamic WOM perspective in which spikiness is a distinct construct, addressing a literature that mostly emphasized aggregate volume and valence or smoothed time trends. It also applies social-network burst ideas to prerelease marketing WOM in a large empirical movie setting.",
+  "research_gap": "Prior marketing WOM studies mainly focused on aggregate WOM measures (especially volume and valence), lagged WOM-sales effects, or smoothed trends, leaving sudden WOM spikes largely unexamined. The paper states that a comprehensive descriptive treatment of WOM spikes was missing.",
+  "research_question": "How should sudden bursts in prerelease WOM be defined and detected separately from trend and random noise? How prevalent and distinctive are these spikes, how often are they tied to firm-created events versus spontaneous activity, and do spike characteristics improve prediction of opening-weekend movie revenues beyond standard WOM and movie controls?"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces a first test of neural processes involved in making and updating other-directed online recommendations in response to peer recommendations.",
+    "Combines two previously separate literatures - neural correlates of successful recommendation/idea propagation and neural correlates of social influence - in one paradigm.",
+    "Presents an fMRI App Recommendation Task designed to mimic key features of new media recommendation environments and to examine both average effects and individual differences in susceptibility."
+  ],
+  "context": "The study is set in an online word-of-mouth recommendation context using mobile game apps, a fast-growing app market category. Male adolescents made recommendations based on real iTunes-style app information while exposed to peer recommendation feedback.",
+  "design_and_data": "A behavioral pilot (N = 106 undergraduates) first tested whether peer feedback changes recommendation updating in a computer-based App Recommendation Task. The main study used fMRI with 65 male adolescents (ages 16-17) after exclusions; participants rated 80 puzzle game apps before scanning, then rerated them in the scanner after manipulated peer feedback (higher, lower, same, or not rated; 20 trials each). During each fMRI trial, participants saw their initial rating reminder, peer feedback, and then gave a final rating. Analyses included repeated-measures ANOVAs for behavior, whole-brain contrasts (uncorrected p = .001), and ROI-based regressions relating neural activity during differing feedback to each participant's overall tendency to change recommendations.",
+  "focal_constructs": [
+    "social influence",
+    "online word-of-mouth recommendations",
+    "recommendation updating",
+    "susceptibility to influence",
+    "valuation system activity (ventral striatum, orbitofrontal cortex)",
+    "mentalizing (temporoparietal junction)",
+    "adolescent decision making"
+  ],
+  "main_findings": [
+    "Participants changed recommendations significantly more when peer feedback differed from their initial recommendation than when feedback was the same or absent, in both pilot and fMRI samples.",
+    "Within subjects, when conflicting peer feedback was followed by recommendation change (vs no change), activity was higher in ventral striatum and orbitofrontal cortex.",
+    "Between subjects, greater right TPJ activity during conflicting peer feedback was associated with greater overall susceptibility to change recommendations; other hypothesized ROIs were not significant in this analysis."
+  ],
+  "one_line_summary": "Using an fMRI app-rating task, the paper shows that adolescents' online recommendations shift toward peer opinions behaviorally, with valuation-related activity tracking within-person updating and right TPJ activity tracking between-person susceptibility.",
+  "relation_to_prior_work": "extends prior social influence and communication neuroscience work by moving from self-oriented preference conformity to other-directed recommendation decisions in an online-like setting. It links valuation-system findings from conformity studies with TPJ-based mentalizing findings from successful idea propagation research.",
+  "research_gap": "Prior neuroimaging studies had examined either social influence on personal preferences or neural correlates of successful recommendation transmission, but not the neural processes involved in making and updating other-directed recommendations in response to peer recommendations. The authors also note a lack of such evidence in adolescents in new media recommendation environments.",
+  "research_question": "How does peer recommendation feedback influence adolescents' final recommendations to others in an online-like word-of-mouth context? Which neural processes are associated with recommendation updating when peer opinions conflict with one's own, and which neural signals explain individual differences in susceptibility to such influence?"
+}

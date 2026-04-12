@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "Proposes and tests a three-effect framework for visual content in social posts: mere presence, image characteristics, and image-text fit.",
+    "Combines automated text mining and image analytics (Google Cloud Vision API plus manual coding) with econometric models that account for excess zeros and selection into image posting.",
+    "Extends visual marketing evidence from traditional paid advertising settings to earned social media content, and compares effects across product categories and platforms."
+  ],
+  "context": "The study examines brand-related social media posts about nine major U.S. airlines and ten compact SUV models. It compares a microblogging platform where text-only and image posts coexist (Twitter) with an image-centric platform (Instagram).",
+  "design_and_data": "Using observational data, the authors analyze 18,790 airline-related original tweets (September 2015, after removing non-photo hyperlinks), 12,817 SUV-related original tweets from the same month, and a random sample of 2,044 airline-related Instagram posts (January 16-February 15, 2018). Text variables are coded using LIWC features and supervised learning (linear SVM for sentiment, topic, and behavioral-driver labels), and image variables are extracted using Google Cloud Vision API plus Mechanical Turk coding for quality, source, and relevancy. For Twitter, they use 1:1 propensity score matching to mitigate selection into image inclusion and estimate a bivariate zero-inflated negative binomial model for likes and retweets; for Instagram likes, they estimate a log-linear regression.",
+  "focal_constructs": [
+    "social media engagement",
+    "mere presence effect of images",
+    "image characteristics",
+    "image-text fit",
+    "liking behavior",
+    "sharing behavior (retweets)"
+  ],
+  "main_findings": [
+    "On Twitter, directly viewable images significantly increase engagement, while hyperlinked images decrease engagement relative to tweets without images.",
+    "High-quality images are associated with higher engagement, and image source matters: professionally taken photos outperform amateur photos or screenshots where estimated; screenshots often reduce engagement.",
+    "Some visual effects are context dependent: colorfulness varies by category (more colorful helps airlines, less colorful helps SUV sharing), and human-face presence and image-text fit are positive on Twitter but not on Instagram."
+  ],
+  "one_line_summary": "Using Twitter and Instagram data on airlines and SUVs, the paper finds that images generally boost engagement on Twitter but their impact depends on image quality, source, colorfulness, face content, and fit with text in platform- and category-specific ways.",
+  "relation_to_prior_work": "extends prior social media content-effectiveness work that has focused mainly on text by quantifying image effects on likes and sharing, and extends visual advertising research into earned social media contexts across Twitter and Instagram.",
+  "research_gap": "Most prior marketing research on user-generated social content effectiveness emphasizes text and leaves image content effects largely underexplored. The paper addresses the unresolved question of whether images always help engagement and which image attributes matter across platforms and product categories.",
+  "research_question": "Do social media posts with images receive more engagement than text-only posts, and why? The paper tests whether engagement is driven by the mere presence of images, specific image characteristics, and image-text fit, and whether these effects differ across product categories and across Twitter versus Instagram."
+}

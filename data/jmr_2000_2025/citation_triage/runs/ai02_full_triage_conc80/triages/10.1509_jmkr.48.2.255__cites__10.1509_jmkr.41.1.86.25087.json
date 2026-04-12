@@ -1,0 +1,4 @@
+{
+  "rationale": "Keep: the citing paper’s core method is a structural Bayesian brand-choice learning model with uncertainty, perceived risk, and heterogeneous price/quality/risk sensitivities on ACNielsen scanner data, which strongly overlaps with the cited paper’s stated contribution and design. The citing note says it extends standard learning models by adding learning about signal precision in crisis settings, making the 2004 JMRK uncertainty-learning model a plausible methodological/foundational source rather than an incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

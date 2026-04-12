@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s central focus is social influence on purchasing, and the cited paper is directly about how word-of-mouth/reviews affect sales, so it is plausibly a foundational or comparative prior result. With only a DOI match and no citation-context snippet, there is no clear evidence this is merely an incidental background mention, so it should not be dropped at triage.",
+  "triage_decision": "keep_for_relation_judgment"
+}

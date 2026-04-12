@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper distinguishes three consumer-related hedonic experiences - happiness with money, with acquisition, and with consumption - to study the relative-versus-absolute happiness question at a finer level than overall life satisfaction.",
+    "It introduces a Type A versus Type B distinction within consumption, where inherently evaluable consumption is predicted to be absolute and inherently inevaluable consumption is predicted to be relative.",
+    "It provides converging laboratory and field evidence and draws implications for intergenerational consumer well-being and utility theory."
+  ],
+  "context": "The studies are conducted in China using controlled group-comparison experiments and a large telephone survey across cities. Lab settings use coupons and milk, milk acquisition and consumption, and water temperature versus diamond size; the field setting examines room temperature and jewelry value in 31 major Mainland Chinese cities.",
+  "design_and_data": "Study 1 (n = 89 students) randomly assigned participants to isolated rich versus poor groups, with within-group rich/poor members receiving different coupon values exchangeable for different milk concentrations; happiness was measured at coupon receipt and during milk consumption. Study 2 (n = 77 students) used the same rich/poor group structure but measured happiness at milk acquisition and during milk consumption. Study 3 (n = 136 female students) used two phases (water temperature and diamond size) with isolated rich/poor groups and within-group comparisons; participants rated expected feelings while sensing water or holding diamonds, and a small pretest (n = 18) checked Type A versus Type B classification. Study 4 surveyed 6,951 respondents in 31 major Mainland Chinese cities via computer-assisted telephone interviewing and estimated within-city and between-city effects of room temperature and jewelry value on happiness ratings using regressions with controls.",
+  "focal_constructs": [
+    "monetary experience",
+    "acquisition experience",
+    "consumption experience",
+    "relative versus absolute happiness",
+    "inherent evaluability",
+    "Type A versus Type B consumption",
+    "social comparison"
+  ],
+  "main_findings": [
+    "Monetary experience followed a relative pattern: within a group, richer members were happier, but across rich versus poor groups there was no significant group-level difference.",
+    "Acquisition experience also followed a relative pattern, while consumption of the same good (milk) showed an absolute pattern with significant between-group effects.",
+    "For Type A consumption (water and room temperature), happiness showed both within- and between-group/city effects, whereas for Type B consumption (diamond size and jewelry value), happiness showed within-group/city effects but little or no between-group/city effect."
+  ],
+  "one_line_summary": "Across four studies, the paper finds that happiness with money and acquisition is largely relative, while happiness with consumption is absolute only for inherently evaluable consumption and relative for inherently inevaluable consumption.",
+  "relation_to_prior_work": "refines prior happiness and consumer research by explaining mixed absolute-versus-relative results through the specific target of experience (money, acquisition, or consumption) and the evaluability of consumption attributes. It also challenges the view that classic utility models and prospect-theory style reference dependence are direct rivals, proposing they better fit different stages of consumer experience.",
+  "research_gap": "Prior evidence on wealth and happiness was mixed and relied heavily on broad life satisfaction measures that are influenced by many non-consumption factors. The paper argues that this leaves unresolved whether specific consumer experiences are driven by absolute levels or relative comparisons.",
+  "research_question": "Does happiness depend on absolute wealth and consumption levels or on relative standing versus others? The paper asks whether the answer differs for happiness with money, with acquisition of goods, and with consumption, and whether consumption outcomes depend on whether the consumed attribute is inherently evaluable (Type A) or inherently inevaluable (Type B)."
+}

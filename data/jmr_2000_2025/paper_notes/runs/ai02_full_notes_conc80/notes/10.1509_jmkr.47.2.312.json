@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "The paper shows that even when consumers make a purchase, the same option can produce lower satisfaction when it is believed to come from a larger rather than a smaller assortment.",
+    "It identifies expectation disconfirmation as the mechanism: larger assortments raise expectations of preference match, which leads to more negative or less positive disconfirmation and lower satisfaction.",
+    "It provides evidence that this expectation-based mechanism operates independently of, and in addition to, overload effects, and can emerge when regret is minimized."
+  ],
+  "context": "The research studies consumer choice from assortments in three product domains: birthday cards, camcorders, and computer wallpapers. The settings include principal-agent choices for a coworker and self-choice with either full catalog exposure or free search across small versus large assortments.",
+  "design_and_data": "The paper reports three between-subjects experiments with undergraduate samples (Study 1: N=120, Study 2: N=165, Study 3: N=65). Study 1 manipulated perceived set size (10 vs 100 cards) while participants evaluated the same chosen card, measured expectations, disconfirmation, and satisfaction, and used mediation tests. Study 2 used a 2 x 2 design (assortment size 8 vs 32 camcorders x question order) with full set exposure, measured subjective and objective overload plus disconfirmation and satisfaction, and tested parallel mediation. Study 3 manipulated assortment size (60 vs 300 wallpapers) in a free-search self-choice task where the small set was a random subset of the large set, recorded search behavior, and tested whether disconfirmation mediated size effects on satisfaction beyond overload.",
+  "focal_constructs": [
+    "assortment size",
+    "expected preference match",
+    "expectation disconfirmation",
+    "choice satisfaction",
+    "information overload",
+    "regret"
+  ],
+  "main_findings": [
+    "Larger assortments increased consumers' expectations about how well they could match their preferences.",
+    "Consumers reported lower satisfaction with chosen options from larger versus smaller assortments, including when evaluating the same option and when larger sets offered objectively better matching opportunities.",
+    "This satisfaction drop was mediated by expectation disconfirmation (greater negative disconfirmation in Study 1, less positive disconfirmation in Studies 2-3), and in Study 2 overload also affected satisfaction but did not eliminate the independent role of disconfirmation."
+  ],
+  "one_line_summary": "Across three experiments, larger assortments reduced satisfaction with chosen options because they elevated preference-match expectations and generated less favorable expectation disconfirmation, beyond overload effects.",
+  "relation_to_prior_work": "extends prior research on large-assortment downsides beyond choice deferral, switching, and regret by showing an expectation-disconfirmation pathway that lowers postchoice satisfaction and operates in parallel with overload.",
+  "research_gap": "Prior assortment-size research had mainly documented effects on choice deferral, switching, overload, and regret, but did not clearly explain whether larger assortments lower satisfaction after a choice is made. The paper addresses this by testing an explicit expectation-disconfirmation account and separating it from overload.",
+  "research_question": "Do larger assortments reduce satisfaction with a chosen option even when consumers complete a purchase? If so, is the effect driven by higher expectations of preference match that create greater negative or less positive expectation disconfirmation, rather than only by overload?"
+}

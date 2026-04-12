@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a dynamic, goal-theoretic model of impulsive behavior that tracks how desires evolve over time after tempting cues.",
+    "It claims to provide the first empirical model that systematically tests motivational antecedents of impulsive behavior over time.",
+    "It argues that impulsivity reflects both generalized reward sensitivity and chronically accessible domain-specific hedonic goals, whose activation can increase overindulgence when unsatiated."
+  ],
+  "context": "The studies examine consumer self-control conflicts in hedonic consumption settings, especially food temptations (e.g., sweet and savory foods, cookies) in lab environments. The authors note broader relevance to public-policy behaviors such as binge drinking and overeating.",
+  "design_and_data": "The article reports three laboratory experiments with university students. Experiment 1 (N=96, two stages about three weeks apart) measured impulsivity with Puri's CIS, reward responsiveness in rewarded versus unrewarded card sorting, response latencies, and changes in product evaluations after a prudence-based goal-violation task for sweet or savory temptations. Experiment 2 (N=78; impulsive/prudent analyzed n=44) manipulated a sweetness prime versus neutral via scrambled sentences and recorded second-by-second joystick approach-avoidance responses to cookies for 180 seconds, analyzed as distance and absolute velocity across three periods. Experiment 3 (N=84; impulsive/prudent analyzed n=66) used a cereal-based sweetness prime, manipulated delay versus no delay, and unobtrusively video-recorded whether participants took cookies and how many.",
+  "focal_constructs": [
+    "trait impulsivity",
+    "chronic hedonic goals",
+    "generalized reward sensitivity",
+    "domain-specific hedonic subgoals",
+    "self-control goals",
+    "goal priming",
+    "ambivalence volatility",
+    "impulsive behavior intensity"
+  ],
+  "main_findings": [
+    "Impulsive participants responded faster to reward-related trait items and showed stronger behavioral responsiveness to monetary rewards, whereas prudent participants did not show comparable reward-task sensitivity.",
+    "When forced to give prudent responses in a specific hedonic domain, impulsive participants later increased evaluations only for products related to that violated subgoal, while prudent participants decreased those evaluations relative to baseline.",
+    "With tempting cues over time, impulsive participants showed desire trajectories that rose, became ambivalent, and then resurged, and delay increased the intensity of their impulsive consumption; prudent participants showed only temporary primed approach and then stronger avoidance or reduced incidence of impulsive action."
+  ],
+  "one_line_summary": "Across three experiments, the paper shows that chronic hedonic goals in impulsive consumers interact with situational cues to produce time-varying desire dynamics that can escalate into stronger overindulgence when those goals remain unsatiated.",
+  "relation_to_prior_work": "extends prior single-episode and affect-cognition accounts of impulsive choice by modeling the time path of goal conflict between hedonic desire and self-control after temptation exposure.",
+  "research_gap": "Prior work largely explained isolated indulgence episodes and did not specify why some consumers overindulge over time or how desire and self-control dynamically interact after cue exposure. Existing impulsivity trait scales also categorized people as impulsive or prudent without identifying the motivational process that drives differences in degree of impulsive behavior.",
+  "research_question": "The paper asks whether impulsivity is rooted in chronically accessible hedonic goals, both generalized and domain specific, rather than only broad trait labels. It further examines how chronic and situationally primed hedonic goals interact over time with self-control goals to shape ambivalence, desire trajectories, and the incidence versus intensity of impulsive behavior."
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Documents systematic, course-type-specific gender performance differences in a near-parity business-school population and links them to early career pipeline outcomes.",
+    "Provides causal evidence on instructor gender effects using exogenous student-instructor assignment in fixed-core courses and controls for unequal female-instructor representation across courses to avoid aggregation bias.",
+    "Supplies mechanism evidence by combining grade data and survey measures, supporting a student-side stereotype process and role-model channel over an instructor-bias account."
+  ],
+  "context": "The setting is a top public university's undergraduate business administration program in the U.S. Midwest. The analysis centers on mandatory introductory fixed-core courses where students are randomly assigned to sections and instructors, spanning both quantitative and nonquantitative subjects.",
+  "design_and_data": "The study uses administrative records for 6,312 undergraduate business students from graduating classes 2005-2018, covering fixed-core classes taken from fall 2003 to winter 2017. Identification relies on exogenous registrar assignment of students to sections/instructors in fixed-core courses, with regressions controlling for rich demographics, prior aptitude (high school GPA, ACT/SAT/AP), GPA in other courses, course-term effects, and instructor characteristics, with clustered standard errors. The authors also code 278 course syllabi to measure grading-component subjectivity and run a survey of 102 junior students on perceived quantitativeness, expected GPD, interest, performance expectations, effort, fairness, and role-model perceptions. They estimate course-level and quantitative-vs-nonquantitative GPD and interaction models for student gender x instructor gender.",
+  "focal_constructs": [
+    "gender performance differences",
+    "course quantitativeness",
+    "instructor gender",
+    "student stereotype bias",
+    "instructor bias",
+    "student interest",
+    "performance expectations",
+    "role-model perceptions"
+  ],
+  "main_findings": [
+    "After controls, women score about 11% of a standard deviation lower than comparable men in quantitative core courses, while men score about 23% of a standard deviation lower than comparable women in nonquantitative core courses.",
+    "Courses perceived as more quantitative show more male-favoring GPD, and student beliefs about which gender performs better by course are aligned with the observed GPD ranking.",
+    "In quantitative courses, female instructors increase female students' relative grades by about 7.7% of a standard deviation and also increase female students' interest, performance expectations, and role-model perceptions; analogous effects are not found in nonquantitative courses, and tests do not support an instructor-bias grading/treatment explanation."
+  ],
+  "one_line_summary": "Using fixed-core course data from 6,312 students at a top U.S. business school, the paper shows gendered grade gaps by course quantitativeness and finds that female instructors substantially reduce women's underperformance in quantitative courses.",
+  "relation_to_prior_work": "extends prior GPD research from mostly K-12 and STEM-focused settings to a business-school core curriculum with both quantitative and nonquantitative courses and near gender parity in student representation. It also extends mainly correlational instructor-gender studies by exploiting exogenous student-instructor assignment and by adding mechanism tests with survey evidence.",
+  "research_gap": "Prior findings on gender performance differences and instructor gender effects are mixed across contexts, and university-level evidence is concentrated in STEM or non-business settings. The paper argues that causal evidence on mechanisms is limited because self-selection and unequal instructor gender representation across courses can confound estimates.",
+  "research_question": "What gender performance differences exist in mandatory business-school core courses after accounting for students' prior aptitude and demographics? Can these differences be causally reduced by instructor gender, and are the observed patterns more consistent with stereotype-based mechanisms than with instructor bias or innate preference differences?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces differential reviewer attrition, grounded in prospective-memory forgetting, as a novel mechanism behind extreme online review distributions.",
+    "Develops a dynamic analytical model that integrates three mechanisms in one framework: differential base rates, differential utility, and differential attrition, and analyzes reminder effects through utility boost and attrition reversal.",
+    "Presents a conditional-likelihood estimation approach that uses exogenous variation from reminder timing to identify utility and attrition parameters, with managerial implications for reminder design and incentive costs."
+  ],
+  "context": "The empirical setting is an anonymous large European online travel platform with hotel ratings on a 1-6 scale. The analysis focuses on matched bookings and reviews from travelers who booked through the platform's own travel agency.",
+  "design_and_data": "The authors run a randomized field experiment (June to September 2017) in which customers who had not yet reviewed were randomly assigned to receive the first unincentivized solicitation email on day 1, 2, 5, or 9 after trip end; within each condition, reminders are spaced by four days. After matching emails, bookings, and reviews, the final dataset contains 189,842 hotel bookings and 35,238 matched reviews (18.6% review rate). For main tests, review extremity is primarily coded as ratings 1, 2, 3, or 6 (54% extreme), and treatment effects are estimated by comparing conditions at equal review latency. The paper then estimates a dynamic review-provision model via maximum conditional likelihood to recover type-specific posting and attrition parameters.",
+  "focal_constructs": [
+    "online review extremity",
+    "J-shaped rating distributions",
+    "differential attrition",
+    "differential utility",
+    "differential base rates",
+    "review solicitation emails",
+    "attrition reversal",
+    "utility boost"
+  ],
+  "main_findings": [
+    "In randomized comparisons that hold elapsed time since travel constant, receiving an unincentivized reminder is associated with about 10% fewer extreme reviews (roughly 61% to 55%), and this remains in logit specifications.",
+    "The analytical model shows that all three mechanisms can generate extreme distributions, but reminder-induced changes in extremity cannot be explained by base rates alone and require utility and/or attrition differences.",
+    "Estimated parameters provide evidence for both mechanisms simultaneously: active reviewers with extreme experiences post at higher rates than moderate ones, and active reviewers with moderate experiences attrit faster than those with extreme experiences; models that suppress either mechanism fit worse."
+  ],
+  "one_line_summary": "Using a randomized hotel-review email experiment and a dynamic model, the paper shows that differential reviewer attrition alongside differential utility drives extremity bias in online reviews and that unincentivized reminders make posted ratings less extreme.",
+  "relation_to_prior_work": "introduces an attrition-based explanation to a literature that has mainly emphasized differential utility and sometimes base rates as drivers of extreme online review distributions. It refines interpretation of reminder-email effects by showing that reductions in extremity should not be attributed to utility differences alone.",
+  "research_gap": "Existing research on J-shaped review distributions mostly focuses on utility-based posting incentives and, less often, base-rate differences, while giving little attention to consumers who intend to review but later fail to do so. The paper argues that this attrition step has been neglected and not cleanly identified relative to competing mechanisms.",
+  "research_question": "What mechanisms generate the pervasive J-shaped distribution of online reviews, and does differential reviewer attrition contribute to extremity bias in addition to differential utility and base rates? Can the causal effect of unincentivized reminder emails on review extremity be used to disentangle these mechanisms?"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used as a concrete example of the joint demand-supply, joint-likelihood approach to handling price endogeneity, and this comparison appears in the core methodological discussion, not only in a literature list. The citing authors explicitly contrast that approach with their own, arguing that in sparse SKU-level household panels it can be hard to recover unobserved shocks and may depend on strong pricing-game assumptions. They use this contrast to motivate their combined household-plus-store estimator as a more robust alternative in their setting.",
+  "relation_description": "The citing paper positions itself against the approach exemplified by Villas-Boas and Zhao (2005), using it as a methodological benchmark and then arguing for an alternative estimator that avoids fully specifying the supply-side pricing game. The citation helps justify the citing paper's problem setup and contribution.",
+  "relation_type": "other"
+}

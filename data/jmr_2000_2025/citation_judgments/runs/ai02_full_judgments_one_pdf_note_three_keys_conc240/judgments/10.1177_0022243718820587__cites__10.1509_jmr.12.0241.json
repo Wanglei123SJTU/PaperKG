@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citation is used in the core model-development section, not just in background listing. Chae et al. explicitly cite Danaher and Dagger (2013) as one of the main prior treatments underlying how they aggregate advertising effects across venues and model diminishing returns. They then explain a specific modeling difference from Danaher and Dagger: in their setting, they aggregate publisher effects first and apply the log transform afterward, rather than the cited paper's channel-level transformation structure. This indicates a meaningful methodological positioning and adjustment.",
+  "relation_description": "The citing paper builds on Danaher and Dagger's multimedia aggregation logic for advertising effectiveness, then adapts the specification to publisher-level display advertising with a different transformation and weighting structure. The cited paper functions as a methodological reference point that is explicitly modified for the new model.",
+  "relation_type": "refines"
+}

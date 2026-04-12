@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and tests a reference-dependent preference asymmetry: hedonic goods are relatively more preferred in forfeiture choices than in acquisition choices.",
+    "It links this asymmetry to differential spontaneous elaboration and shows attenuation when a thought-listing task reduces differential elaboration.",
+    "It extends the effect beyond physical ownership to attribute-level reference states and provides field evidence from used-car valuations with managerial implications for pricing and promotion."
+  ],
+  "context": "The studies examine consumer trade-offs between hedonic and utilitarian options in everyday product decisions, including music versus computer disks, M&M's versus glue sticks, and hypothetical choices about apartments, coworkers, lunch plans, and shampoos. A field survey applies the idea to the used-car market by comparing owners' reservation prices with Kelley Bluebook values.",
+  "design_and_data": "Experiment 1 (n=51 students) used real gift-certificate choices in a between-subject acquisition versus forfeiture design. Experiment 2 (n=114 students) replicated with M&M's versus glue sticks and added a reasons-listing manipulation intended to suppress differential elaboration; a follow-up rating study (n=67) compared imagined impact of losing hedonic versus utilitarian items. Experiment 3 (n=141 students) used four hypothetical two-attribute choice problems and manipulated superior versus inferior reference options to induce forfeiture versus acquisition without actual ownership. A field survey (n=217 MBA students who owned cars) collected minimum selling prices and hedonic/utilitarian car ratings, and compared reservation prices with Kelley Bluebook prices using regression with controls.",
+  "focal_constructs": [
+    "hedonic goods",
+    "utilitarian goods",
+    "acquisition choices",
+    "forfeiture choices",
+    "spontaneous elaboration",
+    "reference states",
+    "relative loss aversion",
+    "buyer-seller price gaps"
+  ],
+  "main_findings": [
+    "Across real-choice experiments, the hedonic option was chosen relatively more in forfeiture than acquisition conditions (for example, 84% vs 54% in Experiment 1, and 85% vs 50% without reasons in Experiment 2).",
+    "Listing reasons attenuated the forfeiture-acquisition asymmetry in Experiment 2, consistent with the proposed role of differential spontaneous elaboration.",
+    "With attribute-level reference manipulations, a superior reference state increased choice of the hedonically superior option in Experiment 3, and in field data owners of more hedonic cars reported higher WTA relative to market price than owners of more utilitarian cars."
+  ],
+  "one_line_summary": "When identical hedonic-utilitarian trade-offs are framed as giving up versus acquiring options, consumers place relatively more weight on hedonic benefits in forfeiture, a pattern shown in experiments and echoed in used-car valuations.",
+  "relation_to_prior_work": "extends research on loss aversion and endowment effects by examining relative trade-offs between hedonic and utilitarian attributes rather than only absolute valuation shifts. It also draws on elaboration and reason-based choice work to explain why forfeiture frames increase hedonic salience.",
+  "research_gap": "Prior work distinguished hedonic versus utilitarian consumption and documented loss aversion, but had not directly tested whether the decision task itself (acquiring versus giving up) systematically changes trade-offs between these dimensions. Existing evidence on endowment effects did not explain relative preference between hedonic and utilitarian options.",
+  "research_question": "Do consumers prefer a hedonic option over a utilitarian option more strongly when choosing which item to forfeit than when choosing which item to acquire? Can this asymmetry be explained by differential spontaneous elaboration and induced by reference states even without actual ownership, and does it appear in market-relevant valuations?"
+}

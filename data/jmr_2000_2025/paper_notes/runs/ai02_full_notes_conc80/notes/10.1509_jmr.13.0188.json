@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Develops an ability-based emotional ability (EA) training program that teaches consumers to focus on goal-relevant emotional information across four EA dimensions (perceiving, facilitating, understanding, managing).",
+    "Shows that EA is trainable and that EA training improves food choices, including effects beyond a nutrition knowledge training program.",
+    "Provides an initial process account (more goal-relevant emotional thoughts, less unhealthy=tasty intuition) and longitudinal evidence that EA training leads to greater weight loss over three months."
+  ],
+  "context": "The paper studies consumer food decision making in an obesity-relevant marketplace where marketing cues often trigger mindless eating. Empirical tests are conducted with university students selected for relatively low EA.",
+  "design_and_data": "The authors implement a 45-minute, small-group, domain-general EA training and compare it with control conditions; one study also includes a matched 45-minute nutrition knowledge training based on USDA-style guidance. Study 1 randomly assigns 170 low-EA students to full EA training, four single-dimension EA trainings, or control, then measures CEIS scores and an actual snack choice. Study 2 randomly assigns 74 low-EA students to EA, nutrition knowledge, or control, and uses 24-hour food diaries completed two days later (70 returned) to code calories and food healthiness. Study 3 (N = 70) tests mechanism using thought listing and an implicit association measure of the unhealthy=tasty intuition, and Study 4 (N = 106) tracks CEIS and objective weight change over about three months.",
+  "focal_constructs": [
+    "consumer emotional ability (EA)",
+    "mindful eating",
+    "goal-relevant emotional thoughts",
+    "unhealthy=tasty intuition",
+    "nutrition knowledge training",
+    "food choice quality",
+    "weight change"
+  ],
+  "main_findings": [
+    "EA training significantly increased overall emotional ability, and only the full four-dimension EA training (not single-dimension-only trainings) significantly improved healthy snack choice versus control.",
+    "Relative to nutrition knowledge training and control, EA training led to better short-run eating outcomes, including fewer calories consumed, healthier food selections, and a lower share of unhealthy foods in 24-hour diaries.",
+    "EA training increased goal-relevant emotional thoughts and reduced reliance on the unhealthy=tasty intuition; these factors mediated snack choice effects, and EA-trained participants lost more weight over three months than both nutrition-knowledge and control groups."
+  ],
+  "one_line_summary": "Across four experiments with low-EA consumers, a brief ability-based EA training increased emotional ability, improved food choices beyond nutrition knowledge training, and produced greater weight loss after three months.",
+  "relation_to_prior_work": "extends prior evidence that higher measured EA is associated with healthier eating by testing whether EA can be causally increased through training and whether this changes actual food behavior. It also brings a dual-process account to this domain by linking EA training to both deliberative emotional thought and reduced heuristic food associations.",
+  "research_gap": "Prior research documents how marketing cues promote mindless eating, but offers limited evidence on interventions that help consumers counteract these influences. Although EA had been linked to healthier eating, it was unclear whether a practical short-session EA intervention could reliably increase EA, outperform nutrition knowledge training, and persist in behavior over time.",
+  "research_question": "Can a brief ability-based emotional ability training increase consumers' EA and improve food choice quality among people with low EA? Does it outperform nutrition knowledge training, and if so, does it work by increasing goal-relevant emotional thoughts and reducing reliance on the unhealthy=tasty intuition, with effects that persist over time?"
+}

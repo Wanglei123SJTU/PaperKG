@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s core contribution is a distributed MCMC algorithm for large-N Bayesian hierarchical target marketing, while the cited paper focuses on guided LDA feature extraction for movie-content prediction in entertainment. The notes show little methodological or problem overlap beyond very general use of Bayesian models, and the matched evidence is only a DOI hit with no in-text context indicating substantive reuse. This looks most likely like a background/example citation rather than a key dependency.",
+  "triage_decision": "drop_obvious_mention_only"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The pair has only a bare DOI match in the reference list (no in-text citation context or quoted surrounding text), so direct substantive use cannot be verified from the provided evidence. The cited paper is clearly in closely related marketing text-analytics/sentiment measurement territory, which makes a non-incidental role plausible, but the citing note does not explicitly indicate it used that paper’s specific conv-LSTM or missing-attribute imputation approach (it highlights PARA and LIWC/VADER benchmarks instead).",
+  "triage_decision": "uncertain"
+}

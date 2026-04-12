@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a control-restoration account in which stress leads consumers to allocate money strategically through greater saving and necessity-focused spending.",
+    "Identifies when stress produces different spending outcomes by testing moderators such as perceived control, stressor type, and beliefs about whether control can be restored.",
+    "Provides process evidence that the motivation to restore control and shifts in necessity perceptions explain stress effects on spending choices."
+  ],
+  "context": "The paper studies consumer financial decisions under everyday stressors, including public speaking pressure and work-related stress such as starting a new job. Data come from U.S. undergraduate and MTurk participants making saving and shopping choices across general products and clothing.",
+  "design_and_data": "The authors run seven experiments (a pilot plus six studies) using both manipulated and measured stress. Stress is induced with speech-anticipation and stress-writing tasks or measured with an 8-item current stress scale, while control is manipulated/restored or measured via perceived-control items. Dependent measures include real and hypothetical saving allocations, importance of acquiring necessities, and willingness to spend on necessities, nonnecessities, and expensive clothing. The studies use between-subject designs and conditional process analyses (PROCESS) to test moderation and mediation.",
+  "focal_constructs": [
+    "stress",
+    "perceived control",
+    "saving behavior",
+    "spending on necessities",
+    "spending on nonnecessities",
+    "control restoration motive",
+    "necessity perceptions",
+    "stressor type"
+  ],
+  "main_findings": [
+    "Stress increased willingness to save money relative to spending in baseline conditions, but this effect weakened when control was restored or high and reversed when participants were led to believe control-restoration efforts fail.",
+    "Under stress, consumers prioritized necessities: stress increased the perceived importance of acquiring necessities and increased spending on necessity-framed products while reducing spending on nonnecessities.",
+    "When the stressor changed what counted as necessary (e.g., stress about a new job), stress increased spending on typically nonnecessary products such as expensive clothing via higher necessity perceptions."
+  ],
+  "one_line_summary": "The paper shows that stress drives strategic money allocation toward saving and necessity-oriented spending to regain control, with outcomes shaped by perceived control and stressor context.",
+  "relation_to_prior_work": "extends prior findings that stress can either reduce or increase consumption by showing these effects depend on perceived control and perceived necessity of products. extends compensatory control theory to consumer saving and spending by linking stress-induced control loss to resource-allocation behavior.",
+  "research_gap": "Prior research offered divergent evidence on whether stress decreases consumption or triggers impulsive spending, and empirical work on stress in consumer behavior was limited. The paper addresses the lack of a clear mechanism specifying when stress leads saving versus spending responses.",
+  "research_question": "How does stress affect consumers' allocation of money between saving and spending? Specifically, does stress increase saving and spending on necessities as a strategy to restore control, and when do these effects change based on perceived control, stressor type, and beliefs about the possibility of restoring control?"
+}

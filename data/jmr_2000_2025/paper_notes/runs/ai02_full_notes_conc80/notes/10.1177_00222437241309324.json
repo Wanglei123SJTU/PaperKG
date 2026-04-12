@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Identifies when conditional promotions help versus hurt total sales of the promoted product relative to no promotion, including a negative effect labeled the conditional-promotion paradox.",
+    "Shows that the two components of conditional promotions - precondition cost and discount - jointly determine effectiveness, with high precondition cost and high discount most likely to reduce total sales.",
+    "Documents that consumers do not integrate precondition cost, but do integrate discount, into regular-price evaluations, and links reduced transaction utility to lower regular-price purchase."
+  ],
+  "context": "The studies are set in U.S. retail and service contexts, including Poshmark tote-bag listings, a local bakery promotion, and lab scenarios involving apparel retail, electronics retail, and hotels. Across settings, the focal comparison is conditional promotion versus no promotion for a promoted product.",
+  "design_and_data": "The paper reports five studies: a preregistered secondary-data pilot using 5,040 Poshmark Longchamp tote-bag sales (no promotion vs conditional promotion; precondition and discount variation) with days-to-sale as a sales proxy. A field quasi-experiment with a U.S. bakery compared a 4-week Tuesday-only macaron promotion in July 2022 against two 4-week no-promotion control periods (June 2022 and July 2021) using daily item sales. Study 2 preregistered a Prolific experiment (N=501) with a 2 (precondition cost: low/high) x 2 (discount: low/high) conditional-promotion design plus no-promotion control, and Study 3 preregistered a mixed-design lab study with undergraduates (N=347) varying distance-based precondition cost (0, 30, 60, 90 miles) and observed product/substitute/no-purchase choice. Study 4 preregistered a lab experiment with undergraduates (N=323) comparing two high-precondition conditional promotions versus no promotion and tested mediation of purchase intentions by transaction utility.",
+  "focal_constructs": [
+    "conditional promotions",
+    "precondition cost",
+    "discount",
+    "total sales of the promoted product",
+    "transaction utility",
+    "internal reference price",
+    "purchase under the promotion",
+    "purchase at the regular price"
+  ],
+  "main_findings": [
+    "Conditional promotions can decrease total sales of the promoted product versus no promotion, as shown in the secondary-data pilot and field study.",
+    "There is a precondition cost x discount interaction: low precondition cost with high discount produces the highest promoted-product demand, whereas high precondition cost with high discount produces the lowest demand, including below no-promotion benchmarks.",
+    "Conditional promotions with high precondition costs reduce transaction utility for buying at regular price, and this lower transaction utility mediates reduced purchase intentions for the promoted product."
+  ],
+  "one_line_summary": "Across secondary, field, and lab evidence, the paper shows that conditional promotions can backfire and lower total sales when precondition cost and discount are both high because consumers avoid buying both under the promotion and at regular price.",
+  "relation_to_prior_work": "extends prior conditional-promotion research by identifying boundary conditions versus no promotion where promotions can reduce, not just increase, promoted-product sales. It also extends reference-price and transaction-utility work to conditional promotions by distinguishing the roles of precondition cost and discount.",
+  "research_gap": "Prior studies that compare conditional promotions with no promotion are few and largely report positive effects, typically in settings with relatively low precondition costs. The paper also notes limited evidence on how the precondition component, distinct from discount, enters consumers' utility judgments.",
+  "research_question": "When do conditional promotions increase versus decrease total sales of the promoted product relative to no promotion? The paper tests whether precondition cost and discount jointly determine this outcome and whether reduced transaction utility for regular-price purchase explains the backfire effect."
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Distinguishes digital brand safety incidents from other brand risks (e.g., recalls, scandals, and general spillovers) and frames brand safety as a distinct external risk in digital advertising ecosystems.",
+    "Introduces and tests a trust-erosion process in which unsafe ad adjacency reduces perceived brand trustworthiness, which then harms downstream brand outcomes.",
+    "Provides multimethod evidence and evidence-based mitigation guidance by identifying incident-, brand-, and consumer-level moderators of brand safety effects."
+  ],
+  "context": "The paper focuses on digital advertising environments where brand ads appear adjacent to platform content outside the brand's full control. Empirical contexts include Twitter/X conversations about real incidents and simulated ad placements on Facebook, X, and YouTube.",
+  "design_and_data": "Study 1 analyzes observational Twitter (now X) data for 86 brands with documented brand safety incidents, collecting about 6.7 million tweets in before/after windows around incident dates. The authors measure tweet sentiment with VADER and trust-related emotional intensity with NADE, then estimate fixed-effects regressions with tweet and user controls and descriptive moderator analyses. Six preregistered experiments on Prolific, MTurk with CloudResearch, and CloudResearch panels manipulate unsafe vs safe/no adjacent content, incident exposure mode (experience vs hearing), incident type, and brand-content fit across multiple platform scenarios. The experiments measure brand trust and brand evaluation outcomes and test mediation and moderation; additional web-appendix experiments examine response timing and follow-up ad messaging.",
+  "focal_constructs": [
+    "digital brand safety incidents",
+    "unsafe adjacent content",
+    "brand trustworthiness",
+    "brand evaluations",
+    "brand sentiment",
+    "incident type",
+    "brand-content fit",
+    "consumer brand connection"
+  ],
+  "main_findings": [
+    "Across real-world Twitter incident data and experiments, adjacency to unsafe content was associated with lower brand sentiment and lower consumer trust and evaluations than safe or no-adjacent-content conditions.",
+    "Brand trust consistently mediated the effect of unsafe adjacency on brand evaluations, and in the process tests it was a stronger pathway than several alternatives such as social norms, mood/affect, and responsibility attributions.",
+    "Moderator results showed heterogeneity: harms were stronger in hate-speech incidents and in descriptive analyses for service and hedonic brands and lower-liked/lower-familiar brands, hearing about incidents produced effects similar to firsthand exposure, and high perceived fit between brand and unsafe content attenuated harm."
+  ],
+  "one_line_summary": "Using Twitter incident data and preregistered experiments, the paper shows that digital brand safety incidents can harm brand outcomes primarily through reduced brand trust, with effects varying by incident, brand, and consumer factors.",
+  "relation_to_prior_work": "extends adjacency, spillover, contagion, and digital advertising research by modeling brand safety as a distinct digital reputational risk and by testing trust erosion as the key mechanism. It also refines prior mixed brand safety findings by showing boundary conditions tied to incident type, brand characteristics, and consumer beliefs.",
+  "research_gap": "Prior brand safety evidence is limited and mixed, and much of the related literature treats adjacent media context in broad positive vs negative terms rather than modeling specific digital brand safety incidents. The paper addresses calls to validate real brand safety threats and identify mechanisms and moderators of their effects.",
+  "research_question": "When do digital brand safety incidents, where a brand's ad appears next to unsafe content, produce negative brand outcomes? Why do these effects occur, especially through changes in perceived brand trust? How do incident type, brand characteristics, and consumer beliefs moderate the magnitude of these effects?"
+}

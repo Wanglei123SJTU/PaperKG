@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper claims to provide direct evidence that prior affective state determines whether gain- or loss-framed health messages are more persuasive in a consequential loss context.",
+    "It claims support for Isen's meaningful-loss perspective over the hedonic contingency prediction in this mammography setting.",
+    "It claims generalizability by replicating the affect x framing pattern with both induced mood and measured affect (CES-D), with implications for targeting health communications."
+  ],
+  "context": "The studies are set in health communication about breast cancer screening, using mammography messages for women ages 40-70. The message frame emphasizes either benefits of getting a mammogram (gain) or costs of not getting one (loss).",
+  "design_and_data": "Experiment 1 used 85 women recruited from a women's resource center; mood was induced as happy or sad via a life-event writing task, then participants read a gain- or loss-framed mammography booklet. Outcomes were persuasion intentions, perceived risk of breast cancer, perceived costs of mammography, anxiety, and perceived control, analyzed with MANOVA and simple effects. Experiment 2 used 124 women recruited via newspaper ads at a university medical center; affect was measured before exposure with the 20-item CES-D, participants received a personalized breast cancer risk estimate based on the Gail algorithm, and then the same gain/loss framing manipulation. Experiment 2 tested effects with regression (continuous affect) and MANOVA using grouped affect levels.",
+  "focal_constructs": [
+    "affective state",
+    "message frame (gain vs loss)",
+    "mammography persuasion intentions",
+    "perceived breast cancer risk",
+    "perceived costs of mammography",
+    "perceived control over health",
+    "anxiety"
+  ],
+  "main_findings": [
+    "In both experiments, affective state significantly interacted with message frame on persuasion: more positive participants were more persuaded by loss frames, whereas more negative participants were more persuaded by gain frames.",
+    "Perceived risk and perceived costs showed the same crossover pattern: positive affect plus loss framing produced higher risk estimates and lower perceived costs, while negative affect plus gain framing produced higher risk estimates and lower perceived costs.",
+    "Loss framing increased perceived control among positive-affect participants, and gain framing reduced anxiety among negative-affect participants, with these patterns replicated in Experiment 2."
+  ],
+  "one_line_summary": "Across two mammography-message experiments, the authors show that positive affect increases persuasion by loss frames while negative affect increases persuasion by gain frames, alongside corresponding shifts in risk, cost, control, and anxiety perceptions.",
+  "relation_to_prior_work": "extends prior health-framing research by showing that framing effects are contingent on recipients' affective state in a meaningful-loss context rather than showing a uniform loss-frame advantage. challenges the hedonic contingency prediction of gain-frame superiority among happy recipients in this context while aligning with Isen's account that positive affect can heighten attention to consequential negative information.",
+  "research_gap": "The paper states that direct evidence on affect x framing effects was lacking in contexts where losses are consequential, so prior findings from less meaningful-loss settings might not generalize. It also identifies limited evidence comparing positive versus negative affective states and motivates testing generalizability beyond induced mood by using self-rated affect.",
+  "research_question": "How does a recipient's affective state interact with gain- versus loss-framed mammography messages to influence persuasion? The paper also examines whether this interaction appears both when affect is experimentally induced and when affect is measured with a self-report scale."
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Identifies time-interval description (extent versus date) as a previously neglected factor that affects temporal discounting.",
+    "Shows across multiple experiments that extent descriptions reliably increase discounting relative to equivalent date descriptions across gains, losses, and different elicitation formats.",
+    "Provides process evidence that extent descriptions increase perceived interval length and tests an alternative subadditivity explanation."
+  ],
+  "context": "The paper studies consumer intertemporal monetary decisions, including prize delays, certificate-of-deposit investments, and deferral of debts (IRS taxes, parking tickets, and retail credit bills). Participants are undergraduate students evaluating hypothetical trade-offs between immediate and delayed outcomes.",
+  "design_and_data": "The author reports six experiments (with Experiment 1 split into 1A and 1B) using undergraduate samples from two U.S. universities, with between-subject manipulations of interval description (extent versus date; and in one study day versus month versus date). Tasks include specifying future amounts needed to delay gains, specifying how long to wait for larger gains, choosing between short-term/smaller and long-term/larger investment payoffs, and stating willingness to pay to defer losses. Several analyses use t-tests/ANOVA, and log transformations are applied where responses are positively skewed. A final experiment directly measures perceived interval length for objectively equivalent intervals described as extents or dates.",
+  "focal_constructs": [
+    "temporal discounting",
+    "time-interval description",
+    "extent versus date framing",
+    "intertemporal choice",
+    "discount rates for gains and losses",
+    "perceived interval length",
+    "subadditivity"
+  ],
+  "main_findings": [
+    "Across gain and investment tasks, extent descriptions led participants to require larger future payoffs and to accept shorter waiting times than equivalent date descriptions.",
+    "In binary investment choices, participants selected long-term larger payoffs less often when intervals were framed as extents, and in loss scenarios they were willing to pay more to defer debts under extent framing.",
+    "Equivalent intervals were rated as longer under extent descriptions than under date descriptions, and day-based versus month-based extent framing did not produce the predicted subadditivity pattern."
+  ],
+  "one_line_summary": "Across six experiments, describing equal delays as time extents rather than dates increased consumers' temporal discounting, with evidence that extent descriptions make intervals seem longer.",
+  "relation_to_prior_work": "introduces a framing-based determinant of discounting by showing that logically equivalent extent and date representations of time are not behaviorally interchangeable in intertemporal choice. It also tests Read's subadditivity-based alternative and finds the extent-date effect does not depend on increasing the number of implied subintervals.",
+  "research_gap": "Prior intertemporal-choice research had not directly tested whether logically equivalent delay descriptions as extents versus dates change discount rates. The paper argues that existing work largely presumed these representations would yield equivalent discounting, despite only indirect hints otherwise.",
+  "research_question": "Does describing the same delay interval as an extent of time (for example, eight months) versus as a date (for example, October 15) change consumers' temporal discount rates? The paper also asks whether this effect generalizes across gains and losses and whether perceived interval length helps explain it."
+}

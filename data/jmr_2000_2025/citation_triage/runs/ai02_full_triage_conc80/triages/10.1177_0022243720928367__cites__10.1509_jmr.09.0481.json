@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s core constructs include sequential search and platform filtering, and it explicitly positions itself against “targeted-search style mechanisms,” while the cited paper is directly about recommendation-ordered sequential search and stopping/comparison processes. Given this close mechanism-level overlap (rather than a generic topic mention), the citation could plausibly serve as a theory/mechanism anchor and should be reviewed in full.",
+  "triage_decision": "keep_for_relation_judgment"
+}

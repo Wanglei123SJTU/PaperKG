@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper shows that nontargeted spillovers from green policy implementation can persist as carryovers after repeal, and documents their short- to medium-term trajectories in two repeal settings.",
+    "The paper develops a break-even framework that compares incremental trash bag plastic weight with required single-use checkout bag savings to assess net policy impact during implementation and after repeal.",
+    "Using quasi-experiments with synthetic controls, the paper provides policy-relevant evidence on repeals by combining repeal cases (Austin, Dallas) with non-repeal checks (Seattle, Washington, DC)."
+  ],
+  "context": "The study examines municipal single-use grocery bag regulations in the United States: a ban in Austin, Texas, and a USD 0.05 fee in Dallas, Texas, both later repealed. The focal nontargeted outcome is trash bag purchasing, especially small trash bags used as close substitutes for grocery bags as trash liners.",
+  "design_and_data": "The authors use NielsenIQ Retail Scanner data with weekly UPC-level sales and prices, aggregated to city-week trash bag sales by bag size. They implement city-level quasi-experiments using other U.S. cities without bag policies as controls (14 controls for Austin and 15 for Dallas), and estimate effects with a Bayesian synthetic control model. The model is fit on preimplementation periods and used to estimate dynamics through implementation and postrepeal periods. They report robustness checks including alternative synthetic control specifications, placebo tests, alternative geographic granularity, and additional non-repeal policy cases in Seattle and Washington, DC.",
+  "focal_constructs": [
+    "policy repeal",
+    "spillover effects",
+    "carryover effects",
+    "single-use bag ban and fee policies",
+    "trash bag sales",
+    "consumer inertia",
+    "break-even thresholds",
+    "net plastic bag savings"
+  ],
+  "main_findings": [
+    "Bag policy implementation increased small trash bag sales substantially in both cities, indicating negative spillovers (about +67.81% in Austin over the first 24 implementation months and +70.95% in Dallas during the 5-month fee period).",
+    "After repeal, negative spillovers carried over: Austin remained elevated throughout the 18-month postrepeal window (average +44.74% vs. synthetic control, still above baseline at the end), while Dallas declined quickly and returned to baseline after about 13 months.",
+    "Break-even analysis indicates modest required checkout bag savings to offset spillovers and carryovers after repeal: about 0.200 bags per trip in Austin (roughly one bag every five trips) and 0.149 in Dallas (roughly one bag every seven trips), suggesting likely positive net plastic savings under plausible savings levels."
+  ],
+  "one_line_summary": "Using quasi-experimental evidence from repealed bag policies in Austin and Dallas, the paper finds that policy-induced trash bag spillovers persist after repeal and estimates low break-even checkout bag reductions needed for net plastic benefits.",
+  "relation_to_prior_work": "extends prior policy-repeal research that has mainly focused on targeted behaviors by studying nontargeted spillovers and their persistence after repeal. It extends prior single-use bag policy studies that evaluate implementation spillovers by adding postrepeal carryover dynamics and break-even thresholds. It also connects the observed persistence to consumer state dependence and out-of-stock substitution ideas discussed in marketing.",
+  "research_gap": "Prior repeal studies mostly examine targeted outcomes, and bag-policy spillover studies focus on implementation rather than what happens after repeal. The paper identifies an unexamined gap on whether nontargeted spillovers persist postrepeal and how to assess net policy impact when both spillovers and carryovers are present.",
+  "research_question": "The paper asks whether nontargeted spillovers induced by policy implementation persist after policy repeal as carryovers. It then asks how those carryovers evolve in the short and medium term after repeal. Finally, it asks what break-even thresholds of single-use bag reduction are needed for policy benefits to offset spillovers during implementation and carryovers after repeal."
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citation appears in a specific methodological step, not just in a background list. In the holdout validation section, the authors explicitly follow Bodapati (2008) to compute holdout likelihood at each MCMC draw and then summarize with posterior mean log-likelihood for model comparison. This gives the cited paper a concrete role in how the citing paper evaluates predictive performance, even though it is not central to the main theoretical contribution.",
+  "relation_description": "The citing paper applies Bodapati (2008)'s holdout evaluation approach for Bayesian estimation, using per-draw holdout likelihood calculations and posterior mean log-likelihood to compare competing model specifications.",
+  "relation_type": "applies"
+}

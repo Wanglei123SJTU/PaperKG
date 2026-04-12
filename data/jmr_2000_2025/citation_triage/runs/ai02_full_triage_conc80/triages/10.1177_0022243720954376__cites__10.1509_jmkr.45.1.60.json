@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper appears directly relevant to the citing paper’s core modeling problem: the citing study jointly models channel visits and purchase decisions along a path-to-purchase, while the cited study develops a dynamic joint model of purchase incidence/order size and channel selection in multichannel migration. Given this strong construct and method overlap (channel migration, purchase dynamics, heterogeneous customer-level Bayesian modeling), this is not an obvious incidental mention and merits full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

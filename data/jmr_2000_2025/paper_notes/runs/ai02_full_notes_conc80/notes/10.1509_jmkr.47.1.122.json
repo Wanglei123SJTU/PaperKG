@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper claims that even when consumers consciously discount insincere flattery because of a salient ulterior motive, the initial favorable reaction persists as an implicit attitude that coexists with a less favorable explicit attitude.",
+    "It claims a contribution to dual attitudes theory by showing differential consequences: implicit attitudes are stronger predictors of delayed behavior and are more resistant to later negative information, whereas explicit attitudes better predict immediate explicit behavior.",
+    "It claims a theoretically derived boundary condition for flattery effects: prior self-affirmation reduces the implicit positivity from flattery and thereby narrows or removes the implicit-explicit attitude gap."
+  ],
+  "context": "The studies are set in a marketing persuasion context where a department store uses flattering messages (often in direct-mail form) while clearly trying to drive purchases. The evidence comes from laboratory experiments with Hong Kong university participants evaluating stores and making intention or coupon-choice responses.",
+  "design_and_data": "The paper reports four experiments using a retail-store flattery paradigm (plus a pretest): participants read a flattering message from a store with an evident sales motive and then reported evaluations under time-constrained (implicit) or unconstrained (explicit) conditions. Experiment 1a (n=55, between-subjects) and Experiment 1b (n=66, within-subjects) test whether implicit evaluations are more favorable than explicit evaluations after flattery. Experiment 2 (n=200; 2x2 measure type x immediate vs 3-day delayed behavior, plus a no-flattery control group n=68) links attitudes to intentions and actual coupon choice between the flattering store and a comparison store. Experiment 3 (n=105; 2x2 self-esteem threat vs self-affirmation x measure type) measures evaluations before and after negative information about the store to test boundary conditions and attitude resistance.",
+  "focal_constructs": [
+    "insincere flattery",
+    "implicit attitudes",
+    "explicit attitudes",
+    "ulterior motive salience",
+    "delayed behavior",
+    "attitude resistance to negative information",
+    "self-enhancement motive",
+    "self-affirmation"
+  ],
+  "main_findings": [
+    "When a store's flattery carried a salient ulterior motive, participants still showed more favorable implicit than explicit evaluations, consistent with coexisting dual attitudes rather than full replacement by a corrected attitude.",
+    "Implicit attitudes predicted delayed purchase intentions and delayed store coupon choice better than explicit attitudes, while explicit attitudes predicted immediate explicit behavior better than implicit attitudes.",
+    "Implicit evaluations were more resistant than explicit evaluations to subsequent negative information about the store, and prior self-affirmation reduced the implicit positivity from flattery so that implicit and explicit evaluations converged."
+  ],
+  "one_line_summary": "Across four retail-focused experiments, the paper shows that insincere flattery can leave a favorable implicit attitude that survives explicit discounting and exerts stronger delayed and resistant influence than explicit evaluations.",
+  "relation_to_prior_work": "extends flattery research that emphasizes correction under salient ulterior motives by showing that corrected explicit judgments can coexist with favorable implicit reactions. It also extends dual attitudes work by introducing a timing-based account of behavioral prediction (immediate vs delayed) and by identifying a self-affirmation boundary condition for implicit-explicit divergence.",
+  "research_gap": "Prior consumer flattery studies largely conclude that salient ulterior motives trigger discounting, but they do not test whether an initial positive reaction persists as a separate implicit attitude after correction. The dual attitudes literature had also not clearly examined how implicit versus explicit attitudes differentially predict delayed consequences in this persuasion setting.",
+  "research_question": "Does insincere, motive-transparent flattery in a marketing context produce coexisting implicit and explicit attitudes rather than a single corrected attitude? If so, which attitude better predicts later outcomes such as delayed behavior and resistance to counterattitudinal information, and when does the implicit-explicit gap shrink?"
+}

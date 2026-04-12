@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citation is used in the methods development, not just in a background list. The paper explicitly states that its two-stage 2sCOPE procedure is similar to the control-function approach of Petrin and Train (2010) because it adds a first-stage residual-type term to correct endogeneity. It then contrasts its contribution against that approach by emphasizing that 2sCOPE is IV-free, so Petrin and Train serves as a meaningful methodological benchmark for positioning the new estimator.",
+  "relation_description": "The citing paper builds on the control-function logic exemplified by Petrin and Train (2010) and adapts it into a copula-based two-stage generated-regressor method. It refines that setup by removing the need for IV-based exclusion restrictions in constructing the endogeneity correction term.",
+  "relation_type": "refines"
+}

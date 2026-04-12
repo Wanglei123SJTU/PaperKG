@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper identifies time-interval description (duration vs date) as a consequential presentation factor in whether consumers initiate goal pursuit, even when the objective interval is unchanged.",
+    "It proposes and tests an account in which date descriptions cue intrainterval obligations and shift attention toward the goal-pursuit process, whereas duration descriptions shift attention toward outcomes.",
+    "It specifies boundary conditions by showing that the effect depends on goal outcome valence and weakens for very long completion intervals."
+  ],
+  "context": "The studies examine consumer goal decisions in marketing-relevant settings where actions are tied to a completion window, such as weight loss, saving money, purchasing a language-learning app, taking a Spanish class, reading a finance book, studying, watching television, and reducing dairy consumption. The framing manipulations mirror common communications that describe the same interval either as a duration or as calendar dates.",
+  "design_and_data": "The article reports seven randomized between-subjects experiments that manipulate interval description (duration vs date) and measure willingness to adopt goals. Samples include undergraduate/graduate students and online-panel participants, with study-level sample sizes ranging from 49 to 206 valid participants. Outcomes include binary adoption choices and scaled likelihood judgments, and one study uses a behavioral proxy with perceived real monetary consequences (clicking a purchase link for an app). Additional studies test mechanism and boundaries via manipulations of process difficulty, goal type (studying vs television), and interval length (one month vs three years), plus mediation analyses of reported process vs outcome reliance.",
+  "focal_constructs": [
+    "goal-pursuit decisions",
+    "time-interval descriptions",
+    "duration framing",
+    "date framing",
+    "outcome focus",
+    "process focus",
+    "goal outcome valence",
+    "interval length"
+  ],
+  "main_findings": [
+    "Across multiple goals and measures, participants were generally more likely to adopt goals when the completion interval was described by duration rather than by date.",
+    "Date framing made decisions more sensitive to increased process difficulty, while duration framing increased relative outcome (vs process) focus, and this relative focus statistically mediated the framing effect on goal adoption.",
+    "The effect reversed for a goal with negative long-term outcomes but enjoyable process (watching more television) and was attenuated when the completion interval was very long (three years)."
+  ],
+  "one_line_summary": "Across seven experiments, describing a goal-completion window as a duration rather than a calendar date generally increased goal adoption by shifting decision weight toward outcomes and away from the pursuit process.",
+  "relation_to_prior_work": "extends prior work on temporal descriptions and numerosity beyond planning and intertemporal discounting by showing effects on goal-initiation decisions, and connects this effect to outcome-versus-process focus in goal-pursuit research.",
+  "research_gap": "Prior goal-adoption research emphasized personal and social drivers of goal pursuit but had not examined whether equivalent goals are adopted differently based on how their completion interval is described. Prior time-description research focused on planning and discounting outcomes, leaving unclear whether duration-vs-date framing changes willingness to initiate goal pursuit.",
+  "research_question": "Does willingness to initiate goal pursuit change when the same completion interval is framed as a duration versus as calendar dates? If so, is the effect explained by a shift in attention from the process of pursuing the goal to the outcomes of achieving it, and when does this effect weaken or reverse?"
+}

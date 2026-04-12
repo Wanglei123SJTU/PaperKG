@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The authors present a modeling approach to solve the incomplete information problem by inferring category behavior from transactions observed at a single supplier.",
+    "They combine a category interpurchase-time model with a card-usage incidence model to derive the distribution of observed interpurchase times, enabling estimation of individual share of wallet and probabilities of unobserved intervening purchases.",
+    "They introduce and operationalize lifetime category value of the customer (LT(C)V) as a category-level extension of firm-level lifetime value analysis."
+  ],
+  "context": "The empirical application is a major credit card issuer (Princess Bank, pseudonym) and focuses on cardholders' grocery purchases. The issuer observes only transactions made with its own card, not purchases made with other cards, checks, or cash.",
+  "design_and_data": "The approach specifies two submodels: category interpurchase times are assumed Erlang(2, beta_i), and card-use incidence is a two-state first-order Markov process with transition probabilities phi_i and lambda_i. The authors combine these submodels into a likelihood for observed interpurchase times and estimate individual-level parameters with hierarchical Bayes using cardholder and zip-code covariates; a second estimation variant also uses external aggregate information (16% aggregate SOW and zip-code food expenditure data). Data are 25 months of issuer transactions (Feb 1999-Feb 2001); the estimation sample has 350 cardholders and 8,348 grocery purchases in the first 13 months, with validation on the next 12 months for the same customers (7,912 purchases) and a 50-customer holdout sample (782 purchases).",
+  "focal_constructs": [
+    "incomplete information problem",
+    "interpurchase times",
+    "share of wallet (SOW)",
+    "Erlang-2 category interpurchase distribution",
+    "two-state Markov card-usage process",
+    "hierarchical Bayesian estimation",
+    "lifetime category value (LT(C)V)"
+  ],
+  "main_findings": [
+    "Estimated category grocery interpurchase times are far shorter than observed issuer-only times (mean 5.34 days vs observed mean 39.11 days), consistent with upward bias from missing competitor transactions.",
+    "Estimated grocery SOW is heterogeneous across cardholders, with mean about 0.19 (Approach 1) and modal values in the high teens.",
+    "In out-of-time validation for estimation customers, the proposed model using Approach 1 outperforms both the AFTM benchmark and a naive model on MAE (12.69 vs 13.10 and 14.33 days), while in new-customer holdout it performs comparably to AFTM and better than naive."
+  ],
+  "one_line_summary": "The paper develops and validates a hierarchical Bayesian model that infers credit card share of wallet and category purchase timing from a single issuer's transaction data despite unobserved competitor transactions.",
+  "relation_to_prior_work": "extends prior interpurchase-time and hazard-model research that typically assumes fully observed purchases by explicitly modeling the link between observed firm transactions and unobserved competing-supplier purchases.",
+  "research_gap": "Prior marketing interpurchase-time models largely presume that purchase occasions are observable, but firms' databases miss transactions made with competitors. The paper targets this unresolved incomplete information problem that biases firm-level recency and frequency measures relative to category-level behavior.",
+  "research_question": "How can a firm infer customer category-level interpurchase behavior and share of wallet when it only observes transactions made with its own card? In the credit card setting, can a model that combines a parametric category interpurchase-time process with a card-usage process recover individual SOW and support better prediction from incomplete data?"
+}

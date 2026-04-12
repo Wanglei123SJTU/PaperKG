@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a new anticipated regret function based on performance uncertainty and derives key properties (regret decreases with focal utility, increases with stronger forgone options, and is nondecreasing in choice-set size).",
+    "It introduces a generalized epsilon-constraint framework for dual-goal choice, where consumers either maximize utility subject to a regret threshold or minimize regret subject to a utility threshold, with an extension path to multiple goals.",
+    "It develops an integrated consideration-and-choice likelihood and shows the approach is tractable to estimate and improves empirical fit and prediction in applications."
+  ],
+  "context": "The paper studies consumer decisions in settings with uncertain performance outcomes where regret is salient, using three stated-choice domains: grocery shopping during COVID-19, over-the-counter pain relievers with side-effect risk, and airline ticket purchase with delay risk. In each setting, respondents report both considered options and final choice.",
+  "design_and_data": "The model augments random utility with two errors, where eta is private information known to consumers and xi is performance uncertainty unknown to both consumer and researcher at choice time; anticipated regret is defined from expected forgone-maximum utility minus expected utility of the focal option. The authors formulate dual-goal choice using epsilon-constraints and estimate a joint likelihood for consideration and final choice, using Monte Carlo simulation and Clark-style approximation for expected maxima. Estimation uses hierarchical Bayes random effects with MCMC (80,000 iterations, half burn-in), and sensitivity analysis indicates 4,000 simulation draws for stable estimation in their setting. Empirical data are MTurk national samples: grocery shopping (n=394, 14 tasks), pain relievers (n=381, 12 tasks), and air travel (n=391, 15 tasks), with model comparisons against utility-max MNL, regret-min MNL, weighted-sum MNL, and two constrained formulations.",
+  "focal_constructs": [
+    "utility maximization",
+    "regret minimization",
+    "anticipated regret",
+    "performance uncertainty",
+    "epsilon-constraint method",
+    "consideration sets",
+    "Pareto-optimal alternatives"
+  ],
+  "main_findings": [
+    "Across all three applications, constrained dual-goal formulations using consideration data fit better and predict better than utility-only, regret-only, and weighted-sum MNL alternatives.",
+    "The best-fitting goal orientation is context dependent: regret minimization with a utility constraint fits best for grocery shopping and pain relievers, while utility maximization with a regret constraint fits best for air travel.",
+    "Compared with MNL benchmarks, the proposed constrained models imply lower price elasticities and more gradual expected demand responses, and they generate assortment-dependent consideration effects through anticipated regret."
+  ],
+  "one_line_summary": "The paper develops a discrete choice model that jointly handles utility maximization and regret minimization via an epsilon-constraint framework with observed consideration sets and shows superior fit and prediction across three uncertainty-heavy consumer contexts.",
+  "relation_to_prior_work": "introduces a constrained multi-goal alternative to prior weighted-sum utility-regret models by keeping utility and regret as separate objective and constraint components rather than forcing full linear exchangeability. It also departs from random regret formulations that rely only on observed attributes by grounding regret in an explicit performance-uncertainty error term.",
+  "research_gap": "Standard random utility models assume consumers know all relevant outcome information at choice time, which is restrictive when outcome performance is uncertain and regret matters. Prior dual-goal models often collapse utility and regret into weighted sums that may impose unrealistic exchangeability, and existing regret formulations provide limited structural grounding for uncertainty-driven regret in multinomial choice.",
+  "research_question": "How should consumer choice be modeled when people simultaneously pursue utility maximization and regret minimization under performance uncertainty? Can an epsilon-constraint representation, supported by consideration-set data, provide a tractable and empirically superior account of consideration and final choice relative to utility-only, regret-only, and weighted-sum models?"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the related literature and a footnote, the citing paper explicitly identifies Liu, Lee, and Srinivasan (2019) as a recent deep-learning study of review content focused on valence-level analysis and purchase effects. The citation is used to mark the boundary of prior work and motivate the citing paper's claimed contribution on fine-grained attribute sentiment scoring and language-structure modeling. This is more than a passing background mention because it directly supports the paper's positioning of novelty against a specific prior study.",
+  "relation_description": "The citing paper extends the cited paper's line of deep-learning-based review analysis by moving from valence-oriented content effects to fine-grained attribute sentiment scoring and additional modeling of missing attributes. The cited paper is used as a prior benchmark in framing what the new method adds.",
+  "relation_type": "extends"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "It specifies reference price effects in brand choice with range-frequency theory, providing a more complete distribution-sensitive alternative to single-point reference price measures.",
+    "It shows that the value of range-frequency modeling rises with higher second and third moments of the reference price distribution, especially in volatile pricing environments.",
+    "It identifies moderators of range versus frequency weighting, showing stronger range effects for coupon users and stronger frequency effects under price-trend exposure."
+  ],
+  "context": "Empirical tests use supermarket scanner panel purchases in three packaged-goods categories: 32-ounce ketchup, one-pound stick margarine, and 6.5-ounce light tuna. The data come from ACNielsen, covering nine stores in two markets over 123 weeks in a high-low promotional pricing environment.",
+  "design_and_data": "The authors estimate mixed multinomial logit brand choice models with household-level random coefficients, including price, display, feature, loyalty, and alternative price-judgment terms. For each category, they compare baseline stimulus-based and memory-based reference price formulations against range-frequency formulations, and also estimate models containing both terms; fit is evaluated with estimation-sample BIC, validation-sample log-likelihoods, and likelihood-ratio tests for nested models. Data are split into 52-week initialization, 44-week estimation, and 27-week validation samples, with households required to have at least 10 category purchases across the 123 weeks. The memory-based range-frequency window is selected empirically by category (4 months for margarine, 7 for ketchup, 10 for tuna).",
+  "focal_constructs": [
+    "consumer price judgments",
+    "reference prices",
+    "range-frequency theory",
+    "stimulus-based reference price context",
+    "memory-based reference price context",
+    "reference price distribution variance",
+    "reference price distribution skewness",
+    "brand choice utility"
+  ],
+  "main_findings": [
+    "Range-frequency price judgment coefficients are negative and significant, and adding them improves fit over baseline single-point reference price models in both stimulus-based and memory-based choice contexts across categories.",
+    "The effect of range-frequency judgments on choice is stronger when the reference price distribution has variance and when it is more skewed.",
+    "Frequency receives more weight when households are exposed to price trends, whereas range receives more weight for coupon users."
+  ],
+  "one_line_summary": "Using ACNielsen scanner panel data, the paper embeds range-frequency theory in mixed logit brand choice models and shows that distribution-sensitive price judgments outperform single-point reference price measures.",
+  "relation_to_prior_work": "extends prior reference price choice models that rely on central tendency or single-point summaries by incorporating range and rank information from price distributions. extends laboratory evidence on range-frequency effects in price perception to actual household brand choices in scanner panel data.",
+  "research_gap": "Brand choice models usually operationalize reference price with a single-point summary, typically central tendency, which captures first-moment effects but cannot represent distributional effects such as range, modality, and skew documented in behavioral research. The paper addresses how to incorporate these distributional effects into scanner-data brand choice models.",
+  "research_question": "Can consumer price judgments in brand choice be modeled more accurately by range-frequency theory than by standard single-point reference price formulations in both stimulus-based and memory-based contexts? The paper also asks when range-frequency judgments matter most, such as under higher variance and skew in reference price distributions, and what shifts the range-versus-frequency weighting in those judgments."
+}

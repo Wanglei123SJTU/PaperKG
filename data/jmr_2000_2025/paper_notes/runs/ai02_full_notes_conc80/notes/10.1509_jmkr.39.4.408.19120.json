@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides the first revealed-preference empirical evidence of advertising spillover effects across product categories for umbrella brands.",
+    "Introduces a parsimonious dynamic model in which advertising and use experience shift both utility mean and utility variance across categories by updating random-utility variance and covariance over time.",
+    "Quantifies and compares own-category versus cross-category effects of price, coupon availability, display, feature, and advertising for umbrella brands."
+  ],
+  "context": "The study is set in frequently purchased packaged goods, specifically toothpaste and toothbrush categories with umbrella brands that appear in both categories. It uses U.S. household scanner environments from Chicago and Atlanta markets.",
+  "design_and_data": "The authors estimate a two-category multivariate multinomial probit choice model with household heterogeneity, cross-category marketing-mix terms for umbrella brands, and correlated random utility components across categories. They model dynamics by updating the stochastic utility component with Kalman-filter equations based on past use experience and advertising stock (constructed from exponentially smoothed weekly GRPs), so both utility variance and covariance can evolve over time. Data are ACNielsen scanner panels over 157 weeks (1991-1994), with four brands per category and two shared umbrella brands across toothpaste and toothbrushes. Estimation uses simulated methods (probability simulator and method of simulated moments), with Chicago used for calibration and Atlanta for out-of-sample validation.",
+  "focal_constructs": [
+    "umbrella branding",
+    "cross-category spillover effects",
+    "advertising stock",
+    "sales promotions",
+    "use experience",
+    "consumer uncertainty",
+    "utility mean and variance updating",
+    "multicategory brand choice"
+  ],
+  "main_findings": [
+    "Advertising and use experience for an umbrella brand in one category have positive spillover effects on choice in the other category, and price, coupon availability, and display also show significant cross-category effects; feature spillover is found only toward toothbrush choice.",
+    "Advertising and use experience significantly reduce the variance of the random utility component over time across categories, indicating uncertainty reduction and supporting an uncertainty-reducing role for advertising across categories.",
+    "Simulation results show economically meaningful spillovers relative to own-effects, with coupon spillovers generally the largest and advertising spillovers typically next largest."
+  ],
+  "one_line_summary": "Using ACNielsen toothpaste and toothbrush panel data, the paper shows that umbrella-brand marketing actions spill over across categories and that advertising and use experience reduce cross-category choice uncertainty over time.",
+  "relation_to_prior_work": "extends prior umbrella-brand learning work by moving beyond cross-category use-experience effects to estimate cross-category effects of advertising and multiple promotion instruments in household choice data. It also extends multicategory choice modeling by allowing the random-utility variance and covariance to be dynamically updated by both use experience and advertising.",
+  "research_gap": "The paper argues that there is little empirical evidence on marketing-mix synergies for umbrella brands, especially advertising spillovers across categories. Prior related work primarily examined cross-category use-experience learning and did not jointly model promotion/advertising spillovers with dynamic uncertainty updating in choice.",
+  "research_question": "Do marketing-mix actions for umbrella brands in one category (advertising, price, coupon, display, and feature) affect sales/choice in another category, and how large are these cross-effects relative to own-effects? Do advertising and use experience in one category reduce consumer uncertainty in the other category over time, implying effects on both utility mean and utility variance?"
+}

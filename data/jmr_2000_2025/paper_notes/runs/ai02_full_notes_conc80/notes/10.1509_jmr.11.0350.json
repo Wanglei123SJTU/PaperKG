@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper extends marketing-finance interface work to venture capital decisions for very young ventures rather than IPO-stage settings.",
+    "It develops a legitimacy-based explanation for how CMO human and social resources can endow new ventures with marketing legitimacy and improve funding prospects.",
+    "It is presented as the first study of CMOs in new ventures, adding a contingency view that examines education and disaggregated experience (marketing, industry, start-up) rather than only CMO presence."
+  ],
+  "context": "The empirical setting is seed and early-stage high-technology new ventures drawn from CrunchBase, with firms limited to age <= 3 years and <= 250 employees. The study examines venture capital acquisition during a 330-day observation window.",
+  "design_and_data": "The authors assembled multisource secondary data: CrunchBase for ventures and funding events, hand-collected executive biographies from LinkedIn/company websites/Factiva, Compustat for industry measures, and USPTO records for patent and trademark controls. The final sample includes 2,945 new ventures, with 283 ventures employing a CMO and 42 observed VC funding events among those 283 during the observation period; unfunded cases are right-censored. They estimate a two-stage Heckman-type continuous-time hazard model (DURSEL, full-information maximum likelihood) to model time to funding while correcting for selection into having a CMO.",
+  "focal_constructs": [
+    "venture capital funding likelihood",
+    "marketing legitimacy",
+    "CMO education",
+    "CMO marketing experience",
+    "CMO industry experience",
+    "CMO start-up experience",
+    "industry legitimacy",
+    "task-related uncertainty (demand instability and competitive intensity)"
+  ],
+  "main_findings": [
+    "CMO education, CMO marketing experience, and CMO industry experience are positively related to the likelihood of VC funding, while CMO start-up experience has no significant direct effect.",
+    "The positive effect of CMO industry experience is stronger when demand instability is higher and when competitive intensity is higher, and the effect of CMO start-up experience is stronger under higher competitive intensity.",
+    "Contrary to the predicted direction, the positive effects of CMO education and CMO industry experience are stronger when industry legitimacy is higher rather than lower."
+  ],
+  "one_line_summary": "Using longitudinal multisource data on 2,945 high-technology new ventures, the study finds that specific CMO qualifications are associated with higher VC funding likelihood, with several effects contingent on environmental conditions.",
+  "relation_to_prior_work": "extends prior marketing-finance and CMO research by moving from IPO-stage/public-firm settings to venture capital funding of younger ventures and by examining CMO characteristics in start-ups. It also applies legitimacy theory in this context to frame CMO attributes as investor-relevant signals.",
+  "research_gap": "Prior marketing research was relatively silent on how marketing-related factors influence early venture capital funding, with most investor-focused work centered on IPO or public-market settings. The role of CMOs in new ventures, especially specific CMO attributes beyond established funding criteria, had not been examined.",
+  "research_question": "Do characteristics of a new venture's chief marketing officer influence the venture's likelihood of obtaining venture capital beyond established funding criteria? The paper specifically tests whether CMO education and different forms of CMO experience function as legitimacy signals and whether their effects depend on industry legitimacy and task-related uncertainty."
+}

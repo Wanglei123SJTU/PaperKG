@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Sethuraman, Tellis, and Briesch (2011) repeatedly as a major prior benchmark for advertising-effect meta-analysis, including motivation for a new duration/carryover study and comparative interpretation of results. It does more than mention the study: it explicitly argues that the cited paper's long-term elasticity derivations can be incorrect for multiplicative specifications, and then develops corrected LSTE transformation logic across model forms. The cited paper also informs the citing paper's database construction, hypothesis setup, and robustness approach, indicating a meaningful functional role in framing and method.",
+  "relation_description": "The citing paper builds on STB (2011) as a key benchmark but substantially qualifies it by correcting how long-term effects should be derived from carryover and response-model specifications. It then re-estimates broader carryover generalizations and contrasts them against STB's reported elasticity patterns.",
+  "relation_type": "refines"
+}

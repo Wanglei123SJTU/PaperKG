@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and tests a dual-role account in which discrete emotion valence supplies coping resources, while self/other relatedness supplies informational compatibility with message referent.",
+    "It identifies when self-focused versus family-focused health appeals are more or less effective by showing compatibility effects under positive emotions and reversed compatibility under negative emotions.",
+    "It provides process evidence by linking compatibility to processing depth/quality and by tracking pre-post emotional deterioration after health-message exposure."
+  ],
+  "context": "The studies examine health-risk communications about hepatitis C using ad appeals that emphasize consequences for the self or for family/close others. The empirical setting is controlled lab studies with U.S. undergraduate participants evaluating health ads and, in one study, a New York Times hepatitis C article.",
+  "design_and_data": "Four between-subject laboratory experiments were conducted with undergraduate students at a large northeastern U.S. university (N = 80, 103, 188, and 98). Experiments 1 and 2 primed discrete emotions via autobiographical recall (happiness vs peacefulness; sadness vs agitation), manipulated message referent (self vs family), and measured perceived hepatitis C self-risk. Experiment 3 used a magazine-style emotion prime with all four emotions in a 2 x 2 x 2 design (valence x relatedness x referent), and measured recall, reading time, attention, quiz accuracy, article attitudes, and self-risk. Experiment 4 measured emotions before and after ad exposure, operationalized compatibility via measured independent vs interdependent self-view crossed with self vs family referent, and measured self-risk plus concern/testing intentions.",
+  "focal_constructs": [
+    "discrete emotions",
+    "emotion valence",
+    "self/other relatedness",
+    "message referent (self vs family)",
+    "emotion-message compatibility",
+    "health message effectiveness",
+    "perceived self-risk",
+    "depth and quality of information processing"
+  ],
+  "main_findings": [
+    "When participants were in positive emotions, compatible emotion-referent pairings increased message effectiveness (e.g., happy-self and peaceful-family produced higher risk perceptions and more favorable article attitudes than incompatible pairings).",
+    "When participants were in negative emotions, compatibility reversed: compatible pairings reduced effectiveness relative to incompatible pairings (lower risk perceptions, less favorable attitudes, and reduced processing).",
+    "Depth and quality of processing mediated the valence x compatibility effect on persuasion in Experiment 3, and Experiment 4 showed that compatible aversive appeals increased negative emotional state (emotional deterioration) along the corresponding self- or other-related emotion dimension."
+  ],
+  "one_line_summary": "Across four experiments, the paper shows that self- versus family-referent hepatitis C messages work best when they match positive discrete emotions, but the same compatibility backfires under negative emotions because processing drops and negative affect increases.",
+  "relation_to_prior_work": "extends prior health-communication and emotion-as-information work by moving beyond broad mood and fear-appeal effects to discrete emotions defined by valence and self/other relatedness, and by testing their interaction with self- versus family-referent appeals. It also refines compatibility research by showing that compatibility can reduce persuasion in aversive health contexts when people are in negative emotional states.",
+  "research_gap": "Prior health marketing work emphasized cognitive moderators and broad affective states, with limited attention to which discrete emotions matter for message effectiveness. The paper addresses the open questions of how discrete emotions interact with self- versus family-referent health appeals and what process drives these effects.",
+  "research_question": "How do discrete emotions influence the effectiveness of health messages that frame illness consequences for the self versus the family? The authors test whether valence determines coping resources for processing aversive health information, while self/other relatedness determines compatibility with message referent, and whether this explains persuasion outcomes."
+}

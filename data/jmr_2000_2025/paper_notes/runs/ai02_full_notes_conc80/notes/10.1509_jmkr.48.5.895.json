@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper claims to provide a marketing-focused account of elections by jointly examining candidate appearance, party brand image, campaign spending, and negative advertising.",
+    "The authors explicitly claim to extend prior appearance research by decomposing broad competence into distinct visual inferences, especially competence versus intelligence, and showing that these traits have party-contingent effects.",
+    "The paper claims that interactions between candidate appearance and party brand alter advertising effects, particularly the effectiveness of negative advertising."
+  ],
+  "context": "The substantive setting is U.S. congressional elections, with emphasis on two-party competition between Democrats and Republicans. The evidence combines controlled evaluations of candidate photos and ad stimuli with analyses of election outcomes and campaign advertising activity.",
+  "design_and_data": "The authors run multiple lab/online studies and a field analysis. They first build a face-trait database from 153 U.S. House races (2000, 2002, 2004), using candidate photos and participant ratings of relative competence, intelligence, trustworthiness, and likeability, plus party-guess judgments; they also run a 130-person survey to validate party-level competence-versus-intelligence associations. Study 1 (n = 327; 2 x 2 x 2 between-subjects) tests appearance x party effects on candidate evaluations, and Study 2 (n = 291; 2 x 2 x 2) tests appearance x party under negative advertising; follow-ups test stereotype-based alternatives. Study 3 regresses incumbent vote share on appearance measures, spending and negative-tone measures (Federal Election Commission and Wisconsin Advertising Project), and district partisanship (Cook index), and Study 4 tests whether visual party stereotypicality predicts outcomes.",
+  "focal_constructs": [
+    "appearance-based trait inferences",
+    "competence versus intelligence",
+    "party brand trait associations",
+    "visual party stereotypes",
+    "campaign advertising spending",
+    "negative advertising effectiveness",
+    "election vote share"
+  ],
+  "main_findings": [
+    "Candidate evaluations depended on an interaction between appearance and party label: intelligent-looking candidates were favored more when labeled Democrat, and competent-looking candidates were favored more when labeled Republican.",
+    "In congressional election data, party-contingent trait advantages predicted vote share: Democrats benefited from looking more intelligent than competent, while Republicans benefited from looking more competent than intelligent.",
+    "Negative advertising effects were moderated by appearance-party trait fit, and matching a broad visual party stereotype did not consistently explain candidate advantage."
+  ],
+  "one_line_summary": "Using experiments and U.S. House election data, the paper shows that appearance-based trait inferences influence electoral outcomes mainly when they match party-level trait associations, with important implications for negative advertising effects.",
+  "relation_to_prior_work": "extends prior work that linked facially inferred competence to election success by separating competence from intelligence and modeling how these inferences interact with party brand associations and advertising strategy.",
+  "research_gap": "Prior studies had examined candidate appearance, campaign spending, and negative advertising largely in isolation, and appearance work emphasized aggregate competence rather than finer trait distinctions. The paper also notes a lack of empirical evidence on whether party brands are differentially associated with competence versus intelligence and whether trait-party match, rather than visual stereotype match, drives outcomes.",
+  "research_question": "How do personality trait inferences from candidate appearance interact with party brand associations to shape voter preference and congressional vote share? Do these appearance-party interactions also change the effects of campaign spending and especially negative advertising, and are the effects better explained by trait-party matching or by matching a visual party stereotype?"
+}

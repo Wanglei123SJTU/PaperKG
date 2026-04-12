@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces TMSE mobility networks, built from executives' prior work affiliations, as a way to identify information resources that top marketing and sales executives bring to firms.",
+    "Conceptualizes managerial social capital from executive movement links and tests its performance implications through information reach (centrality) and information richness (brokerage).",
+    "Provides a multilevel motivation-ability view showing how TMSE tenure (individual level) and firm market orientation (firm level) condition the value of managerial social capital for firm performance."
+  ],
+  "context": "The study is set in business-to-business semiconductor markets, where top marketing and sales executives move across firms and create informal interfirm ties. Empirically, it focuses on U.S. publicly listed semiconductor firms.",
+  "design_and_data": "The authors assemble data for 108 U.S. listed semiconductor firms (from an initial 138) and identify 142 current TMSEs in 2006, then trace their work histories from company websites, Hoover's, LinkedIn, Forbes, and LexisNexis. They construct a firm-level TMSE mobility network (108 x 108) and derive network measures for information reach (degree centrality) and information richness (brokerage based on structural holes). Firm performance is measured as log Tobin's q (year-end 2006), with lagged performance and firm controls from Compustat/CRSP. Estimation uses a regression framework with latent support points for unobserved heterogeneity and latent instrumental variable corrections for endogeneity in information reach, market orientation, and TMSE tenure.",
+  "focal_constructs": [
+    "TMSE mobility network",
+    "managerial social capital",
+    "information reach",
+    "information richness",
+    "degree centrality",
+    "brokerage position",
+    "TMSE tenure",
+    "market orientation"
+  ],
+  "main_findings": [
+    "In the main specification, information reach and information richness do not show significant unconditional main effects on Tobin's q.",
+    "Market orientation positively moderates the effects of both information reach and information richness on firm performance.",
+    "TMSE tenure positively moderates the information reach-performance relationship but not the information richness-performance relationship, and tenure shows a nonlinear (U-shaped) direct association with performance."
+  ],
+  "one_line_summary": "Using a TMSE mobility network in the U.S. semiconductor industry, the paper finds that network-based managerial social capital contributes to firm valuation primarily when firms have stronger market orientation and TMSEs are more tenured.",
+  "relation_to_prior_work": "extends social network and top-executive marketing research by treating executive mobility as an interfirm information network and by showing that network-position benefits depend on individual- and firm-level motivation-ability conditions.",
+  "research_gap": "Prior research recognized the strategic influence of top executives and studied network benefits in other settings, but it had not clearly established whether TMSEs' prior-affiliation ties translate into firm performance gains in B2B markets. The paper also addresses limited understanding of the conditions under which firms can absorb value from such mobility-based information access.",
+  "research_question": "Do social ties created by top marketing and sales executives through prior work affiliations improve firm performance in B2B markets? More specifically, do information reach (centrality) and information richness (brokerage) in TMSE mobility networks affect performance, and are these effects contingent on TMSE tenure and firm market orientation?"
+}

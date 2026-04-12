@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper explicitly uses a two-stage multivariate probit recognition model with MCMC estimation for multiple binary recognition outcomes, which closely matches the cited paper’s core contribution (hierarchical Bayes MCMC estimation for multivariate binomial probit with identification/postprocessing). This makes the cited work a plausible methodological source rather than a generic background mention. Given the direct DOI match and methodological overlap, this pair should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

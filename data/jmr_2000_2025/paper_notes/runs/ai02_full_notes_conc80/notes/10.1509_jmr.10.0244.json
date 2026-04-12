@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper identifies distinct coping processes for guilt and shame in health messaging, showing that these emotions do not operate identically in persuasion.",
+    "It establishes a differential framing fit: guilt appeals are more effective with gain frames, whereas shame appeals are more effective with loss frames, offering boundary conditions to prior negative-affect framing prescriptions.",
+    "It extends the fit-fluency account by proposing and testing coping activation as the mechanism through which emotion-frame fit increases fluency and message effectiveness."
+  ],
+  "context": "The paper studies responsible-drinking public service advertising in an anti-binge-drinking context with college-age participants. It examines both self-reported drinking-related intentions and behavioral responses to later alcohol advertisements.",
+  "design_and_data": "The authors report three experiments with undergraduate participants in between-subjects designs that manipulate emotion in the ad (guilt vs. shame) and message frame (gain vs. loss); Study 1 (N=95) tests persuasion outcomes, with a separate manipulation pretest (N=46). Study 1 measures likelihood of binge drinking, time spent viewing subsequent alcohol ads, and future intention to try advertised alcoholic beverages. Study 2 (N=92) uses the same core design and adds measures of efficacy, challenge/threat appraisals, coping strategy activation, and processing fluency, and tests mediation with multigroup structural equation modeling. Study 3 (N=165; pretest N=38) adds coping primes (problem-focused, emotion-focused, control) in a 3 x 2 x 2 design to test whether activated coping moderates and can override emotion-based framing effects.",
+  "focal_constructs": [
+    "guilt appeals",
+    "shame appeals",
+    "gain-framed messages",
+    "loss-framed messages",
+    "problem-focused coping",
+    "emotion-focused coping",
+    "processing fluency",
+    "binge-drinking intentions"
+  ],
+  "main_findings": [
+    "Across studies, guilt appeals were more persuasive with gain frames, while shame appeals were more persuasive with loss frames, including lower binge-drinking intentions under fit conditions.",
+    "In Study 1, fit messages also reduced behavioral susceptibility indicators: participants spent less time viewing subsequent alcohol ads and reported lower interest in trying advertised alcoholic beverages.",
+    "Study 2 and Study 3 supported process: emotion-consistent coping activation (problem-focused for guilt, emotion-focused for shame) and fluency mediated fit effects, and direct coping primes shifted framing effectiveness regardless of whether the ad induced guilt or shame."
+  ],
+  "one_line_summary": "The paper shows that responsible-drinking messages are most effective when guilt is paired with gain framing and shame is paired with loss framing because emotion-frame fit activates matching coping strategies and increases processing fluency.",
+  "relation_to_prior_work": "extends prior affect-and-framing findings by showing a boundary condition to the broad claim that negative emotional appeals work best with gain frames. It introduces a coping-based mechanism linking discrete emotions to frame appraisals and fluency, and extends regulatory fit research into an emotion-coping context.",
+  "research_gap": "Prior research either treated negative affect broadly in framing effects or found guilt and shame appeals could trigger defensive processing, without clearly specifying emotion-specific coping pathways linking these emotions to gain versus loss frames. The paper addresses this by testing whether discrete coping tendencies create differential fit and fluency effects for guilt and shame messages.",
+  "research_question": "Do guilt and shame appeals in responsible-drinking messages differ in effectiveness depending on whether the message is gain-framed or loss-framed? If so, are these differences explained by a fit between emotion-specific coping tendencies and frame-induced appraisals that increases processing fluency and persuasion?"
+}

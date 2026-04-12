@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops a general framework for sales response modeling when marketing-mix variables are set nonrandomly and their marginal distribution depends on response parameters.",
+    "Introduces a joint hierarchical Bayes specification for count data that combines an NBD prescription response model with a Poisson detailing-allocation model linked to physician-level response coefficients.",
+    "Shows how to infer the firm's detailing policy and evaluate allocation efficiency without imposing a priori optimality conditions."
+  ],
+  "context": "The paper studies physician-level pharmaceutical promotion, where sales representatives make monthly detailing visits to induce prescriptions of a focal branded drug (Drug X) in a mature U.S. therapeutic category. The firm allocates detailing across many physicians using volume-based deciles and manager adjustments.",
+  "design_and_data": "The empirical analysis uses monthly panel data from June 1999 to June 2001 on prescriptions and detailing for Drug X, plus sampling and physician specialty information. The estimation sample is 1000 physicians drawn from 112,088 regularly prescribing physicians, yielding 24,000 physician-month observations (with one lagged month lost per physician in some analyses). The conditional prescription model is a hierarchical negative binomial regression with physician random coefficients, lagged prescriptions, detailing, and observed physician covariates; the full model adds a Poisson model for detailing whose mean is a function of long-term response parameters. Parameters are estimated with MCMC (50,000 iterations, 25,000 burn-in), and models are compared with time-series and cross-sectional holdout validation.",
+  "focal_constructs": [
+    "sales response modeling",
+    "nonrandom marketing-mix variables",
+    "detailing allocation",
+    "physician-level prescription response",
+    "simultaneity bias",
+    "hierarchical Bayesian random coefficients",
+    "baseline prescription volume",
+    "long-term detailing effect"
+  ],
+  "main_findings": [
+    "Jointly modeling detailing allocation greatly increases precision of physician-level detailing effects: in the conditional model only 50 of 1000 long-term effects are precisely positive, versus more than 540 of 1000 in the full model.",
+    "Estimated detailing policy loads positively on baseline volume but negatively on responsiveness, implying less responsive physicians are detailed more, and highly detailed physicians often have low or negative marginal detailing effects.",
+    "The full model predicts better than the conditional model, with lower holdout mean squared error in both time-series validation (38.89 vs 43.41) and cross-sectional validation (29.69 vs 30.78)."
+  ],
+  "one_line_summary": "The paper proposes and validates a joint hierarchical model of prescriptions and detailing to correct bias from nonrandom sales-force allocation and to recover more precise physician-level detailing response estimates.",
+  "relation_to_prior_work": "extends standard conditional sales response and hierarchical random-coefficient models by explicitly modeling the marginal distribution of marketing effort as a function of response parameters, following a Chamberlain-style simultaneity logic beyond random intercepts. It distinguishes this setting from price endogeneity based on common demand shocks and notes proximity to work that links marketing-mix levels to baseline sales.",
+  "research_gap": "Prior sales response models typically condition on observed marketing-mix levels and assume those levels are independent of response parameters. The paper argues this is inappropriate when managers allocate marketing effort using baseline volume and partial knowledge of responsiveness, creating simultaneity that can bias and weaken physician-level inference.",
+  "research_question": "How should sales response be modeled when marketing-mix variables are strategically set and therefore nonrandom with respect to response parameters? In the physician detailing setting, can a joint model of prescriptions and detailing recover better physician-level responsiveness and reveal how closely firm detailing policy aligns with optimal allocation?"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "This pair appears central rather than incidental: the citing paper says it extends prior IV-free Gaussian-copula endogeneity methods and targets the same core issue (correlated endogenous/exogenous regressors), while the cited 2022 paper is a major copula-based generalization for that exact setting in panel FE models. The citing study’s method comparisons against prior copula estimators (e.g., COPE/CopulaOrigin) further suggest substantive engagement, and the reference is an exact DOI match.",
+  "triage_decision": "keep_for_relation_judgment"
+}

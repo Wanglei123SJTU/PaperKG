@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops hypotheses, grounded in consumer information-processing theory, about how specific ad executional cues affect actual consumer behavior.",
+    "It tests these hypotheses with real ads and real behavioral response data in field markets, rather than relying only on lab outcomes such as attitudes or intentions.",
+    "It examines market age as a moderator of creative effectiveness, arguing that ad style should vary across stages of market evolution."
+  ],
+  "context": "The study examines television advertising for a U.S. toll-free medical referral service in which consumers call an 800 number and are connected to providers. The empirical setting covers 23 metropolitan markets that differ in how long the service has been available and advertised.",
+  "design_and_data": "The data come from one firm and include hourly referrals and hourly TV ad exposures by station and creative across 23 markets (market ages from 8 to 144 months). During the focal period, 39 creatives were used across markets, and each creative was coded for executional cues such as argument and emotion content, goal framing, expert source, and 800-number prominence. The authors estimate market-level distributed-lag advertising response models to recover creative-specific effectiveness coefficients within each market. They then regress these coefficients on coded ad cues, market age, cue-by-age interactions, age squared, and selected market dummies.",
+  "focal_constructs": [
+    "market age",
+    "advertising executional cues",
+    "consumer motivation to process ads",
+    "consumer ability to process ads",
+    "argument-based appeals",
+    "emotion-based appeals",
+    "goal framing",
+    "expert source endorsements"
+  ],
+  "main_findings": [
+    "Argument-based appeals and negatively framed messages were more effective in younger markets, whereas emotion-based appeals and positively framed messages became more effective in older markets.",
+    "Greater prominence of key message text (longer on-screen 800 number visibility) was more effective in younger markets than in older markets.",
+    "Expert-source effects were mixed: service-advisor endorsement was more effective in younger markets, service-provider endorsement showed no significant age interaction, and overall ad effectiveness over market age followed an inverted-U pattern."
+  ],
+  "one_line_summary": "Using hourly TV advertising and referral data across 23 U.S. markets, the paper shows that the behavioral effectiveness of ad appeals depends on market age, with informational/negative cues working better early and emotional/positive cues working better later.",
+  "relation_to_prior_work": "synthesizes lab-based ad cue research and field econometric advertising-response research by linking coded creative elements to observed behavior in real markets. It extends prior ad-intensity work by showing that creative-cue effectiveness, not just spending effectiveness, varies with market age.",
+  "research_gap": "Prior laboratory work on ad cues focuses mainly on attitudes, memory, and intentions, whereas econometric field work focuses mainly on ad intensity and behavior. The paper addresses the limited evidence on whether specific executional cues drive actual behavior and how those effects change as markets age.",
+  "research_question": "How do specific advertising executional cues affect actual consumer behavior, and do those effects differ between younger and older markets? The paper also asks how overall advertising effectiveness changes as market age increases."
+}

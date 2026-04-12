@@ -1,0 +1,6 @@
+{
+  "citation_substance": "mention_only",
+  "rationale": "The cited paper appears in a single background sentence that summarizes prior variable-selection work and positions later papers in the area. The citing article's actual model development is framed as extensions of Kim, Fong, and DeSarbo (2012), and the technical sections do not rely on or reuse this specific 2006 paper's framework directly. Because the citation functions as lineage context rather than a distinct input to the paper's methods or claims, its role is a passing mention.",
+  "relation_description": null,
+  "relation_type": null
+}

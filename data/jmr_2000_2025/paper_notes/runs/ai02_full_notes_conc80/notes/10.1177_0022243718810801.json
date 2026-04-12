@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces egocentric improvement evaluation (EIE), an identity-based process in which consumers project perceived self-improvement onto brand/product improvement judgments.",
+    "Shows that a temporally extended self (past-present change), not only the present self, can function as a reference point in brand judgments.",
+    "Demonstrates both cognitive drivers (self-focus accessibility and self-brand connection) and motivational drivers (self-enhancement needs via self-affirmation/self-threat) of this effect, with implications for upgrade intentions and willingness to pay."
+  ],
+  "context": "The paper examines consumer judgments when brands release new versions of existing products, especially upgrade decisions for smartphones (Apple iPhone, Samsung Galaxy) and athletic shoes. Participants evaluate perceived improvement between product versions or ad messages for new models and report upgrade intentions and willingness to pay.",
+  "design_and_data": "The authors run five studies using U.S. participants from MTurk (Studies 1-3 and 5; N=101, 128, 123, 407) and undergraduates (Study 4; N=207). Study 1 measures perceived self-improvement and self-brand connection and tests iPhone 5 vs iPhone 6 improvement judgments and willingness to pay to upgrade. Studies 2-3 manipulate self-improvement (improvement vs stability) and self-focus/SBC conditions (self vs friend focus; favorite vs dissociative brands) while measuring or manipulating moderators such as trait self-consciousness. Studies 4-5 test motivational moderators by manipulating self-affirmation or self-threat, and Study 5 also uses an ad tagline manipulation that cues self-improvement; analyses include interactions, floodlight tests, and moderated mediation/serial moderated mediation (PROCESS).",
+  "focal_constructs": [
+    "perceived global self-improvement",
+    "egocentric improvement evaluation",
+    "self-brand connection",
+    "brand/product improvement judgments",
+    "product upgrade intentions",
+    "self-focus (trait and situational)",
+    "self-enhancement motives",
+    "self-affirmation and self-threat"
+  ],
+  "main_findings": [
+    "Perceived self-improvement increased perceived improvement of self-connected brands/products, and for strongly self-disconnected or dissociative brands the pattern shifted toward contrast under higher self-focus.",
+    "Perceived brand/product improvement mediated effects on upgrade outcomes, including upgrade intentions and willingness to pay.",
+    "EIE depended on both cognitive and motivational conditions: it was attenuated when self-focus was low or when participants were self-affirmed, and it emerged under self-threat, including when an ad cued self-improvement among high self-brand-connection consumers."
+  ],
+  "one_line_summary": "Across five studies, the paper shows that making consumers attend to their own improvement over time increases perceived improvement and upgrade intentions for self-connected brands through egocentric self-referencing that is jointly shaped by self-focus and self-enhancement motives.",
+  "relation_to_prior_work": "extends prior product-upgrade and egocentric categorization research by identifying perceived self-improvement as a driver of brand improvement judgments and upgrade behavior, and by showing that temporal self-change plus self-enhancement motives matter beyond a purely cognitive account based on current self-attributes.",
+  "research_gap": "Prior upgrade research highlights perceived product improvement as central to upgrading but offers little evidence on what drives those improvement perceptions. Prior self-referencing/egocentric categorization work focuses mainly on current self-attributes or global self-attitudes, leaving unclear whether temporal self-comparisons (past vs present self) shape brand improvement judgments.",
+  "research_question": "Does perceived improvement in the self over time serve as an anchor for judgments of brand/product improvement, thereby affecting upgrade intentions and willingness to pay? When does this process occur, particularly as a function of self-brand connection, self-focus, and self-enhancement states such as self-affirmation or self-threat?"
+}

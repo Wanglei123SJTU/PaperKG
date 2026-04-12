@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is not only listed in a general prior-work cluster on spatial models, but is also used directly in the empirical interpretation of results. In the results section, the authors cite Ataman et al. to justify the interpretation that lower spatial dependence implies greater regional heterogeneity, and then apply that logic to their own estimated spatial parameter. This gives the citation a clear functional role in framing and interpreting the spatiotemporal findings, even though the citing paper does not directly reuse the cited paper's full model.",
+  "relation_description": "The citing paper uses the cited study as supporting prior evidence in the spatial-marketing literature and to interpret its own spatial dependence estimate as consistent with regional heterogeneity. It positions its contribution as going beyond such spatial analyses by adding dynamic advertising effects and closed-form optimal budget allocation.",
+  "relation_type": "other"
+}

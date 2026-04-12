@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides causal field-experimental evidence that online advertising can generate substantial positive spillovers to competitors.",
+    "Identifies which competitors gain from spillovers, emphasizing product similarity (same cuisine), relative quality (ratings), and market position (category share).",
+    "Shows that ad exposure frequency shapes both spillovers and advertiser returns, and links this to the shape of the advertising sales-response curve and strategy implications."
+  ],
+  "context": "The study is set on a restaurant-search website with a prominent presence in several Indian cities, where users search restaurants and often order home delivery. Sponsored banner ads appear on search-results and restaurant pages and are geographically targeted within markets.",
+  "design_and_data": "The paper uses 11 randomized online field experiments, each with one real experimental restaurant and one manipulated ad slot in an experimental market. Sessions were randomly assigned to a no-experimental-ad condition (dummy banner) or an experimental-ad condition, where the experimental banner appeared with randomized exposure frequency and ad characteristics. The data include 189,650 users (cookies) from Aug 11 to Nov 1, 2010, with outcomes including restaurant page visits and phone-number views ('sales leads'), plus observed characteristics for 1,004 top competitors across the markets. For longer-run analysis, the author uses repeat-user sessions (17,653 users with at least two sessions) and examines carryover effects across sessions.",
+  "focal_constructs": [
+    "advertising spillovers",
+    "ad exposure frequency",
+    "consumer consideration of competitors",
+    "competitors' sales leads",
+    "advertiser returns on advertising",
+    "sales-response curve",
+    "state dependence in choice"
+  ],
+  "main_findings": [
+    "Randomized exposure to the experimental ads increased competitors' outcomes: average competitor sales leads rose by about 4%, and aggregate competitor gains were about five times advertiser gains in the study setting.",
+    "Spillovers were concentrated among competitors that served the advertiser's cuisine and had higher ratings, while high category-share competitors tended to lose sales leads even though page visits were not reduced.",
+    "Spillovers were strongest at low ad intensity (roughly 1-3 exposures) and diminished at higher intensity, while advertiser gains increased with frequency; low-intensity first-session advertising was associated with negative advertiser effects in the next session, consistent with inertia carrying spillovers forward."
+  ],
+  "one_line_summary": "Using randomized ad experiments on an Indian restaurant-search website, the paper shows that online ads can substantially benefit competitors at low exposure frequency and that increasing frequency shifts gains back to the advertiser.",
+  "relation_to_prior_work": "extends prior work on advertising spillovers and ad response by using randomized online field experiments to identify causal effects on many individual competitors, not just category-level outcomes, and by documenting how exposure frequency changes spillovers and advertiser returns.",
+  "research_gap": "Prior research often relied on aggregate associations and could not cleanly identify causal competitive spillovers because ad exposure is targeted. The paper addresses the unresolved questions of whether ads raise competitors' sales, which competitors benefit, and how ad intensity changes spillovers and the advertiser's return profile.",
+  "research_question": "Do online ads causally increase demand for nonadvertised competitors, and if so how large are these spillovers and which competitors receive them? How does ad exposure intensity affect the balance between competitor spillovers and advertiser gains, including implications for short-run and subsequent-session returns?"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is not a passing background reference; it is embedded in the core design and analysis of the citing paper. The authors explicitly incorporate Venkatraman et al. (2015) as Data Set 3 in their pooled fMRI analyses and repeatedly benchmark against its VOI model (amygdala, dlPFC, NAcc, vmPFC). They position their contribution as going beyond that traditional anatomically based approach by adding whole-brain Neurosynth decoding and testing incremental prediction over self-report and VOI baselines.",
+  "relation_description": "The citing paper directly builds on Venkatraman et al. (2015) by reusing its ad-viewing fMRI dataset and its VOI-based prediction setup as a benchmark. It extends that line of work with pooled multi-dataset analyses and process-level Neurosynth measures to explain temporal dynamics and improve prediction of aggregate ad liking.",
+  "relation_type": "extends"
+}

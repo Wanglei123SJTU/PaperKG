@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper claims to be among the first to examine how revision of negative initial evaluations differs from revision of positive initial evaluations in memory-based contexts.",
+    "It claims a theoretically and managerially important reversal: noncomparative challenges are more effective than comparative challenges for changing negative first impressions.",
+    "It introduces and tests a process account in which differential accessibility of negative versus positive specific information, plus challenge-format effects on recall and perceived diagnosticity, drives evaluation revision."
+  ],
+  "context": "The studies use a consumer product evaluation setting with a fictitious pen brand (Elegance 3), motivated by practical brand-image problems such as Food Lion's negative publicity case. Participants form an initial impression and later receive new information about the brand, either alone or compared with a competitor (Zebra).",
+  "design_and_data": "The evidence comes from four controlled experiments using delayed, memory-based judgment tasks. Experiment 1 (194 participants, with 21 excluded) used a 2x2 design (initial valence x judgment task) and response times after a 60-minute delay to test accessibility of overall evaluations versus specific claims. Experiment 2 (176 participants) used a 2x2 between-subjects design (initial valence x challenge format) across two sessions 90 minutes apart, measuring pre/post evaluation change, confidence, relative weight assigned to challenge information, and recall of initial claims. Experiment 3 (212 participants) added challenge valence in a 2x2x2 design to rule out a valence-confound account, and Experiment 4 (48 participants) manipulated the number of comparative positive claims (4 vs 7) within the negative-initial/comparative condition to test discounting versus weighting explanations.",
+  "focal_constructs": [
+    "initial evaluation valence",
+    "comparative challenge format",
+    "noncomparative challenge format",
+    "memory accessibility of specific attribute information",
+    "recall of initial claims",
+    "relative weight or diagnosticity of challenge information",
+    "evaluation revision magnitude"
+  ],
+  "main_findings": [
+    "Under comparative challenges, positive initial evaluations underwent greater revision than negative initial evaluations.",
+    "Under noncomparative challenges, negative initial evaluations underwent greater revision than positive initial evaluations, reversing the comparative-format pattern.",
+    "Comparative challenges increased recall of initial claims, and the relative weight assigned to challenge information mediated the effect of initial-evaluation valence on evaluation change."
+  ],
+  "one_line_summary": "Across four experiments, the paper shows that when first impressions are negative, noncomparative positive information changes brand attitudes more than comparative information, reversing the pattern observed for positive first impressions.",
+  "relation_to_prior_work": "extends prior marketing research on comparative versus noncomparative challenges, which had mainly focused on revising positive initial evaluations, by testing negative initial evaluations. It also reports a reversal relative to stimulus-based information-integration findings when judgments are memory-based.",
+  "research_gap": "Marketing research offered little guidance on how firms can recover from bad first impressions, despite prior work on challenging favorable incumbent impressions. It was unclear whether the established advantage of comparative challenges in revising positive evaluations would generalize to negative initial evaluations.",
+  "research_question": "How can firms most effectively change consumers' negative first impressions of a brand after a delay? Specifically, does the effect of comparative versus noncomparative challenge information on attitude revision differ depending on whether the initial evaluation is negative or positive in memory-based judgment contexts?"
+}

@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "The paper shifts analysis from individual ties to a portfolio of diverse ties (relationship multiplexity) between a supplier and a customer.",
+    "It links changes in relationship multiplexity to two customer-level financial outcomes: sales growth and sales volatility.",
+    "It provides a multi-industry panel analysis of supplier-customer relationships and argues that relationship multiplexity is a valuable nonfinancial, intangible market-based asset with implications for financial reporting."
+  ],
+  "context": "The study is set in business-to-business supplier-customer relationships among publicly listed firms, where a supplier may simultaneously have ties such as supply, licensing, R&D alliances, marketing alliances, equity ties, board interlocks, and joint ventures with the same customer. The sample spans high technology, manufacturing, and services industries over 1997-2004.",
+  "design_and_data": "The authors construct an unbalanced panel from SEC filings (10-K, 10-Q, 8-K, DEF14-A), supplemented by Securities Data Company data, firm websites, and electronic databases, with financial controls from COMPUSTAT. The data cover 200 supplier-customer relationships (110 customer firms and 126 supplier firms) and 1,195 relationship-year observations; estimation samples are 790 observations for sales growth and 388 for sales volatility after lags and variable construction. Relationship multiplexity is measured as the log of the number of different tie types in a dyad; outcomes are changes in logged sales and changes in logged sales volatility (coefficient of variation). The empirical models are first-differenced dynamic panel specifications estimated with GMM (Arellano-Bond framework) to address unobserved heterogeneity and endogeneity.",
+  "focal_constructs": [
+    "relationship multiplexity",
+    "multiple types of supplier-customer ties",
+    "sales growth",
+    "sales volatility",
+    "customer industry competitive intensity",
+    "customer industry intangibles intensity"
+  ],
+  "main_findings": [
+    "A positive change in relationship multiplexity is associated with a positive change in sales to that customer.",
+    "A positive change in relationship multiplexity is associated with a negative change in sales volatility to that customer.",
+    "As competitive intensity in the customer's industry increases, the positive multiplexity effect on sales growth becomes weaker while the volatility-reducing effect becomes stronger; higher customer-industry intangibles intensity strengthens the volatility-reducing effect but does not significantly moderate the sales-growth effect."
+  ],
+  "one_line_summary": "Using multi-industry panel data on B2B supplier-customer dyads, the study finds that increasing the number of different tie types with a customer raises supplier sales growth and lowers sales volatility, with important moderation by customer industry conditions.",
+  "relation_to_prior_work": "extends prior work that mainly examined single tie forms by testing multiplex supplier-customer ties and their financial consequences at the dyad level. It also complements single-firm customer panel studies by using a multi-industry relationship panel and dynamic panel estimation.",
+  "research_gap": "Prior studies mostly examine individual tie types (such as R&D or marketing alliances), and the paper states there is little empirical evidence on whether changes in the number of different tie types with a customer change supplier performance. The authors also note limited evidence on the financial impact of multiplex customer relationships, especially on both sales growth and sales volatility.",
+  "research_question": "How do changes in the number of different types of ties between a supplier and an individual customer (relationship multiplexity) affect the supplier's performance with that customer? Specifically, the paper tests effects on changes in sales (sales growth) and changes in sales volatility, and whether these effects vary with competitive intensity and intangibles intensity in the customer's industry."
+}

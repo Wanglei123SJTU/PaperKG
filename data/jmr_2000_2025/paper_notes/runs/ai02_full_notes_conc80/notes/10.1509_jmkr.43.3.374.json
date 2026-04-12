@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces regulatory goal fluency as a third form of processing fluency in brand evaluation, beyond perceptual and conceptual fluency.",
+    "Shows that sequential advertising context can both facilitate evaluation (goal compatibility) and suppress evaluation (goal conflict) for related target brands.",
+    "Provides evidence that the relevant cognitive goal structure in this setting is regulatory focus (promotion/prevention) rather than a purely hedonic approach/avoidance structure."
+  ],
+  "context": "The paper studies advertising context effects when consumers are exposed sequentially to two product ads, as in a commercial break. The empirical settings use related but noncompeting consumer products (e.g., lice shampoo, insect killer, hair conditioner; foot deodorizer and antiperspirant).",
+  "design_and_data": "Two laboratory experiments with undergraduate native English speakers were conducted. Experiment 1 (N = 44) used a 2 (prime: related vs unrelated) x 2 (target: goal-compatible vs goal-conflicting, within-subject) design, with purchase intent for two targets after exposure to a prime ad. Experiment 2 (N = 56) used a 2 (prime frame: gain vs loss) x 2 (target frame: nongain vs nonloss) design and measured brand evaluation, self-reported processing fluency, and a masked word-identification task as an implicit fluency measure. Both studies included checks showing no prime-condition differences in involvement or mood.",
+  "focal_constructs": [
+    "regulatory goal fluency",
+    "goal compatibility",
+    "goal conflict",
+    "processing fluency",
+    "promotion versus prevention focus",
+    "brand evaluation",
+    "advertising context effects"
+  ],
+  "main_findings": [
+    "When the regulatory goal of the target matched the goal activated by a related prime ad, target evaluations increased; when goals conflicted, target evaluations decreased.",
+    "These effects were not explained by differences in mood, ad liking, or involvement, and unrelated filler products were not affected.",
+    "In Experiment 2, perceived processing fluency mediated the prime-target interaction on brand evaluation, and word identification performance was higher under goal compatibility than under goal conflict, supporting a regulatory (not hedonic) compatibility account."
+  ],
+  "one_line_summary": "Across two experiments, the paper shows that a target brand is evaluated more favorably when its regulatory goal matches a prior related advertisement and less favorably when goals conflict, because compatibility changes processing fluency.",
+  "relation_to_prior_work": "extends prior processing-fluency research by adding a regulatory goal fluency mechanism through which prior related advertising alters subsequent brand evaluations. It also refines regulatory fit findings by showing that observed fit effects reflect both facilitation under goal compatibility and inhibition under goal conflict.",
+  "research_gap": "Prior research had shown perceptual and conceptual fluency effects and regulatory-fit effects within messages, but had not clearly tested whether regulatory goals activated by one advertisement facilitate or inhibit processing of a subsequent related advertisement. The paper also addresses whether such compatibility effects arise from hedonic valence matching or from promotion/prevention regulatory focus.",
+  "research_question": "Can regulatory goals activated by a prior related advertisement influence evaluation of a subsequent target brand through processing fluency? Do goal compatibility and goal conflict between prime and target create facilitation versus inhibition effects, and is the underlying structure regulatory (promotion/prevention) rather than hedonic (approach/avoidance)?"
+}

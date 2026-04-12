@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citation is used in the core modeling setup, not just in background discussion. The authors explicitly state that they apply the methodology developed by Manchanda, Rossi, and Chintagunta (2004) to handle endogeneity in mailing decisions by jointly estimating the donation response model and charity mailing-strategy models. They operationalize this via simultaneous estimation with mailing-decision equations and discuss how results differ without this correction. This indicates a clear functional methodological role for the cited paper.",
+  "relation_description": "The citing paper applies Manchanda et al. (2004)'s nonrandom marketing-mix/endogeneity correction framework to a new context: charitable direct mail competition. It uses the same basic idea of jointly modeling response outcomes with firms' targeting/allocation decisions.",
+  "relation_type": "applies"
+}

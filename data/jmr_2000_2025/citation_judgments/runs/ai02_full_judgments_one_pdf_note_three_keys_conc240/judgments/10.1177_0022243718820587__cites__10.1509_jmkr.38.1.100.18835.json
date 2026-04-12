@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the model development section, the citation appears exactly where the authors justify mean-centering variables before estimating quadratic and interaction terms. They explicitly use it to support interpretability of higher-order and interaction effects, and to facilitate staged model estimation. This is a direct methodological use in the implemented specification, not just a passing background mention.",
+  "relation_description": "The citing paper applies Irwin and McClelland (2001) as methodological guidance for centering predictors in an interaction-rich regression structure. The cited work is used to justify how coefficients and interaction effects should be interpreted in their model setup.",
+  "relation_type": "applies"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is referenced multiple times in core modeling sections, not just in background lists. The citing study uses it to justify key structural choices (joint tariff-choice/usage modeling, static next-period choice setup, quadratic utility form, and learning assumptions about usage over time) and to benchmark feasible identification constraints. The new paper then adds a distinct mechanism - valuation of free units under three-part tariffs - on top of that prior modeling tradition.",
+  "relation_description": "The citing paper builds on Iyengar, Ansari, and Gupta (2007) as part of its methodological and behavioral foundation for tariff choice, usage, and learning under nonlinear pricing. It extends that line by introducing and estimating an additional free-unit valuation effect and learning about that effect in a two-part versus three-part tariff transition.",
+  "relation_type": "extends"
+}

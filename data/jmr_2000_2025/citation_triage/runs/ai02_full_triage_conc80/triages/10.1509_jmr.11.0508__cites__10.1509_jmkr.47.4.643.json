@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is not an obvious incidental mention: it is a methodological social-network influence model in an Internet setting (Bayesian inference of influential users from longitudinal activity), which plausibly serves as prior method context for the citing paper’s network-based diffusion forecasting approach. The citing note explicitly positions its contribution against prior approaches that require direct network data or infer network effects from observed behavior, which aligns with the cited paper’s design, so this pair should be reviewed in full rather than dropped.",
+  "triage_decision": "keep_for_relation_judgment"
+}

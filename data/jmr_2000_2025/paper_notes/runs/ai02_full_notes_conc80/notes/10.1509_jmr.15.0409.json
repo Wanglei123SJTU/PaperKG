@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a simple randomized invitation method firms can use to estimate the effect of acquired Facebook page likes while addressing self-selection bias.",
+    "It provides a causal demonstration that acquired Facebook page likes can positively affect real offline customer behavior.",
+    "It identifies mechanism and boundary conditions by showing effects mainly when Facebook pages are used for paid firm-initiated communication and by exploring response heterogeneity across customer segments."
+  ],
+  "context": "The study is conducted with Discovery Vitality, an incentive-based health and wellness program linked to a large private health insurer in South Africa. The focal outcome is customers' accumulation of tracked program points for health and lifestyle activities while the firm runs an active Facebook page.",
+  "design_and_data": "Vitality emailed 71,663 new customers to invite survey participation; 7,470 completed the survey, and among 4,054 Facebook-account holders who had not already liked the page, customers were randomized to a like invitation treatment (n = 3,236) or control (n = 818). After randomization, behavior was observed for six months, split into an organic period (first 4 months, no boosted posts) and a boosted period (last 2 months, two boosted posts per week targeted to treatment customers who liked the page via Custom Audiences). Data combined survey responses, aggregate Facebook Insights activity, and individual administrative logs of Vitality points-earning activities. The main models use log monthly points in an IV difference-in-differences framework with assignment as an instrument for liking, clustered robust errors, and robustness checks with controls and fixed effects.",
+  "focal_constructs": [
+    "acquired Facebook page likes",
+    "offline customer behavior",
+    "firm-initiated promotional communications",
+    "customer-initiated social interactions",
+    "boosted Facebook posts",
+    "Vitality points accumulation",
+    "customer involvement",
+    "Facebook activity level"
+  ],
+  "main_findings": [
+    "Among customers assigned to treatment, 69% accepted the invitation to like the page, and daily survey yes responses closely tracked Facebook-recorded new likes (r = .99).",
+    "Acquired likes showed no detectable effect on offline points accumulation during the organic period, but they produced a significant positive effect during the boosted period.",
+    "The boosted-period effect is estimated at about 43.91 additional points per month on average (about 8% of the median), with stronger effects among lower-involvement and lower-Facebook-activity customers and on health-care point activities."
+  ],
+  "one_line_summary": "In a field experiment with Discovery Vitality customers, randomly soliciting Facebook page likes increased offline program activity only when the firm boosted posts, indicating that like value was realized mainly through paid firm-initiated communication.",
+  "relation_to_prior_work": "extends prior online advertising and online word-of-mouth research by testing the causal effect of acquired Facebook page likes on offline behavior in a firm setting. It refines earlier Facebook evidence from broad platform interventions by focusing on opt-in page liking and separating organic interaction from paid boosted communication.",
+  "research_gap": "The paper argues that despite large Facebook spending, firms lack credible evidence on whether page likes affect behavior outside Facebook because self-selection makes correlational estimates biased. It also states that existing paid advertising and online word-of-mouth literatures, and prior Facebook-wide interventions, do not directly identify whether and how acquiring a firm's page likes changes offline customer behavior.",
+  "research_question": "Do acquired, firm-solicited Facebook page likes causally influence customers' offline behavior? If they do, is the effect driven by customer-initiated social interactions on the page or by firm-initiated promotional communication when posts are boosted?"
+}

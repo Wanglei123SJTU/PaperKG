@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes ASE, a web-based extension of self-explicated conjoint that elicits across-attribute importance through attribute ranking plus adaptive constant-sum comparisons of attribute improvements.",
+    "It introduces a simple log-linear estimation procedure for ASE that yields individual-level attribute importances, partworths, and approximate standard errors.",
+    "It provides comparative empirical evidence, in two high-attribute product categories, that ASE improves predictive validity versus established alternatives (ACA, FPM, SEM) and versus a nonadaptive constant-sum paired-comparison design."
+  ],
+  "context": "The empirical tests are web-based conjoint tasks for durable goods with many attributes: digital cameras (12 attributes) and laptop computers (14 attributes). Respondents were mostly university behavioral-lab participants, and validation used rankings of choice sets of four alternatives.",
+  "design_and_data": "Study 1 recruited 154 participants and randomly assigned them to ASE (n=52), ACA (n=49), or FPM (n=50); SEM predictions were computed from the ACA/FPM self-explicated stage. Respondents completed desirability ratings and method-specific elicitation, and validity was tested with two holdout choice sets where each set required ranking four full profiles; aggregate share prediction was also evaluated. ASE used adaptive constant-sum attribute-pair questions (up to 21, mean 17.8) selected by an interval-opening rule based on maximal possible interpolation error, and importances were estimated by log-linear regression with approximate standard errors; ACA/FPM used 21 adaptive partial-profile pair questions. Study 2 recruited 193 participants (ASE n=65, ACA n=66, FFD n=58), used both pre- and post-validation tasks (four holdout choice sets total), and compared ASE with ACA and a nonadaptive orthogonal fractional factorial set of 21 constant-sum attribute pairs.",
+  "focal_constructs": [
+    "multiattribute preference measurement",
+    "adaptive self-explication (ASE)",
+    "attribute importance weights",
+    "constant-sum paired comparison questions",
+    "attribute importance ranking",
+    "log-linear estimation of importances",
+    "predictive validity",
+    "respondent burden"
+  ],
+  "main_findings": [
+    "Across both studies, ASE achieved higher individual-level predictive validity than ACA, and in Study 1 it also significantly outperformed FPM and SEM on hit rates and rank-order correlations.",
+    "In Study 2, ASE significantly outperformed a nonadaptive fractional factorial constant-sum paired-comparison design on top-choice hit rates, indicating added value from adaptive question selection.",
+    "ASE produced wider attribute-importance distributions than ACA, FPM, and SEM, and strong prediction was attainable with relatively short ASE questionnaires (about 5-7 paired-comparison questions plus ratings and ranking)."
+  ],
+  "one_line_summary": "The paper develops and tests an adaptive self-explicated conjoint method that uses ranked attributes and adaptive constant-sum attribute pairs, and it shows superior choice prediction to ACA, FPM, SEM, and a nonadaptive paired-comparison design in high-attribute product settings.",
+  "relation_to_prior_work": "extends the traditional self-explicated method by replacing global across-attribute importance ratings/allocations with an adaptive sequence of constant-sum comparisons between attribute improvements. It contrasts this format with ACA/FPM partial-profile paired comparisons and reports better predictive validity in the tested applications.",
+  "research_gap": "Traditional self-explicated rating scales do not force trade-offs across attributes, while full constant-sum allocation across many attributes is cognitively difficult. Existing adaptive/hybrid methods for many-attribute problems show mixed predictive-validity gains, and traditional SEM does not provide standard errors for attribute-importance estimates.",
+  "research_question": "How can marketers measure individual-level preferences for products with many attributes (10 or more) in web surveys without overloading respondents? The paper examines whether an adaptive self-explicated procedure based on attribute ranking and constant-sum attribute-pair comparisons can recover importances and partworths (with standard errors) and improve validation-choice prediction relative to ACA, FPM, SEM, and a nonadaptive paired-comparison design."
+}

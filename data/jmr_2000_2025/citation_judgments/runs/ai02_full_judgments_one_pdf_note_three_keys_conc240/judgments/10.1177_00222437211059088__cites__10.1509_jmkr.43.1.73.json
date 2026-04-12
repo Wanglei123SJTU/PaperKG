@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Gilula, McCulloch, and Rossi (2006) as a key anchor in its data-fusion positioning, not just as background. It explicitly contrasts its problem setting with that prior approach (notably the lack of an observable conditioning argument in the target list) and states that it changes the core conditional-independence assumption. This citation helps define the methodological contribution and how the new Bayesian profiling framework differs from prior data-fusion formulations.",
+  "relation_description": "The citing paper refines prior data-fusion logic represented by Gilula et al. (2006) by replacing observed-variable conditional-independence assumptions with selection modeling based on unobserved variables. It is presented as a methodological adjustment for settings where standard conditioning links used in direct data fusion are unavailable.",
+  "relation_type": "refines"
+}

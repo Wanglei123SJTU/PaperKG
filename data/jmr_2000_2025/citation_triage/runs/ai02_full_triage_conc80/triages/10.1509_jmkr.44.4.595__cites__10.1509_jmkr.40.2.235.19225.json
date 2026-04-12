@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper explicitly estimates latent-class heterogeneity and selects the number of classes by an information criterion (BIC), while the cited paper is a dedicated methodological comparison of segment-retention criteria for finite mixture logit models in scanner-panel choice data. That direct methodological overlap suggests the citation could be a substantive model-selection source rather than an incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

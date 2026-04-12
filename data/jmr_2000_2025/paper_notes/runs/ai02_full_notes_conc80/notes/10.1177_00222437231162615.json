@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and tests a joint framework in which resource mindset and self-construal together determine consumer food waste.",
+    "It identifies sharing obligation toward in-groups as a key mechanism linking interdependent self-construal to lower food waste under abundance.",
+    "It shows a benevolent consequence of scarcity mindset - mitigating food waste - and offers actionable interventions (e.g., sharing cues, need cues, restaurant design choices)."
+  ],
+  "context": "The paper examines unnecessary disposal of edible leftovers at the consumer consumption stage, including restaurant and home-like leftover decisions. Empirical contexts include a Chinese restaurant field setting, U.S. participant experiments, and cross-country food waste patterns.",
+  "design_and_data": "The authors report six main studies: one field experiment in a Chinese restaurant (N=10,317), four controlled experiments (total N=1,345), and one country-level secondary data analysis (N=63), with supplementary studies in a web appendix. Study 1 manipulated self-construal via tray slogans (\"I\" vs \"We\") and resource mindset via plate size (small=abundance, large=scarcity), then measured actual food waste in grams. Studies 2-5 manipulated self-construal, resource mindset or resource-abundance framing, and moderators (sharing concept salience, others' food needs, family vs self resource abundance), using food waste intention and, in one lab study, actual leftover snack weight. Study 6 combined Food Sustainability Index consumer food waste data with Hofstede individualism, GDP per capita, and controls to test country-level interaction patterns.",
+  "focal_constructs": [
+    "consumer food waste",
+    "resource mindset",
+    "abundance mindset",
+    "scarcity mindset",
+    "self-construal",
+    "sharing obligation",
+    "others' food needs salience"
+  ],
+  "main_findings": [
+    "Under an abundance mindset, participants with an interdependent (vs independent) self-construal showed lower food waste.",
+    "Under a scarcity mindset, food waste was lower overall and the self-construal difference was attenuated or nonsignificant.",
+    "Sharing obligation mediated the interaction effect, and manipulations that changed sharing obligation (highlighting sharing, highlighting others' food needs, or highlighting family resource abundance) attenuated the self-construal effect under abundance; country-level data showed individualism predicted more food waste mainly in higher-GDP contexts."
+  ],
+  "one_line_summary": "This paper shows that scarcity mindset lowers consumer food waste regardless of self-construal, while under abundance an interdependent (vs independent) self-construal reduces waste through stronger sharing obligation.",
+  "relation_to_prior_work": "extends prior food waste research in marketing, which the authors describe as limited and often correlational, by providing causal and field evidence on psychological drivers of waste at consumption. It introduces sharing obligation as a new mechanism in self-construal research and challenges a purely negative view of scarcity mindset by documenting a waste-mitigating effect.",
+  "research_gap": "The authors argue that consumer food waste is underexamined in marketing despite most waste occurring at retail and consumption stages. They also note that existing work is largely correlational and leaves unclear the psychological mechanism and boundary conditions that explain who wastes food under resource abundance.",
+  "research_question": "How do resource mindset (abundance vs scarcity) and self-construal (independent vs interdependent) jointly shape consumer food waste? The paper also asks whether sharing obligation explains this joint effect and whether interventions that alter sharing obligation can mitigate food waste under abundance."
+}

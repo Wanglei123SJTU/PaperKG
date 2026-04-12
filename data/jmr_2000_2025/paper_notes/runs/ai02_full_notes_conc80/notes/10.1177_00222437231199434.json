@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops an individual-level dynamic structural model of OTC acetaminophen consumption that jointly captures timing, quantity, need-state dynamics, and infrequent tail-area label deviations.",
+    "Introduces consumer-specific utility costs for three label deviations (too soon, too much, and >4 g in 24 hours) and links heterogeneity in deviations to observed characteristics such as knowledge, attitudes, health history, and demographics.",
+    "Provides policy-relevant counterfactual evidence for two mitigation strategies: symptom-matching label instructions and consumer education about acetaminophen as an ingredient."
+  ],
+  "context": "The study is set in U.S. over-the-counter acetaminophen use, where consumers choose between single-ingredient and combination products to treat pain and non-pain symptoms. The focal safety issue is deviation from FDA-approved dosing instructions, especially exceeding 4 g within a rolling 24-hour window.",
+  "design_and_data": "The analysis uses a 2010 three-stage online study (enrollment survey, 7-day diary, exit survey) conducted on an internet panel. The final analytic sample contains 2,687 adults who reported OTC pill products with acetaminophen, yielding 14,297 intake occasions; first-day consumption is used as an initial condition for later-day deviation calculations. The authors estimate a hierarchical-Bayes dynamic structural model with need-state transitions (pain, other, both, neither), forward-looking and backward-looking utility, and deviation penalties for too-soon, too-much, and >4 g behaviors. They then run counterfactual simulations for labeling and education interventions.",
+  "focal_constructs": [
+    "OTC acetaminophen label deviations",
+    "dynamic structural consumption model",
+    "need states (pain, other symptoms, both)",
+    "forward-looking and backward-looking consumption",
+    "too soon, too much, and >4 g deviations",
+    "consumer knowledge of acetaminophen ingredients",
+    "OTC medication attitudes (rule follower, self-medicate, take less)",
+    "labeling and education interventions"
+  ],
+  "main_findings": [
+    "The model recovers observed consumption amounts, need-state shares, and rare deviation counts reasonably well, and estimated behavior is on average both forward-looking and backward-looking.",
+    "Deviation risk differs by need state: consumers in the both-symptoms state have the highest probabilities of label deviations, including >4 g in 24 hours, relative to pain-only or other-only states.",
+    "Higher >4 g deviation propensity is associated with factors such as ongoing/chronic pain, poor mental health, male gender, higher BMI, smoking, drinking, and stronger self-medicate attitudes, while better acetaminophen knowledge is associated with lower deviations; counterfactuals show substantial potential reductions (about 48% in one simulation, up to 53.0% at full take rate for symptom-matching labels, and up to 28.7% from full ingredient-knowledge improvement among uninformed consumers)."
+  ],
+  "one_line_summary": "Using a U.S. online consumption diary and a dynamic structural model, the paper identifies who deviates from OTC acetaminophen dosing labels, why deviations occur across symptom states, and how labeling and education interventions could reduce unsafe use.",
+  "relation_to_prior_work": "extends prior marketing consumption models by focusing on OTC medication safety and infrequent tail behaviors rather than average consumption alone. It adds explicit label-deviation costs to utility and uses the structural model for policy counterfactuals, contrasting with earlier consumption work such as thirst-management models.",
+  "research_gap": "Marketing research has emphasized purchase decisions, while consumption behavior and the effects of product-usage instructions have received limited attention. Existing consumption modeling approaches do not directly target rare OTC label-deviation behaviors or evaluate intervention designs to reduce them.",
+  "research_question": "For OTC acetaminophen, which consumers are most likely to deviate from label instructions, what drives those deviations, and how do these risks vary across need states (pain only, other symptoms only, both)? The paper also asks which interventions are most promising for reducing deviations, especially exceeding 4 g in 24 hours."
+}

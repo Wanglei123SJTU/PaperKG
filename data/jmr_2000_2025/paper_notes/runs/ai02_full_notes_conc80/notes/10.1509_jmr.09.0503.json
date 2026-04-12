@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Shows across one field study and five experiments that seemingly irrelevant motor actions can shift consumer intertemporal preferences.",
+    "Proposes and tests that arm flexion induces present bias through approach motivation, with effects regulated by Behavioral Approach System sensitivity.",
+    "Provides evidence consistent with a conditioning-based account: the effect is stronger for dominant-arm flexion, suggesting learned motor-evaluative associations."
+  ],
+  "context": "Evidence comes from consumer settings that include real grocery shopping and controlled laboratory choice tasks. Outcomes involve checkout purchases of vice products and monetary delay-discounting choices among student participants.",
+  "design_and_data": "Study 1a is a nonexperimental field study in a hypermarket that tracked 136 shoppers using baskets or carts and linked shopping support to checkout vice purchases with ordered logistic regressions and controls. Study 1b (n=31) experimentally manipulated basket versus cart use during a staged shopping task and measured vice-versus-virtue snack choices. Studies 2a (n=22) and 2b (n=54) used arm flexion versus extension manipulations (pressing under vs on a table) while participants made vice-virtue and smaller-sooner versus larger-later choices. Studies 3 (n=105) and 4 (n=120) measured temporal discounting via matching/titration tasks and tested interactions with Sensitivity to Reward (SPSRQ); study 4 also manipulated dominant versus nondominant hand and included a no-arm-position control.",
+  "focal_constructs": [
+    "arm flexion and arm extension",
+    "present-biased preferences",
+    "intertemporal choice",
+    "vice versus virtue choice",
+    "temporal discounting",
+    "Behavioral Approach System sensitivity",
+    "approach motivation",
+    "learned motor-evaluative association"
+  ],
+  "main_findings": [
+    "In the field study, shoppers carrying baskets were more likely than cart users to buy vice products at checkout, and this remained significant with controls; in the full model, odds were 6.84 times higher.",
+    "Across experiments, arm flexion (vs extension) increased preference for vices over virtues and for smaller-sooner monetary rewards.",
+    "The flexion effect on discounting depended on BAS sensitivity and appeared for dominant-arm flexion but not nondominant-arm flexion or the control condition, consistent with a learned arm-flexion to approach association."
+  ],
+  "one_line_summary": "Across a field setting and five experiments, arm flexion versus extension increased present-biased consumer choices, especially among high-BAS individuals and primarily when using the dominant arm.",
+  "relation_to_prior_work": "extends embodied cognition research on approach-avoidance motor actions from attitudes and immediate consumption to intertemporal choice and temporal discounting. It also connects this stream to reinforcement sensitivity theory by showing moderation by BAS sensitivity and to conditioning accounts via dominant-hand effects.",
+  "research_gap": "Embodied cognition work had shown that bodily movements affect attitudes and some consumption behaviors, but evidence on intertemporal decision making was limited. The authors also argue that common intertemporal choice models underweight physically grounded motivational states and individual differences in reward-system sensitivity.",
+  "research_question": "Do self-directed flexor movements (arm flexion) versus extension shift consumers toward present-biased intertemporal choices, such as choosing vices and smaller-sooner rewards? If so, is this effect tied to approach motivation as indicated by Behavioral Approach System sensitivity, and does it depend on learned motor-action associations reflected in dominant versus nondominant arm use?"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Andrews, Ainslie, and Currim (2002) for more than a passing literature list mention. In the introduction, it cites that study as evidence that finite mixture logit models can perform at least as well as newer heterogeneity methods, which directly motivates why improving segment-retention decisions is important. It also states that key simulation factor levels were chosen from prior simulation work including this paper, indicating methodological grounding in the cited study.",
+  "relation_description": "The citing paper treats the cited paper as prior empirical support for the effectiveness of finite mixture logit and uses it to justify the relevance of its own segment-retention investigation. It also draws on the cited paper as a design precedent for simulation setup choices.",
+  "relation_type": "foundational_for"
+}

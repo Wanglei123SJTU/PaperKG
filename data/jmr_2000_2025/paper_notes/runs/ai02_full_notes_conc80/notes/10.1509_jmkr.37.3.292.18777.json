@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces channels as a means of segmenting consumers by selectively informing them.",
+    "Shows theoretically that manipulating consumer information across multiple channels can be a powerful competitive tool and can increase firms' market power.",
+    "Predicts how Internet expansion affects information provision, pricing, and profitability, and derives managerial implications for channel strategy."
+  ],
+  "context": "The paper studies firms that sell through a conventional channel (such as retail stores or mail order) and an electronic channel (the Internet), where only a fraction of consumers can use the Internet in addition to the conventional channel. The substantive motivation includes markets such as computers and other categories where firms can vary how much product-evaluation help they provide.",
+  "design_and_data": "The study is a formal game-theoretic model with two vertically integrated competing firms and a mass of consumers. Firms choose channel-specific consumer search costs (high or low) first, then choose prices on each channel, subject to an arbitrage bound on cross-channel price differences (|pc - pe| < delta). Consumers have uncertain valuations, can search to learn valuations, and differ by channel access (fraction alpha has Internet access); demand functions are derived from this search structure and simplified for tractability. The author solves for pure-strategy subgame-perfect equilibria and states analytical propositions (P2-P7), including a case with unbounded conventional search-facilitation cost to examine competitiveness effects.",
+  "focal_constructs": [
+    "Internet reach",
+    "multi-channel competition",
+    "consumer search costs",
+    "information provision",
+    "cross-channel pricing",
+    "arbitrage constraint",
+    "consumer segmentation",
+    "market power"
+  ],
+  "main_findings": [
+    "Equilibrium search and pricing strategies depend on Internet reach: when reach is small, firms provide more information online and average online prices are lower than conventional-channel prices; for intermediate reach, strategies mirror the conventional channel; for very high reach, firms can reduce conventional-channel information provision.",
+    "Competing across multiple channels lets firms selectively inform consumer segments, creating finer segmentation that can soften price competition and increase market power.",
+    "When facilitating search through conventional channels is very costly, firms can fall into ruinous price competition, and greater Internet reach can restore positive-profit equilibria by lowering total information-provision cost."
+  ],
+  "one_line_summary": "The paper develops a two-firm multi-channel model showing that Internet reach and cross-channel arbitrage constraints determine firms' information-provision and pricing choices, with selective informing across channels potentially increasing market power.",
+  "relation_to_prior_work": "introduces a strategic multi-channel model that jointly analyzes firms' pricing and information-provision choices across conventional and Internet channels, whereas cited prior Internet marketing work mainly emphasized changed consumer-Web interactions and economics work focused on access pricing or information goods.",
+  "research_gap": "The paper argues that early projections about the Internet lowering prices and increasing information largely ignore two issues: firms' Internet strategies are interdependent with their strategies in other channels, and optimal pricing and communications may vary with how many consumers use the Internet. It addresses the lack of a model that endogenizes both cross-channel strategic interaction and Internet reach.",
+  "research_question": "How do the existence and reach of the Internet affect firms' optimal pricing and communications (search-facilitation) strategies when firms compete across multiple channels? Under what conditions will firms provide more information and lower prices online versus replicate conventional-channel strategies?"
+}

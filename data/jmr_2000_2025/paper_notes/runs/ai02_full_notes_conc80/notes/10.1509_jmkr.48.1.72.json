@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides empirical evidence on how customers evaluate offshore versus onshore service centers and identifies drivers of service duration and retention under different question types.",
+    "It proposes a stochastic dynamic service-allocation framework that combines long-term marketing consequences, adaptive learning about heterogeneous customer preferences, forward-looking planning, and optimization.",
+    "Through simulation, it demonstrates that the framework can improve retention and profit relative to nested alternatives and suggests the approach can be generalized to other marketing interventions such as promotion, cross-selling, and targeted Web advertising."
+  ],
+  "context": "The empirical setting is a DSL service provider with both U.S. onshore and offshore call centers offering free 24/7 support. Customer calls are classified as technical or transactional, and the firm historically used cost-based routing via an automatic call distributor.",
+  "design_and_data": "The study uses panel call-center data from 2003: a calibration sample of 9,643 calls from 2,106 randomly selected customers over 52 weeks, plus a holdout sample of 1,053 customers with 4,661 calls. Available variables include call reason, service allocation, service duration, waiting-time averages by time block, customer demographics, baseline satisfaction survey, prices/promotions, competition indicator, penalty fee, and churn. The authors estimate a latent-class customer response system with a log-normal service-duration equation and a binary-logit retention equation, then embed these estimates in a stochastic dynamic programming model with Bayesian updating of customer type. They compare the proposed optimization to four nested alternative frameworks in simulation.",
+  "focal_constructs": [
+    "service channel allocation",
+    "onshore vs offshore call centers",
+    "service duration",
+    "customer retention",
+    "customer heterogeneity",
+    "adaptive learning",
+    "customer lifetime value",
+    "stochastic dynamic optimization"
+  ],
+  "main_findings": [
+    "Customers are generally more likely to leave after offshore service and after extra-long service duration, but the offshore penalty is smaller when technical questions are handled offshore.",
+    "In simulation, the proposed policy increases offshore allocation overall (from 16% to 19%) while shifting offshore assignments toward technical questions and less offshore-sensitive customers, and raises end-period retention to about 92%.",
+    "Relative to cost minimization that ignores customers, adding customer-specific duration, retention, lifetime value, and adaptive learning yields incremental attrition-rate reductions of 21.4%, 4.4%, 14.9%, and 6.9%, with corresponding profit increases of 7.0%, 0.3%, 1.6%, and 0.8%."
+  ],
+  "one_line_summary": "Using DSL call-center data, the paper estimates customer reactions to onshore versus offshore service and shows via dynamic-programming simulations that adaptive, forward-looking call allocation can improve retention and profit over cost-based routing.",
+  "relation_to_prior_work": "extends prior service-quality and CRM research by explicitly studying call-center service channel assignment and its links to duration, churn, and long-term value, which the authors argue had not been directly examined in marketing. It also moves beyond response-only models by deriving explicit allocation rules from a forward-looking stochastic dynamic optimization with adaptive learning.",
+  "research_gap": "The paper states that although marketing research has linked service quality, satisfaction, retention, and customer value, no marketing study had specifically examined how customers react to firms' service channel assignment decisions in call centers. It addresses the unresolved issue of how offshore versus onshore allocation affects attrition and long-term customer value and how firms should allocate service dynamically.",
+  "research_question": "How do onshore versus offshore service allocations affect service duration and customer retention in call centers, including differences by question type and customer heterogeneity? Given these response patterns, can a firm learn individual preferences from ongoing interactions and make dynamic allocation decisions that trade off short-term service costs against long-term retention and profit?"
+}

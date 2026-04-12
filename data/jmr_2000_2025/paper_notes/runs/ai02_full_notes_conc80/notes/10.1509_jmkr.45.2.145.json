@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper distinguishes between preference construction (learning subjective attribute trade-offs) and choice construction (learning a context-specific decision rule) in repeated choice.",
+    "It shows that repeated choices made in contexts with choice-facilitating cues such as attraction or compromise can produce apparent stability within context but weaker consistency across contexts.",
+    "It argues that repeat choice can be misread as stable preference, implying that normatively irrelevant context changes can shift consumer choices."
+  ],
+  "context": "The studies use controlled consumer choice tasks for laptops, CD changers, and MP3 players. Participants were mostly recruited online, with one campus paper-and-pencil study.",
+  "design_and_data": "The paper reports five experiments with a common structure: six repeated learning-phase choices, a filler task, and a target choice or valuation task. Experiment 1 (n = 318) compares binary laptop choices with trinary attraction and compromise sets, then tests switching in a target attraction set. Experiment 2 (n = 364) crosses binary versus trinary sets with point versus range attribute displays, and Experiment 3 (n = 225) crosses binary versus trinary sets with rating versus constant-sum elicitation. Experiment 4 (n = 121) manipulates attribute evaluability in CD changer choices and then collects four WTP judgments, and Experiment 5 (n = 324) crosses binary versus trinary sets with trade-off-attention instructions and then asks participants to choose between an MP3 player and cash.",
+  "focal_constructs": [
+    "choice construction",
+    "preference construction",
+    "preference stability",
+    "context-dependent preferences",
+    "attribute trade-off learning",
+    "attraction effect (asymmetric dominance)",
+    "compromise effect",
+    "choice deferral"
+  ],
+  "main_findings": [
+    "In Experiment 1, switching in the target choice was lower after binary learning (31.2%) than after attraction (47.3%) or compromise (59.3%) learning, and more context-driven learning choices predicted more later switching.",
+    "Across Experiments 2-4, when trade-off learning was hindered (attribute ranges, rating mode, low evaluability), preferences were less attribute-based and less consistent; when trade-off learning was facilitated (point values, constant-sum, high evaluability), consistency and attribute sensitivity increased, with fewer dominance violations.",
+    "In Experiment 5, participants in trinary-normal learning were less likely to choose the target MP3 over cash than binary-normal participants (16% vs. 34%), but this gap disappeared when participants were explicitly told to attend to attribute trade-offs."
+  ],
+  "one_line_summary": "Across five experiments, the paper shows that repeated choices in context often teach consumers context-specific heuristics rather than portable attribute preferences, yielding less stable preferences when context changes.",
+  "relation_to_prior_work": "extends preference construction and preference learning research by showing that repeated choice can produce either attribute-based preference learning or context-specific heuristic learning depending on the decision context.",
+  "research_gap": "Prior work often treats repeated choice as a route to learning subjective attribute values and thus greater preference stability, but the role of the learning context in determining what is learned is under-specified. The paper addresses whether repeated choices can instead train context-specific choice strategies that look stable only within the original context.",
+  "research_question": "Does repeated choice necessarily build stable, portable preferences, or can it instead produce context-specific choice rules? Specifically, the paper asks whether learning in trinary sets with choice-facilitating cues (attraction or compromise) yields less cross-context preference consistency than learning in binary sets that force attribute trade-offs."
+}

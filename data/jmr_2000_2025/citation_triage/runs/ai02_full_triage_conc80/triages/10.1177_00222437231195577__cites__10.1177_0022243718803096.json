@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper is a methodological contribution on IV-free endogeneity correction (SORE) and explicitly discusses/copares copula/JCM-style approaches, while the cited paper is mainly an empirical sales-training study with robustness checks that include Gaussian copula correction. With only a DOI-level match and no in-text citation context, this could be either a substantive methodological reference or a brief background/example mention, so it is not safe to drop.",
+  "triage_decision": "uncertain"
+}

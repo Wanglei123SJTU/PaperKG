@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper validates a core assumption for really new product measurement: consumers face greater uncertainty when predicting utility for really new products than for incrementally new products.",
+    "It introduces and empirically tests inference-based augmentations to a standard preference measurement method by integrating mental simulation and analogy prompts with conjoint analysis.",
+    "It demonstrates that augmentation effects differ by method, with usage-focused mental simulation improving predictive accuracy while the tested analogy implementations can reduce preference stability."
+  ],
+  "context": "The studies examine premarket preference measurement for novel consumer offerings, using both concept descriptions and product trials. Empirical settings include matched technology/product concepts and trials involving Dryel, Shout Wipes, and IBM TransNote.",
+  "design_and_data": "Study 1 used a Latin square experiment with 36 MBA students who evaluated four matched really new versus incrementally new product concept pairs (television, display, automobile, camera) and reported multiple uncertainty measures. Study 2 used a mixed design with four measurement conditions (conjoint only, mental simulation plus conjoint, self-generated analogy plus conjoint, marketer-provided analogy plus conjoint), two product types (Dryel as RNP and Shout Wipes as INP), and pretrial/posttrial measurement around home product use; 73 started and 44 complete paired diaries were analyzed for both products. Participants in Study 2 watched product commercials, completed conjoint tasks, used products for up to six weeks, and returned diaries with posttrial measures and repeated conjoint ratings. Study 3 used a 2x2 between-subjects design (conjoint vs usage-scenario mental simulation plus conjoint; trial vs no trial) with repeated measurement for IBM TransNote in MBA classes (78 initial participants, 58 follow-up responses, 55 complete conjoint profiles).",
+  "focal_constructs": [
+    "really new products",
+    "incrementally new products",
+    "uncertainty in utility estimation",
+    "constructed preferences",
+    "mental simulation",
+    "analogical learning",
+    "preference stability",
+    "conjoint-based preference measurement"
+  ],
+  "main_findings": [
+    "Respondents showed higher uncertainty for really new products than for incrementally new products, including a significant multivariate product-type effect and higher means on five of six uncertainty dimensions.",
+    "In Study 2, mental simulation yielded the highest pretrial-posttrial consistency of conjoint-based preferences for the really new product, while both analogy conditions produced lower stability; no condition differences appeared for the incrementally new product.",
+    "In Study 3, mental simulation focused on existing usage scenarios increased pre-post consistency of conjoint responses and part-worths versus conjoint alone, and trial-driven evaluation shifts were larger in the conjoint condition."
+  ],
+  "one_line_summary": "The paper shows that preference measurement for really new products improves when conjoint is augmented with usage-focused mental simulation, whereas the tested analogy-based augmentations do not improve and can worsen predictive stability.",
+  "relation_to_prior_work": "extends prior work on constructed preferences and innovation adoption by adapting preference measurement to high-uncertainty really new product contexts through inference-oriented tasks. It also builds on earlier premarket forecasting approaches by emphasizing marketplace-like information and consumer elaboration processes during measurement.",
+  "research_gap": "Existing preference measurement methods were developed mainly for incrementally new products and assume respondents have category knowledge, making forecasts less accurate for really new products. The paper argues that these methods undercapture the inferential processes consumers use to cope with uncertainty when evaluating novel benefits and usage fit.",
+  "research_question": "How can preference measurement for really new products be made more predictively accurate when consumers must construct preferences under high uncertainty? Specifically, can augmenting standard conjoint with mental simulation or analogies improve pretrial-to-posttrial preference stability and prediction?"
+}

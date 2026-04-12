@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces an efficient, implementable near-optimal bidding algorithm for budget-constrained real-time display advertising auctions that uses only campaign budget, impression valuation, and realized own costs.",
+    "It claims to be the first algorithmic solution to the general online knapsack setting that provides near-optimal regret guarantees without assuming a priori knowledge of future item values or costs.",
+    "It shows the bidding rule can be combined with Thompson sampling to jointly estimate impression values and learn bidding while still outperforming competing approaches."
+  ],
+  "context": "The paper studies internet display advertising purchased through real-time bidding exchanges, where individual impressions are sold in milliseconds, commonly under second-price rules. The empirical evaluations use demand-side platform campaign data and iPinYou auction logs.",
+  "design_and_data": "The authors formulate advertiser bidding as a budget-constrained online knapsack problem in sequential second-price auctions and provide theoretical analysis of convergence, regret, and equilibrium. They run 100 static simulations with 10 million auctions each, comparing the proposed rule to ORTB1, Balseiro-Gur, and fixed-bid baselines, plus a perfect-foresight oracle; competing methods are given ex post optimal tuning parameters. They test on 10 real campaigns from a DSP panel (990,360 users, 401 advertisers, Sep 2014-Jan 2015) using campaign targeting scores and observed costs from won auctions to construct evaluations. They also run 100 additional 10-million-auction simulations based on iPinYou data to evaluate joint valuation learning plus bidding via Thompson sampling.",
+  "focal_constructs": [
+    "real-time bidding auctions",
+    "budget-constrained value maximization",
+    "online knapsack problem",
+    "bidding scale parameter lambda",
+    "regret minimization",
+    "fluid mean-field equilibrium",
+    "Thompson sampling",
+    "impression incremental valuation"
+  ],
+  "main_findings": [
+    "The learning rule for lambda converges rapidly to the optimal scale, yields zero average regret, and has expected total regret order O(sqrt(N log N)), near the O(sqrt(N)) lower bound up to a log factor.",
+    "In static simulations, the algorithm achieved 99.63% of oracle value on average and outperformed ORTB1 and Balseiro-Gur benchmarks even when those benchmarks were tuned with ex post optimal parameters.",
+    "In 10 real DSP campaigns, average regret was 1.73% (98.27% of oracle value), and in joint valuation-plus-bidding simulations total regret was about 10.1%, lower than the bidding-policy regret alone of competing algorithms."
+  ],
+  "one_line_summary": "The paper develops and validates a near-optimal, budget-feasible RTB bidding algorithm for second-price display auctions that learns online without prior value or cost distributions and performs close to a perfect-foresight oracle.",
+  "relation_to_prior_work": "extends prior RTB bidding and online knapsack work by removing common assumptions that future value/cost distributions, bounds, or bid landscapes are known in advance while still proving strong regret guarantees. It also departs from pacing-focused approaches by directly maximizing campaign value under budget and establishing a unique FMFE competitive equilibrium.",
+  "research_gap": "Prior online knapsack and RTB bidding methods generally relied on stronger information assumptions, such as known distributions, known costs or bounds, or explicit estimation of competing-bid distributions. The paper identifies a lack of general algorithms that can learn online from minimal bidder-observable data while offering near-optimal theoretical guarantees.",
+  "research_question": "How can an advertiser bid in sequential second-price RTB auctions to maximize campaign value under a fixed budget when future impression values and competing bids are unknown? Can an implementable online strategy in this setting be shown to converge quickly, achieve low regret, and remain effective when impression values must also be learned?"
+}

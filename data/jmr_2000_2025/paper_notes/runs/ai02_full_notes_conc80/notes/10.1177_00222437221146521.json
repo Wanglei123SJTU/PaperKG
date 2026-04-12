@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces and validates a debt-specific, self-focused construct and measure of anticipated stigmatization of debt.",
+    "It proposes and tests a destructive cycle in which anticipated stigmatization drives debt concealment behaviors (secrecy, social spending, and help avoidance) that undermine debt reduction and well-being.",
+    "It provides field-experimental evidence that a community-based debt education format can improve outcomes for debtors who anticipate stigmatization by building social connection, increasing disclosure, and supporting debt-reduction behavior and repayment."
+  ],
+  "context": "The studies focus on North American consumers with nonmortgage consumer debt, largely middle-income rather than poverty populations, across common credit-debt situations. The intervention context is a real debt education program delivered by a financial education company in private versus community-based formats.",
+  "design_and_data": "The paper reports six studies: five studies test the conceptual model and one field experiment tests an intervention. Studies 1-5 use Prolific samples, a student pool, university staff, and clients of a debt education provider to examine links among debt, anticipated stigmatization, secrecy, social spending, help avoidance, and well-being using survey measures, scenarios, and consequential signup/time-allocation choices. Study 6 is a 5-month randomized field experiment with 210 participants assigned to private online instruction, community-based classes, or control, with repeated surveys and monthly tracking of debt-reduction behaviors and itemized debt. Across studies, participants had at least $1,000 in consumer debt (excluding mortgages).",
+  "focal_constructs": [
+    "anticipated stigmatization of debt",
+    "consumer debt",
+    "debt concealment",
+    "debt secrecy",
+    "social spending",
+    "help avoidance",
+    "financial stress",
+    "well-being"
+  ],
+  "main_findings": [
+    "Anticipated stigmatization is positively associated with debt concealment, including greater secrecy, higher social spending in social settings, and greater help avoidance, while financial stress often pushes in the opposite direction toward help seeking.",
+    "Concealment via secrecy is associated with lower well-being, and anticipated stigmatization shows a significant indirect negative effect on well-being through secrecy.",
+    "In the field experiment, debt education reduced debt versus control overall, and for participants high in anticipated stigmatization, the community-based format improved outcomes through social connection, disclosure, and motivation, leading to better well-being change and stronger debt-reduction behaviors and repayment than private instruction."
+  ],
+  "one_line_summary": "Across six studies, the paper shows that anticipated stigmatization of consumer debt drives concealment behaviors that worsen well-being and can sustain debt, while community-based debt education helps high-stigma debtors improve behavior and repayment through social connection and disclosure.",
+  "relation_to_prior_work": "extends prior consumer debt research by adding a stigma-based mechanism for debt accumulation and reduction beyond materialism, impulsivity, and financial literacy explanations, and by showing these effects in common consumer-credit settings rather than only bankruptcy or foreclosure extremes. challenges the view that debt reduction is mainly a technical math-literacy problem by demonstrating the central role of social concealment and community support in behavior change.",
+  "research_gap": "Prior work on debt accumulation and reduction has emphasized personal traits and financial literacy, with limited direct testing of how anticipated stigma from others shapes debt behavior. Existing evidence on debt stigma has focused largely on extreme cases (e.g., bankruptcy or mortgage strain), often qualitatively, leaving unclear whether similar mechanisms operate in broader consumer-credit populations and in actual debt-repayment interventions.",
+  "research_question": "How does anticipated stigmatization of consumer debt affect indebted consumers' concealment behaviors and, in turn, their well-being and debt outcomes? Specifically, does anticipated stigma increase secrecy, social spending, and help avoidance in ways that hinder debt reduction, and can a community-based debt education intervention break this cycle?"
+}

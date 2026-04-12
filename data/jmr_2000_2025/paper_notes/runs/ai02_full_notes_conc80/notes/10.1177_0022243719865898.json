@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces an empirical test of how general, non-product-specific media coverage of climate change relates to sustainable product consumption in the U.S. hybrid vehicle market.",
+    "It shows that media stance matters: coverage admitting climate change is associated with higher hybrid sales, whereas neutral or denying coverage has little effect.",
+    "It provides preliminary evidence that social norm content in media reports is an important pathway linking media coverage to hybrid vehicle purchases."
+  ],
+  "context": "The study is set in the U.S. hybrid vehicle market and links national news attention to monthly model-level sales. Media coverage is drawn from 12 major U.S. outlets across newspapers, magazines, TV, and radio.",
+  "design_and_data": "The authors combine monthly hybrid vehicle unit sales from CNW Marketing Research (December 1999 to October 2007) with vehicle attributes, prices, gasoline prices, and tax incentives from public and industry sources. After exclusions, the sample includes 10 hybrid models from Toyota, Honda, and Ford, with 376 model-month observations. They collect 20,670 LexisNexis news articles containing \"climate change\" or \"global warming,\" construct relevance-weighted monthly coverage measures, and code article stance as admitting, neutral, or denying climate change. They estimate model-month regressions with lagged media coverage and controls (including firm and year fixed effects), plus robustness checks using IV (NOAA Climate Extremes Index), lagged dependent variable models, and alternative cumulative media measures.",
+  "focal_constructs": [
+    "climate change media coverage",
+    "hybrid vehicle sales",
+    "media stance on climate change",
+    "social norm content in media reports",
+    "fuel economy",
+    "government tax incentives",
+    "gasoline prices",
+    "vehicle price"
+  ],
+  "main_findings": [
+    "Greater lagged media coverage of climate change/global warming is associated with higher subsequent hybrid vehicle sales.",
+    "The positive effect is driven by coverage that admits climate change; neutral and denying coverage show little or no significant effect.",
+    "Exploratory tests indicate that media reports mentioning social norm actions are associated with higher sales, while coverage without such norm content is not, and the main pattern is robust across alternative specifications."
+  ],
+  "one_line_summary": "Using U.S. model-month data from 1999-2007, the paper finds that more national media coverage of climate change increases hybrid vehicle sales, mainly when the coverage admits climate change.",
+  "relation_to_prior_work": "extends prior hybrid-vehicle demand research that focused on fuel costs and tax incentives by adding general climate-change media coverage as a predictor of observed purchases. It also extends media-effects research by documenting behavior-linked effects in sustainable consumption and separating admitting from neutral or denying coverage.",
+  "research_gap": "Prior studies on hybrid vehicle adoption mainly emphasize financial drivers (e.g., gasoline prices and tax incentives), with limited empirical attention to mass media as a broad social force. In green marketing, much work focuses on attitudes rather than real market purchase behavior.",
+  "research_question": "Does general mass media coverage of climate change or global warming influence sustainable product consumption, measured by U.S. hybrid vehicle sales? The paper also asks whether this relationship differs by article stance (admitting, neutral, denying) and whether social norm content helps explain the association."
+}

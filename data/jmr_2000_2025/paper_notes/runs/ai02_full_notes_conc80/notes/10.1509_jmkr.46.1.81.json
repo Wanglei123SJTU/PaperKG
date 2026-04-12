@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper identifies an ease-of-computation effect in numerical judgments: computationally easy differences are perceived as larger than computationally difficult differences of similar arithmetic size.",
+    "It shows that magnitude judgments reflect an interplay of analytic arithmetic output and heuristic inferences from metacognitive fluency experiences.",
+    "It provides process evidence and boundary conditions by showing when the effect appears or is reduced, and discusses practical implications for pricing decisions."
+  ],
+  "context": "The paper studies consumer price-related judgments, especially discount evaluations and price differences between competing brands. The empirical setting is controlled laboratory tasks with student participants evaluating numeric price pairs and making brand choices.",
+  "design_and_data": "The authors run a pretest and multiple lab experiments with undergraduate participants to examine judgments of price differences and discounts. Experiment 1a (n = 62) uses a within-subject design with 24 price pairs varying in computational ease and discount magnitude; Experiment 1b (n = 188) adds a between-subject judgment context manipulation (discount vs price difference), and Experiment 1c (n = 147) tests downstream brand choice with easy vs difficult price computations. Experiment 2 (n = 58) manipulates whether participants must compute differences or are given the solution, and a follow-up study (n = 53) manipulates awareness of fluency source; Experiment 3 (n = 71) manipulates prior learning about whether larger or smaller differences are easier. Analyses include repeated-measures ANOVA, clustered logistic regression for choice, and mediation tests using response latency.",
+  "focal_constructs": [
+    "ease of computation",
+    "processing fluency",
+    "metacognitive experiences",
+    "naive theories",
+    "numerical difference judgments",
+    "discount magnitude perception",
+    "price difference judgments",
+    "brand choice"
+  ],
+  "main_findings": [
+    "Across discount and price-difference tasks, participants judged computationally easy numeric differences as larger than computationally difficult differences, even when difficult pairs were nominally slightly larger.",
+    "The effect depends on metacognitive processing: it appears when people must compute differences, is mediated by response latency patterns, and is reduced when people are told the ease or difficulty source.",
+    "Computation ease affects choices: participants were less likely to choose a higher-priced preferred brand when the price difference was easy to compute, and prior learning that conflicts with the default \"larger-is-easier\" belief mitigated the effect."
+  ],
+  "one_line_summary": "This paper shows that consumers misattribute ease of mental arithmetic to magnitude, so easy-to-compute price differences seem larger and can shift discount judgments and brand choices.",
+  "relation_to_prior_work": "extends processing-fluency and metacognition research to numerical and pricing judgments by specifying a naive theory that easier processing implies larger differences, and by demonstrating how this heuristic combines with arithmetic computation outputs.",
+  "research_gap": "Prior fluency research shows that judgments depend on processing ease and naive theories, but little is known about the naive theories people use in numerical judgments. In particular, it was unclear whether and how computational complexity in arithmetic operations biases perceived magnitude of price differences.",
+  "research_question": "How does the ease or difficulty of mental computation influence consumers' judgments of numerical differences in prices and discounts? Do people use a naive belief that larger differences are easier to judge, causing misattribution of computational fluency, and under what conditions does this bias affect judgments and choices?"
+}

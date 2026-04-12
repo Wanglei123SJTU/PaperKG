@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "The paper establishes the existence of a disposition effect in Internet-based e-trading under conditions designed to resemble real trading.",
+    "It empirically compares alternative mechanisms and argues that value-function differences explain the effect better than likelihood-based beliefs about future price movement.",
+    "It identifies experimentally induced conditions under which the disposition effect can be reduced or eliminated."
+  ],
+  "context": "This paper studies individual stock-selling decisions in Internet-based e-trading and simulated trading interfaces that resemble online brokerage sites. Field evidence comes from Korean real-time market simulation competitions, and lab studies use undergraduate participants making buy/sell decisions on stocks framed as winners or losers.",
+  "design_and_data": "Study 1 analyzes four 2002 datasets from e-trading simulation competitions hosted by a major Asian securities firm (N = 11,646 participants; 178,929 sell transactions), using real-time national market prices but no personal-money stakes. The authors compute winner/loser status and holding periods with four classification methods (simple average, FIFO, LIFO, and proportional distribution) and compare holding durations for sold winners versus losers. Studies 2-4 are computer-based laboratory trading simulations with business undergraduates (N = 162, 250, and 124), manipulating stock status (winner/loser), prior price trend, and availability of analyst forecasts, and measuring sell-versus-hold choices plus price-change predictions. Study 3 adds a pretask that trains expected-value calculations to induce more linear gain/loss valuation, and Study 4 manipulates self-focus versus agent-focus decision roles and incentives.",
+  "focal_constructs": [
+    "disposition effect",
+    "winner versus loser stock status",
+    "selling versus holding decisions",
+    "subjective likelihood of future price change",
+    "prospect-theory value function",
+    "self-focus versus agent-focus decision role"
+  ],
+  "main_findings": [
+    "In the field simulation data, participants held losing stocks longer than winning stocks, indicating a robust disposition effect in e-trading across computational methods, market trends, and participant groups.",
+    "Forecast and trend manipulations shifted participants' expectations and overall selling propensity, but stock status did not reliably change expected price direction and the winner-versus-loser selling gap persisted.",
+    "The disposition effect disappeared when participants were induced to value gains and losses in more similar units (expectancy-value training) and when they made decisions as agents for others rather than for themselves."
+  ],
+  "one_line_summary": "Across one large e-trading field simulation and three lab experiments, the paper shows that investors sell winning stocks faster than losing stocks and that this disposition effect is driven mainly by value asymmetries rather than beliefs about future price likelihoods.",
+  "relation_to_prior_work": "extends prior disposition-effect research from conventional trading settings by demonstrating the effect in e-trading and by experimentally distinguishing value-function and likelihood-based accounts while identifying boundary conditions for eliminating the bias.",
+  "research_gap": "Prior evidence mainly came from conventional trading and did not clearly establish whether the disposition effect generalizes to e-trading environments. Existing archival analyses also did not cleanly distinguish likelihood-based and value-function mechanisms, leaving unclear how to reduce or eliminate the effect.",
+  "research_question": "Does the disposition effect appear in Internet-based stock e-trading, where holding periods are much shorter than in traditional trading? If so, is it caused primarily by beliefs about future price movements of winners versus losers or by differences in the subjective value assigned to potential gains and losses, and when can the effect be eliminated?"
+}

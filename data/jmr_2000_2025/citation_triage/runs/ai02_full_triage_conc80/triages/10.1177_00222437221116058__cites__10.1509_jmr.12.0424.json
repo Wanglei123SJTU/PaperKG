@@ -1,0 +1,4 @@
+{
+  "rationale": "The two papers overlap on social-media sentiment measurement (the citing paper models sentiment outcomes; the cited paper develops a model-based sentiment measure across venue formats), so the citation could be foundational background rather than incidental. However, the matched evidence is only a DOI reference entry (reference 88) with no local citation sentence or note that PARA uses the cited joint sentiment–venue model directly. Because evidence is sparse, this is not safe to drop as obvious mention-only.",
+  "triage_decision": "uncertain"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Shows that advertising deception in the form of claim-fact discrepancies can bias responses to later ads, not just evaluations of the original deceptive ad.",
+    "Identifies two distinct defensive mechanisms: biasing counterarguing when the same advertiser reappears, and defensive stereotyping that undermines trust in second-party advertisers.",
+    "Demonstrates that deception can weaken advertising effectiveness broadly by generalizing across advertisers, product categories, claim types, and regions."
+  ],
+  "context": "The paper studies consumer responses to deceptive retail advertising in durable-goods and electronics contexts (for example, dishwashers, answering machines, televisions, and portable stereos). Across studies, participants first encountered an initial ad episode and then evaluated later ads from the same or a different advertiser.",
+  "design_and_data": "The evidence is a four-experiment program with university participants (n = 172, 116, 95, and 75). Experiments 1-3 manipulated an initial deceptive versus nondeceptive ad episode and then exposed participants to a second ad that varied by source (same vs different advertiser), message quality (strong vs weak arguments), reference-price plausibility, and in Experiment 3 a 24-hour delay. Outcomes included product attitudes, product beliefs, deal-value judgments, thought listings, trust in the second advertiser, ad skepticism (trait and state), and an implicit stereotype-activation task; analyses used ANOVA/ANCOVA and path analyses. Experiment 4 compared direct deception, indirect deception, a deception-news condition, and control to test ego-involvement dependence.",
+  "focal_constructs": [
+    "advertising deception",
+    "claim-fact discrepancies",
+    "consumer distrust",
+    "defensive processing",
+    "defensive stereotyping",
+    "advertising skepticism",
+    "trust in second-party advertisers"
+  ],
+  "main_findings": [
+    "Experiencing deceptive advertising lowered evaluations of subsequent ads and products, including ads from unrelated second-party advertisers, and this effect persisted after a 24-hour delay.",
+    "When the second ad came from the same advertiser, effects were mediated by negative thought elaboration (active counterarguing), but for different advertisers the effect was not cognitively mediated and operated through heightened skepticism, reduced trust, and stereotype activation.",
+    "Negative bias appeared even with strong product arguments and plausible price references, and generalized negativity was strongest when participants were directly deceived rather than only reading about deception or observing it indirectly."
+  ],
+  "one_line_summary": "Across four experiments, the paper shows that being deceived by advertising triggers distrust and defensive processing that depresses responses to later advertising from both the same and different advertisers.",
+  "relation_to_prior_work": "extends prior misleading-advertising and persuasion research by moving beyond which claims mislead in a focal ad to downstream effects of realized deception, showing generalized distrust and defense-biased processing rather than only source-specific objective scrutiny.",
+  "research_gap": "Prior work on misleading advertising mainly identified claim types that cause erroneous inferences in the focal message. The authors argue that less is known about what happens after consumers realize they were deceived, especially whether deception creates generalized distrust and negative stereotypes that bias reactions to subsequent ads.",
+  "research_question": "How does exposure to deceptive advertising affect consumer responses to later advertising claims? The paper asks whether these effects generalize from the original advertiser to second-party advertisers and whether the mechanism is defensive processing, including counterarguing and defensive stereotyping that reduces trust."
+}

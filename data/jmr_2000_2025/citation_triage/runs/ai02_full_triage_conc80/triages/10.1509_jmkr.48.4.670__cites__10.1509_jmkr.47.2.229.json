@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper explicitly states it \"extends prior online-offline channel research focused on geography, taxes, and store access,\" and its models include offline sales tax and online price-responsiveness effects. The cited 2010 JMR paper is directly about sales-tax collection effects on Internet demand and search mechanisms, which matches those core constructs. Given this strong thematic and mechanism overlap (not just a generic mention), this pair should be kept for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

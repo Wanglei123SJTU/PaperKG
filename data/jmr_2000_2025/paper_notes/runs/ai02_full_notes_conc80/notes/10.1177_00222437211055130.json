@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "The paper provides a first attempt to identify global-local identity as a new antecedent of preference for access-based consumption in the sharing economy.",
+    "It identifies consumption openness as the key mechanism linking global-local identity to access-based consumption preference and reports tests against several alternative explanations.",
+    "It specifies boundary conditions consistent with the mechanism by showing that openness-related contextual cues and traveler-settler orientation moderate the identity effect."
+  ],
+  "context": "The paper is set in access-based consumption decisions in the sharing economy, where consumers choose between temporary access (e.g., renting/sharing) and ownership. Empirical settings include country-level car-sharing and home ownership data, controlled experiments on product choices (e.g., tents, bikes), and a bookstore field choice.",
+  "design_and_data": "The authors report seven studies. Two country-level secondary-data studies link the KOF Globalization Index to access-related outcomes: ARPU for peer-to-peer car sharing, short-term car access, and car rental across countries (Study 1a), and home purchase index across 50 countries (Study 1b), with GDP and cultural controls. Four online experiments (MTurk; Studies 2a, 2b, 3, 4) manipulate global versus local identity and test mediated and moderated effects on preference for access versus purchase options and willingness to use access-based programs. A field study with U.S. bookstore shoppers (Study 5) uses an actual compensation choice between accessing versus purchasing the same book and measures consumption openness.",
+  "focal_constructs": [
+    "global-local identity",
+    "preference for access-based consumption",
+    "consumption openness",
+    "desire for openness",
+    "traveler-settler orientation",
+    "sharing economy"
+  ],
+  "main_findings": [
+    "Consumers with salient global identity show greater preference for access-based consumption than consumers with salient local identity, supported in country-level analyses, experiments, and a field choice.",
+    "Consumption openness mediates the effect of global-local identity on preference for access-based consumption.",
+    "When openness is enhanced, locals increase access-based preference while globals are largely unchanged; when openness is suppressed, globals decrease access-based preference while locals are largely unchanged, and traveler versus settler orientation shows the same boundary pattern."
+  ],
+  "one_line_summary": "Across seven studies, the paper shows that global versus local identity shifts preference toward access-based consumption because global identity increases consumption openness, with effects bounded by openness cues and traveler-settler orientation.",
+  "relation_to_prior_work": "extends prior sharing-economy research that mainly emphasized benefit-cost factors, experiences, and perceptions by introducing global-local identity as an antecedent of access-based consumption preference. It also extends global-local identity research by proposing and testing consumption openness as a distinct mechanism and by linking identity theory to access-versus-ownership choices.",
+  "research_gap": "The paper argues that prior work has largely ignored the connection between globalization and access-based consumption, especially the role of global-local identity in shaping access-versus-ownership preference. It also notes limited understanding of the mechanism through which identity influences such preferences.",
+  "research_question": "How does consumers' global-local identity influence their preference for access-based versus ownership-based consumption? Do consumers high in global identity prefer access-based options more than consumers high in local identity, and is this effect explained by consumption openness with theoretically relevant boundary conditions?"
+}

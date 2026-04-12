@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces a Bayesian spatial autoregressive discrete-choice model to represent endogenous interdependence in individual consumers' latent utilities.",
+    "Develops a finite-mixture weighting-matrix specification so multiple covariate-defined networks (for example, geographic and demographic) can jointly govern interdependence, with network importance estimated from data.",
+    "Shows how to estimate this model with hierarchical Bayes and MCMC data augmentation, and applies it at the individual consumer level."
+  ],
+  "context": "The empirical setting is U.S. midsize car purchases, modeled as a binary choice between Japanese-made and non-Japanese cars. Consumers are distributed across many Zip codes, allowing geographic and demographic reference-network structures to be tested.",
+  "design_and_data": "The paper specifies a hierarchical Bayes autoregressive binary probit in which latent utility includes an autoregressive error component theta = rho W theta + u, and W can be a finite mixture of network matrices. Parameters are estimated with MCMC using data augmentation and mostly diffuse priors. A simulation study with N = 50, 500, and 666 observations evaluates parameter recovery and identification. The empirical application uses 857 consumers from 122 Zip codes (666 for estimation, 191 holdout) and compares six models: independent probit, random-effects, and four autoregressive variants based on geographic distance, geographic neighbors by Zip, demographic groups, and a geographic-demographic mixture.",
+  "focal_constructs": [
+    "interdependent consumer preferences",
+    "latent utility in binary choice",
+    "spatial autoregressive dependence",
+    "network propagation effect",
+    "geographic reference groups",
+    "demographic reference groups",
+    "preference heterogeneity"
+  ],
+  "main_findings": [
+    "Autoregressive interdependence models outperform the independent probit and a Zip-code random-effects model in both in-sample and out-of-sample fit.",
+    "The estimated autoregressive parameter rho is positive and significant, indicating positive correlation (conformity) in consumer preferences.",
+    "In the mixed-network model, both geographic and demographic networks contribute to interdependence, with geographic networks estimated as more influential."
+  ],
+  "one_line_summary": "The paper develops a hierarchical Bayesian spatial autoregressive binary-choice model for interdependent preferences and shows with U.S. midsize car data that Japanese-car choices are shaped by both geographic and demographic networks, especially geographic ones.",
+  "relation_to_prior_work": "extends prior spatial Bayesian probit work by allowing the dependence matrix to be a finite mixture of multiple covariate-defined networks rather than a single network. It also moves beyond mostly aggregate regional analyses to individual-level consumer choice modeling.",
+  "research_gap": "Standard consumer choice models typically treat unobserved heterogeneity as independent random effects or linear exogenous covariate effects, which cannot capture endogenous network propagation of preferences. Prior interdependence applications are often aggregate and based on a single network, leaving a need for an individual-level model that can represent multiple simultaneous networks.",
+  "research_question": "How can consumer choice models represent and estimate endogenous interdependence in individual preferences, rather than assuming independent heterogeneity? In particular, can a flexible autoregressive structure capture influence propagation across multiple networks, and do geographic and demographic networks explain observed car purchase choices?"
+}

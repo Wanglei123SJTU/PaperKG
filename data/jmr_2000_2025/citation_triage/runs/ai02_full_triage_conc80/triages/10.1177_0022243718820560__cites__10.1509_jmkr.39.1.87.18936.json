@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper note focuses on FDA-approval event-study CAR decomposition, postlaunch advertising allocation, and VAR-based sales effects, with no indication that conjoint estimation is used. The cited paper is a Monte Carlo comparison of hierarchical Bayes vs finite-mixture conjoint models for partworth recovery on synthetic conjoint data, which is not aligned with the citing paper’s stated methods or constructs. Given only a DOI match and no in-text evidence of substantive use, this appears to be an obvious mention-only citation.",
+  "triage_decision": "drop_obvious_mention_only"
+}

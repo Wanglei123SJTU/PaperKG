@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides, to the authors' knowledge, the first systematic preregistered test of multiple theory-driven SSA claiming interventions together with psychologically distinct individual differences in one paradigm.",
+    "Identifies a replicable set of intervention levers that can delay intended Social Security claiming age and compares their relative effects across many treatment arms.",
+    "Offers actionable evidence for policy makers, financial planners, and consumer finance organizations on which psychological factors are linked to earlier versus later claiming intentions."
+  ],
+  "context": "The paper studies U.S. Social Security Administration retirement benefit claiming decisions, where eligible adults can claim between ages 62 and 70. The empirical setting is online survey experiments with U.S. adults approaching retirement age.",
+  "design_and_data": "The authors ran four large preregistered experiments using online panels: Study 1 on AMT (N = 4,504; ages 40-61), Study 2 on AMT (N = 3,010; ages 40-61), Study 3 on Prolific (N = 3,020; ages 40-61), and Study 4 on Prime Panels (N = 2,711; ages 50-61). Study 1 tested 13 intervention conditions plus control and a broad battery of individual-difference measures; Studies 2-4 replicated a reduced set of interventions and key individual differences. The primary outcome was intended SSA claiming age in a hypothetical scenario at age 60, with access to a benefits table. Analyses were preregistered linear models comparing treatment arms to control, adding demographic controls, testing individual-difference predictors, and preregistered intervention-by-individual-difference interactions.",
+  "focal_constructs": [
+    "intended Social Security claiming age",
+    "gains framing",
+    "injunctive norm messaging",
+    "commonality of regret information",
+    "benefits to future self focus",
+    "right-tail longevity reflection",
+    "reason generation",
+    "perceived ownership of SSA benefits"
+  ],
+  "main_findings": [
+    "Six interventions increased intended claiming age and showed replication in at least two follow-up studies: gains framing, injunctive norm messaging, benefits-to-future-self focus, commonality-of-regret information, right-tail longevity focus, and reason generation.",
+    "Several other tested interventions did not reliably differ from control, including annual framing, losses framing, people-like-you messaging, future-self focus alone, and retirement-needs information.",
+    "Across studies, higher intertemporal discount factors and higher subjective life expectancy predicted later intended claiming, while higher perceived ownership of SSA benefits predicted earlier intended claiming."
+  ],
+  "one_line_summary": "Across four preregistered experiments, the paper shows that specific behavioral interventions and individual differences systematically predict intended U.S. Social Security claiming age, with several interventions reliably shifting intentions toward later claiming.",
+  "relation_to_prior_work": "extends prior SSA claiming research by jointly testing many theory-driven interventions and psychological individual differences in a single preregistered design, rather than studying isolated factors one at a time. It also benchmarks relative intervention effectiveness across multiple treatment arms.",
+  "research_gap": "Prior SSA claiming research had examined selected interventions or heterogeneity factors separately, but had not systematically tested psychosocial determinants of early versus delayed claiming in one integrated framework. The paper also notes limited evidence on how intervention effects compare side by side and how they relate to individual differences.",
+  "research_question": "Which behaviorally informed interventions increase intended Social Security claiming age, which individual psychological differences predict earlier versus later intentions, and do individual differences moderate intervention effects? The paper aims to model these determinants jointly to improve prediction of claiming intentions."
+}

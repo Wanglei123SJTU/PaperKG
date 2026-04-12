@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides a theoretical rationale for why retailers can introduce multitier store brands in equilibrium even when manufacturers use side payments and additional national brands to deter entry.",
+    "Characterizes endogenous relative quality positions of multiple store and national brands, including interlaced quality tiers and conditions under which a store brand takes the top-quality position.",
+    "Shows that store brands can raise total channel profits and consumer welfare despite lower differentiation, and identifies strategic procurement of store brands from the manufacturer as a channel-coordination lever when two-part tariffs fail."
+  ],
+  "context": "The paper studies retail distribution channels where a retailer sells manufacturer national brands and its own multitier store brands, motivated by packaged-goods settings such as grocery categories with economy, midtier, and premium private labels. The baseline is a bilateral monopoly, with additional analysis of manufacturer and retailer competition.",
+  "design_and_data": "This is a theoretical paper using a vertical differentiation model with heterogeneous consumers whose utility depends on quality and price. In the baseline game, the manufacturer chooses national-brand qualities first, the retailer then chooses store-brand qualities, the manufacturer sets wholesale prices, and the retailer sets retail prices for all products. The model includes quality-dependent marginal costs and fixed product-introduction costs, which determine equilibrium product-line configurations; closed-form equilibria and proofs are provided (including in a Web Appendix). The authors also analyze extensions for perceived quality discounting of store brands, alternative decision sequence, two-part tariffs and allowance contracts, asymmetric production costs, strategic procurement, shelf-space constraints, and competition structures.",
+  "focal_constructs": [
+    "multitier store brands",
+    "vertical quality differentiation",
+    "retailer pricing power",
+    "entry deterrence via side payments",
+    "interlaced quality ordering",
+    "two-part tariffs and channel coordination",
+    "consumer welfare and channel profits"
+  ],
+  "main_findings": [
+    "The retailer can profitably introduce store brands despite manufacturer side payments and additional national brands, unless the retailer's fixed entry cost is sufficiently high.",
+    "In equilibrium, store-brand and national-brand qualities are interlaced; a store brand takes the top-quality position unless national brands outnumber store brands, and a national brand typically takes the lowest-quality position.",
+    "As the share of store brands increases, quality and price differentiation can fall, yet aggregate consumer welfare and total channel profits can rise; however, manufacturer profits fall, two-part tariffs do not improve total channel profits in the presence of a store brand, and procurement of the store brand from the manufacturer can improve coordination."
+  ],
+  "one_line_summary": "The paper develops a vertical differentiation channel model showing why multitier store brands persist, how their quality tiers are endogenously ordered relative to national brands, and how these choices affect profits, welfare, and coordination.",
+  "relation_to_prior_work": "extends prior store-brand channel models by moving beyond aggregate cross-price formulations to a channel-consistent vertical differentiation game that endogenizes quality choices for both manufacturer and retailer across multiple brands. It refines work with exogenous store-brand quality by deriving equilibrium quality ordering for multitier store brands and introduces strategic procurement from the national-brand manufacturer as a coordination mechanism.",
+  "research_gap": "Prior theory offered limited treatment of multitier store brands in a channel structure with endogenous quality choices by both manufacturer and retailer. This left unclear why multitier store brands persist despite manufacturer deterrence, how their quality levels relate to national brands, and what their net effects are on welfare and channel coordination.",
+  "research_question": "Why do retailers offer multitier store brands even when national-brand manufacturers try to deter entry through side payments or additional national brands? How are the relative quality tiers of store and national brands endogenously determined, and what are the implications for consumer welfare, channel profits, and coordination contracts?"
+}

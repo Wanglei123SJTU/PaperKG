@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and documents a nonlinear diminishing-returns relationship between expressed emotional arousal in a review and perceived review helpfulness.",
+    "It advances an inference-based explanation by arguing that arousal cues shape perceived reviewer effort, which then affects helpfulness judgments.",
+    "It broadens emotion research in WOM by focusing on sender-expressed arousal (not only valence or recipient arousal) and by testing boundary conditions across utilitarian versus hedonic products."
+  ],
+  "context": "The research is set in online word-of-mouth, especially consumer reviews on Apple's App Store where users can vote whether a review is helpful. Experimental studies use app-shopping scenarios with utilitarian (location/reference) and hedonic (entertainment/fish pond) app contexts.",
+  "design_and_data": "Study 1 uses archival App Store data: top-500 apps in 20 categories, all historical reviews, with 1,623,497 reviews after filtering and 418,415 reviews with at least one helpfulness vote (main estimation N = 414,336). Helpfulness votes are modeled with negative binomial regressions, and expressed arousal/valence are measured via the RDAL text-analysis dictionary. Study 2 is a survey where 128 undergraduates evaluate 400 sampled App Store reviews (about 6.4 raters per review) on helpfulness, arousal, valence, and perceived reviewer effort; analyses include OLS and nonlinear mediation (MEDCURVE with bootstrapping). Studies 3 and 4 are lab experiments (N = 81 and N = 157) that manipulate arousal in review stimuli; Study 3 varies verbal plus grammatical cues and product type, while Study 4 manipulates only nonverbal cues (exclamation marks/capitalization) while holding verbal wording constant.",
+  "focal_constructs": [
+    "expressed emotional arousal",
+    "perceived review helpfulness",
+    "perceived reviewer effort",
+    "online consumer reviews",
+    "word of mouth",
+    "product type (utilitarian vs hedonic)",
+    "emotional valence"
+  ],
+  "main_findings": [
+    "Across field, survey, and lab evidence, expressed arousal shows a diminishing-returns relationship with perceived review helpfulness: additional arousal helps at lower levels but the marginal benefit shrinks and can become negative at higher levels.",
+    "Perceived reviewer effort partly mediates this nonlinear pattern: arousal affects inferred effort nonlinearly, and inferred effort positively predicts helpfulness.",
+    "Evidence on moderation by product type is mixed: Study 1 supports a stronger nonlinear effect for utilitarian categories, Study 2 does not, and Study 3 shows only partial support in follow-up analyses."
+  ],
+  "one_line_summary": "Using App Store data, a survey, and experiments, the paper shows that emotional arousal in reviews has diminishing returns for perceived helpfulness, partly because readers infer reviewer effort from arousal cues.",
+  "relation_to_prior_work": "extends prior review-helpfulness research that emphasized ratings, timing, and valence by isolating expressed arousal as a distinct driver of helpfulness judgments. It also complements WOM transmission work on recipient arousal by examining how sender-expressed arousal cues trigger reviewer inferences.",
+  "research_gap": "Prior research on review helpfulness had limited understanding of how emotional expression in review text influences helpfulness, and most emotion-focused WOM work emphasized valence rather than arousal. The paper targets this gap by examining the effect of expressed arousal and the inferential process behind it.",
+  "research_question": "How does the level of emotional arousal expressed in a consumer review influence readers' perceptions of that review's helpfulness? Does this effect follow a nonlinear diminishing-returns pattern, operate through perceived reviewer effort, and vary between utilitarian and hedonic product contexts?"
+}

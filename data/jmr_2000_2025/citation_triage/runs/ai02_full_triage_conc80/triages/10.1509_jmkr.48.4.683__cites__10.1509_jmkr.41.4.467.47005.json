@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s core contribution is a hierarchical Bayesian customer-response model using observed solicitation histories and dynamic effects of marketing interventions, while the cited paper develops a hierarchical Bayes framework specifically for response modeling with nonrandom marketing-mix allocation. That methodological overlap (solicitation/detailing response under potentially endogenous firm allocation) suggests the cited work could be a substantive method/foundation source rather than a purely incidental mention, so it merits full relation review.",
+  "triage_decision": "keep_for_relation_judgment"
+}

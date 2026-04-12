@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper expands the governance domain by jointly examining contractual completeness, contractual one-sidedness, and extracontractual incentives as ex ante mechanisms, and behavior monitoring, output monitoring, and enforcement as ex post mechanisms, with both compliance and opportunism as outcomes.",
+    "The paper explicitly links ex ante governance choices to ex post governance effort, addressing whether early governance design promotes or inhibits later monitoring and enforcement.",
+    "The paper shows that ex post governance mechanisms are consequential mainly in combination, and that some combinations can be counterproductive for desired franchisee behavior."
+  ],
+  "context": "The empirical setting is franchisor-franchisee relationships in the U.S. automotive industry. The study covers eight major automotive makes and their dealership franchisees.",
+  "design_and_data": "The authors integrate three archival data sources with a survey of franchisees. They content-analyze actual franchise contracts from eight franchisors (about 92% of industry unit sales in the period), coding 247 clauses to construct contractual completeness and contractual one-sidedness measures. Survey data come from 206 usable responses from dealership owner-managers/general managers across the eight makes. A recursive five-equation system is estimated jointly using conditional mixed process (CMP) regression, modeling ex post governance as endogenous and including pairwise interaction terms among ex post mechanisms.",
+  "focal_constructs": [
+    "contractual completeness",
+    "contractual one-sidedness",
+    "extracontractual incentives",
+    "behavior monitoring",
+    "output monitoring",
+    "enforcement severity",
+    "franchisee compliance",
+    "franchisee opportunism"
+  ],
+  "main_findings": [
+    "Contractual completeness is negatively related to behavior monitoring, while contractual one-sidedness is positively related to behavior monitoring and negatively related to enforcement; neither contract dimension significantly affects output monitoring.",
+    "Extracontractual incentives are positively associated with behavior monitoring, output monitoring, and enforcement.",
+    "Behavior monitoring, output monitoring, and enforcement are not significant predictors of compliance or opportunism when used alone, but their interactions matter: output monitoring changes the effects of behavior monitoring on both outcomes, behavior monitoring changes enforcement effects on both outcomes (including higher opportunism under high behavior monitoring and high enforcement), and output monitoring strengthens enforcement's positive relation with compliance but not its relation with opportunism."
+  ],
+  "one_line_summary": "Using contract coding and survey data from U.S. automotive franchises, the study finds that ex ante governance choices shape ex post monitoring and enforcement, and that franchisee compliance and opportunism are driven mainly by specific combinations of ex post controls rather than by any single control in isolation.",
+  "relation_to_prior_work": "extends prior channel governance research by moving beyond contract completeness alone to include contractual one-sidedness and extracontractual incentives, and by distinguishing behavior monitoring, output monitoring, and enforcement. It also extends mostly opportunism-focused work by jointly modeling compliance and opportunism and testing interaction effects among ex post governance mechanisms.",
+  "research_gap": "Prior empirical work offered limited evidence on ex ante governance beyond contractual completeness and largely ignored extracontractual incentives. Evidence on ex post governance effects was mixed and enforcement was understudied, and most studies emphasized opportunism without jointly considering compliance.",
+  "research_question": "How do franchisors' ex ante governance mechanisms - contractual completeness, contractual one-sidedness, and extracontractual incentives - influence ex post behavior monitoring, output monitoring, and enforcement? How do these ex post mechanisms, individually and in combination, affect franchisee compliance and opportunism?"
+}

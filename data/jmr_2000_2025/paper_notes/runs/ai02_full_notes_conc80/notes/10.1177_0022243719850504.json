@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Identifies and labels a new mechanism, \"commitment projection,\" in which changes in commitment to a supplementary product are projected onto commitment to the associated service provider.",
+    "Shows a temporal spillover of payment method: how paying for one offering (an add-on product) affects postpurchase behavior toward another offering (defection from the core service).",
+    "Specifies key boundary conditions for this effect, namely perceived product-service bundling and a predefined end point of the add-on payment plan."
+  ],
+  "context": "The paper examines service providers that sell supplementary products alongside ongoing services. Empirical contexts include cellular service with handsets, office coffee supply with coffee machines, fitness centers with smartwatches, and home security services with alarm systems.",
+  "design_and_data": "The paper first presents initial evidence from late-1990s cellular-industry archival data: two cohorts of more than 16,000 customers each, one with 24 monthly handset payments and one with 36 monthly handset payments, with monthly service defection rates tracked over time. It then reports seven studies combining a survey of actual customers and controlled scenario experiments using MTurk, MBA students, and Prolific participants across multiple service settings. Across studies, the authors manipulate payment method (multiple vs single), elapsed time from purchase, bundling source (service provider vs third-party retailer), and payment-plan end point (defined vs undefined), and measure service defection intentions and commitment constructs. Analyses include regressions and ANOVA, PROCESS-based moderation/mediation tests, and an internal meta-analysis of studies with both payment-method conditions.",
+  "focal_constructs": [
+    "multiple payments",
+    "single lump-sum payment",
+    "customer defection intentions",
+    "customer commitment",
+    "commitment projection",
+    "product-service bundling perception",
+    "payment plan end point"
+  ],
+  "main_findings": [
+    "When a supplementary product is bought in multiple payments, defection intentions from the core service are initially lower than under a single payment but increase as payments are made; under single payment, defection intentions are largely stable, so the gap closes over time.",
+    "The upward defection pattern under multiple payments appears beyond satisfaction and also when technological or financial lock-in explanations are removed, and dual-transaction aversion does not explain the effect in their tests.",
+    "The effect is mediated by commitment projection: declining commitment to the product predicts lower commitment to the service and higher defection intentions, and this occurs when product and service are perceived as bundled and when the payment plan has a predefined end point."
+  ],
+  "one_line_summary": "Across seven studies, the paper shows that installment payment for a service-related add-on initially reduces service defection intentions versus a lump sum but then drives a time-based increase via commitment projection, conditional on bundling perception and a defined payment end point.",
+  "relation_to_prior_work": "extends payment-method research by showing a temporal spillover from payments for one offering to defection intentions toward a related offering via commitment. It also extends service-defection work that typically reports declining defection over tenure by identifying add-on payment conditions under which defection intentions increase over time, and extends bundling research to mixed product-service offerings.",
+  "research_gap": "Prior defection research mainly examines the core ongoing service and generally reports decreasing defection over time, with limited attention to service settings that include supplementary products. Prior payment-method work largely studies effects on the purchased item itself and has paid little attention to temporal spillovers to another offering, such as defection from a related service.",
+  "research_question": "How does the payment method for a supplementary product offered by a service provider (multiple payments versus a single payment) affect customers' intentions to defect from the provider's core service over time? Do these effects arise because customers project changing commitment to the product onto commitment to the service, and under what conditions (bundling perception and payment end point) does this occur?"
+}

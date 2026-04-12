@@ -1,0 +1,4 @@
+{
+  "rationale": "Keep this pair because the citing paper’s core method is a Bayesian multivariate probit consideration model with cross-brand dependence and MCMC estimation, while the cited paper specifically develops hierarchical-Bayes MCMC for multivariate binomial/probit multiple-response data with identification postprocessing. That strong methodological overlap (plus an exact DOI match in the reference list) makes it plausible the cited work is a substantive method source rather than an incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

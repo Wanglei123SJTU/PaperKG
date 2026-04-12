@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Develops a modeling framework that combines structured multimodal representation learning (SMVAE) and Deep IV to estimate the causal effect of influencer follower size on video impressions with unstructured video data and potential unobserved confounders.",
+    "Introduces follower elasticity of impressions (FEI), a video-level metric for the percentage change in impressions from a percentage change in followers, and estimates full FEI curves rather than a single linear effect.",
+    "Shows how FEI-based counterfactual predictions can be used to inform influencer-partnership decisions across campaign types and follower tiers."
+  ],
+  "context": "The paper studies influencer marketing on TikTok, focusing on videos appearing on the U.S. Discover page and hashtag-based challenges, including sponsored brand campaigns. The managerial setting is choosing between micro, midtier, and mega influencers for campaign reach (impressions).",
+  "design_and_data": "The authors build a dataset of all publicly accessible videos under hashtags that appeared on TikTok's U.S. Discover page from October 2020 to April 2021: 216 hashtags (30 sponsored) and just over 500,000 videos. They collect video content and metadata, including creator followers at posting time and daily video views, and use impressions at two weeks as the outcome. They learn content controls from text, image, audio, and editing modalities via a structured multimodal variational autoencoder (SMVAE). They estimate causal effects with Deep IV, instrumenting follower size using historical likes of a similar influencer, and compute FEI as the derivative of predicted log impressions with respect to log followers.",
+  "focal_constructs": [
+    "influencer popularity",
+    "follower elasticity of impressions (FEI)",
+    "video impressions",
+    "multimodal content representation",
+    "heterogeneous treatment effects",
+    "instrumental variables",
+    "sponsored hashtag campaigns"
+  ],
+  "main_findings": [
+    "Estimated FEI is positive on average (about 0.10) but nonlinear, with an inverted U-shaped average FEI curve and a corresponding S-shaped counterfactual impressions response curve.",
+    "A naive descriptive relationship suggests highest marginal returns at very small or very large follower counts, but after controlling for content and unobserved confounding via IV, the largest marginal returns are in the middle follower range.",
+    "FEI varies systematically by content: informational content benefits more from smaller influencers, socializing and gaming-related content peak at higher follower counts, and sponsored campaigns cluster into S-shaped, concave, or near-linear growth patterns tied to campaign structure."
+  ],
+  "one_line_summary": "Using large-scale TikTok data and a multimodal Deep IV approach, the paper estimates causal follower elasticity of impressions and shows that additional followers usually help but with nonlinear, content-dependent returns that often favor midtier influencers over mega influencers.",
+  "relation_to_prior_work": "extends influencer marketing and social network evidence by estimating a flexible causal follower-impressions relationship over a wide popularity range, allowing nonlinear and heterogeneous effects rather than relying on linear or correlational patterns. extends advertising response research by adapting elasticity logic to influencer impressions and documenting S-shaped, concave, and near-linear campaign response patterns in social media contexts.",
+  "research_gap": "The mega-versus-micro influencer debate lacked a causal, quantitative framework linking influencer popularity to impressions while accounting for rich unstructured video content, nonlinear heterogeneity, and possible unobserved confounders. Existing evidence was largely correlational or based on narrower follower ranges, limiting actionable guidance for influencer selection.",
+  "research_question": "How does an influencer's follower size causally affect the impressions of their TikTok videos? The paper also asks whether this effect is nonlinear and heterogeneous across content and engagement tactics, and how those estimates can guide influencer selection in sponsored campaigns."
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Zhang, Wedel, and Pieters (2009) repeatedly in its core methodological positioning, including Table 2 and the related-literature argument about mediation methods. It credits the paper as an advanced Bayesian/latent-instrument approach to mediation, but explicitly argues that this approach still depends on prior causal ordering and cannot identify causal direction when the instrument is latent. This critique is central to motivating the citing paper's own Bayes-factor conditional-independence procedure for model identification.",
+  "relation_description": "The citing paper treats Zhang et al. (2009) as an important prior mediation method, then argues that its latent-instrument framework cannot resolve causal-order identification in the authors' target setting. The new method is positioned as addressing this specific limitation.",
+  "relation_type": "challenges"
+}

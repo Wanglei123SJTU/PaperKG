@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper claims to show a transmitter-side backfire of social media engagement: posting can reduce the poster's own purchase interest.",
+    "It claims to introduce virtual identity signaling as a mechanism through which product posts substitute for acquisition of symbolic value from ownership.",
+    "It claims to identify actionable moderators - perceived identity relevance, post visibility, identity strength, and post salience - that can mitigate negative purchase outcomes for marketers."
+  ],
+  "context": "Consumers are prompted to post products on social media platforms, mainly Facebook (via a simulated \"Facebook Curations\" feature) and Pinterest (using real accounts). The empirical settings use college-student and environmentalist identities and evaluate interest in identity-relevant products such as school-branded bags and eco-friendly bags.",
+  "design_and_data": "Five between-subjects experiments test the framework using university lab samples and Amazon Mechanical Turk Pinterest users. Study 1 (n = 194) tests posting versus searching versus control; Study 2 (n = 281) manipulates identity-relevant versus functional posting and public versus private visibility on real Pinterest boards; Study 3 (n = 195) crosses posting type with identity-strength priming and uses incentive-compatible Becker-DeGroot-Marschak willingness-to-pay for a university tote bag. Study 4 (n = 185) crosses posting type with whether the evaluated backpack is identity-relevant or functional, and Study 5 (n = 266 completers across two waves) manipulates public/private posting and later post salience before a real bag choice one week later. Mediation and moderated-mediation analyses test fulfilled identity signaling as the mechanism.",
+  "focal_constructs": [
+    "social media product posting",
+    "consumer identity signaling",
+    "fulfilled identity-signaling needs",
+    "identity-relevant versus functional framing",
+    "post visibility (public versus private)",
+    "identity strength",
+    "post salience at purchase",
+    "purchase intentions, willingness to pay, and choice"
+  ],
+  "main_findings": [
+    "Posting identity-relevant products reduced later purchase intentions versus searching or no engagement, while searching alone did not differ from control.",
+    "The negative effect occurred when posts were identity-relevant and publicly visible; it was attenuated or absent when posts were functional, private, weak as signals under high identity strength, or not salient at purchase.",
+    "The effect was identity-domain specific: identity-relevant posting lowered interest in other products signaling the same identity, and mediation analyses supported fulfillment of identity-signaling needs as the process."
+  ],
+  "one_line_summary": "Across five experiments, the paper shows that posting identity-relevant products on social media can lower the poster's later interest in buying the same or similar identity-relevant products because posting fulfills identity-signaling needs.",
+  "relation_to_prior_work": "extends social media marketing research beyond receiver-focused WOM and firm-level metrics by analyzing individual-level consequences for the consumer who posts. challenges identity-consistency expectations by showing that virtual identity signaling can substitute for, rather than increase, subsequent identity-congruent purchasing under specific conditions.",
+  "research_gap": "Prior social media and online WOM research has mostly examined receiver-side effects and firm-level outcomes, leaving little evidence on how posting affects the consumer who originates the post. The paper also addresses whether product posting functions as identity signaling for the poster rather than only information diffusion.",
+  "research_question": "How does posting about products on social media affect the poster's subsequent purchase intentions, and through what psychological mechanism? The paper tests whether virtual identity signaling from product posts can substitute for purchase and identifies conditions under which this backfire effect appears or disappears."
+}

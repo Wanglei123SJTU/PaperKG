@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper models within-site web browsing dynamics (type II tobit on clickstream page requests/durations), while the citing paper studies buyer-level dealer distribution intensity and new-car make choice using geocoded transaction data and a hierarchical Bayes conditional logit—there is no clear overlap in focal constructs or core method use from the notes. The only match evidence is a single DOI entry in the reference list (reference_index 7) with no in-text context provided, which suggests a likely incidental/background citation rather than substantive dependence.",
+  "triage_decision": "drop_obvious_mention_only"
+}

@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "The paper shows that the sheer number of attributes listed can systematically alter what consumers choose even when all options have the same number of attributes.",
+    "It proposes and tests a mechanism in which attribute numerosity acts as a heuristic cue for usefulness that disproportionately benefits hedonic options.",
+    "It argues that numerosity effects in persuasion and evaluation depend on the type of target being evaluated, with implications for marketing practice, policy, and consumer welfare."
+  ],
+  "context": "The research examines consumer product choice environments where options are presented with attribute lists, especially contexts like online comparisons. The studies use choices among hedonic versus utilitarian options in categories including iPhone apps, laptops, smartphones, printers, and media players.",
+  "design_and_data": "The paper reports five between-subject online experiments with participants recruited from a nationwide database (Ns = 86, 90, 240, 298, and 180). Across studies, it manipulates attribute quantity shown for each option (e.g., 2 vs 9/10, 2 vs 8, and 2/5/10 attributes) while participants choose between hedonic and utilitarian alternatives. To isolate numerosity from content, one study presents attributes in Greek (unknown to participants), and another varies attribute type (all hedonic, all utilitarian, mixed). Process evidence comes from measured perceived usefulness and pleasurability, measured need for cognition, manipulated time pressure and usefulness priming, and mediation/logistic regression analyses.",
+  "focal_constructs": [
+    "attribute numerosity",
+    "hedonic versus utilitarian options",
+    "perceived usefulness",
+    "heuristic versus systematic processing",
+    "need for cognition",
+    "choice share"
+  ],
+  "main_findings": [
+    "Increasing attribute quantity equally across options increased the choice share of hedonic options across multiple product categories.",
+    "The effect was mediated by increased perceived usefulness of hedonic options, not by increased pleasurability, and attribute quantity did not increase perceived usefulness of utilitarian options in the mediation test.",
+    "The shift toward hedonic choice held regardless of attribute content (including unreadable foreign-language attributes and hedonic/utilitarian/mixed attribute sets) and was stronger under heuristic processing (low need for cognition, time pressure) and when usefulness was primed."
+  ],
+  "one_line_summary": "Across five experiments, increasing the number of attributes shown for every option shifted choice toward hedonic options because attribute numerosity heuristically increased the perceived usefulness of hedonic alternatives.",
+  "relation_to_prior_work": "challenges prior implications that equal increases in attribute quantity should raise all options similarly and leave relative choice unchanged, and extends numerosity and persuasion accounts by showing moderation by target type (hedonic vs utilitarian) in addition to processing mode.",
+  "research_gap": "Prior numerosity research largely examined isolated evaluations or choice sets in which one option had more attributes than others. The paper addresses the unresolved question of whether increasing attribute quantity equally across all options changes relative choice, and for which option types.",
+  "research_question": "Can the mere number of attributes listed across an entire choice set, holding this quantity equal across options, systematically shift choice between hedonic and utilitarian options? If so, is the effect driven by increased perceived usefulness of hedonic options and stronger when people rely on heuristic processing?"
+}

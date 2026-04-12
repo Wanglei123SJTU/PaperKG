@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops a bargaining framework for manufacturer-retailer channels with incomplete product specification, demand uncertainty, and unobservable retailer actions.",
+    "Shows that bilateral bargaining can affect not only surplus division but also channel coordination and total channel profit.",
+    "Derives contract and strategy implications, including when simple wholesale pricing, standard double marginalization, and returns versus no-returns delivery arrangements arise in equilibrium."
+  ],
+  "context": "The paper studies vertical manufacturer-retailer distribution channels, motivated by examples from grocery, construction supplies, and automobile procurement where parties renegotiate terms and some product attributes are hard to verify contractually. The formal setting is primarily a one-manufacturer, one-retailer channel facing uncertain demand.",
+  "design_and_data": "The main evidence is a formal multi-stage game-theoretic model: ex-ante bargaining over contract terms, retailer pricing under demand uncertainty, and ex-post renegotiation caused by product nonspecifiability. The analysis uses general bargaining properties (with Nash and Rubinstein as examples) to characterize equilibrium contracts under late delivery (no-returns) and early delivery (returns), plus extensions for renegotiation costs, outside options, retail competition, and salvage values. The paper also reports empirical validity checks via prior published evidence and three in-class MBA experiments (N=27, N=42, N=52) that manipulate retailer bargaining share (25% vs 75%) and record chosen retail and anticipated wholesale prices.",
+  "focal_constructs": [
+    "channel bargaining power",
+    "product nonspecifiability",
+    "channel coordination",
+    "double marginalization",
+    "two-part tariffs",
+    "wholesale price contracts",
+    "returns policies",
+    "renegotiation costs"
+  ],
+  "main_findings": [
+    "With incomplete product specification and costless ex-post renegotiation, two-part tariffs are not equilibrium contracts; bargaining yields a simple wholesale price contract even in a one-manufacturer, one-retailer channel.",
+    "Greater retailer bargaining power lowers negotiated wholesale and retail prices, improves channel coordination, and can make manufacturer profit an inverted-U function of retailer power, with manufacturer profit highest at an intermediate power level.",
+    "Returns contracts (early delivery with possible returns) are more likely when retailer relative power is low and manufacturer power is high, while no-returns/late-delivery contracts are favored when retailer power is high."
+  ],
+  "one_line_summary": "The paper builds a bargaining model of manufacturer-retailer channels with product nonspecifiability and shows that bargaining power changes equilibrium contract form, retail pricing, coordination, and returns versus no-returns delivery choices.",
+  "relation_to_prior_work": "introduces a channel model that embeds bilateral bargaining into market-pricing decisions, linking bargaining theories of pie splitting with marketing/IO channel-coordination models. It challenges the complete product-specifiability assumption behind standard two-part-tariff coordination results and recovers the classic double-marginalization outcome as a special case of bargaining.",
+  "research_gap": "Prior channel-contracting theory largely assumes product exchanges are fully specifiable and often treats contracting as take-it-or-leave-it, which predicts broad optimality of two-part tariffs and leaves bargaining power effects on coordination underexplored. The paper addresses this by modeling nonspecifiability-driven renegotiation and asking how relative bargaining power changes both surplus division and total channel performance.",
+  "research_question": "How do incomplete product specification and renegotiation opportunities alter equilibrium contracts and channel outcomes in manufacturer-retailer relationships with uncertain demand and unobservable retailer actions? Specifically, how does relative bargaining power affect wholesale and retail prices, channel coordination, profit allocation, and whether channels use early delivery with returns or late delivery without returns?"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper shows that royalty licensing of an incumbent's noncore technology to a direct entrant competitor has a competition-alleviating effect in a vertically quality-differentiated market, with both firms charging higher equilibrium prices.",
+    "It derives conditions under which the same licensing contract increases versus decreases the entrant's optimal core-technology quality choice, depending on whether the entrant's quality improvement over the incumbent is significant or only incremental.",
+    "It characterizes a broad set of mutually acceptable royalty contracts and shows that each side can gain even when the entrant's total royalty payment is below (for the incumbent) or above (for the entrant) the entrant's alternative in-house R&D cost, with robustness to endogenous royalty choice and alternative model setups."
+  ],
+  "context": "The setting is a market with an incumbent selling an existing product and an entrant introducing a new product whose differentiation comes mainly from a core technology. The entrant needs an undifferentiated noncore technology that can be either licensed from the incumbent under a per-unit royalty or developed in-house via fixed R&D cost.",
+  "design_and_data": "This is a theoretical game-theoretic analysis with no empirical dataset. In the baseline sequential game, the incumbent sets a royalty fee, the entrant accepts/rejects licensing versus self-development, then chooses high or low core quality, and both firms set prices under heterogeneous consumer willingness to pay. The model yields closed-form equilibria for prices, profits, and the entrant's quality threshold under licensing versus no licensing. Robustness checks consider alternative quality ordering, alternative game timing, endogenous incumbent quality with continuous quality choices (numerically), and two-part tariff licensing.",
+  "focal_constructs": [
+    "intercompetitor licensing",
+    "noncore technology",
+    "core technology quality choice",
+    "royalty contract",
+    "price competition softening",
+    "vertical product differentiation",
+    "license versus in-house R&D"
+  ],
+  "main_findings": [
+    "A mutually acceptable positive royalty contract raises both firms' equilibrium prices relative to no licensing, because the entrant's marginal cost increases and the incumbent internalizes royalty revenue from entrant sales.",
+    "When the entrant's core technology can significantly improve quality over the incumbent, licensing tends to expand the parameter region where the entrant chooses the high-quality strategy; when improvement is only incremental, licensing tends to expand the region where the entrant chooses the low-quality strategy.",
+    "There is a wide mutually acceptable royalty range, and both firms can be better off under licensing even if the entrant's total royalty payment is lower or higher than its alternative fixed R&D cost; these patterns persist when the incumbent endogenously sets royalty and under several alternative assumptions."
+  ],
+  "one_line_summary": "A game-theoretic model shows that royalty licensing of an incumbent's noncore technology to an entrant softens price competition and can either increase or decrease the entrant's optimal product quality depending on the strength of the entrant's core quality improvement.",
+  "relation_to_prior_work": "extends prior make-or-buy and licensing theory by modeling licensing of undifferentiated noncore technology between direct competitors when entrant quality is endogenous. Unlike much prior licensing work centered on cost-reducing process innovation, it links licensing to vertical quality differentiation and entrant innovation choice in addition to pricing outcomes.",
+  "research_gap": "The paper argues that existing component-sourcing and licensing research largely emphasizes process-cost effects, while quality-innovation research emphasizes how competition affects innovation, leaving limited analysis of intercompetitor noncore-technology licensing and entrant quality design together. It addresses this gap by jointly analyzing licensing acceptance, pricing competition, and entrant quality choice.",
+  "research_question": "Should an entrant license a noncore technology from an incumbent competitor or self-develop it when licensing does not change time to market? How does such intercompetitor royalty licensing affect equilibrium pricing and the entrant's optimal core-technology quality (innovation) relative to no licensing?"
+}

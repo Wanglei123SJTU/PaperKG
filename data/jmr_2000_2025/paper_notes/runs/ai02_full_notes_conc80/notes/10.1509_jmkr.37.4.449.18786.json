@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops a multilayer conceptual model of market-oriented organizational culture that explicitly distinguishes shared values, norms, artifacts, and behaviors.",
+    "It develops and validates a comprehensive measurement instrument for these layers, including newly developed artifact measures.",
+    "It provides evidence that performance effects run through market performance and that the behavior-to-market-performance effect is stronger when market dynamism is high."
+  ],
+  "context": "The study examines market-oriented organizational culture at the strategic business unit level in Germany across five industries. Data come from managers in general and functional roles within those SBUs.",
+  "design_and_data": "The authors used mixed methods: a content analysis of 50 German business-magazine reports on market-orientation change processes and 10 field interviews with managers from five industries to refine constructs and generate items. They then surveyed 1100 managers in 1100 German SBUs and obtained 160 usable responses after exclusions. Measurement validation used reliability checks, exploratory procedures, and confirmatory factor analysis, and hypotheses were tested with LISREL structural equation modeling plus a multigroup moderation test for market dynamism.",
+  "focal_constructs": [
+    "market-oriented organizational culture",
+    "shared basic values supporting market orientation",
+    "norms for market orientation",
+    "artifacts of market orientation",
+    "market-oriented behaviors",
+    "market performance",
+    "financial performance",
+    "market dynamism"
+  ],
+  "main_findings": [
+    "Shared basic values supporting market orientation positively affect norms for market orientation, but norms do not directly affect market-oriented behaviors.",
+    "Norms strongly affect artifacts, and artifacts significantly shape behaviors: artifacts indicating market orientation increase market-oriented behaviors, whereas artifacts indicating its absence decrease them.",
+    "Market-oriented behaviors improve market performance, market performance improves financial performance, and the behavior-to-market-performance link is stronger in highly dynamic markets."
+  ],
+  "one_line_summary": "Using qualitative work and a survey of 160 German SBUs, the paper develops and tests a multilayer market-oriented culture model showing that values and norms influence behavior mainly through artifacts and that market-oriented behaviors improve market and then financial performance, especially in dynamic markets.",
+  "relation_to_prior_work": "extends prior cultural market-orientation research that largely relied on behavioral measures by explicitly modeling distinct culture layers and their causal links. It introduces artifacts into this stream as a central mechanism connecting norms to behavior.",
+  "research_gap": "Prior work in the cultural stream of market orientation typically used behavioral operationalizations and did not explicitly distinguish among cultural layers. As a result, the deeper cultural dimensions behind observable behaviors and the relationships among those layers were insufficiently understood.",
+  "research_question": "How should market-oriented organizational culture be conceptualized and measured when culture is treated as multiple layers rather than only observable behaviors? The paper also asks how values, norms, artifacts, and market-oriented behaviors are related, and how these elements connect to market and financial performance under different levels of market dynamism."
+}

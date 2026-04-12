@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Demonstrates that executive resource depletion from a prior, unrelated task systematically changes context effects in choice.",
+    "Shows a diagnostic pattern across context effects - increased reference dependence and attraction but reduced compromise - to infer differences in underlying processing.",
+    "Argues that the limited resource used in self-regulation also supports broader executive functions in consumer decision making."
+  ],
+  "context": "The paper studies consumer choice in context using controlled choice tasks with trade-offs across attributes, plus one job-choice scenario with a reference point. Empirical settings include online and campus participants making hypothetical choices (jobs, laptops, cameras, apartments) and one consequential gift-card lottery choice.",
+  "design_and_data": "The article reports five between-subject experiments (N = 284, 501, 105, 64, and 162) in which participants first complete a depletion or control task and then make contextual choices. Depletion manipulations include Stroop response-inhibition tasks, attention-control during a video, and constrained essay writing; checks include Stroop speed/error and perceived task difficulty. The choice tasks test reference dependence (Study 1), compromise effects (Studies 2-3), and attraction effects (Studies 4-5) using choice-share comparisons and probit models with condition x set interactions. The authors also measure mood, tiredness, and choice time in several studies to assess alternative explanations.",
+  "focal_constructs": [
+    "resource depletion",
+    "executive control",
+    "self-regulation",
+    "intuitive processing",
+    "deliberative processing",
+    "reference-dependent choice",
+    "compromise effect",
+    "attraction effect"
+  ],
+  "main_findings": [
+    "Resource depletion increased reference-dependent choices in Study 1, with a larger shift in option shares across reference-point frames than in the control condition.",
+    "Resource depletion weakened the compromise effect in Studies 2 and 3, reducing preference for the middle option relative to an extreme option.",
+    "Resource depletion strengthened the attraction effect in Studies 4 and 5, including in a consequential gift-card choice; measured mood and tiredness did not explain the pattern."
+  ],
+  "one_line_summary": "Using five experiments, the paper shows that prior depletion of executive resources pushes choice toward intuitive context effects by increasing reference dependence and attraction while reducing compromise choices.",
+  "relation_to_prior_work": "extends ego-depletion research by showing effects on context-dependent consumer choice, not only on classic self-regulation outcomes. It refines the context-effects literature by using depletion manipulations to distinguish effects that rely more on intuitive processing from those that require deliberative trade-off reasoning.",
+  "research_gap": "Prior work on context effects had not resolved whether different effects come from simplified intuitive processing or from effortful trade-off comparison. Prior resource-depletion research focused mainly on self-regulation tasks, leaving unclear whether unrelated prior depletion would systematically influence choice in context.",
+  "research_question": "Does exerting executive control in a prior, unrelated task alter subsequent context-dependent consumer choices? Specifically, does resource depletion shift people from deliberative trade-off processing toward intuitive processing, thereby changing reference dependence, compromise effects, and attraction effects?"
+}

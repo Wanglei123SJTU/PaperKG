@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper appears in the empirical methods section, where the authors justify using synthetic difference-in-differences to handle preperiod differences in their store-level data. They cite Keller, Guyt, and Grewal (2024) as a marketing-domain precedent for this identification approach, alongside the original method source (Arkhangelsky et al. 2021). This gives the citation a clear functional role in analysis design, even though the soda-tax substantive findings are not used.",
+  "relation_description": "The citing paper applies a methodological approach that the cited paper also uses, referencing it as precedent for synthetic difference-in-differences to construct a credible counterfactual in observational retail data. The link is methodological transfer, not theoretical extension of soda-tax results.",
+  "relation_type": "applies"
+}

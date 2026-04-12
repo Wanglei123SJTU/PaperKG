@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper note describes a sorting-task optimization framework and explicitly positions prior work around sorting-analysis methods plus Ward clustering/LDA benchmarks, while the cited paper note is about constrained Bayesian finite-mixture regression for managerial segmentation constraints in a different application domain. The only match evidence is a single DOI reference entry with no in-text citation context, so there is no clear sign of substantive use but the evidence is too sparse to safely exclude.",
+  "triage_decision": "uncertain"
+}

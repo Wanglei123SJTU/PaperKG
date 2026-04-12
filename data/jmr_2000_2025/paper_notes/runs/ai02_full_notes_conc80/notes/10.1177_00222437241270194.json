@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces and operationalizes \"wait for free\" (WFF) as a consumption-decelerating promotion for serialized digital media sold through episode-level paywalls.",
+    "Provides large-scale empirical evidence that WFF can increase paid consumption of promoted series, not only free consumption.",
+    "Develops an episode-level modeling and optimization framework that accounts for heterogeneous lift and inter-comic spillovers/cannibalization to choose a better promotion set."
+  ],
+  "context": "The study is set in a global online entertainment platform's digital-comics section in one regional market, where revenue comes from per-episode sales (no ads, no subscriptions). WFF is applied to completed comic series: middle episodes can be unlocked by waiting (typically 24 hours) or paying immediately, while final episodes remain paid-only.",
+  "design_and_data": "The authors use user-level viewership logs from July 16, 2015, to May 6, 2019, including comic/episode metadata, WFF rollout information, and other promotions (discounts and additional free episodes). For estimation they focus on the top 800 comics (including 35 WFF comics from the first 8 rollout waves), totaling 216,424,274 views from 1,827,787 users. They estimate comic-level difference-in-differences models with two-way random effects and inverse propensity weighting for free and paid views, plus heterogeneity and time-varying effects. They then estimate an episode-level model with comic- and episode-level WFF time trends, similarity-based spillover/cannibalization terms, and observed heterogeneity, and use these estimates in a genetic-algorithm combinatorial optimization of the promoted set.",
+  "focal_constructs": [
+    "wait for free (WFF) promotion",
+    "serialized digital media",
+    "episode-level paywalls",
+    "free versus paid viewership",
+    "promotional lift over time",
+    "spillover and cannibalization across comics",
+    "user-type heterogeneity",
+    "promotion-set optimization"
+  ],
+  "main_findings": [
+    "Comic-level DiD results show WFF significantly increases both free and paid views for treated comics; with IPW and controls, implied lifts are about exp(3.544)-1 for free views and exp(0.836)-1 for paid views.",
+    "WFF effects vary by user type: paid-view lift is much larger for previously nonpaying users than for paying users, and frequent users respond more strongly than infrequent users.",
+    "Episode-level results indicate dampening among promoted comics and small net spillovers to nonpromoted comics (positive for free views, modest negative for paid views); optimization predicts a promoted set that performs about 18% better than the platform-chosen set and about 25% better than no promotion, with estimated lifts of about 70% for WFF episodes and 59% for final paid-only episodes."
+  ],
+  "one_line_summary": "Using digital-comics platform data, the paper shows that a wait-for-free promotion can raise paid consumption and platform-level revenue for serialized content when spillovers and title selection are modeled explicitly.",
+  "relation_to_prior_work": "extends prior digital-content promotion work from asking whether and how much content should be free to determining which serialized titles should be promoted under a deceleration-based mechanism. It also incorporates assortment interaction ideas by explicitly modeling cross-title spillovers and cannibalization in WFF deployment.",
+  "research_gap": "Prior work has mostly examined acceleration-oriented promotions and broad free-content design choices, leaving unclear whether a deceleration-incentivizing promotion can improve monetization in serialized digital media. The paper also identifies limited guidance on selecting which specific titles to promote when cross-title spillovers and cannibalization are present.",
+  "research_question": "Can a promotion that rewards delayed consumption (WFF) increase paid demand and revenue for serialized digital content despite granting additional free access? How do WFF effects evolve over time and vary across user types, and which set of series should a platform promote to maximize net platform-wide revenue once spillovers and cannibalization are considered?"
+}

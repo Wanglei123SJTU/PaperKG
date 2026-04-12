@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper claims to be the first to highlight and empirically assess the transaction-cost trade-offs of IIOT monitoring technologies in OEM-supplier multicomponent systems, including a dispute-aggravating monitoring penalty.",
+    "It develops a transaction cost framework for product performance contract design that jointly considers dispute, monitoring, and contract-writing costs under system architecture conditions.",
+    "It disentangles and calibrates ex post adaptation costs from disputes versus monitoring under contract misalignment, addressing stated gaps in multicomponent systems and misalignment literatures."
+  ],
+  "context": "The study is set in industrial OEM-supplier channels where OEMs assemble multivendor multicomponent systems and use IIOT sensors to monitor component and system performance. Empirically, it focuses on U.S. and Canadian industrial OEM transactions governed by product performance contracts.",
+  "design_and_data": "The authors combine transaction cost theory, qualitative fieldwork, and a national key-informant survey. Fieldwork includes contract-document review and site-based observations/debriefs in industrial settings (including aircraft engine, steam systems, and gas turbine contexts). The survey (2015) collected 200 usable OEM responses, and each OEM reported on two suppliers (major vs minor failure counterpart), yielding a pseudo-panel of about 400 OEM-supplier observations. Analyses use random-effects regressions, IV two-stage least squares, Gaussian copula estimation for endogeneity, mediation tests, and 3SLS models for contract-misalignment effects on transaction costs.",
+  "focal_constructs": [
+    "product performance contract specificity",
+    "monitoring technology deployment",
+    "ex post dispute costs",
+    "ex post monitoring costs",
+    "contract writing costs",
+    "modularity",
+    "unconstrained interbrand mix and match",
+    "contract misalignment"
+  ],
+  "main_findings": [
+    "Product performance contract specificity is higher with unconstrained interbrand mix and match and with greater monitoring technology deployment, and the modularity x mix-and-match interaction is negative.",
+    "Monitoring technology is associated with more monitoring, and greater monitoring is associated with more disputes, supporting a monitoring penalty effect rather than a monitoring benefits effect.",
+    "Misaligned contracts are costly in both directions: underspecification increases disputes, while overspecification increases monitoring and contract-writing costs."
+  ],
+  "one_line_summary": "In industrial OEM-supplier multicomponent systems, IIOT monitoring technologies enable more specific performance contracts but also intensify disputes via a monitoring penalty, revealing trade-offs across dispute, monitoring, and writing costs.",
+  "relation_to_prior_work": "extends transaction cost and interfirm monitoring research by shifting attention from mainly behavior/output monitoring to product-performance monitoring in multivendor multicomponent systems and by separating dispute, monitoring, and writing cost consequences in contract design and misalignment analyses.",
+  "research_gap": "Prior work on interfirm monitoring largely emphasizes behavior or output monitoring tied to opportunism, with limited attention to product/component monitoring under multicomponent interdependencies. The paper also argues that contract-misalignment studies rarely disentangle ex post dispute and monitoring costs, leaving these trade-offs in product performance contracting underexplored.",
+  "research_question": "How do multicomponent system architecture and IIOT monitoring technologies influence the specificity of OEM-supplier product performance contracts? How do monitoring technology and actual monitoring affect ex post disputes, and what transaction-cost penalties arise when contracts are under- or overspecified?"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s core design is a finite-mixture choice model for heterogeneity and selective attribute use, and it explicitly positions itself against latent-class style heterogeneity models. The cited paper is a methodological advance in Bayesian finite-mixture segmentation with simultaneous segment-level variable selection, making it a plausible method/foundation reference rather than an obviously incidental mention; the DOI match is confirmed (10.1509/jmr.10.0395).",
+  "triage_decision": "keep_for_relation_judgment"
+}

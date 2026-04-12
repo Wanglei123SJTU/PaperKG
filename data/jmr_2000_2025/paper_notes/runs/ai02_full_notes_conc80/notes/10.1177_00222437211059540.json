@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces and names the vicarious haptic effect: observing product touch in digital environments can raise product valuation.",
+    "Identifies and tests a mechanism in which vicarious touch increases body ownership of a virtual hand, which then increases psychological ownership and valuation.",
+    "Shows boundary conditions and moderators that matter for practice: diagnostic hand movements are required, and physiological stimulation in VR amplifies effects."
+  ],
+  "context": "This research is set in digital commerce and marketing content, including brand Instagram posts, online ads using images/GIFs, and a 360-degree VR retail store viewed with an Oculus headset. Products include tangible consumer goods (e.g., apparel, coffee, electronics) where touch is normally informative.",
+  "design_and_data": "Across eight studies, the authors combine a field analysis, multiple online experiments, and an in-person VR lab study. Study 1 scraped 6,917 Instagram images from four brands (Caribou Coffee, Samsung, Starbucks, We Are Knitters), coded touch-related features, and modeled likes for 4,535 focal-product posts. Studies 2-5 (Prolific/MTurk samples, roughly N=502-967 per study) manipulated vicarious touch, hand depiction, body-ownership instructions, and diagnosticity/typicality of hand movements, with mediation analyses on body ownership, psychological ownership, and valuation outcomes. Study 6 used a custom 360-degree VR store (N=144; heart-rate-valid N=130) with touch/no-touch/cursor conditions and continuous Biopac heart-rate recording.",
+  "focal_constructs": [
+    "vicarious touch",
+    "body ownership of a virtual hand",
+    "psychological ownership",
+    "product valuation",
+    "diagnosticity of hand movement",
+    "need for stimulation",
+    "heart rate change",
+    "virtual reality retail experience"
+  ],
+  "main_findings": [
+    "Brand Instagram posts showing a hand touching the product received more likes than posts with no-touch hands or no hands.",
+    "Across online experiments, vicarious touch increased body ownership of the virtual hand, which increased psychological ownership and then product valuation outcomes; merely showing a hand without touching was insufficient.",
+    "The effect was attenuated when the hand movement was nondiagnostic (but not when it was merely atypical), and in VR it was stronger for participants with larger heart-rate increases, while disgust/contagion explanations were not supported."
+  ],
+  "one_line_summary": "Across field, online, and VR studies, observing a hand diagnostically touching a product in digital content increased body ownership of the virtual hand, which raised psychological ownership and product valuation, with stronger effects for highly stimulated VR users.",
+  "relation_to_prior_work": "extends prior haptics and psychological ownership research by moving from actual touch and touch interfaces to technology-mediated observation of touch in digital and VR settings. It introduces body ownership of a virtual hand and physiological stimulation (heart-rate change) as key explanatory elements for ownership and valuation effects.",
+  "research_gap": "Prior work shows benefits of actual touch and some effects of viewing touch, but it is unclear whether digital observation of product touch makes viewers feel ownership of the virtual hand and product, and how this changes valuation in online and VR settings. The paper also addresses when observed touch fails, especially when hand movement is not diagnostically meaningful.",
+  "research_question": "Does vicarious touch - observing a hand physically touching a product in digital media - make consumers feel as if they are touching the product and thereby increase product value? The paper tests whether body ownership of the virtual hand mediates effects on psychological ownership and valuation, and whether these effects depend on diagnostic hand movement and stimulation in VR."
+}

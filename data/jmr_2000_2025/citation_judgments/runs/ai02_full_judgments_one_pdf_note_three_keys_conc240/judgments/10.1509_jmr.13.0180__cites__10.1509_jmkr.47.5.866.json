@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Ataman, Van Heerde, and Mela (2010) as a direct methodological precedent in its endogeneity strategy, specifically when justifying the use of a fourth lag for instruments. This is tied to a concrete estimation choice in the methods section, not just a broad literature listing. The citation does not drive the paper's price-war theory, but it meaningfully informs how the empirical model is implemented.",
+  "relation_description": "The citing paper applies a methodological practice from the cited paper by using similarly lagged instruments in its IV setup to address endogeneity. The cited work functions as empirical-method precedent rather than conceptual theory for the price-war hypotheses.",
+  "relation_type": "applies"
+}

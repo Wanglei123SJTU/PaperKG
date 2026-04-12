@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper introduces category-based screening as a two-stage heuristic for choosing complementary products when some combinations are incompatible.",
+    "It develops a behavioral theory-driven Bayesian choice model that jointly captures preference heterogeneity and structural heterogeneity in decision strategies and can infer individual strategy use.",
+    "It provides empirical evidence and strategic implications for how intracategory differentiation and decision goals shape which category consumers screen first."
+  ],
+  "context": "The study examines complementary-product choice with compatibility constraints, using cell phones and wireless service plans as the focal domain and motivating examples from technology and entertainment markets. In the tasks, some phone-plan combinations are incompatible, so choosing one product can preclude specific options in the other category.",
+  "design_and_data": "The authors estimate a choice model with three possible strategies: single-stage evaluation, two-stage screening by phones first, and two-stage screening by plans first. Data come from a 2 x 2 between-subject choice-based conjoint experiment that manipulates which category has higher intracategory differentiation and whether participants are primed with a category-specific versus balanced decision goal. The sample is 216 undergraduate participants, each completing ranking questions, 9 phone-only tasks, 9 plan-only tasks, and 10 complementary-category tasks (9 calibration and 1 holdout). Estimation uses Bayesian MCMC with data augmentation and compares multiple benchmark models.",
+  "focal_constructs": [
+    "category-based screening",
+    "complementary product choice",
+    "category incompatibility",
+    "two-stage decision strategies",
+    "intracategory differentiation",
+    "decision goals",
+    "structural heterogeneity"
+  ],
+  "main_findings": [
+    "Models that allow two-stage category-based screening and structural heterogeneity fit the observed choices substantially better than single-stage models.",
+    "Consumers are more likely to screen the category with higher intracategory differentiation.",
+    "Consumers are more likely to screen the category congruent with their decision goal, and simulations indicate superior products benefit from increasing differentiation and attention in their own category while inferior products can benefit when these shift to the complementary category."
+  ],
+  "one_line_summary": "In a conjoint study of cell phone-service plan choices with incompatibility, consumers often use two-stage category-based screening and preferentially screen the more differentiated and goal-congruent category.",
+  "relation_to_prior_work": "extends multicategory choice research from settings of perfect compatibility to complementary categories with incompatibility, and refines decision-heuristic work by modeling category-based rather than attribute-based screening and its drivers.",
+  "research_gap": "Prior multicategory choice research mainly examines contexts where categories are perfectly compatible, and decision-heuristic research has focused mostly on attribute-based screening within single categories. The paper identifies limited understanding of category-based screening in incompatible complementary choices and of what determines the screening category.",
+  "research_question": "When consumers choose a pair of complementary products with possible incompatibility, do they use a two-stage category-based screening process rather than only a single-stage evaluation? If they do screen by category, does higher intracategory differentiation and goal congruence increase the likelihood of screening one category first?"
+}

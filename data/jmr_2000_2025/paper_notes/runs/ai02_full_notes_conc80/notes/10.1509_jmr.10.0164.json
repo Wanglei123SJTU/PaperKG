@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides an analytical Hotelling example that demonstrates the possibility and mechanism by which a competitor's horizontal product line expansion can raise the nonexpanding firm's profits.",
+    "Derives and quantifies conditions under a mixed-logit demand system with flexible substitution patterns under which rival entry increases profits.",
+    "Shows the result can persist when firms choose product attributes endogenously and when manufacturers sell through a retailer, with larger effects in the indirect channel."
+  ],
+  "context": "The paper studies horizontally differentiated duopoly markets with an outside good, focusing on cases where one firm expands from one product to two. It also examines an indirect-channel setting where competing manufacturers sell through a common retailer.",
+  "design_and_data": "The study first analyzes a three-period Hotelling location-and-pricing game in which firm b enters first, firm a enters second, and firm b adds a second product in period 3. It then uses mixed-logit market simulations with utility U_ij = omega_ij - p_j + epsilon_ij, drawing 100,000 consumers and varying mean utility, heterogeneity, and correlation parameters in tastes across products to solve Bertrand-Nash prices before and after entry. Comparative statics are run over more than 29,000 parameter combinations, with extensions for endogenous binary attribute choice, indirect retail intermediation (more than 17,000 parameter draws), and a both-firms-add-products exercise (5,000 draws).",
+  "focal_constructs": [
+    "rival product line expansion",
+    "horizontal product differentiation",
+    "differentiated Bertrand pricing",
+    "price competition softening",
+    "intrafirm cannibalization",
+    "mixed-logit demand heterogeneity",
+    "outside good and market expansion"
+  ],
+  "main_findings": [
+    "In the Hotelling game (for v in [0.46, 0.63]), firm a's profit increases after firm b introduces its second product because b raises its incumbent price and competition softens.",
+    "In mixed-logit simulations, rival profit gains are strongest when some consumers are initially unserved and when the entrant's new product appeals to customers similar to its own incumbent product but less similar to the rival's product.",
+    "The qualitative result remains under endogenous attribute choice and under a common-retailer channel, and the profit effect is generally larger with retail intermediation; when both firms add products, firm a's profits increase in 59% of simulated parameter draws."
+  ],
+  "one_line_summary": "The paper shows analytically and through mixed-logit simulations that a firm's horizontal product line expansion can raise both firms' profits by softening price competition, especially when the new product mainly overlaps with the entrant's own demand rather than the rival's.",
+  "relation_to_prior_work": "challenges the common assumption in marketing, strategy, and economics that a competitor's new product introduction must lower rival profits. It shows, within standard product-differentiation models, that positive rival-profit effects can arise without invoking awareness spillovers, complementarities, or other psychological mechanisms.",
+  "research_gap": "Prior work and many empirical implementations typically assumed or imposed that a competitor's product line expansion reduces rival profits, and several standard demand models had not yielded the opposite result. The paper addresses the unresolved question of whether and when rival profits can increase under standard horizontal differentiation with flexible substitution.",
+  "research_question": "Can a firm's profits increase when a competitor expands its product line in a horizontally differentiated market? If so, under what demand and positioning conditions does this occur, and does the result survive when product attributes are endogenous and when firms sell through a retailer?"
+}

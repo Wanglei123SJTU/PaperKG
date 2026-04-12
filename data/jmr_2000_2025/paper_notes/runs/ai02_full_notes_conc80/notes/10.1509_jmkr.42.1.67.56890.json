@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces and tests incentive-aligned versions of conjoint tasks, including choice conjoint and contingent valuation, that require participants to live with their decisions.",
+    "It provides field-experimental evidence with real purchases that incentive-aligned choice conjoint improves out-of-sample prediction of actual behavior relative to conventional hypothetical conjoint.",
+    "It shows that incentive alignment changes inferred preference structures, which the authors present as a practical reason for conjoint studies to use realistic, consequence-linked designs."
+  ],
+  "context": "Study 1 is a dinnertime field experiment in a Chinese restaurant with university students choosing Chinese dinner specials. Study 2 tests robustness in a university snack-combo setting with real fulfillment of selected options.",
+  "design_and_data": "Study 1 used a between-subjects design with 108 undergraduate and graduate students across four treatments: hypothetical choice conjoint, hypothetical contingent valuation, incentive-aligned choice conjoint, and incentive-aligned contingent valuation (BDM). Participants completed conjoint tasks and then a real holdout choice from 20 new dinner specials (or none), with payment and meal fulfillment tied to choices; incentive conditions used random-lottery fulfillment between Part 1 and Part 2 choices. Study 2 recruited 59 senior undergraduates, randomly assigned to hypothetical versus incentive-aligned choice conjoint, completed 27 choice tasks, and then made a real holdout choice among 30 snack combos. The authors estimated hierarchical Bayes random-effects multinomial logit models for choice data and hierarchical Bayes random-effects regression for contingent valuation data.",
+  "focal_constructs": [
+    "incentive alignment",
+    "hypothetical bias",
+    "choice conjoint analysis",
+    "contingent valuation method",
+    "out-of-sample prediction",
+    "actual purchase behavior",
+    "price sensitivity",
+    "partworth heterogeneity"
+  ],
+  "main_findings": [
+    "In Study 1, incentive-aligned choice conjoint predicted the holdout top choice 48% of the time versus 26% for hypothetical choice conjoint, and top-two accuracy was 59% versus 26%.",
+    "In Study 1, incentive-aligned contingent valuation outperformed hypothetical contingent valuation in holdout prediction (15% versus 7%), though choice-based methods performed better overall than contingent valuation methods.",
+    "Across studies, incentive-aligned conditions produced different partworth structures, including stronger price sensitivity and evidence consistent with less social-desirability and novelty-seeking bias than hypothetical conditions."
+  ],
+  "one_line_summary": "Across two field experiments with real purchase consequences, incentive-aligned choice conjoint outperformed hypothetical conjoint in out-of-sample prediction and yielded different estimated preference structures.",
+  "relation_to_prior_work": "transfers induced value theory and hypothetical-bias insights from experimental economics and contingent valuation into conjoint analysis by embedding salient purchase consequences in conjoint tasks. It contrasts this approach with prior conjoint validation traditions based on aggregate shares, intentions, or intervention settings.",
+  "research_gap": "The authors argue that most conjoint studies are hypothetical and use nonsalient fixed payments, so stated preferences may not match revealed preferences. They also note that common validation approaches in conjoint (aggregate market-share prediction, purchase-intention prediction, and intervention studies) are limited by confounds, weak behavior links, or practical infeasibility.",
+  "research_question": "Do conjoint methods that tie respondents' choices to real economic consequences predict actual purchase behavior better than conventional hypothetical conjoint methods? The paper also asks whether incentive alignment changes estimated partworth structures, especially price sensitivity and heterogeneity on socially desirable or novel attributes."
+}

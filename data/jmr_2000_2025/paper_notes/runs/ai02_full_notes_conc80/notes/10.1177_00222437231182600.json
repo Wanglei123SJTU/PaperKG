@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper claims to be the first systematic test of how a cultural value, power distance belief (PDB), shapes consumers' purchase avoidance tendency.",
+    "It claims a process contribution by showing that PDB influences purchase avoidance through perceived constraints and compensatory responses.",
+    "It claims to identify boundary conditions and derive actionable retail tactics to reduce purchase avoidance."
+  ],
+  "context": "The research is set in retail and consumer choice contexts where shoppers may defer or forgo purchases, including e-commerce conversion settings and product-choice tasks. Evidence spans cross-national data and online participant samples making choices in categories such as clothing, movies, books, hand cream, and everyday products.",
+  "design_and_data": "The authors report 14 studies (including 6 in a Web Appendix) using both measured and manipulated operationalizations. Study 1a uses country-level secondary data from an apparel e-commerce merchant across 15 countries, relating nonconversion rates to PDB while controlling for multiple economic and cultural variables. Studies 1b-6 are online experiments (MTurk/TurkPrime) that manipulate or measure PDB and constraints-related factors, with outcomes including defer/forgo choices and behavioral purchase decisions involving real money or redeemable vouchers. The empirical strategy includes mediation tests for perceived constraints and moderation tests for social density and beliefs about whether constraints facilitate hierarchy or produce positive outcomes.",
+  "focal_constructs": [
+    "power distance belief",
+    "purchase avoidance tendency",
+    "perceived constraints",
+    "compensatory consumption",
+    "social density",
+    "belief that constraints facilitate hierarchy",
+    "belief that constraints lead to positive outcomes"
+  ],
+  "main_findings": [
+    "Higher (vs. lower) PDB is associated with lower purchase avoidance across multiple studies and operationalizations, including cross-national nonconversion data and individual-level experiments.",
+    "Perceived constraints mediate the PDB-purchase avoidance relationship, such that higher PDB is linked to greater perceived constraints and lower avoidance.",
+    "Boundary-condition tests support the mechanism: increasing constraints or social density reduces avoidance mainly for low-PDB consumers, while framing constraints as desirable (facilitating hierarchy or yielding positive outcomes) increases avoidance among high-PDB consumers."
+  ],
+  "one_line_summary": "Across 14 studies, the paper finds that consumers higher in power distance belief are generally less likely to avoid purchases because they perceive greater constraints, but this pattern reverses when constraints are framed as desirable.",
+  "relation_to_prior_work": "extends prior work on purchase avoidance and constraints by introducing PDB as a cultural driver and linking it to perceived constraints. It also goes beyond prior main-effect accounts by documenting moderators that attenuate or reverse the effect.",
+  "research_gap": "The paper states that little is known about cultural drivers of purchase avoidance, and prior cross-national evidence typically uses nationality as a proxy without isolating specific cultural dimensions. It also argues that prior work did not provide a clear mechanism, boundary conditions, or managerial guidance for reducing purchase avoidance.",
+  "research_question": "Does power distance belief (PDB) influence consumers' tendency to avoid purchases, including deferring and forgoing options? If so, is the effect explained by perceived constraints and does it change when situational or framing factors alter how constraints are experienced?"
+}

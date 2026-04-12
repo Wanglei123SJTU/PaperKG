@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper offers an alternative explanation for advance selling by showing that, in a channel, it can improve coordination by alleviating double marginalization.",
+    "It develops a channel model in which both manufacturer and retailer advance-selling decisions are analyzed jointly with retailer stockpiling and product holding costs.",
+    "It compares dynamic versus commitment wholesale-price contracts and characterizes when stockpiling restrictions and wholesale-price commitment improve or worsen outcomes for each party."
+  ],
+  "context": "The paper studies seasonal products or services sold through a manufacturer-retailer channel, with an advance-selling period before the season and a spot-selling period during the season. The motivating contexts include holiday goods, seasonal apparel/equipment, preorders, and travel or recreation services where retailer and consumer stockpiling can occur.",
+  "design_and_data": "The evidence is analytical: a two-period game-theoretic model with one manufacturer, one independent retailer, and homogeneous consumers with linear demand. Consumption occurs only in period 2, while purchases can occur in both periods; retailer and consumers may carry inventory with per-unit holding cost. The model solves equilibrium wholesale prices, retail prices, quantities, and payoffs under dynamic versus commitment wholesale contracts and under retailer stockpiling allowed versus restricted. Extensions analyze competing firms/channels, multiple spot periods, and uncertain consumer valuations.",
+  "focal_constructs": [
+    "advance selling",
+    "double marginalization",
+    "dynamic wholesale-price contract",
+    "commitment wholesale-price contract",
+    "retailer stockpiling ability",
+    "holding cost",
+    "channel coordination",
+    "consumer surplus"
+  ],
+  "main_findings": [
+    "Under a dynamic wholesale-price contract, advance selling can create a win-win-win outcome for manufacturer, retailer, and consumers by lowering weighted average prices and alleviating double marginalization when holding costs are sufficiently low.",
+    "The manufacturer's benefit from advance selling decreases as holding cost rises, as retailer stockpiling ability increases, and when the manufacturer commits to future spot wholesale prices; with commitment and no retailer stockpiling, advance selling helps manufacturer and consumers but hurts the retailer.",
+    "Retailer stockpiling ability has opposite effects across contracts: it decreases manufacturer profit, retailer profit, and consumer surplus under dynamic contracts, but under commitment contracts it increases retailer profit while reducing manufacturer profit and consumer surplus."
+  ],
+  "one_line_summary": "A two-period channel game shows that advance selling can mitigate double marginalization in seasonal markets, but its profitability and distributional effects depend on holding costs, retailer stockpiling, and wholesale-price commitment.",
+  "relation_to_prior_work": "extends prior advance-selling research that is largely in nonchannel settings by modeling advance selling in a decentralized manufacturer-retailer channel and identifying channel coordination as a distinct mechanism from standard explanations such as consumer heterogeneity, capacity, or information effects.",
+  "research_gap": "The paper argues that existing advance-selling work mainly studies nonchannel environments, while many real seasonal products are sold through retailers with intertemporal wholesale pricing and possible retailer stockpiling. It addresses the unresolved channel question of how advance selling, stockpiling restrictions, and wholesale-price commitment jointly affect coordination and payoffs.",
+  "research_question": "The study asks when a manufacturer and retailer should advance sell versus spot sell seasonal products in a decentralized channel. It examines how advance selling changes manufacturer profit, retailer profit, and consumer surplus, how retailer stockpiling ability and stockpiling restrictions affect equilibrium outcomes, and when the manufacturer should commit to spot wholesale prices."
+}

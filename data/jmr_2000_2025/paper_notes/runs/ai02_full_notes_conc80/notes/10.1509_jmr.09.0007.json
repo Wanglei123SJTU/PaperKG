@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper identifies patterns of brain activation when consumers are exposed to ad claims that vary in perceived deceptiveness.",
+    "It provides evidence for a multistage neural account of deceptive-ad processing in the marketplace, with an early stage and a later verification stage.",
+    "It argues that claims perceived as moderately deceptive have a distinctive impact, raising implications for persuasion theory and consumer welfare."
+  ],
+  "context": "The studies examine consumer responses to marketplace product advertisements, using real novelty-gadget ads whose claims were perceived as believable, moderately deceptive, or highly deceptive. Participants were undergraduate consumers evaluating these ads in lab and fMRI settings.",
+  "design_and_data": "Stimuli were developed from real online product ads and pretested with 180 undergraduates to select 15 ads (5 per deceptiveness category) while controlling for product innovativeness and perceived benefit. Study 1 was a behavioral experiment with 197 undergraduates (173 retained after a recall check) using a 2 (cognitive load: low vs high) x 3 (perceived deceptiveness) design, measuring recommendation and purchase likelihood. Study 2 used fMRI with 26 undergraduates in a passive-viewing event-related design where participants viewed the 15 ads plus blank baselines; each ad was shown for 50 seconds and analyzed in three 15-second stages via condition contrasts of BOLD activity.",
+  "focal_constructs": [
+    "deceptive advertising",
+    "perceived message deceptiveness",
+    "marketplace metacognition",
+    "theory of mind",
+    "persuasion knowledge",
+    "expectation violation",
+    "multistage persuasion processing",
+    "cognitive load"
+  ],
+  "main_findings": [
+    "In the first 15 seconds, highly and moderately deceptive claims produced greater precuneus activation than believable claims, and highly deceptive claims also showed greater right amygdala activation than believable claims.",
+    "In the second 15-second stage, believable and moderately deceptive claims showed greater right inferior parietal/TPJ-region activation than highly deceptive claims, while moderately deceptive claims showed greater STS activation than believable claims.",
+    "Behaviorally, moderately deceptive ads were evaluated like believable ads under high cognitive load but like highly deceptive ads under low cognitive load, consistent with a later correction stage that improves discrimination when resources are available."
+  ],
+  "one_line_summary": "Using a behavioral study and fMRI, the paper finds at least two neural stages in processing deceptive advertising and shows that moderately deceptive claims trigger distinctive, often stronger, processing patterns.",
+  "relation_to_prior_work": "extends deception-detection and theory-of-mind neuroscience from interpersonal settings to consumer advertising, and links those neural patterns to marketing perspectives on persuasion knowledge and multistage persuasion processing.",
+  "research_gap": "Prior consumer research on deceptive persuasion relied mainly on behavioral methods that cannot directly capture real-time cognitive mechanisms during message processing. In neuroscience, most deception work focused on lie production or interpersonal trust violations, leaving limited evidence on how consumers detect potentially deceptive marketing claims.",
+  "research_question": "How do consumers neurally process advertising claims that differ in perceived deceptiveness (believable, moderately deceptive, highly deceptive)? Do these responses unfold in multiple stages, and are later-stage responses consistent with theory-of-mind based verification processes, especially for moderately deceptive claims?"
+}

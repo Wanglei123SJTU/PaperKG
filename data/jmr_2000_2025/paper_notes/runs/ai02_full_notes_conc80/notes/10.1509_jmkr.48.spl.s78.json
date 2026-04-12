@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper claims to be the first to show that post-failure overspending can emerge among consumers who are typically high in self-control.",
+    "It argues that after a failure has occurred (an incurred balance), spending control can be restored by reducing the psychological impact of that failure rather than by only changing goal-setting.",
+    "It shows that increasing a consumption resource linked to failure (available credit when debt exists) can reduce, rather than increase, spending."
+  ],
+  "context": "The paper studies consumer spending in credit card settings in the United States. Evidence comes from student and nonstudent participants, including a national consumer panel and tasks tied to credit card use.",
+  "design_and_data": "The paper reports a pilot plus five studies that combine experiments and field data. The pilot (N=70 undergraduates) manipulated balance status and measured debt-avoidance focus and trait self-control. Study 1a used an actual iPad auction with credit-card payment (N=115 students/staff, excluding non-cardholders), Study 1b used an iPhone choice task (N=69), and Study 2 used a 2 x 2 experiment crossing balance (none vs $500) and available credit ($1,000 vs $10,000) with sunglasses choice (N=134). Study 3 gathered actual credit card statement inputs from a national U.S. panel (N=128), and Study 4 (N=94) manipulated available credit after an incurred balance, measured spending choice plus guilt/shame/regret, and tested mediation via bootstrap.",
+  "focal_constructs": [
+    "outstanding credit card debt",
+    "available credit",
+    "trait self-control",
+    "consumer spending",
+    "goal violation (what-the-hell effect)",
+    "debt avoidance focus",
+    "negative emotions (guilt, shame, regret)"
+  ],
+  "main_findings": [
+    "For consumers high in trait self-control, carrying an outstanding balance increased spending versus no balance, including higher auction bids, greater choice of higher-priced options, and higher actual credit card spending.",
+    "Available credit moderated this effect: when available credit was low, high self-control was associated with higher spending after a balance, but when available credit was high, this tendency was attenuated or reversed.",
+    "After a balance was incurred, higher self-control predicted stronger negative emotions only under low available credit, and these negative emotions mediated the self-control-to-spending effect in that low-credit condition."
+  ],
+  "one_line_summary": "Across five studies, the paper finds that outstanding credit card debt can increase spending among high self-control consumers, but raising available credit reduces this effect by lowering the psychological impact of debt.",
+  "relation_to_prior_work": "extends the goal-violation and self-control literature by showing that disinhibition after failure can occur among people who are usually effective at self-control in a financial setting. It also challenges the common assumption in resource-consumption research that more available resources always increase consumption by showing a boundary condition when resources are tied to prior failure.",
+  "research_gap": "The authors state that there is virtually no consumer research on how outstanding credit card debt affects subsequent spending. They also note limited evidence on how self-control operates after financial goal failure and whether such effects can be mitigated once failure has occurred.",
+  "research_question": "How does carrying an outstanding credit card balance influence subsequent spending behavior? Does this effect depend on trait self-control, and can available credit change the effect by altering the psychological impact of the incurred debt?"
+}

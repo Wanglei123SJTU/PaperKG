@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper explicitly uses the cited paper in its empirical design: it states \"Following Chakravarty and Grewal (2016)\" when defining how to extract unanticipated components of key variables. This AR(1)-residual construction is then used in the main abnormal stock return model and hypothesis tests, so the citation has a concrete methodological role. The reference is therefore more than background mention, even though the citing paper does not build on the cited paper's full theory about analyst forecast pressure.",
+  "relation_description": "The citing paper applies Chakravarty and Grewal (2016)'s method for deriving unanticipated changes in firm variables via AR(1) residuals. It uses that procedure to operationalize core predictors in its abnormal-return analyses.",
+  "relation_type": "applies"
+}

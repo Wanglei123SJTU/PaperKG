@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "This work is the first to link an individual-level model of actual app usage to a mobile app's reward architecture.",
+    "It is the first study to jointly analyze a hybrid reward architecture with game rewards and value rewards, including their interplay, using individual-level field data.",
+    "It explicitly examines potential value-detracting consequences of gamification by testing whether flow weakens the effect of game engagement on value-added engagement quantity and quality."
+  ],
+  "context": "The study is set in a gamified market research mobile app run by a provider operating primarily in Europe. Users answer fun questions to earn game rewards (XP and levels) and answer client survey questions to earn value rewards (coins redeemable for vouchers or donations).",
+  "design_and_data": "The authors use event-log field data from the app and aggregate to user-day observations for up to 365 days after download. The final sample has 18,952 users, 702,329 user-day observations, and 8,762,304 in-app activities with millisecond timestamps, including reward-proximity and reward-attainment status. They estimate a Bayesian recursive four-equation system with two Type II Tobit components to model game engagement and value-added engagement, each split into quantity and quality. The model includes lagged game/value reward proximity and attainment, cross-engine interactions, flow, and temporal controls.",
+  "focal_constructs": [
+    "gamification",
+    "hybrid reward architecture",
+    "game-reward proximity and attainment",
+    "value-reward proximity and attainment",
+    "game engagement",
+    "value-added engagement quantity",
+    "value-added engagement quality",
+    "flow state"
+  ],
+  "main_findings": [
+    "Proximity to both game rewards and value rewards increases both game engagement and value-added engagement, and high proximity in both engines has synergistic effects.",
+    "Game-reward attainment strongly increases game engagement but decreases next-day value-added engagement quantity and quality, and simultaneous attainment across engines weakens game engagement (negative attainment interaction).",
+    "Game engagement increases value-added engagement quantity and quality on average, but this translation becomes weaker when users are in flow; at high flow, more game engagement can even reduce survey-incidence probability."
+  ],
+  "one_line_summary": "Using one year of user-level app event logs, the paper finds that hybrid game and value rewards increase engagement and downstream value, but flow and certain reward-attainment patterns reveal a dark side of gamification.",
+  "relation_to_prior_work": "extends prior loyalty-reward and gamification research by jointly modeling value rewards and game rewards in a hybrid mobile-app architecture with individual-level field data. It refines earlier gamification evidence by distinguishing game engagement from value-added engagement and by separating quantity and quality outcomes. It challenges uniformly positive views of gamification by documenting weaker value-added effects when users enter flow.",
+  "research_gap": "The paper states that evidence on how rewards drive mobile app engagement is scarce and that prior studies examine either value rewards or game rewards, not both together. It argues that no prior study had tested how hybrid reward architectures affect engagement and business value, including possible value-detracting effects of gamification on value-added engagement quantity and quality.",
+  "research_question": "How does simultaneous pursuit of game rewards and value rewards affect individual users' game engagement and value-added engagement in a mobile app? Does game engagement improve value-added engagement quantity and quality? Do these effects become weaker when users are more immersed in gameplay (flow)?"
+}

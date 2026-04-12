@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces and empirically validates valence of comparison in comparative advertising, defined by perceived derogation versus nonderogation of competitors.",
+    "Demonstrates across a controlled experiment and two studies with real print ads that perceived comparison valence systematically affects ad processing and effectiveness outcomes.",
+    "Shows that advertiser attributions (reporting bias-related perceptions of the advertiser) mediate valence effects on believability and downstream brand attitudes."
+  ],
+  "context": "The paper studies comparative advertising in consumer and business product/service categories, including both direct and indirect comparisons in print and a lab ad context. It focuses on how consumers respond when an advertiser's comparison is perceived as more positive versus more negative toward competitors.",
+  "design_and_data": "Study 1 is a between-subjects factorial lab experiment with 201 mall shoppers using hypothetical jeans ads that manipulated comparison valence (plus brand assignment), with measures of believability, brand attitudes, purchase likelihood, and advertiser attributions. Study 2 uses 99 MBA students who each evaluated one of five real magazine comparative ads; valence was measured (not manipulated), and outcomes included thought listings (counterarguments/support arguments), believability, attitudes, and attributions. Study 3 replicates with 62 respondents and six additional real ads, adds argument-quality measures, and uses regression plus mediation analyses with ad dummies and pooled data across ads.",
+  "focal_constructs": [
+    "comparative advertising",
+    "comparison valence",
+    "perceived derogation",
+    "advertiser attributions",
+    "claim believability",
+    "counterarguments and support arguments",
+    "brand attitudes"
+  ],
+  "main_findings": [
+    "Advertisements perceived as more negative/derogatory toward competitors were less believable and produced less favorable brand attitudes than more positive comparisons.",
+    "Negative comparisons generated more counterarguments and fewer support arguments than positive comparisons in the studies using real advertisements.",
+    "Negative comparisons produced more negative advertiser attributions, and these attributions mediated valence effects on believability and attitudes; in Study 1, purchase likelihood was directionally lower for negative comparisons but not statistically significant."
+  ],
+  "one_line_summary": "Across one experiment and two studies with real ads, the paper finds that more negative comparative claims provoke less favorable advertiser attributions and more resistant processing, which lowers ad believability and brand attitudes versus more positive comparative claims.",
+  "relation_to_prior_work": "extends comparative advertising research that had emphasized comparative versus noncomparative formats and other ad features by isolating valence of the comparison as a distinct determinant of persuasion, and it builds on prior attribution/persuasion knowledge work by identifying advertiser attributions as the mechanism.",
+  "research_gap": "Prior comparative advertising research had largely not examined whether the tone of the comparison itself is positive or negative (nonderogatory versus derogatory) and how this affects persuasion. The paper addresses this missing valence dimension and its attributional mechanism.",
+  "research_question": "How does the perceived valence of a comparative advertisement, defined by how derogatory versus nonderogatory it is toward competitors, affect consumer processing and persuasion outcomes? Do more negative comparisons reduce effectiveness by inducing more negative advertiser attributions, which then lower believability and brand attitudes?"
+}

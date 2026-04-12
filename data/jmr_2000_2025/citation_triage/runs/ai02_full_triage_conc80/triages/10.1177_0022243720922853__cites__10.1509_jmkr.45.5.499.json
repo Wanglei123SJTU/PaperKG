@@ -1,0 +1,4 @@
+{
+  "rationale": "The matched evidence is only a DOI hit (reference_index 95) with no title/unstructured string or in-text citation context, so we cannot verify how the source is used. The cited paper’s focus on Dutch supermarket price sensitivity and spending behavior overlaps with constructs in the citing paper (price elasticity/promotion effects), but it is not obviously tied to the citing paper’s core umbrella-rebranding mechanism. With this sparse evidence, it is not safe to drop nor clearly strong enough to keep.",
+  "triage_decision": "uncertain"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing study examines causal effects of digital textbook utilization in Korean elementary education using panel regressions, teacher fixed effects, IPTW, and IV, while the cited paper is a hierarchical Bayes recommender-systems model for nonignorable missing movie ratings (EachMovie). There is no provided evidence of shared theory, direct method adoption, or benchmark use, and the match evidence is only a DOI entry without contextual citation text. This looks like a background/incidental mention rather than a substantive dependency.",
+  "triage_decision": "drop_obvious_mention_only"
+}

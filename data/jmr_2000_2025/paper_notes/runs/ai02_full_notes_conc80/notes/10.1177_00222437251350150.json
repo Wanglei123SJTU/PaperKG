@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "The paper argues that fatal school shootings have broader community-level economic consequences, not only psychological consequences for direct victims and families.",
+    "The paper introduces evidence of spillover effects from violence in nonretail spaces (schools) to reduced consumption in surrounding retail and service settings, adding a new angle to safety-threat research.",
+    "The paper extends mortality-salience and political-identity research by using real incidents and showing that consumption effects are stronger in liberal-leaning communities."
+  ],
+  "context": "The study is set in U.S. counties that experienced fatal K-12 school shootings. It focuses on household food-related consumption in public settings such as grocery stores and restaurants, with additional tests of at-home versus public consumption choices.",
+  "design_and_data": "Study 1 combines the CHDS K-12 shooting database with NielsenIQ Homescan household purchases and Label Insight nutrition data, covering 63 fatal school shooting incidents from 2012 to 2019 in a 24-week pre and 24-week post window. The main identification uses household-level difference-in-differences, comparing affected households to the same households in the same weeks of the prior year, with household and week fixed effects, demographic controls, and household-clustered standard errors. A supplementary observational analysis merges CHDS with Advan Foot Traffic Monthly Patterns and SafeGraph Spend Patterns (2019-2022), excludes March-September 2020, and uses synthetic difference-in-differences with neighboring counties as controls (44 incidents for visits, 43-44 for spending depending on outcome). Three online experiments (n=1,007; n=1,000; n=2,001) test mechanisms and boundary conditions, including anxiety mediation, political-ideology moderation, and public-versus-private consumption contexts.",
+  "focal_constructs": [
+    "fatal school shootings",
+    "community consumption",
+    "grocery spending",
+    "public-space anxiety",
+    "political ideology",
+    "avoidance of public exposure"
+  ],
+  "main_findings": [
+    "Fatal school shootings are associated with a 2.09% decline in weekly grocery spending in affected counties, and this reduction persists over the six-month post-incident period studied.",
+    "The grocery spending decline is larger in liberal-leaning counties (about 2.44%) than in conservative-leaning counties (about 1.28%, marginally significant).",
+    "Supplementary observational analyses show declines of about 8% in spending at food services and drinking places and 3% at food and beverage stores, and experiments indicate anxiety about consuming in public spaces as the primary mechanism, with effects attenuated for equivalent private at-home consumption."
+  ],
+  "one_line_summary": "Using U.S. incident, household purchase, and experimental data, the paper finds that fatal school shootings reduce local public food-related consumption for months, mainly through anxiety about public spaces and more strongly in liberal-leaning communities.",
+  "relation_to_prior_work": "extends prior work on school shootings and violence by documenting community-wide consumption spillovers from school-based incidents, rather than only direct effects at or near attacked retail locations, and by testing these effects in real-world and experimental settings with political-ideology heterogeneity.",
+  "research_gap": "Prior research has mainly examined psychological and educational consequences for people directly affected by school shootings, with limited evidence on broader community consumption effects. Existing violence-and-consumption studies also emphasize incidents occurring in or near commercial venues, leaving spillover effects from nonretail tragedies such as school shootings underexplored.",
+  "research_question": "How do fatal school shootings affect the broader community's consumption behavior, especially grocery and other public food-related spending? Do these effects operate through heightened anxiety about safety in public consumption spaces, and do they vary by political ideology?"
+}

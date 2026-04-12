@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a robust endogeneity test for panel individual choice models with both cross-consumer common shocks and within-consumer correlation over time.",
+    "It presents a simulated-moments, quasi-likelihood estimator that is easier to implement than earlier methods because it avoids computing multiple integrals over common shocks and can be applied with any number of alternatives.",
+    "It treats endogeneity not only in price but also in other firm-controlled variables (e.g., display and feature), while allowing unobserved consumer heterogeneity and a no-purchase option."
+  ],
+  "context": "The empirical application is household scanner panel data in the ketchup category, with six major brands from one store in the mid-1980s. Consumers make weekly category purchase/no-purchase and brand-choice decisions.",
+  "design_and_data": "The authors specify a mixed-logit latent-utility model in which utility depends on observed marketing variables and an error structure with common time shocks, consumer-specific heterogeneity, and idiosyncratic shocks. They estimate parameters using a method of simulated moments based on a quasi-log-likelihood, with a two-step instrumental-variables procedure, and test endogeneity by comparing estimates with and without instrumenting. They run a Monte Carlo study (6 brands, 112 periods, 300 households, 100 repetitions). They then apply the method to scanner panel data with 340 households, 132 weeks, and 1,445 purchases, using brand-interacted tomato prices and lags as instruments for price, display, and feature.",
+  "focal_constructs": [
+    "individual consumer choice",
+    "endogeneity",
+    "unobserved consumer heterogeneity",
+    "common demand shocks",
+    "mixed logit latent utility",
+    "instrumental variables",
+    "method of simulated moments"
+  ],
+  "main_findings": [
+    "Theoretical results show that with many households and periods, the proposed estimator is consistent under heterogeneity and common shocks, but failing to account for endogeneity can bias estimates.",
+    "In Monte Carlo simulations, ignoring endogeneity produces biased coefficients when price is correlated with common shocks, while instrumental-variables estimation recovers parameters more accurately after normalization.",
+    "In the ketchup data, endogeneity is found for price but not necessarily for display or feature, and correcting for endogeneity increases the relative importance of price and feature (about 60 percent on average)."
+  ],
+  "one_line_summary": "The paper develops and applies a quasi-likelihood simulated-moments framework to test and correct endogeneity in panel mixed-logit consumer choice models with common shocks and unobserved heterogeneity.",
+  "relation_to_prior_work": "extends prior panel endogeneity work in brand choice, especially Villas-Boas and Winer (1999), by incorporating unobserved consumer heterogeneity, allowing endogeneity in multiple firm-controlled variables, and providing a computationally simpler estimator. It also positions its approach against Bayesian small-sample methods by emphasizing a large-sample procedure with fewer functional-form assumptions.",
+  "research_gap": "Existing panel choice approaches had not offered a practical method that jointly handles unobserved consumer heterogeneity, common demand shocks, and endogenous firm-controlled variables. Earlier endogeneity treatments were either more computationally demanding or focused more narrowly on price endogeneity.",
+  "research_question": "How can researchers consistently estimate individual-level choice parameters and test for endogeneity when panel data contain both common demand shocks across consumers and serial correlation from unobserved consumer heterogeneity? The paper also asks whether key marketing variables (price, display, feature) are endogenous in scanner-panel ketchup choices and how correction affects inferred preferences."
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is a core data-fusion method paper (direct Bayesian predictive fusion, conditional-independence assumptions, dependence adjustment), and the citing paper explicitly frames its contribution as extending prior missing-data/data-fusion work while scrutinizing conditional-independence assumptions in aggregate profiling. Given this strong methodological overlap and likely foundational role, this is not an obvious incidental mention based on the provided notes.",
+  "triage_decision": "keep_for_relation_judgment"
+}

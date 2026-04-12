@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The authors present an information-processing model of self-regulation in which selective processing of cost versus pleasure attributes links self-regulatory goals to consumption.",
+    "They identify two boundary conditions for this mechanism: proximity of the desired object (physical and temporal) and external availability of attribute information.",
+    "They claim robust evidence across four experiments using different stimuli, goal primes, and processing measures, including a finding that proximity can improve self-control for consumers with active goals."
+  ],
+  "context": "The studies are in the domain of eating behavior, where consumers evaluate and consume tempting foods (mainly chocolate/chocolate ice cream) while health-related goals may conflict with indulgence. The focal decision context contrasts pleasure attributes (e.g., richness, creaminess) with cost attributes (e.g., fat, calories).",
+  "design_and_data": "The paper reports four laboratory experiments with undergraduate participants using between-subject manipulations of self-regulatory goal activation, product proximity (physical or temporal), and attribute information availability. Experiment 1a (n = 90) used MouselabWEB to track time spent on cost versus pleasure attributes and measured chocolate consumption; Experiment 1b (n = 34) related measured health consciousness to the same processing ratio. Experiment 2 (n = 138) and Experiment 3 (n = 176) used coded thought listings (cost vs pleasure thoughts) plus consumption measures, with Experiment 3 adding temporal distance in a 2 x 2 x 2 design. A follow-up memory-accessibility test (n = 30) compared the difficulty of generating cost versus pleasure thoughts when no external attribute information was provided.",
+  "focal_constructs": [
+    "self-regulatory goals",
+    "selective information processing",
+    "cost versus pleasure attributes",
+    "physical proximity",
+    "temporal proximity",
+    "external attribute information availability",
+    "food consumption",
+    "self-regulatory failure"
+  ],
+  "main_findings": [
+    "When a self-regulatory goal was active and tempting food was near, participants processed relatively more cost than pleasure information and consumed less.",
+    "The effect of self-regulatory goals on processing and consumption depended on proximity: as tempting food became physically or temporally farther away, goal-primed participants focused less on costs and showed greater self-regulatory failure.",
+    "When attribute information was not externally available and had to be recalled, participants shifted toward pleasure-focused thoughts, and the cost-versus-pleasure processing ratio mediated the effects of goals and boundary conditions on consumption."
+  ],
+  "one_line_summary": "The paper shows that self-regulatory success in indulgent food choices depends on selectively processing cost over pleasure information, a strategy triggered by temporal or physical proximity and weakened when attribute information must be recalled from memory.",
+  "relation_to_prior_work": "challenges prior self-regulation findings that greater distance from temptation uniformly improves control by showing that, for consumers with active goals, proximity can trigger cost-focused processing that improves restraint.",
+  "research_gap": "Prior self-regulation research largely emphasized reducing attention to temptations and often predicted that proximity increases failure, but it did not clearly explain how the content of attended information influences control. This paper addresses that gap by testing whether selective processing of cost versus pleasure information is a mechanism linking goals to consumption, and when that mechanism operates.",
+  "research_question": "How do active self-regulatory goals influence consumers' selective processing of cost versus pleasure information about tempting products, and how does that processing affect consumption? The paper also asks whether this mechanism depends on product proximity (in time or space) and on whether attribute information is externally available versus recalled from memory."
+}

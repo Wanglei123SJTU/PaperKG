@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides empirical validation and quantification of cross-channel advertising effects between online and offline sales.",
+    "Introduces a multiequation framework in which traditional, online display, and paid search advertising affect sales directly and indirectly through paid search impressions and click-through rate.",
+    "Addresses core empirical challenges in this setting by modeling endogeneity, dynamic carryover (AdStock), multivariate outcomes, autocorrelation, and competitive advertising effects."
+  ],
+  "context": "The study is set in a U.S. multichannel high-end clothing and accessories retailer with both physical stores and an online store across 25 markets. Offline sales account for most revenue (about 85%), so online-to-offline cross effects are managerially important.",
+  "design_and_data": "The authors analyze weekly data for 103 weeks (September 2008 to August 2010) from one retailer, including market-level offline and online sales (25 markets x 103 weeks = 2,575 observations per sales equation). They also use national weekly paid search impressions and click-through rates, plus spending on traditional, online display, and paid search advertising; controls include promotions, clearance, unemployment, Christmas season, trend, competitor advertising, and market fixed effects. They estimate a four-equation log-log AdStock system for impressions, click-through rate, offline sales, and online sales. Estimation uses a 3SLS adaptation of Parks (1967) with autocorrelation, contemporaneous error covariance, and instrumental variables (from lower-end retailers' advertising) to correct endogeneity in the sales equations.",
+  "focal_constructs": [
+    "cross-channel advertising effects",
+    "own-channel advertising effects",
+    "traditional advertising",
+    "online display advertising",
+    "paid search advertising",
+    "search impressions",
+    "search click-through rate",
+    "advertising carryover"
+  ],
+  "main_findings": [
+    "Cross-channel advertising effects are positive and important, and the cross-effect elasticities are nearly as large as own-effect elasticities.",
+    "Online display and especially paid search advertising are more effective than traditional advertising in total sales impact, mainly because of strong cross effects on offline sales.",
+    "Traditional advertising has a positive direct cross effect on online sales but lowers paid search click-through rate, creating a negative indirect effect that reduces its net cross-channel impact; ignoring cross effects leads to substantial ROI mismeasurement."
+  ],
+  "one_line_summary": "Using weekly multichannel data from a U.S. upscale retailer, the paper shows that traditional, online display, and paid search advertising all have sizable cross-channel sales effects, with online media delivering strong offline gains that materially change ROI conclusions.",
+  "relation_to_prior_work": "extends prior multichannel advertising research by jointly modeling actual online and offline sales effects of traditional, display, and paid search advertising rather than only consideration outcomes or single-side cross effects. It adds endogeneity correction, competitive advertising, and dynamic carryover, and explicitly models paid-search intermediaries (impressions and click-through rate).",
+  "research_gap": "The authors argue that while own-channel effects are well studied, evidence on bidirectional cross-channel advertising effects at the sales level is limited. They state that prior work had not jointly compared traditional, online display, and paid search while simultaneously handling endogeneity, competitive advertising, dynamics, and paid-search intermediary metrics.",
+  "research_question": "Do traditional, online display, and paid search advertising create both own-channel and cross-channel effects on online and offline sales, and how large and persistent are those effects? How do paid search intermediaries (impressions and click-through rate) mediate these impacts, and what are the ROI implications of accounting for cross-channel effects?"
+}

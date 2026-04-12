@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper discusses Chen and Yang (2007) in a dedicated methodological comparison, not just in a background list. It explicitly states that Chen and Yang's aggregate-data augmentation approach captures heterogeneity but does not handle unmeasured product characteristics or price endogeneity, and uses this contrast to motivate the new estimator. This citation therefore plays a meaningful role in framing the paper's contribution and positioning versus prior aggregate-data methods.",
+  "relation_description": "The citing paper positions its SML approach against Chen and Yang (2007) by arguing that their method omits endogeneity-related unobservables that are central to the current paper. The cited work is used as a key comparison point in defining what the new method adds.",
+  "relation_type": "other"
+}

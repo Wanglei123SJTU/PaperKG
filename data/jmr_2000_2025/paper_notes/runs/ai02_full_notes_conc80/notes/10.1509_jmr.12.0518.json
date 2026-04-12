@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces the Information Archetype Mixture model to separately and simultaneously capture preference heterogeneity and context-sensitive information usage in choice data.",
+    "It reframes the full-information-use axiom as an empirically testable hypothesis by modeling observed choices as a mixture of a full-information archetype and an information-manager archetype.",
+    "It conceptually integrates economic rationality and bounded rationality perspectives by allowing both to coexist within the same individual decision-making space."
+  ],
+  "context": "The empirical tests use discrete choice experiments in consumer product markets. Four datasets cover beauty aids, personal computers, orange juice deal promotions, and digital cameras, with task complexity ranging from simple to highly complex.",
+  "design_and_data": "The paper develops a finite-mixture IAM model with two archetypes: Archetype 1 always uses all attributes, and Archetype 2 endogenously selects activated information sets by a benefit-minus-cost rule within each task. Parameters are estimated by maximum likelihood, and IAM is compared with latent class panel random-utility models using information criteria, mainly BIC. The model is applied to four DCE datasets (Studies 1-4), including three previously used datasets and one new camera study; sample sizes are 3,163, 287, 280, and 573 respondents. The studies vary in attributes and set sizes (2 to 9 attributes, 2 to 9 alternatives, and multiple repeated tasks), enabling tests across different levels of choice complexity.",
+  "focal_constructs": [
+    "information usage",
+    "preference heterogeneity",
+    "full information use",
+    "information management",
+    "information archetypes",
+    "context sensitivity",
+    "activated information sets",
+    "random utility choice models"
+  ],
+  "main_findings": [
+    "Across all four studies, both archetypes are supported, and the estimated weight on full-information behavior declines as task complexity increases (approximately .65 in Studies 1-2, .53 in Study 3, and .29 in Study 4).",
+    "Compared with latent class models focused only on preference heterogeneity, IAM has lower BIC in three of four studies and shows better holdout performance in Study 1 despite weaker in-sample BIC there.",
+    "Archetype 2 exhibits context-sensitive attribute use: in the camera study, changes in attribute ranges and scenario structure shift which attributes are used, and joint brand-price use is high in very simple and very complex contexts but low in medium-complexity contexts."
+  ],
+  "one_line_summary": "This paper proposes and tests an Information Archetype Mixture choice model that jointly represents full-information and selective information-use behavior to separate context-sensitive information usage from preference heterogeneity.",
+  "relation_to_prior_work": "introduces a process-oriented choice framework that adds endogenous information-set selection to random-utility modeling rather than assuming universal full-information use. It also departs from prior attention formulations that combine attention and importance in utility by explicitly separating information usage mechanisms from preference heterogeneity.",
+  "research_gap": "Within random-utility choice modeling, explicit treatment of information usage has largely been overlooked, with full information use typically assumed. Prior attention-based approaches often combine attribute importance and attention in utility, making it difficult to cleanly separate context-sensitive information usage from true preference heterogeneity.",
+  "research_question": "How can consumer choice models represent that people both choose among alternatives and manage which attributes to use, with information usage adapting to context? Can full-information behavior and selective information-management behavior be jointly identified so that information-usage heterogeneity is not misattributed as preference heterogeneity?"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Shows that CEO political ideology is linked not only to corporate policy choices but also to a key strategic marketing outcome: firms' rate of new product introductions.",
+    "Identifies boundary conditions for the ideology-innovation link by testing moderators from CEO characteristics (power, compensation), top management structure (marketing influence), and the macro environment (recession vs growth).",
+    "Extends evidence on consequences of CEO ideology by examining long-term firm value and risk (Tobin's q and stock return volatility), testing mediation through NPIs, and using CEO-turnover change analyses to provide at least partial causal evidence."
+  ],
+  "context": "The study examines large publicly listed U.S. firms across multiple industries. It focuses on CEO political ideology and firm innovation behavior in the 2006-2010 period, including the 2008 recession context.",
+  "design_and_data": "The main sample includes 421 U.S. public firms (2,105 firm-year observations) tracked annually from 2006 to 2010; CEOs were appointed between 2003 and 2005 and remained through 2010. CEO political liberalism is measured from individual political contribution records (1990-2005) using four Democratic-vs-Republican support ratios averaged into a 0-1 index. NPIs are hand-coded from firm announcements and news sources, with additional coding of radical versus incremental NPIs; performance outcomes are Tobin's q and annual stock return volatility. The authors estimate random-effects negative binomial models for NPIs, random-effects GLS models for performance outcomes, and add mediation tests, instrumental-variable robustness checks, and turnover-based change analyses.",
+  "focal_constructs": [
+    "CEO political liberalism",
+    "new product introductions",
+    "CEO power",
+    "CEO equity-pay ratio",
+    "marketing department influence in top management team",
+    "Tobin's q",
+    "stock return volatility"
+  ],
+  "main_findings": [
+    "Higher CEO political liberalism is associated with a higher rate of new product introductions, including both radical and incremental NPIs.",
+    "The positive CEO liberalism-NPI relationship is weaker when CEO power is lower, when marketing influence in the TMT is higher, and when the economy is not in recession; it is also weaker with higher option-based equity pay in the alternative compensation specification.",
+    "Firms led by more liberal CEOs show higher Tobin's q and higher stock return volatility, and mediation analyses indicate NPIs partially mediate Tobin's q while radical NPIs mediate firm risk; turnover-based change analyses provide corroborating evidence that the effect is at least partly causal."
+  ],
+  "one_line_summary": "Using panel data on 421 U.S. public firms, the paper finds that more politically liberal CEOs drive higher new product introduction rates, which are linked to higher Tobin's q but also higher stock return volatility under identifiable boundary conditions.",
+  "relation_to_prior_work": "extends prior CEO-ideology research beyond finance, CSR, and tax outcomes to strategic marketing behavior by linking ideology to firms' innovation propensity. It also goes beyond mostly main-effect evidence by testing moderators and by examining long-term value and risk consequences with mediation through NPIs.",
+  "research_gap": "Prior studies on CEO political ideology have mainly examined corporate finance, CSR, and tax outcomes, while evidence on strategic marketing outcomes such as new product introductions is limited. The literature has also offered limited evidence on causality and on whether ideology-driven policy differences translate into long-term shareholder value and firm risk differences.",
+  "research_question": "Does a CEO's political ideology, specifically relative liberalism, affect the firm's innovation propensity as measured by the rate of new product introductions? Under what conditions do CEO, top management, and macroeconomic factors weaken this effect, and do ideology-linked differences in NPIs translate into differences in shareholder value and firm risk?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a unified framework that uses unsupervised latent Dirichlet allocation to extract latent quality dimensions and associated valence from online user-generated content.",
+    "It extends standard LDA use by incorporating context-specific valence extraction with minimal human intervention, including automated support for dimension labeling.",
+    "It links text-mining outputs to strategic marketing analyses, including optimal dimension selection, time-varying dimension importance, heterogeneity/segmentation, and dynamic brand mapping across multiple markets."
+  ],
+  "context": "The study analyzes online product-review chatter for consumer brands in five markets: personal computing, mobile phones, footwear, toys, and data storage. It is positioned as a high-frequency alternative to periodic survey-based quality measurement.",
+  "design_and_data": "The empirical data are approximately 350,000 online consumer reviews (from Tirunillai and Tellis 2012) covering 15 firms across five markets over roughly four years. Reviews are preprocessed (cleaning, sentence/token handling, POS filtering, stemming, stop-word removal, and low-frequency term filtering) and then modeled with an LDA-based Bayesian framework estimated via Gibbs sampling. Valence is learned with a seed-word bootstrapping approach, and the optimal number of dimensions is selected using marginal log-likelihood with fivefold cross-validation (with an additional check using Chib's estimator). Validation compares automated outputs with two trained human coders (100 reviews per brand) and with Consumer Reports dimensions and rankings; brand maps are produced using Hellinger distances and multidimensional scaling.",
+  "focal_constructs": [
+    "user-generated content (online reviews)",
+    "latent dimensions of quality",
+    "context-specific valence",
+    "consumer satisfaction with quality",
+    "optimal number of dimensions",
+    "dimension importance over time",
+    "heterogeneity of consumer perceptions",
+    "dynamic brand positioning"
+  ],
+  "main_findings": [
+    "A relatively small set of dimensions was sufficient to represent perceived quality, and extracted dimensions showed moderate to substantial agreement with human coding and substantial overlap with Consumer Reports dimensions.",
+    "For vertically differentiated markets (e.g., mobile phones, computers), objective dimensions were more prominent and more similar across markets, with lower heterogeneity and higher temporal stability.",
+    "For horizontally differentiated markets (e.g., footwear, toys), subjective dimensions were more prominent and varied more across markets, with higher heterogeneity and lower temporal stability; brand positions and dimension salience changed over time."
+  ],
+  "one_line_summary": "Using a large multi-market corpus of online reviews, the paper extends LDA to jointly extract quality dimensions and context-specific valence and then uses them for validation, dynamic tracking, heterogeneity analysis, and brand mapping.",
+  "relation_to_prior_work": "extends prior marketing text-mining approaches that infer market structure or review effects by offering an unsupervised Bayesian framework that jointly recovers latent quality dimensions and valence from unstructured reviews. extends typical LDA applications by adding context-specific valence extraction and integrating outputs into managerial analyses such as optimal dimension selection, heterogeneity assessment, and dynamic brand maps.",
+  "research_gap": "Survey- and interview-based quality measurement is periodic and limited in scale, while online chatter is abundant and high-frequency. The paper argues that prior UGC methods did not provide a single scalable framework that simultaneously extracts latent quality dimensions and context-sensitive valence and then evaluates their validity, importance, dynamics, and heterogeneity for strategy use.",
+  "research_question": "Can online user-generated reviews be mined to recover the key latent dimensions of brand quality and the valence associated with each dimension? How valid and parsimonious are these dimensions, and how do their importance, heterogeneity, and brand positions vary across markets and over time?"
+}

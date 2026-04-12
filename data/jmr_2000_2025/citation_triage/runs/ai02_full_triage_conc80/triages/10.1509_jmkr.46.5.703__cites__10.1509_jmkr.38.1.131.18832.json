@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper studies how customer satisfaction (ACSI) affects financial outcomes (credit ratings and bond spreads) and explicitly frames itself as extending prior customer-satisfaction research, so prior satisfaction mechanism papers are potentially foundational rather than incidental. The cited paper provides a substantive satisfaction-to-behavior mechanism (linking satisfaction ratings to actual repurchase behavior with threshold/response-bias modeling), which could underlie why satisfaction matters to investors; with only a DOI-level match and no in-text snippet, this pair should be retained for full relation judgment rather than dropped.",
+  "triage_decision": "keep_for_relation_judgment"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is highly aligned with the citing paper’s core problem: both model individual-level multichannel customer behavior with marketing-contact effects (catalog/e-mail vs. online channels) and use Bayesian MCMC in a dynamic setting. The citing note explicitly positions its contribution as extending prior multichannel/channel-migration style work, making this citation plausibly foundational or a direct prior benchmark rather than a generic mention. With this strong conceptual and methodological overlap, it should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

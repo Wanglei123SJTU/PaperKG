@@ -1,0 +1,4 @@
+{
+  "rationale": "Keep: the citing study explicitly says it models \"competitive advertising effects\" and uses an AdStock + 3SLS market-response system, while the cited paper’s core contribution is competitive advertising interference with AdStock/3SLS in sales-response modeling. Given this strong topical and methodological overlap (and a direct DOI match), the citation could be foundational/methodological rather than an incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

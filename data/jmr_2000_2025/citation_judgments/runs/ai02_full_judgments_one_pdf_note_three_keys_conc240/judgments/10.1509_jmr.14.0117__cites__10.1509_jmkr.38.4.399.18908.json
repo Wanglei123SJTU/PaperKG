@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper does more than list Chandy et al. (2001) as background; it summarizes that paper's core result on how creative appeals differ by market maturity and uses it to motivate why ad content effects should be modeled carefully. It also explicitly positions its contribution as extending prior econometric work on advertising content and dynamics, naming Chandy et al. among that stream, into the digital advertising context. This gives the cited work a meaningful framing and positioning role in the citing paper's research design and claimed contribution.",
+  "relation_description": "The citing paper extends the offline advertising-appeal literature represented by Chandy et al. (2001) to digital display advertising. It carries forward the idea that creative content matters for behavioral response, but tests it in a new domain with different content categories (price vs product), targeting regimes, and a dynamic zero-inflated count model.",
+  "relation_type": "extends"
+}

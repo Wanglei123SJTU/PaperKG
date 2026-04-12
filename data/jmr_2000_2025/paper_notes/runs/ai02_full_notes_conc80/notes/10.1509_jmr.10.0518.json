@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Demonstrates across four experiments that subjective knowledge (SK) affects financial investment decisions independent of, or controlling for, objective knowledge (OK).",
+    "Shows that information interventions intended to educate consumers can backfire when they lower SK, such as through technical elaboration or salient missing information.",
+    "Argues that effective financial education should increase both OK and SK rather than focusing on objective literacy alone."
+  ],
+  "context": "The paper studies consumer financial choices in investment contexts including risky versus safe funds, 401(k) enrollment, life cycle mutual funds, and ETF versus REIT allocation. Evidence comes from student samples in the United States and Israel and a U.S. adult online sample.",
+  "design_and_data": "The authors run four experiments that manipulate SK using different methods: relative information contrast with prior choices (Study 1), easy versus difficult finance question prompts (Study 2), basic versus technical fund descriptions (Study 3), and salience of blotted-out missing information (Study 4). OK is held constant in Studies 1-2, intentionally confounded with technical elaboration in Study 3, and independently manipulated via amount of provided information in Study 4. Samples were 24 UCLA undergraduates (Study 1), 200 UCLA undergraduates (Study 2), 143 management undergraduates at Interdisciplinary Center Herzliya (Study 3), and 795 MTurk adults after attention filtering from 850 recruits (Study 4). Study 4 used incentive-compatible payoffs tied to realized short-run fund performance and included post-task OK quiz items and self-rated SK/confidence measures.",
+  "focal_constructs": [
+    "subjective knowledge",
+    "objective knowledge",
+    "willingness to invest",
+    "financial education interventions",
+    "retirement plan enrollment",
+    "information complexity",
+    "missing information salience"
+  ],
+  "main_findings": [
+    "Holding target objective information constant, participants were more likely to choose a risky fund when subjective knowledge was higher (62% vs 0% in Study 1).",
+    "Asking an easy versus difficult finance question increased self-rated subjective knowledge and increased stated willingness to join a 401(k) plan, with SK mediating the effect (Study 2).",
+    "Technical elaboration or salient missing information reduced subjective knowledge and reduced choice/allocation toward the affected fund; in Study 4, allocation effects were mediated by SK rather than measured OK."
+  ],
+  "one_line_summary": "Across four experiments, the paper finds that consumers invest more in options they feel knowledgeable about, even when objective knowledge is held constant or controlled, so financial education can help or hurt depending on its effect on subjective knowledge.",
+  "relation_to_prior_work": "extends prior consumer knowledge and competence-under-uncertainty research by applying the objective-versus-subjective knowledge distinction to financial investment choices and financial education-style interventions.",
+  "research_gap": "Prior work on financial literacy interventions focused mainly on objective knowledge and showed mixed effects on behavior. The paper identifies limited direct evidence on how subjective knowledge, distinct from objective knowledge, shapes consumer investment and may be unintentionally lowered by education efforts.",
+  "research_question": "Do consumers' subjective feelings of financial knowledge influence willingness to invest beyond their objective knowledge? How do education-like information interventions alter investment behavior when they change subjective knowledge, even if objective information is held constant or increased?"
+}

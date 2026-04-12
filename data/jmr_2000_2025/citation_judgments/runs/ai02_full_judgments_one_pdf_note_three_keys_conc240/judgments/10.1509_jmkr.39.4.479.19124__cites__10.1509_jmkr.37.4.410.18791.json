@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper gives this study a specific role in framing its contribution: it states that Abramson et al. (2000) compared several logit models in controlled simulations but did not compare those models with HB counterparts. That identified limitation is used to justify the present paper's main objective, namely a direct FM versus HB comparison on parameter recovery, fit, and forecasting. This is more than a background list citation because it directly structures the paper's positioning and research gap.",
+  "relation_description": "The citing paper extends Abramson et al. (2000) by taking prior simulation-based logit model comparisons and adding the missing discrete-versus-continuous heterogeneity comparison using HB-estimated mixed logit versus finite mixture models.",
+  "relation_type": "extends"
+}

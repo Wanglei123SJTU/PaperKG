@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Yang and Allenby (2003) for a specific modeling step rather than as general background. In the estimation section, the authors explicitly state they follow Yang and Allenby's approach by introducing a common normally distributed element to estimate correlation between giver and receiver preferences/price sensitivities. This is a direct methodological use within the hierarchical Bayesian setup, so the citation plays a functional role in how the model is implemented.",
+  "relation_description": "The citing paper applies Yang and Allenby (2003)'s method for modeling interdependent preferences to parameterize and estimate homophily (correlated preferences) between gift givers and receivers. It adopts that estimation device as part of the proposed gift-choice model.",
+  "relation_type": "applies"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Generalizes the harbinger phenomenon from individual customers to five-digit zip codes, making the signal usable when firms do not have household-level panel data.",
+    "Shows that harbinger tendencies are portable across contexts: zip codes identified from one mass retailer also differ at another retailer and in nonpurchase domains (campaign giving and housing outcomes).",
+    "Provides evidence from household movers that clustering of harbingers is driven more by residential sorting than by households learning tendencies from neighbors."
+  ],
+  "context": "The paper studies U.S. five-digit zip codes using linked evidence from an unnamed mass merchandise retailer (MassStore), an unnamed private-label apparel retailer (ApparelCo), Federal congressional campaign contribution records, and Zillow zip-code home values. The empirical comparisons are largely within local regions using three-digit zip-code fixed effects.",
+  "design_and_data": "To identify harbinger zip codes, the authors use complete MassStore member transactions from Jan 2013 to Jul 2016, define 4,712 new items (introduced Jul 2013 to Jun 2014), classify failure by product survival (mainly 18 months), and split items into classification (2,324) and validation (2,388) sets. They estimate product-level models where survival is regressed on total early orders and the share/order volume coming from zip-code groups defined by prior average success rates, with 19 transaction-weighted zip-code controls and multiple robustness checks. They then test external validity with ApparelCo catalog/internet transactions (2010-2011), campaign donation data from the Center for Responsive Politics matched to election outcomes (contributions 2000-2014; outcomes 2000-2010), and Zillow zip-level house prices (2002-2015). A mover analysis uses 28,476 ApparelCo households that changed zip codes between 2007 and 2011.",
+  "focal_constructs": [
+    "harbinger customers",
+    "harbinger zip codes",
+    "new product survival/failure",
+    "early adopter composition",
+    "niche and low-volume purchasing",
+    "campaign support for popular vs losing candidates",
+    "zip-code house price changes",
+    "residential sorting vs neighbor learning"
+  ],
+  "main_findings": [
+    "At MassStore, who buys early matters: holding overall demand and controls constant, more early orders from low-success zip codes predict lower new-product survival, and adding harbinger zip-code composition materially improves holdout prediction accuracy (up to 75.21% vs 65.91% naive baseline).",
+    "Zip codes identified as harbingers at MassStore also buy disproportionately more niche/low-volume items at ApparelCo, are less likely to give to locally most popular congressional candidates and more likely to back losing candidates, and have smaller house-price run-ups in rising periods.",
+    "Households leaving harbinger zip codes disproportionately move to other harbinger zip codes, and post-move behavior shows little convergence to destination neighbors, consistent with sticky household tendencies and sorting rather than local social learning."
+  ],
+  "one_line_summary": "The paper shows that zip codes whose residents early-adopt failing new products form a stable cross-context segment that predicts product failure and is associated with less mainstream purchase, political, and housing outcomes.",
+  "relation_to_prior_work": "extends Anderson et al. (2015) by moving from individual-level harbingers in a single retailer to zip-code-level harbingers and by demonstrating portability across retailers and nonretail decisions. It also contrasts lead-user logic by documenting a segment whose early adoption signals failure rather than success.",
+  "research_gap": "Prior work established harbinger customers mainly within one retailer context and relied on household-level data, leaving unclear whether the signal can be identified at an aggregate geographic level and whether it generalizes beyond retail purchasing. The paper addresses this portability and scope gap.",
+  "research_question": "Do there exist \"harbinger zip codes\" such that early adoption of new products by households in those zip codes predicts eventual product failure? If so, do these zip-code tendencies persist across other retailers and nonpurchase domains, and is clustering better explained by household sorting across locations or by learning from neighbors?"
+}

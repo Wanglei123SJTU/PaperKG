@@ -1,0 +1,4 @@
+{
+  "rationale": "There is plausible substantive overlap: the citing paper emphasizes causal-forest heterogeneous treatment effects and targeting patterns, while the cited paper centers on uplift/heterogeneous treatment-effect targeting rather than risk scoring. But the matched evidence is only a DOI-level reference (no citation context, quote, or structured reference text), so we cannot verify whether it is methodologically central or just background mention.",
+  "triage_decision": "uncertain"
+}

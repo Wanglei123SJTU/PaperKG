@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces a structural outlet location-pricing framework that integrates Bayesian spatial statistics with equilibrium pricing behavior.",
+    "It incorporates spatially correlated unobserved demand and cost effects and models outlet capacity constraints via Kuhn-Tucker conditions in the supply side.",
+    "It demonstrates how kriging-based latent demand and cost maps can be used for policy simulations of outlet entry, prices, and profits."
+  ],
+  "context": "The empirical setting is the apartment rental market in Roanoke, Virginia. Competing apartment complexes have fixed locations and finite capacities, and firms set rents in response to demand and competition.",
+  "design_and_data": "The authors build a structural demand-supply system with a random-utility discrete choice demand model and a Bertrand-Nash pricing model under capacity constraints. Demand and cost include spatially correlated random effects, and estimation uses a two-stage Bayesian MCMC approach with instruments for endogenous prices. The application uses annual data from 1999-2005 on Roanoke apartments: 52 complexes (after dropping 8 with missing years), 25 firms, and 364 complex-year observations. Data include rents, capacity, vacancies, amenities, building age, geocoded locations, and distance-based covariates, and the paper also reports simulation experiments comparing nested model specifications.",
+  "focal_constructs": [
+    "latent spatial demand",
+    "outlet location choice",
+    "equilibrium pricing",
+    "spatially correlated random effects",
+    "capacity constraints",
+    "Bertrand-Nash competition",
+    "Bayesian kriging",
+    "marginal costs"
+  ],
+  "main_findings": [
+    "Spatial covariance in demand is material, with an estimated 95% spatial decay range of about 3.6 miles in a market whose maximum span is about 9.6 miles.",
+    "When spatial covariance is ignored, estimated price sensitivity and marginal costs are biased downward, and when capacity constraints are ignored, costs are biased upward and cost-side error variance increases.",
+    "Entry-location simulations show that accounting for spatial effects and capacity constraints changes the recommended site and improves predicted profitability by about 66% versus a model that omits these effects."
+  ],
+  "one_line_summary": "The paper develops and applies a Bayesian structural model of spatial demand, pricing, and capacity constraints to infer latent demand maps and improve outlet entry-location recommendations.",
+  "relation_to_prior_work": "extends prior gravity and empirical spatial competition models by endogenizing prices, allowing unobserved spatially correlated demand and cost shocks, and adding capacity constraints in the pricing subgame. It contrasts with approaches that rely on observed population demand proxies or assume exogenous prices and unconstrained capacity.",
+  "research_gap": "Prior outlet location work often treats prices as exogenous, relies on observed spatial demand proxies, and does not model unobserved spatial covariance in demand and costs. Existing empirical subgame models also typically omit capacity constraints, limiting the accuracy of cost inference and entry-location policy simulations.",
+  "research_question": "Can firms infer latent spatial demand from observed outlet outcomes and use it to evaluate candidate entry locations under competitive pricing equilibrium? How do spatially correlated unobserved demand effects and capacity constraints change estimated demand and cost parameters, and the resulting price and profit predictions?"
+}

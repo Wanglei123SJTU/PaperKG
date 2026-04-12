@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops and tests an aggregate-level Bayesian Dynamic Linear Model, grounded in a Nerlove-Arrow leaky-bucket framework, to quantify spillover from generic to branded paid search via latent awareness.",
+    "Shows that direct exposure measures from paid search data (generic impressions and clicks) can be used to model awareness dynamics and branded search outcomes jointly.",
+    "Demonstrates how standalone paid search metrics can be adjusted for spillover effects using impulse-response analysis, changing the apparent economics of generic keywords."
+  ],
+  "context": "The empirical setting is a paid search campaign for a major lodging chain, using daily keyword-level aggregates from Google and Yahoo! in 2004. Keywords are grouped into generic terms (no brand name) and branded terms (include the brand name).",
+  "design_and_data": "The authors estimate a multivariate Bayesian Dynamic Linear Model with a latent awareness state that evolves with generic search activity and decays over time. Branded impressions, branded clicks, and branded reservations are modeled jointly as functions of lagged branded activity, day-of-week/month controls, and awareness. Data are daily aggregates including impressions, clicks, reservations, cost, and position for several hundred keywords; Google spans March 1-December 20, 2004 and Yahoo! spans May 6-August 31, 2004. They compare the DLM to ARDL alternatives using Bayes factors and out-of-sample MAPE, and test reverse spillover with a generic-side ARDL.",
+  "focal_constructs": [
+    "paid search advertising",
+    "generic keywords",
+    "branded keywords",
+    "spillover effects",
+    "awareness of relevance",
+    "carryover and decay",
+    "branded impressions clicks reservations",
+    "Bayesian Dynamic Linear Model"
+  ],
+  "main_findings": [
+    "Generic clicks significantly increase latent awareness, while generic impressions do not show a significant effect on awareness.",
+    "Awareness has a significant positive effect on branded impressions, branded clicks, and branded reservations, implying positive spillover from generic to branded search.",
+    "Spillover is asymmetric: branded search does not significantly affect generic search, and the awareness-based DLM outperforms ARDL benchmarks in-sample and out-of-sample."
+  ],
+  "one_line_summary": "Using daily paid search data from a lodging chain, the paper shows with a Bayesian dynamic model that generic clicks create awareness that spills over to future branded search activity, while reverse spillover is not supported.",
+  "relation_to_prior_work": "extends Nerlove-Arrow style leaky-bucket advertising models to paid search by treating awareness as a latent state driven by generic search exposures and linked to branded search outcomes. It also adds empirical paid-search evidence in marketing where the paper states published empirical work was largely absent.",
+  "research_gap": "The paper argues that managers lack validated, model-based methods to evaluate paid search campaigns when generic and branded keywords interact over time. Existing standalone metrics and sparse conversion data at the keyword-day level do not capture potential dynamic spillover from generic to branded search.",
+  "research_question": "Does generic paid search activity create spillover to later branded paid search activity, and can that spillover be captured through a latent awareness process? The paper also asks whether spillover is bidirectional or asymmetric between generic and branded search, and whether an awareness-based dynamic model outperforms direct lag-based alternatives."
+}

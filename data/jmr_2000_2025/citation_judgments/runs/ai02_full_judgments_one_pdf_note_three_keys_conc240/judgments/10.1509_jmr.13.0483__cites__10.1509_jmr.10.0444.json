@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in core framing sections, not just a passing literature list. The citing paper explicitly relies on it as evidence that customers can fail to switch plans even without contractual lock-in, which underpins the paper's inertia-based mechanism for why proactive recommendations may backfire. It is also used to position the study against prior nonlinear pricing and tariff research that focused on pricing-contract effects rather than proactive recommendation interventions. This gives the citation a meaningful conceptual foundation role, even though the 2016 paper does not directly reuse the 2012 model.",
+  "relation_description": "The citing paper treats the cited paper as prior empirical foundation on tariff-plan behavior and customer inertia in telecom services. It then builds its own contribution by testing how proactive plan recommendations affect churn beyond those earlier pricing-structure effects.",
+  "relation_type": "foundational_for"
+}

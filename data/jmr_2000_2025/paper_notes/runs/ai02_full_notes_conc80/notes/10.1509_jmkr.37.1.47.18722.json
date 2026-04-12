@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a new coupled-hazard methodology for global diffusion of technological innovations.",
+    "Shows how to model diffusion as two linked stages, implementation and confirmation, while allowing both gradual and instantaneous full adoption within countries.",
+    "Provides a global empirical illustration on digital telecommunications switches and quantifies how economic, social/demographic, installed-base, and international-experience factors affect diffusion transitions."
+  ],
+  "context": "The empirical setting is the global replacement of analogue telecommunications switches by digital switches. The study covers 162 countries and territories across Africa, Asia, the Americas, Europe, and Oceania.",
+  "design_and_data": "The authors specify a coupled hazard-rate model with three transition rates: [0,0] to [1,0] (partial trial), [0,0] to [1,1] (immediate full substitution), and [1,0] to [1,1] (full substitution after trial). They use International Telecommunications Union data on first digital system installation and full substitution outcomes from 1979 through the early 1990s (with country-specific censoring, typically up to 1993). Covariates include GNP per capita, ethnic heterogeneity, and the installed base of analogue lines, plus time-varying international experience measures; parameters are estimated via full-information maximum likelihood with exponential and Weibull baselines and robustness checks (including a 90 percent substitution threshold).",
+  "focal_constructs": [
+    "implementation stage",
+    "confirmation stage",
+    "coupled hazard transition rates",
+    "network externalities",
+    "installed base of old technology",
+    "country wealth",
+    "social system heterogeneity",
+    "cumulative international experience"
+  ],
+  "main_findings": [
+    "Cumulative international experience positively affects all three transition rates, and countries that implement later move faster to full substitution.",
+    "Country wealth increases the likelihood of both implementation and confirmation transitions.",
+    "Ethnic heterogeneity and the analogue installed base significantly slow transitions to full substitution (r2 and r3) but do not significantly affect the partial-trial transition (r1)."
+  ],
+  "one_line_summary": "The paper develops a coupled-hazard model of global technology diffusion and applies it to digital switch adoption in 162 countries to jointly explain trial timing, full substitution timing, and immediate full-adoption cases.",
+  "relation_to_prior_work": "extends prior cross-national diffusion research that mainly compared within-country Bass-type patterns for consumer durables in a small set of industrialized countries by modeling global country-level timing for a technological innovation with linked implementation and confirmation stages.",
+  "research_gap": "Prior international diffusion studies mostly examine within-country diffusion of consumer durables across a limited number of industrialized countries. The paper argues that they do not capture the two-stage, interdependent, and sometimes discontinuous nature of global technological diffusion or the role of the old technology's installed base.",
+  "research_question": "How can global diffusion of a technological innovation be modeled when countries differ in both the timing of first implementation and the timing of full confirmation? Which country-level and international-experience factors explain the three transition rates governing partial adoption, immediate full substitution, and full substitution after trial?"
+}

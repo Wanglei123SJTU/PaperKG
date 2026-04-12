@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The note clarifies key assumptions and interpretations of the original BHH model in response to comments by Alba and Cooke, Rao, and Rubin.",
+    "It adds a supplemental empirical check and proposes implementable model extensions, including partworth-based imputation rules and alternative similarity metrics for multi-level attributes.",
+    "It outlines a roadmap for practical testing and highlights mathematical formalism and interdisciplinary collaboration as critical for integrating behavioral regularities into quantitative marketing models."
+  ],
+  "context": "The paper is set in partial-profile conjoint analysis, where consumers evaluate profiles with some missing attribute levels. It also discusses a managerial example, Ford Motor Company's Vehicle Advisor, where consumers make repeated side-by-side vehicle comparisons using only subsets of features.",
+  "design_and_data": "This paper is a response note that reanalyzes and extends evidence from Bradlow, Hu, and Ho (2004) rather than reporting a new standalone experiment. The authors refer to prior in-sample and out-of-sample results from BHH (including Table 5) and add a new correlation analysis (Table 1) testing whether other decay parameters (lambda_i1-lambda_i5) correlate with a manipulated price-resolution covariance prior condition under one-missing and two-missing cases. They also provide formal extension equations for alternative imputation processes, discuss handling more than two attribute levels, compare pattern-matching metrics (binary Hamming versus normalized Euclidean distance), and discuss posterior predictive checking. The Ford example is presented as an illustration of possible application, not a formal field test.",
+  "focal_constructs": [
+    "partial-profile conjoint analysis",
+    "consumer learning and imputation",
+    "missing attribute levels",
+    "prior experience counts",
+    "imputation decay parameters",
+    "pattern-matching similarity metrics",
+    "posterior predictive checks"
+  ],
+  "main_findings": [
+    "Using prior BHH estimation results, the authors report no support for the conjecture that respondents ignore missing attributes, and argue respondents use available information to infer missing levels.",
+    "The added correlation analysis shows no meaningful correlation between the manipulated price-resolution covariance condition and other decay parameters (lambda_i1-lambda_i5), which the authors interpret as supportive of the model.",
+    "The authors conclude that imputation in their framework can draw on both prior information and previously shown profiles, so a complete earlier profile is not strictly required for imputation to begin."
+  ],
+  "one_line_summary": "This response note defends and extends the BHH learning-based imputation model for partial-profile conjoint analysis through clarifications, a supplemental reanalysis, and proposed modeling extensions.",
+  "relation_to_prior_work": "extends Bradlow, Hu, and Ho (2004) by clarifying disputed assumptions, adding supplementary evidence, and broadening the imputation framework to additional behavioral specifications and metrics. It explicitly engages behavioral critiques and links the modeling discussion to missing-data methodology in statistics.",
+  "research_gap": "The authors argue that many observed behavioral regularities in conjoint tasks lack explicit mathematical specification, which limits their integration into formal quantitative models. They position their work as addressing this gap by formalizing and extending behaviorally grounded imputation within a model that nests commonly used alternatives and can be assessed predictively.",
+  "research_question": "How should the BHH model of consumer imputation in partial-profile conjoint analysis be clarified and extended in light of discussant critiques? The note also asks whether available evidence supports key behavioral conjectures (such as ignoring missing attributes) and what formal model changes can improve realism and applicability."
+}

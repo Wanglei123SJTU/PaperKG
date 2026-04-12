@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces a continuous-time structural demand model that jointly captures when consumers start, continue, stop, and abandon product use.",
+    "It models product usage utility with intrinsic value, extrinsic rewards, and two latent behavioral states - habit and satiation - in a high-frequency decision environment.",
+    "It evaluates three managerial interventions (reward schedule redesign, notifications, and time limits) through counterfactual simulations focused on both revenue and excessive-use outcomes."
+  ],
+  "context": "The empirical setting is the subscription-based online game World of Warcraft, where users progress through 60 experience levels and receive rewards as they advance. The paper studies concerns about excessive screen use in connected digital products using this gaming context.",
+  "design_and_data": "The authors build a continuous-time dynamic discrete-choice model in which consumers move among idle, active, and churn states, with decisions triggered by stochastic cues and flow interruptions. The model includes observed experience accumulation and rewards, plus latent habit and satiation processes, and is estimated with an EM-based structural approach. Data come from high-frequency server observations (every 5-10 minutes) of World of Warcraft users; the estimation sample is 402 users who started between March and October 2006, with 14,998 observed gaming sessions and tracking up to six months (and later data used to classify churn). They run counterfactuals that (1) slow reward timing by doubling time needed per level, (2) add notifications to active habitual users, and (3) impose probabilistic time limits with temporary bans.",
+  "focal_constructs": [
+    "excessive product use",
+    "continuous-time dynamic choice modeling",
+    "reward schedule timing",
+    "in-game notifications",
+    "usage time limits",
+    "habit formation",
+    "satiation",
+    "subscription churn"
+  ],
+  "main_findings": [
+    "A slower reward schedule (less frequent level progression and rewards) reduced active and habitual usage while increasing average subscription duration, producing a win-win pattern in their simulations.",
+    "Notifications were not effective for managing use: although they can interrupt sessions, they also induced faster returns, reinforced habit, and increased habitual time for major segments.",
+    "Time limits implemented as temporary bans reduced time spent in the habituated state and increased subscription duration for heavier-use segments."
+  ],
+  "one_line_summary": "Using high-frequency World of Warcraft data, the paper estimates a continuous-time structural usage model and finds that slower rewards and time limits can reduce habitual overuse while extending subscriptions, whereas notifications are not a useful control tool.",
+  "relation_to_prior_work": "extends prior product-usage and excessive-use research by moving from mainly survey/experimental and discrete-time approaches to a revealed-preference continuous-time structural model that jointly handles start, continue, stop, and churn decisions with latent habit and satiation.",
+  "research_gap": "The paper argues that prior work offers limited revealed-preference evidence on how firms can actively manage excessive online product use through concrete design levers. Existing approaches also do not flexibly model high-frequency sequential usage decisions and latent behavioral states in continuous time.",
+  "research_question": "How should firms manage potentially excessive use of connected products while maintaining long-run demand? Specifically, the paper asks how changing reward timing, sending notifications, and imposing time limits affect session dynamics, habit formation, and subscription length before churn."
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Ding, Grewal, and Liechty (2005) in a core methodological positioning argument, not just as a background list citation. In the section on STOC's incentive compatibility, it explicitly contrasts STOC with incentive-aligned conjoint, arguing that STOC incentivizes forecasting others' preferences while conjoint elicits respondents' own preferences. This comparison is used to motivate STOC's claimed advantage on social-bias concerns in individual elicitation, so the cited work plays a meaningful framing role.",
+  "relation_description": "The citing paper positions STOC against incentive-aligned conjoint analysis as a neighboring but distinct approach to incentive-compatible preference measurement. It uses the cited paper to define that benchmark and then argues STOC differs in what it incentivizes respondents to reveal.",
+  "relation_type": "other"
+}

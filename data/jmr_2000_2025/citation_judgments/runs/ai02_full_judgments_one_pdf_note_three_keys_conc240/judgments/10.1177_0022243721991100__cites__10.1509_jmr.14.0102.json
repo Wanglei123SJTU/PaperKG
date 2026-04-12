@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the Model Extensions discussion, the authors explicitly summarize Swait, Argo, and Li (2018) as a model of multiple goals with heterogeneous goal weights and reweighting by goal attainment. They then use that paper to motivate how similar multiple-goal weighting could be adapted to their online learning context. This is more than a passing literature-list mention, but it is not directly implemented or tested in the core empirical model.",
+  "relation_description": "The citing paper uses the cited paper as a conceptual-methodological reference for extending its framework to simultaneous multiple-goal settings. It positions Swait et al. (2018) as related work whose goal-weighting structure could be adapted to online course consumption.",
+  "relation_type": "other"
+}

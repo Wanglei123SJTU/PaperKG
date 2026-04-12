@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides an initial investigation of how gender-neutral marketing, defined as explicitly rejecting binary gender categorization and stereotypes, influences consumer decision-making from a nonbinary perspective.",
+    "Identifies gender-neutral marketing as a novel antecedent of consumers' reliance on product aesthetics in attribute-based evaluation.",
+    "Maps when the effect weakens by testing brand-level, consumer-level, and usage-context boundary conditions, offering actionable implications for implementation."
+  ],
+  "context": "The paper studies the growing use of gender-neutral marketing in consumer markets, especially visible in categories such as fashion and cosmetics but also applied more broadly across online and offline channels. Empirical settings include evaluations of products such as computer mice, portable chargers, down jackets, e-books, watches, shoes, and water bottles.",
+  "design_and_data": "The authors report eight preregistered studies using lab, online, and field experiments, including an online eye-tracking study and an incentive-compatible field choice task. Samples come from undergraduate participant pools, Credamo, and MTurk, with study-level Ns ranging from 95 to 873 (total reported N across the eight studies = 3,220). Outcomes capture reliance on aesthetics via information search time, gaze allocation to appearance-related AOIs, attribute trade-off choices, and preference ratings. Study 5 tests mediation through endorsement of binary gender stereotypes, and Studies 6 to 8 test moderators: brand binary gender personality, individual visual processing style, and expected social usage context.",
+  "focal_constructs": [
+    "gender-neutral marketing",
+    "consumer reliance on product aesthetics",
+    "binary gender stereotype endorsement",
+    "consumer attribute preference",
+    "brand binary gender personality",
+    "visual processing style",
+    "product usage social context"
+  ],
+  "main_findings": [
+    "Across multiple measures and product categories, exposure to gender-neutral marketing reduced consumers' reliance on product aesthetics in evaluation and choice.",
+    "Gender-neutral marketing reduced endorsement of binary gender stereotypes, and this reduction mediated the decrease in reliance on aesthetics.",
+    "The effect was attenuated when the brand had a prominent masculine or feminine personality, among consumers higher in visual processing style, and when the product was expected to be used in a social context."
+  ],
+  "one_line_summary": "Across eight preregistered studies, gender-neutral marketing lowered consumers' reliance on product aesthetics by reducing endorsement of binary gender stereotypes, with weaker effects under specific brand, consumer, and usage-context conditions.",
+  "relation_to_prior_work": "extends prior gender and consumer research that largely assumes binary gender by examining how explicitly nonbinary marketing cues alter decision processes, and it extends visual-inference and DEI marketing literatures by identifying a new antecedent, mechanism, and boundary conditions for attribute weighting.",
+  "research_gap": "The paper argues that although gender-neutral marketing is increasingly common, research has not clearly established how it changes consumer information processing and product attribute weighting. It also addresses the unresolved possibility that gender-neutral marketing may have unintended consequences rather than uniformly favorable effects.",
+  "research_question": "How does exposure to gender-neutral marketing affect consumers' reliance on product aesthetics when evaluating products? Does this effect occur because gender-neutral marketing reduces endorsement of binary gender stereotypes, and when is the effect weaker?"
+}

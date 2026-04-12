@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides a large simulation-based comparison of segment-retention criteria for finite mixture logit models in multinomial choice data designed to resemble supermarket scanner panels, a context the authors state had not been studied.",
+    "Evaluates seven criteria in one framework, including LOGLV, which the authors note had not previously been examined as a segment-retention criterion.",
+    "Shows that using AIC with a penalty factor of 3 (AIC3) is generally superior to traditional AIC(2) for segment retention and demonstrates that marketing-relevant data features materially affect criterion performance."
+  ],
+  "context": "The paper focuses on consumer brand-choice modeling with finite mixture logit models in supermarket scanner-panel-like settings. The practical motivation is that segmentation, targeting, positioning, and marketing-mix decisions depend on selecting the correct number of latent segments.",
+  "design_and_data": "The authors conduct a factorial Monte Carlo simulation comparing AIC, AIC3, BIC, CAIC, ICOMP, LOGLV, and NEC by their ability to recover the true number of segments. They manipulate seven factors: true segments (2 or 3), mean segment separation (1.0, 1.5, 2.0), households (100 or 300), mean purchases per household (5 or 10), choice alternatives (3 or 6), error variance (standard or 50% higher), and minimum segment size (5%-10%, 10%-20%, 20%-30%), producing 864 data sets (with 3 replications per design cell). Simulated choices are generated from segment-specific multinomial logit utilities with scanner-plausible parameter ranges for brand constants and attribute effects, plus double-exponential errors; extra consumers are generated for validation-sample calculations of LOGLV. A further robustness check uses 100 additional simulated data sets with six true segments under fixed settings.",
+  "focal_constructs": [
+    "finite mixture logit models",
+    "segment retention criteria",
+    "number of latent segments",
+    "multinomial choice data",
+    "supermarket scanner panels",
+    "underfitting and overfitting",
+    "AIC3"
+  ],
+  "main_findings": [
+    "AIC3 is the best overall criterion because it attains top success rates while keeping overfitting very low, whereas AIC has similar success but much higher overfitting.",
+    "BIC and CAIC substantially underfit in the main simulation settings (with CAIC worst overall), and ICOMP performs below AIC3/AIC/LOGLV in this multinomial-choice context.",
+    "Success rates are generally higher with two (vs. three) true segments, greater segment separation, larger sample sizes, more choices per household, lower error variance, and larger minimum segment sizes; unexpectedly, success is higher with six alternatives than with three."
+  ],
+  "one_line_summary": "Using extensive simulations of scanner-style multinomial choice data, the paper finds that AIC with a penalty factor of 3 is the most reliable criterion for retaining the number of segments in finite mixture logit models.",
+  "relation_to_prior_work": "extends prior model-selection and mixture-segmentation simulation work from other distributional settings to multinomial finite mixture logit models used in marketing scanner-panel analysis, and tests marketing-specific data conditions that earlier studies had not jointly examined.",
+  "research_gap": "The literature had no clear evidence on how well common segment-retention criteria perform for finite mixture logit models with multinomial scanner-panel choice data. Prior studies also had not analyzed key marketing-relevant factors such as number of alternatives, choices per household, error variance, and minimum segment size in this context.",
+  "research_question": "How well do commonly used criteria identify the true number of latent segments in finite mixture logit models for multinomial choice data? Which criterion performs best across realistic scanner-panel data conditions, and how do marketing-relevant data characteristics affect criterion success?"
+}

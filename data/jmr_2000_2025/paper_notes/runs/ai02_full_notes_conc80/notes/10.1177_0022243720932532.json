@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and tests a framework that predicts when left-digit pricing is more effective, centered on stimulus-based versus memory-based evaluation modes.",
+    "It identifies a cognitive mechanism in which stimulus-based evaluations rely more on perceptual digit-by-digit representations, while memory-based evaluations rely more on conceptual magnitude representations and rounding.",
+    "It links this mechanism to retail-relevant conditions by showing how reference-price displays and category-user type change susceptibility to left-digit pricing."
+  ],
+  "context": "The studies examine consumer price judgments in retail-like settings, including store-brand price comparisons and discount evaluations. External validation uses household scanner data from 11 stores of a major Northeastern U.S. supermarket chain in ketchup, peanut butter, and liquid dish detergent categories.",
+  "design_and_data": "The paper reports six studies: five experiments and one scanner panel analysis. Experimental studies (mainly MTurk samples) manipulate left-digit differences and evaluation mode (side-by-side stimulus-based vs memory-based retrieval), using price-magnitude ratings, discount-size ratings, and a response-time number-magnitude task. Study 4 includes a precise-memory condition that requires exact number recall after magnitude judgments. Study 6 estimates SKU-level logit choice models on 15,236 observed category choices (4,326 ketchup, 6,048 peanut butter, 4,862 dish detergent) from household scanner data, with category usage as a moderator.",
+  "focal_constructs": [
+    "left-digit bias",
+    "stimulus-based price evaluations",
+    "memory-based price evaluations",
+    "perceptual price representations",
+    "conceptual price representations",
+    "reference prices",
+    "price rounding",
+    "category usage (light vs heavy users)"
+  ],
+  "main_findings": [
+    "Across experiments, the left-digit bias is stronger in stimulus-based evaluations than in memory-based evaluations.",
+    "In response-time data, left digits slow magnitude judgments more in stimulus-based tasks; this attenuation in memory-based tasks disappears when participants must retain exact digits.",
+    "The left-digit bias is stronger when a stimulus-based reference price is shown on the price tag and stronger among light versus heavy category users in scanner-panel purchase data."
+  ],
+  "one_line_summary": "Across five experiments and one scanner panel study, the paper shows that left-digit effects are stronger in stimulus-based than memory-based price evaluations because memory retrieval shifts processing toward rounded conceptual magnitudes.",
+  "relation_to_prior_work": "extends prior left-digit pricing and numerical-cognition research by identifying evaluation mode as a boundary condition for the bias and linking it to perceptual versus conceptual price representations. It also refines mixed evidence on stimulus-based versus memory-based judgment accuracy by arguing that stimulus-based evaluations amplify biases driven by perceptual stimulus features.",
+  "research_gap": "Prior work documents left-digit effects but does not clearly specify when the bias is stronger or weaker, and effect sizes vary across contexts. The paper addresses this by testing whether evaluation mode explains these differences and by probing the underlying cognitive process.",
+  "research_question": "When and why are consumers more likely to exhibit the left-digit bias in price judgments? Specifically, does the bias become stronger under stimulus-based evaluations than memory-based evaluations because of greater reliance on perceptual digit-level representations rather than conceptual rounded magnitudes?"
+}

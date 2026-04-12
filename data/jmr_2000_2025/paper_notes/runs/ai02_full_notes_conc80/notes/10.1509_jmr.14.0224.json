@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "Introduces assertiveness of communication tone as a moderator that explains when praise versus scolding is more effective in motivating desired behavior.",
+    "Demonstrates, via two field experiments and one controlled online experiment, that simple message wording interventions can shift actual behaviors (soap use and link clicking) and behavioral intentions.",
+    "Provides actionable guidance for marketers and policy makers: use assertive tone with praise and nonassertive tone with scolding when encouraging socially desirable actions."
+  ],
+  "context": "The paper studies communications that encourage desired consumer behaviors in prosocial and self-regulatory domains. Empirical settings include hand hygiene in university restrooms, retirement-planning education emails to university employees, and an online Great Lakes environmental petition context.",
+  "design_and_data": "Study 1 is a field experiment in 10 high-traffic university restrooms using a 5 (message condition including control) x 2 (gender restroom) setup; soap usage from 29 dispensers was tracked daily over three weeks (baseline, intervention, post-intervention). Study 2 is a randomized field email experiment with 400 university employees (100 per condition) in a 2 (praise/scold) x 2 (assertive/nonassertive) design, with one-week click-through to a financial-planning video as the behavioral outcome. Study 3 is an online 2 x 2 between-subjects experiment with 422 panel participants about water clarity in the Great Lakes, measuring both petition-link clicking and a six-item environmental intention scale.",
+  "focal_constructs": [
+    "praise",
+    "scolding",
+    "assertive tone",
+    "nonassertive tone",
+    "desired behavior compliance",
+    "behavioral intentions"
+  ],
+  "main_findings": [
+    "In the restroom field study, message effectiveness depended on tone: during the intervention week, assertive praise and nonassertive scolding produced higher soap usage than assertive scolding, nonassertive praise, and control.",
+    "In the financial-planning field email study, click-through was highest for assertive praise (21%) and next for nonassertive scolding (12%), while nonassertive praise was lower (7%) and assertive scolding produced 0% clicks; the message-type x tone interaction was significant.",
+    "In the online experiment, the same interaction replicated for both intentions and link-click behavior: assertive tone improved praise effectiveness, whereas nonassertive tone improved scolding effectiveness."
+  ],
+  "one_line_summary": "Across two field experiments and one online experiment, the paper shows that assertive praise and nonassertive scolding outperform tone-mismatched versions in encouraging desired behaviors.",
+  "relation_to_prior_work": "introduces an understudied moderation account for the mixed prior evidence on praise and scolding by focusing on communication assertiveness. It also builds on prior field-based prosocial behavior research by combining low-cost field interventions with a controlled online replication.",
+  "research_gap": "Prior literature reports mixed and inconclusive effects of praising and scolding on behavior, with no clear evidence that either approach is generally superior. The authors identify that prior work underexamines how tone of delivery, specifically assertiveness, may explain these inconsistent results.",
+  "research_question": "When trying to motivate desired consumer behaviors, how does the effectiveness of praise versus scolding depend on the assertiveness of message tone? The paper tests whether praise works better when delivered assertively, and whether scolding works better when delivered nonassertively."
+}

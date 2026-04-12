@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a reference price theory in which the endowment effect often reflects transaction disutility and aversion to bad deals, not only pain from losing possessions.",
+    "It provides what the authors describe as the first direct empirical test of a reference-price account against prevailing endowment-effect explanations by manipulating reference prices and valuations.",
+    "It extends the transaction-disutility account from money-for-good exchanges to good-for-good trades, linking reference prices to trade reluctance."
+  ],
+  "context": "The paper studies consumer valuation and exchange decisions in controlled experimental settings, mainly with U.S. university participants, using goods such as movie candy, mechanical pencils, chocolate bars, lottery tickets, and office items. The core context is buyer-seller reservation pricing and trading decisions under salient reference prices.",
+  "design_and_data": "The article reports six experiments plus eight additional studies in appendixes. Study 1 (movie candy, N=125) and Study 2 (mechanical pencils, N=155) used 2x2 between-subject designs crossing endowment status with high versus moderate reference prices, with incentive-compatible reservation-price elicitation. Studies 3a (small-stakes real lottery, N=159) and 3b (large-stakes hypothetical lottery, N=368) used 2x3 buyer/seller by low-moderate-high reference-price designs; Study 4 (chocolate bars, N=40) used a within-subject design varying product utility; Study 5 (highlighters vs cord straps, N=133) tested trade choices between goods under high versus moderate sticker prices.",
+  "focal_constructs": [
+    "endowment effect",
+    "reference prices",
+    "transaction disutility",
+    "buying and selling reservation prices",
+    "loss aversion",
+    "consumption utility (valuation)",
+    "bad-deal aversion",
+    "trade rates"
+  ],
+  "main_findings": [
+    "Lowering reference prices from high to moderate reduced or eliminated the endowment effect in product-pricing studies, mainly by lowering sellers' asks while buyers' bids changed little.",
+    "In lottery studies with low, moderate, and high reference prices, the buy-sell gap followed a U-shaped pattern: large at low and high reference prices and smallest near moderate reference prices, with low reference prices depressing buying bids and high reference prices inflating selling bids.",
+    "When valuation was increased (preferred chocolate flavor) the S/B ratio decreased, and in good-for-good exchanges moderate reference prices increased trade rates to near 50% compared with lower trade rates under high reference prices."
+  ],
+  "one_line_summary": "Across six experiments, the authors show that endowment-effect price gaps track the mismatch between valuations and salient reference prices, consistent with bad-deal aversion rather than ownership alone.",
+  "relation_to_prior_work": "challenges the dominant pain-of-losing account by showing that buyer-seller gaps vary systematically with reference-price manipulations and valuation shifts. It builds on transaction-utility and reference-price research and argues that this mechanism has been underemphasized in endowment-effect explanations.",
+  "research_gap": "Prior endowment-effect studies often used settings where market reference prices likely exceeded typical valuations, which confounds ownership status with transaction disutility and makes competing explanations hard to separate. The paper argues that the role of reference prices in generating the effect has been largely overlooked or underdeveloped.",
+  "research_question": "Is the endowment effect primarily caused by ownership-based pain of losing, or by reluctance to trade on terms that look unfavorable relative to salient reference prices? If reference prices or valuations are shifted to reduce the distance between them, does the buy-sell disparity shrink in the predicted buyer- versus seller-specific ways?"
+}

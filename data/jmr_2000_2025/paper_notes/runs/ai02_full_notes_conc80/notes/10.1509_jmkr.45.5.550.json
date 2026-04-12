@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper's innovation is a joint model of industrial reverse-auction behavior with preauction and postauction buyer-supplier relationship characteristics, rather than treating auctions as stand-alone events.",
+    "It introduces bidder-level measures of aggressive behavior in this context (supplier bid count, bid rate, and price concessions) and links them to interorganizational relationship states.",
+    "Using rare longitudinal field data, it argues that auction design and relationship variables systematically shape both bidding behavior and postauction relationship outcomes."
+  ],
+  "context": "The study is set in industrial online reverse procurement auctions run by two Fortune 50 firms in the automotive and high-tech industries. The 12 full-price-visibility, buyer-determined auctions covered multiple direct-material categories and involved incumbent and nonincumbent suppliers.",
+  "design_and_data": "The authors combine point-by-point bid histories with confidential supplier surveys collected before and after each auction event. Suppliers were invited from 12 auctions; 58 responded (45% response rate), and analyses used bidder-lot panel observations for bidding models (132 observations from 44 bidders) and bidder-level cross-sectional observations for postauction relationship models (n = 58). They model bidding aggressiveness as total bids, bidding rate, and price concessions. Estimation uses random-effects panel regressions for bidding outcomes and seemingly unrelated regressions for postauction relationship outcomes.",
+  "focal_constructs": [
+    "online reverse auctions",
+    "bidding aggressiveness",
+    "relationship propensity",
+    "willingness to make specific investments",
+    "buyer-supplier relationships",
+    "incumbency",
+    "auction competition",
+    "event duration"
+  ],
+  "main_findings": [
+    "Suppliers with higher preauction willingness to make specific investments bid less aggressively across all three aggressiveness measures (fewer bids, slower bid rate, and smaller price concessions).",
+    "More aggressive bidding is associated with lower postauction relationship propensity, and incumbents show a stronger negative postauction relationship response.",
+    "Auction conditions matter: incumbency and a higher number of bidders reduce aggressiveness, while more bids from competing suppliers increase aggressiveness; longer auctions reduce bidding speed and tend to improve postauction relationship propensity."
+  ],
+  "one_line_summary": "Using field data from 12 industrial reverse auctions, the paper finds that preauction relationship states shape supplier bidding aggressiveness and that aggressive bidding subsequently harms postauction buyer-supplier relationship propensity.",
+  "relation_to_prior_work": "extends prior reverse-auction research that emphasized aggregate postauction outcomes and auction-format effects by explicitly linking bidder-level bidding behavior to ex ante and ex post interorganizational relationship states.",
+  "research_gap": "Prior work had largely examined reverse auctions via postauction outcomes (such as prices and savings), format effects, or general psychological bidding explanations, with little direct evidence on how individual bidder behavior is influenced by relationship factors outside the auction and how that behavior feeds back into relationships afterward. The paper addresses this missing preauction-auction-postauction linkage.",
+  "research_question": "How do suppliers' preauction relationship states with the buyer, especially relationship propensity and willingness to make specific investments, affect bidding aggressiveness in industrial online reverse auctions? How do suppliers' bidding behaviors and auction characteristics then influence postauction relationship outcomes with the buyer?"
+}

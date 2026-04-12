@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper offers an integrated account of price-anchor effects that combines selective accessibility and output-stage anchoring processes.",
+    "It identifies deliberate consideration of anchor prices as a key contingency that determines whether anchor effects remain category specific or generalize across categories.",
+    "It documents asymmetric cross-category anchor effects and specifies when incidental, nonconscious anchors can influence willingness to pay."
+  ],
+  "context": "The studies examine consumer willingness-to-pay judgments in controlled lab settings using product categories such as cameras, electronics, clothing, and sports shoes. Participants are student samples from North America and Hong Kong exposed to high versus low price anchors.",
+  "design_and_data": "The evidence comes from four experiments with student participants (Experiment 1: 67 North American business students; Experiment 2: 74 Hong Kong business majors; Experiment 3: 55 Hong Kong business students; Experiment 4: 79 Hong Kong business students). Experiments 1 and 2 used explicit high-versus-low anchor comparisons and then measured stated willingness to pay for same, related, or unrelated products. Experiment 3 used subliminal high/low numeric price primes during a letter-identification task before willingness-to-pay judgments for a DVD player and sports shoes. Experiment 4 combined subliminal high/low price priming with an instructional-set manipulation (think about price vs think about general experiences) before willingness-to-pay judgments for sports shoes.",
+  "focal_constructs": [
+    "price anchors",
+    "willingness to pay",
+    "anchoring and adjustment",
+    "selective accessibility",
+    "conscious versus nonconscious comparison",
+    "cross-category effects",
+    "subliminal price priming",
+    "intervening cognitive activity"
+  ],
+  "main_findings": [
+    "When participants consciously compared products with high versus low anchors, willingness-to-pay estimates moved in anchor-consistent directions, and this effect was reduced when participants first generated broad product thoughts (Experiment 1).",
+    "Under conscious comparison, cross-category transfer was asymmetric: clothing anchors affected willingness to pay for clothing and electronics, whereas electronics anchors mainly affected only the same electronic product type (Experiment 2).",
+    "When anchors were subliminally primed without conscious comparison, effects generalized across product categories, but these effects were weakened when intervening thought focused on price rather than general product experiences (Experiments 3 and 4)."
+  ],
+  "one_line_summary": "Across four experiments, the authors show that price anchors affect willingness to pay through conscious feature-based comparisons that can produce asymmetric cross-category effects and through nonconscious anchoring that generalizes unless price-focused cognition intervenes.",
+  "relation_to_prior_work": "extends prior anchoring research by showing that willingness-to-pay judgments can reflect both selective-accessibility processes and output-stage anchoring processes under different conditions. It extends Strack and Mussweiler's selective-accessibility account to pricing judgments and helps reconcile mixed cross-category findings from Nunes and Boatwright (2004) and Krishna et al. (2006).",
+  "research_gap": "Prior findings on whether prices of objectively unrelated products influence willingness to pay were mixed, and the conditions under which such cross-category effects should occur were not fully articulated. The paper addresses this unresolved issue by specifying contingencies tied to conscious deliberation and intervening cognitive activity.",
+  "research_question": "Does exposure to extreme price anchors change the price consumers are willing to pay for products in the same category and in different categories? Under what conditions do these effects depend on conscious, deliberate comparison versus nonconscious exposure, and how does intervening cognitive activity alter the outcome?"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces lay rationalism as an individual difference construct and distinguishes it from related constructs.",
+    "Develops a short, easy-to-implement six-item Lay Rationalism Scale and provides reliability and validity evidence.",
+    "Shows that lay rationalism predicts consumer-relevant behaviors, including product preferences, savings decisions, and donation behavior."
+  ],
+  "context": "The studies are set in consumer decision contexts, including shopping choices, retirement saving, and charitable giving, with U.S. respondents recruited from online data collection services. Tasks emphasize trade-offs between objectively superior or utilitarian options and affectively appealing or hedonic options.",
+  "design_and_data": "Across 14 U.S. online samples, the authors generated and refined items and then used exploratory and confirmatory factor analyses to derive a six-item Lay Rationalism (LR) Scale. Reliability tests showed Cronbach's alpha values around .80 or higher across samples and a one-week test-retest correlation of .79. Validity evidence included face-validity checks, a construct-validity experiment contrasting pro-reason versus pro-feelings versions of six purchase scenarios, and discriminant analyses against 14 established individual-difference scales. Three additional studies tested predictive validity with real or probabilistically real outcomes: preferred prize product type (hedonic vs utilitarian), self-reported retirement-account saving rate, and bonus-money donations to a homelessness charity, with regressions controlling demographics and related traits.",
+  "focal_constructs": [
+    "lay rationalism",
+    "reason versus feelings weighting",
+    "Lay Rationalism Scale (LR Scale)",
+    "individual differences in decision making",
+    "hedonic versus utilitarian product preference",
+    "retirement savings decision",
+    "charitable donation decision"
+  ],
+  "main_findings": [
+    "The final six-item LR Scale was unidimensional, showed good internal consistency and test-retest reliability, and matched laypeople's own notion of who is more rational.",
+    "LR scores interacted with pro-reason versus pro-feelings scenario framing in the predicted crossover pattern: higher-LR participants favored pro-reason options more and pro-feelings options less.",
+    "Higher LR scores predicted choosing more utilitarian products, saving a larger share of income for retirement, and donating less in an emotion-laden homeless-aid appeal, even after controlling demographics and related individual-difference measures."
+  ],
+  "one_line_summary": "The paper introduces and validates a six-item measure of lay rationalism and shows that this trait predicts consequential consumer choices in product selection, retirement saving, and charitable giving.",
+  "relation_to_prior_work": "extends prior research on reason-versus-feelings trade-offs, which largely emphasized situational effects, by modeling stable individual differences and benchmarking a brief new scale against established trait measures.",
+  "research_gap": "Prior research on reason-versus-feelings decisions has focused mainly on situational determinants, not on stable person-level differences. The authors argue that this potentially general individual difference has been largely overlooked and lacks a rigorously validated brief measure for consumer research.",
+  "research_question": "Can the lay notion of rationality, defined as using reason rather than feelings to guide decisions, be conceptualized as a stable individual difference? Can a brief scale validly measure this tendency, and does it predict consumer behaviors beyond demographics and related constructs?"
+}

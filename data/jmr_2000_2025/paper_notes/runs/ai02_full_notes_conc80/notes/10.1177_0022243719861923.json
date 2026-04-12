@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides one of the first detailed longitudinal analyses of how microblog features and sharing dynamics evolve during versus after live political debates.",
+    "Shows that there is no single static recipe for virality on debate Twitter; effective tweet features depend on timing relative to the live event.",
+    "Contributes to broader political marketing and social media contagion research, with a generalizability check using tweets from Barack Obama's final State of the Union address."
+  ],
+  "context": "The paper studies Twitter microblogging around major U.S. political events leading to the 2016 presidential election, focusing on GOP primary debates and the third Clinton-Trump debate. It examines behavior during the live debates and in the immediate postdebate period.",
+  "design_and_data": "The authors analyze all unprotected tweets posted to primary debate hashtags from 60 minutes before to 90 minutes after four debates (August 2015 GOP debate, February 2016 GOP debate, March 2016 GOP debate, and October 2016 third presidential debate), totaling over 9.5 million tweets, and pair them with full debate transcripts. They extract linguistic and content features using LIWC, Speciteller, visual-link detection, and topic keyword coding, and use doc2vec cosine similarity to measure temporal alignment between tweet content and contemporaneous transcript windows. They estimate regressions for tweet-transcript alignment and negative binomial models for retweet counts, including comparisons of the same tweets during versus after debates and controls for user/debate effects. They also run bot-likelihood checks and a generalizability analysis on 449,817 tweets from Obama's final State of the Union address.",
+  "focal_constructs": [
+    "tweet creation dynamics",
+    "retweet virality",
+    "during vs after debate timing",
+    "tweet-transcript semantic alignment",
+    "linguistic emotionality",
+    "linguistic specificity and analytical style",
+    "visual content in tweets",
+    "tweeter prominence (follower size)"
+  ],
+  "main_findings": [
+    "As debates progress, tweet content becomes increasingly decoupled from the contemporaneous debate transcript, with alignment varying by discussed topic.",
+    "During debates, tweets are shorter and more descriptive and policy-linked, while after debates tweets become more elaborative, analytical, and emotionally/visually rich, with greater attention to contentious exchanges.",
+    "Drivers of sharing shift over time: linguistic emotionality has a limited role during debates, but after debates interpretation-related content and tweeter prominence (follower size) become stronger predictors of retweet rates."
+  ],
+  "one_line_summary": "Using over 9.5 million tweets from 2016 U.S. debate hashtags, the paper shows a timing-dependent shift from real-time narrative tweeting during debates to more interpretive and emotionally rich sharing after debates, alongside growing tweet-transcript decoupling over debate time.",
+  "relation_to_prior_work": "extends prior political Twitter research that largely uses sentiment to predict electoral outcomes by modeling how tweet content and diffusion evolve across live-event time. It also refines general virality expectations by showing that drivers identified in other contexts do not transfer uniformly to live debates and depend on whether tweeting occurs during or after the event.",
+  "research_gap": "Prior work on political Twitter focused mainly on sentiment-based election prediction, while evidence on what drives tweet creation and retweeting during live debates was limited. Earlier debate research had low tweet volume and little retweeting, leaving unresolved how content-sharing drivers change over debate time and from live to postevent periods.",
+  "research_question": "How do the content and sharing dynamics of political tweets evolve during versus after live presidential debates? Specifically, are during-debate tweets more narrative and transcript-linked, does this alignment decay over time, and do postdebate retweet drivers shift toward interpretation, emotion, visual richness, and user prominence?"
+}

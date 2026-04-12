@@ -1,0 +1,4 @@
+{
+  "rationale": "The only linkage evidence is a single DOI-matched reference with no title or in-text citation context (`matched_reference_count=1`, raw evidence lacks surrounding text), so there is no direct sign of how it is used. Although the citing paper uses text/LIWC-style linguistic analysis and the cited paper is a well-known text-emotion outcome study, the cross-domain fit (viral sharing vs. loan default) could indicate either foundational background or a generic mention, so it cannot be safely dropped or clearly kept from current evidence.",
+  "triage_decision": "uncertain"
+}

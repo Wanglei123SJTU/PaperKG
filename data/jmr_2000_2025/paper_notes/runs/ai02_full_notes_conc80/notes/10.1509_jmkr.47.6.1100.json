@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Develops a demand-supply modeling framework for nonlinear pricing that captures quantity-discount effects, including structural heterogeneity in whether consumers perceive discounts as gains or as losses.",
+    "Provides empirical evidence from scanner panel beer data that quantity-discount-induced gains or losses significantly influence purchase behavior and that consumers differ in gain-versus-loss orientation.",
+    "Shows empirically that manufacturers in the studied market ignore quantity-discount-dependent preferences in pricing and can improve profits by incorporating these preferences into nonlinear pricing design."
+  ],
+  "context": "The empirical application is the U.S. canned light beer market, focusing on Bud Light and Miller Lite offered in multiple package sizes. The data come from five grocery stores in Eau Claire, Wisconsin, over 104 weeks.",
+  "design_and_data": "The authors build a structural framework with a demand-side discrete-choice model and a supply-side channel-pricing model. Demand utility includes acquisition utility and transaction utility from within-brand quantity discounts, with random coefficients, structural heterogeneity (gain-focused vs loss-focused), unobserved demand shocks, and price endogeneity controls using instruments. The application uses household scanner panel data for six SKUs (Bud Light and Miller Lite in 144 oz., 216 oz., and 288 oz.), with 168 households, 4702 total purchases, and 2420 purchases in the focal six items. Supply-side estimation compares 16 specifications (manufacturer horizontal interaction, vertical interaction, and whether pricing accounts for quantity-discount effects and state dependence), then runs policy simulations.",
+  "focal_constructs": [
+    "quantity-discount effect",
+    "transaction utility",
+    "perceived gains",
+    "perceived losses",
+    "structural heterogeneity",
+    "competitive nonlinear pricing",
+    "manufacturer-retailer channel interaction"
+  ],
+  "main_findings": [
+    "Quantity-discount-induced transaction utility significantly affects consumer choice, and the estimated loss effects are larger than gain effects.",
+    "There is substantial structural heterogeneity in discount perception, with about 48% gain-focused consumers and 52% loss-focused consumers.",
+    "The best-fitting supply model indicates manufacturers do not incorporate quantity-discount effects in observed pricing, while policy simulations show that incorporating these effects increases manufacturer profits and that stronger quantity-discount effects lead strategic firms to set smaller quantity discounts."
+  ],
+  "one_line_summary": "Using household scanner data on multi-size light beer purchases, the paper shows that gain- and loss-based quantity-discount preferences materially shape demand and that accounting for them can improve competitive nonlinear pricing profits.",
+  "relation_to_prior_work": "extends prior nonlinear pricing and reference-price research by modeling quantity-discount-induced gains and losses in a competitive packaged-goods setting and linking these demand effects to supply-side pricing behavior.",
+  "research_gap": "Existing nonlinear pricing studies largely treat multi-size pricing as price discrimination and do not explicitly model quantity-discount-induced transaction utility in consumer packaged goods choices. The paper also notes that reference-price studies have not examined this quantity-discount effect in nonlinear pricing settings together with its strategic implications for manufacturer pricing.",
+  "research_question": "Do consumers derive transaction utility from within-brand unit price differences across package sizes, and do they differ in perceiving those discounts as gains versus losses? Given such preferences, how are competitive manufacturer-retailer nonlinear pricing decisions characterized in the market, and how would outcomes change if manufacturers explicitly incorporated quantity-discount effects?"
+}

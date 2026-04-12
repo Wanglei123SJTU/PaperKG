@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s stated design and contributions are about bonus timing effects on auto-loan origination and delinquency using large payroll/credit panel models, while the cited paper is a five-experiment study of exponential-growth misunderstanding in retirement savings. There is no provided in-text citation context—only a bibliography-level DOI match (reference_index 22)—and no evidence of method, data, or direct mechanism reuse between the two notes. Based on the available evidence, this looks like a likely background/mention citation rather than a substantive dependency.",
+  "triage_decision": "drop_obvious_mention_only"
+}

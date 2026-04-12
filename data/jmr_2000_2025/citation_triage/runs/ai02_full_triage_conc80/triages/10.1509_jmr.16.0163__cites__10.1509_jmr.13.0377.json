@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is in the same broad churn/retention space (latent attrition modeling and customer valuation), so it could plausibly serve as prior-method or background support for the citing paper’s churn-targeting argument. But the evidence here is only a DOI match with no in-text citation context, and the cited BG/NBD-style DERT modeling approach differs from the citing paper’s uplift-vs-risk randomized field-experiment setup, so substantive use is not verifiable from the provided data.",
+  "triage_decision": "uncertain"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper explicitly frames its contribution as extending prior online ad-effectiveness experimentation and improving on PSA/ITT-style designs, while the cited paper is a randomized treatment-control display-ad experiment (including charity-ad controls) focused on causal measurement under targeting/browsing bias. That indicates plausible methodological/foundational use rather than a casual mention, and the DOI match confirms a direct citation.",
+  "triage_decision": "keep_for_relation_judgment"
+}

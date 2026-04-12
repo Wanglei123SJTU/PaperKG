@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s design uses a joint binomial probit/log-log/zero-inflated Poisson framework with selection/endogeneity corrections, and its stated contributions center on free-trial acquisition effects on retention/CLV rather than machine-learning churn classifiers. The cited paper is specifically about bagging/boosting classification trees for churn prediction, and the only linkage provided here is a single DOI match with no in-text context, which suggests a likely background mention rather than substantive use.",
+  "triage_decision": "drop_obvious_mention_only"
+}

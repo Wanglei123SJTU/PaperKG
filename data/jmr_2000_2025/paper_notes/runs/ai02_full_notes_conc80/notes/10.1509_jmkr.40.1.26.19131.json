@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper defines incommensurate resources as carriers of wealth or welfare that are difficult to convert into a common unit of measurement.",
+    "It introduces commensurability as a mechanism that shifts attention between absolute and relative differences in evaluating incremental outcomes.",
+    "It provides managerial guidance on when nonmonetary premiums or mixed-currency pricing can outperform standard cash discounts."
+  ],
+  "context": "This paper studies consumer responses to sales promotions and add-on charges when transaction components are expressed in different currencies. Empirical settings include hypothetical retail purchases, airline ticket fees in dollars and frequent flier miles, and a pet-store promotion for dog treats with a free can opener versus a cash discount.",
+  "design_and_data": "Study 1 used 320 university students in four scenario versions adapted from the jacket-calculator paradigm, varying blanket price and whether the incremental benefit was a $10 discount or a free umbrella with ambiguous, provided, or self-generated dollar value; the main outcome was willingness to travel 15 minutes, with framing self-reports and think-aloud protocols for a subsample. Study 2 used 280 students in a 2 x 2 x 2 scenario design (base cost currency, surcharge currency, surcharge ratio) about airline tickets, plus 140 additional students in conditions that varied surcharge size; the outcome was willingness to travel 20 minutes to avoid the surcharge. Study 3 was a natural experiment in a high-end pet store over about three months, with counterbalanced daily promotions on two package sizes of dog treats: a $1.99 discount versus a free can opener at regular price. The store also provided roughly six months of pre-period and between-promotion sales data as baseline.",
+  "focal_constructs": [
+    "incommensurate resources",
+    "commensurate versus incommensurate currencies",
+    "relativistic versus absolute processing",
+    "diminishing marginal sensitivity",
+    "cash discounts",
+    "nonmonetary premiums",
+    "incremental gains and incremental costs"
+  ],
+  "main_findings": [
+    "With cash discounts, respondents showed diminishing sensitivity (higher willingness to travel for $10 off $25 than for $10 off $125), but this price-ratio effect disappeared when the benefit was an ambiguously valued free umbrella.",
+    "When the premium's dollar value was supplied or respondents were forced to generate a dollar value, relative processing reappeared.",
+    "In airline surcharge scenarios and the pet-store field test, incommensurate add-ons were evaluated more in absolute terms: mixed-currency surcharges were less tied to base-cost ratios, and a free premium increased sales across package sizes whereas a $1.99 discount was effective mainly when it represented a larger percentage discount."
+  ],
+  "one_line_summary": "Across two scenario experiments and one field experiment, the paper shows that expressing incremental outcomes in an incommensurate currency reduces relative evaluation and can change the effectiveness of promotions and surcharges.",
+  "relation_to_prior_work": "extends psychophysics-of-pricing and mental-accounting research by showing that commensurability of joint outcomes helps determine whether consumers evaluate increments relatively or absolutely. It also distinguishes this mechanism from compatibility and noncomparable-alternative work by focusing on judgment of joint outcomes rather than attribute comparisons across alternatives.",
+  "research_gap": "Prior pricing research largely examines situations in which both the reference amount and the change are monetary, and the authors note that relatively little is known about how consumers evaluate gift-with-purchase offers when the premium's dollar value is unclear. The paper addresses the underexplored role of incommensurate currencies in shaping evaluation of joint outcomes.",
+  "research_question": "How do consumers evaluate incremental benefits and costs when those increments are presented in a currency that is difficult to compare with the referent outcome? The paper asks whether incommensurate resources suppress the diminishing sensitivity associated with relative processing of commensurate changes such as cash discounts. It also examines when this effect breaks down, such as when a common-unit conversion is externally provided or internally generated."
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops a conceptual framework of competitive signaling that links information (signals and contextuals), interpretation, response, and repeated interaction.",
+    "Provides one of the first explicit integrations of attribution and information-processing perspectives into competitive signaling to explain how managers interpret signals.",
+    "Empirically tests when firms can build desired reputations or conceal the truth (bluff) and how these strategies influence competitors' responses over time."
+  ],
+  "context": "The empirical setting is a computer-based repeated entry-pricing game representing competitive interaction between an incumbent firm and a potential entrant in an oligopolistic market. Signals are price announcements and pricing actions, with contextual information on costs, demand, and prior competitive moves.",
+  "design_and_data": "The authors run two controlled experiments in which participants play entrants against a programmed incumbent across repeated quarters (15 quarters per game, with participants told to expect about 20). Study 1 uses 60 undergraduate business students in a 2 (signal strength: strong vs weak) x 3 (signal focus: internal vs external vs mixed) design; a replication uses 45 MBA students with strong signals and varying focus. Study 2 uses 40 MBA students in a 2 (bluff vs no bluff) x 2 (information cost: free vs costly) design. Reputational beliefs are measured with semantic differential items reduced to a competitiveness-aggressiveness factor, and response strength is captured by entry (aggressive) versus staying out (docile).",
+  "focal_constructs": [
+    "competitive signals",
+    "signal focus (internal vs external)",
+    "signal strength",
+    "bluffs",
+    "reputational beliefs",
+    "cost of information",
+    "response aggressiveness",
+    "repeated interaction"
+  ],
+  "main_findings": [
+    "In Study 1, perceptions of incumbent aggressiveness depended on the interaction of signal strength and focus: strong signals looked more aggressive when internally focused, while weak signals looked less aggressive when internally focused; with externally focused signals, strong versus weak differences were not significant.",
+    "In Study 2, bluffing increased perceived aggressiveness only when contextual information was costly; when information was free, bluffers were seen as less aggressive, and information cost had no significant effect for non-bluffers.",
+    "Entrants responded less aggressively to bluffing incumbents when information was costly (more stay-out decisions), supporting that bluff effectiveness depends on information cost."
+  ],
+  "one_line_summary": "Using two repeated entry-pricing experiments, the paper shows that competitor signal interpretation and response depend on signal focus and strength, and that bluffs work better when contextual information is costly.",
+  "relation_to_prior_work": "extends prior game-theoretic and reaction-function signaling research by shifting from mainly normative outcome predictions to a process account of how managers interpret signals in context and over repeated interaction.",
+  "research_gap": "The paper argues that prior signaling research is largely silent on how context changes signal interpretation, how reputational beliefs form and are used over repeated interaction, and when deceptive signals can work. It also notes that calls to integrate psychological inference and decision-making into signaling theory had largely gone unaddressed.",
+  "research_question": "How do managers interpret competitors' signals in different contexts and across repeated interaction, and how do these interpretations shape reputational beliefs and competitive responses? Specifically, how do signal strength and focus affect perceived aggressiveness, and how do bluffing and information cost affect both beliefs and response aggressiveness over time?"
+}

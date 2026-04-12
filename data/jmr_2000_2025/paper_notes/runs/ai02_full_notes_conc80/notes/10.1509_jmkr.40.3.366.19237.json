@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Rederives classic results on dichotomization in a modern regression framework that is easier to interpret for marketing researchers.",
+    "Provides new results for dichotomizing predictors with nonnormal continuous distributions (including skewed and bimodal beta shapes) and multistep variables.",
+    "Examines implications of dichotomization for model fit and specification in multiple regression and argues the practice has no benefits."
+  ],
+  "context": "The paper is a methodological article about common analysis practice in marketing research, especially median splits of continuous predictors. It documents that this practice appears frequently in recent issues of JMR, Journal of Marketing, and Journal of Consumer Research.",
+  "design_and_data": "The study uses analytic derivations plus numerical illustrations and simulation-style demonstrations. The authors report a brief prevalence count from recent journal issues: 46% of relevant articles categorized at least one continuous predictor, and 88% of those categorizations were dichotomizations. They derive expected changes in squared correlation and significance after splitting predictors, then compute results for normal, beta (skewed and bimodal), and multistep beta-binomial distributions and for different cut points. They also illustrate sampling behavior with generated bivariate normal data (including an example with population r^2 = .25 and a sampling plot using sample size 50).",
+  "focal_constructs": [
+    "dichotomization of continuous predictors",
+    "median split",
+    "squared correlation (r^2) deflation",
+    "statistical power and Type II error",
+    "simple linear regression fit",
+    "nonnormal predictor distributions",
+    "multiple regression misspecification and collinearity"
+  ],
+  "main_findings": [
+    "For a normally distributed predictor split at the median, the expected squared correlation drops to about 64% of the original (ratio about .637), and splits away from the median reduce it further.",
+    "In simple regression, dichotomization can leave slope and intercept estimates unchanged under mean-value coding of groups, but it increases error variance and standard errors, lowering power and often turning significant effects nonsignificant.",
+    "Across skewed, bimodal, and multistep distributions, median splitting does not improve expected predictor-criterion association, and in multiple regression it can obscure true relationships and create spurious significance through altered collinearity patterns."
+  ],
+  "one_line_summary": "The article shows analytically and with demonstrations that dichotomizing continuous predictors, especially via median splits, generally weakens inference and can distort regression conclusions.",
+  "relation_to_prior_work": "extends earlier dichotomization theory (e.g., Pearson and Tate) by reframing it around regression-based loss from splitting originally continuous predictors and by broadening results to nonnormal and multistep distributions relevant to marketing practice.",
+  "research_gap": "Prior work on dichotomization was presented in less accessible forms and often addressed a different problem, namely recovering correlations with an underlying latent continuous variable from discretely measured data. The paper targets the more common applied problem in marketing: how much information and inferential accuracy are lost when researchers dichotomize a continuous predictor before analysis.",
+  "research_question": "What are the consequences of dichotomizing continuous predictor variables, especially by median split, for correlation, regression estimates, statistical significance, and power? Do these consequences differ across normal versus nonnormal or multistep predictor distributions, and what happens to model validity in multiple regression?"
+}

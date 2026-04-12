@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s note explicitly says its integrated estimator is positioned as a more robust alternative to approaches that “fully specify a pricing game for joint demand-supply likelihood estimation,” and the cited paper’s main contribution is exactly a joint demand-supply pricing game model (manufacturers + retailer) with endogeneity testing. Given this direct methodological contrast plus overlapping constructs (household discrete choice, no-purchase option, price endogeneity), this looks plausibly substantive rather than an incidental background mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

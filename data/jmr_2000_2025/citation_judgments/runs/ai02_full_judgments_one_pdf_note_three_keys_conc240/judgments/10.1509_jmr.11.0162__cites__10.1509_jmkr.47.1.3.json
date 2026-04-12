@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "This citation plays a direct methodological role in the paper rather than serving as general background. In Section 3.2, the authors explicitly state they use control functions to handle price endogeneity and that they follow the parametric setup in Petrin and Train (2010), including the residual-based correction in utility and the sequential estimation steps. They also report robustness checks contrasting models with and without control functions, showing the cited approach materially affects estimated elasticities.",
+  "relation_description": "The citing paper applies Petrin and Train's control function approach to correct price endogeneity in its household demand models. It adopts the cited paper's residual-inclusion framework as a core part of estimation across categories and quarters.",
+  "relation_type": "applies"
+}

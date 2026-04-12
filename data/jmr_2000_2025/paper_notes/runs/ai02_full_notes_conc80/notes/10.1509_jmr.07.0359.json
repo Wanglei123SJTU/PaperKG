@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops a differentiated-products multichannel MCI demand model that jointly captures substitution within and across home video channels while allowing channel-specific, week-varying consumer preferences.",
+    "It proposes a maximum likelihood estimator for this model and reports Monte Carlo evidence that it is more efficient than the GMM approach commonly used in differentiated-goods market share models.",
+    "It uses the estimated model to run industry-level counterfactuals on release windowing between purchase and rental channels."
+  ],
+  "context": "The study is set in the U.S. motion picture posttheatrical home video market, focusing on purchase and rental channels. The empirical setting is weekly national demand in 2000-2001, a period chosen to emphasize competition between these two channels.",
+  "design_and_data": "The authors estimate a random-coefficients, nested multichannel share model (a differentiated-products MCI specification) with channel-week fixed effects for seasonality and movie-level attraction terms. Data cover weekly top 35 purchase titles from Nielsen VideoScan and top 35 rental titles from Video Store Magazine Rental Charts, January 2000 through December 2001. The model includes movie covariates such as box office revenue, production budget, theatrical print and advertising, critics ratings, and timing since theatrical and home video release. They then simulate cross-channel elasticities and 28-day sequential release (windowing) scenarios with either channel released first.",
+  "focal_constructs": [
+    "cross-channel substitution",
+    "within-channel substitution",
+    "seasonality in consumer preferences",
+    "channel windowing",
+    "market attraction",
+    "channel nesting parameters",
+    "DVD purchase demand",
+    "rental demand"
+  ],
+  "main_findings": [
+    "After controlling for seasonality and movie attributes, cross-channel substitution is small, with average cross-channel elasticity of purchase revenue with respect to rentals of 0.0047 and of rental revenue with respect to purchases of 0.0621.",
+    "A 28-day release window in either direction lowers combined channel revenue: delaying rentals raises purchase revenue by about $17M but lowers rental revenue by about $157M, while delaying purchases raises rental revenue by about $2.6M but lowers purchase revenue by about $17.5M.",
+    "Seasonal preference shifts are much stronger for purchases than rentals, and removing seasonality in simulation substantially reduces peak-season purchase revenue."
+  ],
+  "one_line_summary": "Using weekly U.S. 2000-2001 home video data, the paper estimates a multichannel demand model and finds weak purchase-rental substitution and lower total revenue under 28-day sequential release windowing.",
+  "relation_to_prior_work": "extends prior motion picture demand research that is largely single-channel by jointly modeling purchase and rental choices with within- and cross-channel substitution. It also combines multichannel demand with week-level seasonal preference variation, unlike multichannel settings that typically assume time-invariant preferences.",
+  "research_gap": "The paper argues that claims about rental cannibalization of purchases cannot be evaluated well with existing approaches because prior work is mostly single-channel or does not jointly model cross-channel substitution with time-varying seasonal demand. It addresses the need for a model that separates seasonal preference shifts from substitution effects across home video channels.",
+  "research_question": "How much substitution exists between U.S. home video purchase and rental channels once movie attributes and seasonal preference variation are controlled for? What are the revenue implications of sequential channel release (for example, a 28-day window) versus simultaneous release?"
+}

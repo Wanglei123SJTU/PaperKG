@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used directly in the empirical identification strategy, not just as general background. In the methods section, the authors explicitly state they use the control function approach for endogeneity correction and cite Petrin and Train (2010) as the basis. They then implement first-stage models and control-function terms to address endogeneity in key governance variables, making the citation functionally important to estimation and inference.",
+  "relation_description": "The citing paper applies Petrin and Train's control function framework to correct endogeneity in its regression models of buying-group governance effects. The cited work serves as the methodological template for the endogeneity-correction step.",
+  "relation_type": "applies"
+}

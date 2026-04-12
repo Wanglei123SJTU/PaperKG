@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides a method to forecast future income streams for high-growth firms when historical earnings are negative and traditional extrapolation is not feasible.",
+    "Shows how customer-level levers, especially retention, can be translated into firm-value implications.",
+    "Argues that customers are intangible assets and that customer-related expenditures should be treated as investments rather than only current expenses."
+  ],
+  "context": "The empirical setting compares one traditional firm (Capital One) and four Internet firms (Amazon.com, Ameritrade, eBay, and E*Trade) over the dot-com period from 1996/1997 to March 2002. The paper is motivated by debates about valuing high-growth firms when conventional financial metrics are weak.",
+  "design_and_data": "The authors build a customer-based valuation model that sums discounted earnings from current and future customer cohorts, with retention, margin, acquisition cost, discounting, and taxes. Using quarterly public filings (annual reports, 10-K, 10-Q, and other reports), they compile customer counts, margins, and acquisition costs for five firms, and estimate retention from disclosed data, industry sources, or assumptions. Future customer growth is forecast with an S-shaped diffusion-style model estimated by nonlinear least squares, and customer value is computed with a continuous-time formulation. They compare estimated customer value with observed market value at March 2002 and across the prior four quarters, and run sensitivity analyses on retention, margin, acquisition cost, and discount rate.",
+  "focal_constructs": [
+    "customer lifetime value",
+    "firm value",
+    "customer retention rate",
+    "customer acquisition cost",
+    "customer margin",
+    "customer growth model",
+    "discount rate",
+    "customer cohorts"
+  ],
+  "main_findings": [
+    "Customer value estimates are close to market values for Capital One, Ameritrade, and E*Trade, but much lower than market values for Amazon.com and eBay.",
+    "Across firms, a 1% improvement in retention raises customer value by about 2.45% to 6.75%, compared with roughly 1% for margin and .02% to .32% for acquisition cost.",
+    "A 1% improvement in retention has about five times the impact on customer value as a 1% improvement in discount rate (cost of capital)."
+  ],
+  "one_line_summary": "The paper shows that a customer-based discounted-earnings model can be used to value firms, especially high-growth firms, and highlights retention as the most powerful driver of firm value among the levers examined.",
+  "relation_to_prior_work": "extends customer lifetime value research into firm valuation by aggregating discounted earnings from current and future customer cohorts. It differs from prior DCF-style industry work by modeling firms directly, explicitly incorporating retention, and not requiring an assumed end of growth. It also contrasts with correlational accounting studies that regress market value on nonfinancial metrics by deriving customer value from a structural model.",
+  "research_gap": "Traditional P/E and DCF approaches are difficult to apply to high-growth firms with limited history and negative earnings. Existing Internet valuation work using nonfinancial metrics such as eyeballs is largely correlational and assumes market prices equal intrinsic value, leaving a need for a disciplined customer-based valuation approach.",
+  "research_question": "Can a firm's value be estimated from the discounted lifetime value of its current and future customers, using mostly public data, particularly for high-growth firms with low or negative earnings? How strongly do retention, margin, and acquisition cost affect customer value relative to discount rate?"
+}

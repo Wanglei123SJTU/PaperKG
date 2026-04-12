@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper studies individual incumbent retailers' responses to Wal-Mart entry using a broad set of marketing-mix variables (price, promotion, and assortment) rather than focusing only on market-level prices or sales.",
+    "It uses a before-and-after-with-control-group design that separates entry effects from chain, regional, and temporal factors and helps reduce bias from endogenous entry timing.",
+    "It is presented as the first study to directly link incumbents' sales outcomes after Wal-Mart entry to the specific reactions those incumbents make."
+  ],
+  "context": "The setting is U.S. consumer packaged goods retailing, focusing on local market entry by Wal-Mart supercenters. Incumbents are supermarkets, drugstores, and mass merchandisers operating near the entry locations.",
+  "design_and_data": "The authors analyze seven first-time Wal-Mart supercenter entries during 2000-2002 in a three-state region in the eastern United States. They use weekly IRI store movement data for 46 categories from December 1999 to one year after each entry, covering 40 experimental incumbent stores and 50 matched control stores (90 total) from six chains and three retail formats. First-stage estimates use a before-and-after-with-control-group difference-in-differences setup at the store-category level to quantify Wal-Mart effects on seven marketing-mix variables and sales. Second- and third-stage models explain reaction heterogeneity with store/category characteristics and estimate how reactions affect sales outcomes, including an IV strategy using first-six-month reactions as instruments for second-six-month reactions.",
+  "focal_constructs": [
+    "Wal-Mart entry effect",
+    "incumbent retailer reactions",
+    "retaliation versus accommodation",
+    "price, promotion, and assortment decisions",
+    "incumbent sales outcomes",
+    "retail format proximity/overlap",
+    "category vulnerability and competitive pressure"
+  ],
+  "main_findings": [
+    "Wal-Mart entry causes significant incumbent sales losses overall, with median first-year sales changes of about -40% for mass stores, -17% for supermarkets, and about -6% for drugstores.",
+    "No reaction is common across many store-category cases, especially for promotion variables, and reaction patterns vary substantially by format, with mass stores reacting more frequently and often cutting price and assortment.",
+    "Incumbent reactions significantly affect sales outcomes, and reaction effectiveness is format-specific: supermarkets and drugstores generally do better with differentiation-oriented responses than regular price cuts, while mass stores are most vulnerable and have fewer effective response options."
+  ],
+  "one_line_summary": "Using a natural experiment around seven Wal-Mart supercenter openings, the paper shows that incumbents' sales losses and mitigation depend on their marketing-mix reactions, and the effective reactions differ by retail format.",
+  "relation_to_prior_work": "extends prior Wal-Mart entry research by moving beyond mainly market-level price or sales effects to store-level, multi-format evidence on incumbent marketing-mix reactions and their links to sales outcomes.",
+  "research_gap": "Prior work had paid limited attention to how individual incumbent retailers adjust multiple marketing-mix levers after Wal-Mart entry, with most evidence centered on market prices or aggregate outcomes. The literature also lacked direct evidence on whether and how those reactions translate into incumbent sales outcomes.",
+  "research_question": "How do incumbent supermarkets, drugstores, and mass merchandisers change price, promotion, and assortment after a Wal-Mart entry in their local market? How do these reactions and the resulting sales effects vary across formats, stores, and categories? Do different reactions causally relate to better or worse incumbent sales outcomes after entry?"
+}

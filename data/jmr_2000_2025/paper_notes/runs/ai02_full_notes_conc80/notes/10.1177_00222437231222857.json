@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "Provides causal evidence that supplier safety training mitigates safety hazards (Study 1) and workplace injuries (Study 2).",
+    "Offers convergent evidence across multiple B2B sectors, exogenous shocks (catastrophic accidents and regulation), data sources, and units of analysis.",
+    "Shows that suppliers' safety training investment increases B2B procurement selection likelihood, framing safety training as a customer-value lever rather than only compliance or cost control."
+  ],
+  "context": "The paper is set in B2B supplier environments where operational safety is relevant, including a global oil field services company and construction establishments in New York State. It also studies procurement choices for electrical submersible pumping systems in the oil and gas sector.",
+  "design_and_data": "Study 1 uses proprietary monthly site-level panel data from a global oil field services company in North America (1,921 sites, 87,071 site-months, 2008-2018) and estimates seasonal-differenced IV models using timing and location of catastrophic accidents as exogenous shifts in training. Study 2 uses OSHA establishment-year injury records (2016-2021) for 32,061 New York establishments and applies difference-in-differences around New York City Local Law 196, with additional border-county control analyses. Study 3 is an online stated-choice conjoint with 207 B2B procurement professionals, each evaluating six two-vendor choice sets (2,484 profile observations) on quality, after-sales support, safety training, and price.",
+  "focal_constructs": [
+    "safety training intensity",
+    "safety hazards per capita",
+    "workplace injury rates",
+    "B2B supplier selection",
+    "risk mitigation",
+    "procurement choice attributes"
+  ],
+  "main_findings": [
+    "In Study 1, a 10% increase in monthly safety training hours per capita reduced monthly safety hazards per capita by about 6.45%-9.57%.",
+    "In Study 2, Local Law 196 reduced injury rates at treated New York City construction establishments by 0.54-0.68 percentage points (15.56%-18.84%) relative to controls.",
+    "In Study 3, higher supplier safety training increased the probability of proposal selection by procurement professionals, with safety carrying about 20% relative importance among tested attributes."
+  ],
+  "one_line_summary": "Across two quasi-experiments and one conjoint study, the paper shows that supplier safety training causally reduces hazards and injuries and increases B2B supplier selection likelihood.",
+  "relation_to_prior_work": "extends prior safety-training research that largely lacked causal evidence on objective outcomes by identifying effects on hazards and injuries with quasi-experimental designs. It also extends B2B supplier-selection work by documenting safety training as a valued attribute alongside quality, after-sales support, and price.",
+  "research_gap": "The paper states that causal evidence on whether safety training reduces objective safety outcomes (hazards and injuries) is sparse because existing work often relies on cross-sectional associations, self-reports, and simultaneity-prone panel relationships. It also notes limited evidence on whether B2B customers value suppliers' safety training investments in supplier selection.",
+  "research_question": "Do suppliers' investments in safety training causally mitigate safety hazards and workplace injuries? Do B2B customers reward suppliers that invest more in safety training when making procurement choices?"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper examines when average ratings are informative about downstream outcomes (e.g., sales/quality), while the cited paper specifically models how satisfaction ratings translate into actual repurchase behavior with threshold and response-bias effects—so there is plausible conceptual relevance on rating-to-behavior linkage. However, the matched evidence provides only a DOI match (reference_index 49) with no local citation context or title string, so substantive use cannot be confirmed. This is not safe to drop as an obvious mention, but the current evidence is too sparse to clearly keep.",
+  "triage_decision": "uncertain"
+}

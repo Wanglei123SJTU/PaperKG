@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops a novel, automated, and scalable video feature framework that structures unstructured video data using machine learning, computer vision, and NLP, with three feature groups: basic video properties, instructor emotions/physical characteristics, and visual aesthetics.",
+    "Demonstrates the framework's practical value for prediction at two levels: individual-level viewing behavior on MasterClass and aggregate video popularity on Crash Course.",
+    "Provides interpretable feature-level insights (via permutation importance and SHAP) that can guide managers in personalization, recommendation, and instructional video production."
+  ],
+  "context": "The study is set in online video-based education, using MasterClass (a paid instructional platform) and Crash Course (a free educational YouTube channel). It focuses on consumer consumption of video courseware across diverse subjects and instructors.",
+  "design_and_data": "The authors extract content-based video features from instructional videos and use them to predict consumption outcomes with gradient boosting models. The MasterClass dataset includes 771 videos across 32 courses, more than 2.6 million viewing records, and 225,580 consumers; outcomes are whether a user completes a video and whether the user watches the next video. Models are trained with an 80/20 consumer split and fivefold cross-validation, and interpreted with permutation feature importance and SHAP values. A robustness application uses Crash Course data (1,127 videos across 39 courses plus historical likes/views) to predict aggregate video popularity.",
+  "focal_constructs": [
+    "online video consumption",
+    "video feature framework",
+    "basic video properties",
+    "instructor emotions and physical characteristics",
+    "visual aesthetic features",
+    "video completion",
+    "next-video continuation",
+    "interpretable machine learning"
+  ],
+  "main_findings": [
+    "On MasterClass, the framework predicted individual viewing behavior with high out-of-sample accuracy (about 92% for video completion and 88% for watching the next video).",
+    "Video content features across all three proposed categories were important for prediction, and using all feature groups together outperformed models using single groups.",
+    "In the separate Crash Course setting, the same framework predicted aggregate video popularity with about 85% out-of-sample accuracy, supporting its usefulness across different instructional contexts."
+  ],
+  "one_line_summary": "The paper proposes and validates an interpretable, content-based video analytics framework that predicts online instructional video consumption at both individual and aggregate levels across MasterClass and Crash Course.",
+  "relation_to_prior_work": "extends prior marketing video-analysis work by moving from mostly manual coding to automatic, scalable extraction of interpretable video content features. It also extends product-consumption research to digital multimedia products by operationalizing granular features of instructional videos and testing them in two distinct educational video settings.",
+  "research_gap": "Prior marketing research on video analytics is limited and often depends on manual coding, which is difficult to scale for large unstructured video datasets. The product-consumption literature also lacks objective, parsimonious, and sufficiently granular content features for digital media products such as online instructional videos.",
+  "research_question": "Can automatically extracted, content-based features of instructional videos predict how consumers consume online video courseware? Which video elements are most informative for predicting whether viewers complete a video, continue to the next video, and, in aggregate, whether a video becomes popular?"
+}

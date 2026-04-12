@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "Provides causal evidence from a controlled field experiment that commercial tweeting can increase product demand.",
+    "Separates the effects of firm tweets and influential user retweets, showing distinct pathways through direct persuasion, information transmission, and follower-base growth.",
+    "Offers actionable recommendations for social media marketing ROI, including using informative tweet content and selecting influentials who are actively retweeted by their own followers."
+  ],
+  "context": "The study is set on Sina Weibo in China, where an anonymous major global media company promoted documentary TV shows broadcast daily on seven local channels. Weibo was the company's primary marketing platform in China during the study period.",
+  "design_and_data": "The authors ran a 14-week randomized field experiment (Aug-Dec 2012) in which 98 shows were assigned to control (no show tweet), tweet (company tweet), or tweet and retweet (company tweet plus one recruited grassroots influential retweet). A secondary channel-level design used airing-time differences so five channels were treated (tweets before airing) and two were untreated (tweets after airing) for falsification, and it varied whether channel broadcast information was shown in tweets. Show demand came from CSM viewing ratings for each show-channel pair (686 observations). The authors also tracked tweet diffusion and daily follower growth via the Weibo API and collected attributes of 42 recruited influentials.",
+  "focal_constructs": [
+    "company tweets",
+    "influential retweets",
+    "TV show viewing demand",
+    "tweet informativeness",
+    "company follower growth",
+    "tweet diffusion"
+  ],
+  "main_findings": [
+    "Company tweets significantly increased show viewing; compared with control, viewing rose by about 77 percent on average.",
+    "Influential retweets generated an additional significant lift in viewing (about 33 percent overall), and this incremental effect was stronger when the original tweet displayed broadcast information (about 57 percent).",
+    "Influential retweets significantly increased daily growth in company followers (about 35 percent over control), while company tweets alone did not, and newly added followers amplified later tweet effects on viewing."
+  ],
+  "one_line_summary": "A randomized Weibo field experiment in the TV industry shows that company tweets raise viewership directly, while influential retweets add impact mainly when tweets are informative and by expanding the firm's follower base.",
+  "relation_to_prior_work": "extends prior social media marketing and word-of-mouth research by explicitly identifying the causal effect of commercial tweets and retweets on a tangible demand outcome in a randomized field setting. It further clarifies influencer effects by showing that retweet impact depends on message informativeness and follower acquisition dynamics.",
+  "research_gap": "Existing studies and practice left unresolved whether tweeting truly increases product demand, because observational correlations between tweets and demand are confounded by promotion intensity and underlying product popularity. The paper addresses this by isolating causal effects of company tweets and influential retweets on demand.",
+  "research_question": "Do company tweets and influential users' retweets causally increase demand for the firm's product, measured by TV show viewing? If so, through what mechanisms do these effects operate, including informational content and changes in the firm's follower base?"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citation appears in the paper's endogeneity correction section, not just in general background. The authors explicitly state they use the control function approach from Petrin and Train (2010) to address potential endogeneity of quality-related regressors in a nonlinear count-model setting. They implement the two-step residual-inclusion procedure and then interpret control-function terms in results, showing the cited work informs core identification and estimation choices.",
+  "relation_description": "The citing paper applies Petrin and Train's control function method to correct endogeneity in its restaurant eWOM model. It uses first-stage regressions with instruments and includes resulting residuals in the main equation as the empirical correction strategy.",
+  "relation_type": "applies"
+}

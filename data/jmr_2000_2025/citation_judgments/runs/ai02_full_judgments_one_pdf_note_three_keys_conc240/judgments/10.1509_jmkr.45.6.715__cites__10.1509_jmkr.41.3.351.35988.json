@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "Bodapati and Gupta (2004) is cited in the identification discussion as prior work showing identification of preference distributions from aggregate market-share choice data. The citing paper uses that result to frame its own contribution as handling an added layer of difficulty when coupon availability is also aggregate and censored. This is not a generic background citation; it materially supports the paper's positioning and conceptual setup of what is being advanced.",
+  "relation_description": "The citing paper builds on the identification/recoverability line represented by Bodapati and Gupta (2004) and extends it to a more complex aggregate-data context with coupon variables. It develops methods for cases where both outcomes and key covariates are aggregated, with coupon-availability censoring.",
+  "relation_type": "extends"
+}

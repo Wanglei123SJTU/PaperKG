@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a new sequence-aligned fairness ideal for channels, where equitable payoffs are aligned with exogenously given Stackelberg roles, and tests it empirically against strict egalitarian, liberal egalitarian, and strict libertarian ideals.",
+    "Develops and estimates a behavioral channel model that combines distributive fairness and bounded rationality (QRE), enabling separation of fairness effects from decision errors.",
+    "Shows that fairness and game structure interact in channels, and that recognizing role-based equity can improve channel efficiency more than strict equality."
+  ],
+  "context": "The paper studies a dyadic distribution channel with one manufacturer and one retailer in a two-stage game. Firms first choose demand-enhancing investments and then play a Stackelberg pricing game where the manufacturer sets wholesale price and the retailer sets retail price.",
+  "design_and_data": "The authors derive predictions from a standard profit-maximization channel model and from a behavioral model with fairness and QRE noise. They run incentivized laboratory experiments with 150 undergraduate participants across four treatments that cross manufacturer and retailer investment return rates (0.2 or 1.2), with random rematching and role switching across rounds. Participants make discrete investment and price choices each round, and the authors estimate maximum-likelihood QRE models (with and without learning) to compare fairness ideals by fit statistics. A robustness check uses two additional sessions with 24 MBA participants under the same game structure.",
+  "focal_constructs": [
+    "distributive fairness concerns",
+    "fairness ideals",
+    "sequence-aligned ideal",
+    "strict egalitarianism",
+    "liberal egalitarianism",
+    "strict libertarianism",
+    "bounded rationality",
+    "quantal response equilibrium"
+  ],
+  "main_findings": [
+    "Observed channel pricing and investment choices deviate systematically from standard equilibrium predictions, and models with fairness fit significantly better than a no-fairness benchmark.",
+    "Disadvantageous inequity aversion is significant, while advantageous inequity aversion is not significant in the random-matching one-shot setting.",
+    "The sequence-aligned fairness ideal is the best-fitting ideal (with estimated t near 1/3), indicating that fairness perceptions are shaped more by exogenous game structure than by endogenous contributions; MBA participants are more rational but show similar fairness patterns."
+  ],
+  "one_line_summary": "Using a two-stage channel experiment and QRE estimation, the paper finds that fairness materially affects pricing and is best captured by a new sequence-aligned ideal linked to Stackelberg roles.",
+  "relation_to_prior_work": "introduces a sequence-aligned fairness ideal beyond the strict egalitarian, liberal egalitarian, and strict libertarian ideals studied in prior fairness-ideal work. It also extends channel fairness modeling by jointly estimating fairness and bounded rationality in an active manufacturer-retailer pricing game, rather than treating deviations only as fairness or only as mistakes.",
+  "research_gap": "Although fairness is widely documented, few channel models incorporate it, and it is unclear whether fairness remains quantitatively important in complex channel decisions relative to profit maximization and bounded rationality. The literature also leaves open which fairness principle determines equitable payoffs in channel pricing games, especially whether exogenous game structure matters more than endogenous investments.",
+  "research_question": "Do fairness concerns significantly influence pricing decisions in a complex dyadic channel once bounded rationality and profit motives are modeled jointly? Which fairness ideal best describes how channel members form equitable payoff benchmarks: strict equality, contribution-based rules, or an ideal tied to exogenous game structure?"
+}

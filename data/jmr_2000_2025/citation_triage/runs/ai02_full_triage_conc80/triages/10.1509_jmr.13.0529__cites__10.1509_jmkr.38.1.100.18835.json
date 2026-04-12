@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s design explicitly uses moderated regression with an interaction (risk aversion × NFCC), while the cited paper is a methodological article on correct specification and interpretation of moderated multiple regression interactions. That makes the cited work a plausible method/theory source rather than an obvious incidental mention. Although the matched evidence is only a DOI-level match, the construct-level alignment is strong enough to keep for second-stage judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

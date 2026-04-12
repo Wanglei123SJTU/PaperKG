@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper updates and extends meta-analytic empirical generalizations on price elasticity using a much larger evidence base than prior work.",
+    "It broadens the determinant framework by combining market characteristics and research-method factors, including several determinants not examined in Tellis (1988).",
+    "It contrasts its results with Tellis (1988) and offers a formal assessment of which new elasticity observations would be most useful for future research."
+  ],
+  "context": "The study examines brand- and SKU-level price elasticities in business-to-consumer markets using actual sales or purchase data, excluding category-level and B2B elasticities. The evidence mostly comes from developed-market settings (United States/Canada, Europe, and Japan/Australia/New Zealand) across categories such as groceries and durables.",
+  "design_and_data": "The authors conducted a multi-step literature search (prior reviews, bibliographic databases, citation tracking, journal hand search, web working papers, and reference snowballing). Inclusion required brand/SKU elasticities from actual purchase or sales data in B2C markets; 81 publications yielded 1860 elasticities, and 9 extreme outliers were removed, leaving 1851 observations. Two independent judges coded elasticities and determinants, with a third judge resolving disagreements. They estimated hierarchical linear models with iterative generalized least squares to account for within-study dependence, analyzing main effects and selected interactions among coded determinants.",
+  "focal_constructs": [
+    "price elasticity",
+    "market characteristics",
+    "research methodology",
+    "criterion variable (sales vs share/choice)",
+    "product life cycle stage",
+    "price endogeneity",
+    "inflation rate",
+    "price definition (actual, promotional, regular)"
+  ],
+  "main_findings": [
+    "The average observed price elasticity across the 1851 estimates is -2.62.",
+    "Sales elasticities increased in magnitude over time, whereas share and choice elasticities remained approximately stable.",
+    "Accounting for price endogeneity significantly increased elasticity magnitude, while accounting for heterogeneity in price sensitivity did not significantly change elasticity estimates."
+  ],
+  "one_line_summary": "Using a meta-analysis of 1851 estimates from 81 studies, the paper updates empirical generalizations on price elasticity and shows that both market conditions and modeling choices materially shape reported elasticities.",
+  "relation_to_prior_work": "extends Tellis (1988) by updating the evidence window and re-evaluating empirical generalizations with a substantially larger sample of elasticity estimates. It also adds determinants that were absent in the earlier meta-analysis, especially endogeneity, price definition, and macroeconomic conditions.",
+  "research_gap": "The main prior meta-analysis (Tellis 1988) covered evidence only up to the mid-1980s, even though both market environments and empirical methods changed substantially afterward. The field lacked updated empirical generalizations that incorporate these newer conditions and methodological practices.",
+  "research_question": "What is the updated average magnitude of brand/SKU price elasticity, and which market characteristics and research-method decisions explain variation in reported elasticities? The paper also asks which earlier empirical generalizations from Tellis (1988) still hold and which should be revised."
+}

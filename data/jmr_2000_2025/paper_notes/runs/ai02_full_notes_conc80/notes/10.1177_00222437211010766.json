@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper specifies and empirically tests a mechanism linking outsourcing to demand through two channels: lower costs and prices, and reduced technological performance with brand spillovers.",
+    "It explicitly incorporates strategic competitor response in outsourcing analysis instead of treating firms in isolation.",
+    "It develops and estimates an integrated structural model of outsourcing, technology-frontier outcomes, pricing, and consumer choice using detailed product-level sourcing data."
+  ],
+  "context": "The study is set in the global flat-panel TV industry during 2004-2005, focusing on LCD and plasma TVs. It examines major brands across North America, Europe, and Japan.",
+  "design_and_data": "The authors assemble quarterly panel data (mainly from DisplaySearch) on retail prices and sales by brand-technology-size-market, plus supply-chain sourcing information on whether display screens were produced in-house or outsourced. The final estimation sample is an unbalanced panel of 383 observations with 50 aggregated products across North America, Europe, and Japan. Technology frontier is measured as the maximum display size a firm can produce for each technology-time cell using production/supply-chain information. The empirical framework combines random-coefficients demand estimation, a Bertrand pricing model to recover marginal costs, IV estimation for the outsourcing-frontier relationship, and moment-inequalities estimation for outsourcing fixed costs.",
+  "focal_constructs": [
+    "core-component outsourcing",
+    "technology frontier",
+    "aura effect",
+    "efficiency effect",
+    "strategic effect",
+    "consumer demand",
+    "marginal cost",
+    "competitive interaction"
+  ],
+  "main_findings": [
+    "Core-component outsourcing significantly lowers marginal production costs (about 21 percent on average) and is associated with large fixed-cost savings relative to insourcing (about $455 million for LCD plants and $277 million for PDP plants).",
+    "Outsourcing reduces firms' technological-frontier positioning; switching from in-house production to outsourcing makes a firm about 17 percent less likely to be on the frontier.",
+    "Consumers value frontier proximity (a positive aura effect), and counterfactuals show outsourcing can intensify competition, so profit effects vary across firms depending on their positions in attribute space."
+  ],
+  "one_line_summary": "Using global flat-panel TV data and a structural model, the paper shows that core-component outsourcing lowers costs but weakens frontier technological positioning and its demand-enhancing aura, with net performance shaped by competitive response.",
+  "relation_to_prior_work": "extends prior outsourcing research by jointly quantifying efficiency, demand-side aura, and strategic competitive effects in one structural framework. It goes beyond largely conjectural or partial prior evidence and differs from Sun and Li (2011) by modeling active consumer choice in a high-technology durable-goods market with explicit competitive interaction.",
+  "research_gap": "The paper states that despite widespread use of outsourcing, there is little systematic large-scale empirical evidence on its performance effects, especially on consumer demand. Prior work also rarely models both the technology-performance channel and explicit competitive interactions when evaluating core-component outsourcing.",
+  "research_question": "How does core-component outsourcing affect consumer demand and firm performance in high-technology markets? Specifically, the paper asks whether outsourcing's cost savings are offset by reduced ability to be on the technological frontier and associated brand spillovers, and how competitor reactions alter the net profit impact."
+}

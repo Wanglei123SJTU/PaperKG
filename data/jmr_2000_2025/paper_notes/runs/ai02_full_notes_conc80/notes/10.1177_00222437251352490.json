@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper claims to provide the first causal evidence that a climate change event, severe wildfire smoke, shifts consumer demand toward sustainable products.",
+    "It claims a multi-event and multimethod approach, combining retail scanner analyses for 2018 and 2020 wildfires with survey evidence from the 2023 Canadian wildfire and a 2024 follow-up.",
+    "It claims to document both heterogeneous and temporal response patterns, including stronger effects for some product and brand types and short-lived behavioral and attitudinal effects."
+  ],
+  "context": "The study examines major wildfire-smoke episodes in the United States: the 2018 Camp Fire and 2020 California wildfires on the West Coast, and 2023 Canadian wildfire smoke affecting the U.S. East Coast. The market context is household cleaning products, where sustainability is identified using the EPA Safer Choice label.",
+  "design_and_data": "For the 2018 and 2020 events, the authors merge NielsenIQ retail scanner data with EPA PM2.5 data and define severe smoke exposure as PM2.5 >= 55.5 ug/m3 at the county level. They use propensity score matching and estimate two-way fixed-effects difference-in-differences models at the store-month level, then run UPC-store level models with product-store fixed effects and multiple robustness checks. The main 2018 matched dish-soap store-month sample includes 3,168 observations from 264 stores, and UPC-level analyses cover dish soap, all-purpose cleaners, and laundry detergents. For the 2023 event, they field a Prolific survey (594 eligible respondents from 600 recruits) and run a 2024 follow-up with the same participant pool.",
+  "focal_constructs": [
+    "wildfire smoke exposure",
+    "sustainable product demand",
+    "Safer Choice certification",
+    "PM2.5 air quality",
+    "difference-in-differences",
+    "substitution from nonsustainable to sustainable products",
+    "environmental concern",
+    "health concern"
+  ],
+  "main_findings": [
+    "Stores exposed to severe wildfire smoke show higher demand for sustainable cleaning products, with estimated increases of about 4.7% to 9.3% across specifications and categories.",
+    "The demand shift appears quickly after smoke exposure and then dissipates, indicating a short-lived effect.",
+    "Effects are stronger for refill products and brands with more sustainable portfolios, and survey results show higher willingness to buy sustainable products plus stronger climate-change attribution and environmental and health concerns under heavier smoke exposure."
+  ],
+  "one_line_summary": "Using random variation in wildfire-smoke exposure, the paper finds that severe smoke temporarily increases consumer choice of EPA Safer Choice cleaning products and shifts related sustainability attitudes.",
+  "relation_to_prior_work": "extends prior climate-event and air-pollution research by moving from health and policy-attitude outcomes to causal estimates of revealed consumer purchasing behavior in retail markets. It also extends sustainable-consumption work that often uses stated preferences by combining scanner-based revealed behavior with survey-based attitudinal evidence during real wildfire events.",
+  "research_gap": "The paper states that no prior study has examined how severe wildfire smoke affects consumer purchase behavior. It also positions itself against work that is conceptual or survey-only by emphasizing the need for evidence from real-world exposure using revealed purchase data.",
+  "research_question": "Does exposure to severe wildfire smoke causally shift consumer demand from nonsustainable to sustainable products? The study also asks whether these effects are heterogeneous across product, brand, and store characteristics and whether smoke exposure changes attitudes such as willingness to buy sustainable products, climate-change beliefs, and environmental and health concerns."
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "Both papers are centrally about movie recommendation on EachMovie data, and the cited paper is specifically a methodological source on nonignorable missing ratings (joint selection–rating modeling), which the citing paper’s note says it can account for. This overlap in core mechanism and empirical setting suggests the citation is plausibly substantive (method/foundation/benchmark), not an obvious incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

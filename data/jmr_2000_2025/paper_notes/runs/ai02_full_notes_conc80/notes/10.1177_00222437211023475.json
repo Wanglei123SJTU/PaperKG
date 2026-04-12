@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The study measures the causal effect of minimum wage changes on calories purchased and on the nutritional composition of calories purchased by minimum wage-earning households.",
+    "The study systematically documents how minimum wage-induced changes appear in shopping baskets, including purchases of new versus previously purchased UPCs and within-basket nutritional shifts.",
+    "The study links minimum wage policy to marketing implications by showing opportunities for promotion, product line planning, and retailer nudges when low-income households become more open to new grocery items."
+  ],
+  "context": "The paper is set in the U.S. grocery market and focuses on households likely to earn the minimum wage in localities where federal, state, or city/county minimum wages changed. The substantive issue is food insecurity and nutritional inequality among low-income households.",
+  "design_and_data": "The authors merge 10 years of Nielsen Homescan household grocery panel data (2007-2016) with Label Insight nutrition-label data for food UPCs. They classify treatment households as likely minimum wage earners using a locality-month minimum wage annual salary equivalent (MWASE) and compare them to households just above minimum wage in the same locality, while also estimating alternative specifications that use minimum wage households in other localities as controls. The final sample includes 560,717 household-month observations from 19,375 households (3,301 classified as minimum wage households). Outcomes are calories purchased (including per adult equivalent) and two diet-quality indices, a USDA Healthy Eating Index-based measure and a UKFSA Nutrient Profiling Model-based measure, estimated with difference-in-differences style regressions and fixed effects.",
+  "focal_constructs": [
+    "minimum wage increases",
+    "food insecurity",
+    "calories purchased",
+    "nutritional quality of purchases",
+    "Healthy Eating Index (HEI)",
+    "Nutrient Profiling Model (NPM)",
+    "shopping basket composition",
+    "new versus previously unpurchased UPCs"
+  ],
+  "main_findings": [
+    "Minimum wage increases raise calories purchased by likely minimum wage households, with estimated calorie elasticities around 0.4 to 0.6, and the response is strongest among households that purchased the fewest calories before the increase.",
+    "On average, minimum wage increases do not significantly change the nutritional quality of purchased calories as measured by the HEI- and NPM-based indices.",
+    "Heterogeneity is substantial: households with the least healthy pre-period baskets improve diet quality while those with the healthiest pre-period baskets worsen, and households that increase purchases also buy more new UPCs (about one-third of additional UPCs are previously unpurchased)."
+  ],
+  "one_line_summary": "Using U.S. household panel grocery data linked to nutrition labels, the paper finds that minimum wage increases causally increase calories purchased by likely minimum wage households but produce no average improvement in diet quality, with improvements concentrated among the least healthy and lowest-calorie households.",
+  "relation_to_prior_work": "extends prior food insecurity and SNAP-focused work by estimating causal effects of minimum wage changes on broad grocery nutrition outcomes rather than narrow self-reports or theoretical affordability calculations. It also extends marketing research on low-income consumers by showing basket-level mechanisms, including increased openness to new UPCs after wage increases.",
+  "research_gap": "The paper argues that evidence on how minimum wage changes affect consumer nutrition is surprisingly scant, with prior studies either using narrow self-reported food measures or not identifying a causal link between minimum wages and food purchases. It also highlights that spending responses to cash income are uncertain relative to SNAP, so it is unclear whether higher wages translate into more or healthier food purchases.",
+  "research_question": "Do increases in the minimum wage causally enable likely minimum wage-earning households to buy more calories and/or healthier calories in grocery purchases? How do any such changes manifest in shopping baskets, including adoption of new UPCs and the types of products households buy?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces the completeness heuristic: consumers treat completely shaped items as containing more quantity than incompletely shaped items, even when actual amount is held constant.",
+    "Shows across field and lab evidence that shape completeness affects size perceptions, preference/purchase likelihood, and actual consumption.",
+    "Demonstrates that product-category expectations determine whether a shape is seen as complete and that completeness can override primary-dimension cues unless expectations make holes or missing parts normative."
+  ],
+  "context": "The paper studies consumer decisions for everyday products, especially food portions and package forms (e.g., sandwiches, bread, cheese, chocolate, shampoo). Evidence comes from both a real lunch buffet setting with health care professionals and controlled computer/lab decision tasks.",
+  "design_and_data": "The authors report five experiments: a field buffet study (n=46) and four lab/computer studies (n=124, n=120, n=262, n=122), plus a separate manipulation-check sample (n=190). Across studies, products were manipulated to appear complete or incomplete while amount was held constant; in many stimuli, incomplete items had a larger primary dimension. Measures included product choice, purchase likelihood, perceived servings, coded verbal protocols, and in the final study actual chocolate pieces consumed. Study 4 also manipulated category labels (general vs specific, such as bread roll vs bagel, cheese slice vs Swiss cheese) and cognitive load.",
+  "focal_constructs": [
+    "product shape completeness",
+    "perceived quantity",
+    "size perceptions",
+    "purchase likelihood",
+    "consumption quantity",
+    "product category expectations",
+    "numerosity heuristic",
+    "primary dimension heuristic"
+  ],
+  "main_findings": [
+    "Participants generally judged completely shaped items as containing more servings/quantity than incompletely shaped items of equal amount.",
+    "Complete shapes increased preference and purchase likelihood, and perceived servings mediated this effect in Study 3.",
+    "When people could take or eat multiple units, they selected/consumed more incompletely shaped items (field sandwiches and lab chocolates); category-specific labels that made holes expected reduced or reversed the completeness effect."
+  ],
+  "one_line_summary": "Across five studies, the paper finds that shape completeness biases quantity perception so complete-looking products seem larger, increasing their preference, yet people consume more units when items are incompletely shaped.",
+  "relation_to_prior_work": "extends prior research on shape-based quantity judgments by identifying completeness as a distinct cue that can dominate primary-dimension effects when cues conflict. It also links completeness ideas from aesthetics and closure research to concrete marketplace outcomes, including purchase intentions and food consumption.",
+  "research_gap": "Prior work showed effects of package/product shape (e.g., primary dimension) and separate effects of completeness in aesthetics or ad design, but did not directly test whether perceived completeness of a product's physical shape biases quantity judgments. The paper addresses whether this bias explains downstream preference and consumption when objective quantity is constant.",
+  "research_question": "Do consumers perceive completely shaped products as larger than incompletely shaped products of equal size and weight, and does this perception affect preference and consumption? The paper also asks whether category expectations about what a product should look like moderate which shapes are treated as complete."
+}

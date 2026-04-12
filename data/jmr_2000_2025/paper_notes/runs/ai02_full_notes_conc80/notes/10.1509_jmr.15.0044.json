@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops an integrated engagement framework linking customer engagement, employee engagement, employee empowerment, and firm performance.",
+    "Develops and validates a new survey-based customer engagement scale and refines/validates a multidimensional employee engagement scale.",
+    "Implements and tests the framework in 120 U.S. companies over two time periods and offers managerial strategies plus the idea of an engagement orientation."
+  ],
+  "context": "The paper studies large U.S. firms across B2B and B2C settings and across service and manufacturing industries. Scale development also uses customer data from a mobile service provider and employee/customer respondents from multiple survey sources.",
+  "design_and_data": "The authors run three studies. Study 1 develops a customer engagement (CE) survey scale: a 24-item pool is pretested with 135 mobile-service customers, reduced to 16 items, then validated with 300 customers and additional data from MTurk telecom respondents (n=475), in-person respondents (n=118), and executive MBA respondents (n=169), using EFA/CFA and a second-order factor structure. Study 2 refines employee engagement (EE) items from prior work, pretests on MTurk employees (n=180), and validates with 750 employees from Fortune 500 firms; employee empowerment is measured with an adapted Menon scale. Study 3 applies the framework in 120 large U.S. public firms (62 B2B, 58 B2C; 52 manufacturing, 68 service) measured at two points (Aug 2013 and Aug 2014), and tests hypotheses with hierarchical difference regressions linking changes in CE/EE/empowerment to changes in revenue and net income, controlling for GDP.",
+  "focal_constructs": [
+    "customer engagement",
+    "employee engagement",
+    "employee empowerment",
+    "firm performance",
+    "customer purchases, referrals, influence, and knowledge",
+    "B2B vs B2C",
+    "service vs manufacturing",
+    "engagement orientation"
+  ],
+  "main_findings": [
+    "Employee engagement positively affects customer engagement, and this effect is strengthened by employee empowerment.",
+    "The EE to CE relationship is stronger in B2B than B2C firms and stronger in service than manufacturing firms.",
+    "Both CE and EE positively affect revenue and net income, the CE effect is stronger than the EE effect, and both effects are stronger in B2B and service firms."
+  ],
+  "one_line_summary": "The paper proposes and validates an integrated framework showing that employee and customer engagement jointly improve firm performance, with stronger effects under employee empowerment and in B2B/service contexts.",
+  "relation_to_prior_work": "introduces a joint marketing and management framework that combines customer engagement and employee engagement, addressing prior work that treated these streams largely separately, and provides survey operationalization plus firm-level empirical tests.",
+  "research_gap": "The authors state that prior literature had not examined the impact of engaging both customers and employees together on firm performance. They also argue that firms and researchers lacked readily usable survey-based measures to capture customer engagement comprehensively.",
+  "research_question": "How can firms define and measure customer engagement and employee engagement in a single framework, and how do these constructs affect firm performance? The paper also asks whether employee empowerment, firm type (B2B vs B2C), and industry type (service vs manufacturing) change the strength of these relationships."
+}

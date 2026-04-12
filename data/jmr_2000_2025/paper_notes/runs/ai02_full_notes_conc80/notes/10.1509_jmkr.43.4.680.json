@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper tests a two-stage choice model in a field setting using observed data for both stages (products viewed and products purchased).",
+    "It introduces attribute criterion probabilities to infer which attributes are used as decision criteria in each stage, while estimating preferences and heterogeneity in decision rules.",
+    "It incorporates interdependencies among Stage 1 choices through attribute dispersion, bringing a multiple-item choice feature into a two-stage model."
+  ],
+  "context": "The empirical setting is an online retailer of nutritional products, focusing on weight loss aids and meal replacements. Clickstream records capture sequences of product pages viewed and subsequent purchases during store visits.",
+  "design_and_data": "Data come from May-Nov 2000 clickstream logs at one online retailer. The analysis uses 142 buyers in weight loss aids (420 Stage 1 view choices and 278 Stage 2 purchase decisions) and 143 buyers in meal replacements (438 Stage 1 choices and 295 Stage 2 decisions), with 50 and 73 SKUs respectively and category-specific product attributes. The model treats each visit as a sequence of Stage 1 view decisions plus a stopping decision, and Stage 2 purchase/no-purchase decisions from the viewed set; Stage 1 utility includes attribute dispersion to capture dependence among viewed items, and both stages include probabilistic attribute inclusion via criterion probabilities. The proposed model is compared against null and alternative benchmark models and evaluated with holdout hit rates.",
+  "focal_constructs": [
+    "two-stage choice process",
+    "Stage 1 product viewing choice",
+    "Stage 2 purchase choice",
+    "attribute criterion probabilities",
+    "criterion attributes",
+    "attribute dispersion preferences",
+    "decision rule heterogeneity",
+    "clickstream search set"
+  ],
+  "main_findings": [
+    "Attributes used as criteria in Stage 1 differ from those used in Stage 2, and consumers on average use fewer criterion attributes in Stage 1, consistent with simpler early-stage rules.",
+    "The proposed model with criterion probabilities and Stage 1 interdependence fits better than benchmark models and yields higher out-of-sample hit rates, especially for Stage 1 choices.",
+    "Price and size tend to be considered in only one stage, whereas ingredient attributes tend to be considered in both stages."
+  ],
+  "one_line_summary": "The paper develops and empirically tests a clickstream-based two-stage choice model that jointly models product views and purchases with stage-varying decision rules and shows systematic differences in criterion attributes across stages.",
+  "relation_to_prior_work": "extends prior two-stage choice models by using observed Stage 1 clickstream behavior instead of treating Stage 1 as latent and by estimating stage-varying criterion-attribute use rather than imposing a fixed Stage 1 heuristic. It also adds Stage 1 interdependence through attribute dispersion, an element usually absent in earlier two-stage and consideration-set models.",
+  "research_gap": "Prior two-stage choice models generally could not observe Stage 1 directly, so they focused on inferring latent consideration/search rather than directly evaluating how decision rules differ across stages. Existing approaches also often imposed predetermined Stage 1 rules and did not model multiple-item interdependence in Stage 1 choices.",
+  "research_question": "Can an empirical two-stage model use observed clickstream choices for both product viewing and purchasing to infer attribute preferences and stage-specific criterion attributes? Do consumers apply simpler, subset-based decision rules in Stage 1 than in Stage 2 when both stages are observed and heterogeneity is allowed?"
+}

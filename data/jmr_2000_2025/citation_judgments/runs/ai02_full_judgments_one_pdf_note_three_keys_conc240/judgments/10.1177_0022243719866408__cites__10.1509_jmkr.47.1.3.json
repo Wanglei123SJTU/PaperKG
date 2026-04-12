@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in the methods section as a specific econometric basis for handling endogeneity, not just as general background. The authors explicitly state they use a two-stage control function approach and cite Petrin and Train (2010) when describing how they estimate a first-stage model and include residuals to correct bias. This citation therefore plays a clear functional role in model estimation and identification strategy.",
+  "relation_description": "The citing paper applies Petrin and Train's control function endogeneity correction in its empirical analysis of customer participation effects. It uses the same residual-inclusion logic from a first-stage equation to adjust outcome models for endogeneity.",
+  "relation_type": "applies"
+}

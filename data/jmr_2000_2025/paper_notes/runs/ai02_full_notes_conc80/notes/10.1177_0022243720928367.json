@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops a game-theoretic model of an online retail platform where a strategic platform sets referral fees, third-party sellers set prices, and consumers sequentially search differentiated products.",
+    "Characterizes how the platform should optimally adjust percentage referral fees when consumer search cost changes, showing demand-elasticity conditions under which the optimal fee falls versus rises.",
+    "Provides a formal analysis of platform filtering (filterable vs unfilterable match value) and shows its equilibrium effects are qualitatively different from those of search-cost reductions, including conditions for all-party gains."
+  ],
+  "context": "The paper studies online retail platforms such as Amazon/eBay where many independent sellers transact with consumers and pay platform referral fees. Consumers sequentially search products and may use platform filters on some product attributes.",
+  "design_and_data": "The study is theoretical and uses an analytical game-theoretic model with many horizontally differentiated sellers, consumer outside options, and sequential search with search cost. Match value is decomposed into filterable and unfilterable components, and filtering reveals only the filterable part before search. The authors derive symmetric pure-strategy equilibria under two fee regimes: exogenous referral fee (short run) and endogenous platform-optimized fee (long run), and compare outcomes with and without filtering. They also provide numerical examples and robustness extensions (heterogeneous search costs, heterogeneous product quality, fixed per-unit fee, and competing platforms).",
+  "focal_constructs": [
+    "consumer search cost",
+    "platform referral fee",
+    "sequential search",
+    "filtering",
+    "seller price competition",
+    "demand elasticity",
+    "consumer outside option",
+    "equilibrium retail price"
+  ],
+  "main_findings": [
+    "With an exogenous referral fee, lower consumer search cost decreases equilibrium retail prices and increases platform demand, but seller profit and platform profit can either increase or decrease.",
+    "When the platform optimally chooses its referral fee, a reduction in search cost strictly increases platform profit; the optimal fee decreases if demand elasticity rises sufficiently, but otherwise increases and can raise equilibrium retail prices.",
+    "Filtering makes consumers search fewer products in expectation while purchasing products with higher match values; filtering can increase or decrease equilibrium prices, and when filtering reveals only a small share of match-value variation (with exogenous fee), it increases platform demand, seller profit, platform profit, and consumer surplus."
+  ],
+  "one_line_summary": "The paper shows in a platform-mediated search market that search-cost reductions and filtering affect pricing and welfare through different mechanisms, especially once the platform endogenously adjusts referral fees.",
+  "relation_to_prior_work": "extends consumer search theory from direct-selling settings to online retail platforms where an intermediary strategically sets referral fees for many competing third-party sellers. introduces a filtering mechanism as partial pre-search revelation of match values and contrasts its implications with search-cost reductions and targeted-search style mechanisms.",
+  "research_gap": "Prior work gives limited guidance on how consumer search cost changes affect a retail platform's optimal referral-fee choice, often treating platform fees as exogenous or omitting the platform. The literature also lacks a clear analysis of how platform filtering affects platform, seller, and consumer outcomes and how those effects differ from a pure reduction in search cost.",
+  "research_question": "How do changes in consumer search cost affect equilibrium prices, demand, profits, and the platform's optimal referral-fee decision in online retail platforms with third-party sellers? How does platform filtering alter consumer search behavior and market outcomes, and in what ways do filtering effects differ from those of lowering search cost?"
+}

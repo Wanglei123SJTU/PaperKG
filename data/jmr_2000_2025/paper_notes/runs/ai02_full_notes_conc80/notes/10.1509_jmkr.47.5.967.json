@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides a systematic conceptual and empirical assessment of five chronic regulatory focus measures used in consumer research.",
+    "It offers measure-specific guidance on when each scale is most appropriate, with the RFQ recommended as the best general-purpose option.",
+    "It proposes and preliminarily validates a composite chronic regulatory focus scale intended to address RFQ limitations in emotional content and time orientation."
+  ],
+  "context": "The paper is set in consumer and marketing research applications of regulatory focus theory. Evidence comes mainly from student participants completing marketing-relevant judgment, choice, and persuasion tasks, including product adoption, job and investment preferences, PSA evaluations, creativity, and movie consideration sets.",
+  "design_and_data": "Across a series of studies, the authors compare five chronic measures: RFQ, BIS/BAS, selves questionnaire, self-guide strength latencies, and the Lockwood scale. Study 1 uses student samples (N=174; replication N=232) to test interscale convergence and factor structure. Study 2 uses a two-wave online test-retest design (N=197, about five weeks apart) and CFAs for summated scales to assess homogeneity and stability. Studies 3a (N=367) and 3b (N=180, multi-session over about three months) test predictive validity on seven outcomes; the authors also evaluate a 10-item composite scale built from RFQ, BIS/BAS, and Lockwood items.",
+  "focal_constructs": [
+    "chronic regulatory focus",
+    "promotion focus",
+    "prevention focus",
+    "measure convergence",
+    "scale representativeness",
+    "internal consistency and homogeneity",
+    "test-retest stability",
+    "predictive validity"
+  ],
+  "main_findings": [
+    "Corresponding promotion and prevention subscales across measures showed low convergence, with most correlations below .30 and only moderate overlap between BIS/BAS and Lockwood components.",
+    "The RFQ showed the strongest overall performance (adequate reliability, homogeneity, and stability, and the best predictive validity), while the selves and self-guide strength measures showed weaker reliability or stability.",
+    "Predictive validity differed by outcome across measures, and the proposed 10-item composite scale demonstrated adequate psychometric properties and predictive performance comparable to the RFQ in the reported tests."
+  ],
+  "one_line_summary": "Across multiple studies, the paper compares five chronic regulatory focus measures in consumer research and finds weak convergence, differential psychometric performance, and practical advantages for the RFQ and a proposed composite scale.",
+  "relation_to_prior_work": "extends prior regulatory focus research by comparing chronic measurement approaches that earlier studies had used separately without direct evaluation. It introduces evidence-based recommendations for scale selection and adds a composite measure for broader coverage of theory-relevant content.",
+  "research_gap": "Consumer researchers had been using several different chronic regulatory focus measures with little guidance on how they overlap or differ. Prior work had not systematically compared these measures on theoretical content, psychometric properties, and suitability across study contexts.",
+  "research_question": "How similar are the major chronic regulatory focus measures used in consumer research, and which ones best capture promotion and prevention orientations? The authors ask whether the five measures differ in theoretical representativeness, internal consistency and homogeneity, stability over time, and predictive validity for regulatory-focus-relevant outcomes."
+}

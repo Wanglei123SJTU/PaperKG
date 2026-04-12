@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and tests a knowledge fit hypothesis: brand evaluations become more favorable when prior category knowledge matches how message information is processed or represented.",
+    "It identifies a metacognitive mechanism, showing that subjective processing fluency partially mediates these fit effects.",
+    "It extends prior knowledge work beyond message content matching by showing that processing mode and construal level are additional persuasion levers."
+  ],
+  "context": "The studies are in consumer product evaluation contexts using laundry detergent and MP3 players. Participants are undergraduate students in lab tasks involving brand choice matrices and advertisement evaluations.",
+  "design_and_data": "The paper reports four experiments (Study 1: N=48; Study 2: N=66; Study 3: N=55; Study 4: N=56). Prior knowledge is measured with 12-item true/false category quizzes in Studies 1, 3, and 4, and manipulated via a training article in Study 2. Studies 1 and 2 manipulate processing mode (progressive elimination vs full assessment comparisons), while Studies 3 and 4 manipulate construal level (high vs low wording, and distant vs near temporal framing). Brand evaluation is measured with multi-item scales, and mediation by processing fluency is tested in Studies 2 and 4 using regression steps and Sobel tests.",
+  "focal_constructs": [
+    "prior category knowledge",
+    "expertise",
+    "processing fluency",
+    "knowledge fit",
+    "processing mode (progress vs assessment)",
+    "construal level (high vs low)",
+    "brand evaluation"
+  ],
+  "main_findings": [
+    "For consumers with extensive prior knowledge, progress-mode processing yields more favorable brand evaluations than assessment mode, whereas limited-knowledge consumers show the reverse pattern.",
+    "For consumers with extensive prior knowledge, high-level construal (including distant-future framing) yields more favorable evaluations than low-level construal, whereas limited-knowledge consumers show the reverse pattern.",
+    "In Studies 2 and 4, subjective processing fluency significantly and partially mediates the effect of knowledge-processing fit on brand evaluations."
+  ],
+  "one_line_summary": "Across four experiments, the paper shows that brand judgments are more favorable when message processing style fits consumers' prior category knowledge, partly because this fit increases processing fluency.",
+  "relation_to_prior_work": "extends prior knowledge research by moving beyond content congruence to show that fit between knowledge-linked processing proclivities and message processing style affects persuasion, and it connects this effect to regulatory-fit and fluency accounts.",
+  "research_gap": "Prior research had shown that matching message content to consumer knowledge matters and that fit effects in other domains can influence judgments via subjective experience, but it had not clearly tested fit between prior knowledge and processing strategy. The paper addresses this by examining fit on processing mode and construal level and testing processing fluency as the mechanism.",
+  "research_question": "How does consumers' prior category knowledge interact with message processing strategy to shape brand evaluation? Specifically, do evaluations improve when extensive-knowledge consumers receive progress-oriented or high-construal processing conditions, while limited-knowledge consumers receive assessment-oriented or low-construal conditions, and is this effect explained by processing fluency?"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "Spiller et al. (2013) is cited in the methods/results sections rather than only in general background. The authors explicitly say they followed its recommendations for probing moderated regressions, including a Johnson-Neyman floodlight analysis in Study 2, and cite it for interpreting interaction-model coefficients. Because these choices are part of how the paper tests its hypotheses, the citation has a clear substantive methodological function.",
+  "relation_description": "The citing paper applies Spiller et al. (2013) as an analysis guide for interaction probing in moderated regression, especially via floodlight (Johnson-Neyman) tests. It uses that work to justify and interpret its simple-effects and coefficient analyses.",
+  "relation_type": "applies"
+}

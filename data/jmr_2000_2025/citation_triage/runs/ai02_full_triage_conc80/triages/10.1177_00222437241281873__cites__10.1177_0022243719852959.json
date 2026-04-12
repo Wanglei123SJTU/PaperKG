@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s core contribution is that linguistic features from users’ post histories improve prediction beyond sociodemographic/platform variables, and its design explicitly uses LIWC-style text cues plus ML models. The cited paper is a closely parallel prior result showing text features add incremental predictive power beyond structured variables and also uses LIWC/text-mining pipelines, so this is plausibly a substantive methodological/foundational citation rather than an obvious incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

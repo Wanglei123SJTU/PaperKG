@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper explicitly develops and tests hypotheses about synergies among display, feature advertising, price promotions, and brand price-quality tier.",
+    "It proposes a consumer decision-making mechanism based on comparison difficulty (joint versus separate evaluation) to explain when promotion effects differ by tier.",
+    "By combining scanner analysis with two experiments, including an Internet study, it claims both external and internal validity for these promotion-by-tier effects."
+  ],
+  "context": "The paper studies retail promotion effectiveness for brands in different price-quality tiers, especially national versus private-label brands in consumer goods. Empirical settings include 16-ounce saltine crackers in three U.S. markets and controlled multi-category choice tasks, including Internet shopping.",
+  "design_and_data": "Study 1 uses IRI household scanner data for 16-ounce saltine crackers (1984-1985) in Williamsport, PA, Midland, TX, and Rome, GA, and estimates a multinomial logit with regular price, promotion indicators, interaction terms, and tier-specific interactions. The scanner sample covers 2057 medium/heavy households and reports 27,768 observations, with 19,389 remaining after initialization for brand-loyalty history. Study 2 is a paper-and-pencil 2 x 3 between-subject experiment (n = 378) that manipulates direct comparison versus separate evaluation and which tier is on sale across four categories. Study 3 is an Internet-based 2 x 3 between-subject experiment (n = 491) with randomized assignment, realistic product pages, and purchase-related incentives.",
+  "focal_constructs": [
+    "price promotions",
+    "end-of-aisle displays",
+    "feature advertising",
+    "brand price-quality tier",
+    "joint versus separate evaluation",
+    "promotion interaction effects",
+    "brand choice share"
+  ],
+  "main_findings": [
+    "In scanner data, high-tier brands benefited more than low-tier brands from stand-alone price promotions, displays, and feature advertising.",
+    "When brands were separated (or when price promotions were paired with separating contexts), price-promotion effects became more equal across low-tier and high-tier brands.",
+    "The interaction effects of price promotion with display, and of price promotion with feature advertising, were more positive or less negative for low-tier brands than for high-tier brands; high-tier brands often showed subadditive combined effects."
+  ],
+  "one_line_summary": "Across scanner data and two experiments, the paper shows that high-tier brands gain more from stand-alone promotions, but combining price promotions with separating contexts (display or feature) reduces that high-tier advantage and relatively favors low-tier brands.",
+  "relation_to_prior_work": "extends prior research on display-feature-price interactions by showing that interaction patterns depend on brand price-quality tier and on whether the decision context encourages direct comparison or separate evaluation. It applies joint-versus-separate evaluation ideas from consumer decision-making to explain conflicting prior promotion results.",
+  "research_gap": "Prior findings on synergies among price promotions, displays, and features were mixed, and few empirical results had clarified when these interactions should be positive, null, or negative. The literature also had limited evidence on whether promotion effects and promotion combinations differ systematically between high-tier and low-tier (including private-label) brands.",
+  "research_question": "How do display, feature advertising, and price promotions interact with brand price-quality tier to affect brand choice? In particular, does the usual advantage of high-tier brands from stand-alone promotions persist when price promotions are combined with separating contexts that make brand comparisons more difficult?"
+}

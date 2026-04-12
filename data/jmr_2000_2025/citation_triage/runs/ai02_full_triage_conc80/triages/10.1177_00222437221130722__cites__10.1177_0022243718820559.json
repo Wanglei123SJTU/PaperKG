@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s core method is topic-model based (attribute-level mixed membership) and it explicitly positions itself against prior LDA-based assortment approaches, while the cited paper introduces a guided LDA methodology for feature construction and prediction improvement. Given this clear methodological overlap and the possibility that the cited work is being used as a method/theory antecedent (not just a generic mention), this pair should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

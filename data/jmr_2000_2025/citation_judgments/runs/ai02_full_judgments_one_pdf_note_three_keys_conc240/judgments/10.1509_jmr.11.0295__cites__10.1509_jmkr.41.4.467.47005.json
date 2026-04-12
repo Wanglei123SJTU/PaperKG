@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Manchanda, Rossi, and Chintagunta (2004) in a dedicated endogeneity section and explicitly states that it adopts their approach. It implements that approach in its own model by specifying marketing contacts as a Poisson process with a mean linked to individual response parameters, and it repeats the cited paper's logic about bias removal and improved precision. The citation is therefore a concrete methodological input to model construction and interpretation, not a background mention.",
+  "relation_description": "The citing study applies Manchanda et al. (2004)'s endogeneity-correction framework for nonrandom marketing actions within its hierarchical Bayesian HMM/Tobit setting. It transfers that method to a B2B buyer-seller relationship and ROMI context rather than merely citing it as general prior work.",
+  "relation_type": "applies"
+}

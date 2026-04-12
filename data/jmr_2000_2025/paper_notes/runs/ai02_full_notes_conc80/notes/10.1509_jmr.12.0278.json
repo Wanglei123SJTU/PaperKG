@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper extends advertising-finance research by showing an asymmetric moderating role: advertising strengthens the stock return impact of positive news but not negative news across a broad multi-industry sample.",
+    "The paper contributes to marketing capability research by showing that marketing capability moderates the news-stock return link, especially by mitigating the harm of negative news.",
+    "The paper claims to be the first marketing study to directly test two mechanisms - cash flow effects and investor attention effects - using cash-flow outcomes, insider trading, Google ticker searches, and trading volume."
+  ],
+  "context": "The study is set in publicly traded firms and examines how sentiment in firm-related newspaper coverage affects stock market outcomes. The empirical setting spans large firms from multiple U.S. industry groups over 2004-2010.",
+  "design_and_data": "The authors build an unbalanced monthly panel of 141 large firms from November 2004 to February 2010 (7,880 firm-month observations). News sentiment data (positive, negative, neutral references) come from Lydia/TextMap, advertising spending from TNS Ad$pender, stock and factor data from CRSP and Kenneth French data, analyst forecasts from I/B/E/S, accounting data from Compustat, and event controls from Factiva and recall sources. The main model is a dynamic panel Arellano-Bond GMM specification with lagged dependent variables, interactions, and controls, designed to address endogeneity and unobserved firm effects. Robustness checks use firm-level VAR impulse response analyses, matched portfolio tests, and alternative variable constructions; mechanism tests examine future cash-flow level/volatility, insider purchases, Google ticker searches, and trading volume.",
+  "focal_constructs": [
+    "advertising spending",
+    "marketing capability",
+    "positive news sentiment",
+    "negative news sentiment",
+    "abnormal stock returns",
+    "future cash-flow level",
+    "cash-flow volatility",
+    "investor attention"
+  ],
+  "main_findings": [
+    "Positive news sentiment is associated with higher abnormal stock returns, while negative news sentiment is associated with lower abnormal stock returns.",
+    "Advertising positively moderates the effect of positive news on abnormal stock returns, but its interaction with negative news is not significant.",
+    "Marketing capability positively moderates the effect of negative news on abnormal stock returns, and additional analyses link this effect to improved future cash-flow level and volatility, while advertising's moderation operates through investor attention and trading response rather than future cash flows."
+  ],
+  "one_line_summary": "Using a multi-industry panel of public firms, the paper finds that advertising turns good news into greater stock gains and marketing capability turns bad news into less severe stock losses via different mechanisms.",
+  "relation_to_prior_work": "extends prior marketing-finance work that largely focuses on direct advertising effects on stock outcomes by modeling advertising as a moderator of news sentiment and testing an investor-attention pathway. It also extends marketing capability research from profitability and brand outcomes to moderation of news shocks in capital markets and links this moderation to cash-flow dynamics.",
+  "research_gap": "The paper states that little research examines whether and how manager-controllable marketing factors shape the stock market impact of firm-related news sentiment. Prior work also focuses mostly on direct effects of advertising and provides limited evidence on moderating effects and underlying mechanisms.",
+  "research_question": "Do advertising spending and marketing capability enable firms to amplify or mitigate the effects of positive and negative news stories on abnormal stock returns? If so, through what mechanisms do these moderating effects occur, specifically via future cash-flow changes versus investor attention and response?"
+}

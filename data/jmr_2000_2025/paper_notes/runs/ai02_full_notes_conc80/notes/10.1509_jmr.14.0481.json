@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "Introduces a two-parameter time-preference account of mortgage behavior that separates present bias from long-term discounting and applies it to both mortgage choice and mortgage management.",
+    "Shows empirically, using elicited preference parameters and mortgage data, that these two time-preference components have distinct and sometimes opposing relationships with mortgage outcomes.",
+    "Highlights a reversal in the role of present bias across decisions: it is associated with choosing back-loaded mortgages but with lower willingness to abandon underwater mortgages."
+  ],
+  "context": "The paper studies U.S. homeowners with mortgage debt, focusing on initial contract choice (e.g., back-loaded/adjustable structures) and later strategic default after housing price declines. The empirical setting combines individual household responses with zip code-level housing market and foreclosure conditions.",
+  "design_and_data": "The authors develop an analytic quasihyperbolic model of mortgage choice and maintenance, contrasting back-loaded contracts (illustrated with a 2/28 ARM) and front-loaded contracts (30-year fixed). A pilot analysis uses a nationally representative commercial household survey with an impatience measure and tests links to adjustable-rate and interest-only mortgage holdings via survey-weighted logistic regressions. The main study is an Internet survey of 244 U.S. mortgaged homeowners (120 underwater, 124 positive equity) fielded in 2010, with incentive-compatible adaptive elicitation of present bias and long-term discounting (DEEP) plus risk-preference parameters and financial-literacy/cognition measures. Self-reports are augmented with Zillow zip code home-price data and BlackBox foreclosure/short-sale rates, and key relationships are estimated with simultaneous-equation 3SLS models for underwater status and walk-away intentions.",
+  "focal_constructs": [
+    "present bias",
+    "long-term discounting",
+    "quasihyperbolic time preferences",
+    "back-loaded mortgage choice",
+    "negative home equity (underwater status)",
+    "strategic default (walking away)"
+  ],
+  "main_findings": [
+    "In the pilot, greater impatience is associated with higher likelihood of holding adjustable-rate and interest-only mortgages; each 10% increase in impatience corresponds to about a 15% increase in these outcomes.",
+    "In the main study, stronger present bias and stronger long-term discounting are each associated with being more underwater, and these links persist across controls for local prices, mortgage burden, risk-preference parameters, literacy, cognition, and other factors.",
+    "Present bias and long-term discounting have opposite associations with strategic default intentions: more present-biased homeowners are less willing to walk away, while homeowners with greater long-term discounting are more willing to walk away."
+  ],
+  "one_line_summary": "Using an analytic model and U.S. homeowner survey plus local housing data, the paper finds that present bias and long-term discounting jointly explain mortgage back-loading and underwater status, but predict opposite tendencies to strategically default.",
+  "relation_to_prior_work": "extends prior mortgage-choice work that typically assumes a common exponential discount rate by modeling heterogeneous present bias and long-term discounting. It applies this behavioral time-preference framework to both initial mortgage selection and subsequent default decisions, rather than treating mortgage choice as a single static optimization problem.",
+  "research_gap": "Prior mortgage research largely relies on exponential discounting with discount rates treated as stable across people and horizons. The paper argues this leaves unresolved how heterogeneous present bias and long-term discounting shape linked decisions over the mortgage lifecycle, including abandonment.",
+  "research_question": "How do individual differences in time preferences affect mortgage decisions over time? Specifically, does separating present bias from long-term discounting help explain who chooses back-loaded mortgages, who becomes underwater, and who is willing to strategically default?"
+}

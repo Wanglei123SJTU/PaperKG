@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a two-dimensional view of revealed satisfaction, separating satisfaction level (magnitude) from satisfaction strength (certainty/uncertainty), and operationalizes this decomposition with the JUMP modeling approach.",
+    "Across two empirical studies, it shows that satisfaction strength is a central factor in whether stated satisfaction translates into loyalty, helping identify customers who report high satisfaction yet remain vulnerable.",
+    "It argues and finds that prior relational experience variables can intensify, rather than buffer, the harmful effect of weakly held satisfaction on the satisfaction-loyalty link."
+  ],
+  "context": "The paper examines service relationships in two settings: an ongoing business-to-business service context using customers of a large U.S.- and Canada-based provider, and a business-to-consumer service failure/recovery context across multiple service industries.",
+  "design_and_data": "Study 1 uses an ongoing national customer satisfaction tracking dataset from one large B2B service firm (n = 25,489), based on monthly telephone surveys combined with firm records on relationship duration and sales volume. Satisfaction is decomposed into level and uncertainty using the JUMP-style heteroskedastic framework (feasible GLS), and loyalty (recommend/not recommend) is modeled with probit including territory controls and interaction terms. Study 2 is a conceptual replication using cross-sectional complaint-recovery survey data from Tax, Brown, and Chandrashekaran (1998) (n = 221). It models justice perceptions as antecedents of satisfaction level and uncertainty and tests loyalty (commitment and word-of-mouth propensity composite) with interactions involving satisfaction uncertainty and favorability of prior experience.",
+  "focal_constructs": [
+    "satisfaction level",
+    "satisfaction strength",
+    "satisfaction uncertainty",
+    "customer loyalty",
+    "satisfaction-loyalty translation",
+    "prior relational experience",
+    "service recovery justice perceptions"
+  ],
+  "main_findings": [
+    "In both studies, stated satisfaction positively predicts loyalty, but this translation drops sharply as satisfaction uncertainty rises; the net translation is about 60% lower in Study 1 and 57% lower in Study 2 from strongest- to weakest-held satisfaction.",
+    "Study 1 shows that attribute quality perceptions and territory responsiveness increase satisfaction level and strength, while satisfaction with the representative increases satisfaction level but also increases uncertainty (weaker strength).",
+    "Prior relational experience shows an isolation pattern: longer relationships and higher sales volume (Study 1), and more favorable prior experience (Study 2), amplify the negative effect of satisfaction uncertainty on the satisfaction-loyalty translation (largest reductions about 77-78%)."
+  ],
+  "one_line_summary": "Using two service datasets, the paper decomposes stated satisfaction into level and strength and shows that weakly held satisfaction substantially weakens the satisfaction-to-loyalty link, especially for customers with strong prior relationships.",
+  "relation_to_prior_work": "extends prior satisfaction research that emphasized satisfaction magnitude by incorporating judgment strength/uncertainty into the satisfaction-loyalty process via the JUMP framework. It refines expectations about relational history by showing that prior positive or extensive relationships do not necessarily insulate loyalty when satisfaction is weakly held.",
+  "research_gap": "The paper argues that most satisfaction research treats satisfaction as a point magnitude and largely ignores the strength or uncertainty with which the judgment is held. Because of this, prior work provides limited insight into why many customers who report high satisfaction still fail to translate that satisfaction into loyalty, and how prior relational experience shapes this vulnerability.",
+  "research_question": "Which customers are vulnerable to defection despite reporting high satisfaction? Specifically, does satisfaction strength (certainty vs. uncertainty) moderate how strongly stated satisfaction translates into loyalty, and do prior relational experience factors (relationship length, business volume, prior favorability) mitigate or exacerbate this effect?"
+}

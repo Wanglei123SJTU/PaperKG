@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper clarifies that for recurrent strategy-related events, announcement-window CARs reflect expectation updates, not the full standalone value of the announced action.",
+    "It proposes three measurable drivers of investor expectations in innovation contexts: the firm's past new product announcement count, competitors' past announcement activity, and past public news sentiment about the firm.",
+    "It shows that short-term announcement reactions can differ from long-term value creation, with implications for how firms evaluate innovation and marketing performance."
+  ],
+  "context": "The study is set in U.S. equity markets and examines new product press-release announcements by publicly traded firms across multiple industries. It focuses on product announcements as recurring manifestations of broader innovation strategy.",
+  "design_and_data": "The authors collect new product announcements from RavenPack and validate them through manual content analysis and archival searches for earlier product mentions and confounding events. The final sample includes 4,865 announcements by 826 U.S. firms (events in 2008-2011, with 2007 used for rolling-history measures), merged with CRSP returns and Compustat accounting data. They estimate random-effects panel models with two-way clustered standard errors for preannouncement Tobin's q and announcement-window CARs over [-2,+2]. Robustness checks include alternative return models (Fama-French-Carhart), winsorization, subsample analyses, and a long-term calendar-time portfolio test based on unexpected innovation output.",
+  "focal_constructs": [
+    "investor expectations",
+    "new product announcement history",
+    "competitors' innovation announcement activity",
+    "past news sentiment",
+    "cumulative abnormal returns",
+    "Tobin's q",
+    "unexpected innovation output"
+  ],
+  "main_findings": [
+    "Announcement-window CARs are negatively related to the firm's prior new product announcement count, competitors' prior announcement activity, and prior average news sentiment.",
+    "These same three factors are positively related to firm value measured immediately before each announcement (Tobin's q), controlling for value effects directly attributable to past announcement surprises and other controls.",
+    "Long-term abnormal stock performance is positively related to unexpected innovation output (top-minus-bottom quintile spread about 7.19% per year), even though frequent innovators tend to have lower short-term announcement CARs."
+  ],
+  "one_line_summary": "Using 4,865 U.S. new product announcements, the paper finds that past firm and industry signals raise preannouncement valuation but dampen announcement-day stock reactions because investors had already formed innovation expectations.",
+  "relation_to_prior_work": "extends prior event-study work on innovation, including Sood and Tellis (2009), by arguing and showing that announcement returns are shaped by expectations from firms' broader innovation histories even without product-specific prior disclosure. It also reinterprets common marketing event-study inferences for recurring strategy-linked events.",
+  "research_gap": "The paper argues that many marketing event studies of recurring corporate actions interpret announcement-window CARs as if all event information were new, without adequately accounting for pre-event expectations. In new product announcement research, prior evidence on how past innovation activity affects CARs is mixed and does not jointly establish the preannouncement valuation channel.",
+  "research_question": "How do investors' expectations formed from a firm's and its industry's past activities shape stock market responses to new product announcements? Specifically, do past firm announcements, competitors' announcement intensity, and past news sentiment increase preannouncement firm value while reducing announcement-day abnormal returns?"
+}

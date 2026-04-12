@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The authors introduce a knowledge-transfer model of individual adoption in which attribute mutability influences perceived innovation continuity, and prior knowledge affects comprehension and net benefits that shape preferences.",
+    "They explicitly show that the expertise-adoption link is conditional on innovation continuity: expertise helps for continuous innovations but can hinder response to discontinuous innovations because of entrenched knowledge structures.",
+    "They argue that multiple knowledge bases influence discontinuous innovation response, with supplementary-domain knowledge able to improve experts' understanding and evaluations when relevant."
+  ],
+  "context": "The studies examine consumer reactions to new product advertisements in two categories: cameras and automobiles. Discontinuous targets are a digital camera and an electric car, contrasted with more continuous innovations (a film camera with new flash technology and a traditional car with enhanced engine power).",
+  "design_and_data": "The paper reports two experiments that manipulate innovation continuity and measure objective knowledge in a primary base domain and a supplementary domain. Study 1 used 58 paid student participants who evaluated either a continuous film-camera ad or a discontinuous digital-camera ad; camera knowledge (primary) and computer knowledge (supplementary) were measured, and outcomes were captured with verbal protocol coding plus scales for comprehension, net benefits, and preference. Study 2 used 110 undergraduates (104 retained after excluding prior direct electric-car experience) who evaluated either a continuous traditional-car ad or a discontinuous electric-car ad; car and electricity knowledge tests, written protocols, and scales measured comprehension, net benefits, transfer-question types, and preferences. Additional pretests and feature-mutability tasks with separate student samples established that film (camera category) and engine (car category) were highly immutable and that the discontinuous stimuli were perceived as more discontinuous.",
+  "focal_constructs": [
+    "objective product knowledge",
+    "innovation continuity/discontinuity",
+    "attribute mutability",
+    "primary base domain knowledge",
+    "supplementary base domain knowledge",
+    "comprehension",
+    "perceived net benefits (relative advantages minus risks)",
+    "new product preference"
+  ],
+  "main_findings": [
+    "Innovation continuity significantly moderated expertise effects: primary-domain expertise increased comprehension and perceived net benefits for continuous innovations but decreased both for discontinuous innovations.",
+    "Supplementary knowledge improved processing of discontinuous innovations, but differently across contexts: computer knowledge had an additive positive effect on digital-camera comprehension, whereas electricity knowledge interacted with car knowledge to raise electric-car comprehension and net benefits.",
+    "Comprehension and perceived net benefits were positive predictors of preference and mediated knowledge-by-continuity effects (strongly in Study 1 and partially in Study 2)."
+  ],
+  "one_line_summary": "Across two experiments on cameras and cars, the paper finds that primary-domain expertise helps adoption of continuous innovations but can impede response to discontinuous innovations unless relevant supplementary knowledge is available.",
+  "relation_to_prior_work": "extends diffusion research centered on aggregate adoption by specifying individual-level cognitive mechanisms behind adoption decisions. It links diffusion constructs such as complexity, relative advantage, and risk to analogical knowledge-transfer processes from consumer behavior and cognitive psychology.",
+  "research_gap": "The paper states that diffusion models have explained aggregate adoption patterns well, but relatively little research has examined the psychological processes underlying individual adoption decisions. It further notes limited work on determinants of comprehension, relative advantage, and risk perceptions in new product evaluation.",
+  "research_question": "How does consumers' objective knowledge in an existing product category influence comprehension, perceived relative advantages and risks, and preferences for new products? Does this relationship differ for continuous versus discontinuous innovations, and can supplementary-domain knowledge improve responses to discontinuous innovations?"
+}

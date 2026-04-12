@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "This study is the first to directly link market orientation to advertising spending decisions across economic contraction and expansion periods.",
+    "By separating market orientation into intelligence and responsiveness facets, the paper shows that aggregate market-orientation measures can mask opposite facet-level effects during crisis conditions.",
+    "The paper provides managerial guidance for downturns by showing that investing in responsiveness helps firms increase advertising countercyclically and realize performance benefits, especially under high industry turbulence."
+  ],
+  "context": "The empirical setting is Turkey's 2001 economic collapse, followed by a comparison expansion period (2007). The sample covers large Turkish manufacturers across multiple industries, drawn from the Istanbul Chamber of Industry top-1000 lists.",
+  "design_and_data": "The authors use survey and archival data in a natural field setting: 403 usable firm responses for the 2001 contraction period (collected in 2002) and a comparable 302-firm sample for the 2007 expansion period (collected in 2008). Key informants were top executives, and constructs were measured with established multi-item scales (e.g., MARKOR facets; industry turbulence dimensions) plus objective controls from industry and chamber records. They estimate path models testing main, moderation, and mediation effects, with robustness checks for industry controls, goods vs. services, key-informant validity, and endogeneity.",
+  "focal_constructs": [
+    "market orientation",
+    "intelligence generation and dissemination",
+    "responsiveness activities",
+    "change in advertising spending",
+    "industry turbulence",
+    "business performance",
+    "economic contraction vs. expansion"
+  ],
+  "main_findings": [
+    "During the 2001 contraction, responsiveness was positively associated with increases in advertising spending, while intelligence was negatively associated (weaker/marginal) with advertising spending change.",
+    "Industry turbulence strengthened the positive responsiveness-advertising link, but did not significantly strengthen the negative intelligence-advertising link.",
+    "Increases in advertising spending during contraction predicted better business performance, and responsiveness had a significant indirect positive effect on performance through advertising; in the 2007 expansion sample, these facet-level advertising effects were not significant."
+  ],
+  "one_line_summary": "Using Turkish firms around the 2001 collapse, the paper shows that market-orientation responsiveness, rather than intelligence, is associated with countercyclical advertising increases that improve subsequent business performance.",
+  "relation_to_prior_work": "introduces a direct empirical link between market orientation and advertising spending, which the authors note had not been tested in contraction or expansion periods, and challenges views that market orientation in crises is mainly inertial by isolating a positive role for responsiveness.",
+  "research_gap": "Prior work had shown that both market orientation and advertising can influence firm performance, but had not examined whether and how market orientation is related to advertising spending decisions during macroeconomic contractions versus expansions. The authors also identify unanswered questions about which firms increase advertising in downturns and how industry conditions shape that choice.",
+  "research_question": "Why do some firms increase advertising spending during an economic contraction while most firms cut back? Specifically, how do the intelligence and responsiveness facets of market orientation, and industry turbulence, relate to changes in advertising spending, and do those changes translate into better business performance?"
+}

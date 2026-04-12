@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Shows that discount factors can be identified by combining static and dynamic observations when controls are continuous and the objective function is concave.",
+    "Provides a field-data implementation, with Monte Carlo evidence, of recovering utility/shock parameters from static decisions and then identifying discounting from dynamic decisions.",
+    "Demonstrates that misspecifying discount rates can bias price sensitivity, intertemporal substitution predictions, demand elasticities, and pricing policy recommendations."
+  ],
+  "context": "The empirical setting is mobile telephony in China, where a major carrier moved randomly selected users from linear pay-per-minute pricing to three-part tariff plans with allowance and overage charges. This switch creates both static and dynamic decision environments for the same type of usage behavior.",
+  "design_and_data": "The data cover September 2004 to January 2005 from a large Chinese mobile carrier; early months provide monthly aggregate usage/expenditure, and January provides call-level records (start time, duration, expense) plus demographics. The main field estimation uses consumers enrolled in a focal three-part plan (98 RMB fee, 450-minute allowance, 0.4 RMB overage). The authors estimate a finite-horizon dynamic usage model with continuous controls, identifying utility and shock distribution from linear-plan data and terminal-period usage, then estimating discount factors from dynamic periods under three-part tariffs using simulated maximum likelihood with numerical approximation. They also run Monte Carlo simulations (N=50, 75, 100) to assess identification and sampling properties with and without static data.",
+  "focal_constructs": [
+    "consumer discount factor",
+    "dynamic structural model identification",
+    "static versus dynamic decision contexts",
+    "three-part tariff usage allocation",
+    "intertemporal substitution",
+    "price sensitivity",
+    "demand elasticities"
+  ],
+  "main_findings": [
+    "The estimated weekly discount factor is approximately 0.90, with a 95% confidence interval of 0.78 to 0.97, which is below commonly assumed values such as 0.995.",
+    "Imposing a weekly discount factor of 0.995 understates the price coefficient by about 16% and worsens demand-fit metrics, including about a 29% deterioration in MAPE.",
+    "Using the misspecified 0.995 discount factor yields biased intertemporal substitution forecasts and suboptimal pricing recommendations that reduce potential revenue gains by about 76% in their policy exercise."
+  ],
+  "one_line_summary": "Using a telecom field plan switch, the paper identifies consumer discount rates from combined static and dynamic usage data and shows that standard high assumed discount factors materially bias demand inference and pricing policy.",
+  "relation_to_prior_work": "introduces a field-based identification strategy for discount factors in dynamic structural models that relies on observed static decisions rather than fixing discount rates ex ante. It contrasts with approaches that depend mainly on strong functional assumptions, exclusion restrictions, or lab experiments. It also adds to nonlinear telecom pricing studies by using disaggregate usage data to study within-month intertemporal allocation.",
+  "research_gap": "Dynamic structural models typically confound utility, state transitions, and discounting, so empirical work often fixes discount factors or relies on strong identifying restrictions. The paper targets the lack of a practical field-data approach that can identify discount rates by leveraging observed static and dynamic decision regimes.",
+  "research_question": "Can consumer discount factors be identified and estimated from field data, instead of being fixed, in a dynamic structural model where utility, state transitions, and discounting are otherwise confounded? Specifically, can utilities and shock distributions be inferred from static usage decisions and then used to recover discount rates from dynamic usage decisions after a pricing-plan change?"
+}

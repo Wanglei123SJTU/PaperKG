@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes that money and time considerations in product choice spontaneously activate different processing modes: money evokes more analytical processing, whereas time evokes more affective processing.",
+    "It shows that these processing-mode differences have a consequential outcome for decision quality: preference stability, operationalized as transitivity in pairwise choices.",
+    "It identifies a mechanism for money-induced inconsistency - ambiguous, multiple interpretations of price - and demonstrates that constraining price to a single meaning can reduce inconsistency."
+  ],
+  "context": "The studies examine multiattribute consumer product choices in which options include monetary attributes (price) or temporal attributes (e.g., duration/setup time). Experimental contexts include international flights, software, vacation resorts, T-shirts, and digital cameras, using student and online participant samples.",
+  "design_and_data": "The paper reports eight experiments using a two-stage binary-choice paradigm (learning options, then all pairwise choices), with preference consistency measured mainly by individual transitivity violations. Experiments 1-3 test the core effect across product categories and manipulations of money versus time attributes, including controls and checks for decision difficulty and attribute weighting. Experiments 4-6 test process via a ratio-bias spillover task, self-reported reliance on feelings versus logic with mediation, and instructions to consider money versus experience. Experiments 7-8 test mechanism by manipulating interpretations of price (expense vs quality vs mixed) in camera choices and examining resulting transitivity.",
+  "focal_constructs": [
+    "money consideration",
+    "time consideration",
+    "analytical processing",
+    "affective processing",
+    "preference consistency",
+    "transitivity violations",
+    "cognitive noise",
+    "price interpretation ambiguity"
+  ],
+  "main_findings": [
+    "Across initial experiments, choices involving money consideration produced more transitivity violations than time consideration and control, while time and control typically did not differ.",
+    "Process evidence supported the proposed mechanism: after money-based choices, participants showed more analytical responding in a ratio-bias task, and greater reliance on logical (vs feeling-based) processing mediated the money-versus-time effect on inconsistency.",
+    "When price was constrained to a single meaning (expense or quality), preference inconsistency was lower than in unrestricted money conditions, whereas making multiple meanings of price salient preserved high inconsistency."
+  ],
+  "one_line_summary": "Across eight experiments, the paper finds that money cues a more analytical mode than time, which increases cognitive noise and intransitive product preferences unless price is interpreted in a constrained way.",
+  "relation_to_prior_work": "extends prior money-time research by shifting from outcomes such as donation, well-being, and social behavior to preference stability in multiattribute product choice. It links dual-process theory to transitivity-based consistency measures and shows boundary conditions through price-meaning manipulations.",
+  "research_gap": "Prior money-time work largely examined downstream behaviors after money/time prompts, but not whether money versus time attributes in ordinary product choices change the stability of preferences. The paper addresses the unresolved question of whether resource consideration itself activates different processing modes with measurable effects on choice consistency.",
+  "research_question": "Do money and time considerations in product choice activate different processing modes, and does this difference affect the stability of consumer preferences? Specifically, does money induce more analytical processing (and thus more intransitive choices) than time, and can this inconsistency be reduced by reducing ambiguity in how price is interpreted?"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "Both papers are method papers on multinomial logit conjoint/choice experimental design in JMR (2001→2002), and the citing paper’s stated gap explicitly targets prior approaches with fixed discrete levels and minimal-overlap search constraints. The cited paper is exactly such a prior design approach (Bayesian DB-error design with minimal-level-overlap and relabel/swap/cycle heuristics), so this is plausibly a substantive methodological predecessor rather than an incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

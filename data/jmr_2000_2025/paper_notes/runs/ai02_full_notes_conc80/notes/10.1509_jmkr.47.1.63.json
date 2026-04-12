@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a new two-stage model that combines a multivariate probit consideration process with a multinomial probit choice process, allowing dependence across brands in consideration, different covariates in the two stages, temporal correlation, and household heterogeneity.",
+    "The model is presented as a unifying framework that can be estimated with stated consideration data, revealed choice data, or both.",
+    "The study claims to provide empirical validation of inferring consideration sets from choice data by comparing model-retrieved consideration with directly measured consideration in an online experiment."
+  ],
+  "context": "The paper examines consumer packaged-goods brand decisions where households first consider a subset of brands and then choose within that subset. Empirical applications use an online laundry detergent choice experiment and U.S. household scanner panel data for coffee purchases.",
+  "design_and_data": "The authors estimate a Bayesian two-stage MVP+MNP model with MCMC, including AR(1) dynamics in the consideration-stage error process and random effects in consideration. For validation, they use an online experiment in which subjects made 10 detergent choices from an interactive shelf with manipulated display, feature, shelf position/facings, and price, while also reporting stated consideration via two slider questions; 55 subjects completed and an estimation sample of 48 individuals (416 purchases) is used after dropping two rarely chosen brands. They compare the full model against a separate MVP on stated consideration, a single-stage MNP on choices, and the Bronnenberg and Vanhonacker model. They then apply the model to IRI-style scanner data with 232 households and 2978 coffee purchases across 9 brands over June 1991 to June 1993.",
+  "focal_constructs": [
+    "consideration set membership",
+    "brand choice given consideration",
+    "stated consideration sets",
+    "revealed consideration sets",
+    "in-store merchandising effects",
+    "price sensitivity",
+    "habit persistence in consideration",
+    "unobserved household heterogeneity"
+  ],
+  "main_findings": [
+    "In the experiment, consideration sets inferred from choice data align strongly with stated consideration, with brand-level correlations between revealed and stated membership of 0.48-0.75 (average 0.68) and about 78% overall classification accuracy after rounding.",
+    "Relative to a single-stage MNP, marketing effects are larger when modeled through consideration: in the coffee application, the price effect given consideration is reported as much stronger (about three times larger).",
+    "After controlling for observed effects, residual covariance in brand consideration is small, and consideration shows persistence over time (nonzero autoregressive carryover)."
+  ],
+  "one_line_summary": "The paper develops and estimates a two-stage Bayesian probit model that unifies stated and revealed consideration-set approaches and shows, using experimental and scanner data, that unobserved consideration can be recovered from household choices and materially changes inferred marketing effects.",
+  "relation_to_prior_work": "extends prior stated and revealed consideration-set research by integrating both into one tractable two-stage Bayesian framework with dependent consideration across brands and distinct covariates by stage. extends earlier single-stage and consideration models by explicitly testing convergent validity between stated and inferred consideration sets.",
+  "research_gap": "The literature had two mostly separate approaches - stated consideration modeling and revealed consideration inference from choices - but lacked direct empirical evidence on whether they converge. The paper also argues that no unified empirical framework was available to handle stated data, revealed data, or both while modeling cross-brand dependence and stage-specific marketing effects.",
+  "research_question": "Can household-level unobserved consideration sets be validly recovered from panel brand-choice data using a two-stage model? Do these recovered sets converge with directly stated consideration sets, and what do separate consideration and choice stages imply for estimated effects of marketing variables such as display, feature, shelf space, and price?"
+}

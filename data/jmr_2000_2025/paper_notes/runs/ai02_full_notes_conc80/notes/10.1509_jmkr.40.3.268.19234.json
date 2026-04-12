@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops and calibrates a dynamic simultaneous equations model with lagged variables to represent spousal behavioral interaction and temporal carry-over in family purchase decisions.",
+    "It empirically examines reciprocal use of coercive versus noncoercive influence strategies within decisions and changes in coercion propensity across sequential decisions.",
+    "It introduces a postdecision explanation for behavioral change by testing how influence effectiveness and satisfaction with decision outcomes and processes affect subsequent spousal decision behavior."
+  ],
+  "context": "The study is set in household purchase conflict resolution between husbands and wives in an accommodative family decision context. Empirical tasks use three family entertainment decision episodes: a family vacation, a family dinner out, and a family music event.",
+  "design_and_data": "Data were collected with a conjoint-style sequential decision design in which spouses first rated alternatives individually, then jointly chose alternatives across three decision episodes. Participants were randomly drawn married staff at a large southeastern U.S. university; 247 couples were recruited, 152 responded, and after excluding consensus couples and incomplete cases the analysis used 96 usable couple questionnaires focused on disagreement cases. Spouses reported influence strategy use on a 12-item scale (coercive and noncoercive), and coercion propensity was operationalized as coercive mean minus noncoercive mean; satisfaction with decision outcome and process were also measured after each episode. The authors estimated an overidentified dynamic simultaneous equations model via two-stage least squares, and used binary logistic regression for influence effectiveness and multiple regressions for satisfaction hypotheses.",
+  "focal_constructs": [
+    "spousal coercion propensity",
+    "coercive versus noncoercive influence strategies",
+    "reciprocal spousal influence behavior",
+    "decision history carry-over effects",
+    "influence effectiveness",
+    "satisfaction with decision outcome",
+    "satisfaction with decision process",
+    "temporal dynamics of family purchase decisions"
+  ],
+  "main_findings": [
+    "Spouses were generally less likely to reciprocate coercion in kind within a discrete purchase decision.",
+    "Spousal coercion showed negative carry-over across decisions, and spouses adjusted influence behavior over time rather than using coercion consistently.",
+    "Coercive strategies were often associated with winning the focal decision, but postdecision evaluations mattered: prior influence success and satisfaction with decision outcomes tended to reduce subsequent coercion, while the predicted positive effect of process satisfaction on later coercion was not supported."
+  ],
+  "one_line_summary": "Using sequential couple decision episodes and a dynamic simultaneous equations model, the study shows that spouses in family purchases tend not to reciprocate coercion and revise later influence behavior based on prior influence outcomes and satisfaction.",
+  "relation_to_prior_work": "extends prior family decision research that mainly identified antecedents of influence strategy choice by modeling reciprocal interaction within decisions and temporal dynamics across decisions. It also adds to Corfman and Lehmann's cooperative decision framework by testing postdecision mechanisms that help explain why spouses change behavior over time.",
+  "research_gap": "Prior research on spousal family decisions was criticized as lacking process orientation, focusing on static antecedents of influence strategies rather than interaction dynamics. The paper addresses the unresolved issue of how spouses respond to each other's strategy use within a decision and why they revise influence behavior across a sequence of decisions.",
+  "research_question": "The paper asks two core questions: How do spouses behaviorally interact when resolving conflict in a discrete family purchase decision, especially regarding coercive versus noncoercive influence use? It also asks what temporal dynamics characterize spousal decision behavior across decisions, and whether postdecision influence effectiveness and satisfaction help explain subsequent behavioral revision."
+}

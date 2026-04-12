@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Proposes an integrated SKU-level demand estimation procedure that combines household panel choices and store-level aggregate shares to produce a single set of demand parameters.",
+    "Uses store shares to recover weekly item mean utilities via Berry-style inversion and then uses IV-based recovery of mean tastes, while household data identify heterogeneity.",
+    "Extends the approach to settings with purchase quantities by adapting it to an incidence-choice-quantity model and illustrating it empirically."
+  ],
+  "context": "The paper studies packaged-goods scanner markets, primarily fabric softeners in the Denver market using ACNielsen panel and store data. It also reports an extension in refrigerated orange juice.",
+  "design_and_data": "The model is a random-coefficients discrete-choice specification at the SKU level with a no-purchase option and SKU-week mean utilities that absorb unobserved item-time factors. Estimation iterates between (1) household-level simulated MLE for heterogeneity parameters and (2) BLP-style contraction on store shares to recover SKU-week intercepts, then estimates mean effects with IV (using wholesale prices as instruments) and bootstrap-based weighting/3SLS. The main application uses top 25 fabric-softener UPCs plus no-purchase, with 657 households, 31,544 trips, and 1,488 category purchase trips (table reports 82 weeks) restricted to one large chain. The paper also includes simulation evidence and an orange-juice incidence-choice-quantity application (429 households, four main alternatives).",
+  "focal_constructs": [
+    "household heterogeneity",
+    "price endogeneity",
+    "unobserved item-week utility shocks",
+    "SKU-level brand choice",
+    "store-level aggregate shares",
+    "BLP share inversion",
+    "instrumental variables for price",
+    "purchase incidence-choice-quantity"
+  ],
+  "main_findings": [
+    "In simulations, the proposed combined-data estimator recovers parameters without significant bias, while household-only maximum-likelihood estimation shows significant bias when prices are correlated with unobserved attributes.",
+    "In fabric softeners, accounting for endogeneity with the combined-data IV approach yields a more negative price coefficient and larger own-price elasticities than both combined-data OLS and household-only models, indicating endogeneity bias toward zero when ignored.",
+    "Compared with household-only estimation, the combined approach improves fit and holdout forecasting (reported weighted MAPD .33 vs .51), implies less overstated heterogeneity, and changes predicted outcomes for SKU line-extension forecasts and source-of-share patterns."
+  ],
+  "one_line_summary": "The paper develops and tests an integrated SKU-level choice estimator that combines household panel and store data to jointly identify heterogeneity and correct price endogeneity under sparse household purchases.",
+  "relation_to_prior_work": "extends household-panel SKU choice modeling by integrating it with Berry-style aggregate share inversion so mean utilities and endogeneity can be handled even when household SKU-week data are sparse. It also positions this as a more robust alternative to fully specifying a pricing game for joint demand-supply likelihood estimation.",
+  "research_gap": "At the SKU/UPC level, household panel data are often sparse, with many zero purchase cells by week, so unobserved item-time factors cannot be learned well and price endogeneity is hard to correct. Store data contain the needed aggregate share variation for those factors, but by themselves are weak for recovering household heterogeneity and quantity behavior.",
+  "research_question": "How can researchers estimate one SKU-level brand choice model that uses household data to identify heterogeneity and store data to identify item-week mean utilities, while correcting for price endogeneity from unobserved product-time characteristics? Can this integrated approach produce more reliable elasticities and managerial forecasts than household-data-only estimation when purchases are sparse?"
+}

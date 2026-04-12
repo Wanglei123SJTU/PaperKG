@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "A large-scale, multiperiod randomized field experiment with full-time salespeople in a real selling environment exogenously varies compensation plans over time.",
+    "Direct tests of behavioral-economics-inspired compensation forms in sales force pay, specifically punitive framing of quota bonuses and unconditional gift payments.",
+    "Estimation of heterogeneous salesperson responses to compensation plans using a hierarchical Bayesian framework, including evidence on longer-run effects across repeated exposures."
+  ],
+  "context": "The study is set at a large Indian consumer durables firm with more than 5,000 salespeople. The experiment covers 80 full-time retail salespeople across branches in Delhi, Bangalore, Mumbai, and Hyderabad.",
+  "design_and_data": "The authors run a 13-week field experiment in 2013, with weekly random assignment of branch-level compensation conditions, and combine it with 13 weeks of no-treatment baseline periods (about six months total). Treatments include conditional quota-based pay (bonus, punitive framing, and real-punitive with upfront payment subject to clawback) and unconditional pay (gift and real-gift), each worth 500 rupees; quotas were set at 20% above normal sales. Outcome data are weekly unit sales by salesperson, and seasonality is proxied using regional sales of comparable nonparticipant salespeople. They estimate a salesperson-level performance model with branch effects and treatment dummies using a hierarchical Bayesian approach with continuous heterogeneity.",
+  "focal_constructs": [
+    "sales force compensation",
+    "quota bonus incentives",
+    "punitive framing and loss aversion",
+    "unconditional gifts and reciprocity",
+    "gift exchange",
+    "intrinsic versus extrinsic motivation",
+    "salesperson heterogeneity",
+    "dynamic effects of compensation"
+  ],
+  "main_findings": [
+    "Conditional compensation (quota-based incentives) significantly increases weekly sales performance, by about 24% on average.",
+    "Punitive and real-punitive incentive framing do not produce statistically meaningful gains over a standard quota bonus, and repeated exposure suggests their effect can decay.",
+    "Unconditional compensation improves performance only when paid as a delayed gift, its effect is smaller than incentives and declines with repeated exposure, and it is more effective for higher-base-performance salespeople while incentive effects are broadly uniform across salespeople."
+  ],
+  "one_line_summary": "In a randomized field experiment with 80 Indian salespeople, quota-based incentives raised sales, punitive framing did not outperform standard bonuses, and unconditional monetary gifts worked only as delayed rewards with weakening effects over time.",
+  "relation_to_prior_work": "extends prior sales compensation work that largely identifies incentive effects from quota-distance variation by using randomized, multiperiod contract variation to estimate effects of both conditional and unconditional pay. It also extends behavioral evidence on loss aversion and gift exchange into a real-world full-time sales force context, showing limited incremental value of punitive framing and conditional effectiveness of reciprocity-based pay.",
+  "research_gap": "Prior empirical identification in sales compensation relies on limited natural contract variation and quota-based cutoff methods, which cannot separately identify effects of punitive framing and unconditional compensation. Much behavioral evidence also comes from labs or temporary-worker settings, leaving uncertainty about external validity for permanent sales forces.",
+  "research_question": "How do different compensation schemes affect full-time salesperson performance in the field, comparing conditional quota bonuses with unconditional gift payments? Do punitive loss-framed variants change effectiveness relative to standard bonus framing, and how do timing, repeated exposure, and salesperson heterogeneity shape these effects?"
+}

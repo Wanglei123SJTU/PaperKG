@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Proposes a flexible structural framework to measure customer lifetime value in consumer packaged goods while jointly addressing multiple discreteness, brand switching, and budget-constrained consumption.",
+    "Uses Bayesian estimation to infer each household's latent budget constraint from transaction data, without requiring appended survey measures such as switching or share-of-wallet.",
+    "Shows that CLV can be measured at both the focal brand level and the category level in a CPG setting, and demonstrates managerially relevant policy simulations using the structural model."
+  ],
+  "context": "The study is set in the consumer packaged goods industry, specifically the carbonated beverages category. It analyzes household purchases across Coca-Cola, Pepsi, Dr. Pepper, and private labels in scanner panel data.",
+  "design_and_data": "The empirical application uses Nielsen/IRI scanner panel transactions at the UPC level for 40,098 households from July 2007 to August 2010, aggregated to four manufacturer-level brands that cover 89% market share. Missing brand prices for nonpurchased alternatives are imputed using same-month, same-store-type purchases by other households. The proposed budget-constrained multiple-discrete utility model is estimated with a hybrid Bayesian MCMC procedure with household heterogeneity; model estimation is reported on random samples of 500 households (12,837 transactions in one reported run). Performance is evaluated in-sample and on a 6-month holdout (30-month estimation window), and compared against a multivariate probit-then-quantity benchmark and simple heuristic segmentations.",
+  "focal_constructs": [
+    "customer lifetime value",
+    "multiple discreteness",
+    "brand switching",
+    "household budget constraint",
+    "structural utility maximization",
+    "Bayesian latent-variable estimation",
+    "price elasticity asymmetry"
+  ],
+  "main_findings": [
+    "The proposed model predicts purchases better than the benchmark choice-then-quantity approach, with substantially lower brand-level and category-level MAPE in both in-sample and holdout periods.",
+    "The estimated average monthly household budget allocation for the category is about $29.40, with significant heterogeneity, and age has a positive linear effect on the budget parameter.",
+    "CLV is highly concentrated (top three deciles account for about 55% of profits), budget cuts reduce CLV more than equal-sized budget increases raise it, and price effects are asymmetric (price decreases have larger absolute demand effects than increases)."
+  ],
+  "one_line_summary": "The paper develops a Bayesian structural multiple-discrete demand framework for CPG that infers household budget ceilings from scanner data and uses them to estimate and simulate customer lifetime value at brand and category levels.",
+  "relation_to_prior_work": "extends CLV research from relationship-marketing contexts into CPG by unifying choice, quantity, competition, and budget constraints in one structural model. It replaces prior survey-reliant switching or share-of-wallet controls with transaction-data-based inference of latent household budgets.",
+  "research_gap": "The paper argues that despite managerial interest, there was no robust academic methodology for CLV measurement in CPG markets. Existing CLV approaches either ignore simultaneous multi-brand purchasing and competition or rely on costly survey data, and they do not directly infer household budget constraints from transaction histories.",
+  "research_question": "How can firms measure customer lifetime value in a CPG setting where households buy multiple brands, switch frequently, and face budget constraints? Can scanner transaction data be used to infer household-level budget ceilings and support structural policy simulations for CLV-relevant decisions such as pricing and budget shocks?"
+}

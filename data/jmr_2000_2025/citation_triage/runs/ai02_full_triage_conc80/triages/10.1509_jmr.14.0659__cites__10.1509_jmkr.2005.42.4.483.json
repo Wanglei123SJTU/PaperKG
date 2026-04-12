@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper explicitly uses “HB two-stage consider-then-choose models” and focuses on screening propensity, while the cited paper’s core contribution is probabilistic subset-conjunctive screening and a two-stage consideration-choice model. This method-level overlap suggests the citation may be a substantive modeling foundation rather than a generic background mention. With only DOI-level match evidence and no quote context, it should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

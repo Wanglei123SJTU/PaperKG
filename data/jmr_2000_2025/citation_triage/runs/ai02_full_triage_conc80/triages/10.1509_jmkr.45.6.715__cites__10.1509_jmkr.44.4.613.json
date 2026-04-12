@@ -1,0 +1,4 @@
+{
+  "rationale": "Keep this pair because the citing paper’s core method (Bayesian data augmentation of latent individual choices from aggregate shares/coupon totals) closely matches and appears to extend the cited paper’s stated contribution (hierarchical Bayesian augmentation to estimate disaggregate choice models from aggregate data). The citing note explicitly says it “extends Bayesian aggregate-data choice modeling,” and the highly aligned titles/DOI-linked JMR sequence (2007 methodological paper, 2008 extension to coupons) suggests likely substantive method dependence rather than incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

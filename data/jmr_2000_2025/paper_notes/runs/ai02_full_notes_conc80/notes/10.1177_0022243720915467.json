@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "Identifies the number of accounts an influencer follows as a useful and previously underexamined cue of social media influence, and links this cue to downstream engagement outcomes.",
+    "Provides a mechanism for this effect by showing that following fewer others signals greater autonomy, which increases perceived influence, thereby addressing calls to clarify causal mechanisms of online social influence.",
+    "Shows practical value for influencer selection, especially for micro influencers, by arguing that following should be incorporated alongside followers when screening candidates."
+  ],
+  "context": "The paper is set in social media influencer marketing on platforms with asymmetric following, primarily Twitter and Instagram. The substantive focus is on micro influencers (roughly 1,000-100,000 followers) and how users respond to their posts.",
+  "design_and_data": "Study 1 analyzes Twitter data from English tweets posted in the Los Angeles metropolitan area on September 16, 2016, collected via the public API; after filtering to original tweets and users with at most 100,000 followers, the final sample is 439,051 tweets from 145,119 users. The authors estimate negative binomial models of likes and retweets on log following, controlling for followers, tweet content variables, LIWC-based linguistic measures, and user profile controls, with multiple robustness checks (alternative follower thresholds, full-sample analyses, alternative models, and additional US and Tokyo datasets). Studies 2-5 are controlled between-subjects lab experiments (Instagram/Twitter profile stimuli) manipulating following and, in some studies, followers or external influence information, and measuring perceived influence, autonomy, engagement intentions (likes/retweets), and click-through behavior. A separate pretest with mTurk respondents tests whether following signals autonomy versus alternative traits (expertise, innovativeness).",
+  "focal_constructs": [
+    "Following (out-degree centrality)",
+    "Followers (in-degree centrality)",
+    "Perceived autonomy",
+    "Perceived influence",
+    "Micro influencers",
+    "Engagement (likes, retweets, click-through)"
+  ],
+  "main_findings": [
+    "In observational Twitter data, controlling for followers and other covariates, higher following is associated with fewer likes and retweets on a user's original tweets.",
+    "In experiments, following fewer others increases perceived influence only when the user has a substantial number of followers, and perceived autonomy mediates the effect of following on perceived influence.",
+    "Following fewer others increases engagement intentions and actual click-through, but this advantage disappears when respondents are given explicit external information that the user is influential."
+  ],
+  "one_line_summary": "Across field Twitter data and experiments, the paper shows that for users with substantial followers, following fewer others signals autonomy and higher influence, which increases engagement with their content.",
+  "relation_to_prior_work": "extends prior opinion leadership and social network research by separating followers (in-degree) and following (out-degree) as distinct influence-relevant cues and by introducing perceived autonomy as a mechanism linking network behavior to perceived influence. It also connects digital cue-based inference work to influencer identification practice.",
+  "research_gap": "The paper argues that influencer identification is still underdeveloped and heavily centered on reach (number of followers), leaving little guidance on how to distinguish similarly sized micro influencers. It specifically targets the unresolved question of whether the number of others a user follows is an informative cue of influence and why it would affect engagement.",
+  "research_question": "Does the number of accounts a social media user follows affect how influential that user is perceived to be, and does this change engagement with that user's content? The paper also asks whether any effect operates through perceived autonomy and whether it depends on the user already having a substantial number of followers."
+}

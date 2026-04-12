@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper develops a Bayesian joint model with a shared latent factor (GBI) linking sentiment and venue choice, and the cited paper is explicitly an integrated Bayesian model with a shared latent willingness-to-bid linking whether/who/when/how much bidding behavior. That clear methodological overlap (including WinBUGS/MCMC in both notes) makes this citation plausibly substantive rather than an obvious incidental mention, despite the raw match being DOI-only metadata.",
+  "triage_decision": "keep_for_relation_judgment"
+}

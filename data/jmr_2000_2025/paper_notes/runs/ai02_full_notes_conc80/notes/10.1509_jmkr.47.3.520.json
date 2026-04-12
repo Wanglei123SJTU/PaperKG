@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces the idea that future time perception depends on whether an interval ends with a gain or a loss, and proposes a looming-losses pattern.",
+    "Explores underlying mechanisms and documents parallels between this effect and loss aversion (labeled as temporal loss aversion).",
+    "Shows that valence-driven shifts in perceived time affect consumer decisions, including planning and intertemporal discounting."
+  ],
+  "context": "The paper studies consumer judgments in scenario-based settings where a future interval ends in a relative gain or loss, such as office/job changes and employer-driven cell phone upgrades or downgrades. Data come from undergraduate participant experiments over short future horizons (about 1 to 4 months).",
+  "design_and_data": "The authors run a series of randomized between-subject experiments (five main experiments, plus replications/follow-ups) using computer-administered scenarios. Core manipulations vary end-point valence (gain vs loss) while holding objective interval length constant, and in some studies vary whether exchange is expected versus unexpected. Outcomes include perceived interval length ratings, perceived quality/change-size ratings, anticipation and dread measures, planned consumption judgments, and a binary intertemporal choice with a price premium. Reported samples include N=109, 46, 157, 58, 112, 99, and 185 across studies and replications.",
+  "focal_constructs": [
+    "future time perception",
+    "gain versus loss end-point valence",
+    "looming losses",
+    "temporal loss aversion",
+    "exchange expectations",
+    "consumer planning",
+    "intertemporal discounting"
+  ],
+  "main_findings": [
+    "Across studies, intervals ending with losses were perceived as shorter than objectively equivalent intervals ending with gains.",
+    "The effect was tied to perceptions of the interval end point rather than the interval itself, and it was weaker when exchange was expected, consistent with patterns associated with loss aversion; anticipation and dread did not account for the key interaction.",
+    "These shifts in perceived time changed behavior: participants facing loss-bounded intervals planned less in-interval consumption and were less likely to pay a premium for immediate receipt (i.e., they discounted the future less) than those facing gain-bounded intervals."
+  ],
+  "one_line_summary": "Across multiple experiments, the paper shows that future losses loom temporally nearer than equivalent gains, shortening perceived waiting time and altering consumption planning and discounting decisions.",
+  "relation_to_prior_work": "extends recent work on subjective future time by identifying end-point gain-loss valence as a determinant of perceived interval length and linking it to intertemporal choice outcomes.",
+  "research_gap": "Prior research had focused mainly on perceived duration of past/experienced intervals, with only limited evidence on what shapes future time perception. The paper addresses the unresolved question of whether impending gains versus losses systematically alter perceived future interval length and whether such shifts matter for consumer decisions.",
+  "research_question": "Do objectively identical future intervals feel different in length depending on whether they end with a gain or a loss relative to the present reference point? If so, is the pattern better explained by wishful thinking or by looming losses, and does it influence planned consumption and discounting behavior?"
+}

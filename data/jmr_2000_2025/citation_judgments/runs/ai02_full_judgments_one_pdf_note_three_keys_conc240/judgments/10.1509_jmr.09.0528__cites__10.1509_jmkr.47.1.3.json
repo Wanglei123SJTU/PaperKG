@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper gives Petrin and Train (2010) a clear methodological role in its core estimation strategy, not just background mention. In the model and estimation sections, the authors explicitly state they use the control function approach to correct endogeneity of price and OOS variables, describe first-stage regressions, and include residuals in utility. They also discuss resulting parameter shifts and exogeneity tests, indicating this citation materially informs how key coefficients are identified and interpreted.",
+  "relation_description": "The citing study applies Petrin and Train's control function method to correct endogeneity in its household SKU choice model. It transfers that approach to a retail out-of-stock setting, extending its use to both price and OOS-related endogenous terms.",
+  "relation_type": "applies"
+}

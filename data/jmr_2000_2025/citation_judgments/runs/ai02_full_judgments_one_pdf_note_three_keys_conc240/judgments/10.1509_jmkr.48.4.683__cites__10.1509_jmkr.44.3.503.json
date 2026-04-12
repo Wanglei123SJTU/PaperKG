@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citation is used in the model-development section to situate prior HMM-based marketing models, not just as a generic background reference. The authors explicitly note that Moon et al. (2007) used a similar discrete-time, homogeneous HMM and then distinguish their own approach by introducing a heterogeneous, continuous-time formulation with covariate-driven waiting times. This gives the cited paper a clear methodological role in framing what is being improved.",
+  "relation_description": "The citing paper treats Moon et al. (2007) as a methodological predecessor for HMM-based response modeling, then modifies key assumptions by moving from a homogeneous/discrete-time setup to a heterogeneous continuous-time state process. In this sense, it refines the prior HMM approach while applying it to cross-selling dynamics.",
+  "relation_type": "refines"
+}

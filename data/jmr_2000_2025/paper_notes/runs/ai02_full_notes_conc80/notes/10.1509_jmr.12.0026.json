@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper shows analytically and via simulation that estimating social intercorrelations from network samples misspecifies the variance-covariance structure, which typically pushes the estimated social intercorrelation parameter downward.",
+    "The paper provides a broad comparison of sampling methods and network topologies, including power-law, Watts-Strogatz, power-cluster, and a real Flickr network, to map when social intercorrelations are more or less recoverable.",
+    "The paper proposes a correction procedure to recover an unbiased social intercorrelation estimate from sampled data by using recovered residuals and complete neighbor information for sampled nodes."
+  ],
+  "context": "The study is about consumer social networks, motivated by online social platforms such as Facebook. Empirical settings include simulated networks and an observed online social network from Flickr.com.",
+  "design_and_data": "The authors use a spatial regression model with autoregressive error correlation, where social intercorrelation is captured by parameter rho and network structure enters through matrix W. They run simulation studies on four network settings (power-law, Watts-Strogatz, power-cluster, and three Flickr-based networks), with network size N=3000, T=20 observations, and samples of size 100, 300, or 500 drawn by simple random, snowball, and forest-fire sampling (pf=.25, .5, .75), for 28,800 total estimations. They then regress rho estimation bias on sampling and topology variables (reported with 720 observations) and test a bias-correction method that estimates rho by fitting recovered residuals to a known error distribution using an Anderson-Darling criterion.",
+  "focal_constructs": [
+    "social intercorrelation parameter (rho)",
+    "sampling method",
+    "network topology",
+    "spatial autoregressive error model",
+    "recoverability of social intercorrelations",
+    "power-law vs small-world structure",
+    "variance-covariance misspecification"
+  ],
+  "main_findings": [
+    "Across simulations, sample-based estimation tends to underestimate the magnitude of social intercorrelations, with underestimation occurring in about 99% of cases and in all random-sampling cases.",
+    "Sampling methods that better preserve network links (snowball and high-pf forest-fire) recover social intercorrelations better than simple random sampling, but this advantage is weaker in power-law networks.",
+    "The linear coefficients are recovered well, and the proposed correction method yields rho estimates close to the true value with little difference across sampling methods and network types."
+  ],
+  "one_line_summary": "Using spatial-model simulations and a Flickr network, the paper shows that sampling and network topology systematically bias social intercorrelation estimates downward and introduces a residual-based correction that recovers rho much more accurately.",
+  "relation_to_prior_work": "extends prior network-sampling work that mainly studies topology inference or diffusion by analyzing how sampling-induced topology distortion biases estimation of latent social intercorrelations conditional on network structure. It also complements social interaction identification research by identifying sampling method and network topology as additional confounds.",
+  "research_gap": "Prior work on network sampling largely focused on inferring graph properties, network structure, or observable diffusion processes rather than estimating latent social intercorrelations in econometric models conditional on topology. The paper also notes that social-interaction identification studies emphasize endogeneity and simultaneity issues but give limited attention to sampling-topology effects on parameter recovery.",
+  "research_question": "How do sampling method and network topology affect estimation of the social intercorrelation parameter in spatial models of consumer networks when only sampled network data are available? What is the direction and driver of any resulting bias, and can an unbiased social intercorrelation estimate be recovered from sampled data?"
+}

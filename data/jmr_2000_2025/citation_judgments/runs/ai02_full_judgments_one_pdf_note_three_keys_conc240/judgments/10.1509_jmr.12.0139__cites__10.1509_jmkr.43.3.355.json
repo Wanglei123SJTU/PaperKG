@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Ying, Feinberg, and Wedel (2006) for concrete estimation design choices in its hierarchical Bayes implementation. In the identification/estimation section, it explicitly follows that paper for reparameterizing ordered cutoffs via log adjacent differences and transforming the correlation parameter with tanh^-1. This is more than a background mention because the cited work directly informs how key model parameters are estimated in the citing study.",
+  "relation_description": "The citing paper applies specific Bayesian estimation parameterization techniques from Ying et al. (2006) to its own two-stage hotel choice and satisfaction model. The citation functions as methodological precedent rather than a direct theoretical extension of the recommender-system framework.",
+  "relation_type": "applies"
+}

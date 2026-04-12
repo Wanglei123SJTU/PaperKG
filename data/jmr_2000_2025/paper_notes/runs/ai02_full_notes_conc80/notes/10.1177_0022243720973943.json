@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides an empirical supply-side analysis of service reliability decisions by modeling how airlines choose cancellations and delays in response to competitors at the market level.",
+    "Introduces two complementary empirical approaches for this question: a simultaneous equation model with firm-specific rival effects and a static incomplete-information discrete game with simultaneous strategic choices.",
+    "Shows that evaluating internal reliability initiatives (e.g., on-time bonuses) without competitive reactions misstates their impact on service reliability and related managerial assessments."
+  ],
+  "context": "The study is set in the U.S. domestic airline industry, focusing on route-level competition among American, Delta, United, and Southwest. Service reliability is operationalized using firm-attributable flight cancellation rates and arrival delays.",
+  "design_and_data": "The authors combine Bureau of Transportation Statistics flight-level data (including firm-attributable delays and cancellations) with market variables from the U.S. Census, then aggregate to market-quarter airline observations. The final sample includes 1,433 routes across 125 cities over 62 quarters (Q3 2003-Q4 2018), yielding 56,443 observations after route selection criteria. They estimate a simultaneous equation system (3SLS) with market, year, and quarter fixed effects to capture continuous delay and cancellation choices and rival endogeneity. They also estimate a static discrete game with incomplete information, where airlines choose among four discrete reliability levels, using a two-step conditional choice probability approach.",
+  "focal_constructs": [
+    "service reliability",
+    "flight cancellation rate",
+    "arrival delay length",
+    "competitive imitation",
+    "competitive differentiation",
+    "full-service vs low-cost airline type",
+    "market concentration",
+    "on-time bonus initiative"
+  ],
+  "main_findings": [
+    "Competitive effects on service reliability are asymmetric by firm and competitor type: full-service airlines respond strongly to rivals, while Southwest responds less to full-service competitors, but full-service carriers respond substantially to Southwest.",
+    "Among full-service airlines, American and Delta mostly imitate each other within the same reliability dimension, while full-service carriers often differentiate across dimensions (higher rival delay is met by lower own cancellations, and vice versa).",
+    "A commitment to high reliability by a full-service airline can raise a low-cost rival's probability of reducing delays by about 10 percent, and ignoring competitive reactions leads to overestimation of the direct effect of programs such as on-time bonuses."
+  ],
+  "one_line_summary": "Using U.S. airline route-quarter data and two structural approaches, the paper finds that cancellation and delay decisions are strategic and asymmetric responses to rivals, which materially changes how reliability initiatives should be evaluated.",
+  "relation_to_prior_work": "extends prior service reliability research by moving from demand-side consequences to supply-side competitive decision making and by modeling market-level rival actions rather than only aggregate competition intensity. It also extends airline service-quality work by explicitly estimating simultaneous strategic interactions in cancellations and delays across carrier types and concentration levels.",
+  "research_gap": "Prior empirical service reliability studies mostly examine consequences of reliability without modeling competitor effects, and airline studies that include competition often rely on aggregate concentration measures instead of market-level rival actions. The paper addresses this missing empirical evidence on how observed and expected competitor reliability choices shape a focal firm's reliability decisions.",
+  "research_question": "How do airlines adjust service reliability decisions in response to competitors' reliability choices across markets? Specifically, do firms imitate or differentiate, do responses vary by focal and rival type (full-service vs low-cost), and how do these responses change with market concentration and with reliability-improvement actions such as commitment to high reliability or on-time incentives?"
+}

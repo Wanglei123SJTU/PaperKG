@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Yang, Toubia, and De Jong (2015) repeatedly to frame its contribution in the core attention-and-choice literature, not just as a generic background citation. It explicitly groups Yang et al. among prior complex-choice studies and states that its own model extends that prior work, while also contrasting its contribution on brand-level attention trajectories, ownership effects, and stronger out-of-sample/ahead-of-period prediction. Yang et al. is also used as a methodological and empirical benchmark (e.g., choice-task complexity and eye-tracking processing context), indicating a meaningful role in positioning the new model.",
+  "relation_description": "The citing paper builds on the line of eye-movement-based choice modeling represented by Yang et al. (2015) and extends it with a brand-specific attention-trajectory model that links temporal attention dynamics to utility accumulation and choice prediction. It adds new elements such as ownership-driven trajectory effects and Bayesian K-fold predictive validation in a single complex choice task.",
+  "relation_type": "extends"
+}

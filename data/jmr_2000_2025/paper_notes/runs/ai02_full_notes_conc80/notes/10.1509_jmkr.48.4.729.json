@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper shows that a current customization decision can be influenced by the difficulty experienced in a previous decision even when the content of prior decisions is unchanged.",
+    "It demonstrates that discrepant fluency can be produced by shifting expectations, so the effect is not limited to sequential choices and can occur in a single feature decision.",
+    "It shows that discrepant fluency affects customization through different inferences, including greater liking and perceived price-difference magnitude, which changes spending on higher-priced options."
+  ],
+  "context": "The paper studies self-customization decisions for consumer durables, mainly online-style feature configuration tasks (laptops and cars) plus a retail-like camera accessory choice. Participants choose whether to add, reject, or upgrade optional features that differ in price and configuration framing.",
+  "design_and_data": "The authors run four controlled experiments: Study 1 (N = 113 undergraduates) uses laptop customization with two feature sets and a 2x2 design manipulating discrepancy (add vs reject before adding) and expectation alignment via consensus information. Study 2 (N = 121 online panel adults) replicates with car features, two sequential feature decisions, and an ease prime vs neutral prime, and measures liking as a mediator. Study 3 (N = 164 undergraduates) uses sequential laptop feature choices with easy vs difficult price-difference computations to manipulate discrepancy in computation fluency and tests perceived price-difference size as mediator. Study 4 (N = 78 undergraduates) tests a single camera memory-card decision by priming expected difficulty before choice and crossing this with computation difficulty.",
+  "focal_constructs": [
+    "discrepant fluency",
+    "expected versus actual decision difficulty",
+    "self-customization preference",
+    "sequential feature decisions",
+    "option framing (add vs reject)",
+    "liking inference",
+    "ease of price computation",
+    "perceived price-difference size"
+  ],
+  "main_findings": [
+    "When later feature decisions feel unexpectedly easy relative to earlier, harder decisions, consumers choose more premium options and spend more; this effect is reduced when expectations are aligned to anticipate ease.",
+    "In sequential customization, discrepant fluency changes preference partly through liking: unexpected ease increases liking for the subsequent feature and increases selection likelihood.",
+    "Discrepant fluency also changes price inferences: easier-than-expected computation makes price gaps seem larger and lowers choice of higher-priced options, whereas harder-than-expected computation makes gaps seem smaller and raises choice of higher-priced options; this pattern appears in both sequential and single-decision settings."
+  ],
+  "one_line_summary": "Across four experiments, the paper shows that mismatches between expected and experienced decision difficulty during customization systematically shift feature choice and spending via liking and perceived price-difference inferences.",
+  "relation_to_prior_work": "extends prior fluency and sequential choice research by showing that discrepancy between expected and experienced difficulty, rather than only absolute fluency or prior decision content, drives customization outcomes. It also carries discrepant-fluency evidence into marketing preference formation by linking it to feature liking and price-gap perception.",
+  "research_gap": "Prior fluency work in marketing mainly examined single evaluations where difficulty is manipulated at judgment, leaving unclear whether prior decision difficulty sets expectations that alter later customization choices. The literature also had limited evidence on whether discrepant fluency could be induced in a single decision by manipulating expectations before choice.",
+  "research_question": "Do consumers use difficulty from earlier customization decisions to form expectations for later decisions, and does a mismatch between expected and actual difficulty change feature preferences and spending? Can the same discrepant fluency effects be generated in a single feature decision by manipulating expectations before the choice?"
+}

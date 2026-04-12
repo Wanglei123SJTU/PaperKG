@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Extends the Bell, Ho, and Tang (1998) disaggregate store-choice approach by explicitly adding multidimensional assortment variables to the store utility model.",
+    "Models household heterogeneity with continuous random effects and estimates category needs and store choice simultaneously, allowing covariance in responses to assortment, price, and distance.",
+    "Shows that adding assortment to convenience, price, and feature advertising improves fit and prediction and provides a more complete characterization of retail competition."
+  ],
+  "context": "The empirical setting is grocery shopping in the Chicago market across the four largest grocery chains (two EDLP and two Hi-Lo formats). The study uses household scanner records of packaged-goods purchases and analyzes ten categories spanning food and nonfood products.",
+  "design_and_data": "The authors estimate a joint model with a category-needs equation and a store-chain choice equation, linked through need-weighted price, feature, and assortment variables. Store choice is modeled at the chain level with random effects and continuous heterogeneity that can covary across assortment, price, and distance responses. Data come from a 104-week enhanced Chicago panel (Oct 1995-Oct 1997) in which households scanned purchases across grocery and nongrocery outlets, with assortment and price measures built at the category-store-week level. After data-quality filters, 169 households remain; 35 weeks are used for initialization, and the estimation sample contains 11,005 store visits and 52,489 binary category-purchase observations, with 25% of visits held out for out-of-sample tests.",
+  "focal_constructs": [
+    "grocery store choice",
+    "category needs probabilities",
+    "travel distance convenience",
+    "basket price",
+    "feature advertising",
+    "number of brands",
+    "SKUs per brand and sizes per brand",
+    "favorite brand availability and unique SKU share"
+  ],
+  "main_findings": [
+    "Convenience (travel distance) is the strongest average driver of store choice, but store choice is generally more responsive to assortment changes than to comparable price changes.",
+    "On average, more brands and greater availability of a household's favorite brands increase store choice probability, while more SKUs per brand, more sizes per brand, and a higher share of unique SKUs decrease it.",
+    "Response heterogeneity is substantially larger for assortment than for convenience or price, and assortment response is correlated with distance response, indicating a convenience-assortment trade-off across households."
+  ],
+  "one_line_summary": "Using a random-effects model on household scanner data, the paper finds that multidimensional grocery assortments materially shape store choice and are typically more influential than prices, with strong household heterogeneity.",
+  "relation_to_prior_work": "extends disaggregate store-choice research by incorporating a multidimensional assortment construct into a Bell, Ho, and Tang style framework that had emphasized price-convenience trade-offs. It helps reconcile prior conflicting assortment results by showing that different assortment dimensions have different signs and that effects are heterogeneous across households.",
+  "research_gap": "Prior evidence gave conflicting implications about assortment: retail gravitation logic implied larger assortments should attract shoppers, but category-level studies often found weak or negative effects of assortment size on sales. Existing disaggregate store-choice models focused mainly on convenience and price format and did not include a multidimensional assortment representation with household-level heterogeneity.",
+  "research_question": "How do product assortments affect grocery store choice when modeled alongside convenience, prices, and feature advertising? How important are assortment effects relative to price and distance, and can a richer assortment characterization help explain conflicting prior findings?"
+}

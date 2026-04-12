@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces a multiple agency theory perspective to multichannel sales systems and links interactions among channels to agency conflict.",
+    "It introduces direct and indirect channel usage as focal multichannel design dimensions that combine channel variety and revenue intensity, and examines their effects with matched manufacturer-sales partner data.",
+    "It shows that governance-performance effects are contingent and disordinal within multichannel systems, so the same governance mechanism can improve performance in one channel-usage context but reduce it in another."
+  ],
+  "context": "The study is set in business-to-business multichannel sales systems where manufacturers sell the same products in the same geography through direct and indirect channels. Empirical evidence comes from German manufacturers across multiple industries and their major sales partners.",
+  "design_and_data": "The authors conducted a primary survey of B2B manufacturers with at least one indirect channel, obtaining 499 complete manufacturer responses after cleaning. They merged survey measures with objective EBIT scaled by total assets from the AMADEUS database and collected matched sales partner data for 103 manufacturers (170 partner observations). Main hypothesis tests model EBIT consequences of interactions between channel usage and governance mechanisms using OLS with industry-clustered standard errors, while correcting for selection and endogeneity via inverse Mills ratios and a control-function approach with industry-level instruments. A validation study uses hierarchical linear modeling of sales partner-reported information advantage and cooperation.",
+  "focal_constructs": [
+    "direct channel usage",
+    "indirect channel usage",
+    "formalization",
+    "centralization",
+    "information exchange",
+    "manufacturer financial performance (EBIT margin)",
+    "sales partner information advantage",
+    "sales partner cooperation with manufacturer (moral hazard)"
+  ],
+  "main_findings": [
+    "Formalization strengthens the financial performance effect of indirect channel usage but weakens the financial performance effect of direct channel usage.",
+    "Centralization and information exchange strengthen the financial performance effect of direct channel usage but weaken the financial performance effect of indirect channel usage.",
+    "In the validation study, direct channel usage reduces sales partners' information advantage over manufacturers, while indirect channel usage does not significantly reduce that asymmetry and is associated with predominantly lower sales partner cooperation (higher moral hazard)."
+  ],
+  "one_line_summary": "Using matched B2B manufacturer-sales partner data, the paper finds that financial outcomes of direct versus indirect channel usage depend on governance alignment: formalization helps indirect usage but hurts direct usage, whereas centralization and information exchange show the opposite pattern.",
+  "relation_to_prior_work": "extends prior multichannel channel research that mainly contrasts single- versus multichannel structures by examining within-multichannel variation in direct and indirect usage and by showing contingent, opposite governance effects across these usage contexts.",
+  "research_gap": "Prior research has mostly compared multichannel with nonmultichannel settings and has provided limited evidence on design variation within multichannel systems, especially the separate effects of direct and indirect channel usage. Alignment between multichannel design and governance mechanisms has remained largely unexplored despite indications that governance effects may reverse across channel contexts.",
+  "research_question": "How do direct channel usage and indirect channel usage in B2B multichannel sales systems affect manufacturer financial performance? The paper asks whether these effects depend on alignment with formalization, centralization, and information exchange, and validates underlying agency mechanisms through sales partner information asymmetry and moral hazard behavior."
+}

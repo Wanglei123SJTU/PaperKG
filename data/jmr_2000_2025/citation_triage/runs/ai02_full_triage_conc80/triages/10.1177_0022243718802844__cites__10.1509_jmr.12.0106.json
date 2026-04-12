@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper explicitly says it uses machine learning on review text and “LDA topic modeling (six topics) to build time-varying multidimensional quality controls.” The cited paper is specifically about an LDA-based framework for extracting latent quality dimensions and valence from online reviews, making it a plausible method/foundation source rather than a generic mention (DOI match: 10.1509/jmr.12.0106).",
+  "triage_decision": "keep_for_relation_judgment"
+}

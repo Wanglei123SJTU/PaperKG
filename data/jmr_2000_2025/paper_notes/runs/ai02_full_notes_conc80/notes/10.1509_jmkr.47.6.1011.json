@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops a moderated-mediation framework in which marketing and manufacturing factors influence willingness to pay a price premium for national brands over private labels through the perceived quality gap.",
+    "It explicitly incorporates a country's private-label life-cycle stage (development vs maturity) to test whether the strength of these effects differs across market evolution stages.",
+    "It provides large-scale cross-country evidence from consumer packaged goods categories across 23 countries, including both mature and less mature private-label markets."
+  ],
+  "context": "The study is set in consumer packaged goods markets where consumers choose between national brands and private labels. It covers 23 countries in Asia, Europe, and the Americas, spanning both private-label development and private-label maturity contexts.",
+  "design_and_data": "The authors use dedicated survey data collected with TNS and GfK from 22,623 grocery shoppers who at least occasionally buy in stores carrying both national brands and private labels. Respondents evaluated up to four randomly drawn categories (from ten initially drawn categories they buy at least every six months), yielding 74,314 observations across an average of 63 categories per country. Data were collected via Web surveys in high-Internet-penetration countries and mall intercepts elsewhere, with back-translation for local-language questionnaires. The model is estimated as a three-level hierarchical linear model (individuals nested in categories nested in countries) using maximum likelihood, with mediation and moderation tests.",
+  "focal_constructs": [
+    "Willingness to pay price premium for national brands over private labels",
+    "Perceived quality gap between national brands and private labels",
+    "Product innovation",
+    "Distinctive packaging",
+    "Advertising",
+    "Price promotion",
+    "Belief that private labels are produced by national-brand manufacturers",
+    "Private-label life-cycle stage (development vs maturity)"
+  ],
+  "main_findings": [
+    "Product innovation, distinctive packaging, and advertising increase the perceived quality gap in favor of national brands, while price promotion and belief that national-brand manufacturers produce private labels reduce that gap.",
+    "The perceived quality gap strongly increases willingness to pay for national brands, and this effect is stronger when category involvement and price-quality schema are higher; the quality gap mediates a substantial share of marketing and manufacturing effects on willingness to pay.",
+    "Willingness to pay and the perceived quality gap are lower in private-label maturity countries than in development countries, with marketing drivers (especially advertising and packaging) relatively more effective in development markets and manufacturing beliefs relatively more influential in maturity markets."
+  ],
+  "one_line_summary": "Using a large 23-country CPG survey, the paper shows that consumers' willingness to pay a premium for national brands over private labels is mainly driven by perceived quality gaps shaped by marketing and manufacturing factors, and these mechanisms differ by private-label market maturity.",
+  "relation_to_prior_work": "extends prior private-label research by addressing three stated gaps: limited evidence on willingness to pay premia, limited attention to supply-side marketing and manufacturing drivers, and limited coverage of countries where private labels are less mature. It links these drivers to willingness to pay through perceived quality mediation and compares effects across private-label development and maturity stages.",
+  "research_gap": "The paper states that prior work offers limited evidence on whether and when consumers are willing to pay a premium for national brands over private labels, despite the profitability importance of such premia. It also argues that research has emphasized consumer-side drivers in mostly mature private-label countries, with less attention to supply-side marketing and manufacturing factors and to countries where private labels are still developing.",
+  "research_question": "What drives consumers' willingness to pay a price premium for national brands over private labels? Specifically, how do marketing and manufacturing factors affect this willingness through the perceived quality gap between national brands and private labels, and do these relationships differ between countries in private-label development versus maturity stages?"
+}

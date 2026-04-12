@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper references Zhang, Wedel, and Pieters (2009) in its core methodology discussion when motivating the latent instrumental variables (LIV) approach for handling endogeneity. It explicitly describes that paper as a marketing application of latent and observed IVs, using it as direct precedent for adopting LIV in this study. Although the estimator's original development is credited to Ebbes et al., Zhang et al. is used for meaningful methodological positioning rather than a passing background mention.",
+  "relation_description": "The citing paper uses Zhang et al. (2009) as a methodological precedent showing LIV-style endogeneity correction in a marketing setting, then applies that approach to paid search keyword click-through and conversion modeling. The role is transfer of method to a new empirical context, not a challenge to Zhang et al.'s conclusions.",
+  "relation_type": "applies"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper identifies and names \"expense neglect\": consumers underweight expected expense growth relative to income growth when forecasting future financial slack.",
+    "It tests and rules out several alternative explanations (confidence, category flexibility, and optimism) and provides attention-based evidence via tightwad-spendthrift differences.",
+    "It links the bias to consumer sentiment measurement by showing that expected income, but not expected expenses, predicts Michigan ICS responses, and it documents robustness with a 27-study file-drawer meta-analysis."
+  ],
+  "context": "The paper studies subjective personal-finance forecasting, where consumers estimate future spare money (financial slack) over horizons such as 3 months, 12 months, and 24 months. Evidence comes from heterogeneous U.S.-based samples (e.g., employed, unemployed, students, executives, online panels) and includes an application to the University of Michigan Index of Consumer Sentiment.",
+  "design_and_data": "The authors report 10 studies in which participants estimate current and future income, expenses, and financial slack, using multiple operationalizations (rating scales, static levels vs growth estimates, modulus scaling, dollar estimates, and emergency repayment likelihood). Their core test regresses each person's forecasted slack change on that person's forecasted income change and expense change, and compares this unrestricted model with a constrained model imposing equal-and-opposite income and expense weights. Samples include national online panels, MTurk respondents, university students, and executives; Study 10 uses a quota sample (N = 1,004) matched to Federal Reserve SHED strata to examine ICS responses. They also conduct a meta-analysis of their full file drawer (27 studies, 8,418 participants), including moderator analyses such as forecast horizon.",
+  "focal_constructs": [
+    "financial slack",
+    "expense neglect",
+    "income change expectations",
+    "expense change expectations",
+    "attention to expenses",
+    "tightwad-spendthrift tendency",
+    "Michigan Index of Consumer Sentiment"
+  ],
+  "main_findings": [
+    "Participants generally expected income and expenses to rise over time, and they also expected future financial slack to rise, especially at more distant horizons.",
+    "Forecasts of slack were driven much more by expected income change than by expected expense change (expense neglect); in the file-drawer meta-analysis, standardized income received about 2.9 times the weight of standardized expenses, and neglect was stronger for distant forecasts.",
+    "Expense neglect was not explained by confidence differences, perceived expense flexibility, or generalized optimism; tightwads weighted expenses more than spendthrifts, and expected income change (not expected expense change) predicted ICS and Index of Consumer Expectations responses."
+  ],
+  "one_line_summary": "Across multiple studies, consumers forecasting future spare money weight expected income increases much more than expected expense increases, producing systematic expense neglect that becomes stronger at longer forecast horizons.",
+  "relation_to_prior_work": "introduces a weighting-based account of personal-finance forecasting that differs from prior work centered on the accuracy of income or expense predictions and from planning-fallacy or generalized-optimism explanations. It links the bias to attention and stock-flow reasoning by showing that subjective slack forecasts depart from the accounting implication of equal-and-opposite income and expense effects.",
+  "research_gap": "Prior research had focused on whether consumers accurately predict future income or expenses, but had not directly tested how consumers combine their own income and expense expectations when forecasting future spare money. The paper addresses this missing integration step in subjective financial forecasts.",
+  "research_question": "How do consumers translate their expectations about future income and future expenses into forecasts of future financial slack (spare money)? Specifically, do they weight income and expenses equally and oppositely, as accounting logic implies, or do they underweight expected expense growth, and why?"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Edwards and Allenby (2003) for a specific technical claim in its results section: when factors are perfectly collinear, only the sum of the corresponding WTP coefficients is identified. That claim is used to interpret why the correlated two-factor model (M3) yields unstable, highly dispersed factor-level WTP estimates and to motivate the higher-order decomposition. This is a concrete methodological support role, not a generic background mention.",
+  "relation_description": "The citing paper relies on Edwards and Allenby (2003) for an identification argument about collinearity and coefficient recovery, and uses that argument to explain its own estimation behavior in the two-factor model. The citation function is methodological support for interpretation rather than direct reuse of the cited paper's full modeling framework.",
+  "relation_type": "other"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper identifies trade-off resolution as a key mechanism underlying depletion effects from making choices.",
+    "It shows that larger trade-offs are more depleting and that depletion is not driven by general subjective choice difficulty.",
+    "It demonstrates that consumers generally fail to anticipate that choices and within-choice trade-offs can deplete executive resources."
+  ],
+  "context": "The studies are set in consumer decision making, where participants first complete multiple product choices (e.g., apartment, battery, automobile, USB memory key) and then make an unrelated vice/virtue choice. Outcomes include delayed movie selections (highbrow vs lowbrow) and snack choices (granola or yogurt vs chocolate or cookie).",
+  "design_and_data": "Four experiments are reported. Experiment 1 (N = 40 undergraduates) manipulated high versus low trade-off conflict across four hypothetical product choices, then measured a delayed movie vice/virtue choice plus mood and tiredness. Experiment 2 (N = 267 undergraduates; 2 x 2 between-subjects) independently manipulated trade-off size (small vs large) and perceived choice difficulty (easy vs hard-to-read font) before a real snack choice, with a pretest (N = 69) confirming the font difficulty manipulation. Experiment 3 (N = 522 web participants; 2 x 2) compared choice versus matching tasks crossed with trade-off size, then measured yogurt versus cookie choice; Experiment 4 (N = 196 undergraduates) measured participants' predictions about depletion and vice/virtue choices for targets in studying and trade-off-choice scenarios, with and without explicit information that large trade-offs are depleting.",
+  "focal_constructs": [
+    "executive resource depletion",
+    "trade-off conflict",
+    "trade-off size",
+    "subjective choice difficulty",
+    "vice versus virtue choice",
+    "conflict resolution in choice",
+    "preference formation in matching",
+    "naive intuitions about depletion"
+  ],
+  "main_findings": [
+    "Across Experiments 1-3, prior choices with larger trade-offs increased subsequent vice selection relative to smaller trade-offs (e.g., lowbrow movie choice 68% vs 33% in Experiment 1).",
+    "When trade-off size and perceived difficulty were manipulated independently, trade-off size affected subsequent vice/virtue choice but difficulty induced by hard-to-read font did not.",
+    "Large versus small trade-offs changed downstream choices in a choice task but not in a matching task, and participants in Experiment 4 did not intuit the trade-off-depletion link unless it was explicitly explained."
+  ],
+  "one_line_summary": "Across four experiments, the paper shows that resolving larger attribute trade-offs in choices, but not general choice difficulty or matching-based preference formation, causes greater depletion that increases subsequent vice choices, and consumers generally fail to anticipate this effect.",
+  "relation_to_prior_work": "extends prior research showing that choices can deplete self-regulatory resources by specifying that depletion is driven by resolving trade-off conflict rather than choice difficulty per se, and by adding evidence that consumers do not naturally anticipate this mechanism.",
+  "research_gap": "Prior work had shown that making choices can deplete a limited executive resource, but it had not identified which features of choices drive this depletion or when choice tasks are more versus less depleting. The authors also note little evidence on whether people intuit that choices, especially large trade-offs, create depletion.",
+  "research_question": "Which aspects of making choices consume executive resources and thereby shift later self-control-related choices toward vice over virtue? Specifically, do larger trade-offs in prior choices create more depletion than smaller trade-offs, is this effect distinct from subjective choice difficulty, and does it require conflict resolution in choosing rather than mere preference formation? The paper also asks whether consumers can anticipate these depletion effects."
+}

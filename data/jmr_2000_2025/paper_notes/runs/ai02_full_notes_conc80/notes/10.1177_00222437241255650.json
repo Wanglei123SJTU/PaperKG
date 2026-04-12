@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "Introduces and tests exchange-rate stability (fixed vs variable) as a determinant of loyalty point redemption, in contrast to prior redemption work focused on fixed rates.",
+    "Provides evidence for a psychological mechanism: variable exchange rates increase optimism about future point value, which lowers current point redemption.",
+    "Identifies boundary conditions by showing that trait optimism and point expiration policy moderate the optimism pathway and redemption behavior."
+  ],
+  "context": "The paper studies loyalty programs where consumers can pay with money or points, with particular relevance to travel and hospitality programs that often use variable point-money exchange rates. Empirical settings include airline award tickets, a university bookstore program, online retail purchases, and hotel stay bookings.",
+  "design_and_data": "The authors first report descriptive evidence from a proprietary U.S. airline dataset with more than 15,000 award-ticket redemptions over 156 weeks, including booking date, points paid, dollar fare, route, departure date, and flight number. They then run four between-subject experiments (student and MTurk samples; n=453, 419, 519, and 605) that manipulate fixed versus variable exchange rates while holding the average exchange rate constant. Study 1 uses incentive-compatible choices in a retail loyalty setting and also varies whether the exchange rate is observable at choice time. Subsequent studies test mediation and moderated mediation using repeated-choice logit GEE and PROCESS models, with state optimism, trait optimism (LOT-based), and point expiration manipulations/measures.",
+  "focal_constructs": [
+    "exchange-rate stability",
+    "loyalty point redemption",
+    "state optimism about future point value",
+    "trait optimism",
+    "point expiration date",
+    "payment choice (money vs points)"
+  ],
+  "main_findings": [
+    "Consumers are less likely to redeem points and more likely to pay with money under variable versus fixed exchange rates, even when average point value is the same.",
+    "The fixed-versus-variable effect appears when consumers can observe point and money prices (and thus the exchange rate), but not when they choose payment form before seeing prices.",
+    "State optimism mediates the effect of exchange-rate stability on redemption, and this mediation is attenuated by higher trait optimism and by restrictive point expiration dates."
+  ],
+  "one_line_summary": "Using airline field data and four experiments, the paper shows that variable (vs fixed) money-point exchange rates reduce loyalty point redemption because they increase optimism about getting better future redemption value.",
+  "relation_to_prior_work": "extends prior loyalty redemption research that mostly examines fixed point-money exchange rates by analyzing variable-rate settings common in practice and comparing them directly under equal average exchange rates. It also extends uncertainty and payment-form literatures by identifying state optimism as the mechanism linking variable rates to lower point redemption and by documenting moderation from trait optimism and expiration timing.",
+  "research_gap": "Existing point-redemption literature has focused mainly on fixed exchange rates between points and money, while many real loyalty programs use variable rates across offers. The authors state they are not aware of prior research comparing redemption behavior under fixed versus variable exchange rates while holding average exchange rate constant.",
+  "research_question": "How does the stability of the exchange rate between money and loyalty points (fixed vs variable), with the same average exchange rate, affect consumers' decisions to redeem points versus spend money? The paper also asks whether state optimism about future point value explains this effect and whether trait optimism and point expiration timing moderate it."
+}

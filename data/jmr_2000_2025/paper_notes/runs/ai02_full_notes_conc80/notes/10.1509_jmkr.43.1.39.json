@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides what the authors describe as the first unequivocal evidence of systematic behavioral goal gradients in humans, using actual repeated effort in real reward programs.",
+    "Introduces and validates a parsimonious goal-distance model in which effort depends on the proportion of original distance remaining to the goal, and applies it across hazard, Tobit, and logit specifications.",
+    "Shows that illusionary goal progress can increase effort acceleration and that individual differences in early acceleration predict later retention and reengagement."
+  ],
+  "context": "The paper studies incentive and reward programs where people repeatedly invest effort to earn future rewards. The empirical settings are a university cafe loyalty program (coffee purchases for a free reward) and MoodLogic's Jaboom online music-rating program (song ratings for Amazon certificates).",
+  "design_and_data": "The authors combine multiple methods: field data, field experiments, questionnaire process studies, and econometric modeling. In the cafe program, they analyze 949 redeemed 10-stamp cards (about 10,000 purchases; 29,076 day-level rows), plus two controls (73 buyback incomplete cards and 42 nonreinforced transparent cards), using discrete-time proportional hazard models with covariates and latent classes. They run a randomized field experiment (n = 108) comparing a regular 10-stamp card versus a 12-stamp card with 2 bonus stamps, and questionnaire studies with train-station travelers (n = 65 and n = 118) for process tests. In the Jaboom program, they analyze secondary data on 148 members, 14,866 song ratings, and 472 visits, estimating hazard models for intervisit timing, Tobit models for ratings quantity, and logit models for effort persistence/termination.",
+  "focal_constructs": [
+    "goal-gradient hypothesis",
+    "psychological goal distance",
+    "reward programs",
+    "effort acceleration",
+    "illusionary goal progress",
+    "postreward resetting",
+    "effort persistence",
+    "customer retention"
+  ],
+  "main_findings": [
+    "In the cafe reward program, purchase rates accelerated as customers approached the reward: mean interpurchase time fell by about 20 percent (about 0.7 days), and hazard-model goal-distance parameters were negative.",
+    "Illusionary goal progress increased completion speed: customers given a 12-stamp card with 2 preexisting bonus stamps completed the 10 required purchases faster than those given a regular 10-stamp card (12.7 vs. 15.6 days).",
+    "In the Jaboom program, goal proximity increased visit frequency, songs rated per visit, and persistence, and in the cafe data stronger acceleration toward the first reward predicted higher probability of earning a second reward and faster reengagement."
+  ],
+  "one_line_summary": "Across two real reward programs, the paper shows that humans accelerate effort as proportional distance to a reward shrinks, that illusory head starts increase this acceleration, and that steeper early acceleration predicts retention.",
+  "relation_to_prior_work": "extends the behaviorist goal-gradient literature from animal and physiological contexts to human, consequential behavior in marketing reward programs, while integrating consumer behavior ideas about relative distance and progress into econometric models of repeated effort.",
+  "research_gap": "The authors argue that implications of the goal-gradient hypothesis for human behavior are understudied and that prior human evidence is largely based on noninstrumental physiological measures. They state that no published study had provided unequivocal evidence of a systematic behavioral goal gradient in humans, especially in real reward-program settings.",
+  "research_question": "Do humans in reward programs increase effort as they get closer to earning rewards, as predicted by the goal-gradient hypothesis? Is this acceleration driven by perceived proportional progress (including illusionary progress) rather than only absolute distance, and does the strength of acceleration predict retention and reengagement?"
+}

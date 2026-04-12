@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Ascarza (2018) in a specific conceptual role, not just as background. In the literature framing and again in the optimal-targeting discussion, it summarizes Ascarza's core finding that high-risk churn customers are not necessarily the highest incremental-retention targets, then explicitly draws an analogy to its own targeting problem. This prior result helps motivate and position the paper's contribution about objective-function mismatch in promotion targeting (promoted-item lift vs total sales lift).",
+  "relation_description": "The citing paper extends Ascarza's targeting insight to a different marketing context. It carries forward the idea that intuitive targeting based on a convenient metric can be suboptimal, and shows an analogous trade-off for e-book promotions when optimizing promoted-product response instead of total sales.",
+  "relation_type": "extends"
+}

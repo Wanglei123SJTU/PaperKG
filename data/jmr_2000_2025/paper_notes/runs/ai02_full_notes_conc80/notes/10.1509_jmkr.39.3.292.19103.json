@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops a game-theoretic model of retail price competition that jointly incorporates consumer stockpiling and stockpiling-induced flexible consumption.",
+    "Identifies a new rationale for price promotions in competitive markets: even with ex ante identical firms and consumers, stockpiling plus flexible consumption can generate equilibrium promotional pricing and price dispersion.",
+    "Combines theory and data by testing model predictions on promotion frequency and promotional depth with scanner panel evidence across multiple categories."
+  ],
+  "context": "The paper studies retail grocery pricing in frequently promoted consumer packaged goods categories under imperfect consumer price information and Hi-Lo style pricing. Empirically, it analyzes eight categories: four stockpiling-only categories (bathroom tissue, coffee, detergents, paper towels) and four categories with stockpiling plus flexible consumption (bacon, salted snacks, soft drinks, yogurt).",
+  "design_and_data": "The authors formulate a two-period game-theoretic model with n ex ante identical retailers and consumers who choose between buying for current use or stockpiling, while facing uncertain future prices. A category parameter theta captures the probability that stockpiling induces extra immediate consumption, and the model is solved as a symmetric mixed-strategy equilibrium with high and low prices. They test three implications using two years of scanner panel data on prices, promotions, and purchases for 4313 SKUs across the eight categories in five nearby supermarkets. Empirical tests use hierarchical random-effects regressions for high-price frequency and price-ratio outcomes, with controls including SKU market share and time.",
+  "focal_constructs": [
+    "consumer stockpiling",
+    "flexible consumption",
+    "primary demand expansion",
+    "price promotions",
+    "promotion frequency",
+    "promotional depth",
+    "consumer holding costs",
+    "mixed-strategy price equilibrium"
+  ],
+  "main_findings": [
+    "When flexible consumption is stronger, equilibrium competition is more intense: retailers charge the high price less often and promote more frequently.",
+    "Categories with consumption effects show deeper promotions, with lower deal-to-regular price ratios and lower average-to-regular price ratios, and the scanner-data tests support these predictions.",
+    "The model implies that stronger consumption effects reduce average prices and firm profits, while higher consumer inventory holding costs reduce promotional intensity and increase prices and profits."
+  ],
+  "one_line_summary": "The paper develops and empirically supports a model showing that when deal-induced stockpiling can increase consumption, retailers compete with more frequent and deeper price promotions.",
+  "relation_to_prior_work": "extends Salop and Stiglitz (1982) by moving beyond pure stockpiling to a setting where stockpiling can endogenously raise consumption, and by deriving implications for equilibrium promotion frequency and depth. It also connects recent empirical evidence on primary-demand and consumption effects to endogenous competitive pricing, rather than treating firm prices as exogenous.",
+  "research_gap": "Prior work had documented stockpiling and flexible consumption empirically, but lacked a theory of how these consumer dynamics shape equilibrium retail price competition and promotion strategy. Existing promotion theories largely emphasized uncertainty, information, or loyalty differences and did not explicitly integrate stockpiling-induced consumption changes into competitive pricing.",
+  "research_question": "How should retailers set prices and promotions when consumers can stockpile on deals and may increase consumption because of added inventory? How does equilibrium price competition differ between pure-stockpiling categories and categories where stockpiling also triggers flexible consumption, and does stronger consumption effect intensify competition?"
+}

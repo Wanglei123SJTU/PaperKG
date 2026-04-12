@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides formal identification and consistency proofs for copula-based endogeneity correction and clarifies that CopulaOrigin relies on an implicit uncorrelatedness condition between exogenous regressors and the copula transformed term (CTT).",
+    "Introduces 2sCOPE, an IV-free two-stage copula control-function method that simultaneously handles correlated endogenous-exogenous regressors and relaxes the endogenous-regressor nonnormality requirement used in existing copula methods.",
+    "Supplies actionable implementation tools, including a decision tree and a bootstrap procedure to assess finite-sample bias, and demonstrates use in simulation and an empirical marketing application."
+  ],
+  "context": "The paper addresses causal estimation with observational data in settings where endogenous regressors are common and valid instrumental variables are difficult to justify. Its empirical illustration estimates toothpaste category price elasticity using weekly store-level sales and promotion data from Dominick's in Chicago.",
+  "design_and_data": "The authors derive a two-stage copula generated regressor estimator (2sCOPE) under a Gaussian copula dependence structure and present theorems on CopulaOrigin inconsistency with correlated regressors and 2sCOPE consistency/identification under weaker conditions. They run Monte Carlo simulations (typically 1,000 replications) across several scenarios, including correlated regressors, normal or near-normal endogenous regressors, multiple endogenous regressors, and random-coefficient linear panel models, and compare OLS, CopulaOrigin, COPE, and 2sCOPE using bias and efficiency metrics (including D-error). They also provide robustness analyses in the Web Appendix. The empirical application uses 373 weeks of toothpaste category data for two stores and compares 2sCOPE with OLS and TSLS.",
+  "focal_constructs": [
+    "regressor endogeneity",
+    "Gaussian copula dependence",
+    "two-stage copula endogeneity correction (2sCOPE)",
+    "generated regressor control function",
+    "correlated endogenous and exogenous regressors",
+    "regressor nonnormality and identification",
+    "finite-sample bias",
+    "price elasticity"
+  ],
+  "main_findings": [
+    "CopulaOrigin can be inconsistent when exogenous regressors are correlated with the copula-transformed endogeneity control term, whereas 2sCOPE remains consistent under the stated Gaussian-copula assumptions.",
+    "2sCOPE can identify and consistently estimate causal effects even with normally distributed endogenous regressors, provided at least one correlated exogenous regressor is nonnormally distributed.",
+    "Simulation and empirical results show that 2sCOPE markedly reduces finite-sample bias under insufficient endogenous-regressor nonnormality and yields elasticity estimates close to TSLS while correcting OLS endogeneity bias where present."
+  ],
+  "one_line_summary": "The paper proposes 2sCOPE, an IV-free two-stage Gaussian-copula control-function method that consistently corrects endogeneity with correlated regressors and improves identification and finite-sample performance when endogenous regressors are normal or near normal.",
+  "relation_to_prior_work": "extends prior IV-free Gaussian-copula endogeneity methods by replacing direct copula transformed controls with a two-stage residual control that accommodates correlated exogenous regressors and weaker identification conditions. It also adds formal theoretical proofs and practical diagnostics that the paper argues were limited in earlier copula correction work.",
+  "research_gap": "Existing copula correction approaches generally require sufficiently nonnormal endogenous regressors and can be biased when exogenous regressors are correlated with the copula-based control term used for endogeneity correction. The paper also highlights limited formal proofs on identification and consistency for these copula methods.",
+  "research_question": "Can an IV-free copula-based method correct endogeneity when exclusion-restriction instruments are unavailable, while allowing correlation between endogenous and exogenous regressors? Can such a method remain identified and consistent when endogenous regressors are normal or close to normal, where existing copula control-function approaches perform poorly?"
+}

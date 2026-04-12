@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a template-based neural profiling approach that infers brand image by comparing brand-evoked activity with activity elicited by visual templates, rather than relying on predefined brand knowledge.",
+    "Provides a proof of concept that individual neural profiles of brands can recover consumers' own brand-image perceptions and perceived brand similarities.",
+    "Shows that aggregate neural-profile metrics are associated with perceived cobranding suitability and can serve as a potential measure of brand image strength across consumers."
+  ],
+  "context": "The paper studies consumer perceptions of 14 well-known brands spanning electronics, apparel, personal care, and software. Brand image is profiled against 112 naturalistic photos representing four social contexts: professional, intimate, familial, and communal.",
+  "design_and_data": "Study 1 used fMRI with 38 students (37 retained after excluding one for head movement). Before scanning, participants constructed brand-specific mental images; in scanner they completed a brand-imagery task (14 brands shown 6 times each) and a picture-viewing task (112 pictures shown once), then completed a post-scan multiarrangement brand-similarity task and a one-week-later brand-perception survey. The authors selected 3,173 voxels from group-level social-context contrasts, trained within-subject SVM classifiers on picture-viewing data to obtain neural context scores for each brand, and built 112-feature neural profiles from correlation distances between brand and picture patterns. Study 2 collected external ratings from 157 students on cobranding suitability for random subsets of brand pairs and on consumer-based brand equity items used to derive brand image strength.",
+  "focal_constructs": [
+    "brand image",
+    "template-based neural profiling",
+    "visual templates",
+    "mental visualization",
+    "neural context scores",
+    "interbrand neural profile disparity",
+    "cobranding suitability",
+    "brand image strength"
+  ],
+  "main_findings": [
+    "Neural context scores from fMRI during brand imagery significantly predicted self-reported brand-context perceptions overall, with significant effects for professional, intimate, and familial contexts but not communal.",
+    "Within individuals, neural-profile-based interbrand disparity correlated with self-reported brand image dissimilarity (average r = .107; t(36) = 6.16; p < .0001).",
+    "At the aggregate level, greater neural-profile similarity between two brands was associated with higher perceived cobranding suitability (r = -.384; p < .0001), and brands with lower intersubject neural-profile disparity were rated as having stronger brand image (r = -.627; p = .013, permutation-based)."
+  ],
+  "one_line_summary": "Using fMRI and visual templates, the paper builds individual neural profiles of brand image that align with self-reports and, in aggregate, relate to cobranding suitability and brand image strength.",
+  "relation_to_prior_work": "extends prior neuroimaging branding research by moving beyond mainly categorical comparisons and brand-based decoding models that assume predefined, shared brand attributes. It uses active brand-image visualization with template-based pattern analysis to allow individual variation and to characterize what brand information is represented, not only where processing occurs.",
+  "research_gap": "Existing brand-image measures rely heavily on verbal self-report, which can lose information about visual and multisensory associations. Prior neuroimaging approaches either focus on categorical brand contrasts or require a priori brand models with assumed uniform perceptions, leaving limited methods to profile individual brand image content directly from neural data.",
+  "research_question": "Can brand image be extracted from consumers' brains by comparing neural patterns during active brand visualization with patterns elicited by visual templates of social scenarios? Do these individual neural profiles correspond to self-reported brand perceptions and similarities, and do aggregate neural-profile patterns relate to cobranding suitability and brand image strength?"
+}

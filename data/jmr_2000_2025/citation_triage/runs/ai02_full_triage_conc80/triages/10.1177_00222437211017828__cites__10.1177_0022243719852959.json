@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing study relies on text-analytics techniques (including LDA topic modeling and LIWC) to classify forum posts, and the cited paper is a prior JMR text-mining study that also uses LDA/LIWC and demonstrates predictive value of linguistic signals. That creates a plausible method/foundational link, but the matched evidence is only a DOI-level reference entry with no in-text citation context, so importance cannot be confirmed from the provided data.",
+  "triage_decision": "uncertain"
+}

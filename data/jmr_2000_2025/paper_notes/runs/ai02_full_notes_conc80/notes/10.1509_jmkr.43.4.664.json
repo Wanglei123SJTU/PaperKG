@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces customization control as a focal governance choice in B2B customization, distinguishing low versus high vendor control over product composition decisions.",
+    "It develops and empirically tests a model in which technology factors (modularity, technological unpredictability) and knowledge factors (customer knowledge, vendor customer knowledge mobilization resources) determine customization control, including interaction effects.",
+    "It evaluates normative implications of the control choice by explicitly correcting for endogenous selection and linking customization control to closeness to customer needs, delivery performance, and vendor operating profits."
+  ],
+  "context": "The study examines business-to-business procurement of customized complex industrial systems, where vendors and end-user customers can allocate control over how the final product is composed. The empirical setting covers vendors in SIC 35, 36, 37, and 38 industries.",
+  "design_and_data": "The unit of analysis is a single purchasing agreement between a vendor and a specific business customer for a customized engineered product (not off-the-shelf). Using key-informant surveys of sales managers, the authors obtained 304 usable responses from 926 qualified informants (33 percent response rate). They validated multi-item constructs with confirmatory factor analysis. They estimated a GLS customization-control equation and then estimated three performance equations with Garen-style selection correction to address endogenous customization-control choice, with robustness checks using a dichotomized probit specification.",
+  "focal_constructs": [
+    "vendor customization control",
+    "product modularity",
+    "technological unpredictability",
+    "customer knowledge",
+    "vendor customer knowledge mobilization resources",
+    "closeness to customer needs",
+    "delivery performance",
+    "vendor operating profits"
+  ],
+  "main_findings": [
+    "Vendor customization control increases with technological unpredictability and decreases with modularity and customer knowledge.",
+    "The effect of modularity on vendor control is more negative when vendor customer knowledge mobilization resources are high, and the negative effect of customer knowledge is weakened when those resources are high; the main effect of mobilization resources and its interaction with technological unpredictability are not supported.",
+    "Normative analyses indicate that high vendor control improves need fit and delivery under technological unpredictability but worsens outcomes under high modularity, and vendor profits are lower under high modularity (and on average under technological unpredictability) when control is high, but improve when high control is paired with strong mobilization resources."
+  ],
+  "one_line_summary": "Using 304 B2B procurement contracts for complex customized systems, the paper shows that firms strategically choose vendor versus customer customization control based on technology and knowledge conditions, and that this choice materially affects need fit, delivery performance, and vendor profits.",
+  "relation_to_prior_work": "extends prior customization research from mainly B2C algorithm/interface questions to B2B governance of who controls customization in vertical relationships. It applies efficiency logic from Coase and Wernerfelt together with knowledge/resource arguments to explain both the choice of customization institution and its performance consequences.",
+  "research_gap": "Prior customization research largely focused on B2C recommendation methods and interface/process complexity, leaving unclear why B2B firms adopt different vendor-versus-customer control arrangements. The paper addresses the missing evidence on both determinants and performance consequences of these contrasting customization-control approaches.",
+  "research_question": "What determines how much control a vendor should take over customization decisions versus leaving those decisions to the customer in complex industrial markets? If customization control is a strategic choice, does the chosen level improve outcomes such as closeness of the delivered product to customer needs, delivery performance, and vendor operating profits?"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the contributions section, the citation is used directly to support a central premise: average-based layout approaches fail to capture heterogeneity in consumers' internal categorizations. That premise is then tied to the paper's core strategy of measuring congruency at the individual level and optimizing layouts while accounting for heterogeneity. Although the citing paper does not reuse the cited paper's summary-pile estimation algorithm, it relies on the cited paper's insight to justify its framing and claimed contribution.",
+  "relation_description": "The citing paper treats Blanchard et al. (2017) as evidence that internal categorization heterogeneity is important and that aggregation can be problematic for layout design. It builds its own shelf-layout optimization argument on that foundation by modeling shopper-level congruency rather than relying on average categorizations.",
+  "relation_type": "foundational_for"
+}

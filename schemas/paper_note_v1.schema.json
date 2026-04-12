@@ -1,0 +1,56 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "paper_note_v1.schema.json",
+  "title": "Paper Note V1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "one_line_summary",
+    "research_question",
+    "research_gap",
+    "focal_constructs",
+    "context",
+    "design_and_data",
+    "main_findings",
+    "claimed_contribution",
+    "relation_to_prior_work"
+  ],
+  "properties": {
+    "one_line_summary": {
+      "type": "string"
+    },
+    "research_question": {
+      "type": "string"
+    },
+    "research_gap": {
+      "type": "string"
+    },
+    "focal_constructs": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "context": {
+      "type": "string"
+    },
+    "design_and_data": {
+      "type": "string"
+    },
+    "main_findings": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "claimed_contribution": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "relation_to_prior_work": {
+      "type": "string"
+    }
+  }
+}

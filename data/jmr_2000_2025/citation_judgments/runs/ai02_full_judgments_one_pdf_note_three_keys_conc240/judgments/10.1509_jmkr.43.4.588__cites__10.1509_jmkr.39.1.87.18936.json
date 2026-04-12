@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citation is used in the model-development section to justify the authors' choice of a latent-class approach over hierarchical Bayes for handling heterogeneity. The citing paper explicitly invokes Andrews, Ansari, and Currim (2002) as evidence that latent-class models can perform comparably to HB in explaining heterogeneity, while being less computationally demanding for implementation. This is a meaningful methodological-positioning use, not just a passing background mention, even though the cited study is not directly replicated.",
+  "relation_description": "The citing paper draws on Andrews, Ansari, and Currim (2002) to support its methodological choice: it argues that latent-class estimation is comparable to HB for heterogeneity capture, then adopts latent-class MNL in its own pricing model. The cited paper functions as empirical support for that estimation-strategy decision.",
+  "relation_type": "other"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper is a methodological econometrics contribution on Gaussian-copula correction for endogeneity in fixed-effects linear panels, while the cited paper is an application-focused hidden-Markov/email-optimization study using a Frank copula for joint behavior modeling. The citing note names Park and Gupta (2012) as the key prior method being extended, and there is no provided evidence that this email paper supplies the core estimator, identification, or benchmark used in the 2022 method. With only a bare DOI match and no substantive in-text linkage evidence, this looks like a likely background/example mention.",
+  "triage_decision": "drop_obvious_mention_only"
+}

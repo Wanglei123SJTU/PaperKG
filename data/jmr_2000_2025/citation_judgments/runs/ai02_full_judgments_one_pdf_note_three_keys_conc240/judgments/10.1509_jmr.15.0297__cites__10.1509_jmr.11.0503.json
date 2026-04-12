@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is discussed multiple times with specific detail about its retargeting design and findings, rather than appearing only in a generic citation cluster. The citing paper uses it to define a key gap: prior retargeting work compared relative performance of ad creatives, while this study estimates incremental lift versus a holdout using ghost ads. The cited study is also used in interpreting the empirical contribution claim about proving retargeting can work in absolute causal terms. This gives the citation a clear, meaningful framing and positioning role.",
+  "relation_description": "The citing paper uses Lambrecht and Tucker (2013) as a prior benchmark on dynamic versus generic retargeting creatives, then contrasts that line of evidence with its own holdout-based causal lift test. It positions its contribution as moving from relative creative comparisons to estimating incremental effects of retargeting on visits, transactions, and sales.",
+  "relation_type": "other"
+}

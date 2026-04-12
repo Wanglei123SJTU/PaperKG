@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides evidence that incentive intensity in noncustomized sales force contracts serves as a selection and retention device, not only an effort incentive.",
+    "It reports what the authors describe as first evidence across heterogeneous firms and job profiles that compensation contracts are used simultaneously for selection and incentives using individual-level sales compensation data.",
+    "It offers a context-based explanation for the missing uncertainty-incentive insurance effect by emphasizing purposeful selection of less risk-averse agents under volatile conditions."
+  ],
+  "context": "The empirical setting is direct sales of complex industrial equipment by U.S. manufacturers in SIC 35-38. Firms typically offer take-it-or-leave-it compensation plans at the sales-group level rather than contracts customized to each salesperson.",
+  "design_and_data": "The authors develop a simple agency model and extend it with a self-selection mechanism in which firms set noncustomized contract terms and agents sort into jobs. They then test implications with a cross-sectional primary survey of sales managers: 1,470 were contacted, 869 qualified and agreed, and 261 usable responses were obtained (30 percent response), each tied to one focal salesperson and firm. Measures include base salary, total compensation, sales revenue, and manager perceptions of task characteristics, salesperson ability, and salesperson risk aversion; the incentive rate is variable compensation divided by sales revenue. Empirically, they estimate OLS incentive-rate and selection equations, plus IV recursive-system and peer-relative robustness checks.",
+  "focal_constructs": [
+    "sales force compensation contracts",
+    "incentive rate (pay-for-performance intensity)",
+    "salesperson selection and retention",
+    "salesperson ability",
+    "salesperson risk aversion",
+    "customer heterogeneity",
+    "firm reputation",
+    "environmental uncertainty"
+  ],
+  "main_findings": [
+    "Incentive rates are higher when salesperson effort is more important, specifically when customer heterogeneity is higher and firm reputation is lower.",
+    "Salespeople with higher perceived ability and lower perceived risk aversion are associated with jobs offering higher-powered incentives, and this pattern also holds for incentive rates relative to peers.",
+    "Technological and product-demand uncertainty do not significantly reduce incentive rates, even after controlling for perceived ability and risk aversion, so the classic insurance prediction is not supported in this setting."
+  ],
+  "one_line_summary": "Using survey data on 261 industrial salespeople, the paper shows that firms set incentive rates to both motivate effort and sort and retain salespeople by ability and risk aversion, while the predicted negative uncertainty-incentive trade-off is absent.",
+  "relation_to_prior_work": "extends agency-based sales force compensation research by jointly modeling and testing moral hazard incentives and self-selection in noncustomized contracts. It complements labor economics evidence such as Lazear (2000), which shows selection and incentive effects within a firm, by documenting cross-firm sorting on both ability and risk aversion.",
+  "research_gap": "Prior empirical sales compensation research has focused mainly on the incentive role of pay-for-performance under moral hazard, with limited direct evidence on the selection role of contracts in attracting and retaining heterogeneous salespeople. The literature also reports unresolved mixed evidence on the uncertainty-incentive trade-off, which this paper examines in a setting with noncustomized contracts.",
+  "research_question": "How do firms design sales force compensation contracts when they must both motivate unobserved effort and attract and retain salespeople with desirable traits? In noncustomized industrial sales contracts, do observed incentive rates reflect a joint incentive-selection role, and can this help explain why the classic negative uncertainty-incentive relationship is often not found?"
+}

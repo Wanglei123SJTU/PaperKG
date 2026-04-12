@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper claims to be the first to show that ambient light luminance influences choices between healthy and unhealthy food options.",
+    "It identifies mental alertness as the key process linking light luminance to food choice, using mediation and alertness moderation tests.",
+    "It contributes to atmospherics and sensory marketing by showing a practical, low-cost environmental lever that can nudge food-choice outcomes."
+  ],
+  "context": "Empirical settings include a major casual-dining restaurant chain (four outlets in one U.S. metropolitan area) and university laboratory sessions with food-choice tasks. The focal managerial context is restaurant and retail environments where ambient light levels can be easily adjusted.",
+  "design_and_data": "The paper reports five experiments, plus an additional Web Appendix experiment. Study 1a is a field experiment at four locations of a major restaurant chain, with two restaurants set to dim light (25 lux) and two to bright light (250 lux), and patron orders from 160 diners coded as healthy versus unhealthy and as total calories. Studies 1b-1c are lab between-subjects experiments manipulating dim versus bright light (10 vs. 900 lux) with student participants (N = 130; N = 71) and different binary food choices, including an objective digit-span alertness measure and an out-loud choice condition. Studies 2a-2b are 2 x 2 lab experiments (N = 353; N = 149) that cross ambient light with manipulated alertness (placebo caffeine information or direct alertness instructions) and test moderated mediation via alertness measures.",
+  "focal_constructs": [
+    "ambient light luminance",
+    "healthy versus unhealthy food choice",
+    "mental alertness",
+    "calories ordered",
+    "behavioral inhibition",
+    "self-presentation focus",
+    "retail atmospherics"
+  ],
+  "main_findings": [
+    "Participants chose healthy options more often under bright than dim ambient lighting across the field study and lab replications.",
+    "In the restaurant field study, dim lighting increased calories ordered, with diners in dim light purchasing substantially more calories than diners in bright light.",
+    "Mediation and alertness-manipulation evidence indicates that lower alertness under dim light drives unhealthier choices, and increasing alertness attenuates the lighting effect; inhibition and self-presentation measures did not receive comparable support."
+  ],
+  "one_line_summary": "Across a restaurant field experiment and four lab experiments, the paper shows that dim (vs. bright) ambient light increases unhealthy food choice largely because dim light lowers mental alertness.",
+  "relation_to_prior_work": "extends prior work on atmospherics and healthy-unhealthy decision making by isolating ambient light luminance as a determinant of food choice, beyond earlier studies on scent, music, display factors, or light presence versus absence. It also extends lighting research focused on consumption amount or perceptual effects by linking luminance directly to choice and proposing alertness as the mechanism.",
+  "research_gap": "Prior atmospherics and lighting research had examined factors such as scent, music, decor, consumption volume, and light presence versus absence, but had not clearly tested whether ambient light luminance level affects healthy versus unhealthy food choices. The process linking lighting conditions to these specific choice outcomes was also unresolved.",
+  "research_question": "Does ambient light luminance (bright vs. dim) influence consumers' choices between healthy and unhealthy food options? If it does, is the effect driven by changes in mental alertness rather than alternative accounts such as inhibition or self-presentation focus?"
+}

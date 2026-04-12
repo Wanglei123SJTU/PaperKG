@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces brand rating dispersion as a distinct brand-performance metric and evaluates its financial value relevance.",
+    "It documents direct and asymmetric stock-market effects of dispersion, including stronger return impact for downside versus upside dispersion.",
+    "It shows that modeling dispersion is necessary to avoid over- or underestimating the firm-value impact of mean brand ratings."
+  ],
+  "context": "The empirical setting is publicly listed brand-owning firms in the United States, United Kingdom, and Germany. Daily brand perceptions from YouGov BrandIndex across about 20 industry sectors per country are linked to firm stock market outcomes.",
+  "design_and_data": "The authors use YouGov BrandIndex daily data from January 1, 2008, to August 31, 2011, and build final measures of brand rating and brand dispersion via PCA from six perception indicators (quality, value, satisfaction, recommendation, affect, and workplace reputation). After exclusions, the sample includes 960 brands with 508-925 daily observations each, totaling 730,818 brand-day observations matched with stock data. Abnormal return and idiosyncratic risk are derived from a daily four-factor financial benchmark with lagged factors and 250-day rolling estimation windows. Hypotheses are tested with brand-level VAR models with exogenous controls, impulse response functions, and forecast error variance decomposition, plus robustness checks including monthly and single-brand analyses.",
+  "focal_constructs": [
+    "brand rating dispersion",
+    "mean brand rating",
+    "abnormal stock return",
+    "idiosyncratic firm risk",
+    "downside dispersion",
+    "upside dispersion",
+    "brand rating x dispersion interaction",
+    "firm value"
+  ],
+  "main_findings": [
+    "Increases in brand dispersion are associated with significantly lower abnormal returns in both immediate and cumulative effects.",
+    "Increases in brand dispersion are associated with significantly lower idiosyncratic risk, yielding a Januslike pattern of lower returns but lower risk.",
+    "Downside dispersion has a stronger negative effect on returns than upside dispersion, and dispersion significantly weakens the risk-reduction benefit of higher brand ratings, while the moderation on returns is not significant in the VAR results."
+  ],
+  "one_line_summary": "Using daily multi-country BrandIndex and stock data, the study shows that higher cross-consumer brand rating dispersion lowers abnormal returns, reduces idiosyncratic risk, and changes how mean brand ratings translate into firm value.",
+  "relation_to_prior_work": "extends prior branding and marketing-finance research by moving beyond mean brand ratings to include cross-consumer variance and its interaction with rating levels in explaining stock returns and idiosyncratic risk. It also links to variance-focused WOM research by showing capital-market relevance of second-moment brand information.",
+  "research_gap": "Prior work on brand assets and firm value focused on mean-level consumer evaluations and did not test whether variance in those evaluations provides incremental information for stock performance. The paper explicitly notes that no one had examined whether brand dispersion affects stock returns and risk.",
+  "research_question": "Does brand rating dispersion, defined as variance in brand evaluations across consumers, affect firm stock performance beyond mean brand ratings? The paper also asks whether downside and upside dispersion have asymmetric effects and whether dispersion moderates the effects of brand rating on abnormal returns and idiosyncratic risk."
+}

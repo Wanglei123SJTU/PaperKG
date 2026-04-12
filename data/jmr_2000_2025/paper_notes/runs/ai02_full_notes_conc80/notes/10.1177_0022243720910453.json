@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces a process-transfer model of endorser effects in which the evaluation process activated by judging an endorser carries over to judging the endorsed product.",
+    "The authors claim this model supplements affect-transfer, meaning-transfer, and source-credibility models, and helps explain successful endorsements by less favorable or less credible endorsers and under low endorser-product congruence.",
+    "The paper claims that subtle verbal and visual cues in ads can induce process transfer, offering less restrictive endorser selection and a practical damage-control tool when endorsers develop negative publicity."
+  ],
+  "context": "The paper studies celebrity endorsement advertising across multiple product and service settings, including Pepsi, sparkling wine, fish oil, camcorders, and a British restaurant. It focuses on real celebrities with negative public images (Edison Chen, Paris Hilton, Kim Kardashian, and Jaycee Chan), motivated by the Rich Prosecco-Paris Hilton case.",
+  "design_and_data": "The authors run five studies: one field experiment in Hong Kong with real purchase choices (N = 184) and four controlled experiments (MTurk N = 446, 306, and 618; lab N = 358). Across studies, they manipulate ad cues to induce a who-one-is versus what-one-does evaluation process, using either verbal descriptions or subtle visual cues tied to endorser origin versus achievements. They compare responses to paired product versions that are stronger on origin-related attributes (for example COO or brand background) versus performance-related attributes (for example taste, nutrition, resolution, or food quality), with controls such as no-process/no-endorser conditions in Experiment 2. Outcomes include actual choice and purchase or visit intention, with mediation measures (attribute-importance weighting and analogous-process use), plus checks for endorser negativity, product positioning salience, involvement, and perceived fit.",
+  "focal_constructs": [
+    "endorser effect",
+    "process transfer",
+    "who-one-is evaluation process",
+    "what-one-does evaluation process",
+    "country of origin",
+    "functional performance attributes",
+    "product positioning",
+    "consumer involvement"
+  ],
+  "main_findings": [
+    "Inducing a who-one-is process increased preference for origin-dominant options, while inducing a what-one-does process increased preference for performance-dominant options, including in a field purchase setting (69.47% vs 48.31% choosing COO-dominant Pepsi).",
+    "The effects were mediated by process carryover: participants weighted COO versus performance attributes differently and reported greater use of conceptually analogous criteria when evaluating endorser and product.",
+    "When product positioning cues were made salient, positioning could override endorser-induced process transfer; and the effect weakened under extremely low involvement but held under moderate to high involvement, even with low endorser-product fit."
+  ],
+  "one_line_summary": "Across a field study and four experiments, the paper shows that ad cues that trigger who-one-is versus what-one-does evaluation of a celebrity transfer to product evaluation and shift preference toward origin- versus performance-dominant offerings, even with negatively viewed endorsers.",
+  "relation_to_prior_work": "extends existing affect-transfer, meaning-transfer, and source-credibility accounts by proposing a valence-neutral mechanism in which evaluation procedures, not just valenced properties, transfer from endorser to product. It also challenges strict fit-based constraints by showing process transfer can operate across unrelated endorser-product domains, while identifying conditions where other cues dominate.",
+  "research_gap": "Prior endorser-effect models emphasize transfer of positive valence (likeability, credibility, symbolic meanings) and typically predict weaker outcomes for disliked, less credible, or low-fit endorsers. The paper argues these models do not explain some successful endorsements in such cases and do not consider transfer of the evaluation process itself.",
+  "research_question": "Does the cognitive process consumers use to evaluate an endorser transfer to evaluation of the endorsed product? Specifically, can inducing a who-one-is versus what-one-does mindset through ad cues shift product judgments toward origin-related versus performance-related attributes, including when endorsers are negatively viewed or low in fit with the product? The paper also examines when this process-transfer effect is strengthened or attenuated."
+}

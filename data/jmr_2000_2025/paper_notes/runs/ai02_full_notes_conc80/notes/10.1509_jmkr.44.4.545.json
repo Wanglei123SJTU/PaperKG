@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides a brand-level analysis of stockkeeping unit reductions, addressing a question prior SR studies had mostly left at the store or category level.",
+    "Introduces a joint model of category purchase incidence, brand choice, and purchase quantity that controls for price and promotion changes and allows consumer heterogeneity.",
+    "Identifies brand and consumer factors that explain why SR effects differ across brands and households, with implications for manufacturers and retailers (including private labels)."
+  ],
+  "context": "The study uses scanner-like household purchase data from an anonymous U.S. online grocery retailer that implemented a permanent, systemwide SKU reduction program in January 1999. Empirical analyses focus on three categories in one Midwestern market: liquid laundry detergent, margarine, and spaghetti sauce.",
+  "design_and_data": "The authors estimate a joint incidence-choice-quantity model with latent classes, using matched pre-SR and post-SR windows (33 weeks each in 1998 and 1999) plus a 33-week initialization period in 1997. After excluding eliminated brands and very small brands, each category analysis uses 9 retained brands; estimation samples are 191 households (12,606 observations) for detergent, 244 (16,104) for margarine, and 234 (15,444) for spaghetti sauce. To isolate SR effects from coincident marketing-mix shifts, they run a would-be counterfactual using pre-SR covariates with and without SR parameters, then compare predicted outcomes. Follow-up regressions pool categories to explain heterogeneity in SR effects across households and brands.",
+  "focal_constructs": [
+    "stockkeeping unit reduction (SR)",
+    "category purchase incidence",
+    "conditional brand choice probability",
+    "purchase quantity",
+    "state dependence",
+    "brand market share",
+    "price and promotion sensitivity",
+    "change in SKU share"
+  ],
+  "main_findings": [
+    "SR effects vary substantially across categories, brands, and consumers, and category-level averages can mask large brand-level gains and losses.",
+    "Brands with higher pre-SR market share, higher price levels, and more frequent promotions tend to gain purchase share after SR; brand-level SR design variables matter, including size reductions, number of SKUs removed (with a nonlinear pattern), and changes in SKU share.",
+    "Consumers with higher state dependence and higher purchase frequency tend to increase category incidence and quantity after SR, while consumers with lower state dependence and lower frequency show decreases; SR-induced brand-choice reallocation is stronger for consumers with lower state dependence and higher price/promotion sensitivity."
+  ],
+  "one_line_summary": "Using online grocery panel data around a permanent assortment reduction, the paper shows that SKU cuts reallocate demand across brands in systematic ways driven by brand position, SR design, and consumer heterogeneity.",
+  "relation_to_prior_work": "extends prior SKU-reduction research that focused on store- and category-level outcomes by modeling brand-level effects and purchase reallocation among remaining brands.",
+  "research_gap": "Prior SR studies largely examined assortment perceptions, store choice, and category/store sales, leaving unclear how SKU elimination affects individual brands and how consumers reallocate purchases among surviving brands. The paper also highlights that simple pre-post market-share comparisons can be confounded by concurrent price and promotion changes.",
+  "research_question": "How does a retailer's SKU reduction program affect individual brands through changes in category purchase incidence, brand choice, and purchase quantity? Which brand characteristics, SR design features, and consumer characteristics explain why some brands gain share and others lose after SR?"
+}

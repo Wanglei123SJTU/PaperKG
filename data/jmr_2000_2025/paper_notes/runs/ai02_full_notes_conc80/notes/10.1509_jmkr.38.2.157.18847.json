@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper identifies remote purchase as a two-stage decision process and argues that return-policy effects differ from traditional in-store purchase because delivery delay and missing experiential information at order change consumer behavior.",
+    "It provides behavioral experimental evidence that return policy acts as a quality signal and that these quality inferences can persist after product receipt.",
+    "It argues that endowment-like ownership can arise before physical possession in remote purchase, helping explain why lenient policies can increase commitment rather than simply increase returns."
+  ],
+  "context": "The paper studies remote retail purchasing, especially catalog shopping (with implications for Internet/e-commerce), and contrasts it with simulated bricks-and-mortar conditions. Consumers make an order decision first and a keep-or-return decision after product receipt.",
+  "design_and_data": "The article reports three controlled experiments plus preliminary studies with undergraduate participants. A preliminary conjoint study (n=77) showed that return-policy attributes affected catalog choice; Experiment 1 (n=24, two sessions) manipulated whether sale items were returnable and measured order and keep-or-return deliberation times and quality ratings before order and after receipt for real catalog products. Experiment 2 (computerized; 108 recruited, 93 usable, 85 ordered) used candy bars in a 2 x 2 x 2 design manipulating policy leniency, receipt delay (immediate vs one week), and timing of product experience (taste before vs after order), with repeated measures across decision stages. Experiment 3 included a scenario pilot (n=68) and a two-session pen study (84 recruited, 82 usable, 59 ordered) that manipulated refund of shipping/return costs and measured continued search behavior via time spent reviewing competitor information.",
+  "focal_constructs": [
+    "return policy leniency",
+    "two-stage remote purchase decision",
+    "order versus keep-or-return decision",
+    "decision deliberation time",
+    "quality signaling",
+    "endowment (mere ownership) effect",
+    "prereceipt quality expectations",
+    "continued product search"
+  ],
+  "main_findings": [
+    "Lenient return policies reduced deliberation time for the order decision but did not increase deliberation time for the keep-or-return decision, especially when there was a delivery delay.",
+    "Lenient policies increased prereceipt quality expectations and yielded higher postreceipt quality evaluations in remote conditions where experience came after ordering, while these effects were not observed in taste-before (in-store-like) conditions.",
+    "Lenient policies reduced continued search between order and receipt and increased order rates in the experiments; in Experiment 3, the higher return rate under lenient policy was not statistically significant."
+  ],
+  "one_line_summary": "Across three experiments, the paper shows that lenient return policies in remote purchasing can increase ordering and quality perceptions while reducing order-stage conflict without increasing keep-or-return deliberation, via signaling and endowment-related mechanisms.",
+  "relation_to_prior_work": "extends prior return-policy research that was mainly normative and profit-focused by providing behavioral evidence on consumer perceptions and choices in remote purchase settings. It also challenges strict signaling-model implications by showing that return-policy quality signals can persist after receipt, consistent with endowment effects.",
+  "research_gap": "The paper states that existing return-policy research is mostly normative and focuses on controlling returns or profit outcomes, without examining consumer perceptions or choice processes. It addresses the lack of behavioral evidence for remote purchase contexts where ordering and keep-or-return are separated in time and experiential information is unavailable at order.",
+  "research_question": "How does return policy leniency influence consumer behavior in a two-stage remote purchase process consisting of an order decision followed by a keep-or-return decision after receipt? The paper tests whether lenient policies only increase flexibility and potential returns, or whether they also signal quality and trigger endowment-based commitment that affects deliberation, search, and quality judgments."
+}

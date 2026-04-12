@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper identifies expecting to evaluate as a robust source of systematic negative bias in customer quality and satisfaction evaluations across multiple field and laboratory contexts.",
+    "It develops and tests three alternative mechanisms - vigilant processing, role expectation, and negativity enhancement - and finds the evidence most consistent with negativity enhancement.",
+    "It demonstrates practical consequences by showing that expected evaluation can lower purchase/recommendation intentions and can bias commonly used satisfaction-measurement practices."
+  ],
+  "context": "The studies examine consumer settings in which people may anticipate later feedback requests, including a computer software service center, an electric utility, a supermarket, a drugstore, and magazine-article evaluation tasks with museum visitors and airport travelers. The domain is customer quality and satisfaction measurement used by firms and organizations.",
+  "design_and_data": "The paper reports a series of randomized field and controlled studies comparing expected-evaluation conditions with controls and related manipulations. Core reported studies include: computer service center customers (n = 100; 2x2 expected evaluation x stated expectations), electric utility customers contacted twice one month apart (n = 162; mixed design), supermarket shoppers (n = 125; 2x2 expected evaluation x positive/negative expectations plus control), museum visitors evaluating manipulated article quality (n = 597; 3x2x2 design with task timing, actual quality, and expectations), and drugstore shoppers (n = 180; six-task contrast). Outcomes include service/quality ratings, overall satisfaction, thought listings, and behavioral intentions such as subscribing or recommending.",
+  "focal_constructs": [
+    "expecting to evaluate",
+    "customer satisfaction evaluations",
+    "service quality judgments",
+    "negativity enhancement",
+    "vigilant processing",
+    "role expectation",
+    "performance expectations",
+    "recommendation and purchase intentions"
+  ],
+  "main_findings": [
+    "Across studies, consumers who expected to evaluate gave less favorable quality and satisfaction ratings than consumers not informed in advance about evaluation.",
+    "The negative bias extended to behavioral intentions, reducing willingness to subscribe or recommend, and it persisted even when respondents were explicitly told to consider both positive and negative aspects.",
+    "Results were most consistent with negativity enhancement: expecting to evaluate increased attention to negative aspects, and the bias was attenuated when initial expectations were low (especially when actual quality was high), which does not fit a purely vigilant-processing or pure reporting-bias account."
+  ],
+  "one_line_summary": "Across field and laboratory experiments, advance awareness of an upcoming evaluation task systematically made customer judgments more negative and lowered downstream intentions, primarily because it amplified attention to negative information.",
+  "relation_to_prior_work": "extends prior satisfaction/disconfirmation, negativity-bias, and online-versus-memory judgment work by showing that anticipating an evaluation task can systematically amplify the weighting of negative cues in quality and satisfaction judgments.",
+  "research_gap": "Prior work had not directly tested whether expecting to provide a later evaluation changes the valence of customer quality/satisfaction judgments. The literature also had not specified when the overweighting of negative information is intensified in these evaluations.",
+  "research_question": "Does knowing in advance that one will later evaluate a consumed service or product systematically change subsequent quality and satisfaction judgments? If so, is the effect better explained by vigilant processing, role expectation, or negativity enhancement, and how is it moderated by prior expectations, actual quality, and task timing?"
+}

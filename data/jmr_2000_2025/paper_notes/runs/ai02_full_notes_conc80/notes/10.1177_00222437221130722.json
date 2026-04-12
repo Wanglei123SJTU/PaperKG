@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Proposes an attribute-based mixed-membership SKU-level model that defines latent shopping topics over product attributes and is designed for large, frequently changing assortments.",
+    "Demonstrates stronger predictive performance than benchmark models, with particular gains in predicting preferences for new products not in the existing assortment.",
+    "Reveals and operationalizes differences between browsing- and purchase-stage preference structures in online fashion deal shopping, and shows managerial value via personalized recommendation improvements."
+  ],
+  "context": "The empirical setting is an app-only online deal marketplace in China that sells discounted fashion products for limited periods. Assortments are large and frequently changing, with many holdout-period SKUs not present in the estimation period.",
+  "design_and_data": "The authors develop a Bayesian attribute-based mixed-membership model in which topics are probability distributions over discrete and continuous product attributes, and browsing and purchase topic relevance vectors are linked within session. Topic relevance is modeled as evolving with seasonality, cumulative store experience, and attribute-level familiarity, and the number of topics is inferred using a hierarchical Dirichlet scaling process. Parameters are estimated with Hamiltonian Monte Carlo (no-U-turn sampler) in Stan and compared with three benchmark models using WAIC and recommendation metrics. Data span 53 weeks (Aug 2013-Jul 2014) of browsing and purchase records: 1,329 consumers, 20,665 sessions, and 7,557 SKUs overall; first 45 weeks are used for estimation and last 8 weeks for holdout validation.",
+  "focal_constructs": [
+    "attribute-based mixed-membership topics",
+    "browsing-stage topic relevance",
+    "purchase-stage topic relevance",
+    "cross-category preference structure",
+    "preference evolution with shopping experience",
+    "original price preference",
+    "depth of discount preference",
+    "personalized product recommendations"
+  ],
+  "main_findings": [
+    "The proposed model generally outperformed benchmark models in predictive performance and was especially stronger than LDA-based alternatives for predicting preferences on new holdout products.",
+    "Browsing was associated with broader attribute coverage than purchases, as consumers explored a wider range of categories/brands/colors before buying.",
+    "Consumers tended to browse premium-positioned and/or deeply discounted products but purchase relatively lower-original-price products with more modest discounts, and linking browsing-to-purchase topic relevance improved purchase prediction and recommendations."
+  ],
+  "one_line_summary": "The paper develops and validates an attribute-based mixed-membership topic model for online fashion deal shopping that captures linked browsing and purchase preferences and improves prediction, especially for new SKUs in changing assortments.",
+  "relation_to_prior_work": "introduces a mixed-membership SKU-level model that combines attribute-based choice modeling with topic-model structure used in large-assortment research. Unlike prior LDA assortment models, it defines topics over product attributes rather than individual SKUs, enabling prediction for unseen products and incorporation of time-varying product attributes. It also jointly models browsing and purchase topic relevance within shopping sessions.",
+  "research_gap": "Existing SKU-level attribute models were largely category-specific and did not model cross-category preference interconnections at the full-store level. Existing LDA-based assortment models could not predict preferences for products absent from calibration assortments and were less suitable for incorporating time-varying product attributes in frequently changing assortments.",
+  "research_question": "How can retailers infer consumer preference structures at the SKU level in large, frequently changing assortments where many future products are unseen during model calibration? The paper also asks how latent topics differ between browsing and purchase stages and how these topic relevances evolve with consumers' shopping experience."
+}

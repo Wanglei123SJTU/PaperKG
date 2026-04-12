@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops a piracy regulation model that endogenizes the pirate firm's strategic investment in antitracking technologies in competition with a copyright holder.",
+    "It provides actionable optimal-regulation guidance with two penalty regimes depending on antitracking technology cost, clarifying when moderate versus high penalties are optimal.",
+    "It broadens policy analysis beyond the baseline by comparing demand-side and supply-side tools and by showing possible unintended effects of consumer education and longer-run creation/protection incentives."
+  ],
+  "context": "The setting is digital content markets where a copyright holder sells legal content and a pirate website offers free, lower-quality copies funded by advertising. The motivation uses real-world demand-side anti-piracy laws (e.g., U.S. PRO-IP Act, France HADOPI/ARCOM) and piracy platforms such as Pirate Bay.",
+  "design_and_data": "The study is theoretical and uses a game-theoretic vertical competition model. A copyright holder sets legal price and a pirate firm chooses antitracking intensity (tracking probability x with quadratic cost), while heterogeneous consumers (including ethical and unethical types) choose legal, pirated, or no consumption under a user penalty t when tracked. The analysis first treats t as exogenous and then endogenizes it via regulator welfare maximization, deriving equilibrium regions and comparative statics for demand, prices, profits, consumer surplus, and welfare. The paper also analyzes multiple extensions, and uses descriptive evidence (Google Trends and documented Pirate Bay antitracking actions) as motivation rather than causal empirical identification.",
+  "focal_constructs": [
+    "digital piracy consumption",
+    "demand-side regulation penalties",
+    "pirate firm antitracking investment",
+    "tracking probability and expected penalty",
+    "copyright holder pricing",
+    "social welfare",
+    "supply-side takedown regulation",
+    "ethical versus unethical consumers"
+  ],
+  "main_findings": [
+    "When antitracking technology is sufficiently cheap, piracy consumption is U-shaped in the penalty: it first decreases and then increases because higher penalties induce stronger pirate investment that lowers tracking probability, making consumers' expected penalty inverse U-shaped.",
+    "In that region, tighter regulation can reduce copyright-holder profit and social welfare; optimal policy is a moderate penalty that maximizes expected penalty and tolerates some piracy, while costly antitracking leads to an optimal high penalty that fully deters piracy supply.",
+    "Supply-side takedown does not generally substitute for demand-side regulation, and increasing the share of ethical consumers through education can increase piracy through copyright-holder repricing; extensions also show nonmonotonic effects on incentives for content quality and copyright protection."
+  ],
+  "one_line_summary": "The paper builds a game-theoretic model showing that consumer penalties for digital piracy can backfire because pirate websites endogenously invest in antitracking technologies, and it derives cost-contingent optimal penalty rules.",
+  "relation_to_prior_work": "extends prior digital piracy regulation models by explicitly modeling pirate firms' strategic antitracking responses to consumer penalties, which the paper argues earlier studies generally do not incorporate. This added mechanism generates nonmonotonic predictions for piracy, firm outcomes, and welfare under tighter regulation. It also links to broader work on unintended regulatory consequences by transferring that logic to digital piracy consumption.",
+  "research_gap": "Existing digital piracy regulation research cited in the paper generally does not model pirate firms' strategic responses to consumer penalties, especially antitracking investment that changes detection probability. This leaves a gap in explaining why piracy consumption may continue rising after tighter demand-side laws.",
+  "research_question": "How does demand-side regulation that penalizes piracy users affect market outcomes when pirate firms can strategically invest in antitracking technologies that reduce detection? Under what conditions can higher penalties increase piracy consumption, and what penalty design maximizes welfare?"
+}

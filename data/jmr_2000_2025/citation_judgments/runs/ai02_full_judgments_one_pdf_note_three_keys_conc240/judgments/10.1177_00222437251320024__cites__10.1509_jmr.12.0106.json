@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in the methods section as a direct precedent for deploying latent Dirichlet allocation with Gibbs sampling on unstructured text to extract latent transaction topics. The citing study then operationalizes this topic output as controls for unobserved heterogeneity in its governance-choice model, and reiterates this methodological use in the discussion. Although the citation does not drive the core theory, it meaningfully informs an implemented empirical component rather than serving as a passing background mention.",
+  "relation_description": "The citing paper applies the cited paper's LDA-based marketing text-mining approach to deal-announcement text to derive latent topic controls for unobserved transaction heterogeneity. It uses Tirunillai and Tellis (2014) as methodological precedent for incorporating unstructured textual analysis into its empirical design.",
+  "relation_type": "applies"
+}

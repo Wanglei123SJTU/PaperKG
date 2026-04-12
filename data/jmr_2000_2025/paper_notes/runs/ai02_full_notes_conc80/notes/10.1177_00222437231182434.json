@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces and defines heritage connection and heritage loss as transaction-relevant constructs for goods linked to a shared past.",
+    "It provides what the authors describe as the first quantification of connection to the shared past as a source of product value in buyer-seller market transactions.",
+    "It shows that heritage-linked collective ownership dynamics can produce a heritage discount in seller pricing, with implications for endowment effect, psychological ownership, sentimental goods, and sharing research."
+  ],
+  "context": "The studies examine consumer resale settings for heritage-linked goods, including estate-sale style items, inherited family objects, university reunion goods, and Facebook Marketplace vintage listings. Buyers are framed as either sharing or not sharing the seller's connection to a meaningful collective past (e.g., family history, alma mater, regional roots).",
+  "design_and_data": "A pilot on MTurk (N=235) was used to elicit how consumers describe heritage goods and inform construct definitions. Five preregistered studies then manipulated buyer heritage connection and measured sellers' willingness to accept, primarily with CloudResearch/MTurk samples using Becker-DeGroot-Marschak elicitation (Study 1 N=475 analyzed; Study 2 N=383 analyzed; Study 3 N=396 analyzed). Study 4 was a probabilistically incentive-compatible field experiment with alumni at a large East Coast university (N=123 analyzed) using real endowed goods (heritage pennant vs control cookies). Study 5 was a field test on Facebook Marketplace with 400 real sellers receiving randomized heritage vs control buyer messages and observed acceptance of discounted offers.",
+  "focal_constructs": [
+    "heritage connection",
+    "heritage goods",
+    "heritage loss",
+    "willingness to accept (WTA)",
+    "willingness to pay (WTP) perceptions",
+    "psychological ownership",
+    "sentimental value",
+    "ingroup favoritism"
+  ],
+  "main_findings": [
+    "Sellers showed a heritage discount: they set lower WTA for buyers who shared the good's heritage connection than for nonconnected buyers, and this discount exceeded discounts tied to ingroup and sentimental-value manipulations.",
+    "The heritage discount persisted even when sellers perceived heritage buyers as valuing the good more and having higher WTP, yielding a WTA-WTP asymmetry.",
+    "Perceived heritage loss (seller heritage connection minus perceived buyer heritage connection) mediated the buyer-identity effect on WTA, and supportive evidence appeared in incentive-compatible field transactions and in Facebook Marketplace offers."
+  ],
+  "one_line_summary": "Across five studies, sellers of heritage goods accepted lower prices from heritage-connected buyers, and this heritage discount was explained by perceived heritage loss.",
+  "relation_to_prior_work": "extends endowment-effect and psychological-ownership research by showing that value tied to a collective past can lower sellers' WTA when buyers share that past. It also refines sentimental-goods and sharing perspectives by separating heritage connection from ingroup favoritism, sentimental value, and buyer usage appropriateness as explanations for pricing outcomes.",
+  "research_gap": "Prior work had not clearly quantified how a good's connection to a shared collective past affects seller pricing in buyer-seller exchange. The paper addresses this by theorizing and testing heritage connection and heritage loss as determinants of WTA.",
+  "research_question": "How does a buyer's shared heritage connection to a seller's good influence the seller's willingness to accept in a market transaction? Do sellers offer a heritage discount, and is this pattern driven by perceived heritage loss rather than alternatives such as ingroup favoritism, sentimental value, usage appropriateness, or perceived buyer demand?"
+}

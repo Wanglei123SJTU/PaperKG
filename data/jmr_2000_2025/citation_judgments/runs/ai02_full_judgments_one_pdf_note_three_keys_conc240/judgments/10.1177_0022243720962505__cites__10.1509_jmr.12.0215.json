@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Hu, Du, and Damangir (2014) as a key prior study in its framing of the search-sales link, explicitly noting that Hu et al. show online-search-based constructs improve sales model prediction. It also adopts a similar Google Trends query construction procedure in its data section, indicating concrete methodological borrowing rather than a casual mention. The cited work helps motivate the paper's core setup of modeling online search together with sales and then positioning the new contribution around ad-content effects and heterogeneity.",
+  "relation_description": "The citing paper extends Hu et al. (2014)'s search-augmented sales modeling line by adding informational versus emotional TV ad content and product-positioning moderators to explain direct and indirect ad effects across funnel stages. It keeps the search-plus-sales perspective but shifts the contribution to content-driven effectiveness differences and managerial implications.",
+  "relation_type": "extends"
+}

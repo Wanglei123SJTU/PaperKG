@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is directly about handling missing data and multiple imputation in settings that explicitly include split questionnaires and mixed outcome types, which closely matches the citing paper’s core problem (missing-by-design in split questionnaires with mixed data and imputation). Given this strong methodological overlap and the citing paper’s stated extension of prior split-questionnaire/missing-data work, this does not look like an obvious incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

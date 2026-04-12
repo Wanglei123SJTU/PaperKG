@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used as a core methodological anchor, not just background: the citing paper explicitly adopts the Gilbride et al. active/inactive variable-selection formulation with latent indicators in the utility model. The citing authors then state they extend variable-selection models by incorporating self-stated auxiliary data into the selection process and pairing this with customized experimental design. They also treat the Gilbride-style model as a benchmark in model comparison, indicating a direct build-on relationship.",
+  "relation_description": "The citing paper builds directly on Gilbride et al.'s heterogeneous variable-selection framework for discrete choice, reusing its active/inactive indicator structure. It extends that framework by adding auxiliary self-stated data to guide variable selection and integrating it with a new dual-objective design strategy.",
+  "relation_type": "extends"
+}

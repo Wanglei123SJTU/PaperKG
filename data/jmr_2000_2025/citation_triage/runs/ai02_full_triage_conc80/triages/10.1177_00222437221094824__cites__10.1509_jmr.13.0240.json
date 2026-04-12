@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is about a structured-covariance HB multinomial probit for similarity effects and source-of-volume, while the citing paper note emphasizes an epsilon-constraint utility–regret model with consideration sets and MNL-based comparisons, with no explicit mention of using that specific probit framework. Given the evidence is only a single DOI-matched reference and no in-text citation context, it is not safe to classify as an obvious mention-only drop.",
+  "triage_decision": "uncertain"
+}

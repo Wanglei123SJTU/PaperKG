@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Identifies three widely used but misleading heuristics that are overgeneralized from additive regression or ANOVA to moderated multiple regression.",
+    "Uses theoretical arguments, constructed examples, and a published empirical example to show how these heuristics produce faulty coefficient interpretation and incorrect statistical tests.",
+    "Provides practical guidance for moderated regression in marketing, including coding/origin choices, mandatory inclusion of interaction components, and avoiding dichotomization of continuous predictors."
+  ],
+  "context": "The paper addresses quantitative analysis in marketing studies where effects are moderated, such as promotion effects across segments, rebate delay/effort/face-value choices, and advertising content effects across loyalty levels. It is framed as guidance for common marketing research workflows using regression-like models.",
+  "design_and_data": "This is a methodological article based on algebraic derivations and worked examples rather than new primary data collection. The authors use a constructed hypothetical dataset (10 observations) to demonstrate how coding, model specification, and dichotomization affect interaction tests. They also reanalyze a published marketing dataset from Soman (1998) with alternative coding schemes in logistic regression to show how lower-order tests shift across codings. In addition, they report a review of 20 moderated-regression articles in recent JMR issues, finding 18 that used at least one misleading heuristic.",
+  "focal_constructs": [
+    "moderated multiple regression",
+    "interaction (product) terms",
+    "simple effects versus main effects",
+    "coding and origin of predictors",
+    "component inclusion in interaction models",
+    "product-only versus full moderated models",
+    "median split dichotomization",
+    "statistical power in interaction tests"
+  ],
+  "main_findings": [
+    "In moderated regression, changing coding or variable origins changes tests and interpretations of component terms and lower-order interactions, but not the highest-order interaction term.",
+    "Testing a product-only model or dropping product components is inappropriate for interaction inference, because product significance then depends on arbitrary coding/origin choices and can confound effects.",
+    "Dichotomizing continuous predictors (for example, median splits) can reduce power, alter significance patterns, and can create spurious interactions when predictors are correlated."
+  ],
+  "one_line_summary": "Using derivations and examples, the paper shows that three common heuristics from additive regression and ANOVA mislead interaction analysis in moderated multiple regression and offers concrete corrective practices.",
+  "relation_to_prior_work": "refines prior marketing guidance on moderator analysis, explicitly updating and expanding earlier work such as Sharma, Durand, and Gur-Arie (1981), with which the authors disagree on some conclusions.",
+  "research_gap": "Marketing researchers often apply familiar additive-regression and ANOVA heuristics to moderated regression, but these heuristics do not generally hold once product terms are included. The authors state that these issues have received little attention in the marketing literature and require clearer guidance.",
+  "research_question": "Which commonly used regression/ANOVA heuristics become misleading in moderated multiple regression models, and why? What estimation, testing, and interpretation practices should replace them so interaction effects are analyzed correctly in marketing research?"
+}

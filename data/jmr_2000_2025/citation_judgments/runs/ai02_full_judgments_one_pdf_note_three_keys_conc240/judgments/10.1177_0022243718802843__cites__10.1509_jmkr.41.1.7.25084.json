@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper gives Gupta, Lehmann, and Stuart (2004) a central role in motivating its contribution: it calls that work pioneering but argues its noncontractual-firm treatment relies on problematic retention proxies and can materially misvalue firms. The cited paper is then operationalized as a named benchmark model in multiple empirical comparisons (in-sample fit, rolling holdout MAPE, and valuation outputs), not just listed as background. This indicates the citation is used to anchor and improve an existing CBCV approach rather than as a passing mention.",
+  "relation_description": "The citing paper refines Gupta et al. (2004) by replacing its contractual-style retention proxy approach for noncontractual firms with a latent-attrition, acquisition-order-spend framework calibrated to aggregated public disclosures. It uses Gupta et al.'s model as a direct benchmark and shows better predictive and valuation performance under the refined assumptions.",
+  "relation_type": "refines"
+}

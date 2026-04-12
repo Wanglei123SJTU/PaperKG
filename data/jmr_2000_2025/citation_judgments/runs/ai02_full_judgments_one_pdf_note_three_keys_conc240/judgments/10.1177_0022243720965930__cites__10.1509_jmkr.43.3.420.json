@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Gilbride, Allenby, and Brazell (2006) in multiple methodological roles, not just as background. It explicitly proposes an alternative specification that extends the HVS idea to detect information-poor respondents, and it also generates simulation data from the HVS process to test robustness under model misspecification. The paper further fits the HVS model as a benchmark and compares its ability to identify IP respondents against the proposed gremlins model, concluding HVS is less suitable for that specific task.",
+  "relation_description": "The citing paper adapts the cited HVS framework as an alternative method for information-poor respondent detection and uses it as a simulation and robustness benchmark. It positions its own variance-mixture approach relative to HVS by direct comparative evaluation.",
+  "relation_type": "other"
+}

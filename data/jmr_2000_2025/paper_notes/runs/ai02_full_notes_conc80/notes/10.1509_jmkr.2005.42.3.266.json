@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Identifies a willful-ignorance pattern in consumer decisions: consumers request ethical attribute information less than they would use it if it were provided.",
+    "Shows that this request-use inconsistency is strongest among consumers who report high concern for the ethical issue, including protected-value respondents.",
+    "Provides evidence that emotional self-protection, especially avoidance of anger, underlies underrequesting of ethical information and is amplified when the information concerns an already chosen attractive product."
+  ],
+  "context": "The paper examines consumer purchase decisions where ethical product attributes are not automatically displayed and must be actively requested. Empirical contexts include wooden desk sets (rain forest wood source) and cellular phones (child labor practices), alongside nonethical attributes such as price, comfort, warranty, and delivery time.",
+  "design_and_data": "Study 1 used a between-subjects paper-and-pencil experiment with undergraduates (n = 222 analyzed): one group requested desk attribute information and another completed a full-information conjoint task on the same attributes. Study 2 used a within-subject experiment with undergraduates (n = 176 analyzed) in which participants first requested attributes and then completed a full-information conjoint evaluation. Study 3 used a 2 x 2 between-subjects experiment with undergraduates (n = 187 analyzed), manipulating choice versus no-choice and whether optional information was offered on an attractive versus unattractive phone, followed by conjoint ratings and emotion measures. Attribute use was operationalized from participant-level ordinary least squares conjoint weights and compared with request/view ordering measures.",
+  "focal_constructs": [
+    "ethical attribute information",
+    "willful ignorance",
+    "request-use inconsistency",
+    "ethical concern and protected values",
+    "negative emotion avoidance",
+    "choice commitment",
+    "conjoint attribute weights"
+  ],
+  "main_findings": [
+    "Across studies, consumers requested ethical attribute information at a lower rate than they used that information when it was made available in conjoint tasks.",
+    "The ethical request-use discrepancy increased with concern about the ethical issue, so highly concerned participants were especially likely to underrequest ethical information.",
+    "In the phone study, underrequesting was stronger when participants had chosen the attractive option and were offered its ethical information, and larger discrepancy was associated with lower reported anger and sadness, with mediation evidence for anger."
+  ],
+  "one_line_summary": "Across three experiments, consumers showed willful ignorance by underrequesting ethical product information relative to their later conjoint use, especially when they cared about the issue and when postchoice emotion management was salient.",
+  "relation_to_prior_work": "extends prior decision-avoidance, omission-bias, and status-quo research by showing avoidance at the information-acquisition stage rather than only at the final choice stage. It also extends ethical-attribute anomaly research by demonstrating that inconsistency appears between seeking information and using it when provided.",
+  "research_gap": "Prior work had mostly examined cases where attribute information was provided to decision makers and had not directly tested whether consumers avoid soliciting product attribute information they would use if available. The authors also note that omission-bias and status-quo literatures had not examined actual inaction in requesting product information.",
+  "research_question": "Do consumers request ethical attribute information at the same rate they would use it in purchase decisions if the information were provided? The paper further asks whether concern for the ethical issue and negative emotion processes, particularly in postchoice settings, increase this request-use inconsistency."
+}

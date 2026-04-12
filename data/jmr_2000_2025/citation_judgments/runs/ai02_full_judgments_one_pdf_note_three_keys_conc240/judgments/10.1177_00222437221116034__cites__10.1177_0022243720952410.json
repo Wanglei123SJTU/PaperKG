@@ -1,0 +1,6 @@
+{
+  "citation_substance": "mention_only",
+  "rationale": "The cited paper appears in the limitations/future research section as a supporting reference for computational scalability, noting that Bumbaca et al. (2020) can estimate very large customer-level models. The citing study does not use that paper's distributed MCMC method in its own estimation, derivations, or empirical optimization results. Its core contribution (optimal control for microtargeting) is developed independently of this citation, so the role is a contextual mention rather than a substantive building block.",
+  "relation_description": null,
+  "relation_type": null
+}

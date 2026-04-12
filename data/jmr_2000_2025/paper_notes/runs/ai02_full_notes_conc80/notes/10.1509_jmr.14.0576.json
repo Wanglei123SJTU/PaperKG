@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces the intrayear category demand cycle as a flexible, data-driven alternative to rigid seasonality definitions.",
+    "Provides what the author describes as the first systematic analysis of how intrayear category demand cycles affect both advertising and pricing effectiveness and observed advertising and prices.",
+    "Shows how these effects differ for price increases versus price decreases and across four brand types defined by advertising intensity and price level."
+  ],
+  "context": "The study is set in United Kingdom consumer packaged goods markets across beverages, food, household care, and personal care categories. It focuses on national brands sold through retail channels captured in household panel data.",
+  "design_and_data": "The paper analyzes weekly data from 2002-2005 for 252 brands in 61 UK CPG categories, using Kantar Worldpanel purchase/price data and Nielsen media advertising expenditure data. Intrayear cyclical components for category demand, brand sales, advertising, and prices are extracted with the Christiano-Fitzgerald random-walk filter for 13-52 week periodicities. Brand-level VARX models estimate sales elasticities for advertising and pricing, include interactions with the category demand cycle, and separate price increases from price decreases via indicator functions. Long-term effects are computed as cumulative 13-week impulse responses at demand peaks versus troughs, and a second VAR model estimates advertising and price comovement with category demand cycles.",
+  "focal_constructs": [
+    "intrayear category demand cycle",
+    "long-term advertising elasticity",
+    "long-term price elasticity",
+    "price increase versus price decrease asymmetry",
+    "cyclical comovement of observed advertising and prices",
+    "brand typology by advertising intensity and price level",
+    "category demand peaks and troughs"
+  ],
+  "main_findings": [
+    "Overall, long-term advertising effectiveness is higher at category demand peaks than at troughs (peak elasticity .028; peak-trough difference .004, p < .01).",
+    "Overall, reactions to price decreases are weaker at demand peaks (peak-trough difference -.020, p < .01), while reactions to price increases do not differ significantly between peaks and troughs.",
+    "Observed advertising is procyclical and elastic with category demand (comovement elasticity 1.421, p < .01), whereas observed prices show no overall comovement but differ by brand type, with premium brands tending to lower prices at peaks and value brands tending to raise them."
+  ],
+  "one_line_summary": "Using weekly data on 252 UK CPG brands, the paper shows that data-driven intrayear category demand cycles shape both advertising and pricing effectiveness and observed marketing actions, with substantial heterogeneity across brand types.",
+  "relation_to_prior_work": "extends prior work that mainly treated intrayear fluctuations as seasonality controls or focused on business-cycle variation by explicitly modeling flexible intrayear demand cycles and linking them to both marketing-mix effectiveness and observed actions, and it extends peak-period advertising evidence from retailer advertising to brand-initiated advertising.",
+  "research_gap": "The paper argues that prior marketing-mix studies largely treated intrayear demand variation as a nuisance through month, holiday, or deterministic seasonal controls. Consequently, little evidence existed on how flexible intrayear category demand cycles affect advertising and pricing effectiveness and observed actions.",
+  "research_question": "How do intrayear cycles in category demand influence brands' long-term advertising and pricing elasticities of sales? The paper also asks whether these effects differ for price increases versus price decreases, whether observed advertising and prices move with category demand cycles, and whether patterns differ across premium/value and mass/niche brand types."
+}

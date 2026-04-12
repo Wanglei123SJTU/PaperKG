@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s estimation approach explicitly uses a state-space model with Kalman filtering and correlated errors, while the cited paper introduces a modified Kalman filter (MKF) and measurement-error corrections for dynamic advertising models. Given this strong methodological overlap and the exact DOI match, this is plausibly a method/foundation citation rather than an incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

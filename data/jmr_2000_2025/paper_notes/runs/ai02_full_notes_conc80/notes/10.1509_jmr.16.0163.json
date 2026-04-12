@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper explicitly tests a previously unexamined question in churn management: whether customers with the highest predicted churn risk are actually the best targets for proactive retention campaigns.",
+    "It proposes a lift-based targeting approach that uses a randomized pilot campaign and heterogeneous treatment-effect modeling to target customers by predicted sensitivity to the intervention, not by baseline churn risk.",
+    "It claims managerial relevance by showing the approach can rank targets and identify the campaign intensity threshold at which additional targeting becomes ineffective or futile."
+  ],
+  "context": "The empirical setting is proactive churn management in two industries: a prepaid wireless provider in the Middle East and a subscription-based special interest membership organization in North America. In both settings, firms run customer-level retention interventions and observe post-campaign churn outcomes.",
+  "design_and_data": "The study analyzes two randomized field experiments. Study 1 uses 12,137 prepaid telecom customers; treatment customers received a text offer with bonus credit conditional on recharge, and churn/activity was measured 30 days later. Study 2 uses 2,100 customers from a renewal campaign experiment in which a thank-you gift was randomly added to renewal letters over five months. For each dataset, the author repeatedly splits data into calibration and validation halves, estimates LIFT with an uplift random-forest approach and RISK with a traditional churn model (LASSO on controls), and compares out-of-sample campaign impact under risk-based versus lift-based targeting across 1,000 random splits.",
+  "focal_constructs": [
+    "proactive churn management",
+    "customer churn risk (RISK)",
+    "incremental treatment effect (LIFT)",
+    "heterogeneous treatment effects",
+    "uplift modeling",
+    "retention intervention sensitivity",
+    "targeting rules"
+  ],
+  "main_findings": [
+    "Across both field experiments, targeting customers by predicted LIFT is more effective than targeting by predicted churn risk; the same campaign would have reduced churn by an additional 4.1 percentage points in Study 1 and 8.7 percentage points in Study 2.",
+    "Customers with the highest predicted churn risk are not necessarily the most responsive to retention incentives, and the overlap between high-risk and high-lift customers is about 50 percent, consistent with near-random overlap.",
+    "Risk-based targeting can be ineffective or harmful for some segments, and the analyses indicate that about half of retention spending is wasted when firms follow standard high-risk targeting."
+  ],
+  "one_line_summary": "Using two randomized field experiments, the paper shows that proactive retention is more effective when firms target customers by estimated incremental response to intervention (LIFT) rather than by churn risk (RISK).",
+  "relation_to_prior_work": "challenges the dominant churn-scoring literature and practice that prioritize high-risk customers, and extends practitioner uplift ideas by providing a field-experiment-based framework and direct empirical comparison against risk-based targeting in proactive churn management.",
+  "research_gap": "Prior research extensively develops and evaluates churn prediction models for identifying high-risk customers, but does not test whether high-risk customers are the optimal targets for proactive retention interventions. The paper also notes limited evidence comparing uplift-based targeting to standard risk-based targeting in churn contexts and limited guidance on how firms should gather data to estimate incremental effects.",
+  "research_question": "Should firms running proactive churn campaigns target customers with the highest predicted risk of churning, or those with the highest predicted sensitivity to the retention intervention? Empirically, how are churn risk and intervention sensitivity related, and which targeting rule produces better churn outcomes?"
+}

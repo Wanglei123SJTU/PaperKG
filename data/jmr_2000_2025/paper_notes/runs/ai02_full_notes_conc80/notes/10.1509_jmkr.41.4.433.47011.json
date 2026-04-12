@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Adapts the service-profit chain to business markets by incorporating the complex decision-making unit, strategic supplier selection, and customer-level resource allocation and profitability measurement.",
+    "Extends chain-link modeling by allowing nonlinear and asymmetric linkages and by modeling account-specific moderators (competitor, customer, company, and relationship factors) across links.",
+    "Provides an empirical customer-level application that combines survey, effort, and financial data to generate account-level guidance for allocating customer management effort."
+  ],
+  "context": "The empirical setting is a business-to-business processed metal market where customers typically buy from multiple suppliers under negotiated contracts. Customer firms span industries such as manufacturing, construction, transportation, electrical, and aerospace.",
+  "design_and_data": "The authors use survey data from processed-metal buyers, collected by telephone, and merge them with a focal vendor's account-level customer management effort and financial records. The survey captures evaluations of top suppliers, attribute performance, satisfaction, and share of customer wallet; multiple-informant responses are aggregated using a confidence-weighted approach. The core model is a recursive four-link system (effort -> attribute performance -> satisfaction -> share of customer wallet -> customer margin), with model selection via BIC and estimation checks across OLS, SUR, 2SLS, and 3SLS. The reported model uses 160 accounts after excluding very small and extreme observations.",
+  "focal_constructs": [
+    "customer management effort",
+    "attribute-level performance",
+    "overall supplier satisfaction",
+    "share of customer wallet",
+    "customer margin",
+    "competitive context",
+    "customer size",
+    "account representative tenure"
+  ],
+  "main_findings": [
+    "Customer margin increases with share of customer wallet and decreases with direct customer management spending, and the share-of-wallet effect on margin shows decreasing returns.",
+    "The satisfaction-to-share-of-wallet link is nonlinear with increasing returns (customer delight), and it is moderated by customer size, account representative tenure, and competitor satisfaction.",
+    "Competition matters throughout the chain: competitor effort lowers perceived focal-vendor performance, higher competitor satisfaction lowers focal share of wallet and margin, and cost-sharing policies reduce margin in highly competitive accounts but are more beneficial with long-tenure account managers."
+  ],
+  "one_line_summary": "The paper adapts and tests a business-market service-profit chain showing how vendor effort translates into account profitability through performance, satisfaction, and share of wallet under nonlinear and account-specific conditions.",
+  "relation_to_prior_work": "extends prior service-profit chain evidence from mostly consumer service settings to an individual-account business market context with explicit costed resource inputs and customer-level profitability outputs. It also extends first-generation linear chain-link tests by modeling nonlinearities, asymmetries, and moderators such as competitive context, customer size, and account-management tenure across the full chain.",
+  "research_gap": "Prior work had largely tested chain-profit frameworks in consumer services and often at aggregated levels, while business-marketing studies typically examined only isolated antecedents of profitability. The paper identifies a lack of empirical, customer-level evidence in business markets that links vendor effort to profitability across the full chain while accounting for nonlinearities and account-specific context.",
+  "research_question": "How can the service-profit chain be adapted to explain individual customer profitability in business markets? Specifically, do customer management effort, attribute performance, satisfaction, and share of customer wallet link to customer margin when the model allows nonlinear effects and account-specific moderators such as competition, customer size, tenure, and relationship policies?"
+}

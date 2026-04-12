@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper jointly examines satisfaction, loyalty intentions, and shareholder value using both individual customer-level and aggregate firm-level ACSI data in one integrated framework.",
+    "It applies a multilevel random-effects mediation approach that nests customers within firms and allows key linkages to vary across firms.",
+    "It shows how industry characteristics and research design choices such as time lags help explain heterogeneity and mixed results in prior satisfaction-shareholder value studies."
+  ],
+  "context": "The study is set in the U.S. across multiple industries covered by the American Customer Satisfaction Index. It links customer survey responses to public financial-market and accounting data for listed firms.",
+  "design_and_data": "The authors merge ACSI satisfaction and repurchase-intention data with CRSP and Compustat data. The final sample covers June 2000 to December 2009, 137 firms, and 189,069 matched customer surveys. They estimate Bayesian three-level multilevel mediation models (customers within firms over time) with random intercepts and random slopes for key links, and use Tobin's q and the Carhart four-factor model as shareholder value metrics. They also test moderators based on industry characteristics (goods vs. services, durable vs. nondurable, purchase horizon) and alternative lag structures between satisfaction and loyalty intentions.",
+  "focal_constructs": [
+    "customer satisfaction",
+    "loyalty intentions (repurchase intentions)",
+    "shareholder value",
+    "mediation (satisfaction -> loyalty -> shareholder value)",
+    "multilevel heterogeneity",
+    "industry characteristics",
+    "time-lag effects"
+  ],
+  "main_findings": [
+    "At the aggregate firm level, customer satisfaction has no significant direct effect on Tobin's q, but a significant positive indirect effect through loyalty intentions.",
+    "Aggregate firm-level estimates can overstate customer-level effects for some firms, with stronger firm-level satisfaction-to-loyalty slopes in durable, short purchase-horizon settings.",
+    "The satisfaction-loyalty-shareholder value linkage is heterogeneous across industries and over time; for Tobin's q, service firms mainly show indirect effects while goods firms can show both direct and indirect effects."
+  ],
+  "one_line_summary": "Using ACSI customer and firm data linked to market data, the study shows that satisfaction affects shareholder value in heterogeneous ways across firms, with loyalty intentions often mediating the effect and industry characteristics shaping the linkage.",
+  "relation_to_prior_work": "extends prior satisfaction-shareholder value research by combining the individual-customer and aggregate-firm literature streams in one multilevel mediation framework and by explicitly modeling industry-driven heterogeneity in key effects.",
+  "research_gap": "Prior studies typically analyze either customer-level satisfaction outcomes within single firms or aggregate firm-level ACSI links to shareholder value, but rarely both together. The firm-level literature also seldom tests loyalty intentions as a mediator and leaves mixed satisfaction-shareholder value findings across industries insufficiently explained.",
+  "research_question": "How are customer satisfaction, loyalty intentions, and shareholder value linked when analyzed simultaneously at the customer and firm levels? Does loyalty intention mediate the satisfaction-shareholder value relationship, and do these effects vary across firms and industries (including different lag structures)?"
+}

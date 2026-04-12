@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper develops a warranty-menu model where a high-quality seller must signal unobservable quality and screen buyers with heterogeneous, unobservable warranty valuations at the same time.",
+    "It characterizes the optimal high-quality warranty policy under this dual role and shows how signaling changes both base and optional warranty design.",
+    "It provides an empirical application to the Metro Toronto used-car market to examine whether observed warranty offers and selling behavior are consistent with the model."
+  ],
+  "context": "The substantive setting is durable-goods selling, with emphasis on used cars where buyers face quality uncertainty and dealers routinely offer optional warranty plans. The empirical application studies unbranded used-car dealers in Metro Toronto.",
+  "design_and_data": "The paper first presents an analytical model with a monopolistic seller, two buyer types (highly and weakly risk-averse), hidden seller quality, and hidden buyer type. The seller chooses a base product price/warranty and an optional extended-warranty increment, and equilibrium is derived using perfect Bayesian equilibrium refined by the intuitive criterion with a no-mimic constraint. As an empirical illustration, a research assistant visited more than 200 unbranded Metro Toronto used-car dealers using a standardized shopping script. Usable warranty data were collected for 208 vehicles, with complete 12/24/36-month menu data for 143 vehicles, including base warranty length, extended-warranty prices, and timing/content of sales discussions.",
+  "focal_constructs": [
+    "warranty signaling",
+    "warranty screening",
+    "base warranty",
+    "optional extended warranty",
+    "two-sided information asymmetry",
+    "buyer risk-aversion heterogeneity",
+    "separating equilibrium"
+  ],
+  "main_findings": [
+    "When quality is unobservable, a high-quality seller offers more warranty coverage and higher prices to both buyer types than under pure screening, with larger increases in base coverage and shorter optional extensions.",
+    "Signaling reduces the seller's ability to screen, and when buyers value high quality sufficiently strongly, the optimal menu collapses to the same full-coverage offer for both buyer types.",
+    "The high-quality seller earns more by signaling through all elements of the warranty menu (not only the base warranty), and the Toronto survey shows patterns consistent with this, including early disclosure of full menus and pricing that often makes longer coverage relatively more attractive."
+  ],
+  "one_line_summary": "The paper develops a two-sided asymmetric-information model of warranty menus and shows that when a high-quality seller must both signal and screen, signaling lengthens base coverage, shortens optional extensions, and can eliminate screening, with supportive evidence from Toronto used-car dealers.",
+  "relation_to_prior_work": "extends prior warranty research by combining the signaling literature (unobservable quality) and the screening literature (heterogeneous buyer valuation) in a single simultaneous framework with two-sided hidden information. It shows that the two mechanisms cannot be combined mechanically, because signaling distorts and can overturn standard screening menu outcomes.",
+  "research_gap": "Prior studies explain warranties as either quality signals or screening/price-discrimination instruments, but do not analyze warranty policy when both roles operate simultaneously. The paper argues that existing separate predictions cannot reveal how an optimal screening menu changes when it must also credibly signal quality.",
+  "research_question": "How does a high-quality seller's optimal warranty menu change when warranties must simultaneously signal unobservable product quality and screen buyers with unobservable heterogeneous willingness to pay for coverage? Is screening capability reduced, and through which menu components (base warranty, extended warranty, or both) is quality information optimally transmitted?"
+}

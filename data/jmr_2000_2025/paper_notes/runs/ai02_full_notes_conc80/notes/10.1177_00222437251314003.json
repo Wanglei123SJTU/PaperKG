@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Develops a formal model of blockchain-enabled smart contracts in a three-level supply chain with bilateral bargaining over transfer prices.",
+    "Identifies a two-effect mechanism of smart contracts: improved trade efficiency from state-dependent pricing and surplus reallocation from removing ex post trade decision rights.",
+    "Characterizes equilibrium contract adoption across regular contracts, partial blockchain, and full blockchain, including conditions for socially insufficient adoption and a prisoner's dilemma."
+  ],
+  "context": "The paper studies a vertical supply chain with a seller, a middleman, and a buyer, where the middleman buys upstream and resells downstream. In partial or full blockchain participation, verifiable real-time seller cost and/or buyer value (e.g., via IoT/oracles) can be used as contractable inputs for smart contracts.",
+  "design_and_data": "This is a theoretical game-theoretic paper with no empirical dataset. The author models bilateral generalized Nash bargaining for wholesale and resale prices under regular contracts (constant prices) versus smart contracts (state-dependent prices), with uncertainty in buyer value, seller cost (mirror case), or both (using G(v)=1-(1-v)^delta and F(c)=c^theta). The game has three stages: contract-environment choice (simultaneous or sequential), price negotiation, and trade execution without renegotiation; regular contracts allow ex post trade discretion while smart contracts auto-execute. Extensions examine observable regular wholesale prices and two-part tariffs.",
+  "focal_constructs": [
+    "blockchain-enabled smart contracts",
+    "regular contracts",
+    "state-dependent transfer prices",
+    "generalized Nash bargaining",
+    "ex post trade decision rights",
+    "partial versus full blockchain participation",
+    "supply-chain surplus allocation"
+  ],
+  "main_findings": [
+    "Under value uncertainty, if only buyer and middleman use a smart contract, the buyer's equilibrium expected payoff falls while the middleman's and seller's payoffs rise relative to all-regular contracting.",
+    "The cost-uncertainty case is the mirror image, and under double uncertainty the party that signs a smart contract with the middleman can hurt itself because smart contracting removes its ex post trade discretion even as total efficiency improves.",
+    "Under double uncertainty, an all-regular-contract equilibrium always exists (and can be unique), and a prisoner's dilemma can arise in which full blockchain increases everyone's payoff and total surplus but is not the equilibrium contract choice."
+  ],
+  "one_line_summary": "Using a three-party bargaining model, the paper shows that smart contracts can increase supply-chain efficiency yet reduce the signing party's payoff by removing ex post decision rights, which can make equilibrium blockchain adoption socially insufficient.",
+  "relation_to_prior_work": "extends the contingent-contract and bargaining-in-channels literature by analyzing cost/value-contingent smart contracts in a multilevel supply chain with endogenous contract-environment choice. It differs from prior contingent-contract studies by focusing on equilibrium transfer-price bargaining, payoff allocation, and adoption outcomes under regular, partial-blockchain, and full-blockchain regimes.",
+  "research_gap": "Prior discussion of blockchain smart contracts in supply chains was rich, but it remained unclear how contingency-based smart contracts affect strategic interaction, equilibrium surplus generation, and surplus allocation among supply-chain partners. The paper addresses this unresolved link between smart-contract feasibility and equilibrium economic outcomes/adoption.",
+  "research_question": "How do blockchain-enabled, contingency-based smart contracts change the expected payoffs of the seller, middleman, and buyer compared with regular contracts in a supply chain? When cost and/or value are uncertain, what contractual environment (regular, partial blockchain, or full blockchain) emerges in equilibrium?"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is not a passing reference; it is a core anchor for the citing paper's motivation, design, and interpretation. The citing article repeatedly frames itself as a follow-up to AAC, adopts experimental elements from that study, and explicitly asks whether AAC's results generalize from metric conjoint settings to logit choice scanner-data settings. In the discussion and conclusion, the authors directly compare outcomes against AAC and claim both generalization and a new boundary condition, indicating a clear build-on relationship.",
+  "relation_description": "The citing paper explicitly extends Andrews, Ansari, and Currim (2002) by transferring its discrete-versus-continuous heterogeneity comparison from metric conjoint simulations to logit choice/scanner-data simulations. It keeps the same evaluation focus (parameter recovery, fit, prediction), tests generalizability of AAC's conclusions, and adds a new limiting condition where HB performs poorly with very few purchases per household.",
+  "relation_type": "extends"
+}

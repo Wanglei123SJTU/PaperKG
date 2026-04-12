@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper treats Ashok, Dillon, and Yuan (2002) as a key prior method for jointly modeling attitudinal latent variables with conjoint/choice data, and explicitly says this stream provides methodological foundation. It uses the cited work to justify simultaneous estimation (to avoid attenuation from plugging in factor scores) and references its likelihood-structure logic in the appendix. The 2011 article then adds a higher-order brand-image factor decomposition and Bayesian implementation, positioning its contribution as going beyond that earlier framework for brand-image data.",
+  "relation_description": "The citing paper extends Ashok et al. (2002) by building on the simultaneous latent-variable choice-model framework and adapting it to a Bayesian higher-order factor-choice model for general versus specific brand image. It preserves the core integrated estimation idea while adding new structure for correlated brand-image factors and a new empirical application.",
+  "relation_type": "extends"
+}

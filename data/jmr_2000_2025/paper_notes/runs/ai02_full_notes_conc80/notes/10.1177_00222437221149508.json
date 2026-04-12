@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Identifies inspirational in-store communication as an important and often overlooked way to increase sales relative to traditional deal-oriented communication.",
+    "Shows that inspirational content works through stronger activation of consumption goal completion, including higher focal and substitute product purchasing.",
+    "Establishes boundary conditions and generalizability by showing attenuation when consumers already have relevant goals or when deal content is mixed with inspiration, using multimethod evidence (online experiments, field experiment, and eye-tracking field data)."
+  ],
+  "context": "The paper studies in-store retail communication content, especially grocery shopping contexts where consumers encounter kiosks, digital displays, flyers, and similar signage. Field evidence comes from Swedish grocery stores, while controlled simulations use online shopping tasks with in-store communication stimuli.",
+  "design_and_data": "The authors run multiple studies: online shopping simulations (including preregistered studies) that manipulate inspirational recipe content versus deal-oriented promotional content and track product choices/spending. Study 1 uses 1,175 MTurk participants in a four-condition design (inspiration, deal, filler control, blank control), and Study 2 uses 1,154 participants in a two-condition replication with alternative-mechanism checks; Study 1a adds direct attitudinal measures of goal completion, and Study 3 (n=804) adds a cooking-versus-gardening magazine prime in a 2x2 design. A field experiment in a grocery store (n=132) randomizes shoppers to inspiration only, deal only, combined inspiration+deal, or control and uses receipt spending. A field eye-tracking study analyzes 597 shopping trips across four Swedish stores by coding viewed digital-display content and relating it to actual spending while controlling planned spending.",
+  "focal_constructs": [
+    "inspirational communication content",
+    "deal-oriented communication content",
+    "consumption goal completion",
+    "overall shopper spending",
+    "focal product spending",
+    "substitute product spending",
+    "goal priming",
+    "goal-detracting content"
+  ],
+  "main_findings": [
+    "Inspirational content increases overall spending more than deal-oriented content, and often more than control conditions, across simulation, field experiment, and eye-tracking evidence.",
+    "Compared with deal-oriented content, inspirational content increases focal and substitute product spending, while nonrelated product spending does not explain the spending lift.",
+    "Consumption goal completion mediates the content effect on spending, and the effect is attenuated when consumers are already primed with relevant consumption goals or when deal content is combined with inspirational content."
+  ],
+  "one_line_summary": "Across online simulations, a field experiment, and field eye-tracking data, the paper finds that in-store inspirational (vs. deal-oriented) communication raises spending by activating consumption goal completion.",
+  "relation_to_prior_work": "extends prior in-store communication and promotion research by directly comparing inspirational content with deal-oriented content, whereas much prior work emphasized monetary promotions. It refines this literature by specifying consumption goal completion as the mechanism and by adding boundary conditions tied to preexisting goals and goal-detracting content.",
+  "research_gap": "The paper argues that research has largely neglected direct tests of in-store inspirational communication relative to deal-oriented communication. It also identifies limited evidence on the goal-completion mechanism (including substitute purchases), goal-related moderators, and multimethod triangulation in this literature.",
+  "research_question": "Does in-store inspirational communication content generate higher shopper spending than deal-oriented content? If so, is this effect driven by stronger activation of consumption goal completion, and when is the effect weakened (e.g., when shoppers already have relevant goals or when deal content detracts from inspiration-induced goals)?"
+}

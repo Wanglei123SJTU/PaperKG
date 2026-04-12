@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces an extension of the marketing scale development paradigm that separates stable trait variance from transient state variance in repeated-measures data.",
+    "Develops a six-category taxonomy of measurement error based on stability (stable vs transient) and scope (item-specific, item-subset, scalewide), and shows how to model these errors factor-analytically.",
+    "Argues that item means must be modeled explicitly and that loading and intercept invariance tests are prerequisites for meaningful mean comparisons across groups and over time."
+  ],
+  "context": "The paper addresses construct measurement in marketing studies that can collect panel data with repeated administration of the same items. Its empirical illustration uses Dutch household panel survey data on brand loyalty and deal proneness.",
+  "design_and_data": "The authors formulate a multi-item, multiconstruct, multioccasion SEM that combines first-order occasion-specific factors, second-order trait factors with state residuals, item intercepts, and explicit stable/transient error factors at item-specific, item-subset, and scalewide levels. They estimate and compare sequential nested models (M1-M12) using LISREL 8.7 with normal-theory maximum likelihood, evaluating fit via chi-square, RMSEA, SRMR, CFI, TLI, and CAIC. The application uses nine 5-point Likert items (5 for brand loyalty, 4 for deal proneness) measured in early 2000, 2002, and 2003 from GfK's Dutch household panel, with an effective sample of 1,991 respondents.",
+  "focal_constructs": [
+    "trait and state components",
+    "stable and transient measurement error",
+    "item-specific error",
+    "item-subset error",
+    "scalewide error",
+    "metric and scalar invariance",
+    "brand loyalty",
+    "deal proneness"
+  ],
+  "main_findings": [
+    "The preferred extended specification fit well and showed that stable item-specific, stable item-subset, transient item-subset for positively worded items, and stable scalewide errors were relevant, whereas transient scalewide error and transient subset error for negatively worded items were negligible.",
+    "Both scales behaved primarily as trait measures: average substantive variance was .39 for brand loyalty and .28 for deal proneness, and most substantive variance was trait variance (about 85% and 75%, respectively).",
+    "Compared with conventional measurement analysis, the extended model indicated substantial overestimation of reliability and large attenuation of construct relationships; the brand loyalty-deal proneness association was about -0.25 to -0.29 conventionally versus a trait correlation of -0.70, and with loading invariance and partial intercept invariance established, means were practically stable across 2000-2003."
+  ],
+  "one_line_summary": "The paper proposes and empirically demonstrates a panel-data SEM approach that decomposes marketing scale scores into trait-state and six error components while testing invariance needed for valid mean comparisons.",
+  "relation_to_prior_work": "extends the conventional SEM-based marketing scale development paradigm by integrating latent state-trait modeling, explicit multidimensional error modeling, and mean structure analysis in one panel-data framework. It also applies measurement invariance principles from prior multisample SEM work to longitudinal scale validation and mean comparison.",
+  "research_gap": "The paper argues that common single-occasion measurement models in marketing do not separate trait and state variance, confound systematic nonconstruct variance with random error, and omit explicit mean modeling. It also notes that scale studies often neglect rigorous invariance testing before comparing construct means across groups or over time.",
+  "research_question": "How can the conventional SEM measurement paradigm for marketing scales be extended for panel data so that researchers can separate trait and state variance, model distinct systematic and random error sources, and incorporate item means for valid comparisons? Do these extensions materially change substantive conclusions in an application to brand loyalty and deal proneness?"
+}

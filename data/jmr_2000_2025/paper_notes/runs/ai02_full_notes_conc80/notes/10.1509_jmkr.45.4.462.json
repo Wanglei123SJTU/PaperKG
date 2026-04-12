@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper shows that logically equivalent expansive versus restrictive wording of a promotion redemption window changes promotion evaluation and usage even when objective offer terms are held constant.",
+    "It identifies consumer mind-set/construal level as a moderator: implemental (low-level) consumers favor expansive framing, whereas deliberative (high-level) consumers favor restrictive framing.",
+    "It documents distinct processes and outcomes across studies, including mediation by feasibility versus precision in lab data and effects on real coupon redemption in a field setting."
+  ],
+  "context": "The studies examine time-limited sales promotions, especially coupons with fixed redemption windows in retail shopping scenarios. A field test uses a real $1.50 coupon redeemable at a campus-adjacent coffee shop.",
+  "design_and_data": "Study 1 used 131 U.S. undergraduate participants in a 2 x 2 x 2 between-subjects experiment: mind-set was primed (implemental vs deliberative), redemption window frame was manipulated (\"anytime\" vs \"only\"), and discount level was 30% vs 60%; outcomes were feasibility and precision ratings. Study 2 surveyed 168 adult consumers near a university, manipulated frame for a 50%-off coupon, measured chronic construal with the 25-item BIF (median split into low vs high construal), and measured usage likelihood plus feasibility and precision. Study 3 involved 222 undergraduates who received real coupons framed as expansive or restrictive, measured BIF-based construal level, and tracked actual redemption over one week.",
+  "focal_constructs": [
+    "expansive framing",
+    "restrictive framing",
+    "promotion redemption window",
+    "implemental mind-set",
+    "deliberative mind-set",
+    "offer feasibility",
+    "offer precision",
+    "coupon redemption"
+  ],
+  "main_findings": [
+    "In Study 1, implemental participants rated expansive framing as more feasible than restrictive framing, while deliberative participants rated restrictive framing as more precise than expansive framing.",
+    "In Study 2, frame and chronic construal interacted on usage likelihood: low-level construers were more likely to use expansive than restrictive offers (9.33 vs 7.31), whereas high-level construers were more likely to use restrictive than expansive offers (9.27 vs 7.63).",
+    "Study 2 showed feasibility mediated the framing effect for low-level construers and precision partially mediated it for high-level construers, and Study 3 found a matching interaction in actual redemption with a strong low-level effect (33% expansive vs 5% restrictive) and a nonsignificant opposite-direction high-level pattern."
+  ],
+  "one_line_summary": "Across three studies, framing the same coupon window as \"anytime\" versus \"only\" shifts promotion response in opposite directions for implemental versus deliberative consumers because they infer feasibility versus precision differently.",
+  "relation_to_prior_work": "extends prior work on coupon redemption windows and time framing by showing that logically equivalent wording alone affects promotion response. It adds a construal-level account that links implemental processing to feasibility inferences and deliberative processing to precision inferences.",
+  "research_gap": "Prior research had shown that objective promotion-window characteristics affect usage, but it had not established whether equivalent wording of the same window changes responses. Evidence on time framing was also limited in this context, leaving unclear when expansive versus restrictive phrasing improves or hurts promotion effectiveness.",
+  "research_question": "Does framing a fixed promotion redemption window as expansive (\"anytime\") versus restrictive (\"only\") change consumers' promotion evaluation and usage? The paper asks whether this effect depends on consumers' mind-set (implemental vs deliberative, or low vs high construal) and whether feasibility versus precision inferences explain the pattern."
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The study explicitly uses observed cross-selling solicitation histories and models customers' dynamic short- and long-run reactions to those solicitations.",
+    "It introduces a customer-response framework with latent evolving financial states, channel-specific heterogeneity, and explicit educational and advertising roles of solicitations.",
+    "It links the estimated response model to a stochastic dynamic programming decision tool that generates integrated multistep, multisegment, and multichannel cross-selling policies for long-term profit maximization."
+  ],
+  "context": "The empirical setting is a U.S. national retail bank running multichannel cross-selling campaigns to existing households. The bank markets seven financial product categories (checking, savings, credit cards, lending, CDs, investments, others) using postal mail and e-mail.",
+  "design_and_data": "Data come from 4000 randomly selected households observed monthly for 27 months (Nov 2003-Jan 2006), including account openings and transactions, product-channel solicitations, demographics, and account-level profit information. The authors use 2000 households for calibration and 2000 for cross-sectional validation, and they also hold out the final month for cross-time validation. They estimate a hierarchical Bayesian multivariate probit purchase model with a continuous-time hidden Markov process for latent financial states, where solicitations can have instantaneous, cumulative advertising, and state-transition (educational) effects. Estimated response parameters are then used in a stochastic dynamic programming model that chooses customer-product-channel-time solicitations to maximize expected discounted long-term profit.",
+  "focal_constructs": [
+    "cross-selling solicitations",
+    "latent financial states",
+    "evolving customer responsiveness",
+    "instantaneous promotional effect",
+    "advertising effect",
+    "educational effect",
+    "communication channel preference heterogeneity",
+    "dynamic programming cross-selling policy"
+  ],
+  "main_findings": [
+    "Households differ in product priorities and solicitation responsiveness across evolving latent financial states, interpreted as convenience, flexibility, and growth states.",
+    "Cross-selling solicitations have significant long-term effects beyond immediate promotion; in the paper's decomposition example, about 83% of cumulative impact is educational, 15% is advertising, and 2% is instantaneous promotional.",
+    "Compared with observed campaign-centric practice, the proposed dynamic policy improves immediate response rate by 56%, long-term response rate by 149%, and long-term profit by 177%."
+  ],
+  "one_line_summary": "Using panel data from a national bank, the paper estimates a hidden-state customer response model and a dynamic programming policy for product-channel cross-selling timing, showing large long-run gains over campaign-centric practice.",
+  "relation_to_prior_work": "extends prior cross-selling and CLV research by moving from campaign-centric next-product prediction to explicit modeling of observed solicitations and their dynamic effects on future behavior. It also extends latent-state relationship models by embedding solicitation effects into state transitions and by using those estimates inside a dynamic programming policy for campaign decisions.",
+  "research_gap": "Prior cross-selling studies mainly predict the next product to buy and generally do not use observed solicitation data, so the long-run impact of solicitations is not well understood. Existing approaches also often assume fixed responsiveness over time and treat CLV as a static segmentation variable rather than modeling how firm interventions alter future purchase probabilities.",
+  "research_question": "How do cross-selling solicitations affect household financial product purchases over time, beyond immediate response? Do these effects vary across evolving latent financial states and communication channels, and how should a bank dynamically choose product, timing, customer, and channel to maximize long-term profit?"
+}

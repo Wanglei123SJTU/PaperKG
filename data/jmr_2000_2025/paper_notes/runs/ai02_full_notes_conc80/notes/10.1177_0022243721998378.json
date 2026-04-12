@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "The paper documents the managerial relevance of the false consensus effect (FCE) by showing that many marketers recognize it, report being affected by it, and try to avoid it, often via preference suppression.",
+    "It shows that preference suppression is conditionally effective: it reduces the FCE when preference certainty is high but backfires and increases the FCE when preference certainty is low.",
+    "It extends ironic process theory by introducing preference certainty as a moderator and proposes a practical intervention (abandon suppression when ironic monitoring is detected) that removes the backfire effect."
+  ],
+  "context": "The studies are set in managerial marketing decisions where executives predict consumer reactions and make recommendations in new product, technology investment, and advertising contexts. Participants are experienced marketing managers and executives recruited from European business school alumni pools, marketing associations, and executive survey pools.",
+  "design_and_data": "The article reports two pilot studies and four main studies with marketing professionals; the four main studies include 550 experienced marketing managers in total. Pilot 1 (N=100) and Pilot 2 (N=64) assess marketers' awareness of the FCE, perceived importance of avoiding it, and commonly used debiasing tactics. Study 1 (N=86) is observational, measuring personal preferences, preference certainty, suppression attempts, and predicted consumer preferences; Studies 2-4 (N=133, 206, 125) experimentally manipulate suppression and/or certainty across scenarios (virtual reality product, AI investment strategy, and an advertising partnership case). Analyses use interaction regressions, a mediated-process test for ironic monitoring, and supplementary prediction-accuracy analyses (plus a reported meta-analytic summary across studies).",
+  "focal_constructs": [
+    "false consensus effect",
+    "preference suppression",
+    "preference certainty",
+    "ironic monitoring process",
+    "egocentric decision making",
+    "consumer preference prediction accuracy"
+  ],
+  "main_findings": [
+    "Most marketers in the pilots reported awareness of the FCE, viewed avoiding it as important, and commonly used preference suppression to do so.",
+    "Across the main studies, preference suppression reduced egocentric projection when preference certainty was high, but increased it when preference certainty was low; for low certainty, suppression could effectively create the bias.",
+    "In low-certainty conditions, the backfire effect was mediated by ironic monitoring, and an instruction to stop suppression when difficulty detecting bias arises eliminated the backfire and yielded near-zero egocentric projection across certainty levels."
+  ],
+  "one_line_summary": "Across pilot and four manager studies, the paper shows that suppressing personal preferences helps marketers avoid false consensus only under high preference certainty, backfires under low certainty via ironic monitoring, and can be fixed with a modified suppression rule.",
+  "relation_to_prior_work": "extends prior marketing and psychology work on false consensus by moving from documenting the bias to testing a widely used direct debiasing tactic in managerial settings. It extends Wegner's ironic process framework by identifying preference certainty as a key moderator of when suppression succeeds versus backfires.",
+  "research_gap": "Prior research had shown that marketers are susceptible to the FCE and that the bias is robust, but it had not directly tested how marketers can avoid it. In particular, the effectiveness of the commonly used tactic of suppressing one's own preferences was not established.",
+  "research_question": "Can marketers reduce false consensus bias by suppressing their own preferences when predicting consumers, and under what conditions does this tactic help versus backfire? The paper also asks what mechanism explains any backfire effect and how managers can avoid it in practice."
+}

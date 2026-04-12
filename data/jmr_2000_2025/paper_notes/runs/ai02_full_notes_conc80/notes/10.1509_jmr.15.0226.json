@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper documents a specific inference pattern: after observing a target choose one option, observers predict similar forgone options are liked but dissimilar forgone options are disliked.",
+    "It shows this inference is often erroneous and consequential, because observers fail to predict that people will choose higher-quality dissimilar alternatives, even under monetary incentives for accuracy.",
+    "It proposes and provides evidence for a mechanism: observers infer dislike from dissimilarity because they believe others' preferences are narrow and homogeneous."
+  ],
+  "context": "The paper examines consumer preference inference when people predict others' tastes from observed choices in domains such as vacation destinations, movie genres, and generic products (Widgets). The studies model recommendation and proxy-choice contexts in which one person must choose or forecast on behalf of another.",
+  "design_and_data": "Five experiments were conducted using online samples and one lab dyad study. Study 1 (N = 205, online) manipulated whether a prior vacation choice was known; Study 2 (N = 297, online) manipulated product similarity via shared attributes (4/5 vs 1/5) and measured predicted liking, dislike/neutral/like, and purchase likelihood. Study 3 (N = 178, lab dyads) compared self versus observer judgments with a $2 accuracy incentive, using a movie-genre quality trade-off (3-star preferred genre vs 5-star dissimilar genre); Study 4 (N = 601, online) tested this trade-off in similar versus dissimilar genre sets. Study 5 (N = 196, online) measured belief in others' preference homogeneity via a genre-distribution allocation task, then related this belief to predicted ratings for similar versus dissimilar vacation options.",
+  "focal_constructs": [
+    "preference prediction",
+    "perceived similarity and dissimilarity",
+    "known prior choice",
+    "inference of dislike",
+    "self-observer prediction error",
+    "preference homogeneity belief",
+    "quality-similarity trade-off"
+  ],
+  "main_findings": [
+    "When a target's prior choice is known, observers are much more likely to infer dislike for dissimilar forgone options, while predictions for similar options remain favorable.",
+    "Observers systematically underpredict others' willingness to choose and like dissimilar alternatives, including higher-quality dissimilar options, and this error persists even with financial incentives for accurate prediction.",
+    "Stronger beliefs that others have homogeneous preferences predict a larger similar-versus-dissimilar rating gap, driven by lower predicted ratings for dissimilar options."
+  ],
+  "one_line_summary": "Across five studies, observers used dissimilarity from a known choice to infer others' dislike, producing systematic mispredictions of actual preferences that were linked to beliefs that others have narrow, homogeneous tastes.",
+  "relation_to_prior_work": "extends similarity-based judgment research by showing that people overinfer active dislike from dissimilar forgone options after observing a choice. It also extends out-group homogeneity ideas to intrapersonal preference inference by linking assumed homogeneity of another person's tastes to prediction error.",
+  "research_gap": "Prior work shows that observers infer chosen options are liked and that similarity can guide preference judgments, but it is less clear how people infer preferences for forgone dissimilar options and whether those inferences are accurate. The paper addresses this gap by testing both the existence of a dissimilarity-to-dislike inference and its underlying mechanism.",
+  "research_question": "When people observe someone choose one option, how do they infer that person's preferences for unchosen alternatives that are similar versus dissimilar to the chosen option? Do observers incorrectly infer that dissimilar alternatives are disliked, and is this error driven by a belief that others have narrow, homogeneous preferences?"
+}

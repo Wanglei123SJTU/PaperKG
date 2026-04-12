@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper claims to provide a holistic framework for how consumers interpret dynamic ranks, identifying psychological momentum as the core process.",
+    "It claims one of the first empirical demonstrations of mediation by psychological momentum in dynamic-rank judgments and extends outcomes beyond future-rank prediction to managerially proximal evaluations and choices.",
+    "It claims to identify actionable moderators and a boundary condition - attribution locus, entity malleability, update frequency, and nontrend patterns - that managers can use when communicating rank changes."
+  ],
+  "context": "The studies are set in third-party ranked lists where entities move over time, including online ranking platforms and digital advertising contexts. Empirical scenarios span consumer decisions about restaurants, hotels, banks, mobile apps, and startup investments.",
+  "design_and_data": "Study 1 scraped daily Ranker data for 300 lists (final 265 lists), yielding 41,893 entity-day observations for 2,443 entities; OLS models predicted changes in upvotes/downvotes from prior rank movement with controls and fixed effects. Study 2 ran a live Google AdWords display campaign for a fictitious online learning platform (rise vs no change vs fall), tracking clickthrough and email-signup behavior from 106,368 impressions. Studies 3-7 were preregistered Prolific experiments with between-subject manipulations of rank direction and moderators (locus of attribution, perceived malleability, frequency of list updates) plus a trend vs nontrend boundary-condition design. The experiments measured likelihood-of-choice outcomes and used mediation and moderated-mediation analyses to test psychological momentum.",
+  "focal_constructs": [
+    "dynamic ranks",
+    "direction of rank change",
+    "psychological momentum",
+    "consumer evaluation",
+    "locus of attribution",
+    "entity malleability",
+    "frequency of ranked-list update",
+    "trend extrapolation versus rank averaging"
+  ],
+  "main_findings": [
+    "For the same current rank and rank-change magnitude, entities that rose in rank received more favorable evaluations and behavioral responses than entities that fell in rank, with no-change generally in between.",
+    "Psychological momentum mediated the effect of rank-change direction on evaluation, while tested alternatives (others' performance, perceived effort, motivation, marketplace competition, and affect) did not mediate in Study 3.",
+    "The directional effect was attenuated when rank change was attributed to other entities, when the focal entity was perceived as nonmalleable, and when rankings were updated more frequently; under nontrend rank patterns, consumers shifted to averaging past ranks and the momentum-based directional effect was not observed."
+  ],
+  "one_line_summary": "Across seven studies, the paper shows that consumers reward rising ranks and penalize falling ranks because they infer psychological momentum from rank trajectories, with clear moderators and a nontrend boundary condition.",
+  "relation_to_prior_work": "extends ranked-list research from static rank effects to temporal rank-change interpretation and links this process to psychological momentum. extends Pettit et al. (2022) by examining managerially proximal outcomes such as selection and purchase likelihood, empirically testing momentum mediation, and showing attenuation for both upward and downward rank changes when attribution shifts to other entities.",
+  "research_gap": "Prior ranked-list research mainly examines static current rank, list size, or rank-claim format, with limited evidence on how consumers interpret changes in rank over time. Existing dynamic-rank work largely centers on future-rank forecasting and does not empirically establish psychological momentum mediation or test key moderators such as attribution locus, entity malleability, and ranked-list update frequency.",
+  "research_question": "How do consumers evaluate entities when ranks change over time, beyond the effect of absolute current rank? The paper asks whether rank-change direction affects evaluation through psychological momentum, and when this effect depends on attribution locus, perceived malleability of the entity, update frequency of the ranked list, and the presence or absence of a clear trend in rank history."
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides what the authors describe as the first normative criterion for detecting biased privacy valuations by testing procedure invariance and implied preference transitivity across exchange media.",
+    "Shows that consumers systematically demand higher compensation for private data in money than in goods, and attributes this to greater compatibility of private data with money.",
+    "Argues that this pattern implies potential inefficiency and undercompensation in data markets, with possible consumer-welfare implications for antitrust and privacy policy."
+  ],
+  "context": "The paper studies consumer-company exchanges in which people provide personal data (e.g., GPS and other personal information) in return for goods or services. It focuses on data markets, including online platform-like exchanges where firms often provide digital or physical goods while collecting user data.",
+  "design_and_data": "The authors run 11 preregistered and 2 exploratory online experiments. In most studies, each participant provides three linked valuations via multiple price lists: privacy-to-money (C), privacy-to-goods (G), and goods-to-money (G'), enabling within-participant tests of procedure invariance. Samples are mainly from Prolific (UK/Ireland/US) and MTurk (US), with some studies using incentive-compatible random implementation of choices. Design variants include multiple data types, Netflix access as a barter good, compatibility choice-vs-matching tasks, labor vs. data exchanges, and a market-price information manipulation.",
+  "focal_constructs": [
+    "consumer privacy valuations",
+    "exchange medium (money vs goods)",
+    "willingness to accept (WTA)",
+    "procedure invariance",
+    "preference transitivity and intransitivity",
+    "compatibility principle",
+    "valuation uncertainty and market price"
+  ],
+  "main_findings": [
+    "Across studies, participants valued the same private data higher in money than in goods, and many showed the predicted intransitive pattern C > G'.",
+    "Process tests found that private data are more compatible with money than with goods, which increases the weight of data in monetary valuations.",
+    "The money-goods valuation gap attenuated when valuation certainty increased (e.g., labor exchanges or an explicit market price) and remained robust across many data types, goods, and elicitation checks."
+  ],
+  "one_line_summary": "Across 13 experiments, consumers demanded more compensation for the same personal data in cash than in goods, a compatibility-driven gap that violates procedure invariance and implies intransitive privacy preferences.",
+  "relation_to_prior_work": "extends prior work on privacy valuation malleability and the privacy paradox by introducing an axiomatic rational-choice test of privacy valuations across exchange procedures. It also extends payment-medium research beyond card-versus-cash spending by identifying a compatibility-based money-versus-goods effect on willingness to accept for personal data.",
+  "research_gap": "Prior privacy research documents context-dependent disclosure and the privacy paradox, but it does not establish whether equivalent data exchanges yield equivalent valuations across money and goods. The paper argues that prior work lacked a normative procedure-invariance/transitivity test for whether exchange medium biases consumer privacy valuations.",
+  "research_question": "Do consumers demand different compensation for the same private data when firms compensate them in money versus goods, and do these differences violate procedure invariance and transitivity? The paper also asks whether any discrepancy is caused by a compatibility advantage of money over goods when valuing private data."
+}

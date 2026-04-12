@@ -1,0 +1,6 @@
+{
+  "citation_substance": "mention_only",
+  "rationale": "In the citing paper, Bruce, Peters, and Naik (2012) appears only as a background reference in the introduction. It is cited once as an example context where non-Gaussian dynamic data can occur and once in a general point that reversible-jump MCMC can be hard to implement in state-space models. The 2019 paper does not build its theory, hypotheses, model specification, or empirical applications around this specific study, so the citation functions as contextual mention rather than a meaningful dependency.",
+  "relation_description": null,
+  "relation_type": null
+}

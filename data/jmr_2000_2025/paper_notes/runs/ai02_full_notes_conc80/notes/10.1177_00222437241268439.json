@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper documents a novel rank length effect: the same ranked items are evaluated more positively when shown in a longer versus shorter rank list, while perceived differences between ranked items become smaller.",
+    "It proposes and tests a process account in which consumers narrowly focus on listed items and map rank information onto a mental number line, producing extremity expansion and interval compression.",
+    "It shows that rank length effects generalize beyond evaluations to willingness to pay and to choice across three choice contexts with different attainability structures."
+  ],
+  "context": "The paper studies consumer responses to ranked lists used in marketplace settings such as movie rankings (IMDb), product bestsellers (Amazon), hotels, restaurants, and services. It focuses on cases where consumers know the total competitive set and this set is unchanged across different displayed rank lengths.",
+  "design_and_data": "The authors report 10 studies, including laboratory experiments, two eye-tracking studies, online experiments (MTurk and CloudResearch Connect), and a 20-day field experiment in a university bakery. Rank length is manipulated (for example, top 3 or top 5 vs top 20) while the underlying total competitive set is held constant and stated to participants. Outcomes include item evaluations, willingness to pay, and choices, with analyses including mixed ANOVA, logistic regression, mediation bootstraps, and a Poisson model for field sales counts. Several studies test mechanisms and alternatives by varying evaluation order, prompting consideration of out-of-list items, and providing explicit reasons for displayed rank length.",
+  "focal_constructs": [
+    "rank length",
+    "ranked item evaluations",
+    "willingness to pay",
+    "consumer choice",
+    "mental number line mapping",
+    "narrow-focus tendency",
+    "extremity expansion",
+    "interval compression"
+  ],
+  "main_findings": [
+    "Across multiple studies, items that appear on both lists are evaluated more positively in longer versus shorter rank lists, and the evaluation gaps between ranked items are smaller in longer lists.",
+    "Eye-tracking and process tests support the proposed mechanism: longer lists increase attention to upper-scale extremity, and prompting participants to consider out-of-list items attenuates the rank length effect.",
+    "Rank length shifts downstream decisions: longer lists increase willingness to pay; they increase choice of the no. 1 option when compared with unranked alternatives or when no. 1 is at least as attainable, but increase switching to lower-ranked options when higher-ranked options are less attainable."
+  ],
+  "one_line_summary": "Across 10 studies, the paper shows that longer versus shorter rank lists make the same ranked items seem better while compressing perceived differences among them, with downstream effects on willingness to pay and context-dependent choice.",
+  "relation_to_prior_work": "extends prior rank-list research that mainly emphasized rank position or rank changes by showing that list length itself systematically shapes evaluations, willingness to pay, and choice, and introduces a number-location mapping account for how ordinal rank information is converted into interval-like judgments.",
+  "research_gap": "Prior work on rank claims largely focused on an individual item's rank position and changes in that position, with little attention to rank length as a structural feature of the list. The paper addresses whether and how the number of ranked items shown influences judgments and decisions even when the total competitive set is known and unchanged.",
+  "research_question": "Does the length of a displayed rank list (for example, top 5 vs top 20) change how consumers evaluate the same ranked items when the total competitive set is constant and known? If so, does this occur because consumers narrowly focus on listed items and map ranks onto a mental number line, and do these effects carry over to willingness to pay and different choice contexts?"
+}

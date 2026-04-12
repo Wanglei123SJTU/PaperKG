@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides a first systematic comparison of consumer decision making in reward-based crowdfunding versus traditional purchase transactions, showing that transaction type can shift demand toward different product types.",
+    "Identifies a novel mechanism by showing that crowdfunding (vs purchase) activates a more interdependent self-construal, which increases demand for social-good products.",
+    "Shows crowdfunding-specific boundary conditions: the effect requires active participation in crowdfunding (not merely a product's crowdfunding history) and is stronger when collective efficacy is high."
+  ],
+  "context": "The paper studies reward-based crowdfunding for new products, contrasted with conventional purchase transactions, in settings analogous to platforms such as Kickstarter and Indiegogo. The focal offerings are social-good products (with social and/or environmental benefits) versus self-benefit products.",
+  "design_and_data": "The authors report six randomized experiments using campus intercept field-style studies and online studies. Studies 1a and 1b (Canadian university campus passersby) measure real monetary contributions for pens under crowdfunding versus purchase, with Study 1b also varying social-good versus self-benefit positioning. Studies 2a (European university students, consequential lottery choice) and 2b (Prolific adults) use relative choice/preference between social-good and self-benefit sunglasses, and Study 2b measures state self-construal and tests alternative mediators. Study 3 (Prolific) adds a purchase-with-crowdfunding-history condition, and Study 4 (MTurk, crowdfunding only) manipulates collective efficacy and product type while measuring willingness to contribute from a potential lottery payment.",
+  "focal_constructs": [
+    "reward-based crowdfunding",
+    "purchase transaction",
+    "social-good product demand",
+    "interdependent self-construal",
+    "collective efficacy beliefs",
+    "active crowdfunding involvement",
+    "self-benefit products"
+  ],
+  "main_findings": [
+    "Across studies, crowdfunding versus purchase increased willingness to pay for and preference/choice of social-good products, and this pattern did not generalize to self-benefit products.",
+    "Crowdfunding increased interdependent self-construal, and this construct significantly mediated the effect of transaction type on demand for social-good products; tested alternatives such as perceived risk, others' preferences, and entrepreneurial need were not supported.",
+    "The effect was attenuated when products were already on the market with only a crowdfunding history, and within crowdfunding demand for social-good products was lower under low collective efficacy than under high collective efficacy."
+  ],
+  "one_line_summary": "Across six experiments, reward-based crowdfunding (vs traditional purchase) increased demand for social-good products by activating a more interdependent self-construal, with effects requiring active crowdfunding participation and stronger collective efficacy beliefs.",
+  "relation_to_prior_work": "extends prior crowdfunding work that mainly examined behavior within crowdfunding platforms by causally comparing crowdfunding with purchase transactions and showing differences in product demand. It also extends self-construal research by identifying a natural marketplace transaction as a situational antecedent of interdependent self-construal, and brings collective efficacy into consumer research as a relevant boundary condition.",
+  "research_gap": "Prior research had not systematically tested whether participating in crowdfunding, versus making a standard purchase, changes consumers' decision processes and product preferences. The paper also notes limited attention to natural marketplace antecedents of self-construal and little consumer-research evidence on collective efficacy.",
+  "research_question": "Does engaging in a reward-based crowdfunding transaction, compared with a traditional purchase transaction, increase consumer demand for social-good products? If so, is this because crowdfunding activates a more interdependent self-construal, and under what conditions (active crowdfunding involvement and collective efficacy levels) does the effect hold or attenuate?"
+}

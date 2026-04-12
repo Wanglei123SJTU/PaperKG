@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The authors claim to reveal two simplification processes in conjoint search, alternative focus and attribute focus, and to show that both intensify with practice.",
+    "They claim to show that repeated conjoint choices become quicker yet more accurate, clarifying how conjoint exercises recover stable trade-off values.",
+    "They claim that conjoint choice is driven mainly by goal-driven respondent utilities and is relatively resistant to distortion from incidental exposure and layout factors."
+  ],
+  "context": "The paper analyzes repeated choice-based conjoint tasks in laboratory eye-tracking studies for single-cup coffee makers, beach vacations, and laptop computers. Participants chose from attribute-by-alternative matrices (including a no-choice option in the coffee-maker study), with one laptop study using incentive-compatible choices.",
+  "design_and_data": "The focal dataset is a coffee-maker eye-tracking conjoint study with 60 usable respondents (from 110 recruits) completing 12 analyzed choice tasks with three product alternatives plus no-choice; warm-up and fixed tasks were excluded from main analyses. Individual utilities were estimated with a Bayesian random-coefficients multinomial logit model, using holdout-style task-level estimation so each task's utility inputs were estimated from the other tasks. Fixation counts at the cell level were modeled with a multilevel Poisson specification (respondent and task random effects) including alternative attractiveness, attribute importance, feature utility, task progression, task experience, horizontal centrality, first-fixated alternative, and task difficulty (entropy). The same modeling logic was conceptually replicated on beach-vacation (n=35, 8 tasks, 5 alternatives) and laptop (n=70, 20 tasks, 4 alternatives) eye-tracking conjoint data.",
+  "focal_constructs": [
+    "choice-based conjoint",
+    "goal-driven attention",
+    "stimulus-driven attention",
+    "alternative focus",
+    "attribute focus",
+    "feature utility",
+    "incidental exposure",
+    "horizontal centrality"
+  ],
+  "main_findings": [
+    "Conjoint responses became more efficient with practice, with fewer fixations and shorter completion time alongside higher holdout hit rates (e.g., in coffee makers, about 50 to 32 fixations and roughly a 12-point hit-rate increase across tasks).",
+    "Attention was strongly value-linked: higher-utility alternatives and more important attributes received more fixations, and these focus effects generally strengthened within tasks and/or across task experience.",
+    "Incidental attention effects were mostly weak for choice outcomes: first-fixated and centrally located alternatives reliably attracted more fixations but usually did not significantly increase choice probability, and positive-feature attention bias for chosen options was small."
+  ],
+  "one_line_summary": "Across three eye-tracking conjoint studies, respondents became faster and more accurate by increasingly focusing on attractive alternatives and important attributes, while incidental exposure effects on choice were generally modest.",
+  "relation_to_prior_work": "extends eye-tracking research on attention and choice from one-off or less-structured decisions to repeated conjoint matrices with shuffled attribute levels. It also challenges strong stimulus-driven gaze-cascade interpretations in this setting by showing that centrality and first fixation raise attention more than they raise choice.",
+  "research_gap": "Prior eye-tracking work mainly examined single or less-structured choices, so it was unclear how attention operates in repeated conjoint grids where attributes are stable in location but levels are repeatedly reshuffled. The paper addresses the unresolved question of whether conjoint choices are primarily value-driven or substantially distorted by incidental attentional factors common in other contexts.",
+  "research_question": "The paper asks how attention is allocated during repeated conjoint choices and whether this allocation is primarily goal-driven by respondent utilities or stimulus-driven by incidental task features. It tests whether fixations track alternative attractiveness and attribute importance, how these patterns change within and across tasks, and whether biased or incidental attention (e.g., to positive features, first-viewed alternatives, or central positions) distorts choice."
+}

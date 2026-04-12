@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper quantifies the average CM lift by synthesizing experimental studies that compare CM to no-CM baselines and benchmarks CM against discounts and other CSR instruments.",
+    "It separates attitudinal and behavioral outcomes to show how CM effectiveness and execution priorities differ by managerial objective.",
+    "It proposes a four-pillar framework and estimates a multivariate hierarchical meta-regression with 15 moderators, using a unified coding scheme plus supplemental measurement data."
+  ],
+  "context": "The paper studies cause-related marketing campaigns in which firms tie consumer purchases to donations for nonprofit partners or social causes. The evidence spans consumer experiments from multiple disciplines and countries, published between 1992 and 2021.",
+  "design_and_data": "The authors conducted a meta-analysis of 159 papers reporting 237 CM studies on consumer responses. For main-effect estimation, they used 67 studies with a no-CM control condition (205 effect sizes; N=118,582) and computed standardized mean differences (Cohen's d). They coded 15 substantive moderators plus methodological controls, including additional survey-based measures for product hedonicity and brand-cause fit and external cultural/sentiment data. They estimated hierarchical random-effects meta-regressions separately for attitudinal and behavioral outcomes, and also analyzed studies comparing CM with discounts and other CSR instruments.",
+  "focal_constructs": [
+    "cause-related marketing",
+    "attitudinal response",
+    "behavioral response",
+    "transparency",
+    "signals of sincerity",
+    "emotional attachment",
+    "purchase context",
+    "attitude-behavior gap"
+  ],
+  "main_findings": [
+    "Across no-CM-control studies, CM had a moderate positive effect on attitudes (d=.458, p<.001) and a weaker positive effect on behavioral responses (d=.283, p<.001), with high heterogeneity.",
+    "For attitudinal outcomes, emotional attachment was the most influential pillar, and low emotional attachment combined with poor donation-appeal framing could produce negative attitude effects.",
+    "For behavioral outcomes, emotional attachment and signals of sincerity were similarly important, the visual prominence of the donation target was the strongest individual moderator, and CM underperformed sizable discounts on short-term behavior while outperforming discounts on attitudes."
+  ],
+  "one_line_summary": "This meta-analysis shows that cause-related marketing improves consumer attitudes more than behavior on average and that campaign success depends strongly on emotional-attachment and sincerity-related execution choices.",
+  "relation_to_prior_work": "extends prior narrative reviews and one-moderator-at-a-time syntheses by estimating CM main effects from no-CM control studies and jointly testing moderator importance in a multivariate framework.",
+  "research_gap": "Prior CM studies report conflicting positive, null, and negative effects, and existing reviews did not quantify the overall CM lift or the relative importance of multiple moderators. Many moderator-focused experiments also lacked no-CM control groups, limiting inference about how moderators change CM effectiveness itself.",
+  "research_question": "What is the average effect of cause-related marketing on consumer attitudes and behavioral responses relative to no CM? Which moderators explain heterogeneity in that effect, and do moderator priorities differ between attitudinal versus behavioral objectives?"
+}

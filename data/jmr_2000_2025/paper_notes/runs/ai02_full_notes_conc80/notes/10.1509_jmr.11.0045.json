@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Proposes a structural demand-and-supply model for differentiated products in which advertising affects both utility and the dynamic evolution of consumer awareness and choice-set inclusion.",
+    "Explicitly models firms' dynamic advertising and pricing decisions and estimates demand, price, and advertising equations jointly to handle endogeneity and simultaneity.",
+    "Provides what the authors describe as the first evaluation, in an aggregate discrete-choice framework, of the dynamic advertising effect that operates through consumer choice sets."
+  ],
+  "context": "The empirical illustration is the Spanish automobile market, a differentiated durable-goods market with substantial model turnover and heavy launch-period advertising. The sample covers monthly observations from 1990 to 2000.",
+  "design_and_data": "The paper builds a structural model with a conditional-logit demand system where each consumer's choice set is unobserved and evolves through a latent awareness process with carryover and advertising-driven transitions. On the supply side, firms choose prices and advertising dynamically; pricing first-order conditions and a dynamic advertising Euler-type condition are estimated jointly with demand. Estimation uses GMM and simulation (BLP-style contraction plus simulated choice-set histories), with instruments for price and advertising. Data include 16,362 model-month observations for 257 car models sold by 32 brands (33 multiproduct manufacturers in the market description), with registrations, prices and characteristics, model/brand advertising expenditures, and household/income data.",
+  "focal_constructs": [
+    "advertising expenditures",
+    "consumer awareness process",
+    "evolving consumer choice sets",
+    "dynamic advertising decisions",
+    "differentiated-product discrete choice demand",
+    "new product life-cycle sales",
+    "endogeneity and simultaneity in demand and supply"
+  ],
+  "main_findings": [
+    "Advertising has a dynamic awareness effect that is especially important for new products, and the awareness process can be substantially accelerated by advertising.",
+    "The estimated awareness process lasts about three years on average but is highly heterogeneous across products, ranging from roughly one to six years depending on advertising intensity.",
+    "Accounting for advertising effects on both utility and choice-set inclusion is crucial to match sales life-cycle patterns, and about half of the awareness-channel sales effect is attributed to its dynamic component."
+  ],
+  "one_line_summary": "The paper estimates a structural dynamic demand-and-supply model showing that advertising speeds consumer awareness formation for new car models and that this dynamic awareness channel is central to explaining product life-cycle sales.",
+  "relation_to_prior_work": "introduces a dynamic awareness-choice-set mechanism in an aggregate discrete-choice model, moving beyond largely static choice-set advertising treatments in prior work such as Goeree (2008) and Draganska and Klapper (2011), and applies the Berry and Pakes (2001) dynamic-controls approach in this setting.",
+  "research_gap": "Prior research on advertising and choice sets largely treats awareness effects as static, and studies of awareness in aggregate demand settings generally do not model how advertising dynamically builds awareness over a new product's life cycle. The paper targets this missing dynamic component and the related identification of awareness versus utility effects of advertising.",
+  "research_question": "How does advertising dynamically affect whether consumers include new differentiated products in their choice sets, in addition to any direct utility effect? Can these two channels be separately identified and quantified in a structural model with endogenous firm pricing and advertising decisions, and do they explain observed sales life-cycle patterns?"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a structural entry model in which firms can generate both positive and negative strategic spillovers in a static incomplete-information game.",
+    "It applies a direct optimization MPEC approach to estimate the entry game by maximum likelihood while allowing multiple equilibria and without imposing sign restrictions to force uniqueness.",
+    "It provides structural estimates of interstore spillovers in U.S. regional shopping centers using a novel national anchor-configuration data set (final estimation sample: 561 malls)."
+  ],
+  "context": "The empirical setting is the U.S. regional shopping center industry, focusing on anchor tenants such as department and discount stores. Each market is a regional mall, treated as a self-contained retail cluster serving a broad local trade area.",
+  "design_and_data": "The author constructs a cross-sectional data set from the 2006 Directory of Major Malls, merges Census 2000 demographics at the 3-digit zip level, and adds distances from each anchor to its headquarters and nearest distribution center; records are cross-checked with the NRB directory and mall/developer sources. After dropping centers with substantial missing data, the final sample contains 561 regional malls. Anchor stores are grouped into three types (upscale, midscale, discount), and the model specifies a simultaneous-move incomplete-information entry game with nine potential entrants per market (three per type). Parameters are estimated by constrained maximum likelihood using MPEC, with random-coefficient market heterogeneity (two latent market types) and bootstrap standard errors.",
+  "focal_constructs": [
+    "anchor store entry decisions",
+    "strategic spillovers",
+    "strategic complementarities",
+    "business-stealing effects",
+    "multiple equilibria",
+    "MPEC maximum likelihood estimation",
+    "regional shopping center market structure"
+  ],
+  "main_findings": [
+    "The estimates support agglomeration and clustering: firms can have incentives to colocate despite competitive business-stealing effects.",
+    "Estimated strategic effects are important for predicting both how many anchors can profitably operate in a mall and the resulting type configuration, and in some cases these effects outweigh demographic influences.",
+    "Midscale department stores are estimated as strategic complements, while upscale stores are strategic substitutes with same-type stores but benefit from the presence of discount and midscale stores."
+  ],
+  "one_line_summary": "The paper estimates an incomplete-information entry game for U.S. regional mall anchors with an MPEC maximum-likelihood method to quantify positive and negative spillovers and explain observed mall configurations.",
+  "relation_to_prior_work": "extends empirical entry-game work that typically imposes negative competitive effects by allowing strategic complementarities and explicit positive spillovers among entrants. It also introduces a direct optimization MPEC estimation approach as an alternative to fixed-point and two-step methods when multiple equilibria are present.",
+  "research_gap": "Prior empirical entry models commonly assume that additional entry always lowers incumbents' profits, partly to avoid multiplicity, which can be unrealistic in clustered retail settings with agglomeration benefits. In shopping centers, prior research is largely descriptive and provides limited structural explanation of observed anchor configurations.",
+  "research_question": "What determines the observed anchor-store configurations in U.S. regional shopping centers once both market characteristics and strategic interactions are modeled? Specifically, are interstore spillovers positive or negative across and within store types, and can these effects be estimated in a structural entry game that allows multiple equilibria?"
+}

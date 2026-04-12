@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used as a concrete methodological source, not just background. In the model section, the authors explicitly state they \"follow Naik and Tsai (2000)\" to handle endogeneity in ad impressions, and they implement a related measurement-error/correlated-error structure in Equations 6-7. The empirical results then evaluate those endogeneity correlations, showing this borrowed framework is part of the paper's estimation logic. This gives the citation a clear functional role in model specification and inference.",
+  "relation_description": "The citing paper applies Naik and Tsai's measurement-error/endogeneity-control approach within its dynamic digital advertising model. It adapts that framework to impression-click panel data to model correlated unobservables and justify endogeneity correction.",
+  "relation_type": "applies"
+}

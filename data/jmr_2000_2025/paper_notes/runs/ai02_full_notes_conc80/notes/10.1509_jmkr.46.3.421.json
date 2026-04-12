@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and tests that charitable appeal effectiveness depends on whether the recipient's active perspective (potential donor vs potential beneficiary) matches or conflicts with the perspective encouraged by the appeal.",
+    "It shows that common strengthening cues such as victim pictures and personalized wording can reduce effectiveness when they intensify perspective conflict and processing difficulty.",
+    "It provides converging evidence across five experiments, including direct perspective manipulations and actual donation behavior, and shows similar effects in both child-trafficking and organ-donation appeals."
+  ],
+  "context": "The studies examine nonprofit solicitations about child trafficking and organ donation. Participants, mainly university students, read print-style appeals and then reported helping intentions or made real donation-related choices.",
+  "design_and_data": "Five experiments manipulated perspective alignment between readers and appeals. Experiments 1-3 (N = 93, 59, 54) used a 2 x 2 design: request order (request first vs problem first) x victim picture (present vs absent) in personalized child-trafficking appeals; outcomes included urge to help, imagined perspective, hypothetical donation, and in Experiment 3 actual cash donation. Experiment 2 additionally measured imagination difficulty, identification, empathy/sympathy, and reactance, and tested mediation; the authors also report pooled path analyses across Experiments 1-3. Experiment 4 (N = 48) directly manipulated instructed perspective (helper vs victim) and appeal type (personalized vs impersonal), and Experiment 5 (N = 178) used a 2 x 2 x 2 design (appeal focus x instructed perspective x personalization) in organ-donation messages, with urge to donate and willingness to sign a donor card.",
+  "focal_constructs": [
+    "charitable appeals",
+    "perspective taking",
+    "donor perspective",
+    "beneficiary perspective",
+    "perspective conflict",
+    "imagination difficulty",
+    "processing fluency",
+    "helping and donation behavior"
+  ],
+  "main_findings": [
+    "When readers first processed the victim's plight, vivid/personalized victim cues increased helping responses, but when readers were first oriented to themselves as donors, the same cues reduced helping effectiveness.",
+    "Reported imagination difficulty followed the same crossover pattern and mediated effects on urge to help in Experiment 2, while empathy, sympathy, identification, and reactance did not explain the results.",
+    "The perspective-match advantage generalized beyond stated intentions to actual cash donations (Experiment 3) and willingness to sign an organ-donation card (Experiment 5)."
+  ],
+  "one_line_summary": "Across five experiments, the paper shows that charitable appeals work better when the reader's active perspective matches the appeal's perspective, and that making victims more vivid can backfire when donor perspective is already activated.",
+  "relation_to_prior_work": "extends prior helping and perspective-taking research by identifying a cognitive fluency mechanism in which mismatch between donor and beneficiary perspectives impairs processing and lowers charitable appeal effectiveness.",
+  "research_gap": "The authors argue that prior work on helping behavior emphasizes motivational drivers (e.g., empathy, responsibility, identification) but gives less attention to cognitive processing in charitable solicitations. They address the unresolved possibility that donor and victim perspectives can conflict during message processing, reducing persuasive impact.",
+  "research_question": "When does imagining oneself as the beneficiary help versus hurt charitable appeal effectiveness? The paper examines whether appeal features that increase beneficiary-focused imagery improve helping when readers take a beneficiary perspective but undermine helping when readers are already oriented to themselves as potential donors."
+}

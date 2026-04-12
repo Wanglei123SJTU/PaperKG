@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Shows that relationships among multiple deal numbers (regular price, sale price, absolute discount, relative discount) affect deal processing fluency, not just the properties of individual numbers.",
+    "Introduces and tests two specific numerical relationship mechanisms in price promotions: base-10 approximation sequence membership and number-multiple relationships.",
+    "Demonstrates that under low processing motivation, consumers may choose more fluently processed deals even when those deals offer lower economic value."
+  ],
+  "context": "The paper studies consumer responses to price promotions in retail deal formats that present several numeric elements (sale price, regular price, percent off, and amount saved). It includes both controlled experiments and a field setting from Groupon deal-of-the-day offers in two northeastern U.S. cities.",
+  "design_and_data": "The authors report four studies. Study 1 is a three-condition between-subjects online experiment (N = 135 university students, faculty, and staff) comparing approximation-sequence, number-multiple, and economically superior nonfluent deals, with viewing time and decision time as fluency indicators plus deal liking and purchase intentions. Study 2 is a four-condition between-subjects experiment (N = 161 students) that varies whether a fourth numeric element is added and whether it is numerically related to the other deal numbers. Study 3 uses field data from 218 Groupon deals (24-hour offers), coding roundness/sequence and number-multiple properties and regressing buyer counts on these fluency-related measures and economic value measures. Study 4 is a 3 x 3 x 2 between-subjects online experiment (N = 386) manipulating discount level, numeric variation, and processing motivation while participants choose between a more fluent versus economically superior deal.",
+  "focal_constructs": [
+    "deal processing fluency",
+    "approximation sequence membership",
+    "number-multiple relationships",
+    "number roundness",
+    "deal liking",
+    "purchase intentions",
+    "economic value of the deal",
+    "processing motivation"
+  ],
+  "main_findings": [
+    "Deals whose numbers form approximation sequences or number-multiple relationships are processed more fluently and are liked more than less related numeric combinations.",
+    "Processing fluency and deal liking partially mediate the effect of number combinations on purchase intentions in the experimental studies.",
+    "In direct choice comparisons, low-motivation consumers tend to choose the more fluent but economically weaker deal, whereas high-motivation consumers tend to choose the economically superior deal."
+  ],
+  "one_line_summary": "Across four studies, the paper finds that price-promotion numbers that form approximation sequences or multiples increase processing fluency, which raises deal liking and purchase, but economic value dominates when consumers are highly motivated to process numeric information.",
+  "relation_to_prior_work": "extends number fluency and ease-of-processing research by showing that in price promotions, relationships among multiple numbers in a deal shape fluency-driven evaluations and choice beyond effects tied to single numbers or discount framing alone.",
+  "research_gap": "Prior promotion research had examined discount framing formats but had not directly tested how the combination of multiple numeric deal elements jointly affects processing fluency and downstream responses. The paper also addresses conflicting implications in prior work about whether adding computed discount information helps or hurts deal evaluation.",
+  "research_question": "How do relationships among the numbers in a price promotion (regular price, sale price, absolute discount, relative discount) affect deal processing fluency, deal liking, and purchase intentions? Specifically, do approximation-sequence and number-multiple structures improve responses, and when can fluency outweigh superior economic value in consumer choice?"
+}

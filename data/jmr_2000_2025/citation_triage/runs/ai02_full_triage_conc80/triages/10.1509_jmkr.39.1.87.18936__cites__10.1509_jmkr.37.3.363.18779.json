@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper is a Monte Carlo comparison of HB vs. finite-mixture conjoint models, while the cited paper is an applied HB Internet movie recommendation study; the overlap appears to be mainly the broad use of hierarchical Bayes and heterogeneity modeling. With only a DOI-level matched reference and no in-text citation context, there is not enough evidence to confidently classify this as either clearly substantive or clearly incidental.",
+  "triage_decision": "uncertain"
+}

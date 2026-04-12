@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides the first direct test of whether managerial empathy increases or decreases self-reference when managers predict consumer preferences.",
+    "Identifies and tests a mechanism in which perspective taking activates managers' private consumer identity, making personal consumption preferences more accessible and influential.",
+    "Shows two downstream implications: empathy can reduce perceived value of objective market research, and explicit consumer-identity suppression instructions can mitigate the self-referential effect."
+  ],
+  "context": "The paper studies experienced marketing managers making consumer-facing decisions in four simulated business contexts: automotive product development, luxury-watch advertising choice, coffeehouse pricing, and video-game celebrity endorsement.",
+  "design_and_data": "The authors report four empirical studies with 480 experienced marketing managers in total. Study 1 (N=93) uses measured empathy in an automotive product-attribute allocation task with objective market research information. Study 2 (N=233) experimentally manipulates empathy in a Rolex advertising decision, again with market research input; Study 3 (N=61) manipulates empathy in a pricing task without market research and tests mediation by consumer-identity activation; Study 4 (N=93 after exclusions from 98 recruited) uses no-empathy, empathy, and modified-empathy conditions in a celebrity endorsement task and randomizes measurement order.",
+  "focal_constructs": [
+    "managerial empathy (cognitive perspective taking)",
+    "self-referential predictions of consumer preferences",
+    "managers' personal consumption preferences",
+    "activation of managers' private consumer identity",
+    "consumer identity suppression",
+    "responsiveness to objective market research",
+    "managerial decision making"
+  ],
+  "main_findings": [
+    "Across all four studies, empathy increased the extent to which managers' predicted consumer preferences reflected their own personal preferences.",
+    "The effect of empathy on self-referential prediction was mediated by activation of managers' private consumer identity in the pricing study.",
+    "Empathic managers assigned lower value to objective market research in studies with market data, and explicit instructions to suppress personal consumer identity eliminated the empathy-driven self-referential effect."
+  ],
+  "one_line_summary": "Across four studies of experienced marketing managers, consumer perspective taking increased rather than decreased egocentric preference prediction because it activated managers' own consumer identity.",
+  "relation_to_prior_work": "challenges the common perspective-taking assumption that empathy reduces egocentrism in judgments about others by showing the opposite in managerial consumer-preference predictions. It introduces a multiple-identity account into this setting and refines expectations from market-orientation work by documenting reduced reliance on market intelligence under empathy.",
+  "research_gap": "The paper argues that, despite strong practitioner and academic emphasis on empathy, little research has examined how managerial empathy shapes decision processes. Specifically, prior work had not established whether empathy helps or hurts managers when predicting consumer preferences, nor how it affects use of objective market research.",
+  "research_question": "Does managerial empathy reduce or increase the influence of managers' own preferences when they predict consumer preferences? If empathy increases self-reference, is this because perspective taking activates managers' private consumer identity, and can this bias be mitigated by identity-suppression instructions while also affecting reliance on market research?"
+}

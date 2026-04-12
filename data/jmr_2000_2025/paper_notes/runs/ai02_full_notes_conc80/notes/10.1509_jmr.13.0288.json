@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "A likelihood-based hierarchical Bayesian bounded-rationality model that jointly explains information search and final choice in preference measurement using eye-tracking and choice data.",
+    "An extension of the directed cognition framework to conjoint-style tasks with discrete attribute levels, individual-level partworths, fatigue and proximity effects in search utility, and imperfect memory encoding.",
+    "Evidence that modeling eye movements as forward-looking utility-maximizing actions can improve prediction, support shorter questionnaires, and improve discrimination between attributes."
+  ],
+  "context": "The paper studies choice-based conjoint preference measurement in which product information is shown in an attribute-by-alternative matrix and respondents search by moving their eyes across cells. The empirical application is a Dell laptop choice task where eye fixations are observed until respondents stop searching and choose an option.",
+  "design_and_data": "The authors run a lab CBC experiment with eye tracking: 20 main choice questions with 4 alternatives per question, 6 attributes, and 4 levels per attribute, plus one external validity choice task with 8 alternatives. Of 120 recruited participants, 70 had complete eye-tracking data after excluding observations with missing fixation-position records. Eye movements were recorded with a Tobii 2150 at 50 Hz and mapped to information cells in the choice matrix. They estimate a hierarchical Bayesian dynamic discrete choice model with individual-level partworth and search parameters, estimate the memory-encoding parameter via grid search, and compare against choice-only and search+choice benchmarks using DIC and out-of-sample hit rates.",
+  "focal_constructs": [
+    "bounded rationality",
+    "information search",
+    "eye-tracking fixations",
+    "dynamic discrete choice",
+    "directed cognition",
+    "search-related utility",
+    "partworth utilities",
+    "imperfect memory encoding"
+  ],
+  "main_findings": [
+    "The proposed model has better in-sample fit than search+choice benchmarks that remove key forward-looking components, with consistently lower DIC across calibration lengths.",
+    "Out-of-sample hit rates on both holdout main-task questions and the external validity task are higher for the proposed model than for choice-only and alternative search+choice benchmarks, with significant average differences.",
+    "The model yields stronger discrimination across attribute importances than choice-only benchmarks, and estimated attribute importance is positively aligned with visual attention (high rank correlation between fixation shares and importances)."
+  ],
+  "one_line_summary": "This paper develops and estimates a bounded-rationality dynamic model that jointly uses eye-fixation and choice data in conjoint tasks and shows superior predictive performance and attribute-level inference versus benchmark models.",
+  "relation_to_prior_work": "extends the directed cognition model of Gabaix et al. (2006) to conjoint preference measurement by allowing heterogeneous partworths, fatigue and proximity in search utility, imperfect memory encoding, and likelihood-based hierarchical Bayesian estimation. It contrasts with prior eye-tracking models that rely on hidden Markov search states by modeling fixations as outcomes of forward-looking utility maximization.",
+  "research_gap": "Standard conjoint choice models assume respondents process all choice-relevant information, and existing eye-tracking models in this area did not explicitly model the dynamic trade-off between information-processing effort and better-informed choice. The paper addresses this missing dynamic bounded-rationality account of search and choice.",
+  "research_question": "How can information acquisition and final choice in conjoint-style preference measurement be jointly modeled under bounded rationality using eye-tracking and choice data? Does treating fixations as forward-looking utility-maximizing decisions improve preference recovery and out-of-sample prediction relative to models that ignore or weakly endogenize search?"
+}

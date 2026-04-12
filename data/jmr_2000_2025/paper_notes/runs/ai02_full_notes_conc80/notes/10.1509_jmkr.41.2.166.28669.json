@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops a dynamic linear model framework for market response that jointly accommodates nonstationarity, time-varying parameters, missing data from brand entry, and cross-sectional heterogeneity.",
+    "It extends product-entry analysis by modeling the dynamic adjustment path after innovation instead of assuming an instantaneous pre-post shift.",
+    "It explicitly incorporates launch-period uncertainty through a time-varying observation covariance and distinguishes effects of a major innovation from a later me-too entrant."
+  ],
+  "context": "The empirical setting is the frozen pizza category in the Chicago market area, where rising-crust pizza was introduced as a major innovation. The analysis tracks seven national brands across 22 supermarkets, including DiGiorno (innovator, 1996) and Freschetta (follower, 1997).",
+  "design_and_data": "The study uses 247 weeks of IRI store-level scanner data (April 1995-December 1999) from 22 stores. It estimates a log-log sales response system with price and promotion variables for seven brands using a hierarchical Bayesian dynamic linear model. State equations allow intercepts and elasticities to evolve over time and include innovation-entry indicators, while the observation covariance is scaled by a time-varying factor to capture changing uncertainty. Estimation is by Gibbs sampling, and competing specifications are compared with log Bayes factors.",
+  "focal_constructs": [
+    "product innovation",
+    "market structure",
+    "cross-price elasticities",
+    "own-price elasticities",
+    "brand differentiation",
+    "sales-response uncertainty",
+    "nonstationarity",
+    "dynamic linear model"
+  ],
+  "main_findings": [
+    "After the introduction of DiGiorno, cross-price elasticities among existing brands increased significantly in most cases (18 of 20), indicating greater substitutability among incumbents.",
+    "Own-price elasticities for three of five existing brands became more negative after the innovation, implying reduced differentiation for those brands.",
+    "The variance scale of the sales-response errors rose temporarily around DiGiorno's rollout, indicating higher uncertainty, and this pattern was not observed for the later Freschetta entry."
+  ],
+  "one_line_summary": "Using a hierarchical Bayesian dynamic linear model on weekly frozen-pizza scanner data, the paper shows that a major rising-crust innovation made incumbent brands more substitutable, reduced differentiation for several incumbents, and temporarily increased sales-response uncertainty.",
+  "relation_to_prior_work": "extends prior econometric work on product entry and market response by allowing gradual post-entry parameter adjustment, focusing on major innovation rather than minor line extensions, and modeling launch-period uncertainty with time-varying variance.",
+  "research_gap": "The paper states that econometric analyses of how product innovation affects market structure are sparse relative to work on advertising and promotion effects. It also argues that existing entry models often assume instantaneous adjustment, emphasize minor entrants, and do not explicitly capture uncertainty and other dynamic complications created by innovation.",
+  "research_question": "How does a major product innovation dynamically alter market structure, as reflected in own- and cross-price elasticities of existing brands? Can a single model recover these effects while handling nonstationarity, evolving parameters, missing data from brand entry, and cross-sectional heterogeneity?"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the literature review, the citation is tied to a specific mechanism and claim about why loyal customers accelerate purchases under promotion, not just a generic list of related work. The cited paper is also referenced in the model-estimation section as one of the core examples of the estimation approach used. These roles meaningfully inform both conceptual framing and modeling setup of the 2007 study, even though the new paper does not directly reuse the cited paper's forward-looking structural model.",
+  "relation_description": "The citing paper uses Sun, Neslin, and Srinivasan (2003) as a key prior dynamic-structural account of promotion-induced acceleration, specifically the mechanism that loyal consumers stockpile when incremental consumption utility outweighs inventory cost. It also cites that paper as methodological precedent for jointly estimated simulated-maximum-likelihood choice/incidence modeling, which helps ground the citing paper's own modeling and decomposition framework.",
+  "relation_type": "foundational_for"
+}

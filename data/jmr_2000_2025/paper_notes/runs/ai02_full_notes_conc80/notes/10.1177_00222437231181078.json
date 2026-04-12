@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Shows that failure messaging can effectively promote masculine brands even when the advertised product does not directly resolve the failure depicted in the ad.",
+    "Identifies hostility as the key mechanism linking achievement failure to stronger preference for masculine brands, while ruling out alternatives such as self-threat, comfort-seeking, general negative affect, and loss of control.",
+    "Demonstrates boundary conditions and downstream effects: responsibility and stability attributions shape the effect of failure messaging, and postfailure masculine consumption helps restore perceived competence."
+  ],
+  "context": "The paper studies advertising and brand choice in achievement-related failure contexts (e.g., work, education, sports), using both field and lab settings. Empirical contexts include college football game outcomes and liquor sales, Amazon purchase behavior, Facebook ad click behavior, testimonial ads, and lab product interaction tasks.",
+  "design_and_data": "The authors run eight studies combining observational and experimental evidence. Field evidence includes county-level liquor sales across 12 college football game days (7 wins, 5 losses), a noninterventional Amazon purchase study using before/after screenshots from frequent shoppers (screener N=5,459; main N=202), and a Facebook split-test field experiment with six ads and 54,297 ad impressions. Additional Prolific and lab experiments manipulate failure versus success (including anagram tasks and testimonial/radio ads), test mediation by hostility, test three-way moderation by responsibility and stability (N=965), and test whether interacting with masculine versus feminine or neutral products after failure changes perceived competence (N=427).",
+  "focal_constructs": [
+    "failure versus success messaging",
+    "achievement failure experiences",
+    "masculine brand preference",
+    "hostility",
+    "responsibility attribution",
+    "stability attribution",
+    "aggressive branding cues",
+    "perceived competence recovery"
+  ],
+  "main_findings": [
+    "Across multiple field and lab studies, failure (vs. success) experiences and failure-framed ads increase preference for masculine brands, while comparable effects do not appear for feminine or neutral brands.",
+    "Hostility mediates the effect of failure on preference for masculine brands, and this mediation is not explained by self-threat, comfort-seeking, general negative affect, or sense of control.",
+    "The failure effect is stronger when people take responsibility for failure and is intensified when causes are perceived as unstable (and weaker when stable), and consuming masculine options after failure increases perceived competence."
+  ],
+  "one_line_summary": "Across eight studies, the paper shows that achievement failure and failure-framed advertising increase preference for masculine brands via hostility, especially under specific attribution conditions, and that masculine consumption can help restore felt competence after failure.",
+  "relation_to_prior_work": "extends prior advertising and consumer behavior research by moving beyond success-focused and remedial problem-solution appeals to show when failure messaging influences brand choice through symbolic masculinity and attributional dynamics.",
+  "research_gap": "Prior research has mostly treated success messaging as the effective commercial strategy and has used failure appeals mainly when the product directly fixes the failure (problem-solution framing). The paper addresses the unresolved question of whether failure messaging can shift preferences for brands that do not provide direct failure resolution, and through what mechanism and boundary conditions.",
+  "research_question": "When and why does failure versus success messaging in achievement contexts make consumers prefer masculine brands? The paper asks whether hostility explains this effect, whether the effect depends on responsibility and stability attributions for failure, and whether postfailure masculine consumption helps consumers recover from reduced competence."
+}

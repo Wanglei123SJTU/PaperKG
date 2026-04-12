@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s core model is a hierarchical Bayesian purchase-response model with a hidden Markov latent-state process for solicitation effects, while the cited paper’s main contribution is a hierarchical Bayesian hidden Markov promotion-response framework. That close methodological overlap makes the cited work a plausible method/foundation source rather than a purely incidental mention, so it should be retained for full relation assessment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

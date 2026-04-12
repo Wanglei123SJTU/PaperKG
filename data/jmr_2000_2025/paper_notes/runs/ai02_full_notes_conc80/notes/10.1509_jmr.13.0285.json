@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper identifies a firm's source of competitive advantage (differentiation vs. cost leadership) as a moderator of advertising effectiveness, especially for firm value outcomes.",
+    "It proposes and empirically validates an archival indicator of differentiation versus cost leadership based on firms' advertising disclosure behavior after SEC FRR44.",
+    "It argues that this indicator can support broader firm-level marketing-finance analyses when direct advertising expenditure data are missing for many public firms."
+  ],
+  "context": "The empirical setting is publicly traded U.S. firms from Compustat and CRSP, with core hypothesis tests in 1990-1993 and robustness checks in 1996-2009. The strategy indicator leverages the SEC's 1994 FRR44 change, after which firms disclose advertising only when it is material.",
+  "design_and_data": "The authors classify firms as differentiators or cost leaders using pre- and post-FRR44 advertising disclosure behavior (continued disclosure implies differentiation; cessation implies cost leadership). They assess indicator reliability using 14,571 firms and 100,070 firm-year observations (1996-2009), and assess convergent/discriminant validity with realized strategy proxies and TMT functional composition from ExecuComp S&P 500 firms using GEE probit models. Hypotheses are tested on nonfinancial ad-spending firms in 1990-1993 using GEE panel models of ln(sales) and Tobin's q with advertising share of voice, the strategy indicator, interaction terms, firm controls, and industry/year effects. Robustness checks use 1996-2009 data, inferred post-1994 advertising for cost leaders, alternative specifications, and endogeneity diagnostics.",
+  "focal_constructs": [
+    "advertising effectiveness",
+    "differentiation strategy",
+    "cost leadership strategy",
+    "source of competitive advantage",
+    "advertising share of voice",
+    "sales",
+    "firm value (Tobin's q)",
+    "advertising materiality"
+  ],
+  "main_findings": [
+    "Advertising share of voice is positively related to current sales for both differentiators and cost leaders.",
+    "Advertising's relationship with firm value is stronger for differentiators than for cost leaders, as shown by a positive and significant advertising-by-differentiation interaction in the Tobin's q model.",
+    "The FRR44 disclosure-based strategy indicator shows stability over time and evidence of convergent and discriminant validity, including stronger association with marketing presence on the top management team but not with other functions."
+  ],
+  "one_line_summary": "Using U.S. archival data and an FRR44-based strategy indicator, the study finds that advertising boosts sales for both differentiators and cost leaders but is more strongly linked to firm value for differentiators.",
+  "relation_to_prior_work": "extends prior economics, accounting, and marketing research on advertising outcomes by showing that inconsistent advertising-firm-value results are partly explained by whether firms compete through differentiation or cost leadership, and by providing an archival strategy measure for large-sample firm-level analysis.",
+  "research_gap": "Prior work reported mixed evidence on the advertising-firm-value link, and meta-analysis did not identify managerially meaningful moderators of when advertising affects firm value. This study addresses that unresolved moderator question.",
+  "research_question": "Does a firm's source of competitive advantage (differentiation versus cost leadership) moderate advertising effectiveness? Specifically, is advertising related to sales for both types of firms, and is its relationship with firm value stronger for differentiators than for cost leaders?"
+}

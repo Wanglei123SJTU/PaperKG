@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "The paper provides empirical evidence that customer-generated online reviews are related to purchasing outcomes in Internet retailing.",
+    "It proposes a cross-site differences-in-differences approach using matched books at Amazon.com and bn.com to isolate review effects from unobserved book and site factors.",
+    "It documents reviewer behavior patterns across platforms, including strong positivity, higher review volume at Amazon.com, and differences in review length."
+  ],
+  "context": "The study is set in online book retailing, comparing Amazon.com and Barnesandnoble.com (bn.com). It tracks the same book titles across both sites to study how review dynamics relate to relative sales.",
+  "design_and_data": "The authors collect public website data for a random sample of 3,587 books from Global Books in Print (released 1998-2002) and 2,818 Publishers Weekly bestseller titles (1991-2002). Data are gathered in May 2003, August 2003, and May 2004, including prices, shipping-time categories, sales ranks, number of reviews, average stars, and characteristics of up to the most recent 500 reviews (including dates and stars; review text was extracted in the first period). The main usable sample is 2,387 books available at both sites, with Amazon rank <= 650,000 and matching dominant format across sites. Empirically, they estimate cross-sectional and differences-in-differences regressions of log rank differences across sites and over time, using lagged review changes to predict subsequent rank changes.",
+  "focal_constructs": [
+    "online word of mouth",
+    "customer review valence",
+    "review volume",
+    "relative sales rank",
+    "one-star versus five-star reviews",
+    "review length"
+  ],
+  "main_findings": [
+    "Reviews are overwhelmingly positive at both sites, but Amazon.com has more reviews and longer reviews, while bn.com has more books with no reviews.",
+    "More favorable reviews and increases in review activity at a site are associated with improved relative sales for that book at that site versus the other retailer.",
+    "In most samples, one-star reviews have a larger impact than five-star reviews, and review-length evidence suggests consumers respond to review text rather than only summary star statistics."
+  ],
+  "one_line_summary": "Using matched book-level data from Amazon.com and bn.com, the paper finds that changes in online review valence and volume predict changes in relative sales ranks, with negative reviews often exerting stronger effects.",
+  "relation_to_prior_work": "introduces empirical evidence on a question the authors state prior literature had not documented: whether online community review content affects consumer decisions. It also applies a new cross-site differences-in-differences design in this context while drawing on earlier work that maps sales ranks to sales.",
+  "research_gap": "The authors argue that despite managerial interest in community content, prior research had not documented whether such online user content actually influences consumer choice. They address this gap by testing the sales impact of reviews while accounting for confounds such as unobserved book quality and positivity bias in amateur reviews.",
+  "research_question": "Do consumer reviews on online retail sites causally affect book sales, beyond reflecting underlying book popularity or quality? Specifically, when reviews for a given title become more positive or negative on one site relative to the other, do that title's relative sales shift accordingly?"
+}

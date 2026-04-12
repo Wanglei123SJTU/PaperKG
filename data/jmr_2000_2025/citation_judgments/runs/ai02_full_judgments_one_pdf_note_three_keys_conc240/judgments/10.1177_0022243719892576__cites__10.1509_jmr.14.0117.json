@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the methods and estimation sections, the citing paper uses Bruce, Murthi, and Rao (2017) to justify specific modeling choices for dynamic state-space estimation and price endogeneity control, and it points to that paper for algorithmic details. This is not a passing background mention; it supports core implementation steps of the empirical model. The cited work therefore plays a meaningful methodological role in the citing paper's analysis, even as the citing paper adds new sparse nonparametric factor components for TV ad cues.",
+  "relation_description": "The citing paper treats the cited paper as a methodological base for its dynamic advertising-response estimation, especially for endogeneity handling and computational procedure details. It builds its TV-ad application on top of that prior dynamic modeling foundation while adding new cue-factor modeling layers.",
+  "relation_type": "foundational_for"
+}

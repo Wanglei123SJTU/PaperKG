@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper claims to provide one of the first revealed-data empirical tests of signaling conjectures in the motion picture market.",
+    "It claims a methodological contribution by using a dynamic simultaneous-equations model that treats ad spending, screens, and expected revenues as endogenous to capture audience-studio-exhibitor interrelationships.",
+    "It claims rare empirical evidence on interaction between multiple signals, showing a positive sequel-advertising interaction on box office revenue."
+  ],
+  "context": "The empirical setting is the U.S. motion picture industry, an experience-good market with preconsumption quality uncertainty. The sample covers films listed in Variety between late 1991 and early 1993.",
+  "design_and_data": "The authors analyze a random sample of 175 films using data from Baseline Services, Variety, ACNielsen EDI, and Competitive Media Reporting. They use opening-week and postrelease weekly data (up to week 15) on box office revenues, ad expenditure, screens, review measures, sequel status, and competition and control variables; expected revenues are constructed with double exponential smoothing. They estimate a dynamic three-equation simultaneous system for revenues, ad spending, and screens, with these variables treated as endogenous and equation errors allowed to correlate. Log-linearized equations are estimated with 3SLS, separately for opening week and for week 2 onward.",
+  "focal_constructs": [
+    "signaling",
+    "sequels",
+    "advertising expenditure",
+    "critics' review consensus",
+    "cumulative word of mouth",
+    "box office revenues",
+    "screen allocation"
+  ],
+  "main_findings": [
+    "In opening week, sequel status and advertising expenditure are positively associated with box office revenues.",
+    "The interaction of advertising and critics' review consensus is negative, and the interaction of sequel and critics' review consensus is also negative (weaker), indicating attenuation in opening week.",
+    "In postrelease weeks, interactions of advertising and sequel with cumulative word of mouth are negative, and the sequel-advertising interaction on opening-week revenue is positive."
+  ],
+  "one_line_summary": "Using U.S. movie market data and a dynamic simultaneous-equations model, the paper finds that sequel and advertising signals raise box office revenues, are attenuated by third-party information, and interact positively with each other.",
+  "relation_to_prior_work": "extends prior movie market work (especially Elberse and Eliashberg 2003) by endogenizing ad spending, screens, and expected revenues while testing interaction effects that were not previously examined. extends largely theoretical signaling research (e.g., Kirmani and Rao 2000) by providing field-data evidence on moderation by independent information and on interaction between two signals.",
+  "research_gap": "Prior motion picture studies had not jointly modeled ad spending, screens, and expected revenues as endogenous while testing interaction effects of sequels and advertising on revenues. The signaling literature was mainly theoretical, with limited revealed-data evidence on whether third-party information attenuates signals and on how multiple signals interact.",
+  "research_question": "Do sequels and advertising expenditures act as credible quality signals in the movie market and affect box office revenues at release and after release? The paper also asks whether independent information from critics' consensus and cumulative word of mouth attenuates these effects, and whether sequel and advertising signals interact positively."
+}

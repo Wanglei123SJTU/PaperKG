@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The authors develop a Bayesian spatiotemporal Poisson model for new-buyer diffusion that allows imitation to operate through both geographic proximity and demographic similarity.",
+    "They introduce time-varying imitation coefficients estimated with a polynomial smoother (random-walk prior) inside the Bayesian framework to trace changing effects over the adoption cycle.",
+    "They connect the estimated imitation dynamics to managerial decisions through a hypothetical market-seeding analysis for an online retailer."
+  ],
+  "context": "The empirical setting is Netgrocer.com, an online grocery retailer, observed across all 1459 zip codes in Pennsylvania. Orders in the period were shipped from a New Jersey warehouse with a fixed shipping fee, and the paper notes no significant marketing activity in Pennsylvania during the sample window.",
+  "design_and_data": "The study uses monthly transaction records of new buyers from May 1997 to January 2001 (45 months), aggregated to zip code-month counts. The authors estimate a two-level Bayesian spatiotemporal Poisson model in which latent adoption rates depend on regional and temporal baselines, local covariates, and lagged cumulative buyers weighted by geographic proximity and demographic similarity matrices. Time-varying imitation coefficients are smoothed via Gaussian random-walk priors (a polynomial smoother), and controls include Census, ESRI retail access, and FCC-based broadband access measures. Model adequacy is evaluated with marginal log-likelihood comparisons to reduced models and posterior predictive checks, and the estimates are used in a hypothetical seeding simulation.",
+  "focal_constructs": [
+    "imitation behavior",
+    "geographic proximity",
+    "demographic similarity",
+    "spatiotemporal diffusion of new buyers",
+    "within-region and across-region neighborhood effects",
+    "spatial concentration of demand",
+    "market seeding"
+  ],
+  "main_findings": [
+    "Geographic proximity effects are strongest in early diffusion and then weaken over time, while demographic similarity becomes relatively more important and reaches comparable influence later in the period.",
+    "New buyers increasingly emerge from zip codes beyond the early core hot spots (such as Philadelphia and Pittsburgh), and spatial concentration declines over time.",
+    "The full model including both proximity and similarity fits better than reduced alternatives, and simulation suggests a proximity-and-similarity-based seeding rule yields stronger longer-run incremental buyers than weak, strong, or uniform seeding rules."
+  ],
+  "one_line_summary": "Using 45 months of Netgrocer.com zip code data in Pennsylvania, the paper estimates a Bayesian spatiotemporal Poisson model showing that proximity-based imitation dominates early new-buyer growth while similarity-based imitation becomes relatively more important later.",
+  "relation_to_prior_work": "extends prior diffusion and spatial imitation research by jointly modeling geographic proximity and demographic similarity, and by allowing their effects to vary over time in one framework. It applies and integrates neighborhood-matrix approaches used in earlier marketing, economics, and sociology studies to an Internet retail adoption setting.",
+  "research_gap": "Prior work shows that proximity and similarity can drive imitation, but offers limited evidence on how these mechanisms change over time during diffusion. The paper argues that static analyses may miss stage-dependent roles of the two effects.",
+  "research_question": "How do geographic proximity and demographic similarity jointly shape the spatiotemporal evolution of new buyers for an online grocery retailer? How does the relative importance of these two imitation channels change over the adoption cycle, and what are the implications for customer seeding strategy?"
+}

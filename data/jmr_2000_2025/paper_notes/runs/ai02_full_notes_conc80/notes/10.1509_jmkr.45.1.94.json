@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper develops a dynamic internal market structure model for SKU choice that incorporates attribute-level state dependence instead of assuming zero-order behavior.",
+    "The model represents competition through latent components shared across attribute levels, enabling attribute-level competitive maps.",
+    "The approach estimates segment-level reinforcement versus derived varied behavior and helps identify switch-driving versus repeat-driving attributes."
+  ],
+  "context": "The empirical setting is the U.S. pourable salad dressing category using household scanner-panel purchases from Chicago. SKUs are characterized by brand, flavor, fat content, and size.",
+  "design_and_data": "The authors estimate a finite-mixture dynamic choice-map model that combines attribute-level spatial mapping with segment-specific state dependence and marketing-mix effects. Data are from Information Resources Inc.: 300 panelists making 2065 purchases over 52 weeks; after removing low-share items, 121 SKUs remain (about 95% of the market). Model selection across dimensions and segment counts uses log-likelihood, BIC, CAIC, and ICOMP, with a 2-dimensional, 3-segment solution selected. Calibration uses the first Ti-1 purchases (1765 observations) and validation uses each household's last purchase (300 observations), with comparisons to the Andrews and Manrai model.",
+  "focal_constructs": [
+    "stockkeeping unit choice",
+    "attribute-level state dependence",
+    "derived varied behavior",
+    "reinforcement behavior",
+    "internal market structure",
+    "latent segment heterogeneity",
+    "marketing-mix responsiveness"
+  ],
+  "main_findings": [
+    "The proposed dynamic model fits substantially better than the A&M benchmark in calibration (for the best solutions, log-likelihood -4353 vs -6549, BIC 9184 vs 13667, CAIC 9248 vs 13743, ICOMP 8706 vs 13580).",
+    "Validation results also favor the dynamic model (log-likelihood -1105.4 vs -1247.9) with a much higher hit ratio (16.6% vs 3.6%).",
+    "In this category, brand and flavor show the strongest attribute-level dynamics (including segment-specific switching vs reinforcement), while size and fat are close to zero-order; SKU-deletion simulation shows disproportionate gains for Hidden Valley and Kraft rather than fair-share reallocation."
+  ],
+  "one_line_summary": "Using scanner-panel salad dressing data, the paper proposes a dynamic attribute-level SKU choice-map model that captures reinforcement versus derived varied behavior and strongly outperforms a zero-order alternative.",
+  "relation_to_prior_work": "extends prior SKU internal market structure models (notably Fader and Hardie 1996 and Andrews and Manrai 1999) by adding attribute-level state dependence and latent-segment dynamics, and contrasts with Erdem (1996) by specifying observed attributes a priori to identify switch-driving and repeat-driving attributes explicitly.",
+  "research_gap": "Existing SKU internal market structure models used by the authors as benchmarks assume zero-order choice and do not model attribute-level feedback effects. The paper argues this can distort inferred competition and mask which attributes drive switching versus repeat purchase across consumer segments.",
+  "research_question": "How can SKU choice be modeled to recover attribute-level competitive structure while allowing purchase dynamics at the attribute level? The paper examines whether segment-specific attribute-level state dependence can separate reinforcement from derived varied behavior and improve fit and prediction relative to existing zero-order SKU choice-map models."
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "A new formal model that links RFM to CLV in noncontractual settings using behavioral assumptions and sufficient-statistic use of recency, frequency, and monetary value.",
+    "A new analytical derivation for discounted expected transactions under the Pareto/NBD model, enabling infinite-horizon present-value CLV computation.",
+    "Use of iso-value curves to visualize RFM trade-offs and group customers with different purchase histories but similar expected future value."
+  ],
+  "context": "The empirical setting is CDNOW, an online music retailer, in a noncontractual repeat-purchase environment where customer inactivity is unobserved. The focal cohort is customers who made their first purchase in Q1 1997 and were observed for 78 weeks.",
+  "design_and_data": "The paper specifies a two-part stochastic model: Pareto/NBD for transaction incidence and a gamma-gamma model for average spend per transaction, estimated by maximum likelihood. Exploratory analyses use a cohort of 23,570 new CDNOW customers, with 10 likely reseller accounts removed in the initial exploratory work. Model validation uses a 1/10 systematic sample of 2,357 customers, with weeks 1-39 for calibration and weeks 40-78 as holdout; monetary value analyses use the 946 customers with at least one repeat purchase in weeks 1-39. The authors then reestimate on all 78 weeks to generate DET/CLV iso-value curves and cohort CLV totals, using a 15% annual discount rate and an assumed 30% gross margin.",
+  "focal_constructs": [
+    "customer lifetime value",
+    "recency frequency monetary value",
+    "iso-value curves",
+    "Pareto/NBD model",
+    "gamma-gamma monetary value model",
+    "discounted expected transactions",
+    "noncontractual customer behavior"
+  ],
+  "main_findings": [
+    "In a 39-week holdout test on the 1/10 CDNOW sample, the Pareto/NBD model tracked cumulative repeat transactions closely and underforecast by less than 2% at week 78.",
+    "The combined Pareto/NBD plus gamma-gamma model provided good conditional holdout predictions of total spend, and evidence for dependence between frequency and average spend was weak.",
+    "Iso-value analyses showed a nonlinear recency-frequency relationship with a backward-bending 'increasing frequency paradox,' and for the full cohort the estimated future CLV was slightly above $1.1 million (about $47 per customer), with the no-repeat group contributing about 5% of total future value."
+  ],
+  "one_line_summary": "The paper develops and validates a stochastic RFM-to-CLV framework that combines Pareto/NBD transaction dynamics, a gamma-gamma spend model, and iso-value curves, and applies it to CDNOW customer data.",
+  "relation_to_prior_work": "extends prior conceptual RFM-CLV links and the Pareto/NBD customer-base framework by adding a closed-form discounted expected transactions result and a gamma-gamma spend component for forward-looking CLV estimation.",
+  "research_gap": "Prior literature connected RFM and CLV mostly at a conceptual level, without a formal behavioral model that maps RFM to long-horizon present-value CLV in noncontractual settings. Existing scoring models were criticized for next-period focus, required period-splitting to build dependent variables, and weak treatment of RFM as noisy indicators of latent behavior.",
+  "research_question": "How can firms in noncontractual settings compute forward-looking CLV from customers' observed RFM histories using a behaviorally grounded stochastic model? Can such a model produce reliable forecasts of future transactions and spending and support interpretable iso-value trade-off analysis across RFM profiles?"
+}

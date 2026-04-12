@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper documents a charity beauty premium: donors often favor more beautiful recipients even when those recipients are perceived as less needy.",
+    "It proposes and tests that donors hold simultaneous but incongruent preferences, wanting to give to beautiful recipients but believing they should give to needier recipients.",
+    "It claims to reconcile conflicting prior findings on attractiveness and helping by showing that intuitive versus deliberative processing, and high-empathy conditions, determine which preference is expressed."
+  ],
+  "context": "The research is set in charitable giving decisions where donors choose among potential recipients that vary in attractiveness and neediness. Empirical settings include animal conservation sponsorship in the United Kingdom and online donation-choice scenarios involving children and adults seeking aid.",
+  "design_and_data": "The paper reports eight studies (1a-1c, 2-6), combining one field study with multiple online experiments, mostly using Amazon Mechanical Turk samples. Study 1a collected real sponsorship donations for animal species at a UK university site; later studies used pretested recipient photos in controlled allocation tasks, including some real bonus donation decisions. The authors manipulate recipient beauty and decision mode (intuitive vs deliberative) using instruction prompts, self vs adviser choice framing, and pre-choice multi-attribute rating tasks. Dependent measures include recipient choice shares, donation likelihood, donor satisfaction, perceived neediness/beauty, and empathy.",
+  "focal_constructs": [
+    "charity beauty premium",
+    "recipient beauty",
+    "recipient neediness",
+    "want versus should preferences",
+    "intuitive versus deliberative processing",
+    "donor satisfaction",
+    "empathy",
+    "charitable allocation choice"
+  ],
+  "main_findings": [
+    "When a beautiful recipient was present in basic choice sets, that recipient often received the most support and increased donor satisfaction, despite being perceived as less needy.",
+    "Increasing deliberation shifted choices away from beautiful recipients and toward needier recipients across multiple manipulations.",
+    "When empathy was induced to be very high, the beauty premium weakened, and participants explicitly indicated that donors \"want\" to give to beautiful recipients but \"should\" give to less beautiful, needier recipients."
+  ],
+  "one_line_summary": "Across eight studies, the paper shows that donors' intuitive \"want\" preference for beautiful recipients can override neediness, whereas deliberation shifts giving toward needier recipients aligned with \"should\" preferences.",
+  "relation_to_prior_work": "synthesizes prior conflicting findings on beauty and helping by showing that positive effects of attractiveness emerge under intuitive choice, while preference for less attractive but needier recipients emerges under deliberative choice.",
+  "research_gap": "Prior research on recipient attractiveness in charitable giving reported opposite patterns, with some studies finding a beauty premium and others finding more support for less attractive, needier recipients. The paper identifies a gap in explaining when each pattern occurs and why stated need-based priorities diverge from actual donor choices.",
+  "research_question": "Why are needy recipients often overlooked in charitable giving, and does recipient beauty contribute to this pattern? The paper asks whether donors simultaneously hold a \"want\" preference for beautiful recipients and a \"should\" preference for needy recipients, and whether intuitive versus deliberative decision modes determine which preference drives allocations."
+}

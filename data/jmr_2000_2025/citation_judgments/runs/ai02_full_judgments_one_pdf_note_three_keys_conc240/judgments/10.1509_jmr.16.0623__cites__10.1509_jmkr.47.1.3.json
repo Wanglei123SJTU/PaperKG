@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper explicitly uses Petrin and Train (2010) as the methodological basis for its endogeneity correction. In the modeling section, it states that endogeneity in marketing communications is handled with a control function approach, then operationalizes that approach via first-stage equations with instruments and inclusion of residuals in the churn hazard specification. This is more than background citation because the cited method is directly implemented in the empirical model and affects core parameter estimation.",
+  "relation_description": "The citing study applies Petrin and Train's control function method to correct endogeneity in its repeat-churn survival model. It estimates auxiliary equations for endogenous marketing variables and includes the resulting residuals in the main hazard equation.",
+  "relation_type": "applies"
+}

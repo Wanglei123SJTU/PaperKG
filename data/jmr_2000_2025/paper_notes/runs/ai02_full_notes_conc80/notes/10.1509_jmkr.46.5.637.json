@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops an explicit global spill-over model for new product takeoff that incorporates foreign introductions and foreign takeoffs, inter-country distance, foreign susceptibility, and foreign clout, and allows asymmetric country-pair influence.",
+    "It introduces a novel and comparatively rich global dataset on penetration and takeoff for 8 high-tech consumer products across 55 countries, including many developing countries.",
+    "It shows that the proposed model provides better in-sample and out-of-sample fit than restricted alternatives and a Tellis, Stremersch, and Yin style specification, while yielding interpretable country-pair spill-over estimates."
+  ],
+  "context": "This study examines global takeoff of consumer high-tech durables, including CD players, PCs, video cameras, digital cameras, mobile phones, Internet access, ISDN, and DVD players. The empirical setting covers 55 countries worldwide, including developed and developing economies, over 1977-2004.",
+  "design_and_data": "The authors assembled annual penetration data for 8 products across 55 countries from sources including Euromonitor, ITU, World Bank, and OECD, and retained 308 product-country combinations after launch-year and left-truncation screening. They identify takeoff timing with a threshold rule based on penetration growth conditional on penetration level, adapted from prior takeoff work. They estimate a discrete-time duration (hazard) model by maximum likelihood with right-censoring, where spill-over from foreign introduction and takeoff is decomposed into inter-country distance, source-country clout, and focal-country susceptibility. Country-level predictors cover economic, cultural (uncertainty avoidance), demographic, and geographic factors, and multiple nested/restricted models are compared.",
+  "focal_constructs": [
+    "new product takeoff",
+    "time-to-takeoff",
+    "global spill-over",
+    "foreign introductions",
+    "foreign takeoffs",
+    "foreign clout",
+    "foreign susceptibility",
+    "inter-country distance"
+  ],
+  "main_findings": [
+    "Foreign takeoffs in other countries significantly increase a focal country's takeoff probability, but foreign introductions do not show a significant effect.",
+    "Foreign clout is higher for countries that are larger, wealthier, and more export-oriented, while foreign susceptibility is higher for poorer countries with more tourist arrivals and higher population density.",
+    "Spill-over effects are stronger between countries that are geographically and economically closer, while cultural distance in uncertainty avoidance is not a significant distance moderator."
+  ],
+  "one_line_summary": "The paper estimates a global discrete-time hazard model showing that cross-country new product takeoff spill-over is driven by foreign takeoffs and is moderated asymmetrically by country clout, country susceptibility, and inter-country distance.",
+  "relation_to_prior_work": "extends earlier international takeoff studies by replacing crude or absent foreign-effect controls with an explicit asymmetric spill-over structure based on clout, susceptibility, and inter-country distance. It also brings concepts from international diffusion work into a consumer takeoff framework and links clout and susceptibility to observable country characteristics.",
+  "research_gap": "Prior international takeoff research either treated foreign spill-over only crudely or did not model it, effectively assuming equal distance, clout, and susceptibility across countries. The paper also notes that diffusion work had only limited treatment of country susceptibility and influence, and little linkage of these concepts to country characteristics for consumer innovation takeoff.",
+  "research_question": "How do prior foreign introductions and takeoffs of a product affect the timing of takeoff in a focal country? Do country-specific foreign clout, foreign susceptibility, and inter-country distance explain and moderate these global spill-over effects, including asymmetries between country pairs?"
+}

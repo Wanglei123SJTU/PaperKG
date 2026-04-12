@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s Stage-1 design explicitly uses brand-level error-correction sales-response models and derives long-run price elasticities, while the cited paper is centered on a hierarchical Bayes error-correction framework for immediate vs. dynamic price effects and long-term elasticities. Given this clear methodological/construct overlap (despite only one DOI-level match and no in-text snippet), this is not safely an incidental mention and should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a Bayesian multi-network methodology that constructs a weighted social network from multiple relationship characteristics and links weighted centrality to diffusion reach.",
+    "Shows how to infer the relative importance of relationship characteristics from observed diffusion rather than assigning tie weights a priori.",
+    "Demonstrates in two empirical applications that the method yields materially different and more effective seed sets than traditional binary-network seeding."
+  ],
+  "context": "The paper studies seeding decisions in two settings: diffusion of a microfinance program across Indian villages and online propagation of Superbowl advertisement messages in a university social network. These settings differ strongly in channel, scale, and observed diffusion detail (offline village adoption vs. online message cascades).",
+  "design_and_data": "The method combines three components: a function that builds weighted adjacency matrices from multiple relationship networks, weighted network centrality extraction, and a diffusion equation estimated in a Bayesian framework (Gibbs plus Metropolis-Hastings). Application 1 uses 43 Indian villages where BSS launched microfinance, with social-network survey data (12 relationship items reduced to economic, social, religious, and family dimensions), 1,157 seeded households, and adoption outcomes; because cascades were unobserved, seed reach was assigned using shortest-path rules. Application 2 uses an online network of 42,858 students, with 1,620 seeds discussing Superbowl ads and observed cascades, and relationship characteristics based on prior messaging frequency and relationship duration. Both applications include holdout reseeding evaluations and compare against traditional binary-network approaches and additional robustness benchmarks.",
+  "focal_constructs": [
+    "seeding strategy",
+    "relationship characteristics",
+    "tie strength",
+    "weighted social network",
+    "multi-network Bayesian estimation",
+    "degree centrality",
+    "eigenvector centrality",
+    "diffusion reach"
+  ],
+  "main_findings": [
+    "Accounting for relationship characteristics improved model fit and holdout performance relative to traditional binary-network seeding and other benchmark constructions in both applications.",
+    "In the microfinance setting, social relationships had the strongest positive importance while economic relationships were least important, and multi-network reseeding improved reach by about 10 percent for top-seed selections.",
+    "In the online setting, messaging frequency increased tie importance and longer relationship duration reduced it, and multi-network reseeding improved reach by up to about 92 percent for small seed sets."
+  ],
+  "one_line_summary": "The paper proposes and validates a Bayesian multi-network seeding method that estimates relationship-specific tie weights from diffusion data and substantially improves seed selection over binary-network strategies.",
+  "relation_to_prior_work": "extends prior diffusion and seeding research that treats ties as binary or uses fixed tie weights by estimating relationship-specific weights from observed diffusion and embedding them in weighted-centrality seeding decisions.",
+  "research_gap": "Prior work on seeding and diffusion mostly assumes binary ties or relies on a priori tie weights, even though relationship characteristics vary in influence across contexts and products. The paper argues that a practical method to infer these weights from observed diffusion for seeding decisions was missing.",
+  "research_question": "How can marketers identify influential seeds when social ties differ in strength by relationship characteristics rather than being simply present or absent? Can the relative importance of these characteristics be inferred from observed diffusion and used to improve seeding outcomes versus traditional binary-network strategies?"
+}

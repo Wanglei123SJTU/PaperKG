@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citation is used in the core empirical methodology, not just as background. In both the model overview and the endogeneity subsection, the authors explicitly state they use the Petrin and Train control function approach and describe residual inclusion based on first-stage equations. This methodological choice directly affects their demand estimates and subsequent supply-side equilibrium and cost inferences, so the cited paper plays a clear functional role.",
+  "relation_description": "The citing paper applies Petrin and Train's control function method to handle endogeneity in its nested-logit demand model for prices and distribution levels. It uses first-stage instrument regressions and includes residual-based control terms following that framework in a new emerging-market multichannel competition setting.",
+  "relation_type": "applies"
+}

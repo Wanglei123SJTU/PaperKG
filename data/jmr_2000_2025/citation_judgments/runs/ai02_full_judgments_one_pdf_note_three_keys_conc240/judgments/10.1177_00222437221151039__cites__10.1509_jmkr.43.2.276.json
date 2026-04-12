@@ -1,0 +1,6 @@
+{
+  "citation_substance": "mention_only",
+  "rationale": "In the citing paper, Lemmens and Croux (2006) appears as part of a grouped citation to prior customer churn prediction studies. The text uses it to establish broad background that churn prediction has been studied, then pivots to the paper's own B2B setting and implementation focus. There is no clear evidence that the citing paper builds on, tests, refines, or applies the specific bagging/boosting methods or rare-event corrections from the cited study.",
+  "relation_description": null,
+  "relation_type": null
+}

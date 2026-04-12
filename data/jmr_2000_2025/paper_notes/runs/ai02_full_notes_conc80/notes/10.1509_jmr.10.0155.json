@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a generalized theory of healthful indulgences in which the attribute type emphasized by a health claim determines whether consumption increases or decreases.",
+    "Identifies attribute-induced goal conflict as the mechanism: functional claims raise health-goal accessibility alongside indulgence goals, while hedonic claims keep health goals less accessible.",
+    "Demonstrates actionable boundary conditions by showing that external health cues can block the consumption-enhancing effect of hedonic claims."
+  ],
+  "context": "The paper examines indulgent foods marketed as healthier options, including chocolate and roasted nuts labeled with claims such as low fat, antioxidants, low cholesterol, and enriched omega-3. The empirical setting is controlled lab taste tests in which participants evaluate packaging and then consume the food.",
+  "design_and_data": "The authors report four laboratory experiments with undergraduate participants. Study 1 (N = 109) measured grams of chocolate consumed after exposure to an antioxidants claim, a low-fat claim, or no claim, and a replication (N = 97) added a low-cholesterol functional claim. Study 2 (N = 63) used a lexical decision task after claim exposure to measure accessibility of health- and indulgence-related goals. Study 3 (N = 149) crossed functional versus hedonic claims with neutral, health, or indulgence primes, and Study 4 (N = 98) crossed claim type with subtle context cues (healthful vs tasty) while measuring nut consumption.",
+  "focal_constructs": [
+    "health claims",
+    "healthful indulgences",
+    "functional food attributes",
+    "hedonic food attributes",
+    "health-goal accessibility",
+    "indulgence-goal accessibility",
+    "goal conflict",
+    "self-control in food consumption"
+  ],
+  "main_findings": [
+    "Hedonic health claims (e.g., low fat) increased consumption of indulgent foods relative to control, whereas functional health claims (e.g., antioxidants, low cholesterol, omega-3) reduced consumption.",
+    "Indulgence-goal accessibility was similar across conditions, but functional claims produced higher health-goal accessibility than hedonic claims, indicating higher goal conflict for functional claims.",
+    "The consumption-increasing effect of hedonic claims was eliminated when a health goal was externally activated through priming or subtle health-focused contextual cues."
+  ],
+  "one_line_summary": "Across four experiments, the paper shows that health claims on indulgent foods can either increase or decrease intake depending on whether they emphasize hedonic or functional attributes via differences in goal conflict.",
+  "relation_to_prior_work": "extends prior evidence that low-fat claims can increase eating by showing that this effect does not generalize to all health claims. The paper refines health-halo and ease-of-justification accounts by distinguishing hedonic versus functional claim attributes and linking that distinction to goal accessibility and conflict.",
+  "research_gap": "Prior research largely documented overconsumption effects for low-fat claims, with little evidence on whether different types of health claims on indulgent foods produce similar or opposite intake effects. The process explaining when health claims trigger overconsumption versus restraint was not clearly specified.",
+  "research_question": "Does the nature of a health claim on an indulgent food - specifically, whether it emphasizes a functional attribute or a hedonic attribute - change how much consumers eat? The paper also asks whether differences in consumption are explained by differential accessibility of health versus indulgence goals and the resulting level of goal conflict."
+}

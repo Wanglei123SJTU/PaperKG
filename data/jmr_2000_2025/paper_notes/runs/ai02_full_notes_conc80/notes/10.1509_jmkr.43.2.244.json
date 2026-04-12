@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces an action-based learning perspective in which decision tasks induce learning goals by defining what counts as error.",
+    "Provides evidence from three experiments that decision goals change attention allocation, learned cue relationships, and transfer across related market prediction tasks.",
+    "Proposes a new attention-band model, including proactive and reactive attention mechanisms, to explain when experiential learning will be efficient versus biased."
+  ],
+  "context": "The studies use controlled market-like learning environments in which people learn product prices from multiple attributes for houses and digital cameras. The tasks emulate managerial and consumer cutoff-based screening decisions (e.g., affordability or channel thresholds) followed by evaluation.",
+  "design_and_data": "Across three laboratory experiments, participants repeatedly performed either numerical price prediction or categorical above/below-cutoff prediction during training with outcome feedback, then completed transfer tests (numerical prediction in Experiments 1-2; numerical or cutoff test in Experiment 3). Stimuli were 72 profiles generated from a known linear function of two continuous cues and one binary cue with interactions; Experiment 3 also used an overlapping version by lowering the binary-cue coefficient to create exceptions to a simple cutoff rule. Manipulations included task cutoff (325 vs 500), role (manager vs consumer), overlap structure, and test task. Data came from student samples (46, 60, and 154 recruited, with exclusions), analyzed via participant-level OLS cue-weight estimates, accuracy metrics (MAD and percent correct), and latency regressions using an attention-band indicator plus error terms.",
+  "focal_constructs": [
+    "action-based learning",
+    "decision goals",
+    "attention band",
+    "categorical prediction",
+    "numerical prediction",
+    "selective attention",
+    "learning transfer",
+    "cue weighting"
+  ],
+  "main_findings": [
+    "Categorical prediction training concentrated attention near the decision cutoff, as shown by longer decision and feedback times for near-cutoff stimuli and additional feedback attention after errors.",
+    "Cutoff-based training produced localized learning and localized accuracy: learned cue weights reflected local stimulus structure, and participants were relatively more accurate near their trained cutoff but less accurate away from it than numerical-prediction trainees.",
+    "Performance consequences depended on task structure: 500-cutoff training was efficient and highly accurate around the cutoff (often matching or exceeding numerical training), whereas 325-cutoff training showed larger bias and poorer transfer; overlap manipulations and test-task cuing indicated these effects were primarily encoding-based, not simple retrieval artifacts."
+  ],
+  "one_line_summary": "Across three experiments, the paper shows that cutoff-based action goals in repeated decisions with feedback focus attention near cutoffs and thereby produce learning that can be either efficient and accurate or biased and errorful when transferred.",
+  "relation_to_prior_work": "extends prior categorization and multiple-cue judgment research by combining categorical and numerical prediction with feedback in one paradigm and linking task-defined error to attentional allocation and learning outcomes, while reporting patterns that violate compatibility-principle predictions for categorical tasks.",
+  "research_gap": "Prior work on learning continuous versus discrete multiattribute functions has largely developed in separate paradigms, with limited overlap. The paper identifies a lack of evidence on how decision-task goals in feedback-rich, action-based settings shape attention, what is learned, and transfer to related tasks.",
+  "research_question": "How do decision goals in repeated decisions with outcome feedback, especially numerical prediction versus cutoff-based categorical prediction, affect attention allocation and the market knowledge that is acquired? Under what conditions does this action-based learning transfer accurately to related tasks versus becoming localized and biased?"
+}

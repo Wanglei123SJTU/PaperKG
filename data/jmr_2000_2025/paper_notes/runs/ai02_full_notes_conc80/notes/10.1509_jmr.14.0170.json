@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper builds a game-theoretic model of competing firms' retention and acquisition investments and then tests its implications empirically in wireless telecommunications markets.",
+    "It offers a contingency view of CRM spending by showing how market-share leadership, competition, and market penetration jointly shape acquisition and retention costs.",
+    "It proposes an empirical decomposition method that separates total operating cost into per-customer retention and acquisition cost components using firm-level time-series data."
+  ],
+  "context": "The study is set in wireless telecommunications service markets, where firms compete mainly through non-price customer management efforts. Empirically, it analyzes firm operations across national wireless markets with different penetration and competitive structures.",
+  "design_and_data": "The authors first develop a two-firm Nash game with segmented CRM efforts: retaining existing customers, acquiring rivals' customers, and acquiring new-to-market customers. They then test hypotheses using Merrill Lynch Global Wireless Matrix quarterly firm-level operating data from 1999 to 2007, starting from 53 countries and retaining 41 countries with sufficient data. The empirical model regresses total operating cost on base customers and acquired customers to recover retention cost per customer and acquisition cost per customer, estimated with hierarchical multilevel modeling. For periods with missing acquired-customer counts, they infer acquisitions using churn-based calculations.",
+  "focal_constructs": [
+    "customer acquisition cost per customer",
+    "customer retention cost per customer",
+    "market-share leadership",
+    "number of competing firms",
+    "market penetration",
+    "cost advantage",
+    "CRM investment"
+  ],
+  "main_findings": [
+    "Acquisition cost per customer is more sensitive than retention cost per customer to market position and competitive intensity.",
+    "Market-share leaders do not show a significant average retention-cost advantage, but they do show a significant acquisition-cost advantage over follower firms.",
+    "As market penetration rises, both retention and acquisition costs per customer decline, and the leader firm's acquisition-cost advantage widens; more competitors increase acquisition cost but not retention cost."
+  ],
+  "one_line_summary": "Using a game-theoretic model and multinational wireless industry panel data, the paper shows that acquisition and retention spending respond differently to market leadership, competition, and market penetration, with leaders mainly advantaged in acquisition efficiency.",
+  "relation_to_prior_work": "extends prior analytical work on customer retention and acquisition by modeling segmented CRM tasks in growth markets and linking equilibrium predictions to observed firm behavior. It also extends empirical CRM cost research by introducing a way to estimate acquisition and retention cost components from aggregate operating-cost data.",
+  "research_gap": "Prior analytical studies on competing firms' customer management are few and do not explain how acquisition and retention decisions evolve with intensifying competition and market saturation. Empirical work is also limited because acquisition and retention costs are hard to measure from available firm disclosures.",
+  "research_question": "How do market-share position, competitive intensity, and market penetration affect firms' customer retention and acquisition costs per customer in a dynamic service market? Do market-share leaders have systematic cost advantages in retention and acquisition, and how do those advantages change with competition and market evolution?"
+}

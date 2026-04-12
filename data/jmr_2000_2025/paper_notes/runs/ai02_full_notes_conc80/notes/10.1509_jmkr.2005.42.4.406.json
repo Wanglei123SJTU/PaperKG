@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper identifies consumer motivation, defined as desire for a product's claimed benefits, as a key driver of marketing placebo effects.",
+    "It reports what the authors describe as the first sugar-pill placebo effect for an everyday consumer product in a marketing context.",
+    "It shows that placebo marketing effects can appear on objective physiological and performance measures, not only on subjective reports."
+  ],
+  "context": "The study is conducted in a lab setting where undergraduates evaluate an energy drink brand, New York Minute. Participants read positive product claims and consume either the real energy drink, a lookalike decaffeinated placebo presented as that brand, or water.",
+  "design_and_data": "A total of 106 undergraduates participated, and 93 remained after health-related exclusions (66 in treatment conditions and 27 in control). The main design was a 2 x 2 between-subjects structure (drink consumed: energy drink vs placebo; motivation: high vs low, measured via a three-item scale and median split) plus a water control group. Participants completed pre- and post-consumption measures of systolic and diastolic blood pressure, physical reflex speed, digit-span mental alertness, and self-reported arousal, separated by a 25-minute filler task. Analyses used ANOVA models with expectations as a covariate and planned contrasts versus the control group.",
+  "focal_constructs": [
+    "marketing placebo effect",
+    "consumer motivation (desire for benefits)",
+    "expectations",
+    "energy drink claims",
+    "blood pressure change",
+    "physical reflex performance",
+    "mental alertness",
+    "self-reported arousal"
+  ],
+  "main_findings": [
+    "Motivation significantly moderated placebo response, with a significant drink-consumed x motivation interaction for diastolic blood pressure.",
+    "For placebo consumption, high-motivation participants showed stronger physiological and performance changes than control, whereas low-motivation placebo participants did not differ from control on key outcomes such as diastolic blood pressure.",
+    "Expectations did not significantly interact with drink consumed or motivation in the reported models, though they reduced error variance in some analyses."
+  ],
+  "one_line_summary": "In an energy drink experiment, placebo effects on physiological and performance outcomes emerged primarily when consumers strongly wanted the product to work.",
+  "relation_to_prior_work": "extends Shiv, Carmon, and Ariely (2005) by showing that motivation, beyond expectation-related processes, helps determine when marketing placebo effects occur and by demonstrating a sugar-pill-like placebo effect in an everyday consumer product setting.",
+  "research_gap": "Prior marketing placebo evidence in this stream emphasized expectation-based mechanisms, leaving unclear whether consumers' desire for a product's benefits independently drives placebo outcomes. The authors also position their study as addressing the lack of evidence for sugar-pill-type placebo effects in ordinary consumer products.",
+  "research_question": "Do marketing placebo effects depend on consumers' motivation to experience a product's claimed benefits, not just on expectations? In an energy drink setting, can a nonactive placebo drink produce objective physiological and behavioral changes comparable to a real energy drink when motivation is high?"
+}

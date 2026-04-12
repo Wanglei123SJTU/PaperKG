@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The article documents a practitioner-side history of marketing research method development, especially the evolution from trade-off analysis to adaptive conjoint analysis (ACA).",
+    "It argues that commercial market research constraints (client urgency, deadlines, implementation needs) can be a strong source of methodological innovation.",
+    "It offers explicit career advice for young researchers to keep options open, avoid early specialization, and pursue work that genuinely interests them."
+  ],
+  "context": "The paper is set in U.S. commercial marketing research from the late 1950s through the early 2000s, across Procter & Gamble, Market Facts, the John Morton Company, and Sawtooth Software. The described applications include consumer product design studies, segmentation projects across many categories, military recruiting incentive studies, and software tools for conjoint and interviewing.",
+  "design_and_data": "This is an invited autobiographical memoir, not a formal hypothesis-testing article. The evidence is retrospective and practice-based: Johnson recounts specific projects and method implementations, including perceptual mapping with ratings data, matrix-based trade-off analysis, pairwise computer-assisted questioning, ACA, and later choice-based conjoint (CBC) systems. He reports qualitative project outcomes such as respondent burden, data quality, client usability, and repeat use, and references external adoption evidence (e.g., Wittink and Cattin 1989) plus Sawtooth sales trends. No single unified dataset, sampling frame, or formal identification strategy is presented.",
+  "focal_constructs": [
+    "theory-practice boundary",
+    "commercial marketing research",
+    "perceptual mapping",
+    "market segmentation",
+    "trade-off analysis",
+    "adaptive conjoint analysis",
+    "computer-assisted interviewing",
+    "choice-based conjoint"
+  ],
+  "main_findings": [
+    "Client problems in product testing and decision speed were a direct driver of method innovation, leading from concept-test limitations to trade-off analysis and then ACA-like adaptive approaches.",
+    "In Johnson's account, pairwise computer-assisted trade-off interviewing was much easier for respondents and yielded higher-quality data than having respondents rank large trade-off matrices.",
+    "ACA became the most widely used conjoint method by the late 1980s according to cited evidence, and Johnson reports that by 2004 CBC had overtaken ACA in Sawtooth sales and appeared to be the most popular conjoint method worldwide."
+  ],
+  "one_line_summary": "This invited memoir argues that working between academic ideas and real client constraints in commercial marketing research produced practical innovations such as trade-off analysis and adaptive conjoint analysis.",
+  "relation_to_prior_work": "refines earlier conjoint measurement and related marketing research approaches by describing how they were adapted into computer-assisted, adaptive procedures for high-dimensional, real-world client decisions, while noting that some of his developments paralleled prior academic work.",
+  "research_gap": "Traditional concept testing was too slow for rapidly changing product design decisions, and early matrix-based trade-off tasks were often too burdensome for respondents when many attributes were involved. The memoir frames a need for practical, scalable, and more respondent-friendly methods that still recover useful preference structure.",
+  "research_question": "How can marketing research methods be designed to remain theoretically meaningful while meeting the speed, complexity, and usability demands of commercial client work? Using Johnson's career narrative, the paper examines how this tension shaped the development of perceptual mapping/segmentation procedures and then trade-off and adaptive conjoint methods."
+}

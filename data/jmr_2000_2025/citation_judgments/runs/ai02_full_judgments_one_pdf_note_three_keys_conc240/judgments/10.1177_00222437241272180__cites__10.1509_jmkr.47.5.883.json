@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citation appears in the core modeling and identification section, not just in general background, and is invoked when discussing endogeneity and peer-effect identification challenges. The paper specifically uses Nair, Manchanda, and Bhatia (2010) when motivating endogenous group formation concerns and network-construction issues, which directly informs its empirical design choices. Although it is cited alongside other methodological sources, it has a clear functional role in the paper's identification logic.",
+  "relation_description": "The citing paper treats Nair, Manchanda, and Bhatia (2010) as a methodological precedent for modeling social interactions and handling identification problems in network data. It uses that precedent to justify its own endogeneity strategy (including lagged structure, controls, firm effects, and IV-based identification) in the board-interlock setting.",
+  "relation_type": "foundational_for"
+}

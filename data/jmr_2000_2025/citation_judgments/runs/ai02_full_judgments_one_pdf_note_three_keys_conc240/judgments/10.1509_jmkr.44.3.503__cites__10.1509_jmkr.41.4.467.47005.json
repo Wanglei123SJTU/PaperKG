@@ -1,0 +1,6 @@
+{
+  "citation_substance": "mention_only",
+  "rationale": "The cited paper appears only in grouped literature citations, mainly as an example of prior pharmaceutical response studies that ignored competitive promotions and, later, as an example of Poisson-based count modeling. The citing paper does not build its hidden Markov formulation on that paper's model, nor does it reuse a specific mechanism, measure, or estimation procedure from it. Its role is contextual positioning of prior work rather than a distinct paper-specific dependency.",
+  "relation_description": null,
+  "relation_type": null
+}

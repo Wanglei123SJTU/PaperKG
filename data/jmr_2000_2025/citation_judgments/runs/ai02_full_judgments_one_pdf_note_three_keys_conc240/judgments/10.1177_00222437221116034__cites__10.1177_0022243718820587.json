@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in a specific modeling step, not just as general background. In the \"Handling Very Low-Cost Media\" section, Danaher cites Chae et al. (2019) as evidence that high ad volume can create annoyance/weariness and reduce effectiveness, then introduces a negative quadratic email term to penalize excessive exposures. This citation therefore helps justify a concrete refinement to the utility and optimization setup, even though the cited paper's full method is not reused.",
+  "relation_description": "Danaher applies Chae et al.'s weariness insight to motivate and parameterize a diminishing/negative response at high email volume. This leads to adding a quadratic penalty term for email in the microtargeting model so optimal allocations do not over-send low-cost emails.",
+  "relation_type": "applies"
+}

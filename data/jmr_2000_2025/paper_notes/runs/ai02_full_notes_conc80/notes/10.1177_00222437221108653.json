@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides a method to causally identify the direct effect of beliefs-based suspense and surprise on viewers' utility, separating these effects from team/match entertainment value and from indirect supply-side channels.",
+    "Develops and estimates a microfounded utility model of stream choices that uses viewers' separate leave and join decisions, with join behavior serving as a placebo for indirect effects.",
+    "Demonstrates how estimated tastes for suspense and surprise can be used to evaluate counterfactual media product design (game rules) and platform design (information shown before joining)."
+  ],
+  "context": "The study examines professional Counter-Strike: Global Offensive tournament broadcasts on Twitch, the largest online video game streaming platform. Viewers observe round-by-round score evolution in games that can last up to 30 rounds and decide whether to stay on or join streams.",
+  "design_and_data": "The authors use a random sample of 104 CS:GO tournament games played over three weeks in 2019 (2,712 regular-time rounds), with round-level total and registered viewership and registered-user join/leave timing. They merge these with in-game event data extracted from Twitch videos and replay files, and with 95,348 historical games used to estimate score-conditional win beliefs and construct suspense and surprise measures. They estimate a stylized utility model for staying on a stream and a parallel model for joining, including game and round fixed effects and round controls. Identification uses stochastic within-game round outcome realizations, and join decisions provide a placebo test for indirect effects such as ranking, advertising, or word of mouth.",
+  "focal_constructs": [
+    "beliefs-based suspense",
+    "beliefs-based surprise",
+    "viewer entertainment utility",
+    "stream retention (leave decision)",
+    "stream joining decision",
+    "direct vs indirect effects on viewership",
+    "game balance and round-win probabilities"
+  ],
+  "main_findings": [
+    "Suspense has a positive and significant effect on viewer retention; a one-standard-deviation increase in round-level suspense lowers the probability of leaving by about 0.27 percentage points.",
+    "The paper finds little to no detectable effect of surprise on staying or joining, and no detectable effect of suspense on joining, which is consistent with negligible indirect effects through supply-side channels.",
+    "Variation in suspense explains about 9.2% of the observed range in end-of-game viewership evolution, and counterfactuals imply that a major 2019 CS:GO rule update increased expected viewership by about 4.1% while showing scores before joining would raise overall viewership by about 1.3%."
+  ],
+  "one_line_summary": "Using round-level Twitch data from CS:GO tournaments and a microfounded choice model, the paper finds a causal positive effect of suspense on stream retention but little evidence for surprise, then uses these estimates to evaluate game-rule and platform design changes.",
+  "relation_to_prior_work": "extends prior suspense-and-surprise research by moving from survey/attention or aggregate-viewership correlations to a revealed-preference micro model that separates leave and join decisions and tests direct versus indirect effects. It also transfers this literature to online e-sports streaming, a fast-growing entertainment context.",
+  "research_gap": "Prior empirical studies often rely on surveys or aggregate viewership relationships, which can confound current and prior suspense/surprise and blur direct utility effects with indirect effects from promotion, ranking, or word of mouth. The paper targets this identification problem in online entertainment using micro-level join and leave behavior.",
+  "research_question": "How much do beliefs-based suspense and surprise causally affect viewers' utility from entertainment on Twitch streams? Can the direct content effects be separated from other entertainment drivers and from indirect supply-side channels? How can the resulting preference estimates inform counterfactual media product and platform design?"
+}

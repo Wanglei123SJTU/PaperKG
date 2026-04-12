@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides one of the first multilevel empirical examinations of upstream manufacturer training directed at both downstream salespeople and their sales managers.",
+    "Offers initial evidence on when direct manufacturer spiffs to downstream individuals are effective by modeling incentive effects across two hierarchical levels inside distributor firms.",
+    "Demonstrates novel within-level and cross-level interaction effects between training and spiffs, showing that deployment across levels can produce different implications for salesperson effort."
+  ],
+  "context": "The study is set in business-to-business office imaging, where independent distributors sell multifunction printers from multiple competing manufacturers. An upstream manufacturer uses field representatives, training, and direct spiffs to influence distributor salespeople and distributor sales managers.",
+  "design_and_data": "The authors partnered with a large international imaging manufacturer and combined three data sources: salesperson surveys, sales manager surveys, and the manufacturer's objective sales database. They contacted 2,111 distributor salespeople and obtained 434 responses; 85 managers responded, yielding 153 matched salesperson-manager dyads across 60 distributors. Focused performance was measured as objective unit sales of the focal manufacturer's multifunction printers during the survey month. Hypotheses were tested with two-level multilevel models (salespeople nested within managers), including cross-level interactions and copula-based corrections for potential Level 1 endogeneity.",
+  "focal_constructs": [
+    "manufacturer-focused effort",
+    "salesperson training",
+    "sales manager training",
+    "salesperson spiffs",
+    "sales manager spiffs",
+    "training transfer problem",
+    "incentive dilemma",
+    "legitimacy"
+  ],
+  "main_findings": [
+    "Higher sales manager spiffs weakened the salesperson training -> focused effort relationship, and at high manager spiff levels this relationship became negative.",
+    "Higher sales manager spiffs and higher sales manager training each strengthened the salesperson spiff -> focused effort relationship, while higher salesperson training weakened that same salesperson spiff -> focused effort relationship.",
+    "Focused effort was positively related to objective manufacturer-focused performance, and manager training did not significantly moderate the salesperson training -> focused effort link."
+  ],
+  "one_line_summary": "Using matched salesperson-manager data from distributor channels, the paper finds that manufacturer training and spiffs affect salesperson focused effort in contingent multilevel ways, and focused effort increases objective sales of the focal manufacturer's products.",
+  "relation_to_prior_work": "extends prior channel incentive and sales control research by moving beyond firm-level and main-effect views to individual-level multilevel interactions of manufacturer-provided training and spiffs across distributor salespeople and managers.",
+  "research_gap": "The paper identifies limited empirical evidence on upstream manufacturer training of downstream sales forces, especially from a multilevel perspective, and limited evidence on direct manufacturer spiffs to downstream salespeople and managers. It also highlights that prior work had not modeled the joint within-level and cross-level interactions between training and incentives across these two downstream levels.",
+  "research_question": "How do upstream manufacturers' training and spiffs to downstream distributor salespeople influence those salespeople's manufacturer-focused effort? Under what combinations of manufacturer training and spiffs provided to sales managers are these effects strengthened or undermined? The study also examines whether focused effort translates into objective manufacturer-focused sales performance."
+}

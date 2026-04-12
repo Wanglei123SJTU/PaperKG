@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "First empirical test in the marketing literature of the moderating effects of team consensus on sales team performance.",
+    "Introduces team interpersonal climate to the sales literature and shows that leadership empowerment is most beneficial when teams have a strong shared interpersonal foundation.",
+    "Demonstrates a mechanism in which team potency translates input effects into objective performance through both in-role effort and extra-role helping behavior."
+  ],
+  "context": "The study is set in a pharmaceutical company's sales organization, with teams organized by geography and specialty. Representatives sold to physicians individually but coordinated calls and strategies, shared information, cross-sold products, and had compensation partly tied to team goals.",
+  "design_and_data": "The authors combined survey data from sales representatives with objective company records. The final sample was 1,070 usable responses (82 percent response rate) from members of 185 sales teams (at least 3 members per team). Team-level means captured leadership empowerment behaviors, interpersonal climate quality, team potency, and team helping behavior, while consensus was measured as reverse-coded within-team standard deviation. Objective team effort (average sales calls) and team performance (percent of quota achieved) were measured over the three months after the survey, and hypotheses were estimated with partial least squares and bootstrapping (500 runs), including interaction terms.",
+  "focal_constructs": [
+    "team consensus",
+    "leadership empowerment behaviors",
+    "team interpersonal climate quality",
+    "team interpersonal climate consensus",
+    "team potency",
+    "team helping behavior",
+    "team sales effort",
+    "sales team performance"
+  ],
+  "main_findings": [
+    "Leadership empowerment behaviors and team interpersonal climate quality were positively related to team potency.",
+    "Team interpersonal climate consensus and team LEB consensus each strengthened the positive effect of LEBs on team potency, but climate consensus did not significantly moderate the climate quality-potency relationship.",
+    "Team potency increased team sales effort and team helping behavior, and both behaviors positively predicted objective team performance; interpersonal climate quality also had direct positive effects on helping behavior and performance."
+  ],
+  "one_line_summary": "Using survey and archival data from 185 pharmaceutical sales teams, the paper shows that consensus conditions how leadership empowerment builds team potency, which then drives effort, helping, and objective sales performance.",
+  "relation_to_prior_work": "introduces an empirical consensus-focused perspective to sales team research by testing dispersion effects that prior sales work had largely ignored in favor of individual-level or additive mean-level models. It transfers climate strength logic from organizational behavior to team selling and integrates it with empowerment and team process arguments.",
+  "research_gap": "Although team-based selling is common, research had provided limited evidence on the determinants and mechanisms of sales team effectiveness. The paper also identifies that within-team perceptual variability (consensus) had received little empirical attention in marketing, despite its potential to alter team input-output relationships.",
+  "research_question": "How do leadership empowerment behaviors and team interpersonal climate affect sales team performance? Does team consensus about empowerment and interpersonal climate moderate these effects, and are the effects transmitted through team potency into effort and helping behavior?"
+}

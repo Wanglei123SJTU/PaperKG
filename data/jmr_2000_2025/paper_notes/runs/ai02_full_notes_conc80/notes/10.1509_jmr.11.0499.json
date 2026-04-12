@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Conceptually distinguishes chain loyalty from outlet loyalty in store choice and discusses their different sources and implications in takeover settings.",
+    "Introduces an empirical approach that identifies both loyalty forms in a dynamic acquisition context using a store choice model with chain and outlet state dependence, controls for intrinsic characteristics, and correction for acquisition endogeneity.",
+    "Provides evidence from many real takeovers on when outlet loyalty improves post-acquisition store performance and derives managerial implications via counterfactual simulations."
+  ],
+  "context": "The empirical setting is Dutch grocery retailing during 2005-2007, a period with extensive banner-conversion acquisitions, especially after Laurus sold Edah and Konmar outlets. The study analyzes household shopping behavior in local trading zones around acquired outlets.",
+  "design_and_data": "The authors estimate an integrated system with a consumer store-choice model and a retailer policy function to account for potentially endogenous outlet acquisitions via common chain-market shocks. Data combine outlet location and floor-size records (IRI and Ondernemers Pers Nederland) with GfK household scanner panel purchases over three years. The final sample includes 917 households, 237 local markets, and 239 acquisitions across 10 major chains (service, value, and hard discount tiers). Estimation uses simulated maximum likelihood with random coefficients and an iterative EM-like procedure to infer unobserved outlet choices from observed chain choices.",
+  "focal_constructs": [
+    "chain loyalty",
+    "outlet loyalty",
+    "structural state dependence",
+    "intrinsic chain and outlet characteristics",
+    "store acquisitions and banner conversions",
+    "store choice",
+    "chain positioning tiers",
+    "post-takeover customer retention"
+  ],
+  "main_findings": [
+    "Both chain loyalty and outlet loyalty significantly affect store choice after controlling for intrinsic chain and outlet attributes.",
+    "Acquiring an outlet with an installed customer base yields higher post-reopening traffic than opening an otherwise comparable new outlet, about 8.0% on average in simulations.",
+    "Outlet-loyal customers are more likely to remain after a move to a more upscale chain and less likely to remain after a move to a hard discounter, which can nullify the outlet-loyalty advantage."
+  ],
+  "one_line_summary": "Using Dutch grocery panel data around 239 takeovers, the paper disentangles chain and outlet loyalty and shows that outlet loyalty can materially raise acquired-store traffic except when the acquirer is a hard discounter.",
+  "relation_to_prior_work": "extends store choice and state-dependence research that often treated persistence as chain loyalty by separating chain loyalty from outlet loyalty and by applying this distinction to store acquisitions, a context less studied than store openings and closures.",
+  "research_gap": "Prior work documented persistence in store choice but did not clearly disentangle loyalty to the chain versus loyalty to the specific outlet, nor fully separate these from stable intrinsic store characteristics. Research on consumer response to store acquisitions was also limited relative to studies of store openings and closures.",
+  "research_question": "To what extent can repeated store patronage be attributed to chain loyalty versus outlet loyalty in a dynamic retail setting with store takeovers? How do these loyalty components affect post-acquisition performance of acquired outlets, and does outlet loyalty depend on the positioning difference between acquired and acquiring chains?"
+}

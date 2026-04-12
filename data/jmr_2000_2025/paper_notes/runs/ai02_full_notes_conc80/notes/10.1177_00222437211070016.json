@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper studies an underexplored setting: consumers' reactions to company decisions about themselves when the decision maker type is already chosen and the outcome is known.",
+    "It identifies decision outcome favorability as a key moderator, showing an interaction in which algorithmic versus human decision makers matter more for favorable than unfavorable outcomes, contrary to most managers' predictions.",
+    "It proposes and tests an attribution-based process account, linking marketing research on algorithms with attribution theory and offering a mitigation tactic via humanizing algorithms."
+  ],
+  "context": "The studies focus on consumer-facing, self-diagnostic company decisions where outcomes imply the consumer's qualifications or deservingness, such as country club admission, business loan approval, networking community admission, and research panel eligibility. In these contexts, firms choose whether decisions are made by an algorithm or a human, and consumers then receive favorable or unfavorable outcomes.",
+  "design_and_data": "The paper reports ten studies, mostly randomized between-subject online experiments with Prolific and MTurk participants, plus a realistic application-process study using a fictitious research company on Prolific. Core manipulations were decision maker type (algorithm vs human) and decision outcome favorability (favorable vs unfavorable), with key dependent variables including attitudes toward the company and recommendation intention (net promoter score style). Mechanism tests used mediation and moderated mediation for internal attribution, and a preregistered unfavorable-outcome study tested parallel mediation through perceived objectivity and perceived consideration of uniqueness. Additional studies examined nondisclosure of decision maker type, human monitoring versus human decision making, and anthropomorphizing algorithms.",
+  "focal_constructs": [
+    "algorithmic versus human decision maker",
+    "decision outcome favorability",
+    "self-diagnostic decisions",
+    "internal attribution",
+    "external attribution",
+    "attitudes toward the company",
+    "word-of-mouth intentions",
+    "anthropomorphism"
+  ],
+  "main_findings": [
+    "When outcomes were favorable, algorithm-made decisions produced less positive company attitudes and lower recommendation intentions than human-made decisions, but this difference was mitigated and often nonsignificant for unfavorable outcomes.",
+    "The interaction was explained by attribution: favorable outcomes were internalized less when made by algorithms, and this mediation disappeared when the decision was not self-diagnostic (raffle rather than evaluation).",
+    "For unfavorable outcomes, people externalized regardless of decision maker by blaming humans for lower objectivity and algorithms for weaker uniqueness consideration, and anthropomorphizing the algorithm mitigated the favorable-outcome penalty for algorithmic decisions."
+  ],
+  "one_line_summary": "Across ten studies, consumers reacted less positively to favorable decisions made by algorithms than by humans, whereas reactions to unfavorable decisions were similar because attribution processes differed by outcome favorability.",
+  "relation_to_prior_work": "extends prior algorithm-aversion research centered on consumers' choice between human and algorithmic agents to the recipient side of firm decisions, where the firm has already chosen the decision maker and the outcome is known. It also introduces an attribution-theory account into this literature by showing how internal versus external attributions shift with outcome favorability.",
+  "research_gap": "Prior research has largely examined consumers' preferences or choices between algorithmic and human decision makers, rather than consumers' reactions after receiving a decision about themselves. It has also underexplored how favorable versus unfavorable outcomes condition responses to algorithmic versus human decision makers in consumer-facing decisions.",
+  "research_question": "How do consumers react to company decisions made by algorithms versus humans when those decisions are about the consumers themselves? Do reactions differ between favorable and unfavorable outcomes, and are these differences driven by internal versus external attribution processes?"
+}

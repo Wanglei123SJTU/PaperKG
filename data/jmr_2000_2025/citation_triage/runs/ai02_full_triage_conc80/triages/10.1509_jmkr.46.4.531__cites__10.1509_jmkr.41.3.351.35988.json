@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper focuses on identification and finite-sample recoverability from store-level aggregate data, and the citing paper’s core contribution is an aggregate random-coefficient logit estimator that explicitly addresses sampling error in aggregate shares. That shared problem focus (aggregate scanner data + recoverability/finite-sample accuracy) makes this citation plausibly methodological/foundational rather than a generic mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

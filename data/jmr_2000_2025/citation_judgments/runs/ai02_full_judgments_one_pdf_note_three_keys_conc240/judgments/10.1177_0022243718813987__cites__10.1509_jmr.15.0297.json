@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Johnson, Lewis, and Nubbemeyer (2017) as a key related benchmark for causal measurement of retargeting effects, not just as a generic background citation. It explicitly states that Johnson et al. address ad-effectiveness measurement in retargeting and report positive sales effects, then positions the current paper's contribution as studying frequency and timing effects that Johnson et al. do not analyze. The citation also appears in the methodological discussion as an alternative implementation approach, indicating a meaningful role in framing the paper's contribution.",
+  "relation_description": "The citing paper builds on the prior retargeting-experimentation literature represented by Johnson et al. (2017) by extending the inquiry from overall effectiveness measurement to how retargeting effects vary by ad frequency and timing. It positions its own experimental design as a complementary/alternative way to run such measurement in practice.",
+  "relation_type": "extends"
+}

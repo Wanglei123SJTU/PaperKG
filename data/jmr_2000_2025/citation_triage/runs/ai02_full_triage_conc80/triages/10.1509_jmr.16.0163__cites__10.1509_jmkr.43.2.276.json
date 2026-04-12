@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper explicitly positions itself against prior churn-scoring work that targets high-risk customers and asks whether risk-based targeting is effective, while the cited paper is a core churn-risk prediction study (bagging/boosting vs. logit, top-decile lift for proactive retention). Given this direct conceptual overlap with the citing paper’s stated research gap and comparison frame, this is plausibly a foundational/benchmark citation rather than an incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

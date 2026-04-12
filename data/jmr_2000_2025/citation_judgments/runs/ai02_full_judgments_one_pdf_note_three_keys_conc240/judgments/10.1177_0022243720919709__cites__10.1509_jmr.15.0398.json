@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "Rao and Wang (2017) is cited in the Study 1 endogeneity discussion as support for a specific empirical-design choice, rather than as a generic background mention. The citing paper uses it to justify that its before/after and treatment structure in the natural-experiment DiD setup helps address endogeneity concerns. This is a meaningful methodological use, even though the citing paper does not build on the cited paper's substantive false-claim context.",
+  "relation_description": "The citing paper applies methodological logic from Rao and Wang (2017) to justify its own regulation-effect identification strategy. Specifically, it uses the prior work as precedent for how a before/after-by-treatment setup can mitigate endogeneity in a policy-shock analysis.",
+  "relation_type": "applies"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops a game-theoretic channel design model in which a powerful retailer chooses whether brands are sold via retailer-resell, store-within-a-store, or a hybrid arrangement.",
+    "Shows that store-within-a-store can arise as a retailer-optimal commitment device when the retailer cannot credibly commit to the prices and service levels manufacturers would implement in an integrated channel.",
+    "Extends the analysis to competing retailers and demonstrates that channel form can mediate both interbrand and interstore competition."
+  ],
+  "context": "The paper studies manufacturer-run vendor boutiques (stores within a store) inside large department stores, especially in categories such as cosmetics and apparel in the United States, Asia, and Europe. The focal setting is categories where colocated brands compete on price and in-store service inside the same department store.",
+  "design_and_data": "The evidence is primarily analytical: a noncooperative game-theory model with one retailer and two manufacturers offering differentiated brands, solved for subgame-perfect equilibria by backward induction. The retailer compares three channel structures (RR, SS, RS) under demand that depends on prices, service, and product substitutability, with convex service costs and fixed rents/slotting fees. The authors also report practitioner interviews (three U.S. and three China retail experts/executives) as qualitative motivation for model assumptions and phenomena. Extensions add an adverse cross-service effect, a store-traffic effect, and a two-retailer competition model (solved analytically for subgames and numerically for channel-equilibrium regions).",
+  "focal_constructs": [
+    "store-within-a-store arrangement",
+    "retailer-resell arrangement",
+    "channel structure choice",
+    "interbrand substitutability",
+    "in-store service returns",
+    "store traffic effect",
+    "retailer power",
+    "interstore competition"
+  ],
+  "main_findings": [
+    "With one retailer, the optimal arrangement depends on product substitutability and service returns: at low service returns the retailer prefers SS for low substitutability, RS for medium substitutability, and RR for high substitutability, while at high service returns RS is not preferred and the choice is SS at low substitutability and RR otherwise.",
+    "As the adverse demand effect of competitors' in-store service increases, the retailer is less likely to choose store-within-a-store.",
+    "A stronger store-traffic effect increases the attractiveness of store-within-a-store, and in a two-retailer extension store-within-a-store can moderate interstore competition when interbrand substitutability is low but may produce a prisoners-dilemma outcome when both interbrand and interstore substitutability are high."
+  ],
+  "one_line_summary": "The paper uses a game-theoretic channel model to explain when a powerful retailer optimally grants manufacturers autonomy via stores within a store versus retaining retailer-resell control, and how this choice changes with service effects, traffic effects, and retail competition.",
+  "relation_to_prior_work": "extends channel-structure research by making the retailer, rather than manufacturers, the architect of vertical arrangement decisions and by endogenizing whether brands use RR, SS, or hybrid contracts. It contrasts with work that treats the common-retailer structure as fixed and with models where manufacturers choose integration or delegation.",
+  "research_gap": "Prior channel literature largely assumes manufacturers design channels or treats channel structure as exogenous, so it does not explain when a powerful retailer would voluntarily delegate pricing and service control to manufacturers in its own store space. The store-within-a-store phenomenon and its boundary conditions across categories were therefore not theoretically characterized.",
+  "research_question": "Why would a retailer grant manufacturers near-complete autonomy over pricing, inventory, and in-store service in a store-within-a-store format, and for which product categories is this optimal? How do interbrand substitutability, returns to service, and store-traffic effects determine whether the retailer chooses SS, RR, or a hybrid RS arrangement? How does competition between retailers alter these choices?"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper identifies regulatory focus as an antecedent of persuasion knowledge activation, emphasizing direction of processing rather than depth of processing.",
+    "It proposes and shows that a prevention focus increases vigilance against advertiser manipulation, especially when ad cues make manipulative intent only moderately salient.",
+    "It shows that generalized externally primed suspicion can spill over to ad processing, and it distinguishes prevention focus from suspicion by showing they diverge on non-suspicion tasks."
+  ],
+  "context": "The studies are set in consumer ad processing, using print advertisements for a fictitious digital camera brand (Calan). The focal ad cues are comparative-claim and source cues that vary how salient advertiser manipulative intent is.",
+  "design_and_data": "The paper reports three between-subject laboratory experiments with undergraduate participants. Study 1 (n = 129) uses a 2 (promotion vs prevention focus prime) x 3 (low, moderate, high manipulative-intent salience) design, manipulating salience via claim source and comparison specificity, and measures brand attitude, perceived quality, ad deceptiveness, thought-coded persuasion knowledge, involvement, and number of thoughts. Study 2 (n = 82) uses a 2 x 2 design (regulatory focus x suspicion prime via an unrelated corporate-fraud vs neutral article) in the ambiguous-claim condition and adds diagnosticity and desirability measures of manipulative intent. Study 3 (n = 115) compares four conditions (promotion, prevention, suspicion primed, suspicion not primed) and includes a brand-benefit preference task plus manipulativeness ratings for ambiguous versus unambiguous claims.",
+  "focal_constructs": [
+    "regulatory focus",
+    "persuasion knowledge activation",
+    "salience of manipulative intent",
+    "brand evaluations",
+    "suspicion of undue persuasion",
+    "diagnosticity of manipulative intent",
+    "direction versus depth of processing"
+  ],
+  "main_findings": [
+    "When manipulative intent cues were ambiguous (moderate salience), prevention-focused participants evaluated the brand less favorably than promotion-focused participants; this difference disappeared when manipulative intent was low or highly salient.",
+    "Persuasion knowledge activation (ad deceptiveness and persuasion-knowledge thoughts) mediated the interaction effects on brand evaluations, while involvement and total thought counts showed no depth-of-processing differences across regulatory foci.",
+    "Externally priming suspicion made promotion-focused participants respond like prevention-focused participants to ambiguous claims, effects were driven by perceived diagnosticity (not desirability) of manipulative intent, and prevention focus was shown to be distinct from suspicion on brand-benefit preference choices."
+  ],
+  "one_line_summary": "Across three lab studies, the paper shows that a prevention regulatory focus heightens vigilance to advertisers' manipulative intent and increases persuasion knowledge use, especially when ad cues are ambiguous.",
+  "relation_to_prior_work": "extends persuasion knowledge research by showing that, beyond previously emphasized depth-related factors (e.g., cognitive capacity and involvement), regulatory focus shifts the direction of processing and thereby changes when persuasion knowledge is activated and how brands are evaluated.",
+  "research_gap": "Prior persuasion knowledge work had largely emphasized content/structure and depth-related antecedents of activation, with little direct attention to motivational orientation such as regulatory focus. The paper addresses this by testing whether regulatory focus changes sensitivity to manipulative intent when processing ad cues.",
+  "research_question": "How does consumers' regulatory focus (promotion vs prevention) interact with ad cues that vary salience of manipulative intent to determine persuasion knowledge activation and brand evaluations? Is the mechanism based on greater sensitivity/diagnosticity of manipulative intent rather than greater processing depth, and how does externally primed suspicion compare with prevention focus?"
+}

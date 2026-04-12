@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides field evidence from real U.S. bank encounters that racial discrimination affects both service process quality (employee warmth and competence) and service outcome quality (loan options offered) for Black versus White customers.",
+    "Identifies two conditions that mitigate discrimination in this context - higher signaled socioeconomic status and more sophisticated legal business structure for Black applicants.",
+    "Uses a multimethod design, including two matched-pair mystery shopping field experiments, and shows a process in which business-structure sophistication increases trust and lowers perceived default likelihood for Black applicants."
+  ],
+  "context": "The paper studies U.S. financial services, specifically small business loan interactions with banks. It examines Black versus White prospective borrowers in branch visits, phone inquiries, and pandemic-period loan seeking.",
+  "design_and_data": "Study 1 is a matched-pair mystery shopping field experiment in Atlanta (N=195 tests, 52 branches, 14 parent banks) in which Black and White testers requested small business loans; Black profiles were objectively stronger. Study 2 is a 2 x 2 phone-based field experiment in the Washington, DC area during COVID-19 (137 completed tests across 34 branches and 22 institutions), manipulating customer race and SES cues and coding employee warmth and competence behaviors plus perceived service quality. Study 3 is a survey of small business owners about pandemic-period loan inquiries and approvals (938 respondents; focal analyses on 153 Black and 113 White owners who sought loans), modeling approval as a function of race and business structure. Study 4 is a 2 x 2 lab experiment with financial-services-experienced participants (N=588; Prolific and MTurk) evaluating manipulated loan applications (race x sole proprietorship vs S corporation), measuring loan recommendation and inferred trust, risk, and default likelihood.",
+  "focal_constructs": [
+    "racial discrimination in financial services",
+    "service process quality",
+    "service outcome quality",
+    "customer loyalty intentions",
+    "customer socioeconomic status",
+    "legal business structure sophistication",
+    "employee trust in applicant",
+    "perceived default likelihood"
+  ],
+  "main_findings": [
+    "In field mystery shopping, Black applicants were offered the more favorable BLOC less often than White applicants, while HELOC offer rates did not differ significantly, and Black applicants reported lower loyalty intentions.",
+    "In the phone field experiment, Black customers received fewer employee warmth and competence behaviors and lower perceived service quality than White customers, with disparities concentrated among low-SES Black customers and mitigated for high-SES Black customers.",
+    "In survey and lab evidence, Black sole proprietors had worse loan progress than White sole proprietors, but this gap was attenuated when Black applicants had more sophisticated business structures; in the lab, this operated through higher inferred trust and lower perceived default likelihood for Black (not White) applicants."
+  ],
+  "one_line_summary": "Across three field studies and one laboratory experiment in U.S. small business lending, the paper shows that Black customers face worse service and loan outcomes than White customers and that higher signaled SES or more sophisticated business structure can mitigate this bias.",
+  "relation_to_prior_work": "extends prior lending-discrimination research that largely documents disparities in secondary or aggregate data by showing how bias appears in frontline service interactions and product steering decisions. It also extends service and stereotyping research by identifying SES and legal business structure as counterstereotypical cues that can suppress discrimination and by testing a trust-to-default-likelihood mechanism for Black applicants.",
+  "research_gap": "Prior work shows racial disparities in lending but leaves less clarity on how discrimination unfolds during live service encounters and how it affects both service process and service outcomes. The paper also targets a stated gap on when and why such discrimination is mitigated in financial services.",
+  "research_question": "How does racial discrimination manifest in small business loan service encounters between Black and White customers, including effects on service process, service outcomes, and loyalty? Under what conditions is this discrimination mitigated - particularly via customer SES and business-structure sophistication - and through what provider-side inferences?"
+}

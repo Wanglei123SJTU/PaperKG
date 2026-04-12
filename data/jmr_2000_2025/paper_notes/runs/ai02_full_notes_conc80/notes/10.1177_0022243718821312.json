@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes ICRT as a new truth-telling methodology for sensitive consumer behavior that combines a survey procedure with an item response theory model.",
+    "It claims higher validity, precision, and efficiency than direct questioning and prior item count approaches by using a single sample, accounting for procedural nonadherence and differential list functioning, and avoiding a control-group requirement.",
+    "It claims that ICRT enables individual-level multivariate analysis of correlates of sensitive behavior for theory testing and policy analysis."
+  ],
+  "context": "The substantive application is cigarette smoking during pregnancy in the Netherlands, a highly stigmatized behavior where direct self-reports may be biased and biomarker measurement is costly at scale.",
+  "design_and_data": "The authors develop a single-sample ICRT design in which baseline items from validated scales are measured both outside and inside the list, and estimate the model with Bayesian IRT and MCMC. They run Monte Carlo simulations comparing standard ICT and ICRT under differential list functioning, procedural nonadherence, baseline-trait correlation with the target item, list-size variation, and scale-reliability variation. They also field an online two-group controlled survey experiment in spring 2015 among currently pregnant women in the Netherlands (n=1,315), with random assignment to a list group (n=886) or direct-question group (n=429). The sensitive item is smoking at least one cigarette per day, and covariates include personality facets, demographics, pregnancy weeks, perceived socioeconomic status, and health locus of control.",
+  "focal_constructs": [
+    "item count response technique (ICRT)",
+    "sensitive consumer behavior",
+    "smoking during pregnancy",
+    "procedural nonadherence",
+    "differential list functioning",
+    "privacy-protected self-reporting",
+    "prevalence estimation",
+    "individual-level covariates"
+  ],
+  "main_findings": [
+    "In simulations, ICRT recovered sensitive-item prevalence with near-zero bias across tested conditions, while standard ICT showed substantial bias when assumptions were violated, especially under differential item difficulty and nonadherence.",
+    "In the empirical application, estimated smoking prevalence was higher with ICRT (18.0%, or 17.6% with covariates) than with direct questioning (10.7%) and standard ICT (10.1%), indicating downward bias in the latter methods.",
+    "In the ICRT covariate model, smoking prevalence was lower for women with higher self-discipline, more weeks pregnant, higher education, higher perceived socioeconomic status, and higher health locus of control, and higher for unmarried women; age and number of children were not significant."
+  ],
+  "one_line_summary": "The paper introduces ICRT, a single-sample IRT-based list method that improves estimation of sensitive behavior prevalence and correlates and shows substantial underreporting of smoking during pregnancy versus direct questioning and standard ICT.",
+  "relation_to_prior_work": "extends prior item count technique and list-experiment research by replacing two-group mean-difference identification with a single-sample item-response framework that can model procedural nonadherence and differential list functioning, and by linking prevalence estimation to individual-level covariates.",
+  "research_gap": "The paper argues that existing ICT implementations have major limitations: they often rely on treatment-control comparisons, make inefficient use of sample information, cannot adequately cope with procedural nonadherence and differential list functioning, and mainly provide group-level prevalence estimates. It also notes that ICT had not yet been applied in marketing.",
+  "research_question": "Can a new item count response technique provide more valid and precise estimates of sensitive behavior prevalence, even when standard ICT assumptions are violated? Can it also estimate individual-level drivers of the sensitive behavior, and how do its prevalence estimates compare with direct questioning and standard ICT in smoking during pregnancy?"
+}

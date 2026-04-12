@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces customer empowerment into the customer participation context as a higher-order construct with two dimensions: perceived participation worth and perceived participation impact.",
+    "Shows customer participation accountability by linking participation to branch performance outcomes through two parallel mediators: customer empowerment and customer satisfaction.",
+    "Expands customer participation boundary conditions beyond customer traits by testing customer-, employee-, and organization-related moderators in one multilevel model."
+  ],
+  "context": "The study is set in private banking in South Korea, where private bankers deliver personalized wealth-management services to high-value clients. Data are drawn from 110 bank branches and focus on customer participation in service design and delivery interactions.",
+  "design_and_data": "The authors use triadic matched survey data from customers, private bankers, and branch managers collected with a multiwave design to reduce common method bias and address temporal ordering. The final matched sample is 891 customers nested within 209 private bankers nested within 110 branches. Customer participation and moderators were measured in wave 1, customer empowerment in wave 2, and customer satisfaction in wave 3. The model is estimated as a three-level framework with fixed effects, endogeneity correction, and mediation/moderation tests.",
+  "focal_constructs": [
+    "customer participation",
+    "customer empowerment",
+    "perceived participation worth",
+    "perceived participation impact",
+    "customer satisfaction",
+    "branch performance",
+    "developmental feedback on customer participation",
+    "customer orientation"
+  ],
+  "main_findings": [
+    "Customer participation has no significant direct effect on profitability, sales growth, or customer retention, but it has significant indirect effects through customer empowerment and customer satisfaction, indicating full mediation.",
+    "Customer participation is positively associated with customer empowerment and customer satisfaction, and both mediators are positively associated with branch performance metrics.",
+    "Developmental feedback positively moderates the effects of customer participation on both empowerment and satisfaction, while employee customer orientation negatively moderates both links; importance of social bonding and participation formalization negatively moderate only the participation-satisfaction link."
+  ],
+  "one_line_summary": "In South Korean private banking, customer participation improves branch performance only indirectly through customer empowerment and customer satisfaction, and this effect depends on contextual fit factors.",
+  "relation_to_prior_work": "extends prior customer participation research that mainly emphasized customer-side outcomes by modeling a firm-benefit pathway through customer empowerment to branch performance. extends contingency work that focused mostly on customer characteristics by incorporating employee and organizational moderators in a multilevel design.",
+  "research_gap": "Prior customer participation research has focused largely on customer benefits and has provided limited evidence on firm-level economic and customer outcomes in the same model. It has also emphasized customer characteristics as moderators, with relatively little attention to employee- and organization-related contingencies.",
+  "research_question": "Does customer participation improve bank branch performance, and through which mechanisms? The paper tests whether customer empowerment and customer satisfaction mediate the customer participation-performance link and whether customer, employee, and organizational conditions determine when participation is more or less effective."
+}

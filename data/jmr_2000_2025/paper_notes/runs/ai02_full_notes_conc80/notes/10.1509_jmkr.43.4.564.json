@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops a three-stage integrated model of the marketing-sales process that links lead generation, lead-to-appointment conversion, and appointment-to-sale closure.",
+    "Shows how multimedia communications effects (main, interaction, carryover, and seasonality) combine with sales-force follow-up delays to shape downstream sales outcomes.",
+    "Provides a managerial decision support tool that simulates how alternative media budgets, timing, and allocations affect leads, delays, sales, and profit."
+  ],
+  "context": "The study is set in a large U.S. home improvement firm (HIR) selling replacement windows through a direct process: prospects call a center, schedule an in-home visit, and may purchase after the sales call. The empirical setting is one major metropolitan market where marketing uses multiple channels (for example, direct mail, newspaper, radio, exhibitions) and the sales force faces capacity constraints.",
+  "design_and_data": "The authors model the process in three stages and estimate stage-specific equations: lead generation, appointment conversion, and sales closure (plus order size), with a separate lag-linking equation from lead volume to follow-up delay. Data cover 2002-2003 and include 19,496 inquiries, 16,309 in-home visits, and 6,068 purchases, with weekly media expenditures and household transaction records; zip-code demographics are matched from a third party. Nine lead sources account for more than 98% of leads, and the major managed media are direct mail, newspaper, radio, and exhibitions. Models are estimated separately (including SUR for Stage 1 and household-level logit for closure), then validated with a 2004 holdout period and used for simulation scenarios.",
+  "focal_constructs": [
+    "integrated marketing communications",
+    "marketing-sales interface",
+    "lead generation",
+    "appointment conversion",
+    "sales closure",
+    "follow-up delay",
+    "sales force capacity constraints",
+    "media interaction and carryover effects"
+  ],
+  "main_findings": [
+    "Media effects are source specific: exhibitions show carryover, major exhibitions generate much higher lead volume than minor ones, and some cross-media synergies are positive (for example, radio and direct mail spending lift newspaper leads).",
+    "Higher lead volume above steady-state capacity increases follow-up delay, and delay persists across weeks; these delays reduce downstream conversion, with several sources showing significant negative lag effects in appointment conversion and sales closure.",
+    "Simulation results show that changing media timing and allocation can materially improve performance, and a sales-focused allocation with a lower total media budget can increase profit by improving delay management and conversion efficiency rather than simply maximizing leads."
+  ],
+  "one_line_summary": "A three-stage empirical IMC model at a home improvement firm shows that media mix decisions and sales follow-up delays jointly determine leads, conversions, sales, and profit.",
+  "relation_to_prior_work": "extends prior IMC research focused mainly on aggregate media synergies by modeling sequential communications across marketing and personal selling, explicitly incorporating lead-lag timing, sales-force capacity-driven delay, and stage-specific effects on appointments and closures.",
+  "research_gap": "The paper argues that IMC research is scarce and offers limited empirical guidance for planning across multiple media in a sequential buying process. Prior work largely examines aggregate or simultaneous effects and does not adequately address timing of sequential communications, delay decay, and implications for sales-force effectiveness at the marketing-sales interface.",
+  "research_question": "How do multiple communication channels jointly generate leads, and how do lead volume and sales-force capacity create follow-up delays that affect conversion to appointments and sales? Which media are most effective, what carryover and interaction effects exist, and how do seasonality, salesperson quality, and prospect characteristics influence outcomes across the three stages?"
+}

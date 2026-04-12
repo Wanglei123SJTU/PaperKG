@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper studies disclosure design effects in online news native advertising (clicks, brand recognition, trust) using randomized experiments, while the citing paper analyzes Sunshine Act physician-payment disclosure with a DiD + causal-forest panel design in pharmaceuticals. Based on the notes, there is no methodological dependence, shared empirical setting, or clear mechanism transfer beyond a broad “information disclosure” theme. With only a single DOI match and no in-text context provided, this looks most like a background mention rather than substantive use.",
+  "triage_decision": "drop_obvious_mention_only"
+}

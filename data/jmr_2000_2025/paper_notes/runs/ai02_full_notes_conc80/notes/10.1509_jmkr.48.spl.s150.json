@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper argues that large-scale field experiments can be used not only for program evaluation but also to test consumer demand mechanisms and compare marketing cost effectiveness.",
+    "The authors present what they describe as the first randomized-trial evidence in a representative population that financial education changes real financial behavior.",
+    "The study jointly tests several distinct marketing messages for a complex insurance product, allowing a comparison of which message materially affects adoption."
+  ],
+  "context": "The study is set in 15 rain-fed villages in three coastal districts of Gujarat, India (Amreli, Bharuch, and Bhavnagar), where smallholder farmers grow cotton and groundnut and face monsoon rainfall risk. Rainfall index insurance was newly introduced in these areas by the Development Support Center and underwritten by the Agriculture Insurance Company of India.",
+  "design_and_data": "In spring 2009, the authors ran a randomized controlled trial with 600 land-owning farm households (final survey N = 597). Half were randomly invited to a financial literacy and insurance education program (two 3-hour sessions with teaching materials, video, and simulation games), with partial compliance (about 75% attendance among invitees, about 10% among noninvitees). Independently, 282 farmers were randomly assigned to marketing visits with one or more messages: a money-back guarantee, a short-term weather forecast, and/or a millimeter demonstration; marketing-message compliance was reported as perfect. The main outcome was rainfall insurance purchase, analyzed with reduced-form regressions and IV estimates using invitation as an instrument for attendance in the education treatment.",
+  "focal_constructs": [
+    "financial literacy",
+    "rainfall index insurance adoption",
+    "marketing interventions",
+    "money-back guarantee",
+    "information frictions",
+    "consumer trust",
+    "cognitive ability",
+    "cost effectiveness"
+  ],
+  "main_findings": [
+    "Financial education significantly increased insurance take-up, with benchmark effects around 8.1 percentage points (from about 8% to 16%).",
+    "Among marketing treatments, only the money-back guarantee had a consistent significant impact, increasing demand by about 6.9-7 percentage points and described as roughly comparable to a 40% price reduction.",
+    "The weather forecast and millimeter demonstration treatments had small, statistically insignificant effects on adoption."
+  ],
+  "one_line_summary": "A randomized field experiment among Gujarat farmers shows that intensive financial literacy training and a money-back guarantee increase rainfall insurance adoption, while forecast and unit-demonstration messages do not.",
+  "relation_to_prior_work": "extends prior evidence on low weather-insurance take-up and mixed financial-literacy effects by providing randomized evidence that an intensive education module changes actual insurance purchase behavior for a complex product in an emerging-market setting.",
+  "research_gap": "The paper motivates that adoption of rainfall insurance is low despite potentially high welfare benefits, and that key barriers may include product complexity, low financial literacy, and distrust. It addresses the lack of clear randomized evidence on whether financial education and specific marketing messages can causally raise adoption of such complex financial products.",
+  "research_question": "Do financial literacy education and specific marketing messages causally increase farmers' purchase of rainfall insurance in rural India? Which of the tested marketing approaches, if any, meaningfully shifts demand relative to education and at what approximate effect size?"
+}

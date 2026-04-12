@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops an incentive-aligned, controlled experimental paradigm to study consumer sequential choices under competing loyalty programs with competing prices and promotions.",
+    "Introduces a boundedly rational dynamic choice model using approximate dynamic programming to recover heterogeneity in decision rules, including five behavioral segments.",
+    "Shows via simulation that firm and market outcomes depend jointly on competitive design and assumptions about consumer optimality, implying managerial consequences for loyalty-program and promotion design."
+  ],
+  "context": "The paper studies a stylized frequent-traveler setting with two competing airlines offering different prices, promotion patterns, and loyalty-program redemption thresholds. Consumers repeatedly choose between the airlines over a finite number of trips and may redeem points for free tickets.",
+  "design_and_data": "The authors run an incentive-aligned online experiment in which participants are randomly assigned to one of eight duopoly market designs (a 2 x 2 x 2 factorial varying airline A's redemption threshold, promotion probability, and sale-price pair), with fixed regular prices, airline B threshold, and a 24-trip horizon. A total of 1,012 MTurk participants were recruited, and the main analysis uses 836 participants who correctly recalled key game differences. For each design, the forward-looking optimal policy is computed numerically from a finite-horizon dynamic programming problem, and observed choices are compared with optimal, myopic, and naive benchmarks. The authors then estimate a Bayesian finite-mixture approximate dynamic programming model of bounded rationality and run simulations of firm profits under different assumptions about consumer decision rules.",
+  "focal_constructs": [
+    "competing loyalty programs",
+    "dynamic sequential choice",
+    "bounded rationality",
+    "approximate dynamic programming",
+    "price promotions",
+    "redemption thresholds",
+    "forward-looking behavior",
+    "decision heuristics"
+  ],
+  "main_findings": [
+    "Participants are not fully forward looking: they partially realize delayed loyalty benefits but systematically deviate from optimal choices, and their actual decisions can leave them worse off than a myopic price-based strategy.",
+    "Changes in redemption thresholds have a more consistent effect on choices than promotion frequency or sale prices, and deviations from optimality are state dependent, especially when free tickets are available and redemption timing is difficult.",
+    "A five-segment structure captures substantial heterogeneity in strategies and performance; segment shares vary by market design in ways consistent with design-specific optimal behavior, and simulated firm outcomes vary with both market design and assumed consumer optimality."
+  ],
+  "one_line_summary": "Using an incentive-aligned airline experiment and a bounded-rational dynamic model, the paper shows how consumers imperfectly navigate competing loyalty programs and how these behavioral deviations alter firm and market outcomes.",
+  "relation_to_prior_work": "extends prior loyalty-program research beyond mostly single-program or partially observed competition settings by studying individual-level dynamic decisions under directly controlled cross-program competition. It introduces a bounded-rational dynamic modeling approach alongside optimal dynamic benchmarks, complementing structural work that assumes perfectly rational consumers.",
+  "research_gap": "Prior empirical studies largely examine a single loyalty program or rely on aggregate/partial competitor information, so there is limited evidence on how consumers make sequential choices when they simultaneously hold competing programs. This limits understanding of consumer dynamics and design implications in true cross-program competition.",
+  "research_question": "How do loyalty-program design, pricing, and promotion strategies in a competitive market jointly affect consumers' sequential purchase decisions? The paper asks whether consumers realize long-term reward benefits when enrolled in competing programs, how and when they deviate from dynamic optimality, what heuristics they use, and whether those heuristics adapt to the market environment."
+}

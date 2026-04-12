@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper identifies three ways to make behavioral economics models more psychological: increasing context specificity, allowing heterogeneous parameters across people, and modeling psychological processes more explicitly.",
+    "It argues that existing behavioral economics models already partially accommodate context effects and heterogeneity, and it outlines how these dimensions can be further enriched.",
+    "It highlights why adding process-level detail is harder in formal modeling because models must remain tractable building blocks for aggregate market analysis."
+  ],
+  "context": "The article discusses formal economic and marketing models of consumer and firm behavior, especially models used to predict strategic interaction and market outcomes. It spans laboratory and field evidence across multiple decision contexts rather than a single industry setting.",
+  "design_and_data": "This is a conceptual/rejoinder article rather than a new primary empirical study. The authors synthesize prior behavioral economics and consumer research evidence and use model-based examples such as reference dependence, social preferences, self-tuning EWA, hyperbolic discounting, and cognitive hierarchy. They reference previously reported parameter evidence, including estimated tau values across 60 games from Camerer, Ho, and Chong (2004) and cross-society ultimatum game differences from Henrich et al. (2001), to illustrate context dependence and heterogeneity.",
+  "focal_constructs": [
+    "behavioral economics models",
+    "context specificity",
+    "parameter heterogeneity",
+    "psychological processes",
+    "predictive power",
+    "model parsimony",
+    "cognitive hierarchy parameter tau"
+  ],
+  "main_findings": [
+    "Behavioral economics models can already represent major context effects and heterogeneity through reduced-form parameters, even if they do not fully encode detailed psychological processes.",
+    "Empirical evidence reviewed by the authors indicates behavioral parameters vary across games and populations, supporting efforts to map contexts and agent differences to parameter values.",
+    "Greater process realism has costs in tractability and generality, so the appropriate level of psychology is the level that improves prediction enough to justify added model complexity."
+  ],
+  "one_line_summary": "The paper argues that economic and marketing models should become more psychological mainly by modeling context-sensitive and heterogeneous parameters, while adding process detail only when its predictive benefits outweigh complexity costs.",
+  "relation_to_prior_work": "extends the authors' earlier review and responds to contemporaneous commentaries by clarifying where additional psychological richness can be incorporated without losing formal tractability.",
+  "research_gap": "The authors argue that many formal behavioral models still use sparse parameterizations that do not fully capture context effects, individual differences, or underlying processes. They also note limited systematic evidence on how contexts and heterogeneity map into parameter values and no clear standard metric for the incremental predictive value of added process detail.",
+  "research_question": "How psychological should economic and marketing models be? The paper asks how far behavioral models should be enriched through context specificity, heterogeneous parameters, and explicit process assumptions while preserving mathematical simplicity and predictive usefulness for market-level applications."
+}

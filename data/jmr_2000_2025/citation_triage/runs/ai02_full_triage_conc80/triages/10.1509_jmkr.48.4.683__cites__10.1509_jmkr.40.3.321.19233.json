@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s design explicitly includes a “hierarchical Bayesian multivariate probit purchase model,” while the cited 2003 JMR paper develops a hierarchical Bayes MCMC multivariate binomial probit estimation approach and identification/postprocessing strategy. That strong methodological overlap suggests the citation is likely a non-incidental method/foundation source rather than a generic mention. With a direct DOI match, this pair should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

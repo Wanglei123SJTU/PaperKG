@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a dynamic two-sided market response model for platform firms that explicitly incorporates cross-market network effects, own-side carryover, side-specific marketing elasticities, and the asymmetry that suitor demand can collapse when attractor demand is zero.",
+    "Develops a model-based finite-horizon optimization algorithm and decision aid to compute optimal time paths of platform marketing investments across the two sides.",
+    "Derives new normative propositions showing how cross-market network effects and carryover change classic one-sided marketing budgeting rules for reinforcing versus counteractive platforms."
+  ],
+  "context": "The empirical setting is a local daily print newspaper operating as a monopolist in its city-region, with readers as attractors and advertisers as suitors. Revenues come from subscriptions and advertising, and marketing investments are newsroom spending and ad-sales-force spending.",
+  "design_and_data": "The authors specify a multiplicative dynamic system for attractor and suitor revenues with lagged own demand, lagged cross-side demand, and contemporaneous side-specific marketing investments, plus trend and seasonal controls. They estimate the model in state-space form using Kalman filtering, allowing correlated transition and observation errors, and compare nested specifications using AIC/AICc/BIC and MAD fit/forecast diagnostics. The main newspaper analysis uses monthly data on revenues and investments, with a calibration/holdout split for forecasting checks, and the model is replicated on data from a second newspaper owned by a different company. They then use the estimated system in a finite-horizon optimal-control routine that solves a nonlinear two-point boundary value problem to obtain optimal spending trajectories.",
+  "focal_constructs": [
+    "platform firms",
+    "two-sided markets",
+    "cross-market network effects",
+    "attractor demand",
+    "suitor demand",
+    "marketing carryover effects",
+    "newsroom investment",
+    "sales force investment"
+  ],
+  "main_findings": [
+    "A model that includes cross-market network effects and correlated errors fits and forecasts better than nested alternatives without these features.",
+    "Both estimated cross-market effects are positive and significant in the newspaper data, indicating a reinforcing platform; both own-side carryover effects and both marketing elasticities are also positive and significant.",
+    "Optimization results indicate the firm was underspending, especially on newsroom resources, and moving toward model-implied levels could raise profit by about 28%; management subsequently increased the newsroom budget by about $500,000 (an 18% increase)."
+  ],
+  "one_line_summary": "The paper builds and validates a dynamic two-sided response-and-optimization framework for platform firms and shows in newspaper data that reinforcing cross-market effects make higher newsroom and sales-force investment more profitable.",
+  "relation_to_prior_work": "extends one-sided marketing budgeting models and prior static platform marketing work by modeling dynamic interdependence between attractor and suitor demand and solving the resulting finite-horizon allocation problem; it also shifts the two-sided literature beyond its dominant pricing focus to dynamic marketing investment policy.",
+  "research_gap": "The authors argue that marketing budgeting research has largely neglected platform firms in two-sided markets, despite their prevalence and substantial marketing spending. Prior two-sided work is mostly pricing-oriented, and existing marketing-mix models do not adequately handle dynamic carryover and cross-market interdependence for ongoing budgeting decisions.",
+  "research_question": "How should a platform firm in a two-sided market model demand when each side influences the other and marketing has dynamic carryover effects? Can such a model be estimated with market data and used to compute profit-maximizing finite-horizon investment paths across attractor-side and suitor-side marketing?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces and empirically examines \"pseudo-free offers,\" defined as offers framed as free but requiring nonmonetary payment.",
+    "Shows that pseudo-free can operate like free as a special price, including cases where consumers accept offers whose nonmonetary costs exceed benefits.",
+    "Identifies an attribution-to-fairness process and boundary conditions (contextual cues, offer characteristics, and dispositions) that determine when pseudo-free effects weaken."
+  ],
+  "context": "The paper studies marketplace offers presented as free but requiring time, effort, personal information, or privacy, as seen in digital services and retail promotions. Empirical contexts include alumni email promotions, airport Wi-Fi offers, lab tasks, and mall phone-charging offers.",
+  "design_and_data": "The authors report six studies: one field test and five experiments. Study 1 randomly assigned 600 U.S. private high school alumni to free, pseudo-free, or nonfree mug offers sent by email; Studies 2a, 2b, and 3 used undergraduate samples in lab/scenario settings with chocolate bar and airport Wi-Fi offers. Studies 4 and 5 used MTurk samples (N = 438 and N = 295) with ChargeItSpot scenarios that manipulated offer type, attribution cues, and nonmonetary cost size/type (time vs personal information). Key outcomes were acceptance or usage likelihood, with measured spontaneous attributions, perceived fairness, and tests of alternative mechanisms.",
+  "focal_constructs": [
+    "pseudo-free offers",
+    "truly free offers",
+    "nonfree offers",
+    "nonmonetary costs",
+    "spontaneous attributions",
+    "perceived fairness",
+    "offer acceptance likelihood",
+    "negative attributions"
+  ],
+  "main_findings": [
+    "When pseudo-free nonmonetary costs were below a threshold, consumers were about as likely to accept pseudo-free offers as truly free offers and more likely to accept them than comparable monetary-price offers.",
+    "In Studies 2a and 2b, participants accepted pseudo-free offers even when evidence indicated the nonmonetary cost exceeded the benefit, consistent with irrational acceptance in some cases.",
+    "Consumers' spontaneous attributions predicted responses via perceived fairness: neutral or positive attributions supported pseudo-free acceptance, while induced or stronger negative attributions (from context or larger nonmonetary costs) reduced acceptance below truly free offers."
+  ],
+  "one_line_summary": "Across six studies, consumers generally treated pseudo-free offers like truly free offers and preferred them to paid offers because neutral or positive attributions increased perceived fairness, but this pattern weakened when negative attributions were triggered.",
+  "relation_to_prior_work": "extends prior work on zero-price and free-offer effects by showing that free framing can retain free-like appeal even when offers impose nonmonetary costs. It also shows that attribution-driven fairness perceptions, rather than affect or cost salience alone, best account for responses to pseudo-free offers.",
+  "research_gap": "Prior research showed strong responses to truly free offers, but had not examined whether consumers similarly value pseudo-free offers that require nonmonetary payment. It was also unclear whether consumers evaluate these nonmonetary costs rationally and what mechanism explains acceptance versus rejection.",
+  "research_question": "How do consumers respond to pseudo-free offers relative to truly free and monetary-price offers? Do consumers discount or ignore nonmonetary costs, potentially accepting pseudo-free offers even when costs exceed benefits? What psychological process explains these responses, and when does it break down?"
+}

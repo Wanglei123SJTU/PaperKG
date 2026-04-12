@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in the model-development section to justify the authors' choice of a latent-class approach instead of hierarchical Bayes for heterogeneity. The citing paper explicitly references Andrews, Ainslie, and Currim (2002) as evidence that latent-class/discrete representations can perform comparably to HB in explaining heterogeneity, while HB is more computationally demanding. This is a direct methodological justification tied to a core modeling decision, not a passing background mention.",
+  "relation_description": "The citing paper relies on the cited paper's empirical comparison of heterogeneity representations to support using a latent-class demand model rather than hierarchical Bayes. Thus, the cited study functions as prior methodological evidence underpinning the chosen estimation strategy.",
+  "relation_type": "foundational_for"
+}

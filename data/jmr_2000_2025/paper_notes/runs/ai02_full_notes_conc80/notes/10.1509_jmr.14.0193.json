@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops a mechanism-based framework that links in-phase versus out-of-phase cross-retailer promotion calendars to components of the promotion bump, including brand switching, store switching, brand-store switching, category expansion, and stockpiling.",
+    "It introduces an empirical approach that combines a flexible generalized nested logit choice model and a quantity model with simulations to evaluate alternative national brand promotion calendars across retailers.",
+    "It provides evidence that the commonly used out-of-phase approach is not universally best practice and that manufacturer and retailer interests over calendar timing are not necessarily unaligned."
+  ],
+  "context": "The study is set in Dutch grocery retailing, where national-brand featured price cuts are communicated through retailer store flyers and negotiated across chains. The empirical application covers beer, liquid laundry detergents, coffee, and chips.",
+  "design_and_data": "The authors use GfK Netherlands household panel data with weekly prices and feature activity over 424 weeks (about 8 years), across top chains and a rest-retailer aggregate, for four packaged-goods categories. They estimate a random-effects generalized nested logit model for joint category incidence, retailer choice, and brand choice, and a separate quantity model, with promotion, pricing, assortment, inventory, and dynamic lead/lag effects. They then simulate alternative 26-week calendars for a leading national brand at two focal retailers, comparing a fully out-of-phase schedule (no overlap) with a more in-phase schedule (about two-thirds overlapping promotions), while keeping other brands' promotions at observed levels. Performance is evaluated against a no-promotion benchmark and decomposed into sources of sales shifts.",
+  "focal_constructs": [
+    "featured price cuts",
+    "national brand promotion calendar",
+    "in-phase promotion scheduling",
+    "out-of-phase promotion scheduling",
+    "store switching",
+    "brand switching",
+    "category expansion and stockpiling",
+    "manufacturer and retailer sales and revenue performance"
+  ],
+  "main_findings": [
+    "Calendar effects are strongest in categories where promotions influence store choice: for beer and coffee, out-of-phase schedules produce significantly larger immediate gross sales lifts for both retailers and the manufacturer.",
+    "In those categories, the extra out-of-phase lift is driven mainly by store switching and larger deal subsidization, so manufacturers do not gain in net volume and can lose net revenue relative to in-phase timing (significantly for coffee).",
+    "When promotions do not strongly drive store switching, calendar effects are limited or different: laundry detergents show little difference between schedules, while in chips out-of-phase timing improves manufacturer net outcomes through stronger brand switching and positive cross-store spillovers, with limited retailer impact."
+  ],
+  "one_line_summary": "The paper shows, using a structural consumer-response model and calendar simulations, that out-of-phase versus in-phase cross-retailer featured-price-cut timing can materially change promotion outcomes, but the direction depends on category response mechanisms and differs for manufacturers versus retailers.",
+  "relation_to_prior_work": "extends prior sales-promotion research from isolated promotion effects and single-chain timing to cross-retailer scheduling of a national brand's promotion calendar. It also evaluates manufacturer and retailer outcomes jointly across gross lift, net volume, and net revenue.",
+  "research_gap": "Prior research mostly examined promotion timing at the market level or within a single retail chain, leaving limited evidence on how a national brand's promotion timing across competing retailers affects outcomes. Because the problem involves multiple parties, multiple objectives, and dynamic consumer responses, there was no clear consensus on whether exclusivity (out of phase) or simultaneity (in phase) is preferable.",
+  "research_question": "Does a national brand's cross-retailer calendar for featured price cuts affect manufacturer and retailer performance, and through which response mechanisms? Specifically, should promotions be scheduled in phase or out of phase across chains, and does the preferred timing differ for gross sales lift versus net sales and revenue?"
+}

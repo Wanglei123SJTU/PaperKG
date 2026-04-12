@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides a causal field test of sales contest effectiveness using a no-contest control group, rather than relying on observational correlations or analytical assumptions.",
+    "Introduces and evaluates a multi-segment sales contest design that leverages salesperson heterogeneity by having similar performers compete within segments.",
+    "Compares multi-segment contests with increasingly used duel-style (1-1) contests and shows that adding one-on-one duels does not improve outcomes relative to equivalent multi-segment designs."
+  ],
+  "context": "The main empirical setting is a field sales force at an Indian pharmaceutical firm. Supplementary evidence comes from online experiments and U.S. B2C sales settings (telecommunications and durable retail), plus a scenario study with sales professionals.",
+  "design_and_data": "Study 1 is a field experiment with 132 salespeople split into three geographic groups: no contest control (N=33), single-segment contest (N=42), and multi-segment contest (N=57), with equivalent total prize money and number of winners across contest treatments; outcomes are analyzed with a difference-in-differences model and salesperson fixed effects over three preperiod months plus one contest month (528 observations). Study 2 is an online real-effort experiment (MTurk, N=480) using a 2 x 2 x 2 design: multi vs single segment, 10 vs 50 participants, and absolute vs incremental metric. Studies 3 and 4 analyze duel-style contest implementations at two U.S. firms (telecommunications, N=1,798; durable retail, N=1,433) descriptively across segments. Study 5 is a within-subject scenario experiment on Prolific (119 recruited, about 100-112 usable by variable) comparing multi-segment and duel-style contests on motivation and related perceptions.",
+  "focal_constructs": [
+    "single-segment sales contests",
+    "multi-segment sales contests",
+    "duel-style contests",
+    "salesperson performance",
+    "perceived chance of winning",
+    "motivation to participate",
+    "sales force heterogeneity"
+  ],
+  "main_findings": [
+    "In the field experiment, the single-segment contest did not produce a statistically significant performance lift versus no contest.",
+    "The multi-segment contest significantly increased performance versus no contest and outperformed the single-segment contest, with gains observed across all segments.",
+    "Supplementary experiments indicate that multi-segment contests raise motivation through a higher perceived chance of winning, their advantage is not explained by the number of competitors, and an equivalent multi-segment format is more motivating than a duel-style format."
+  ],
+  "one_line_summary": "Across one field experiment and four supplementary studies, the paper shows that multi-segment sales contests outperform single-segment contests because segmentation raises perceived winning chances and motivation.",
+  "relation_to_prior_work": "challenges the implicit assumption in prior sales contest research that standard single-segment contests generally improve performance, by showing no significant average lift versus no contest in a field setting. It also introduces and tests a segmented contest design and evaluates it against duel-style alternatives.",
+  "research_gap": "Although sales contests are widely used, their causal effectiveness had not been directly tested in the field with a no-contest control, and prior work largely optimized contest structure while assuming contests work. Existing research also centered on single-segment contests, leaving limited evidence on segmented designs and their behavioral mechanisms.",
+  "research_question": "How do single-segment and multi-segment sales contests affect salesperson performance relative to no contest? Which of the two contest formats is more effective, and through what mechanism does any performance difference arise? The paper also examines how multi-segment contests compare with duel-style one-on-one variants."
+}

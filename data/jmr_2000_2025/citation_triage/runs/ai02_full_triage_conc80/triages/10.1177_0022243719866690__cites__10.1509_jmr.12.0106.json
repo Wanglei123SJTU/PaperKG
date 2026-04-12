@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is a closely related prior framework for mining online reviews into quality dimensions and valence (LDA-based), while the citing paper’s main contribution is a new review-content coding approach (supervised deep learning on quality/price dimensions) tied to conversion. This strong construct/method overlap suggests a plausible foundational or method-source citation, not an obvious incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

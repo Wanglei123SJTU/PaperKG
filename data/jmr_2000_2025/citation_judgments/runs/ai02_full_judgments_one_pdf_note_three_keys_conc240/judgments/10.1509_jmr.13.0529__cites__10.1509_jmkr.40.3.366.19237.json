@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "Irwin and McClelland (2003) is cited in the methods/results setup where the authors justify their regression strategy, not merely as broad background. The citing paper explicitly states that its analysis is conducted in line with recommendations from Irwin and McClelland (along with Fitzsimons), linking the citation to concrete modeling choices for testing interactions. While the citation is methodological rather than theoretical, it meaningfully informs how the empirical tests are executed.",
+  "relation_description": "The citing paper applies Irwin and McClelland's methodological guidance to its hypothesis testing approach, explicitly aligning its regression analyses with their recommendations. This supports using interaction-based regression with continuous predictors rather than dichotomization-driven analysis choices.",
+  "relation_type": "applies"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in a dedicated reanalysis section, not as a passing background citation. Laghaie and Otter re-estimate the Sussman and O'Brien study with their Bayesian and latent-variable approach, report Bayes factors for simple versus measurement-error models, and use this comparison to show how mediation evidence can change. This empirical reanalysis is part of the core demonstration of the citing paper's methodological contribution. The citation therefore plays a meaningful role in framing and validating the paper's argument.",
+  "relation_description": "The citing paper refines the interpretation of Sussman and O'Brien (2016) by reanalyzing its mediation evidence with Bayes factors and latent-variable measurement modeling. It argues that the original mediation evidence is equivocal in a simple model and becomes substantially stronger for full mediation after accounting for measurement error and discretization.",
+  "relation_type": "refines"
+}

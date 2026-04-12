@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "The paper introduces a direct-signaling mechanism in which PMGs signal low prices because offering refunds is only profitable for low-priced firms, not because PMGs reveal cost or service differences.",
+    "It identifies the coexistence of informed and uninformed consumers and time-varying pre- versus postpurchase search costs as the key conditions that enable signaling under firm homogeneity.",
+    "It shows that the model reproduces prior heterogeneous-cost predictions while demonstrating that firm heterogeneity is not necessary for PMGs to signal low prices."
+  ],
+  "context": "The paper studies retail markets for a homogeneous product where stores may offer price-matching guarantees with a postpurchase grace period. Consumers differ in search costs and in whether they know which stores offer PMGs.",
+  "design_and_data": "The study is a theoretical game-theoretic consumer-search model with n firms that simultaneously choose price and PMG policy. Consumers are segmented into shoppers and nonshoppers, and nonshoppers differ by PMG-policy information and stochastic postpurchase search cost; equilibrium is characterized as a rational-expectations mixed-strategy equilibrium. The paper derives formal lemmas and propositions, provides an illustrative numerical example, and analyzes robustness and an extension with stochastic firm marginal costs (high-cost and low-cost types).",
+  "focal_constructs": [
+    "price-matching guarantees",
+    "direct signal of low prices",
+    "prepurchase and postpurchase search costs",
+    "informed versus uninformed nonshoppers",
+    "refund liability",
+    "mixed-strategy price dispersion"
+  ],
+  "main_findings": [
+    "When 0 < f < 1 and q is sufficiently large, equilibrium features a price threshold such that firms offer PMGs only at lower prices, so PMG stores charge lower prices even with homogeneous firms.",
+    "Both model ingredients are necessary for PMGs to signal low prices: if q = 0 or f = 1 all firms offer PMGs, and if f = 0 no firm offers PMGs.",
+    "With cost heterogeneity, low-cost firms offer PMGs more often and charge lower prices, and greater heterogeneity enlarges the parameter region where PMGs signal low prices."
+  ],
+  "one_line_summary": "The paper develops a search model showing that PMGs can credibly signal low prices among homogeneous retailers because only low-price firms find PMGs profitable when some consumers are PMG-informed and postpurchase search is likely.",
+  "relation_to_prior_work": "extends prior PMG signaling models by showing that PMGs can separate low-price firms without requiring large cost or service asymmetries. It contrasts with models in which all consumers are either informed or uninformed about PMG policies, where PMGs do not function as a low-price signal.",
+  "research_gap": "Prior PMG signaling literature generally requires sufficiently large firm heterogeneity for PMGs to indicate lower prices. The paper argues this is restrictive in settings where retailers sell the same product from the same producer and seeks a signaling mechanism that works under firm homogeneity.",
+  "research_question": "Can price-matching guarantees act as a credible signal of low prices when firms are otherwise homogeneous? If so, what consumer search and information conditions generate an equilibrium in which PMG stores actually charge lower prices?"
+}

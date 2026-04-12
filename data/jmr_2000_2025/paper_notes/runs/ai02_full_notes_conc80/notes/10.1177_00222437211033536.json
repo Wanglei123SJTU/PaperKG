@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper empirically shows that crowd screening is crucial for the offline success of crowdfunded projects in public education, not just for online funding outcomes.",
+    "It proposes and tests that crowdfunding effectiveness depends on project type, with stronger effects when requested resources are easier for donors to evaluate using external information.",
+    "It shows that empowerment of frontline employees by nonmanaging stakeholders (platforms and donors), combined with effective screening, can improve complex service outcomes, and reports that returns from fully approved projects exceed 35% of returns from per-student district-assigned budgets."
+  ],
+  "context": "The study is set in U.S. K-12 public education crowdfunding, focusing on projects posted on DonorsChoose and student outcomes in California public elementary schools. The analysis centers on grades 3-5 and the subjects of English and math during 2004-2013.",
+  "design_and_data": "The authors merge DonorsChoose project-level data with California Department of Education records on test scores and school, teacher, student, and district characteristics. The final panel includes 102,744 school-subject-grade-year observations from 5,767 elementary schools, aggregated to school-subject-aggregated-grade-academic-year and then focused on grades 3-5 cohorts. They estimate first-difference panel models with school, subject, and year fixed effects and controls for student ability (lagged cohort achievement), school and district resources, local income, school environment, and teachers' crowdfunding intent/essay quality. They also construct a topic-model-based measure of heterogeneity in needs and distinguish fully approved versus partially approved projects, plus project-type splits.",
+  "focal_constructs": [
+    "crowdfunded classroom resources",
+    "crowd (donor) screening",
+    "student academic achievement",
+    "heterogeneous intellectual needs",
+    "frontline employee empowerment",
+    "fully approved versus partially approved projects",
+    "project type (books and technology vs classroom supplies and experiential learning)"
+  ],
+  "main_findings": [
+    "Crowdfunded resources significantly improve student academic achievement; in the main model, one additional project is associated with about a 0.21-point increase in CST scores.",
+    "Achievement gains are larger when funded resources are likely to satisfy more heterogeneous intellectual needs, and only resources from fully approved projects have a significant positive effect, while partially approved projects do not.",
+    "Among fully approved projects, books and technology resources significantly improve achievement, whereas classroom supplies and experiential learning resources have nonsignificant average effects."
+  ],
+  "one_line_summary": "Using merged DonorsChoose and California education panel data, the paper finds that crowdfunding improves student achievement primarily when projects are fully crowd approved and especially when they fund books and technology.",
+  "relation_to_prior_work": "extends prior crowdfunding work by directly testing the offline role of crowd screening and identifying project-type contingencies, and extends services marketing research on empowerment by showing that empowerment from nonmanaging stakeholders can improve complex public service outcomes.",
+  "research_gap": "The paper argues that it is unclear whether classroom resources obtained via crowdfunding actually improve offline public education outcomes, and under what mechanisms and boundary conditions. It also notes that prior work has not explicitly established the necessity and effectiveness of crowd screening for offline success in this setting.",
+  "research_question": "Do crowdfunded classroom resources improve student academic achievement in public schools, after accounting for alternative explanations? If they do, is the effect explained by teachers targeting unmet heterogeneous student needs and by donors' screening/approval, and does effectiveness vary by project type?"
+}

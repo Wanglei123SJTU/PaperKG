@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Presents a methodology for modeling customer retention that accounts for the impact of customer acquisition even when data on nonacquired prospects are unavailable, by jointly addressing truncation and right-censoring.",
+    "Implements a Tobit model with selection estimated by maximum likelihood and expanded with a latent-segment structure to capture heterogeneity.",
+    "Shows the managerial and financial impact of ignoring acquisition-retention dependence by comparing duration and profitability predictions to a standard Tobit approach."
+  ],
+  "context": "The empirical setting is a membership-based aviation service organization whose customers are airplane pilots who renew annually. The organization offers products and services such as legal plans, a no-fee credit card, and membership premiums/rewards.",
+  "design_and_data": "The paper compares a standard right-censored Tobit retention model with a Tobit model with selection that links acquisition and retention through correlated errors, estimated by maximum likelihood under bivariate normality. Heterogeneity is modeled with a latent two-segment structure. Data come from 2300 randomly sampled pilot members, with covariates for years of using legal services, credit card, and premiums in the retention equation, and first-year usage plus pilot-certificate dummies in the acquisition/selection equation. Model comparison uses log-likelihood and AIC, plus a holdout sample of 292 pilots (with heavy right-censoring).",
+  "focal_constructs": [
+    "customer acquisition process",
+    "customer retention process",
+    "customer relationship duration",
+    "right-censoring",
+    "data truncation",
+    "selection bias",
+    "Tobit model with selection",
+    "customer profitability (NPV)"
+  ],
+  "main_findings": [
+    "A two-segment Tobit model with selection fit better than the two-segment standard Tobit model, based on AIC/log-likelihood and holdout prediction performance.",
+    "The estimated acquisition-retention error correlations were positive and significant in both segments (rho1 = .4604, rho2 = .8572), indicating acquisition and retention are not independent.",
+    "Ignoring acquisition effects can lead to misleading inferences about marketing tactic effects and materially different forecasts of relationship duration and customer NPV (including large percentage differences in the managerial example)."
+  ],
+  "one_line_summary": "The paper develops and tests a Tobit-with-selection approach that links customer acquisition to retention under truncation and censoring, and shows that standard retention-only models can bias lifetime and profitability estimates.",
+  "relation_to_prior_work": "extends prior customer management modeling by replacing independent acquisition-retention treatments and pseudo-observation corrections with a selection-based Tobit framework that jointly handles truncation and censoring when nonacquired prospect data are missing.",
+  "research_gap": "The paper argues that many firms analyze only acquired customers, effectively assuming acquisition does not influence retention, which can bias retention estimates. It also notes existing customer management approaches either do not jointly handle truncation and censoring with this dependence or rely on pseudo observations that may misrepresent truncated cases.",
+  "research_question": "How can firms estimate customer relationship duration and retention effects when databases contain only acquired customers and the acquisition process may influence retention? Does explicitly modeling acquisition-selection jointly with retention improve inference and forecasts versus a standard right-censored Tobit model that assumes independence?"
+}

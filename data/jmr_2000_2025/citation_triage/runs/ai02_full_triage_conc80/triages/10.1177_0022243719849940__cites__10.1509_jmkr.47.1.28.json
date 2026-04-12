@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s stated contribution and methods focus on quasi-experimental delivery-speed effects and online/offline channel spillovers, while the cited paper is a macro time-series model of aggregate customer satisfaction predicting discretionary spending growth. Nothing in the provided citing-note summary indicates use of aggregate-satisfaction theory, variables, or methods, and the only match evidence is a bare DOI reference, which is more consistent with a background mention than substantive dependence.",
+  "triage_decision": "drop_obvious_mention_only"
+}

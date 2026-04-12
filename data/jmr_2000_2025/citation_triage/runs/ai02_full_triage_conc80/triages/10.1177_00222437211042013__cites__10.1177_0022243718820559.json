@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper explicitly frames its contribution as moving from manual coding to scalable, automated content-feature extraction for media products, and the cited paper is a closely aligned prior work that introduces a scalable, theory-guided feature extraction method (guided LDA) for entertainment content and shows prediction gains. Given this strong methodological and topical overlap in feature construction for media-consumption prediction, this is plausibly more than an incidental background mention and should be examined in full.",
+  "triage_decision": "keep_for_relation_judgment"
+}

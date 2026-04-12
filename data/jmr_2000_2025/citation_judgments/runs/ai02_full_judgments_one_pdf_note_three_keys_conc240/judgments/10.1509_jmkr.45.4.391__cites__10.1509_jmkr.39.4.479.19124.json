@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in the model specification section to justify a specific methodological assumption: using a multivariate normal distribution for heterogeneity in the HB structure. The citing authors explicitly invoke Andrews et al. (2002), together with Ansari and Mela (2003), as evidence that multivariate normal can approximate different heterogeneity shapes. This is more than a passing background mention because it supports a concrete modeling choice, though the citing paper does not extend or challenge the cited paper's main discrete-vs-continuous comparison.",
+  "relation_description": "The citing paper applies a methodological takeaway from Andrews et al. (2002) to support its HB heterogeneity specification. Specifically, it uses the prior result about multivariate normal approximation of heterogeneity distributions to justify its own model setup.",
+  "relation_type": "applies"
+}

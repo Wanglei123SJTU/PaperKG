@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops and tests a framework in which low-fat nutrition claims increase intake through two mechanisms: larger inferred appropriate serving size and lower anticipated consumption guilt.",
+    "It provides evidence from one lab study and two natural field studies that low-fat labels can increase snack-food calorie intake, with stronger effects among overweight consumers.",
+    "It evaluates salient serving-size labeling as a practical intervention and derives policy-sensitive packaging and labeling implications."
+  ],
+  "context": "The paper studies U.S. snack-food consumption under obesity and food-label regulation concerns, focusing on products presented as regular versus low fat. The empirical settings are a university open house (M&M's), campus lab sessions (M&M's and granola), and a campus movie-theater session (granola).",
+  "design_and_data": "Study 1 is a natural field experiment at a university open house with 269 adult participants, where unusual-color M&M's were labeled either \"regular\" or \"low fat\"; the authors measured actual calories consumed and calorie estimates, and compared overweight versus normal-weight groups using BMI. Study 2 is a lab study with 74 adults who viewed labeled cups of M&M's and granola and reported perceived appropriate serving sizes, perceived calorie density, and anticipated guilt (without measuring intake). Study 3 is a field experiment with a 2 (regular vs low-fat label) x 3 (no serving-size label vs \"Contains 1 Serving\" vs \"Contains 2 Servings\") design in a campus theater; 210 were recruited and 179 analyzed, with measured granola intake, perceived servings, and calorie estimates by BMI group. The paper also includes post hoc marketplace surveys comparing regular and low-fat versions in 17 chocolate snack brands and 14 granola brands.",
+  "focal_constructs": [
+    "low-fat nutrition claims",
+    "single-occasion food intake",
+    "perceived appropriate serving size",
+    "anticipated consumption guilt",
+    "objective serving-size information",
+    "calorie underestimation bias",
+    "overweight versus normal-weight consumers",
+    "health halo inferences"
+  ],
+  "main_findings": [
+    "Low-fat labels increased snack intake: Study 1 showed 28.4% higher M&M's consumption with a low-fat label, and Study 3 (no serving-size label) showed 50.1% higher granola consumption.",
+    "Low-fat labels increased inferred appropriate serving size and lowered perceived calorie density, and they reduced anticipated guilt, with guilt effects differing by BMI and food type.",
+    "Salient serving-size information reduced low-fat-label overeating among normal-weight consumers (especially with a \"Contains 2 Servings\" cue) but did not eliminate the low-fat effect among overweight consumers; low-fat labels also increased calorie-underestimation bias."
+  ],
+  "one_line_summary": "Across one lab and two field studies, the paper finds that low-fat labels can increase snack intake by inflating serving-size inferences and reducing guilt, with overweight consumers showing stronger or more persistent overconsumption effects.",
+  "relation_to_prior_work": "extends prior nutrition-label research focused mainly on health beliefs and purchase intentions by testing actual single-occasion intake effects of relative nutrition claims and by examining serving-size inference and guilt as mechanisms.",
+  "research_gap": "Prior work had largely examined how nutrition labels affect beliefs and purchase intentions, but regulators needed evidence on whether relative claims such as low fat change actual single-occasion intake. The paper also addresses limited evidence on whether effects differ by body weight and whether serving-size information can correct any bias.",
+  "research_question": "How do relative nutrition claims such as \"low fat\" affect how much people consume during a single eating occasion? Do these effects differ between overweight and normal-weight consumers, and can objective serving-size information reduce or eliminate any overconsumption bias? The paper also asks whether serving-size inferences and anticipated guilt mediate these effects."
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper shows that consumers will complain when given an opportunity to provide open-ended feedback even when they themselves are responsible for product failure.",
+    "It provides experimental evidence that internally attributed product failure changes both complaint behavior and downstream evaluations, with complaining becoming detrimental rather than beneficial.",
+    "It identifies self-threat as the motivating mechanism and validates this by manipulating threat intensity and by mitigating effects through self-affirmation."
+  ],
+  "context": "The studies examine consumer reactions to product failures when companies invite feedback, using settings such as assembling a food processor, using graphic design software, and an online printer-failure scenario. The paper is motivated by the growth of technology-enabled complaint channels and encouraged firm-consumer dialogue.",
+  "design_and_data": "The paper reports three between-subjects experiments. Study 1 (n = 62 undergraduates; final analyzed n = 60) used a 2 x 2 design (complain vs no complain, consumer fault vs product fault) in a hands-on food processor failure task, with product/brand evaluations, purchase intention, and coded complaint content. Study 2a (n = 89 business undergraduates) used a 2 x 2 design (high vs low skill threat, complain vs no complain) in a graphic design software failure task with internal blame; it included optional complaining, product/brand evaluations, and webcam-coded nonverbal threat. Study 2b (n = 82 online participants) used a 2 x 2 design (self-affirmation vs no affirmation, complain vs no complain) in an internal-blame printer scenario, with state self-esteem check, product/brand evaluations, and coded complaint content.",
+  "focal_constructs": [
+    "consumer complaining behavior",
+    "internal attributions of blame",
+    "external attributions of blame",
+    "self-threat",
+    "self-affirmation",
+    "defensive processing in complaints",
+    "product attitude",
+    "brand attitude"
+  ],
+  "main_findings": [
+    "When failure was attributed to the product, complaining improved product and brand evaluations, but when failure was attributed to the consumer, complaining lowered product and brand evaluations relative to no-complain conditions.",
+    "Under internal blame, complaint content showed defensive processing: participants mentioned themselves less, blamed themselves less, and shifted blame to external sources.",
+    "Higher threat intensified the negative complain effect under internal blame, while self-affirmation mitigated it; affirmed participants evaluated the product more favorably after complaining and provided more constructive suggestions."
+  ],
+  "one_line_summary": "Across three experiments, the paper finds that complaint opportunities can backfire under self-attributed product failure because self-threat drives defensive blaming and worse downstream evaluations, and that affirmation can reduce this pattern.",
+  "relation_to_prior_work": "challenges prior complaining findings that emphasize cathartic, evaluation-improving effects of complaining in externally attributed failures by showing the opposite pattern under internal blame, and introduces self-threat as the mechanism in this context.",
+  "research_gap": "Prior work on complaining behavior mainly examined failures blamed on the firm or product and left internally attributed failure largely untested experimentally. The authors argue that this omission is problematic as firms increasingly solicit complaints and consumers now complain more broadly across contexts.",
+  "research_question": "How does blaming oneself for product failure affect whether and how consumers complain when firms offer feedback opportunities, and what are the consequences for later product and brand evaluations? Does self-threat causally drive these effects, and can they be altered by changing threat intensity or by self-affirmation?"
+}

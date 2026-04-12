@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper explicitly uses a \"Bayesian multilevel path and mediation analysis,\" while the cited paper’s core contribution is a Bayesian mediation framework with MCMC and endogeneity correction, making it a plausible methodological source rather than a casual mention. Both papers are also in advertising effectiveness/attention mechanisms, increasing the chance of substantive use. Even though the matched evidence is only a DOI reference, this overlap is strong enough to warrant full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

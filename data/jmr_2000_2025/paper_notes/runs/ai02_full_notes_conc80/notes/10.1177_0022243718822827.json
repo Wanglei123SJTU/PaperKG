@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides one of the first marketing investigations of the uncanny valley by empirically testing how customers respond to humanoid service robots versus human employees.",
+    "Identifies a process mechanism in which humanoid robots increase consumer discomfort, operationalized as eeriness and threat to human identity, which drives compensatory consumption.",
+    "Establishes boundary conditions and managerial levers by showing attenuation of adverse effects through higher social belongingness, healthier food positioning, and machinizing (rather than anthropomorphizing) the robot."
+  ],
+  "context": "The paper examines frontline marketplace encounters where humanoid service robots are being introduced, with studies set in medical, educational, and dining/restaurant contexts. The focal domain is customer service interactions in which a robot or human employee gives instructions or serves food-related options.",
+  "design_and_data": "The authors report seven controlled experiments using between-subject designs that compare humanoid service robot conditions with human employee conditions, using video or photo stimuli featuring four different humanoid robots. Samples include undergraduate participants and U.S. MTurk participants, and outcomes include consequential choices and actual behaviors (premium vs generic water purchase with own money, choice of group vs solo task, and actual cheese consumption) as well as intended menu calories/servings. Study 2 measures eeriness and human identity threat and tests serial mediation from provider type to compensatory food choice. Later studies test moderators (social belongingness prime, healthy vs regular food framing, and machinized vs anthropomorphized robot framing), and the paper includes a within-paper meta-analysis across food-related studies.",
+  "focal_constructs": [
+    "humanoid service robots",
+    "uncanny valley",
+    "consumer discomfort",
+    "eeriness",
+    "human identity threat",
+    "compensatory consumption",
+    "social belongingness",
+    "food healthfulness"
+  ],
+  "main_findings": [
+    "Compared with human employees, humanoid service robots increased compensatory responses, including greater status-product choice, greater preference for social affiliation, and greater food consumption or calorie selection.",
+    "A serial mediation was supported such that humanoid robots increased eeriness, which increased perceived threat to human identity, which in turn increased compensatory food choice.",
+    "The compensatory food effect was attenuated when social belongingness was high, when food was positioned as healthier, and when the robot was machinized; in the machinized condition, consumption did not differ from the human-provider condition."
+  ],
+  "one_line_summary": "Across seven experiments, humanoid service robot encounters increased compensatory consumer behavior via eeriness and human identity threat, and these effects were reduced by social belonging, healthy food framing, and robot machinization.",
+  "relation_to_prior_work": "extends prior marketing research on technology-enabled service by bringing the uncanny valley framework into customer-facing humanoid robot encounters rather than traditional self-service technologies. It also connects robotics evidence on discomfort from human-like agents with compensatory consumption theory in consumer behavior.",
+  "research_gap": "The paper argues that consumer reactions to humanoid versus human service providers in commercial settings had not been widely examined, and consumer-focused empirical tests of the uncanny valley in marketing contexts were scarce. It also notes limited knowledge about what concrete consumption behaviors humanoid robots would trigger.",
+  "research_question": "Do consumers respond differently when served by a humanoid service robot rather than a human employee, specifically by engaging in compensatory behaviors such as status consumption, social affiliation, and greater food intake? If so, are these effects driven by discomfort (eeriness and threat to human identity), and under what conditions are they mitigated?"
+}

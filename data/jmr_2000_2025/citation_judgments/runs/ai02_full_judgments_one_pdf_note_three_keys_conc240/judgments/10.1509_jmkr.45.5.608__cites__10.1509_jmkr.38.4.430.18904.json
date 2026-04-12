@@ -1,0 +1,6 @@
+{
+  "citation_substance": "mention_only",
+  "rationale": "The 2001 Sandor and Wedel paper is cited only in the conclusion as an example of integrating a design criterion over prior parameter uncertainty. The citing paper does not build its split questionnaire algorithm, estimation procedure, or empirical comparisons directly on that specific method. Its core methodology relies on KLD-based SQD construction and Fedorov search for survey splitting, so this citation functions as a brief forward-looking background pointer rather than a key intellectual dependency.",
+  "relation_description": null,
+  "relation_type": null
+}

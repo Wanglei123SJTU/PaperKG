@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "It identifies users' post histories as an overlooked but valuable data source for understanding and mitigating fake-news sharing beyond sociodemographics alone.",
+    "It characterizes fake-news sharers using broader comparison groups than is typical, including random users, matched users, fact-check sharers, and left- and right-leaning news sharers.",
+    "It introduces an in-survey Twitter account authentication approach to link verified accounts to survey responses while protecting participant privacy."
+  ],
+  "context": "The paper studies misinformation sharing on Twitter (now X), focusing on users who share fake news, fact-check links, and political news links. Fake-news sharers are identified using Snopes-verified false articles (2015-2017) and Hoaxy low-credibility domains (late 2018), with multiple comparison groups.",
+  "design_and_data": "Study 1 analyzes two observational Twitter datasets: a Snopes-based sample (fake-news sharers n=1,727; fact-check sharers n=671; random users n=1,820; matched users n=1,725) and a Hoaxy-based sample (fake-news n=235; fact-check n=313; right-leaning n=200; left-leaning n=284). For each user, the authors collected up to 3,200 historical tweets, excluded retweets and suspected bots, and extracted dictionary-based textual cues (LIWC plus emotion/arousal lexicons) and pretrained Big Five estimates (Magic Sauce). Study 2 trains logistic regression and BART models with nested feature sets and evaluates prediction out-of-sample and on an out-of-time/out-of-classification holdout. Study 3 is a survey experiment with self-reported Twitter users (n=398) manipulating situational anger while measuring trait anger, and Study 4 is a Qualtrics experiment with authenticated Twitter users (n=481) testing power-framed ad copy for a fact-check browser extension.",
+  "focal_constructs": [
+    "fake-news sharing",
+    "social media post histories",
+    "textual language cues",
+    "high-arousal negative emotions",
+    "trait anger and situational anger",
+    "power-related language",
+    "Big Five personality traits",
+    "fact-checking tool adoption"
+  ],
+  "main_findings": [
+    "Fake-news sharers' post histories differ from multiple comparison groups, including greater use of anger-related and power-related language and greater use of death- and religion-related words, while several emotional and personality patterns overlap with fact-check sharers.",
+    "Adding textual cues from post histories improves prediction of fake-news sharers beyond baseline sociodemographic and social-media variables in both logistic regression and BART models, including out-of-time/out-of-classification tests.",
+    "Trait anger is associated with greater sharing of both fake and true news, situational anger reduction showed no direct reduction in fake-news sharing in Study 3, and power-focused ad copy increased intentions to click and download a fact-check browser extension in Study 4."
+  ],
+  "one_line_summary": "Using Twitter users' historical post language, the paper shows improved identification of fake-news sharers and explores anger- and power-based intervention ideas for mitigation.",
+  "relation_to_prior_work": "extends prior misinformation research that relied heavily on surveys, headline-level tasks, or text attached to fake-news-sharing posts by analyzing users' full post histories and comparing fake-news sharers with richer groups in the misinformation ecosystem, while also introducing account-authenticated survey linkage.",
+  "research_gap": "Prior work often relies on surveys or text in fake-news-sharing posts, which can miss real behavior, suffer from participant misrepresentation, and provide limited text for individual-level inference. The paper argues that users' broader post histories and better-chosen comparison groups are underused for identifying distinctive cues and designing mitigation approaches.",
+  "research_question": "Can textual cues extracted from users' prior social media post histories distinguish and predict who is likely to share fake news beyond sociodemographics and platform activity? Which cues are distinctive when fake-news sharers are compared not only with random users but also with matched users, political news sharers, and fact-check sharers? Can these cues inform exploratory interventions to reduce misinformation sharing or increase fact-checking behaviors?"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper focuses on modeling temporal dependence between interpurchase time and order amount in direct marketing, while the cited paper is about Internet movie recommendation systems; the notes do not explicitly link the cited work to the citing paper’s core model extension. Because the only match evidence is a single DOI reference with no in-text context, but there is plausible methodological overlap (hierarchical Bayes, MCMC, heterogeneity), this cannot be safely dropped as an obvious mention-only citation.",
+  "triage_decision": "uncertain"
+}

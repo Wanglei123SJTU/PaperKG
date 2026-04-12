@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces a SKU choice model that uses all purchase data without SKU aggregation and has a parameter count that does not increase with the number of SKUs or attribute levels.",
+    "It shows that a two-segment version with 11 + 12 x (K + 1) parameters can model frequently bought categories, including very large ones, while outperforming benchmark models.",
+    "It incorporates behavioral regularities into scanner-data choice modeling and provides field evidence consistent with memory-based grocery shopping."
+  ],
+  "context": "The study is set in frequently bought consumer packaged goods categories in grocery retail, where categories can contain hundreds of SKUs and product availability changes over time. Empirical categories include food and nonfood products such as eggs, cola, detergent, cereal, ice cream, and fabric softener.",
+  "design_and_data": "The authors develop a dynamic utility model in which SKU utility combines attribute-level and product-level cumulative attractions, with familiarity-based consumption and shopping reinforcement and AR(1) error components. They estimate a two-segment latent-class autoregressive probit model by simulated maximum likelihood using a GHK simulator. Data come from two IRI scanner panel datasets totaling 133,492 purchase incidences across 16 categories; one covers 548 households over two years in one market and the other covers 594 households over about 2.5 years in Philadelphia for fabric softener, with weekly availability, price, display, and feature information. For evaluation, they use initialization/calibration/validation time splits and benchmark against Guadagni and Little (1983) and Fader and Hardie (1996), especially on seven smaller categories where benchmark estimation is feasible.",
+  "focal_constructs": [
+    "SKU choice",
+    "attribute-level cumulative attraction",
+    "product-level cumulative attraction",
+    "consumption experience",
+    "shopping experience",
+    "attribute familiarity",
+    "product familiarity",
+    "variety seeking"
+  ],
+  "main_findings": [
+    "Across seven small categories, the model fits about 7 percent better in-sample and predicts about 8 percent better out-of-sample in hit probability than leading benchmark models, while using roughly half as many parameters.",
+    "Likelihood-ratio tests strongly support all three behavioral premises: both attribute- and product-level reinforcement matter, both shopping and consumption experiences matter, and both are familiarity based.",
+    "Estimated shopping-experience effects are generally positive and stronger at the product level, implying memory-activation patterns in which consumers tend to return to familiar attribute levels and products."
+  ],
+  "one_line_summary": "The paper proposes and validates a dynamic, familiarity-based parsimonious model of SKU choice that scales to large categories and outperforms standard scanner-data benchmark models.",
+  "relation_to_prior_work": "extends Guadagni and Little (1983) and Fader and Hardie (1996) by replacing static utility components with dynamic attribute- and product-level reinforcement that includes familiarity-based shopping and consumption experience, while preserving comparability on standard marketing-mix terms.",
+  "research_gap": "Existing scanner-data choice approaches for large SKU categories either discard observations or aggregate products, which can introduce bias and prevent estimation of demand for all SKUs. Even attribute-based alternatives become hard to use when categories have many attribute levels, so a scalable and behaviorally grounded SKU-level model is needed.",
+  "research_question": "How can consumer SKU choice be modeled in large, frequently purchased categories without discarding data or aggregating products and while keeping the number of parameters manageable? The paper asks whether a dynamic utility model with familiarity-based attribute- and product-level shopping and consumption experiences can improve descriptive fit and out-of-sample prediction."
+}

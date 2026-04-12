@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "The paper develops what the authors describe as the first theory distinguishing two common real-world precommitment designs: simultaneous precommitment (now or later offered together) versus sequential precommitment (later offered only after declining now).",
+    "It identifies inferred urgency as a novel inference consumers draw from choice-set design and shows this mechanism helps explain when precommitment increases or fails to increase farsighted behavior adoption.",
+    "It provides a large field test of a widely used nudge and argues that small implementation differences in precommitment design can materially change outcomes when scaled."
+  ],
+  "context": "The focal real-world context is employee retirement saving decisions at four U.S. universities, where workers were mailed invitations to increase contributions to a targeted retirement plan. Additional evidence comes from online experiments about employee benefit enrollment and an optional financial well-being assessment.",
+  "design_and_data": "Study 1 is a multisite randomized field experiment with university employees (N = 5,196) comparing a No Precommitment mailing (save now) versus a Simultaneous Precommitment mailing (save now or after a 2-6 month delay), with outcomes measured from administrative contribution records. The field outcomes were immediate adoption, overall adoption, and average savings rate in the targeted plan over the study period. Study 2 is a preregistered lab experiment on Prolific (N = 2,682) with three conditions (no, simultaneous, sequential precommitment) in a hypothetical benefits-enrollment task, measuring inferred urgency and immediate/overall adoption counts. Study 3 is a preregistered incentive-compatible MTurk experiment (N = 2,398) using a real optional unpaid 10-minute financial assessment, with the same three conditions and measures of inferred urgency, perceived convenience, adoption timing, and completion behavior.",
+  "focal_constructs": [
+    "simultaneous precommitment",
+    "sequential precommitment",
+    "inferred urgency",
+    "immediate adoption",
+    "overall adoption",
+    "farsighted behaviors"
+  ],
+  "main_findings": [
+    "In the field experiment, simultaneous precommitment reduced immediate retirement-plan adoption relative to no precommitment (about 7.5% to 5.9%), did not significantly raise overall adoption, and lowered average targeted-plan savings rates over the study window.",
+    "Across preregistered lab studies, simultaneous precommitment decreased inferred urgency while sequential precommitment increased inferred urgency, relative to no precommitment.",
+    "Sequential precommitment increased overall adoption versus both no precommitment and simultaneous precommitment, and mediation analyses showed inferred urgency significantly explained these differences; in Study 3, simultaneous precommitment also increased overall adoption via perceived convenience despite a negative urgency pathway."
+  ],
+  "one_line_summary": "The paper shows that precommitment effectiveness depends on design: offering now and later simultaneously can signal low urgency and backfire on prompt action, while offering later only after rejecting now signals urgency and increases overall uptake of farsighted behaviors.",
+  "relation_to_prior_work": "extends prior precommitment research that mainly examined single-option timing choices by distinguishing how two practical offer structures that include both now and later options affect behavior. It introduces an inference-making account, inferred urgency, alongside established present-bias and resource-slack explanations for precommitment effects.",
+  "research_gap": "Prior work largely examined whether offering a delayed option versus an immediate option increases farsighted choices, but did not clearly distinguish the common practical designs where both options are offered together versus in sequence. The literature also had not identified how these designs may leak information about how urgently action is recommended.",
+  "research_question": "How do different precommitment offer designs - simultaneous versus sequential - change consumers' inferences about the urgency of a marketer's recommendation? Do these inferred-urgency differences explain variation in immediate and overall adoption of farsighted behaviors, relative to no precommitment offers?"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the citing paper, this reference is used for concrete modeling steps rather than only broad background. The author explicitly states that the fixed-and-specified budget optimization is solved by following Danaher and Van Heerde (2018), and also cites it when adopting ad-stock carryover construction in the empirical model. These are direct methodological uses that inform how the citing study is implemented. The paper does not primarily engage the cited paper's attribution critique, but it meaningfully applies its allocation-oriented setup.",
+  "relation_description": "The citing paper applies methodological elements from the cited paper, especially the fixed-budget constrained allocation formulation via a Lagrangian approach. It also reuses the cited paper's ad-stock style treatment of carryover in the empirical specification.",
+  "relation_type": "applies"
+}

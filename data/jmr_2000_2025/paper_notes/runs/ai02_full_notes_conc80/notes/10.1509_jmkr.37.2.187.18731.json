@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides direct marketing evidence on additive (+OF) versus subtractive (-OF) option framing by testing their effects on managerially relevant outcomes such as options chosen, total option spending, and price perceptions.",
+    "Identifies conditions that shape framing effects, including option price, product category price, regret anticipation, and especially product category commitment as a boundary condition.",
+    "Shows that option framing also affects consumer reactions to the decision task, including perceived value, difficulty, and enjoyment."
+  ],
+  "context": "The paper studies consumer configuration decisions in customizable product categories where buyers select product options. Experimental settings use automobiles, computers, and treadmills, with participants either adding options to a base model or deleting options from a fully loaded model.",
+  "design_and_data": "The authors run three between-subjects experiments with student samples. Study 1 (n = 126) uses a 2 (option framing: +OF vs -OF) x 2 (option price: half vs full) design in an automobile context. Study 2 (n = 302) uses a 2 (framing) x 2 (regret anticipation) x 3 (product category price: treadmill, computer, car) design. Study 3 (n = 101) uses a 2 (framing) x 2 (product category commitment: low vs high) design in automobiles and measures category purchase intentions in addition to option choices and related perceptions.",
+  "focal_constructs": [
+    "subtractive option framing (-OF)",
+    "additive option framing (+OF)",
+    "number of options chosen",
+    "total option price",
+    "reference price perceptions",
+    "regret anticipation",
+    "product category commitment",
+    "category purchase likelihood"
+  ],
+  "main_findings": [
+    "Across all three studies, subtractive framing (-OF) led consumers to choose more options and incur higher total option prices than additive framing (+OF).",
+    "Compared with +OF, -OF increased perceived brand price/reference price and perceived value, while also increasing decision difficulty and decision time and generally making the task more enjoyable.",
+    "Regret anticipation strengthened the -OF versus +OF difference in option choices, and when initial commitment to buying in the category was low, -OF reduced category purchase likelihood relative to +OF, whereas this effect disappeared when commitment was high."
+  ],
+  "one_line_summary": "Across three experiments, framing option decisions as deleting from a fully loaded model rather than adding to a base model increased option uptake and spending, but this managerial advantage reversed for category purchase likelihood when category commitment was low.",
+  "relation_to_prior_work": "extends prior decision-framing, loss-aversion, and choosing-versus-rejecting research by applying it directly to marketing product-option configuration and testing both managerial and consumer outcomes.",
+  "research_gap": "The paper states that prior work only indirectly suggested differences between additive and subtractive option framing, leaving little direct marketing evidence on whether subtractive framing is more managerially attractive. It also highlights limited knowledge about moderators of this effect and about consumer reactions to the two framing methods.",
+  "research_question": "How does framing option selection as adding desired options (+OF) versus deleting undesired options (-OF) change consumer option choices and related managerial outcomes? The paper also asks when these effects are strengthened or constrained by option prices, product category prices, regret anticipation, and product category commitment, and how framing affects reference price perceptions and consumer task reactions."
+}

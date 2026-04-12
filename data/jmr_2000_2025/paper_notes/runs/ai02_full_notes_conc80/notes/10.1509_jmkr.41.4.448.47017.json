@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper's main methodological contribution is a two-component decomposition of within- and between-category price effects into item-level variation and store-level variation, enabling estimation of many SKU-specific cross-category effects.",
+    "It introduces a flexible Bayesian estimation framework using Dirichlet process priors for heterogeneity in price effects and item constants, with separate random effects for within- versus between-category store heterogeneity.",
+    "It demonstrates that the model can provide cross-category competitive diagnostics, including national-brand versus private-label asymmetries, and can support finer-grained pricing-zone decisions."
+  ],
+  "context": "The empirical setting is Dominick's Finer Foods stores in the greater Chicago area and three orange juice subcategories: refrigerated (ROJ), frozen (FOJ), and shelf-stable (SOJ). The substantive focus is cross-subcategory pricing competition between national brands and the retailer's private label.",
+  "design_and_data": "The authors build a log-log store-week sales system in which item sales depend on own and cross prices within and across categories, deal indicators, smooth time trends, overall price level, and correlated errors. Price effects are decomposed into item-level effects drawn from category-level distributions and store-level random effects that separately capture within- and between-category heterogeneity; heterogeneity in price effects and item constants is modeled with Dirichlet process priors. Parameters are estimated jointly with MCMC (25,000 draws, 15,000 burn-in, thinning 1 in 5). Data are weekly scanner records for 82 stores over 104 weeks (1991-1992), covering 8 ROJ items, 8 FOJ items, and 4 SOJ items, with 52 weeks for estimation and 52 weeks for holdout validation.",
+  "focal_constructs": [
+    "within-subcategory own-price elasticity",
+    "between-subcategory cross-price elasticity",
+    "SKU-level price effects",
+    "store-level heterogeneity",
+    "national-brand versus private-label competition",
+    "Dirichlet process prior",
+    "pricing zones"
+  ],
+  "main_findings": [
+    "ROJ and FOJ are similarly price elastic at the subcategory level (own elasticities about -3.22 and -3.17; cross elasticities about 0.40 and 0.39), whereas SOJ is less price sensitive and shows weaker within-subcategory substitution (own about -2.21; cross about 0.07).",
+    "Cross-subcategory effects are positive on average but smaller than within-subcategory effects; at the median price cut, about 23% of incremental unit sales is attributed to switching within the subcategory and about 8% to switching from other subcategories.",
+    "Price competition between national brands and private labels is asymmetric both within and across subcategories: national-brand price changes have substantially larger effects on private-label sales than the reverse."
+  ],
+  "one_line_summary": "The paper develops a hierarchical Bayesian store-level demand model that estimates SKU-specific within- and across-subcategory price effects and shows asymmetric national-brand versus private-label competition across orange juice subcategories.",
+  "relation_to_prior_work": "extends prior cross-category studies that often constrained cross-effects to be common or proportional by estimating SKU-level within- and between-category price effects with flexible nonparametric heterogeneity across stores.",
+  "research_gap": "Previous cross-category analyses typically limited brands or imposed common/proportional own- and cross-price effects because the number of parameters is large, making item-level cross-category effects hard to estimate. This left retailers without direct estimates of how prices of specific brands in one category affect sales of specific brands in related categories.",
+  "research_question": "How can within- and between-category price effects be estimated for each item (potentially at SKU level) from store-level sales data when the parameter space is very large? In the orange juice application, how strong are within- and cross-subcategory competitive effects between national brands and private labels?"
+}

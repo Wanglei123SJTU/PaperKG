@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in the core empirical identification strategy, not just in background discussion. In the model-estimation section, the authors explicitly state they use a control function approach and cite Petrin and Train (2010) as the methodological source. They then implement that approach via a first-stage equation and inclusion of residuals to handle endogeneity, which is central to their main-effect estimates.",
+  "relation_description": "The citing paper applies Petrin and Train's control-function endogeneity correction in its own panel network model. It transfers that estimation idea to a different empirical context (marketing department power and board interlocks) to identify the effect of interlocked firms' MDP.",
+  "relation_type": "applies"
+}

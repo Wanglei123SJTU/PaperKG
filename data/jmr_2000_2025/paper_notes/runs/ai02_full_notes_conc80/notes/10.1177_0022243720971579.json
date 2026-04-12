@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper provides causal evidence from a natural experiment that a locally popular but nationally nonstandard curriculum shift can reduce standardized performance.",
+    "It is presented as the first study to quantify how internet penetration interacts with curriculum quality changes in education outcomes.",
+    "It highlights parental education and online information-seeking as key moderators/mechanisms linking curriculum policy to test performance."
+  ],
+  "context": "The study is set in U.S. public high schools around Louisiana's 2008 Science Education Act, which permitted teachers to use supplemental materials when teaching evolution and was widely interpreted as enabling creationist content. Louisiana schools are compared with schools in neighboring Texas, where no analogous policy passed.",
+  "design_and_data": "The authors compile school-level ACT scores (science, math, English, reading) from Louisiana and Texas state education boards for 2003-2013. The main identification uses a difference-in-differences design with Louisiana as treated and Texas as control, including school and year fixed effects, with outcomes often modeled as year-to-year science gain scores. Heterogeneity is analyzed using prepolicy district characteristics: internet penetration from FCC Form 477 ISP counts in 2007 and adult education from the American Community Survey, plus district finance controls from Census data. Mechanism evidence comes from Google Trends keyword searches (state and city level) and an online survey of self-identified creationists and evolutionists about search-term choices.",
+  "focal_constructs": [
+    "curriculum quality",
+    "local preferences versus national standards",
+    "Louisiana Science Education Act",
+    "ACT science test scores",
+    "internet penetration",
+    "parental education",
+    "creationism-related online search behavior"
+  ],
+  "main_findings": [
+    "After the law, Louisiana schools' ACT science performance declined relative to Texas, with no comparable decline in math, English, or reading placebo outcomes.",
+    "The negative effect is concentrated in low-education areas with high internet penetration, where estimates imply roughly a one-third standard deviation drop in science score gains.",
+    "Post-law, Louisiana showed increased creationism-related Google searching relative to Texas (especially in low-education cities), and survey evidence indicates creationists disproportionately choose creationist search terms."
+  ],
+  "one_line_summary": "Using the 2008 Louisiana Science Education Act as a natural experiment, the paper shows that allowing creationist-friendly supplemental science instruction reduced Louisiana students' ACT science performance relative to Texas, especially in low-education, high-internet areas.",
+  "relation_to_prior_work": "extends prior curriculum-change research by identifying causal effects on contemporaneous high school ACT science outcomes in a setting with explicit tension between local preferences and national standards. It introduces internet penetration and parental education as moderators, and connects curriculum effects to online search behavior, whereas much prior work relied on survey outcomes or correlational textbook comparisons.",
+  "research_gap": "Prior work offers limited causal evidence that curriculum changes affect standardized test performance, and existing textbook studies are largely correlational or not in settings where local preferences conflict with national standards. Evidence is also sparse on how internet access and parental education moderate curriculum-change effects.",
+  "research_question": "Does a curriculum change that caters to local beliefs but conflicts with national scientific standards affect standardized student performance? Specifically, the paper asks whether the 2008 Louisiana Science Education Act lowered ACT science scores in Louisiana relative to Texas, and whether effects vary with parental education and internet penetration."
+}

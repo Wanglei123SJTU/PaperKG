@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper integrates resource possession and resource deployment in one model and examines whether firm resources moderate the deployment-performance link, rather than only having direct effects on performance.",
+    "It argues and tests that resource type matters for returns to market deployment, distinguishing intangible marketing resources, intangible technological resources, and financial resources.",
+    "It brings organization-level resource conditions into marketing-mix style response modeling to explain why similar marketing actions can yield different returns across firms."
+  ],
+  "context": "The empirical setting is the U.S. consumer packaged-goods industry, using brand activity in grocery channels across nine categories (e.g., bacon, coffee, yogurt) and six metropolitan markets. The analysis is at the brand level, with firm-level resources allocated to brands.",
+  "design_and_data": "The authors combine weekly scanner data (1997-1998) for 168 brands across two chains in each of six markets (total N = 69,835) with annual firm resource data from Compustat, Corporate Affiliations Plus, and U.S. patent databases. Market deployment is measured as distribution points and coupon intensity; performance is baseline sales volume. They estimate a three-stage sequential hierarchical regression: first regress deployment on resources to isolate residual deployment, then estimate brand-level sales response to residual deployment with controls, and finally regress deployment-response parameters on resource levels (with log form for diminishing returns).",
+  "focal_constructs": [
+    "market deployment",
+    "returns to market deployment",
+    "intangible marketing resources",
+    "intangible technological resources",
+    "financial resources",
+    "distribution action",
+    "coupon activity",
+    "baseline sales performance"
+  ],
+  "main_findings": [
+    "Distribution and coupon deployment both show positive sales effects in the brand-level response models.",
+    "Higher intangible marketing resources increase returns to both distribution and coupon deployment, with diminishing marginal returns.",
+    "Higher intangible technological resources increase returns to distribution deployment (but not significantly to coupon deployment), while higher financial resources reduce returns to both distribution and coupon deployment, with diminishing marginal effects."
+  ],
+  "one_line_summary": "Using packaged-goods scanner and firm data, the study shows that firm resource type and level systematically moderate the sales returns to distribution and coupon deployment actions.",
+  "relation_to_prior_work": "extends resource-based and marketing-mix research by demonstrating that firm resources are not only direct antecedents of performance but also moderators of the deployment-performance relationship, and that these moderating effects differ by resource type.",
+  "research_gap": "Prior research on competitive advantage largely treats resource possession and marketing actions in separate streams, and marketing-mix models often assume similar marginal returns across firms or remove firm effects. The paper addresses the unresolved question of whether returns to market deployment vary with firms' accumulated resource type and level.",
+  "research_question": "Do firm resource levels and types change how effective market deployment actions are in producing performance? Specifically, the paper asks whether intangible marketing resources, intangible technological resources, and financial resources moderate returns to distribution and coupon deployment."
+}

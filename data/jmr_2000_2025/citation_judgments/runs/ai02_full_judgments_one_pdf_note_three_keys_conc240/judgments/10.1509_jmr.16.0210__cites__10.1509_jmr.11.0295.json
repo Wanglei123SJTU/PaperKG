@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "Luo and Kumar (2013) is cited not only in a grouped HMM literature list but also directly to support a core premise of the paper: marketing contacts can influence future profitability by shifting latent customer-firm relationship states. The citing paper then positions its contribution against that prior stream in Table 1, highlighting added elements such as jointly modeling email opens and purchases and providing an email-contact DSS. This is a meaningful framing and line-of-work linkage, not a purely passing reference.",
+  "relation_description": "The citing paper builds on Luo and Kumar (2013)'s relationship-state dynamics view of marketing effects and extends it to permission-based email marketing. It adds a joint HMM-copula treatment of email-open and purchase behavior and uses the estimated dynamics for optimal email contact decisions.",
+  "relation_type": "extends"
+}

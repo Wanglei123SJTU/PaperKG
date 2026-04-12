@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper provides a first empirical evaluation of Korea's first nationally approved digital textbooks using rich panel data from a government pilot program.",
+    "It addresses three stated gaps by examining service digitization in public education, testing heterogeneity across student achievement levels, and using actual utilization intensity rather than adoption status.",
+    "It applies multiple identification strategies - teacher fixed effects, propensity score weighting, and an instrumental variable approach - to estimate utilization effects on several academic outcomes."
+  ],
+  "context": "The study is set in Korea's Ministry of Education digital textbook pilot, where government-authorized digital textbooks for elementary social studies and science were introduced starting in 2014. Students in pilot schools had both printed and digital textbooks, and in-class digital use varied across classrooms.",
+  "design_and_data": "The authors use 2014-2016 panel data from Korea's digital textbook experiment in elementary schools. From 81 pilot schools, 35 were randomly cluster-sampled, and students were randomly sampled into a panel (771 students; 1,927 observations), with data on exam grades, survey-based academic interest and learning skills, and student, teacher, and school covariates. The key independent variable is in-class digital textbook utilization (measured on a 5-point scale and also as high vs low utilization). Estimation uses panel regressions with teacher fixed effects, inverse-probability-of-treatment weighting, and an IV strategy that instruments student-reported utilization with teacher-reported weekly utilization.",
+  "focal_constructs": [
+    "digital textbook utilization intensity",
+    "academic performance",
+    "academic interest",
+    "learning skills",
+    "student achievement heterogeneity",
+    "interactive and collaborative learning environment",
+    "service digitization in education"
+  ],
+  "main_findings": [
+    "Greater in-class digital textbook utilization improves students' social studies and science academic performance.",
+    "Higher utilization also increases students' academic interest and improves learning skills across academic, cognitive, affective, social, and psychomotor domains.",
+    "Academic performance gains are larger for initially low-achieving students, and students report that digital textbooks make learning easier and more fun while increasing interactions with teachers and peers."
+  ],
+  "one_line_summary": "Using panel data from Korea's digital textbook pilot schools, the study finds that higher in-class digital textbook utilization improves students' grades, academic interest, and learning skills, with larger grade gains for initially low-achieving students.",
+  "relation_to_prior_work": "extends prior service-digitization and education-technology research by shifting from retail/private-sector and adoption/access emphases to observed in-class utilization intensity in public K-12 education, and by testing heterogeneous effects across initial student achievement levels.",
+  "research_gap": "Prior digitization evidence is concentrated in retail and other private-sector contexts and shows mixed effects, so it is unclear whether digitization improves outcomes in education. The paper also argues that prior work underexamines heterogeneity across student groups and often measures adoption rather than actual utilization intensity, with limited empirical evidence on digital textbooks.",
+  "research_question": "The study asks whether greater in-class use of digital textbooks, relative to printed textbooks, improves elementary students' academic performance, academic interest, and learning skills in social studies and science. It also examines whether these effects differ by students' initial achievement levels and explores learning-experience mechanisms."
+}

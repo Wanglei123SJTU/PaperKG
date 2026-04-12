@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper explicitly uses Irwin and McClelland (2003) to support a key setup claim: median splits/dichotomization are problematic (power loss and potential distortions), so they are not an acceptable way to probe interactions. That premise motivates the paper's central methodological recommendations to use moderated regression with spotlight/floodlight analyses instead of splitting continuous moderators. Even though the citation appears in a grouped set of references, it plays a meaningful framing role rather than a purely incidental mention.",
+  "relation_description": "Spiller et al. draw on Irwin and McClelland (2003) as prior methodological evidence that dichotomizing continuous predictors is harmful. This prior result helps justify their proposed interaction-probing approach that keeps variables continuous and avoids median-split follow-up tests.",
+  "relation_type": "foundational_for"
+}

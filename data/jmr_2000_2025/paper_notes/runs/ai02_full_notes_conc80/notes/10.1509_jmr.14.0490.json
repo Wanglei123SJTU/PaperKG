@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "The paper highlights an unexplored between-channel difference in grocery shopping: online symbolic versus offline physical product presentation changes vice purchasing.",
+    "It demonstrates the phenomenon in actual retailer transactions and controlled experiments that rule out alternative explanations such as differential product exposure, payment mode, and order lead time.",
+    "It provides process evidence that symbolic presentation lowers product vividness and immediate-gratification seeking, which helps explain lower vice purchasing online."
+  ],
+  "context": "The paper examines food choices in grocery shopping across online and brick-and-mortar channels in a Western European context. Evidence comes from one large European retailer's loyalty-card transactions and laboratory shopping tasks with university students.",
+  "design_and_data": "Study 1 uses loyalty-card data from a large European retailer for January-April 2013, focusing on 32,363 shopping trips by 4,313 mixed-channel customers, and estimates multilevel models of the vice-spending share. Study 2 is a lab experiment (n = 141) with online, offline, and online-no-categorization shopping conditions using 107 food products; vice indices are based on independent vice ratings. Study 3 is a 2 x 2 lab experiment (n = 165) crossing shopping channel and product presentation mode (symbolic vs physical), including atypical conditions to hold presentation mode constant across channels and controlling payment method. Study 4 is a real-choice lab study (n = 125) with online versus offline snack selection, measuring vividness and instant gratification and testing serial mediation with bootstrap confidence intervals.",
+  "focal_constructs": [
+    "online versus offline shopping channel",
+    "vice purchases",
+    "symbolic versus physical product presentation",
+    "product vividness",
+    "instant gratification seeking",
+    "sensory distance"
+  ],
+  "main_findings": [
+    "In retailer transaction data, shoppers allocated a lower share of spending to vice categories online than offline, and this pattern held across spending cutoffs and across each vice category examined.",
+    "In laboratory basket-building tasks, online shopping produced lower vice indices than offline shopping, and this was not explained by differential product exposure in online category navigation.",
+    "When presentation mode was manipulated directly, symbolic presentation reduced vice purchases regardless of channel, and Study 4 supported a serial pathway in which online symbolic presentation lowered vividness and immediate-gratification seeking, reducing vice choice."
+  ],
+  "one_line_summary": "Using retailer loyalty-card data and three laboratory studies, the paper shows that online grocery shopping lowers relative vice purchases because symbolic product presentation reduces vividness and immediate-gratification seeking compared with physical in-store presentation.",
+  "relation_to_prior_work": "extends prior work on vice choice and sensory distance by moving from mostly forced binary decisions and full-sensory comparisons to realistic grocery basket decisions across channels. It also extends online-offline shopping research beyond outcomes like loyalty and price sensitivity by identifying product presentation mode as a key channel mechanism affecting unhealthy purchase behavior.",
+  "research_gap": "The paper argues that prior research has not directly tested whether shopping channel differences change the vice share of grocery baskets. It also notes that earlier evidence is largely based on binary vice-versus-virtue tasks and stronger sensory contrasts, leaving uncertainty about real-world grocery shopping and pictorial versus packaged physical presentations.",
+  "research_question": "Do consumers purchase a smaller proportion of vice foods when they shop for groceries online versus in brick-and-mortar stores? If so, is the difference driven by symbolic versus physical product presentation, and does it occur because lower vividness reduces immediate-gratification seeking?"
+}

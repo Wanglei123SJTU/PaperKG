@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "Provides a controlled test of whether people carry out contingent betting plans versus revise them in sequential fair gambles, even when gamble information is fully known and planned bets are reminded immediately before action.",
+    "Documents an asymmetric deviation pattern: after actual losses, participants overbet relative to plan, whereas after gains they do not systematically deviate on average.",
+    "Shows that affective forecasting errors for losses help explain overbetting, and that inserting a pleasant intervening experience can mitigate these positive deviations from plan."
+  ],
+  "context": "The paper is motivated by casino gambling overspending and similar sequential gambling contexts (including implications for lotteries). Empirically, it studies computer-based sequential gambles where participants bet portions of their own participation fee.",
+  "design_and_data": "Three laboratory experiments were run with students at a West Coast university (N=105, N=104, N=103). Participants planned contingent bets and then made actual bets in sequences of fair gambles (50% chance to win double the bet, 50% chance to lose, EV=0), with an unexpected chance to revise plans during play and reminders of planned bets before actual decisions. Experiments 1 and 2 tested plan-actual deviations after gains versus losses (three-gamble then two-gamble setups), and Experiment 2 additionally measured predicted versus experienced post-outcome feelings. Experiment 3 fixed a loss in Gamble 1 and manipulated a between-gamble delay with negative, neutral, or positive video clips to test the causal role of affect before Gamble 2.",
+  "focal_constructs": [
+    "planned versus actual betting",
+    "sequential fair gambles",
+    "deviations from betting plans",
+    "loss versus gain outcomes",
+    "negative emotions",
+    "affective forecasting"
+  ],
+  "main_findings": [
+    "In the planning phase, participants were conservative: they planned lower subsequent bets after anticipated losses and roughly similar bets after anticipated gains.",
+    "In the actual phase, participants bet significantly more than planned after actual losses, while after actual gains there was no average plan-actual difference; among deviators, positive deviations dominated after losses.",
+    "Participants underestimated how bad they would feel after losses, and this underestimation was associated with positive deviations; experimentally inducing positive affect between gambles reduced or eliminated overbetting after losses."
+  ],
+  "one_line_summary": "Across three lab experiments, people planned conservatively in sequential fair gambles but overbet after actual losses, a pattern linked to underestimated negative emotion and reduced by a pleasant intervening experience.",
+  "relation_to_prior_work": "challenges gambler's-fallacy and reference-point accounts that imply reversed deviations by showing no systematic underbetting after gains and by showing that anticipated outcomes already affect planned bets. extends affective forecasting and hot-cold empathy gap ideas to gambling by linking underestimated post-loss emotion to subsequent overbetting and showing affect repair reduces it.",
+  "research_gap": "Prior explanations for overspending in gambling could be attributed to incomplete information or learning during play, and prior theory also predicted reversed deviations from plans. The paper addresses whether deviations persist under full information with minimal delay and immediate plan reminders, and what mechanism explains their direction.",
+  "research_question": "Do consumers deviate from preplanned bets in sequential fair gambles even when gamble characteristics are fully known, plans are formed immediately before play, and planned bets are explicitly reminded before action? If deviations occur, are they asymmetric across prior losses versus gains, and can underestimated negative emotions explain and potentially reduce those deviations?"
+}

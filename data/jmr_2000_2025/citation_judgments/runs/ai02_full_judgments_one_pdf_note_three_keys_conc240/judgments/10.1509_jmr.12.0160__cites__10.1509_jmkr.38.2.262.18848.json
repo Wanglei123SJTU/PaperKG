@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "Thomas (2001) is cited in the methods section not just as background, but as the precedent for explicitly modeling selection when analyzing acquisition-mode effects. The authors implement a joint selection approach with correlated errors/intercepts to correct for unobserved selection, and they explicitly tie this step to Thomas (2001). Because this correction is part of their core empirical identification strategy (alongside matching), the citation has a clear functional role.",
+  "relation_description": "The citing paper applies Thomas (2001)'s selection-modeling logic to its own free-trial versus regular-customer setting. It uses that approach as a methodological basis for jointly modeling acquisition selection with subsequent retention and usage outcomes.",
+  "relation_type": "applies"
+}

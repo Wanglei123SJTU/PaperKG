@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper argues and documents that the attraction effect is a manifestation of trade-off aversion by showing different emotional activation across two-option trade-off versus decoy-enriched choice sets.",
+    "It applies fMRI to consumer choice to measure concurrent cerebral activation as evidence on the underlying mechanism, rather than relying only on retrospective self-reports.",
+    "It highlights substantive implications that decoys can reduce negative emotion in decisions, with relevance for managerial use and public-policy oversight."
+  ],
+  "context": "The studies use consumer-style multiattribute trade-off choices (for example, housing, cars, hotels, investments, health plans, and other marketplace scenarios) where options are described on two attributes such as price and quality. Participants were recruited from a major U.S. university and surrounding metropolitan community and completed lab and scanner-based choice tasks.",
+  "design_and_data": "The authors ran two studies with customized stimuli based on each participant's indifference points between two focal options. A pilot behavioral study (n = 48 undergraduates) used repeated two-option and three-option (asymmetric-decoy or inferior-decoy) choice tasks and analyzed choice shares with mixed logit. The main neuroimaging study recruited 18 right-handed participants, analyzed 16 after exclusions, and had each participant complete 72 customized choice trials (24 no-decoy, 24 asymmetric-decoy, 24 inferior-decoy) during fMRI scanning. They compared BOLD activation for decoy versus no-decoy conditions in theory-driven regions including amygdala, MPFC, DLPFC, ACC, and parietal cortex.",
+  "focal_constructs": [
+    "attraction effect",
+    "decoy alternatives",
+    "trade-off aversion",
+    "negative emotion",
+    "heuristic or rule-based choice",
+    "self-referential preference evaluation",
+    "response conflict",
+    "cerebral activation (amygdala, MPFC, DLPFC, ACC)"
+  ],
+  "main_findings": [
+    "Both studies show an attraction effect: adding a decoy increased the target's choice share, with stronger effects for asymmetric than inferior decoys.",
+    "Relative to two-option trade-off sets, decoy-enriched sets showed lower activation in the amygdala and MPFC and higher activation in DLPFC and ACC, plus lower activation in the right inferior parietal lobule.",
+    "There was no significant activation difference between asymmetric and inferior decoy conditions, and participants who chose targets more often showed the same neural pattern consistent with greater heuristic processing and lower negative emotion."
+  ],
+  "one_line_summary": "Using behavioral data and fMRI, the paper finds that decoys increase target choice partly because they reduce the negative emotion of difficult trade-offs and shift processing toward rule-based choice.",
+  "relation_to_prior_work": "extends prior attraction-effect research by testing an emotional mechanism, trade-off aversion, alongside established cognitive explanations. It introduces concurrent neural evidence to complement earlier behavioral and retrospective emotion-based studies.",
+  "research_gap": "Prior explanations of the attraction effect were largely cognitive (for example, attribute weighting, value shifts, justification), and evidence about emotion in trade-off choice was mostly indirect or retrospective. The paper targets the unresolved question of whether online negative emotion during trade-offs is reduced by decoys and thus helps produce the attraction effect.",
+  "research_question": "Does trade-off aversion, expressed as negative emotion during two-option trade-off choices, explain why adding a normatively irrelevant decoy increases preference for a target option? Do decoy-enriched choice sets produce neural activation patterns consistent with reduced negative emotion and greater heuristic/rule-based processing relative to pure trade-off sets?"
+}

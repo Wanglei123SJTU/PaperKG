@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Examines standards competition from the consumer perspective, which the authors describe as relatively neglected in prior standards-battle research.",
+    "Shows that standards competition changes what information consumers value in adoption decisions, increasing reliance on relative performance information and reducing reliance on absolute performance information.",
+    "Demonstrates that standards competition moderates advertising-format effectiveness, making comparative formats more effective than noncomparative formats and highlighting the role of brand familiarity."
+  ],
+  "context": "The paper focuses on early-stage technology markets with network effects and incompatible standards, where adoption outcomes depend on which standard wins. Empirically, all studies use a simulated videophone market with two competing brands under compatibility versus incompatibility conditions.",
+  "design_and_data": "The authors run three computer-based between-subjects experiments using undergraduate participants and videophone choice scenarios. Study 1 (N = 181) uses a 2 x 2 x 2 design manipulating standards war presence, focal-brand absolute rating, and focal-brand relative rating, with adoption versus deferral as key outcomes. Study 2 (N = 95) uses a 2 x 3 design manipulating standards war presence and ad format (direct comparative, indirect comparative, noncomparative), measuring brand choice, perceived performance, confidence, attitude toward the ad, and similarity judgments. Study 3 (N = 95) uses a 2 x 3 design with standards competition present, manipulating relative brand familiarity (advertised vs comparison brand) and ad format, and tests mediation using multiple mediator analysis.",
+  "focal_constructs": [
+    "standards competition",
+    "network effects",
+    "new product adoption",
+    "absolute performance information",
+    "relative performance information",
+    "comparative advertising format",
+    "confidence in advertised brand",
+    "brand familiarity"
+  ],
+  "main_findings": [
+    "In Study 1, product-category adoption was lower with standards competition (51%) than without it (80%), indicating that standards wars suppress adoption.",
+    "Standards competition strengthened the effect of relative performance information on adoption, while the predicted weakening for absolute performance information was directionally consistent but not statistically significant in the interaction test.",
+    "In Studies 2 and 3, comparative ads outperformed noncomparative ads under standards competition on choice and perceived performance, common comparative-ad drawbacks did not appear in that setting, and the comparative advantage was stronger when the advertised brand was less familiar, with confidence mediating this effect in Study 3."
+  ],
+  "one_line_summary": "Across three experiments, the paper shows that standards competition lowers adoption but increases the effectiveness of comparative information and comparative advertising, especially for less familiar advertised brands.",
+  "relation_to_prior_work": "extends prior standards-competition and network-effects research from social welfare and firm strategy toward consumer-level adoption and communication responses, and shows that established comparative-advertising disadvantages can reverse under standards-war uncertainty.",
+  "research_gap": "Prior work on standards competition largely emphasized societal and firm strategy issues, offering limited theory and evidence on how consumers behave in standards battles. The paper also identifies a lack of research on firm communication strategy effectiveness in these high-uncertainty markets.",
+  "research_question": "The paper asks whether standards competition changes consumers' likelihood of adopting new products and their weighting of relative versus absolute performance information. It also asks how standards competition alters responses to comparative versus noncomparative advertising formats and whether relative familiarity of advertised and comparison brands moderates ad-format effectiveness."
+}

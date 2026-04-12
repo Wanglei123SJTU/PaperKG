@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a decomposition framework for promotional revenue that separates loyalty program members and nonmembers and models revenue as buyer counts times average expenditures.",
+    "It introduces an additive, unit-based decomposition of the promotional revenue bump into six sources for member and nonmember groups, with effects moderated by communication mode and discount depth.",
+    "It incorporates nonbuyers into the system and estimates current and dynamic promotion effects in a multivariate hierarchical Bayesian model with autocorrelation and cross-equation error correlation."
+  ],
+  "context": "The study is set in nongrocery fashion retailing in the Netherlands, where seasonal assortments and end-of-season markdowns are common. The focal chain uses a loyalty card program, direct mail to members, and door-to-door flyers to households in each store's trading area.",
+  "design_and_data": "The empirical application uses about two years of daily data (1999-2000) from six stores of one Dutch clothing chain. The model jointly explains five log outcomes: number of members who buy, number of nonmembers who buy, number of nonbuyers, and average expenditures of member and nonmember buyers. Predictors include pre-, during-, and postpromotion indicators for direct mail and door-to-door campaigns, discount-depth interactions, second-week effects, lagged nonbuyers, total traffic, and calendar controls. Estimation is via multivariate hierarchical Bayes with autocorrelated errors and contemporaneous between-equation correlations, with model selection using a time-based predictive validation split.",
+  "focal_constructs": [
+    "loyalty program membership status",
+    "promotional revenue bump",
+    "number of buyers",
+    "average expenditures",
+    "nonbuyers",
+    "price discount depth",
+    "communication mode (direct mail vs door-to-door flyers)",
+    "prepromotion and postpromotion effects"
+  ],
+  "main_findings": [
+    "The number of nonmembers who buy is much more responsive to discount depth than the number of members who buy.",
+    "Both direct mail and door-to-door promotions increase traffic components during campaigns, while average expenditures generally decline, and second-week traffic effects are weaker than first-week effects.",
+    "In the managerial simulations, door-to-door flyer campaigns produce positive net profit across tested discount levels, whereas direct-mail discount campaigns produce negative net profit relative to no promotion under the assumed cost and margin inputs."
+  ],
+  "one_line_summary": "Using daily data from six Dutch clothing stores, the paper develops and tests a hierarchical Bayesian decomposition of promotional revenue by loyalty status, showing especially strong discount-driven traffic response among nonmembers.",
+  "relation_to_prior_work": "introduces a direct test of differential promotional responses between loyalty program members and nonmembers, where prior work had mainly documented average spending differences or loyalty effects without this decomposition. It also goes beyond prior decomposition studies by using a unit-based revenue decomposition and explicitly modeling nonbuyers.",
+  "research_gap": "The authors state that, although members are known to spend more on average, no prior study had specifically investigated how promotions differentially affect members versus nonmembers. They also motivate that understanding the promotional revenue bump requires a decomposition beyond aggregate revenue, including buyer counts, spending, and nonbuyers.",
+  "research_question": "How do promotions affect daily revenue contributions of loyalty program members versus nonmembers when revenue is decomposed into buyer counts and average expenditures? How are these effects moderated by communication mode (direct mail versus door-to-door flyers), discount depth, and pre-, during-, and postpromotion dynamics, and what role do nonbuyers play in this system?"
+}

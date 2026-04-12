@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper decomposes retailer profit gains from price discrimination into second-degree (package-size quantity discounts) and third-degree (store-level pricing) components rather than treating store-level nonlinear pricing as a single bundle.",
+    "It provides retailer-side empirical evidence that a substantial share of observed nonlinear retail pricing across sizes is due to the retailer's own pricing choice, not only wholesale cost differences.",
+    "It combines a structural demand model with retailer profit-maximization simulations to compare optimal outcomes under increasingly flexible pricing regimes."
+  ],
+  "context": "The study is set in a large Chicago-area supermarket chain (Dominick's Finer Foods) in the over-the-counter analgesics category. The category has multiple brands and package sizes, with observed per-unit quantity discounts and price variation across stores.",
+  "design_and_data": "The authors use one year of weekly store-level UPC data including units sold, retail prices, promotion indicators, and retailer margins, supplemented with local demographics, pharmacy presence, seasonality, and distances to competitors. The estimation uses 11 UPCs (four brands across 25/50/100-tablet sizes, with store brand in two sizes) that represent 62% of category sales. Demand is estimated with an aggregate random-coefficients logit that allows observed and unobserved heterogeneity, dynamic promotion effects, and price endogeneity via instruments (including wholesale-price-based instruments). Estimated demand parameters are then used in a retailer category profit-maximization model to simulate optimal prices and profits under four policies: chain uniform, chain nonlinear, store uniform, and store nonlinear, with a constraint that share-weighted average prices do not increase.",
+  "focal_constructs": [
+    "second-degree price discrimination",
+    "third-degree price discrimination",
+    "quantity discounts by package size",
+    "store-level pricing (micromarketing)",
+    "retailer profitability",
+    "price sensitivity heterogeneity",
+    "nonlinear price schedules"
+  ],
+  "main_findings": [
+    "Average weekly profits are highest when the retailer uses both store-level pricing and nonlinear quantity discounts (store nonlinear), with about a 34% gain versus chain uniform pricing.",
+    "The profit gain from second-degree discrimination alone (chain nonlinear) is larger than from third-degree discrimination alone (store uniform), approximately 26% versus 10% over chain uniform pricing.",
+    "A sizable portion of observed nonlinear retail prices is attributable to retailer pricing decisions rather than wholesale-cost nonlinearity, with nonlinearity due to retailer pricing averaging about 50% (and varying by product)."
+  ],
+  "one_line_summary": "Using Dominick's store-level analgesics data and structural demand-plus-pricing simulations, the paper finds that combined second- and third-degree price discrimination maximizes retailer profits and that quantity discounts contribute more than store-level pricing alone.",
+  "relation_to_prior_work": "extends prior supermarket micromarketing studies by separating profit effects of across-store price variation from across-size nonlinear pricing, which earlier work typically combined. It also complements Cohen (2002) by providing retailer-level evidence on package-size price discrimination in consumer packaged goods.",
+  "research_gap": "Prior empirical work documented gains from store-level nonlinear pricing but did not isolate how much of those gains come from price differences across stores versus quantity discounts across sizes. The paper also notes limited empirical evidence on retailer use of package-size quantity discounts as a price discrimination mechanism.",
+  "research_question": "How much does each of two retailer price discrimination mechanisms - package-size quantity discounts (second-degree) and store-level pricing (third-degree) - contribute to profitability? The paper also asks whether observed nonlinear retail prices across sizes reflect retailer strategic pricing beyond wholesale cost differences, and what profits result under alternative pricing constraints."
+}

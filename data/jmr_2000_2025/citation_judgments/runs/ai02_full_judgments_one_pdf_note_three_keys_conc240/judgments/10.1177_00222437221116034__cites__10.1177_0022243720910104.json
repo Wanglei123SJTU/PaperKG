@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used for more than background: the citing paper relies on it to motivate the availability of multibrand single-source data and to operationalize key empirical inputs, including ad-stock handling, endogeneity-control implementation, and medium cost assumptions. These are concrete modeling and calibration choices in the citing paper's empirical section, not just a passing literature-list mention. The citing study then contributes a new optimal-control microtargeting layer on top of that prior multibrand advertising-effectiveness context.",
+  "relation_description": "The citing paper builds on Danaher et al. (2020) as an empirical and methodological base for multibrand multimedia advertising data and specification choices, then adds an optimal-control framework to derive customer-level targeting and allocation decisions. In this sense, it extends prior effectiveness modeling toward normative microtargeting optimization.",
+  "relation_type": "extends"
+}

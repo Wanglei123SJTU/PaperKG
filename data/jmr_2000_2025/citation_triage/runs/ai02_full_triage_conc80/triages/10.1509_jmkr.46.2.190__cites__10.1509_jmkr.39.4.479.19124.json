@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s core method is a latent-class joint purchase-incidence/brand-choice/quantity model with holdout-based evaluation, and the cited paper is a methodological comparison of heterogeneity representations in logit choice models (finite mixtures vs HB mixed logit) using fit and holdout metrics. This creates a plausible direct method/foundational link rather than an obviously incidental mention. With only DOI-level matched evidence and no in-text context, it is still not safe to drop.",
+  "triage_decision": "keep_for_relation_judgment"
+}

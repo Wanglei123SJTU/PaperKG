@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper is presented as the first empirical investigation of how innovation locus (core integration vs detachable peripheral) affects consumer adoption, especially for really new innovations versus incrementally new innovations.",
+    "It advances a definition of peripheral innovation that emphasizes both optionality and physical detachability, and shows that detachability is required for the peripheral-locus advantage.",
+    "It identifies and tests multiple psychological mechanisms linking innovation locus and adoption: schema congruity, perceived risk, benefit understanding, and perceived usage flexibility."
+  ],
+  "context": "The studies examine consumer adoption of new product systems in consumer categories including video game consoles, automobiles, smartphones, and washing machines. The empirical setting is scenario-based product evaluation, with both attitudinal adoption intentions and one behavioral trial-signup measure.",
+  "design_and_data": "The paper reports four between-subjects experiments. Study 1 used U.S. MTurk adults (n = 154 effective) in a 2 x 2 design (locus x newness) with gaming-console stimuli; Study 2 used undergraduates (n = 272) in a 3 x 2 design (core nonoptional vs core optional vs peripheral x newness) with automobile stimuli and included a test-drive signup behavior. Study 3 used undergraduates (n = 211) with smartphone stimuli to test mediation via schema congruity and perceived risk; Study 4 used undergraduates (n = 208) with washing-machine stimuli to test additional mediators (benefit understanding and usage flexibility) and multiple risk types. Analyses used ANOVA/ANCOVA, logistic regression for trial signup, and bootstrapped mediated-moderation/serial mediation tests (PROCESS).",
+  "focal_constructs": [
+    "innovation locus",
+    "innovation newness",
+    "consumer adoption intention",
+    "schema congruity",
+    "perceived risk",
+    "benefit understanding",
+    "perceived usage flexibility",
+    "detachability and optionality"
+  ],
+  "main_findings": [
+    "For really new innovations, placing the innovation in a detachable peripheral (vs integrating it into the core) increased adoption intentions across studies and increased product-trial signup in the automobile study.",
+    "For incrementally new innovations, innovation locus generally did not change adoption intentions.",
+    "The peripheral-locus advantage for really new innovations operated through higher schema congruity, lower perceived risk (especially performance risk), better benefit understanding, and greater perceived usage flexibility; optionality without detachability did not produce the same advantage."
+  ],
+  "one_line_summary": "Across four experiments, the paper shows that offering a really new innovation as a detachable peripheral rather than integrating it into the core increases consumer adoption, while locus has little effect for incrementally new innovations.",
+  "relation_to_prior_work": "extends prior innovation-adoption and add-on feature research by distinguishing detachable peripheral versus core innovation locus and showing that locus effects depend on innovation newness.",
+  "research_gap": "Prior innovation-adoption research had largely focused on core innovations and had not directly tested whether placing an innovation in the core versus a detachable peripheral changes consumer adoption. Work on supplemental features/add-ons also had not compared equivalent innovations across core and peripheral loci, leaving this effect underexamined.",
+  "research_question": "Does the locus of an innovation in a product system, core integration versus detachable peripheral placement, affect consumers' adoption of new products? The paper further asks whether this effect depends on innovation newness (really new vs incremental) and through which mechanisms (schema congruity, perceived risk, benefit understanding, and usage flexibility) it occurs."
+}

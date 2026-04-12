@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces and examines partially integrated channels (PICs), a single vertical channel structure that simultaneously uses market governance with retailers and hierarchical governance through a manufacturer-employed sales force at partner facilities.",
+    "Develops a contingent alignment framework for ongoing governance decisions in PICs by incorporating extradyadic effects, specifically brand reputation and reciprocal feedback from sales force and retailer.",
+    "Provides empirical evidence on how these contingencies shape manufacturer flexibility with retailers and control centralization over sales operations within an established PIC setting."
+  ],
+  "context": "The study is set in South Korea's women's fashion apparel market, where department stores commonly allocate brand-dedicated space and manufacturers deploy their own full-time salespeople in those stores (a store-within-a-store-like PIC arrangement). The focal channel links manufacturer, department store retailer, manufacturer sales force, and customers around a single apparel brand.",
+  "design_and_data": "The authors collected multisource, reciprocally matched survey data from apparel manufacturers and department store floor managers. They randomly selected 200 manufacturers (from 496 listed), obtained 120 manufacturer responses, and matched these with retailer responses to yield 94 matched manufacturer-retailer observations across three department store chains. Measures were adapted from prior literature and pretested, with CFA-based reliability and validity checks reported. Hypotheses were tested using seemingly unrelated regression with two equations for manufacturer flexibility and manufacturer control, including interaction terms.",
+  "focal_constructs": [
+    "partially integrated channels",
+    "market governance",
+    "hierarchical governance",
+    "manufacturer flexibility with retailer",
+    "manufacturer control centralization",
+    "downstream market uncertainty",
+    "sales force performance ambiguity",
+    "brand reputation and extradyadic feedback"
+  ],
+  "main_findings": [
+    "When downstream market uncertainty is higher, manufacturer flexibility with the retailer increases more strongly when brand reputation is higher.",
+    "When sales force performance ambiguity is higher, manufacturer control over sales operations becomes more centralized when brand reputation is higher.",
+    "Sales force feedback positively moderates the effect of downstream market uncertainty on manufacturer flexibility, but retailer feedback does not significantly moderate the performance ambiguity-manufacturer control relationship."
+  ],
+  "one_line_summary": "The paper shows that in South Korean fashion-apparel partially integrated channels, brand reputation and sales force feedback contingently shape manufacturers' flexibility with retailers and control over their own deployed sales force under uncertainty.",
+  "relation_to_prior_work": "extends transaction cost analysis and governance value analysis by analyzing a channel form where market and hierarchical governance coexist and by modeling extradyadic contingencies in ongoing governance decisions rather than only dyadic governance form choice.",
+  "research_gap": "Although PICs are increasingly common, prior research has given little attention to their governance, especially because traditional TCA often treats market and hierarchy as alternatives rather than coexisting forms. The paper also addresses the lack of understanding of how extradyadic factors in a PIC influence ongoing governance alignment decisions.",
+  "research_question": "How do manufacturers make ongoing governance decisions within partially integrated channels where they must manage both arm's-length retailer relationships and hierarchical relationships with their own deployed sales force? Specifically, how do downstream market uncertainty and sales force performance ambiguity interact with brand reputation and feedback from sales force and retailer to affect manufacturer flexibility with retailers and control centralization over sales operations?"
+}

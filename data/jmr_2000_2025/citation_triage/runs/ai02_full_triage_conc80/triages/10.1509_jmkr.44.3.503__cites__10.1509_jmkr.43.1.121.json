@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s core method is a hidden Markov model with hierarchical Bayes, and the cited paper is also an HMM-based JMR study, so it could plausibly be a methodological reference rather than a purely incidental mention. However, the provided evidence includes only a single DOI match with no citation context or quoted reference text, so there is not enough direct evidence to confidently keep or drop.",
+  "triage_decision": "uncertain"
+}

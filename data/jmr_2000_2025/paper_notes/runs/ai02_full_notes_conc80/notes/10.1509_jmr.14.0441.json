@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "The paper shows that firm green programs asking consumers to conserve can generate negative reputational and behavioral effects, especially for high-price firms, rather than automatically helping firms.",
+    "It identifies a practical fix: pairing consumer conservation requests with visible costly environmental actions by the firm mitigates backlash and can increase both perceived greenness and conservation.",
+    "It documents the process by showing that reactance to firm requests affects perceived firm greenness and, in turn, consumer conservation, while also linking greener firm perceptions to actual conservation behavior."
+  ],
+  "context": "The empirical setting is the hotel industry, where firms ask guests to conserve resources such as electricity, towels, and housekeeping effort. The studies focus on situations where consumer compliance can lower hotel operating costs while also affecting environmental outcomes.",
+  "design_and_data": "Study 1 was a 2 x 2 x 2 between-subjects field study in two real hotels in China (high- vs low-price image), with 281 corporate trainees; firm request (note vs no note) and visible firm effort (bamboo vs plastic toothbrush) were manipulated, and room-level smart-meter electricity usage over 24 hours was observed along with survey measures of perceived greenness. Hotel price image varied by actual hotel used (quasi-experimental element), while the other manipulations were randomized within hotels. Study 2 was a 2 x 2 x 2 lab experiment run in real hotel rooms in Hong Kong with 548 students, using analogous manipulations plus multiple request and visible-effort cues; it measured green perception, conservation intention, and felt reactance. The authors used ANOVA/ANCOVA and mediation/conditional process analyses to test interactions and mechanisms.",
+  "focal_constructs": [
+    "firm-request for consumer conservation",
+    "visible costly firm environmental effort",
+    "firm price image",
+    "consumer reactance",
+    "perceived firm greenness",
+    "consumer conservation behavior"
+  ],
+  "main_findings": [
+    "Perceived firm greenness was positively associated with conservation outcomes, including lower actual electricity use in the field study and higher conservation intentions in the second study.",
+    "When visible firm effort was absent, conservation requests backfired for high-price hotels: requests lowered perceived greenness and reduced conservation (including higher electricity use), while effects were weak or null for low-price hotels.",
+    "When visible costly firm effort was present, requests increased conservation without the high-price backfire pattern, and Study 2 supported a serial pathway in which price image x visible effort influenced reactance, reactance influenced green perception, and green perception predicted conservation intention."
+  ],
+  "one_line_summary": "Across two hotel studies, the paper finds that consumer conservation requests work when firms visibly spend on their own green actions, but can trigger reactance and backfire, especially for high-price hotels, when such firm effort is not visible.",
+  "relation_to_prior_work": "extends research on sustainable consumption and conservation-message backfire by identifying reactance to firm requests as a mechanism in contexts where consumers bear effort costs and firms may financially benefit. It introduces visible costly firm effort and firm price image as key boundary conditions for when conservation appeals help versus hurt.",
+  "research_gap": "Prior work had not clearly explained how consumers respond when firms ask them to conserve in ways that impose personal effort costs while also saving the firm money. The paper also points to limited understanding of when such requests backfire and whether reactance explains these effects in real service settings.",
+  "research_question": "Can firm-initiated green programs that ask consumers to conserve resources make firms look less environmentally committed, and under what conditions? How do visible costly firm environmental efforts and firm price image shape both consumer perceptions of firm greenness and consumers' own conservation behavior? Does reactance explain when conservation requests backfire versus succeed?"
+}

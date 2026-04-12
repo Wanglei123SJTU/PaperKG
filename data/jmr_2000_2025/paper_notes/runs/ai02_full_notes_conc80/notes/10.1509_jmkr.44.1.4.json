@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper documents four broad geographic regularities in CPG data: within- and across-market share dispersion, temporal stability, wide local leadership dispersion, and spatial dependence.",
+    "It provides stylized evidence that variation in shares and perceived quality is large enough to question the practical meaning of a \"national brand.\"",
+    "It argues that geographically indexed multimarket data are a rich source of long-term marketing outcomes and proposes new research directions based on geography."
+  ],
+  "context": "The setting is U.S. consumer packaged goods, mainly food and beverage categories, observed across ACNielsen Scan Tracks that largely map to metropolitan markets and surrounding areas. The paper compares national, regional, and local brand performance across these geographic markets.",
+  "design_and_data": "The main data are ACNielsen scanner data for 31 CPG categories in the 50 largest Scan Tracks, observed over 39 four-week periods from June 1992 to May 1995. The authors analyze the top two nationally shared brands per category (62 products), constructing brand shares from equivalent-unit sales, and use fixed-effect variance decompositions with market, brand, time, and market x brand components. They assess persistence with Dickey-Fuller stationarity tests and estimate spatial autocorrelation functions nonparametrically (Conley and Topa), with weekly robustness checks in coffee (50 markets, 158 weeks) and Mexican salsa (64 markets, 104 weeks). They also merge Young and Rubicam Brand Asset Valuator quality perceptions (2004, nine Census divisions) for 35 matched brands and run pooled regressions on 1,550 market-category leader shares to test national-brand effects.",
+  "focal_constructs": [
+    "geographic dispersion in brand shares",
+    "market x brand interaction",
+    "temporal stability of local shares",
+    "local share leadership",
+    "spatial dependence across markets",
+    "perceived brand quality dispersion",
+    "national brand status"
+  ],
+  "main_findings": [
+    "Across categories, geographic components dominate share variation: time explains little, while market x brand structure explains most of the variance.",
+    "Local share differences are persistent over time, with stationarity tests rejecting a unit root in most local brand-share series.",
+    "Brand performance is spatially correlated over substantial distance (often around 500 miles), perceived quality also varies geographically, and the local leader-share premium for national brands becomes small after category controls (about 2 share points)."
+  ],
+  "one_line_summary": "Using multimarket scanner and survey evidence, the paper shows that U.S. CPG national brands have large, persistent, and spatially correlated local differences in share and perceived quality, challenging the practical meaning of national branding.",
+  "relation_to_prior_work": "extends prior CPG research based on single-market time series and earlier category-specific spatial studies by showing, across many categories and markets, that geographic variation and spatial dependence are central features of brand performance.",
+  "research_gap": "Prior empirical CPG work largely relied on one or a few markets and short time-series variation, with limited attention to geography. The paper argues this misses a major source of variation and potential information about long-term marketing outcomes.",
+  "research_question": "What general geographic regularities characterize the performance of U.S. CPG brands commonly treated as national brands? Do cross-market patterns in share, quality perceptions, and local dominance suggest that geography provides important long-term information and changes how we interpret national branding?"
+}

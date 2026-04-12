@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Defines and conceptualizes a customer-centric contract change as a salesperson's voluntary amendment of an existing purchase contract in the customer's favor without legal obligation.",
+    "Identifies customers' perceived salesperson relinquishment of legitimate power as the distinct mechanism linking contract changes to relationship performance.",
+    "Proposes power-solidarity theory as a branch of social exchange theory to explain why contract-change effects are attenuated when solidarity norms are strong."
+  ],
+  "context": "The paper studies B2B buyer-seller relationships where customers request changes to already concluded purchase contracts. The focal field setting is a large industrial supplies distributor with assigned salespeople and multichannel purchasing.",
+  "design_and_data": "Study 1 uses ERP and CRM panel data from 2014-2019 for 57,304 customers, 379 salespeople, and 2,358,261 customer-month observations; customer-centric contract changes are system-flagged and monetized transaction amendments. The authors estimate dynamic panel models with customer, salesperson, and month fixed effects, lagged dependent variables, and a control-function endogeneity correction using an instrument based on contract-change incidence in other customer segments served by the same salesperson. Study 2 (n=299) and Study 3 (n=396) are preregistered between-subject scenario experiments with participants who have organizational buying experience. Web appendices add a survey study (n=199) and two auxiliary experiments (n=304 and n=205).",
+  "focal_constructs": [
+    "customer-centric contract change",
+    "perceived salesperson relinquishment of legitimate power",
+    "norm of solidarity",
+    "salesperson-customer past communication frequency",
+    "customer past product breadth",
+    "relationship performance",
+    "customer sales volume",
+    "customer gratitude"
+  ],
+  "main_findings": [
+    "In the field panel, greater customer-centric contract change value in month t-1 is associated with higher customer sales volume in month t, with similar positive evidence for customer gross profit.",
+    "The positive effect of contract change value is attenuated when past salesperson-customer communication frequency is higher and when customers have greater past product breadth.",
+    "Experimental evidence shows that contract changes increase customers' future allocation to the supplier through perceived salesperson power relinquishment, and this effect is weaker when a solidarity norm is strong; gratitude mediates the mechanism in supplemental analysis."
+  ],
+  "one_line_summary": "Across a large B2B panel and experiments, the paper shows that voluntary contract amendments in customers' favor increase subsequent relationship performance via perceived relinquishment of legitimate power, but less so in high-solidarity relationships.",
+  "relation_to_prior_work": "introduces customer-centric contract changes as a distinct relationship management behavior, separating it from discounts, gifts, product returns, and penalty waivers because it changes an existing contract and involves relinquishing legitimate power. It integrates this mechanism with social exchange theory and emergent findings on hardship support to formulate power-solidarity theory.",
+  "research_gap": "Prior relationship marketing research had not conceptualized customer-centric contract changes or tested their consequences, despite their prevalence in practice. It was also unclear whether such potentially costly, customer-oriented contract amendments improve relationship outcomes, through what mechanism, and under which relationship conditions.",
+  "research_question": "Do customer-centric contract changes by salespeople improve subsequent financial relationship performance with customers? If so, is the effect driven by customers perceiving that the salesperson relinquishes legitimate power, and is it weakened when solidarity norms are stronger in the relationship (as indicated by past communication frequency and product breadth)?"
+}

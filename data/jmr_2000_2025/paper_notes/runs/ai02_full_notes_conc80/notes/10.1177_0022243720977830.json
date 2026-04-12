@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops a theoretical model in which consumers flexibly allocate costly attention to favorable and unfavorable product information, with signal precision endogenously determined by that allocation.",
+    "It formalizes when and to what degree consumers engage in confirmatory versus disconfirmatory information search, offering a rational-inattention explanation for confirmation bias.",
+    "It analyzes firm information design and pricing responses to consumer attention allocation, including a counterintuitive result on when sellers should allow unfavorable information, and illustrates the framework in a product-review setting."
+  ],
+  "context": "The setting is a consumer deciding whether to buy a product with uncertain fit to their needs, where information can be separated into favorable and unfavorable pieces before processing. The paper uses online product reviews (e.g., high-star vs low-star reviews) as an illustrative application of this environment.",
+  "design_and_data": "This is a theoretical paper with no empirical dataset. The authors build a static rational inattention model with a binary product-fit state and a binary signal, where the consumer chooses true positive and true negative rates (d1 and d0) by trading off expected utility gains against a mutual-information processing cost. They derive closed-form comparative statics for consumer attention allocation and purchase behavior, then model a seller that chooses information availability bounds (O1, O0) and, in an extension, price, solving by backward induction. They also provide a numerical illustrative example mapping the model to favorable and unfavorable review reading and firm review provision.",
+  "focal_constructs": [
+    "rational inattention",
+    "favorable information",
+    "unfavorable information",
+    "prior belief about product fit",
+    "information processing cost",
+    "confirmatory and disconfirmatory search",
+    "firm information design",
+    "purchase likelihood"
+  ],
+  "main_findings": [
+    "Consumers process no information when priors are very low or very high, but for intermediate priors they process both favorable and unfavorable information with attention weights that vary systematically with priors, utilities, and processing costs.",
+    "Confirmatory search is more likely when priors are extreme and-or information processing cost is high, while disconfirmatory search can arise otherwise; as a result, purchase likelihood can change nonmonotonically with processing cost.",
+    "A seller benefits from information design by not restricting favorable information but strategically limiting unfavorable information, and the incentive to suppress unfavorable information is lower when consumer prior fit beliefs are worse; with endogenous pricing, information design may be unnecessary in some parameter regions (e.g., w > 0) but remains valuable in others."
+  ],
+  "one_line_summary": "The paper presents a rational inattention model showing how consumers optimally split costly attention between favorable and unfavorable product information and how sellers can design information availability and pricing in response.",
+  "relation_to_prior_work": "extends consumer search and rational inattention work by allowing endogenous attention allocation across favorable versus unfavorable information and endogenous signal precision, and extends information design settings by incorporating costly consumer attention rather than costless signal observation.",
+  "research_gap": "Prior consumer search models discussed in the paper typically assume fixed search costs and either perfect learning or exogenous signal precision, so they do not capture flexible allocation of attention between favorable and unfavorable information. The paper also notes that standard information design models usually assume receivers observe signals costlessly, leaving open how seller disclosure design interacts with consumers' costly attention choices.",
+  "research_question": "How should a consumer optimally allocate limited, costly attention to favorable versus unfavorable product information before deciding whether to buy, given their prior belief about product fit? Under what conditions does this produce confirmatory versus disconfirmatory search and how does it affect purchase likelihood? How should a seller design the information environment (and price, when adjustable) to influence that attention allocation and maximize profit?"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper provides an individual-level test-retest reliability comparison of DR and PA, rather than relying on aggregate-level method associations.",
+    "It derives and tests hypotheses from a theoretical account of PA's extra budgeting demand (an elastic, noisier scale) instead of offering only an atheoretical comparison.",
+    "It shows a practical implication for multicriteria decision making by linking elicitation method to the stability of chosen alternatives, and it formally tests respondents' reactions to each method."
+  ],
+  "context": "The empirical task is framed as automobile purchase evaluation, where respondents assign importance to nine car attributes such as safety, fuel consumption, performance, and reliability. The application domain is multicriteria decision making based on elicited attribute weights.",
+  "design_and_data": "The study recruited 113 business students from undergraduate and postgraduate marketing courses and assigned elicitation method with a roughly 2:1 tilt toward PA. Participants completed a test and retest one week apart, weighting the same nine car attributes using either direct rating (0-100 per attribute, no constant sum) or point allocation (constant sum of 100). After excluding four perfect-retest PA cases and two negative test-retest correlation cases, analyses used 107 subjects (68 PA). Reliability was analyzed at the individual level using SAD, Fisher-transformed Pearson correlations, and Spearman rank correlations (with course and a car-knowledge covariate), and choice implications were examined through simulations of random multiattribute alternatives (including robustness checks across distributions and numbers of alternatives).",
+  "focal_constructs": [
+    "direct rating (DR)",
+    "point allocation (PA)",
+    "attribute importance weights",
+    "test-retest reliability",
+    "product category knowledge",
+    "multiattribute value (MAV) choice stability",
+    "respondent attitudes toward elicitation method"
+  ],
+  "main_findings": [
+    "DR was more test-retest reliable than PA across all three reliability measures, with lower SAD and higher Pearson- and Spearman-based agreement.",
+    "Using test and retest weights in simulated multiattribute choice problems, preferred alternatives matched much more often under DR than PA (about 88% vs about 74%), and this pattern was robust across distributions and problem sizes.",
+    "Subjects rated DR more favorably than PA overall, with a strong DR preference among undergraduates and little difference among postgraduates; higher car knowledge was associated with modestly better rank-order consistency."
+  ],
+  "one_line_summary": "In a two-wave car-attribute weighting study, direct rating outperformed point allocation on reliability and downstream choice stability and was generally preferred by respondents.",
+  "relation_to_prior_work": "extends Doyle, Green, and Bottomley (1997) by replicating their DR-versus-PA rank-profile differences and then testing individual-level hypotheses about reliability, multicriteria choice stability, and method preference.",
+  "research_gap": "Prior comparisons of attribute-importance elicitation methods were mostly based on aggregate-level associations, which can mask inconsistency at the individual level, and did not center on test-retest reliability. The authors also note that earlier work suggested greater cognitive burden for PA but did not formally test respondents' preference between PA and DR.",
+  "research_question": "Is direct rating (DR) or point allocation (PA) the better method for eliciting attribute-importance weights? The paper tests whether DR yields higher test-retest reliability than PA, whether that difference changes the stability of multiattribute choice outcomes, and whether respondents prefer one elicitation method over the other."
+}

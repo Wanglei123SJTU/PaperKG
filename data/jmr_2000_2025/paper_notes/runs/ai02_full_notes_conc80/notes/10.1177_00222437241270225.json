@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Identifies evaluation mode as a novel, previously untested factor in goal-progress giving, showing that joint (vs. separate) evaluation shifts support toward lower-progress charities.",
+    "Shows that the closing-the-gap effect operates through perceived need for help, with joint comparison making relative need more salient and easier to evaluate.",
+    "Establishes theoretically relevant boundary conditions, including stronger effects in nonprofit/prosocial contexts and attenuation when progress gaps are smaller or when completion-contingent rules apply."
+  ],
+  "context": "The paper studies charitable fundraising and crowdfunding contexts where donors can compare multiple causes and see each cause's progress toward a funding goal. Settings include nonprofit charities, individual school fundraisers, UNICEF project appeals, and Kiva micro-crowdfunding loans.",
+  "design_and_data": "The authors report a multimethod program with six preregistered main experiments and seven supplemental experiments, mostly randomizing participants to joint versus separate evaluation and varying goal progress levels (e.g., far vs. close to goal). Outcomes include lottery-based allocation decisions, incentive-compatible bonus donations, donation likelihood, and give-versus-keep choices across Prolific, MTurk, and student samples. They also analyze secondary Kiva data with over 10,000 projects and about 32 million observations over 73 days, modeling donation inflows as a function of lagged progress with controls (including presentation order and remaining time) and fixed effects.",
+  "focal_constructs": [
+    "goal progress",
+    "joint evaluation",
+    "separate evaluation",
+    "perceived need for help",
+    "charitable giving",
+    "prosocial vs. for-profit context",
+    "gap size in progress",
+    "tipping point and completion contingency"
+  ],
+  "main_findings": [
+    "When causes are evaluated jointly, donors are more likely to choose and allocate more to the charity farther from its goal; this pattern is eliminated or can reverse in separate evaluation.",
+    "Perceived need for help mediates the joint-evaluation effect, and the perceived need gap between farther- and closer-to-goal options is larger in joint than in separate evaluation.",
+    "The effect is stronger in nonprofit/prosocial contexts, weakens as progress differences narrow, persists even when donors can personally complete the closer goal, and is attenuated when funding is completion contingent; Kiva field data also show lower subsequent funding as projects become more progressed."
+  ],
+  "one_line_summary": "Across experiments and Kiva field data, the paper shows that side-by-side charity comparison increases perceived relative need and shifts donations toward charities farther from their fundraising goals.",
+  "relation_to_prior_work": "extends prior goal-progress and evaluation-mode research by showing that joint versus separate evaluation changes inferences about need for help and can reverse which progress level attracts donations in charitable settings.",
+  "research_gap": "Prior work offered mixed predictions about whether higher or lower goal progress attracts help and had focused largely on separate evaluation of a single target. The paper addresses the untested question of how joint comparative evaluation with visible progress information changes donation preferences and why.",
+  "research_question": "How does evaluation mode (joint vs. separate) affect donations when donors see causes at different distances from their fundraising goals? The paper also asks whether perceived need for help explains this effect and whether it depends on context (nonprofit vs. for-profit) and the size of progress differences."
+}

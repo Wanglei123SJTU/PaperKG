@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper identifies cognitive inertia in switching categorization rules as a previously uninvestigated internal validity problem in the IAT.",
+    "It demonstrates that cognitive inertia can distort individual IAT scores, including eliminating or reversing apparent effects depending on block order.",
+    "It proposes a methodological remedy: interpret IAT scores at the aggregate level or use repeated within-subject block-order counterbalancing when individual scores are needed."
+  ],
+  "context": "The studies use implicit attitude IAT tasks in consumer and brand settings, mainly Coca-Cola versus Pepsi and coffee versus black tea, with students at a European university. The paper is motivated by growing marketing use of IAT measures for brand preferences and related decisions.",
+  "design_and_data": "The paper reports four laboratory studies using standard IAT reaction-time procedures with compatible and incompatible blocks. Study 1 (n = 51), Study 2 (n = 48), and Study 3 (n = 60) manipulate block order between subjects and compute IAT effects from log-transformed response latencies after excluding error, very fast, and very slow trials; Studies 1 and 3 also analyze within-block learning curves. Stimulus sets are varied to create conditions with an expected overall preference (Study 1) and conditions with no expected aggregate preference (Studies 2 and 3). Study 4 (n = 54) repeatedly alternates block order within subjects using CICIC versus ICICI sequences to test whether repeated within-subject counterbalancing attenuates cognitive inertia effects.",
+  "focal_constructs": [
+    "implicit association test",
+    "cognitive inertia",
+    "block order effects",
+    "task-set switching",
+    "implicit attitudes",
+    "response latencies",
+    "individual IAT scores",
+    "predictive validity"
+  ],
+  "main_findings": [
+    "In Study 1, an IAT effect favoring Coca-Cola appears when the compatible block is first but disappears when the incompatible block is first.",
+    "In Studies 2 and 3, reversing block order reverses the sign of the IAT effect, yielding opposite individual-level conclusions despite no overall IAT effect at the aggregate level.",
+    "Study 4 shows that repeating within-subject block-order alternations substantially reduces and eventually eliminates significant order effects, whereas between-subject counterbalancing leaves individual scores contaminated by cognitive inertia."
+  ],
+  "one_line_summary": "Across four IAT experiments, the paper shows that cognitive inertia from switching categorization rules makes IAT effects depend on block order, can reverse individual scores, and is reduced by repeated within-subject block-order counterbalancing.",
+  "relation_to_prior_work": "extends prior IAT validity research by testing a specific mechanism behind the order effect, namely task-switching cognitive inertia. It refines common methodological advice by showing that between-subject block-order counterbalancing can cancel effects at the aggregate level but is insufficient for individual-level interpretation.",
+  "research_gap": "Prior IAT work had noted order effects but had not directly investigated cognitive inertia from rule switching as an internal validity threat or tested how to remove its impact on individual IAT scores.",
+  "research_question": "Does cognitive inertia from switching between opposite categorization rules make IAT outcomes depend on block order? If so, how does this affect individual IAT scores and their correlations with predictor criteria, and can repeated within-subject block-order counterbalancing reduce or eliminate these distortions?"
+}

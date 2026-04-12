@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "Libai et al. (2009) is cited not only in background but in the core empirical evaluation: it is one of the benchmark models repeatedly compared against the proposed method in figures, tables, and discussion. The authors explicitly diagnose why the Libai benchmark misses key dynamics and report inferior MAPE and valuation outputs relative to their model. This methodological contrast is used to support the citing paper's contribution claim, so the citation is substantive. Because the role is mainly to show limitations and underperformance rather than to build directly on the cited framework, \"challenges\" fits best.",
+  "relation_description": "The citing paper positions Libai, Muller, and Peres (2009) as a prior noncontractual valuation approach and reimplements it as a benchmark for fit, holdout prediction, and valuation. It argues that the benchmark's simplifying assumptions are inadequate in this context and demonstrates lower predictive performance than the new model.",
+  "relation_type": "challenges"
+}

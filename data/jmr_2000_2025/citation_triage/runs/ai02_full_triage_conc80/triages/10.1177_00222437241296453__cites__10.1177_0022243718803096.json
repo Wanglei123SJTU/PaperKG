@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper is a methodological contribution on Gaussian-copula endogeneity correction (2sCOPE), and the cited 2018 paper explicitly reports using Gaussian copula corrections (alongside Heckman and IV/2SLS) in its analyses. That creates a plausible non-incidental method linkage (prior use/benchmark context) rather than a generic background mention, so this pair should proceed to full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

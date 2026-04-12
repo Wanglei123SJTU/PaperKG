@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "Provides what the authors describe as the first evidence that EEG responses to marketing stimuli are related to real-world outcomes, including individual preferences and box office performance.",
+    "Shows that EEG measures add unique predictive information beyond stated preference measures, significantly improving choice-prediction models.",
+    "Identifies high-frequency EEG oscillations as practical neural markers of commercial success (beta for individual preference and gamma for population-level success)."
+  ],
+  "context": "The study is set in the theatrical movie market, using advertisements for commercially released films (movie trailers). Population-level preference is operationalized as U.S. box office revenue, where trailer effectiveness is commercially important.",
+  "design_and_data": "Thirty-two university participants were recruited; after exclusions, analyses used 29 participants (ages 18-28). Each participant viewed 18 trailers (about 2.5-3 minutes each) selected from a 56-movie database after removing their least-preferred genre and previously seen films, while 64-channel EEG was recorded; across participants all 56 trailers were shown (median 10 views per trailer). After each trailer, participants reported liking (0-10) and incentive-compatible willingness to pay via a BDM auction, and afterward rank-ordered the 18 movies by preference. The authors used mass-univariate multilevel regressions with cluster-based permutation correction across electrode-frequency pairs, then mixed models to test incremental prediction beyond stated preference for ordered individual preference and U.S. box office.",
+  "focal_constructs": [
+    "EEG beta oscillations",
+    "EEG gamma oscillations",
+    "stated preference (willingness to pay)",
+    "individual ordered movie preference",
+    "population-wide commercial success (U.S. box office)",
+    "movie trailer viewing responses"
+  ],
+  "main_findings": [
+    "Midfrontal beta power (16-18 Hz; AFz/F2/FC1/FCz cluster) during trailer viewing significantly predicted individual ordered movie preference, with higher beta linked to higher preference.",
+    "Adding beta EEG to a model with willingness to pay significantly improved prediction of individual preference (chi-square(1)=7.49, p<.01), although the pseudo R2 increase was small (about .01).",
+    "Frontocentral gamma power (60-100 Hz cluster) significantly predicted U.S. box office, while willingness to pay alone was not significant (p=.07); gamma added significant model fit (chi-square(1)=7.41, p<.01; pseudo R2 change about .02) and remained significant after controlling for genre."
+  ],
+  "one_line_summary": "Using EEG and stated preferences collected while 29 participants watched movie trailers, the study shows that beta and gamma oscillations improve prediction of individual movie preferences and U.S. box office beyond self-reports alone.",
+  "relation_to_prior_work": "extends prior fMRI-based neural prediction research by showing that EEG signals recorded in more natural viewing conditions can predict both individual preferences and market-level outcomes. It also extends earlier EEG marketing work focused on attention and memorability by linking EEG to observed choice rankings and real-world sales.",
+  "research_gap": "Prior evidence that neural measures are useful for predicting marketing success was limited, and most predictive evidence came from fMRI rather than methods usable in naturalistic, lower-cost settings. The paper also notes that existing EEG marketing studies had not linked EEG to observed preferences/choices or population-level commercial outcomes.",
+  "research_question": "Can EEG responses to movie trailers predict participants' later movie preferences and population-level commercial success, and do these neural measures add predictive value beyond stated preference measures such as willingness to pay? The authors also ask whether high-frequency EEG components are the relevant predictive signals."
+}

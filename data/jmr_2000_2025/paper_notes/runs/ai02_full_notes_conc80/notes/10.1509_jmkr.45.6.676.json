@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces hyperopia-based self-control regret into consumer choice by showing that overcontrol and righteousness can become the stronger source of regret over time.",
+    "It demonstrates that anticipating long-term regret relaxes self-control and motivates corrective indulgence rather than stricter restraint.",
+    "It provides evidence from real and delayed consumer behavior, including two field experiments with actual marketplace purchases."
+  ],
+  "context": "The paper studies consumer self-control dilemmas between virtuous/utilitarian necessities and indulgent/hedonic luxuries. Evidence spans student and traveler samples and two field shopping contexts: a mall trip and Thanksgiving weekend shopping.",
+  "design_and_data": "The authors report five experiments using varied methods and samples. Study 1 (N=91 train-station travelers) manipulated whether respondents judged others' near-past or distant-past regret (or no-regret control) in a work-versus-vacation dilemma, then measured respondents' own choice. Study 2 (N=122 students) manipulated anticipated regret timing (10 years, tomorrow, unspecified future, or no-regret control) before a real lottery choice between a $30 drug-store voucher and a nightlife/entertainment magazine subscription; Study 3 (N=103 students) manipulated recalled regret for actual past work/study-versus-pleasure choices (last week vs at least five years ago, plus a non-self-control control) and then observed an ostensibly unrelated real reward choice ($5 cash vs Swiss chocolates). Study 4 (N=57 shoppers on a university bus to a mall) and Study 5 (N=74 follow-up participants after Thanksgiving, from 94 initial) manipulated regret horizon and measured actual purchases, product type ratings (self and independent judges), and in Study 5 total spending.",
+  "focal_constructs": [
+    "hyperopia",
+    "self-control regret",
+    "anticipatory regret",
+    "temporal perspective",
+    "indulgence versus virtue choices",
+    "indulgence guilt",
+    "feelings of missing out",
+    "consumer spending"
+  ],
+  "main_findings": [
+    "Across studies, broader temporal perspective increased regret for virtuous/prudent choices and shifted relative regret away from indulgent choices.",
+    "Prompting long-term regret increased indulgent choices compared with near-term regret, unspecified-future regret, and no-regret control conditions.",
+    "In field experiments, long-term anticipated regret led shoppers to buy more pleasurable wanted-not-needed items and, during Thanksgiving shopping, to spend more money."
+  ],
+  "one_line_summary": "Across five studies, prompting consumers to consider long-term self-control regret shifted choices from prudence toward indulgence and increased pleasurable purchasing and spending.",
+  "relation_to_prior_work": "challenges the myopia-centered self-control view by showing a temporal reversal in regret, where prudence can be regretted more than indulgence in the long run. It also extends anticipatory-regret research by documenting effects on real and delayed purchase behavior, not only hypothetical or immediate choices.",
+  "research_gap": "Prior self-control research largely assumes myopia and focuses on regret from indulgence, leaving limited evidence on regret from excessive farsightedness (hyperopia). Prior consumer regret studies also emphasized hypothetical or immediate decisions, so it remained unclear whether long-term anticipatory regret changes real purchases after delays.",
+  "research_question": "Can consumers foresee that excessive self-control (hyperopia) will generate stronger long-term regret than indulgence? If so, does anticipating or reflecting on long-term self-control regret change immediate and delayed consumer choices, including real purchases and spending?"
+}

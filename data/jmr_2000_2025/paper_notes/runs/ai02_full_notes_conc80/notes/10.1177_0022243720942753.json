@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper links the franchising literature and the entry literature by documenting that horizontal competition in the form of entry threat can shape franchising decisions.",
+    "It adapts the Goolsbee and Syverson entry-threat framework to retail franchising by defining threat via rivals' expansion into geographically adjacent markets and studying organizational-form response.",
+    "It develops and simulates a simple calibrated dynamic model of entry and franchising to connect the empirical pattern to equilibrium behavior and quantify implications for firms, consumers, and policy makers."
+  ],
+  "context": "The empirical setting is the Japanese convenience-store industry, where major chains use both franchised and company-owned outlets and expand across 47 prefectures. The study focuses on the six largest nationwide chains in 1984-2010.",
+  "design_and_data": "The authors use panel data on store counts and revenues by ownership type (franchised vs. company-owned) for six nationwide chains across 47 prefectures from 1984 to 2010, combined with demographic and cost controls. They first estimate entry-likelihood models showing that a chain's presence in adjacent markets predicts subsequent entry, then estimate how changes in rivals' adjacent-market presence affect an incumbent's share of company-owned outlets with chain, market, and year fixed effects and a proxy-variable approach for omitted market conditions. They run mechanism-oriented descriptive tests, including entry-order patterns and Ellison-Ellison nonmonotonicity tests for investment behavior, plus placebo and robustness checks. They then calibrate and simulate a simple dynamic entry-expansion-franchising model to compare baseline and elevated-entry-threat scenarios.",
+  "focal_constructs": [
+    "threat of entry",
+    "organizational-form choice",
+    "franchising decisions",
+    "company-owned outlets",
+    "franchised outlets",
+    "entry deterrence",
+    "entry accommodation",
+    "retail chain expansion"
+  ],
+  "main_findings": [
+    "When rival chains' entry threat increases through expansion in adjacent markets, incumbents increase the proportion of company-owned outlets.",
+    "Evidence on strategic motive is mixed: descriptive patterns are consistent with entry accommodation, while nonmonotonicity tests suggest entry-deterrence motives, and nonstrategic alternatives receive limited support.",
+    "Simulations confirm that heightened entry threat induces more company-owned-outlet-based expansion and higher total incumbent profits via larger store counts, but lowers profits per store and implies a consumer trade-off between greater outlet availability and less chain-brand variety."
+  ],
+  "one_line_summary": "Using Japanese convenience-store panel data and a calibrated dynamic model, the paper finds that higher rival entry threat in adjacent markets leads incumbents to rely more on company-owned outlets in expansion.",
+  "relation_to_prior_work": "extends franchising research by incorporating horizontal competitive threat as a determinant of ownership mix, which prior incentive-contracting work largely abstracts from. It also complements incumbent-response studies of entry threat by shifting attention from pricing and related actions to organizational-form choice. It adds to dynamic retail entry work by highlighting the interaction between expansion dynamics and franchising structure.",
+  "research_gap": "Prior work treats franchising and entry largely separately: franchising studies emphasize internal contracting trade-offs and often abstract from strategic interactions, while entry studies typically do not model mixed ownership choices in expansion. The paper argues that evidence has been scarce because suitable panel data jointly covering entry, expansion, and ownership form across markets over time are rare.",
+  "research_question": "Do strategic considerations in entry and expansion influence a retail chain's organizational-form choice between franchised and company-owned outlets? In particular, when the threat of rival entry rises in adjacent markets, do incumbents shift toward company-owned-outlet expansion, and what mechanisms and long-run implications does that imply?"
+}

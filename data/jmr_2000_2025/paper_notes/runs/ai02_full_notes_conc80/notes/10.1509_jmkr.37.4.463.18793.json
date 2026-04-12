@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces a two-dimensional model of turnover intentions that decomposes a stated intention to quit into intention magnitude and intention uncertainty using the JUMP framework.",
+    "The paper develops a threshold model of intention-behavior that incorporates an intention threshold and jointly models whether quitting occurs and when it occurs.",
+    "The paper demonstrates that explicitly modeling intention uncertainty, not just intention magnitude, improves theoretical insight and empirical prediction of salesperson turnover behavior."
+  ],
+  "context": "The study is conducted in the sales force of a Fortune 500 printing and publishing company operating across all 50 U.S. states. The focal outcome is salesperson quitting behavior over a two-year observation window.",
+  "design_and_data": "The authors used a mail survey of the firm's entire sales force (739 contacted, 526 responses, 462 complete cases) and linked it to company records on quit dates. Baseline measures included intention to quit, affective and continuance commitment, role ambiguity/conflict, and critical sales events. Actual turnover timing was tracked for 25 months, with nonquitters treated as censored observations. Analysis proceeded in two stages: a JUMP model for intention magnitude and uncertainty, then a split-hazard threshold model that jointly estimated quit probability and quit timing.",
+  "focal_constructs": [
+    "intention-to-quit magnitude",
+    "intention-to-quit uncertainty",
+    "affective commitment",
+    "continuance commitment",
+    "critical sales events",
+    "role stress",
+    "probability of quitting",
+    "timing of quitting"
+  ],
+  "main_findings": [
+    "Affective commitment and continuance commitment both reduced intention-to-quit magnitude, and their interaction indicated that affective commitment had a weaker effect when continuance commitment was higher.",
+    "Controllable positive and negative critical sales events significantly affected both intention magnitude and intention uncertainty in opposite directions, and role ambiguity increased intention uncertainty.",
+    "The threshold intention-behavior model outperformed a standard duration model, and results showed that intention uncertainty lowers the probability of intended quitting while higher uncertainty among likely quitters is associated with faster quitting."
+  ],
+  "one_line_summary": "Using sales force survey and turnover data, the paper shows that quit intentions are uncertainty-laden and that intention uncertainty is crucial for explaining both the likelihood and timing of actual quitting.",
+  "relation_to_prior_work": "extends prior intention and turnover research by integrating intention antecedents and intention-behavior translation in a single framework while modeling intention uncertainty explicitly. It also extends duration-based turnover models by jointly estimating whether quitting is likely and when it occurs, rather than modeling timing alone.",
+  "research_gap": "Prior work largely treated intention formation and intention-to-behavior prediction as separate streams, and turnover research explained intentions better than actual quitting behavior. Existing models also focused on intention magnitude and generally ignored intention uncertainty and the need to model quitting probability and timing simultaneously.",
+  "research_question": "How are salespeople's intentions to quit formed when intentions are modeled as both magnitude and uncertainty? Which antecedents drive each dimension, and how do these two intention dimensions jointly determine whether salespeople quit and when they quit?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces slow motion in video ads as a dynamic visual cue that can increase perceived product/brand luxuriousness.",
+    "Identifies a feeling-based process for this effect: slow motion increases immersion, which raises expected hedonic value and then luxury perceptions.",
+    "Shows downstream behavioral and managerial implications, including higher willingness to pay, purchase-related responses, and Facebook ad clicks, plus boundary conditions for when the effect weakens or strengthens."
+  ],
+  "context": "The paper studies digital video advertising, focusing on short product videos without people. It examines multiple categories (chocolate, shampoo, mineral water, wine) and includes evidence from the United States, United Kingdom, and France, including Facebook ad campaigns.",
+  "design_and_data": "The authors report 12 experiments (total N = 27,227; five preregistered) that mainly manipulate ad video speed (slow motion vs regular speed). Data come from online participant panels (Prolific and MTurk), a lab wine-tasting study in France, and two Facebook A/B field experiments in the United States and United Kingdom. Across studies, they measure luxury perceptions and test mediation via immersion and expected hedonic value, while assessing alternative explanations. They also test moderators (video blurriness, buffering, absorption tendency, splurging vs saving goal) and downstream outcomes (behavioral intentions, willingness to pay, purchase intentions, ad click rates).",
+  "focal_constructs": [
+    "slow motion video speed",
+    "luxury perceptions",
+    "immersion",
+    "expected hedonic value",
+    "absorption tendency",
+    "video blurriness and buffering",
+    "consumer desire for the featured product",
+    "splurging versus saving goal"
+  ],
+  "main_findings": [
+    "Across experiments, showing a product/brand in slow motion (vs regular speed) increased perceived luxuriousness.",
+    "The effect was supported by serial mediation: slow motion increased immersion, immersion increased expected hedonic value, and expected hedonic value increased luxury perceptions; tested alternatives such as scarcity perceptions, mental imagery, and a broad utilitarian halo were not supported.",
+    "The effect weakened when immersion was impaired (blurry or buffering video) and among viewers with very low or very high absorption tendency, and it translated into higher purchase-related outcomes (including WTP, purchase intentions, and Facebook click rates), especially when a splurging goal was salient."
+  ],
+  "one_line_summary": "Across 12 experiments, the paper shows that slow-motion product ads increase perceived luxuriousness through immersion and expected hedonic value, which can raise purchase-related responses, especially under splurging goals.",
+  "relation_to_prior_work": "extends prior video-speed research that emphasized physical perception, construal, and social judgment effects by showing that slow motion can also shape luxury perceptions in product-focused ads without people. extends prior luxury-cue work centered on static visual design by documenting slow motion as a dynamic cue and an immersion-based mechanism.",
+  "research_gap": "Prior marketing work on video speed largely examined cognitive and social-cognitive outcomes (e.g., size inferences, intentionality judgments), not whether slow motion can causally shape luxury perceptions. The paper addresses the unresolved mechanism by testing a feeling-based account centered on immersion and expected hedonic value.",
+  "research_question": "When does depicting a featured product or brand in slow motion (vs regular speed) in video ads increase perceived luxuriousness? Through what process does this occur, and under what conditions does it weaken or translate into stronger consumer desire such as higher WTP, purchase intentions, and ad clicks?"
+}

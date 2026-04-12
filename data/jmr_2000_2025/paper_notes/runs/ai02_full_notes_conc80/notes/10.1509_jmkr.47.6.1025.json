@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides a first direct assessment of how closing a specific outlet affects chain-level sales for a multioutlet, multiformat grocery retailer.",
+    "It conceptualizes closure impact as two components - trip losses and spending changes on retained trips - and links both to store, trip, and shopper characteristics.",
+    "It proposes a closure-specific prediction approach (store-intercept survey plus switching and spending models) that outperforms models calibrated on regular shopping behavior."
+  ],
+  "context": "The study is set in grocery retail in a Dutch city of about 450,000 inhabitants, where a focal chain operates convenience, supermarket, and hypermarket formats. The local market includes many competing supermarkets, hypermarkets, and convenience outlets.",
+  "design_and_data": "Data were collected through preshopping intercept surveys in four outlets of the focal chain (one convenience store, two supermarkets, one hypermarket), combined with postshopping receipt collection. Of 1064 survey respondents, 832 provided receipts; the survey captured household and trip profiles, planned category purchases, and stated replacement behavior under a hypothetical closure of the visited store. Replacement store choice was estimated with a three-level nested multinomial logit that includes a no-buy option and allows asymmetric substitution across formats. Spending shifts from within-chain format switches were estimated with category-level Tobit models using planned purchases and observed receipt spending.",
+  "focal_constructs": [
+    "store outlet closures",
+    "chain sales losses",
+    "replacement store selection",
+    "trip retention and trip loss",
+    "format switching",
+    "category spending shifts",
+    "shopper and trip characteristics",
+    "distance and substitution/transaction costs"
+  ],
+  "main_findings": [
+    "Chain sales losses from a closure varied strongly across outlets, ranging from less than 30% to more than 80% of the closed outlet's revenue in this setting.",
+    "Losses were higher for the convenience outlet than for supermarkets or the hypermarket, and closure outcomes depended on outlet format/location and customer-trip profile variables such as basket size, fresh-item needs, household size, and time pressure.",
+    "Allowing for spending changes after within-chain format switches materially changed predicted losses (e.g., hypermarket closure losses increased, while supermarket closure losses decreased), and the closure-specific model predicted better than a model based on regular shopping patterns."
+  ],
+  "one_line_summary": "Using intercept survey and receipt data from a multiformat grocery chain, the paper estimates how closing specific outlets reallocates trips and spending and shows that chain sales losses are highly outlet-specific.",
+  "relation_to_prior_work": "introduces a closure-specific, chain-level framework for outlet pruning, while prior related work largely focused on store openings, outlet viability, or routine switching. It argues that closure responses are not the mirror image of opening effects and should be modeled directly rather than inferred from business-as-usual shopping data.",
+  "research_gap": "The authors state that marketing research had paid little direct attention to store closures and offered little guidance on estimating retained versus lost chain sales. They argue that evidence from store openings or regular price/promotion-driven switching is not sufficient because store closure is a major disruption that forces consumers to alter established shopping patterns.",
+  "research_question": "How does the closure of a particular outlet affect total chain sales for a multiformat, multioutlet retailer? The paper examines both where shoppers reallocate trips after a closure and how much they spend on retained trips when they switch to different store formats."
+}

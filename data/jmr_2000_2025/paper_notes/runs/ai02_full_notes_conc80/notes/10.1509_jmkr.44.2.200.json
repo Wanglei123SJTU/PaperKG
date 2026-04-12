@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces ICERANGE, an incentive-compatible procedure to elicit an individual consumer's reservation price as a range linked to purchase probabilities, and presents it as the first such range-based method in this literature.",
+    "It claims to reconcile diverse reservation price definitions by mapping them to floor (100%), indifference (50%), and ceiling (0%) supports within a unified range framework.",
+    "It claims empirical and methodological value by showing stronger predictive validity than benchmark elicitation methods while providing incremental information about valuation uncertainty."
+  ],
+  "context": "The empirical setting is point-of-purchase elicitation with real buying opportunities for hedonic consumer goods. Two applications are reported: premium Belgian chocolate (Galler) and Australian red wine (The Lucky Country) with student respondents in US university settings.",
+  "design_and_data": "The paper develops ICERANGE and tests it in two studies with actual purchase enforcement. In the chocolate study (N = 562 undergraduates at two major US universities), respondents were randomly assigned across ICERANGE (134), BDM (128), Vickrey auction (104), and three self-explicated measures (54, 59, 83); ICERANGE and BDM were collected via one-on-one interviews, and predictive performance was evaluated using shift in choice likelihood (SCL) from observed buy/not-buy at offer prices. In the wine study (N = 91 part-time MBA students), respondents were assigned to ICERANGE (41), BDM (31), or Vickrey auction (19) using a questionnaire format. The chocolate study also measured preference and performance uncertainty with six items and factor analysis, then related factor scores to individual reservation price range.",
+  "focal_constructs": [
+    "reservation price range",
+    "floor reservation price",
+    "indifference reservation price",
+    "ceiling reservation price",
+    "purchase probability mapping",
+    "incentive compatibility",
+    "strategic response bias",
+    "performance and preference uncertainty"
+  ],
+  "main_findings": [
+    "ICERANGE data support a nonzero reservation price range: in chocolate, mean floor/indifference/ceiling prices were $2.97/$3.48/$4.19 with mean range $1.22 (significantly greater than zero), and 106 of 134 respondents expressed a range rather than a point; in wine, mean range was $4.92 (significantly greater than zero).",
+    "ICERANGE showed superior predictive validity to benchmark methods: chocolate SCL = .126 versus BDM .180, Vickrey .307, and self-explicated measures .315-.339; wine SCL = .08 versus BDM .29 and Vickrey .21.",
+    "In the chocolate study, individual reservation price range was positively associated with both preference uncertainty (r = .276) and performance uncertainty (r = .236), both significant at p < .05; in the wine study these correlations were positive but not statistically significant."
+  ],
+  "one_line_summary": "The paper argues that individual reservation price is better represented as a purchase-probability range and proposes ICERANGE, an incentive-compatible elicitation method that predicts actual buying better than BDM, Vickrey auction, and self-explicated measures in chocolate and wine studies.",
+  "relation_to_prior_work": "extends prior reservation-price elicitation work, especially BDM-style incentive-compatible methods, by moving from single-point valuation to a probability-linked range of floor, indifference, and ceiling thresholds. It also draws on uncertainty research to unify previously inconsistent reservation-price definitions under one framework.",
+  "research_gap": "Prior studies lacked consensus on how reservation price should be defined and measured, with different definitions implicitly mapping to different purchase probabilities and typically treating willingness to pay as a single point. The paper identifies the need for an incentive-compatible method that captures uncertainty-driven valuation ranges at the individual level.",
+  "research_question": "Is an individual consumer's reservation price more accurately conceptualized as a range tied to purchase probabilities rather than a single point? If so, can an incentive-compatible elicitation procedure capture this range while improving prediction of actual purchase behavior relative to existing direct methods, and is the range related to performance and preference uncertainty?"
+}

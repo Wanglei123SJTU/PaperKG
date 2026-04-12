@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper identifies consumers' political ideology as a key moderator of reactance to government-issued consumption regulations.",
+    "It shows that message source matters: regulations and warnings tied to government can backfire among conservatives, whereas nongovernment sources attenuate this effect.",
+    "It provides a practical communication implication for policy makers by showing that less forceful framing (notification vs warning) can reduce conservative reactance."
+  ],
+  "context": "The paper examines U.S. health and safety regulation contexts where authorities try to shape consumer behavior, including mobile phone use while driving, unhealthy food purchases, and e-cigarette use. The focal sources are government agencies and laws (e.g., state/federal transportation agencies, FDA) versus nongovernment sources.",
+  "design_and_data": "The authors run four studies: one natural experiment and three online experiments. Study 1 uses county-level California data around the January 2017 handheld-phone law, combining telecom website traffic logs, election results, and census controls in a difference-in-differences setup (45,936 county-hour observations across rush-hour weekdays, with prior-year baseline periods). Study 2 (MTurk, n=202) manipulates whether a proposed phone-use regulation comes from state or federal government and measures ideology, trait reactance, implication-based threat perceptions, and phone-use intentions. Study 3 (MTurk, n=164) manipulates warning-label source (FDA vs company) on an unhealthy pizza label and measures purchase intentions and threat to freedom; Study 4 (MTurk, n=201) manipulates FDA message framing (warning vs notification) for e-cigarettes and measures negative perceptions.",
+  "focal_constructs": [
+    "political ideology (conservative vs liberal)",
+    "psychological reactance",
+    "perceived threat to freedom",
+    "implication beliefs about future restrictions",
+    "message source (government vs nongovernment)",
+    "consumption regulations and warning labels",
+    "trait reactance",
+    "message framing (warning vs notification)"
+  ],
+  "main_findings": [
+    "After California's mobile phone law was enacted, overall mobile-use behavior proxy declined, but counties with higher conservatism showed relatively higher post-law mobile activity, including increases in the most conservative counties.",
+    "Across experiments, conservatism predicted greater counter-regulatory responses when the restriction/warning came from government sources, while this pattern was not observed in the same way for nongovernment sources.",
+    "Trait reactance amplified conservatives' counter-regulatory intentions, perceived threat to freedom mediated key effects, and framing an FDA message as a notification (vs warning) reduced conservative backfire in the e-cigarette context."
+  ],
+  "one_line_summary": "The paper shows that government-backed consumption regulations can backfire among conservatives due to reactance, but source and framing choices can attenuate this effect.",
+  "relation_to_prior_work": "extends reactance and political-ideology research by showing that responses to consumption regulations depend on the interaction of ideology and government source cues, operating through threat-to-freedom mechanisms. It shifts beyond prior message-tailoring work by demonstrating that source attribution itself can reverse persuasion among conservatives.",
+  "research_gap": "Prior reactance research had shown that government restrictions can trigger reactance, but it had largely not examined political ideology as a moderator of these effects. The paper also addresses limited understanding of how source attribution (government vs nongovernment) changes consumer responses to consumption regulations.",
+  "research_question": "Do consumers with different political ideologies respond differently to consumption regulations, especially when those regulations are attributed to government sources? The paper asks whether conservatives are more likely than liberals to engage in counter-regulatory behavior, whether reactance-based threat-to-freedom processes explain this pattern, and whether source and message framing can mitigate backfire."
+}

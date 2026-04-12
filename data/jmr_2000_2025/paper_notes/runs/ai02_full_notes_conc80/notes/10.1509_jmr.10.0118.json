@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Proposes a multicategory demand model that jointly specifies purchase incidence, purchase quantity, and brand choice decisions, with cross-category promotion effects in both incidence and quantity components of primary demand.",
+    "Uses a flexible nonhomothetic translog indirect basket utility to measure cross-category effects and addresses coherency requirements for consistent estimation under this utility form.",
+    "Shows how methodological choices about cross-category effects and utility form change retailer promotion decisions on budget allocation across brands and timing coordination across categories."
+  ],
+  "context": "The empirical application is grocery retail basket behavior in related categories, primarily pasta sauce and pasta, using household scanner panel data from a large store in Pittsburgh. The authors also estimate a three-category version (adding butter) as a robustness check for category relatedness effects.",
+  "design_and_data": "The model is derived from basket utility maximization and duality, yielding stochastic equations for incidence, brand choice, and budget shares across categories. It is estimated on household-level scanner data with 160 households and 8201 observations, split into an estimation sample (110 households, 5406 observations) and a holdout sample (50 households, 2795 observations). Estimation uses maximum likelihood with sparse grids quadrature and two-segment mixture normal heterogeneity, with parameter restrictions/checks to ensure utility coherency conditions. The proposed model is compared with homothetic and restricted cross-category alternatives, and policy simulations are run to study promotion allocation and timing.",
+  "focal_constructs": [
+    "multicategory brand choice",
+    "purchase incidence decisions",
+    "purchase quantity decisions",
+    "cross-category promotion effects",
+    "basket utility maximization",
+    "nonhomothetic translog indirect utility",
+    "promotional budget allocation",
+    "promotion timing coordination"
+  ],
+  "main_findings": [
+    "Ignoring cross-category promotion effects in incidence and quantity leads to different and potentially incorrect promotional budget allocation across brands; with the full model, San Giorgio pasta is most promotion-effective, followed by Classico sauce and then Barilla sauce.",
+    "Using a restrictive homothetic utility substantially underestimates cross-category effects in incidence and quantity and can yield conclusions similar to models that ignore cross-category effects.",
+    "Retailers are better off contemporaneously promoting pasta and pasta sauce brands than promoting them in different periods, and omitting cross-category quantity effects can reverse this inference."
+  ],
+  "one_line_summary": "The paper develops and estimates a multicategory basket-utility model with cross-category promotion effects in incidence and quantity and shows that these modeling choices materially alter retailer promotion allocation and timing decisions.",
+  "relation_to_prior_work": "extends prior multicategory basket-utility research by jointly modeling brand choice, incidence, and quantity while allowing cross-category promotion effects in both incidence and quantity. extends Song and Chintagunta (2007) by adding cross-category incidence effects and a nonhomothetic utility, and extends Mehta (2007) by adding quantity decisions, handling nonhomothetic coherency conditions, and allowing correlated brand preferences across categories.",
+  "research_gap": "Prior multicategory studies did not simultaneously model all three purchase decisions (brand choice, incidence, quantity) while allowing cross-category promotion effects in both incidence and quantity. The paper also argues that common homothetic specifications and insufficient treatment of coherency under nonhomothetic utility can bias measurement of cross-category effects used for promotion policy decisions.",
+  "research_question": "How should a multicategory demand model be specified to capture consumers' brand choice, purchase incidence, and purchase quantity decisions when promotions in one category affect demand in another category? Do modeling cross-category effects in both incidence and quantity, and using a flexible utility form to measure them, materially change retailer decisions on promotional budget allocation across brands and timing coordination across categories?"
+}

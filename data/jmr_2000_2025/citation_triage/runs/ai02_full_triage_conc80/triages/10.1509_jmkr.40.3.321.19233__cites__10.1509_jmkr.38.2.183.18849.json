@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited 2001 study is a close methodological predecessor (Bayesian constrained random-effects multivariate probit with slice sampling and griddy Metropolis-Hastings), and the citing 2003 paper explicitly positions itself as addressing computational limits of earlier MH/Griddy-Gibbs-style MVP estimation in high dimensions. Given this strong method overlap and explicit prior-work framing, this is not an obvious incidental mention; the DOI-level match confirms the exact citation.",
+  "triage_decision": "keep_for_relation_judgment"
+}

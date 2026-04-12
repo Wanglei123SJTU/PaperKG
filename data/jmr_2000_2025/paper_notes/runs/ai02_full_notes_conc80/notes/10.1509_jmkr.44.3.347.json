@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper introduces preference fluency, defined as the felt ease or difficulty of forming a preference, as a determinant of choice outcomes.",
+    "It shows that deferral and compromise effects can be shifted by extraneous fluency manipulations without changing option attributes, choice set composition, response options, or reference points.",
+    "It demonstrates that fluency effects depend on attribution: when difficulty is attributed to an irrelevant source, the choice effects are reduced or eliminated."
+  ],
+  "context": "The studies use hypothetical consumer choices for cordless telephones, digital cameras, and microwave ovens. Choices were made in web and classroom questionnaire settings, including deferral decisions and three-option trade-off sets.",
+  "design_and_data": "The paper reports four between-subject experiments. Study 1 (N = 205) manipulated readability of identical product descriptions (standard vs difficult font) and crossed this with an attribution cue about the font in a cordless-phone deferral task. Study 2 (N = 289) asked participants to rate the ease of generating 2 vs 10 reasons before choosing between two options or deferring for digital cameras and microwave ovens, and tested mediation by perceived difficulty. Study 3 (N = 178) and Study 4 (N = 218) used three-option compromise-choice designs with 2 vs 10 reasons manipulations, and Study 4 additionally manipulated attribution via information that others generated 2.4 vs 9.6 reasons.",
+  "focal_constructs": [
+    "preference fluency",
+    "subjective difficulty of preference formation",
+    "choice deferral",
+    "compromise effect",
+    "processing fluency",
+    "ease of reason generation",
+    "attribution of fluency experiences"
+  ],
+  "main_findings": [
+    "In Study 1, difficult-to-read font increased deferral (41% vs 17%), and this effect disappeared when participants were told the font might be hard to read (both font conditions 16%).",
+    "In Study 2, considering 10 reasons (vs 2) increased perceived difficulty and raised deferral rates, and perceived difficulty mediated the effect of number of reasons on deferral.",
+    "In Studies 3 and 4, lower fluency increased choice of the middle compromise option, and attribution manipulations that explained difficulty as task-related reduced this increase (for example, 70% to 48% in Study 4)."
+  ],
+  "one_line_summary": "Across four experiments, the paper shows that lower preference fluency from hard-to-read text or difficult reason generation increases choice deferral and compromise selection unless the difficulty is attributed to an irrelevant source.",
+  "relation_to_prior_work": "extends prior research on choice difficulty and context effects by showing that metacognitive fluency during preference construction can drive deferral and compromise outcomes even when option content and set structure are held constant. It transfers fluency and misattribution logic from judgment research to consumer choice behavior.",
+  "research_gap": "Prior work on deferral and compromise mainly manipulated trade-offs, set composition, or reference points, which changes thought content during choice. The paper identifies a gap in testing whether metacognitive fluency itself, independent of option content, can causally produce these choice effects.",
+  "research_question": "Does the subjective ease or difficulty of forming a preference, independent of the alternatives' attributes, influence consumer choice outcomes? Specifically, can reduced preference fluency increase choice deferral and compromise selection, and are these effects contingent on whether people attribute the difficulty to the choice versus an irrelevant source?"
+}

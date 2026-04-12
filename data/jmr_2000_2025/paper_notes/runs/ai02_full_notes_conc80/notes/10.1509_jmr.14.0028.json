@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides the first hand-coded empirical evidence on disclosures of 34 customer metrics in annual reports across telecom and airline firms, explicitly distinguishing backward-looking and forward-looking disclosures.",
+    "Tests the consequences of disclosure quantity and shows that forward-looking customer metric disclosures, especially customer outcome disclosures, are linked to lower capital-market uncertainty.",
+    "Evaluates the managerial proprietary-cost thesis and finds no evidence that greater customer metric disclosure reduces future cash flows."
+  ],
+  "context": "The paper studies publicly listed U.S. firms in telecommunications (SIC 4812, 4813) and airlines (SIC 4512) using 10-K annual reports. The industry comparison contrasts a setting with contractual customer relationships (telecom) and one without them (airlines).",
+  "design_and_data": "The authors identify firms from Compustat (1994-2011) and manually code 511 10-K reports (365 telecom, 146 airlines) for disclosure or nondisclosure of 34 customer metrics, separately for backward-looking and forward-looking statements. They construct disclosure scores by summing binary indicators across metrics and disclosure type. They merge these data with I/B/E/S analyst forecasts and CRSP returns, yielding estimation samples of 192 telecom and 95 airline firm-year observations after matching and forecast availability requirements. They estimate simultaneous equations for analyst uncertainty, investor uncertainty, and next-year cash flows using 3SLS with firm fixed effects, extensive controls, and instruments based on lagged disclosures and CMO presence.",
+  "focal_constructs": [
+    "Backward-looking customer metric disclosures",
+    "Forward-looking customer metric disclosures",
+    "Customer outcome metrics",
+    "Analyst uncertainty",
+    "Investor uncertainty",
+    "Future cash flows",
+    "Proprietary costs"
+  ],
+  "main_findings": [
+    "In both industries, firms disclose more backward-looking than forward-looking customer metrics, and telecom firms disclose more customer metrics than airlines.",
+    "Greater forward-looking disclosure of customer metrics is associated with lower investor uncertainty in both industries and lower analyst uncertainty in telecommunications.",
+    "The results do not support the claim that greater customer metric disclosure hurts future cash flows; observed significant effects are nonnegative and in some cases positive."
+  ],
+  "one_line_summary": "Using hand-coded 10-K data from telecom and airline firms, the study finds that forward-looking customer metric disclosures reduce investor uncertainty (and analyst uncertainty in telecom) without lowering future cash flows.",
+  "relation_to_prior_work": "extends prior marketing-finance and accounting disclosure research by moving from calls for customer-metric reporting to direct empirical tests of disclosure prevalence and consequences, while most earlier work examined other nonfinancial disclosures or backward-looking market reactions.",
+  "research_gap": "Despite repeated recommendations from marketing scholars, MASB, and regulators, there was no empirical evidence on whether and how much firms disclose customer metrics in annual reports. Prior work also had not tested whether these disclosures reduce analyst and investor uncertainty or instead impose proprietary costs that depress future performance.",
+  "research_question": "How prevalent are customer metric disclosures in annual reports, and how do backward-looking and forward-looking disclosures differ across firms and industries? Do these disclosures lower analyst and investor uncertainty about future cash flows, and do they harm future financial performance as managers argue?"
+}

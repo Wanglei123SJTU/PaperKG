@@ -1,0 +1,4 @@
+{
+  "rationale": "The topics are quite different (WOM ABM for freemium conversion vs. consumer-durable product line design), which could indicate a peripheral citation. However, the citing paper explicitly uses genetic-algorithm calibration, and the cited paper prominently evaluates GA-based optimization, so it could plausibly be a method source; with only DOI-level match and no in-text citation context, this cannot be safely dropped.",
+  "triage_decision": "uncertain"
+}

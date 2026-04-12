@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and supports a procedural-bias account that scenarios and analogies create stickier priors than traditional analytic reasoning.",
+    "It provides a multi-study demonstration that common corrective analytic tools (counterfactual reasoning, multiple scenarios/analogies, accountability, decomposition) can be insufficient after nonanalytic elaboration.",
+    "It argues that analytic judgment tools are themselves susceptible to prior nonanalytic framing in new product forecasting."
+  ],
+  "context": "The studies are set in simulated managerial new product forecasting decisions, including Internet shopping adoption, an electronic book launch, vitalia-based snack foods, a BrandMaps market simulation, and a home security product forecast. The domain is early-stage product evaluation where decision makers rely heavily on judgment.",
+  "design_and_data": "The paper reports a series of randomized experiments, mostly laboratory studies, that compare nonanalytic versus analytic elaboration in forecasting tasks. Study 1 (N=92 undergraduates) used a 2 x 2 x 2 mixed design on scenario versus reason generation and success/failure order for Internet shopping judgments. Study 2 (N=190 undergraduates) manipulated scenario generation and accountability for electronic-book forecasts; Study 3 (N=125 undergraduates) and Study 3A (N=141 analyzed across MBA, Executive MBA, undergraduate, and other participants) manipulated initial analogies and counteranalogies in launch judgments; Study 4 (N=92 undergraduates) manipulated analogy, top-down versus bottom-up processing, and decomposition. Dependent measures included launch recommendations, likelihood/confidence judgments, and market-share/sales forecasts.",
+  "focal_constructs": [
+    "nonanalytic thinking",
+    "analytic thinking",
+    "stickier priors",
+    "scenario generation",
+    "reasoning by analogy",
+    "counterfactual reasoning",
+    "accountability",
+    "task decomposition"
+  ],
+  "main_findings": [
+    "Initial scenarios and initial analogies created primacy effects in forecasts, and these order effects were stronger than those from generating discrete reasons.",
+    "Counterscenarios, counterreasons, counteranalogies, and evenhanded evidence did not fully remove biases from initial nonanalytic priors, and some interventions appeared to exacerbate bias.",
+    "Accountability increased optimism after scenario generation, and decomposition reduced analogy influence mainly when used before an initial top-down estimate; once analogy-based priors formed, decomposition did not effectively debias."
+  ],
+  "one_line_summary": "Across five experiments on new product forecasting judgments, the paper finds that scenario- and analogy-based priors are stickier than reason-based priors and often persist despite corrective analytic techniques.",
+  "relation_to_prior_work": "extends prior research on belief perseverance and order effects by showing that persistence depends on elaboration type, with scenario- and analogy-based priors more resistant to updating than reason-based priors, and by testing common debiasing tools in new product forecasting tasks.",
+  "research_gap": "Prior evidence on scenario analysis was mixed and often confounded by different operationalizations, including elaborate scenarios versus simple reasons. The paper also notes that analogy research had not directly tested whether analogy-driven judgments can be neutralized by subsequent analytic thinking.",
+  "research_question": "To what extent can analytic thinking neutralize biasing effects of preliminary nonanalytic intuitions in new product forecasts? The paper tests whether priors formed through scenario generation and analogical reasoning are more persistent than priors formed through analytic reason generation, and whether corrective techniques can debias these judgments."
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Demonstrates in randomized field settings that merely labeling a crowdsourced product as \"customer-ideated\" at the point of purchase can increase actual sales.",
+    "Shows that crowdsourcing can add value not only through generating ideas but also through a demand-side signaling effect when the design source is communicated to customers.",
+    "Provides evidence that the effect is driven by a quality inference: consumers view customer-ideated products and the corresponding design mode as better at addressing user needs."
+  ],
+  "context": "The studies were conducted with Muji in Japan, a consumer goods brand that runs online idea contests with its user community. The focal domains were consumer electronics (Tag Tool security buzzer) and snack food (new pretzel flavors) at market introduction in physical stores.",
+  "design_and_data": "Study 1 was a randomized field experiment in 46 Muji stores across Japan (final analyzed cells: baseline n=20 and crowdsourced-cue n=23 after exclusions), tracking security-buzzer unit sales for 67 days while POP displays either did or did not state that the idea came from customers. Study 2 was a randomized field experiment in 194 stores over 16 days for two simultaneously launched pretzels (crowdsourced soybean flavor and designer-ideated jalapeno flavor) under four POP cue conditions (none, crowdsourced only, designer only, both). Study 3 was an online randomized experiment with 3,296 Japanese consumers using analogous POP manipulations, measuring choice and coding open-ended reasons for mediation tests. Study 4 was a lab experiment with 179 students at a European university that varied which Tag Tool application was labeled customer- versus designer-ideated and measured perceived quality and choice.",
+  "focal_constructs": [
+    "crowdsourcing",
+    "customer-ideated design source cue",
+    "point-of-purchase labeling",
+    "new product market performance",
+    "consumer quality inference",
+    "user-driven design mode",
+    "consumer choice"
+  ],
+  "main_findings": [
+    "In two randomized field experiments, revealing a crowdsourced product as customer-ideated at the POP increased market performance, with lifts around 17% in Study 1 and about 20% in Study 2.",
+    "In Study 2 baseline stores where neither design source was disclosed, the crowdsourced pretzel outsold the designer-ideated pretzel (about 1.55 to 1), indicating higher objective performance for the crowdsourced option in that setting.",
+    "Follow-up studies showed that the labeling effect is mediated by a quality inference (customer-ideated products are seen as better at meeting needs), and results did not support a simple \"more specific information\" explanation for designer-ideated cues."
+  ],
+  "one_line_summary": "Using Muji field experiments and follow-up studies, the paper shows that labeling products as customer-ideated at the point of purchase boosts sales largely via a consumer quality inference.",
+  "relation_to_prior_work": "extends prior crowdsourcing research centered on objective idea quality by identifying an additional demand-side effect from communicating design source at purchase. It also extends lab-based user-design inference findings by testing real sales outcomes in randomized field experiments and linking those outcomes to a quality-inference mechanism.",
+  "research_gap": "Prior work mainly assessed crowdsourcing as an innovation tool for generating objectively better ideas and products, while evidence was limited on whether communicating crowdsourced origin itself changes consumer behavior. Existing support for such inferences was largely lab-based, leaving open whether a simple POP label would affect real-world purchasing and sales.",
+  "research_question": "Does labeling a new product as customer-ideated at the point of purchase, versus not revealing its design source, increase its actual market performance? The paper also asks whether any observed effect is explained by a quality inference that customer-ideated products and design mode better address consumer needs."
+}

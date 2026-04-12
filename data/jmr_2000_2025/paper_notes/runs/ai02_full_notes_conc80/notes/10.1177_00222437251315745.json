@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces a structural rating-topic model (SRTM) that lets latent topics be either formative causes of ratings or reflective verbal outcomes of ratings.",
+    "Integrates topic partitioning (formative vs reflective) into Bayesian MCMC model search, so dimensionality reduction and topic-role assignment are done jointly.",
+    "Shows empirically that accounting for reflective content improves model fit and yields more semantically coherent, managerially useful formative topics."
+  ],
+  "context": "The empirical setting is online customer reviews of luxury hotels in Manhattan, New York, obtained from Expedia. Hotels were selected to be similar in luxury category, location (near Times Square/Broadway), and price point.",
+  "design_and_data": "The paper develops a Bayesian generative text model that extends LDA with a structural component: formative topics predict latent ratings, while reflective topics are modeled as outcomes of those ratings. Topic roles are inferred via latent binary indicators and stochastic-search style model selection within MCMC, with ordered-probit mapping for observed ordinal ratings. The authors also run simulations to show bias when reflective topics are incorrectly treated as formative. The empirical application uses 2,264 preprocessed reviews (from 3,481 initially), 66,241 tokens, and a 1,378-term vocabulary (including frequent bigrams and trigrams), and compares SRTM with LDA benchmarks using log marginal likelihood and holdout perplexity (1,247 additional reviews).",
+  "focal_constructs": [
+    "formative topics",
+    "reflective topics",
+    "overall consumer rating",
+    "document-topic probabilities",
+    "structural rating-topic model (SRTM)",
+    "topic coherence",
+    "topic uniqueness"
+  ],
+  "main_findings": [
+    "SRTM outperformed benchmark LDA models on fit, with higher log marginal likelihood and lower holdout perplexity than both standard supervised LDA and unsupervised LDA.",
+    "In the hotel data, 2 of 10 topics were identified as reflective, and reflective content accounted for about 38% of corpus words, indicating substantial non-formative review text.",
+    "Compared with supervised LDA, SRTM produced more coherent and more unique topics and shifted the most predictive topic from generic positive-experience language to a concrete room-attribute topic with actionable managerial implications."
+  ],
+  "one_line_summary": "This paper proposes a Bayesian structural rating-topic model that separates formative from reflective review topics and demonstrates on luxury hotel reviews that doing so improves fit and yields clearer consumer insight.",
+  "relation_to_prior_work": "extends supervised topic-rating models by allowing latent topics to be reflective outcomes of ratings instead of assuming all topics are formative predictors. It also differs from attribute-labeled neural approaches by modeling all review text generatively without requiring predefined attributes or needs.",
+  "research_gap": "Existing supervised text models linking reviews to ratings generally treat all inferred topics as predictors of the rating. The paper argues this misses reflective statements that restate overall evaluations, which can inflate predictive performance and bias formative-topic effect estimates toward zero.",
+  "research_question": "How should review text and ratings be modeled when some topics provide reasons for the rating but other topics merely restate that rating? Can a joint topic model infer this formative-versus-reflective split and improve inference about the true drivers of consumer evaluations?"
+}

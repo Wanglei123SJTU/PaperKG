@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper studies dual-network recommendations for exploratory search (YouTube/Last.fm), while the citing paper focuses on a Bayesian joint model of sentiment and venue-format choice; the overlap is only broad (online/social media behavior), not clearly methodological or construct-level from the provided notes. Because we only have a DOI match and no in-text citation context showing how 10.1509/jmr.11.0091 is used, it cannot be safely dropped but is not clearly a key dependency either.",
+  "triage_decision": "uncertain"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper argues that the sales impact of added media weight depends on ad creative content and the feelings ads evoke, not on weight alone.",
+    "It bridges field ad-weight testing and consumer information-processing research by studying real-world commercials tied to market-test sales outcomes.",
+    "It distinguishes affective and heuristic peripheral cues in applying ELM ideas to mature, frequently purchased categories and highlights the low-motivation/high-ability context."
+  ],
+  "context": "The setting is U.S. television advertising for well-established, frequently purchased brands in mature categories, including soup, frozen entrees, snack chips, frozen breakfast foods, vegetable juice, and long-distance services. The managerial issue is when increasing media weight produces aggregate sales gains.",
+  "design_and_data": "Study 1 used 47 real-world TV commercials from five major marketers, each linked to a separate media-weight market experiment; 25 ads were classified as weight sales positive (WSP) and 22 as weight sales neutral (WSN) based on whether added weight produced a statistically significant sales lift versus control. Added weight in the original tests was about 50%-100% above control, using matched-market methods or IRI BehaviorScan split-cable tests, and the authors received only the WSP/WSN classification rather than raw sales levels. Trained judges coded each ad for affective, heuristic, and rational executional cues, and a logit model predicted WSP versus WSN status. Study 2 gathered reactions from 1,344 target consumers (ages 20-45) in two states who each viewed one target ad embedded with other ads; due to constraints, analyses covered 36 ads (18 WSP, 18 WSN) and used logit models with Eicker-White robust standard errors.",
+  "focal_constructs": [
+    "media weight",
+    "WSP versus WSN ad status",
+    "affectively based executional cues",
+    "heuristic executional cues",
+    "rational executional cues",
+    "positive viewer feelings",
+    "negative viewer feelings",
+    "consumer motivation and ability"
+  ],
+  "main_findings": [
+    "In Study 1, commercials with more affectively based executional cues were significantly more likely to be WSP, even after controlling for ad length.",
+    "Heuristic and rational executional cues were not significantly related to WSP versus WSN status in this mature, frequently purchased brand context.",
+    "In Study 2, ads that evoked stronger positive feelings and weaker negative feelings were more likely to be WSP, and these effects remained after controlling for other viewer responses."
+  ],
+  "one_line_summary": "Using real-world TV commercials from field ad-weight tests, the paper finds that added media weight is more likely to increase sales for mature, frequently purchased brands when ads are affectively executed and generate positive rather than negative viewer feelings.",
+  "relation_to_prior_work": "extends prior ad-weight studies that emphasized market and managerial drivers by incorporating ad executional content and viewer affective responses as predictors of sales response to added weight. It also refines ELM-based expectations in this setting by separating affective from heuristic peripheral cues under low-motivation/high-ability conditions.",
+  "research_gap": "Prior ad-weight research for mature, frequently purchased brands rarely examined ad executional content or viewer reactions, while consumer information-processing studies typically used lab settings with forced exposure and seldom linked effects to sales. This left a gap between field sales evidence and theory on how specific ad cues and responses should matter.",
+  "research_question": "When does increasing media weight for real-world TV advertisements increase sales for frequently purchased brands in mature categories? Specifically, do executional cue type and the feelings ads evoke in viewers distinguish commercials that show sales gains from added weight (WSP) from those that do not (WSN)?"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s central contribution is to combine household panel data with store-level aggregate shares for SKU-level demand estimation, explicitly motivated by sparse household SKU-week cells and identification/endogeneity issues. The cited paper directly analyzes identification and finite-sample recoverability of segmentation from store-level aggregate data, which is a plausible methodological foundation/comparison point for that approach. With this strong topical/method overlap (and exact DOI match), this is not an obvious incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

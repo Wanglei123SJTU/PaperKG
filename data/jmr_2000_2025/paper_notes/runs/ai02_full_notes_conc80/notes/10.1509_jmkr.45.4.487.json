@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a household-level methodology to decompose promotion effects into brand switching, stockpiling, and consumption change while allowing heterogeneity in brand preferences and consumption needs.",
+    "It develops a dynamic structural model in which households jointly decide when, what, and how much to buy and how much to consume, and introduces simplifying assumptions plus a hedonic utility specification to make estimation feasible with many products.",
+    "It provides decomposition-based managerial insights on how temporary price cuts affect current and future sales differently across brands and household segments (brand loyals vs switchers, heavy vs light users)."
+  ],
+  "context": "The empirical setting is household packaged-goods purchasing under temporary price promotions, primarily in canned tuna and then replicated in paper towels. The tuna application uses scanner panel data from Sioux Falls, South Dakota, and the paper-towel replication uses scanner panel data from a large U.S. city.",
+  "design_and_data": "The authors specify a dynamic structural household model with endogenous consumption and inventory, then approximate the infinite-horizon problem with a finite planning horizon and two assumptions: proportional inventory depletion across products and adaptive updating of expected future prices. They estimate the model with simulated method of moments. For canned tuna, they use ACNielsen panel data (1000 households, 123 weeks, 74,795 household-week observations, 13,394 purchases), focusing on 6.5-ounce cans and 12 product alternatives built from 33 SKUs. They replicate the analysis in single-roll paper towels using IRI data (99 households, 104 weeks, 8,714 observations, 1,795 purchases, 4 product alternatives), and run counterfactual price-cut simulations to decompose sales effects.",
+  "focal_constructs": [
+    "temporary price promotions",
+    "brand switching",
+    "stockpiling",
+    "flexible consumption",
+    "household heterogeneity",
+    "brand preferences",
+    "usage rate heterogeneity",
+    "inventory and price expectations"
+  ],
+  "main_findings": [
+    "In canned tuna, brand switching is not the dominant source of promotion-driven sales; the average decomposition is about 29% consumption effect, 28% brand-switching effect, and 43% stockpiling effect.",
+    "For larger-share tuna brands, a bigger portion of promotion lift comes from stockpiling, whereas smaller-share brands show relatively larger consumption and brand-switching components.",
+    "Household heterogeneity matters: brand loyals mainly respond by stockpiling while brand switchers show essentially no stockpiling, and heavy users stockpile more while light users increase consumption more; in paper towels, consumption effects are smaller and stockpiling is the dominant component."
+  ],
+  "one_line_summary": "The paper proposes and estimates a tractable dynamic structural household model with endogenous consumption to decompose promotion-induced sales into consumption, brand-switching, and stockpiling effects in canned tuna and paper towels.",
+  "relation_to_prior_work": "extends prior promotion-decomposition research that typically assumed fixed household consumption by explicitly modeling flexible consumption in a household-level dynamic structural framework with heterogeneity. It also provides a tractable alternative to high-dimensional dynamic models through hedonic utility and simplifying behavioral assumptions.",
+  "research_gap": "Prior household-level decomposition models largely treated consumption as fixed, which can misattribute promotion-induced sales changes to switching or stockpiling. The paper also argues that existing aggregate/store-level decomposition approaches do not explicitly capture household-level heterogeneity in preferences and usage when many products are present.",
+  "research_question": "How can temporary promotion effects be decomposed into brand switching, stockpiling, and consumption increase when household consumption is endogenous and households are heterogeneous in preferences and usage? Which components dominate overall and by brand, and how do responses differ across brand loyals versus switchers and heavy versus light users?"
+}

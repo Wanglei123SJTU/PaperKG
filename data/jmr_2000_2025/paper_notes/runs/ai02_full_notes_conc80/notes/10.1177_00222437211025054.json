@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The authors identify slow motion as a visual cue that can trigger intentionality inferences and reduce persuasion in consumption-focused video advertising.",
+    "They extend slow motion intentionality-bias findings from adjudication settings to marketing and specify boundary conditions involving intentionality bias, cognitive load, and agent humanness.",
+    "They offer a methodological contribution by showing that eye fixation on influence agents' eyes can proxy consumers' attributional inference about intentionality in visual marketing."
+  ],
+  "context": "The paper examines video advertising and social media contexts in which on-screen influence agents demonstrate and react to product consumption. Empirical settings include Facebook advertising, lab and online experiments, and live-streaming clips across products such as beverages, food, facial cleanser, and earbuds.",
+  "design_and_data": "The paper reports seven studies, plus a pilot analysis of YouTube food commercials and additional web-appendix studies. Core evidence includes a Facebook split-test field experiment for a Soylent ad in Hong Kong (N=26,972 unique impressions), an in-lab eye-tracking experiment with Hong Kong students (N=199), and several U.S. MTurk experiments (e.g., N=313, 348, 501, 506) using real ads and live-stream clips. Manipulations include playback speed (slow motion vs natural speed), cognitive load, and influence-agent type (human vs nonhuman), with outcomes including click-through rate, product attitudes, willingness to pay, and interest in trying the product. A within-paper meta-analysis is reported to assess robustness across experiments.",
+  "focal_constructs": [
+    "slow motion video",
+    "perceived intentionality",
+    "influence agent motivation",
+    "product evaluation",
+    "visual attention to eyes",
+    "intentionality bias",
+    "cognitive load",
+    "humanness of influence agent"
+  ],
+  "main_findings": [
+    "Across studies with human influence agents, slow motion (vs natural speed) reduced ad effectiveness and product appeal, including lower Facebook click-through rates and lower product ratings or willingness to pay.",
+    "Slow motion increased inferred intentionality behind influence agents' behavior, and both perceived intentionality and greater eye fixation on agents' eyes mediated the negative effect on product evaluation.",
+    "The negative effect attenuated for people with lower intentionality bias and under cognitive load, and it reversed when ads used nonhuman animated agents."
+  ],
+  "one_line_summary": "Across seven studies using real video ads, slow motion depictions of human consumption generally backfired by lowering product appeal through stronger intentionality inferences about the influence agent.",
+  "relation_to_prior_work": "extends prior slow-motion work from mostly aesthetic outcomes and adjudication judgments to consumer persuasion by showing that playback speed shifts intentionality attributions toward influence agents and can reduce ad effectiveness.",
+  "research_gap": "Slow motion is widely used in video advertising, but its persuasive impact in marketing settings is not well established. Prior evidence that slow motion increases perceived intentionality comes mainly from adjudication contexts, leaving unclear whether similar social-cognitive inferences operate in consumer evaluations of ads.",
+  "research_question": "Does depicting consumption in slow motion, rather than natural speed, make video advertising more or less effective? The paper asks whether any effect is driven by consumers inferring greater intentionality and extrinsic motivation in influence agents, and when this effect attenuates or reverses."
+}

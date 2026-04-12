@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Identifies goal activation as the psychological process underlying cross-stimulus sensitization in food consumption.",
+    "Shows that sensitization is selective: it increases motivation for complementary foods but not unrelated or merely semantically associated foods.",
+    "Demonstrates that perceived complementarity drives the effect, including cross-cultural differences (e.g., ketchup-pizza in India vs. the United States)."
+  ],
+  "context": "The paper studies food consumption pairings such as cola-hamburger, cereal-milk, peanut butter-jelly, crackers-cheese, and pizza with cola or ketchup. Evidence comes from lab and online participants in Hong Kong, the United States, and India, including a cross-cultural test of perceived complementarity.",
+  "design_and_data": "The authors run five experiments across nine food pairs (six complementary, three noncomplementary). Experiment 1 (HK students, N = 110) uses an incentive-compatible BDM task: participants who drank Coca-Cola versus controls reported WTP for a real hamburger voucher. Experiments 2a (HK students, N = 249) and 2b (Boston University students, N = 244) test mechanism via lexical decision accessibility before/after complement consumption and immediate versus delayed WTP for a complement. Experiments 3 and 4 (CMU students) measure ad lib consumption after actual or imagined consumption manipulations, and Experiment 5 (MTurk India and U.S., N = 400) tests cultural moderation using cola-pizza and ketchup-pizza pairings.",
+  "focal_constructs": [
+    "cross-stimulus sensitization",
+    "goal activation",
+    "food complementarity",
+    "complement consumption goals",
+    "semantic association",
+    "imagined consumption",
+    "willingness to pay",
+    "cultural perceptions of complementarity"
+  ],
+  "main_findings": [
+    "After consuming Coca-Cola, participants were willing to pay more for a hamburger voucher than controls, indicating sensitization to a complementary food.",
+    "Results supported goal activation rather than semantic priming: cereal consumption increased accessibility of milk-related words before but not after milk was consumed, and sensitization to cola after pizza evaluation was stronger after a delay than immediately.",
+    "Sensitization was selective and perception-based: it appeared for complements (in both actual and imagined consumption paradigms), not for unrelated or semantically associated foods, and depended on culture-specific complementarity perceptions."
+  ],
+  "one_line_summary": "Across five experiments, consuming or imagining a food increased desire, intake, and WTP for perceived complementary foods, consistent with a selective goal-activation account of cross-stimulus sensitization.",
+  "relation_to_prior_work": "refines prior sensitization and motivation accounts by showing that food consumption activates goals for perceived complements rather than broadly increasing desire through general hot-state drives or simple semantic association.",
+  "research_gap": "Prior evidence offered little consensus on the breadth of cross-stimulus sensitization and focused largely on physical stimulus attributes, with limited attention to psychological mechanisms. In consumer settings, observed spillovers were often interpreted as general drive-state activation, leaving unclear whether consumption of a specific food selectively increases desire for specific other foods and why.",
+  "research_question": "Does consuming a food produce cross-stimulus sensitization to other foods, and if so, to which foods? The paper asks whether sensitization is caused by selective goal activation toward complements rather than general reward-drive activation or semantic association, and whether perceived complementarity determines when the effect occurs."
+}

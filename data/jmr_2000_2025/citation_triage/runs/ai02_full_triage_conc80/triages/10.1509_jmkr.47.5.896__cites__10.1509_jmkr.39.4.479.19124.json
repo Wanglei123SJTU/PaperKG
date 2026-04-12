@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper directly studies discrete vs continuous heterogeneity in logit choice models (including HB mixed logit), which is highly aligned with the citing paper’s focus on diagnosing MVN heterogeneity assumptions in hierarchical Bayes choice models. From the notes, the citing paper’s motivation explicitly involves whether MVN is adequate versus more flexible heterogeneity representations, making this cited work a plausible substantive comparison/foundation source rather than a generic mention. With this strong topical/method overlap, it should be kept for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

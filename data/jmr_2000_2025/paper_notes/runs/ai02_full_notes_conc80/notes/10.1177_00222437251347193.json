@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper positions itself as the first study to examine a vertical channel line extension through off-price store openings and its effects on incumbent full-line and online channels.",
+    "It proposes and empirically documents two mechanisms - the value customer effect and the option-to-return-products effect - to explain substitution and complementarity patterns.",
+    "It shows net benefits of off-price openings and documents heterogeneity across customer segments and products, including differences between newly acquired and existing customers."
+  ],
+  "context": "The empirical setting is a large publicly listed US high-end department store multichannel retailer with full-line physical stores and a full-line online store, selling primarily apparel, shoes, and accessories. During the study period, the retailer opened 10 offline off-price stores across multiple US markets in a staggered rollout.",
+  "design_and_data": "The authors use individual customer transaction data that include purchases and returns across channels. The estimation window spans 15 months (from 6 months before the first off-price opening to the month of the last opening), and a separate 6-month pre-period is used to construct customer heterogeneity variables. After sample construction, the analysis uses 13,500 customers across seven treatment cohorts defined by opening timing, with treated customers living within a 20-mile radius of a new off-price store. Causal effects are estimated using Callaway and Sant'Anna group-time treatment effects with a doubly robust DID estimator and not-yet-treated cohorts as comparisons, with robustness and falsification tests.",
+  "focal_constructs": [
+    "off-price store opening",
+    "full-line store spending",
+    "online store spending",
+    "substitution effect",
+    "complementarity effect",
+    "value customer effect",
+    "option-to-return-products effect",
+    "new customer acquisition"
+  ],
+  "main_findings": [
+    "Off-price store opening reduced full-line store spending by about 14.0 percent and increased online store spending by about 17.7 percent, indicating substitution for full-line and complementarity for online.",
+    "The full-line spending decline was concentrated among value customers, while regular customers' full-line spending did not significantly change.",
+    "Off-price openings increased online product return rate (about 9.96 percent) and sped up returns, with stronger effects for customers closer to off-price stores and for high-priced and fit-and-feel products; net customer spending increased (about 11.9 percent) and the number of unique customers increased (about 24.2 percent)."
+  ],
+  "one_line_summary": "Using customer-level panel data from a US high-end multichannel retailer, the paper shows that opening offline off-price stores cannibalizes full-line store spending but complements online spending, largely via value-customer migration and easier in-store returns of online purchases.",
+  "relation_to_prior_work": "extends multichannel retailing research that has mainly focused on horizontal store additions by analyzing a vertical off-price channel extension and its differential effects on incumbent full-line and online channels. It adds customer-level evidence on channel-specific spending and returns using staggered openings in a group-time DID framework.",
+  "research_gap": "Prior store-opening studies mainly examine horizontal channel additions, while the effects of a vertical channel extension in the form of off-price store openings have remained largely unexplored. The paper also argues that evidence is limited on how such openings affect both incumbent-channel spending and returns and through which mechanisms.",
+  "research_question": "How does opening offline off-price stores by a high-end multichannel retailer affect customer behavior in its incumbent full-line physical stores and online store? Which mechanisms explain these effects, especially value-customer migration and the option to return online purchases at nearby off-price stores, and how do effects vary across customer and product segments?"
+}

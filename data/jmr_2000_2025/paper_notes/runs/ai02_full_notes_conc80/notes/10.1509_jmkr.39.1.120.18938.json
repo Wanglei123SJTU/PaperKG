@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides a direct empirical comparison of survival rates for market pioneers versus early followers in industrial goods markets, using a broad Thomas Register sample.",
+    "It reports that pioneers are more likely than early followers to survive, implying that temporary monopoly and first-mover advantages can offset pioneering uncertainty.",
+    "It adds evidence on timing effects by showing that longer pioneer lead time helps pioneers, while early follower delay has an inverted-U relation with follower survival."
+  ],
+  "context": "The setting is new U.S. markets for manufactured industrial goods listed in the Thomas Register of American Manufacturers. The sample emphasizes nonfood regional or national markets and excludes product categories with high import shares.",
+  "design_and_data": "The authors use annual Thomas Register listings (1960-1999) to build a random cross-section of 167 markets with a unique first entrant and at least one early follower, yielding 167 pioneers and 267 early followers. Survival is coded at 5 and 10 years after entry; exit is identified when both firm name and address disappear from the category listing. They estimate logit models with entry-order indicators, pioneer lead-time interactions (including a squared term for early followers), and business and industry controls. Additional models reset time to the year when the pioneer first faces an early follower (n = 395) to help isolate effects beyond the temporary monopoly period.",
+  "focal_constructs": [
+    "market pioneer survival",
+    "early follower survival",
+    "order of market entry",
+    "first-mover advantages",
+    "pioneer lead time",
+    "temporary monopoly",
+    "market uncertainty",
+    "technological uncertainty"
+  ],
+  "main_findings": [
+    "Market pioneers have significantly higher survival rates than early followers: 87% versus 70% at five years and 66% versus 48% at ten years from entry.",
+    "When survival is measured from the year pioneers first face early followers, the pioneer advantage becomes smaller, consistent with the temporary monopoly contributing to survival differences.",
+    "Logit results support that pioneer status and longer pioneer lead time increase pioneer survival, and early follower delay has an inverted-U effect on follower survival with a peak at about two years."
+  ],
+  "one_line_summary": "Using Thomas Register data on 167 U.S. industrial goods markets, the paper finds that pioneers survive more often than early followers and that lead time helps pioneers while follower delay has an inverted-U relation with survival.",
+  "relation_to_prior_work": "extends prior order-of-entry survival research by separating pioneers from early followers in Thomas Register markets, rather than combining them within one introductory-stage entry group. It challenges conventional claims that pioneers are unusually failure-prone, while remaining consistent with first-mover advantage research that earlier entry can improve outcomes.",
+  "research_gap": "Prior work and conventional wisdom often emphasized pioneer failure risk, and existing empirical evidence on entry order and survival was mixed. In particular, prior Thomas Register life-cycle analyses grouped pioneers and early followers together in an introductory stage, leaving their relative survival rates unclear.",
+  "research_question": "Do first-entrant market pioneers in industrial goods have lower or higher survival rates than early followers during the early years of market evolution? How does pioneer lead time affect survival for pioneers and for early followers?"
+}

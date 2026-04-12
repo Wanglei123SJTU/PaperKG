@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Shows that a typical targeted CRM campaign with no explicit social/referral component causally affects nontargeted but connected customers.",
+    "Quantifies the size of CRM social spillovers, including a social multiplier estimate and an economic value estimate for the spillover.",
+    "Provides mechanism evidence, using experimental variation and IV analysis, that spillovers operate through increased communication and are stronger for stronger ego-alter ties, consistent with network externalities."
+  ],
+  "context": "The study is set at a large mobile telecommunications provider in Australia in a calling-party-pays market. The focal campaign targeted prepaid customers on a 28-day non-rollover plan by offering nontransferable free top-up credit via SMS.",
+  "design_and_data": "The authors ran a randomized field experiment on 1,041 focal customers (63% treatment, 37% control) who were active but at risk of suspension, then removed potentially contaminated ego networks to obtain a final sample of 961 egos and 4,700 first-degree alters. Alters were same-provider customers who had communicated with an ego at least twice in the month before treatment, and outcomes were tracked weekly for 4 pre-treatment weeks and 12 post-treatment weeks. They estimate treatment effects with difference-in-differences regressions for usage and probit models for suspension/churn. They then use treatment assignment as an instrument for ego-to-alter communication in IV/control-function models to test propagation mechanisms, and test moderation by tie strength and alter network size.",
+  "focal_constructs": [
+    "targeted CRM campaigns",
+    "social spillover effects",
+    "network externalities",
+    "customer usage",
+    "churn",
+    "suspension",
+    "tie strength",
+    "social multiplier"
+  ],
+  "main_findings": [
+    "The campaign increased targeted customers' usage (about 35% increase in minutes) and reduced suspension, with effects persisting beyond the short incentive window.",
+    "Nontargeted first-degree connections of treated customers increased usage (about 10% increase in minutes) and showed lower long-term churn than connections of control egos.",
+    "The estimated social multiplier is 1.28 (spillover effect is 28% of the direct effect), and IV results indicate that increased ego-to-alter communication drives the spillover; spillovers are larger for stronger ties and smaller when alters have more alternative connections."
+  ],
+  "one_line_summary": "Using a randomized telecom field experiment, the paper shows that a targeted nontransferable CRM top-up campaign increased not only targeted customers' usage and retention-related behavior but also connected nontargeted customers' usage and churn outcomes through social network spillovers.",
+  "relation_to_prior_work": "extends CRM and database marketing work by moving campaign evaluation beyond the targeted customer to include causal effects on connected nontargeted customers. It also extends social influence research that has focused on adoption and churn contagion by studying behavior change from a standard CRM intervention and quantifying its monetary spillover.",
+  "research_gap": "CRM research and practice largely evaluate campaigns only on targeted customers, despite many settings with customer-to-customer network externalities. The paper addresses the unresolved question of whether standard non-referral CRM campaigns create meaningful positive or negative spillovers on connected nontargeted customers, and through what mechanism.",
+  "research_question": "Do targeted CRM campaigns that are designed to change behavior of specific customers also change the behavior of nontargeted customers connected to them? If so, what is the direction and magnitude of this social effect on usage and churn, and is it explained by network externalities transmitted through increased communication?"
+}

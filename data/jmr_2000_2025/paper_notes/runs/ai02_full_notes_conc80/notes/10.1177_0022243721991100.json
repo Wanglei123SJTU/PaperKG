@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a two-stage choice model for online learning that jointly captures latent across-day quitting and within-day choices among lectures, quizzes, and breaks with learner-level heterogeneity.",
+    "It maps estimated lecture-progress utility shapes to established theories of goal progress and reports evidence that an inverted U-shaped resource-slack pattern is common in field data.",
+    "It shows the model can be used for early detection of engagement decline and links estimated learning styles to course outcomes and future platform engagement, while also comparing paid versus free learners' quiz behavior."
+  ],
+  "context": "The empirical setting is Coursera in 2015, using four open introductory business courses: Marketing, Accounting, Operations, and Finance. These are self-paced online courses with weekly content releases, where learners can watch lectures and attempt graded quizzes, and paid learners can earn certificates.",
+  "design_and_data": "The authors use Coursera submissions logs that record lecture near-completions and quiz submissions with timestamps, plus quiz scores and final grades. They define a 6-week observation window and construct a final descriptive sample of 14,396 week-1 learners with at least 50% lecture completion and no overlap across the four focal courses (354,017 submissions). For model estimation, they use a balanced subsample of 1,989 learners across 8 subpopulations (paid/free x 4 courses; 51,202 submissions). They estimate a hierarchical Bayes two-stage discrete-choice model with latent attrition (continue vs quit) and within-day lecture/quiz/end-day-break choices, with quadratic lecture-progress utility and a quiz last-quiz effect, and compare nested/alternative specifications via DIC and posterior predictive checks.",
+  "focal_constructs": [
+    "goal progress",
+    "latent attrition",
+    "lecture utility",
+    "quiz utility",
+    "continuation vs quitting decision",
+    "learning styles",
+    "intrinsic vs extrinsic motivation"
+  ],
+  "main_findings": [
+    "Across Marketing, Accounting, and Operations, the dominant lecture goal-progress pattern is an inverted U-shaped utility curve (resource slack), while Finance shows different dominant patterns (paid: stuck in the middle; free: satiation).",
+    "Including latent attrition materially improves the model: without it, simulated last active day is overestimated and lecture utility is misspecified; nested models removing key progress terms fit worse.",
+    "After controlling for quitting, paid and free learners have broadly similar lecture-progress shapes, but paid learners have higher baseline quiz utility and higher first-attempt quiz scores, while free learners are more quiz-averse; estimated learning-style categories and deviation from subpopulation-average curves are associated with final grades and future paid-course uptake."
+  ],
+  "one_line_summary": "Using Coursera data from four business MOOCs, the paper estimates a hierarchical two-stage choice model with latent attrition and shows that learners most commonly display an inverted U-shaped lecture motivation pattern as progress increases.",
+  "relation_to_prior_work": "extends prior marketing and psychology work on goal pursuit and noncontractual latent attrition by integrating both into a single MOOC choice model and empirically classifying individual-level progress-utility shapes in field data.",
+  "research_gap": "Prior MOOC work emphasizes dropout prediction from activity traces but does not clearly separate latent quitting from changing engagement as goal progress evolves. Prior goal-progress research has focused largely on monotonic patterns or completers, with limited field evidence on individual-level nonmonotonic utility dynamics over long-run progress.",
+  "research_question": "How does learners' utility for lectures and quizzes change as they make progress toward course completion goals in self-paced online courses? Can a model that separates latent quitting from within-day content choices identify heterogeneous goal-progress patterns and connect them to performance and future engagement?"
+}

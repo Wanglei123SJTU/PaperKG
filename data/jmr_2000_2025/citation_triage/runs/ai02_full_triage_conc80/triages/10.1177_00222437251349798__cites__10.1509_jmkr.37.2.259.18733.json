@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper focuses on modeling consumer collections/playlists and explicitly discusses bundle/category generation, while the cited paper is a well-known assortment-choice model, so a potentially foundational conceptual link is plausible. However, the only match evidence is a single DOI reference with no in-text citation context, and the citing note does not indicate direct use of the cited model as method, benchmark, or core comparison. Given this sparse evidence, it is not safe to drop but also not strong enough to clearly keep.",
+  "triage_decision": "uncertain"
+}

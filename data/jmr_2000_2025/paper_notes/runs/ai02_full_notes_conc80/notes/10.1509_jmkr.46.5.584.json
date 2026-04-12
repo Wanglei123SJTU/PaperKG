@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops analysis tools for a multisite, multiwave regression discontinuity quasi-experimental design that account for observed and unobserved heterogeneity in field interventions.",
+    "Provides hotel-specific empirical Bayes posterior estimates of service-guarantee effects and uses them to build site-sensitive stop/continue and reward rules.",
+    "Introduces a rollout targeting approach that estimates each nonadopting hotel's odds of a positive program effect."
+  ],
+  "context": "The study examines a 100 percent satisfaction-or-you-do-not-pay service guarantee in a North American midpriced franchised hotel chain. Implementation occurred at the hotel level and was staggered across properties from January 1998 to April 1999, with in-hotel promotion and no mass-media advertising.",
+  "design_and_data": "The authors analyze a multisite regression discontinuity quasi experiment using guest telephone survey data and archival program implementation records. The full database includes 85,321 observations from 178 hotels across 16 survey administrations; for the discontinuity analysis they retain 81 hotels with sufficient pre- and post-implementation observations. They estimate a three-level hierarchical model (customers within hotel-time cells within hotels) with customer covariates, month indicators, and hotel preprogram characteristics, plus random hotel effects for SG impact. Estimation combines full-information maximum likelihood for fixed effects and variance components with empirical Bayes posteriors for site-specific program effects.",
+  "focal_constructs": [
+    "service guarantees",
+    "customer service evaluations",
+    "regression discontinuity quasi experiment",
+    "subject heterogeneity",
+    "treatment heterogeneity",
+    "heterogeneous causal effects",
+    "empirical Bayes posterior effects",
+    "hotel-level continuation and reward rules"
+  ],
+  "main_findings": [
+    "Service-guarantee effects varied substantially by hotel: 28 hotels had significant positive net effects, 11 had significant negative effects, and 43 had no significant change.",
+    "The grand mean SG effect across hotels was not significant, but SG impact was higher at hotels with better preprogram service history and larger shares of single-purpose travelers, and was not significantly moderated by hotel-level preprogram loyalty share.",
+    "For future rollout among 70 nonadopting hotels, the model identified 9 hotels with greater than 90 percent odds of a positive effect and 17 hotels with less than 10 percent odds."
+  ],
+  "one_line_summary": "Using staggered hotel-chain implementation data, the paper estimates site-specific service-guarantee effects with a hierarchical regression discontinuity model and finds that gains concentrate in already stronger, easier-to-serve hotels.",
+  "relation_to_prior_work": "extends prior service-guarantee field evaluations by moving beyond constant-effect analyses and beyond methods tailored to two-wave designs. It applies heterogeneous-treatment-effect logic from program evaluation to marketing quasi experiments through a multisite, multiwave framework.",
+  "research_gap": "Existing service-guarantee evaluations in the field produce mixed conclusions because standard analyses do not adequately handle unobserved subject heterogeneity and heterogeneous treatment effects across sites. The paper argues that available marketing methods, especially outside two-wave settings, leave key managerial questions about continuation, rewards, and targeting unresolved.",
+  "research_question": "How does a service guarantee affect customer service evaluations at each hotel site when both observed and unobserved heterogeneity across customers, hotels, and implementation contexts are present? Which implemented sites should continue or discontinue and be rewarded, and which nonimplemented sites should be prioritized for rollout based on estimated odds of success?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper critically reviews categorical and dimensional interdependence operationalizations and identifies methodological limitations in how prior channel studies measure and test interdependence effects.",
+    "It introduces and applies response surface approach (RSA) to distributor-supplier interdependence, highlighting three managerially useful outputs: the stationary point, the direction for changing dependence, and the rate of outcome change along principal axes.",
+    "It provides distributor-side evidence that supplier dependence and distributor dependence should be treated separately when analyzing channel outcomes."
+  ],
+  "context": "The empirical setting is industrial distributor-supplier relationships in the United States, focusing on distributors in SIC 5084 (industrial machinery/equipment) and 5085 (industrial supplies). The study is explicitly from the distributor perspective.",
+  "design_and_data": "The authors first review prior empirical approaches to interdependence (categorical and dimensional) and their analytical implications. They then estimate second-order polynomial response surfaces (RSA) linking supplier dependence and distributor dependence to three outcomes: distributor commitment, bilateral communication, and supplier control. Data come from a mail survey of randomly sampled industrial distributors from a Dun & Bradstreet list (1000 contacted, 283 responses, 28.3 percent response rate, 253 usable cases), after prior interviews and a pretest-based measure refinement process. The analysis contrasts RSA results with replications of prior categorical and dimensional models and includes several control variables.",
+  "focal_constructs": [
+    "supplier dependence",
+    "distributor dependence",
+    "interdependence magnitude",
+    "interdependence asymmetry",
+    "response surface approach",
+    "distributor commitment",
+    "bilateral communication",
+    "supplier control"
+  ],
+  "main_findings": [
+    "Distributor dependence is positively associated with commitment and communication and with perceived supplier control across the observed range, while supplier dependence shows nonlinear effects.",
+    "Commitment and communication rise with supplier dependence up to about 4.98 (on the original 7-point scale) and then decline, whereas supplier control rises with supplier dependence only up to about 4.12 and then declines.",
+    "From the distributor perspective, the best outcomes are not produced by simply maximizing interdependence magnitude and minimizing asymmetry; high distributor dependence combined with moderate supplier dependence yields more favorable outcomes."
+  ],
+  "one_line_summary": "Using survey data from industrial distributors, the study shows with response surface analysis that supplier and distributor dependence have asymmetric, partly nonlinear effects on commitment, communication, and perceived supplier control.",
+  "relation_to_prior_work": "refines prior marketing channels research by contrasting categorical and dimensional interdependence approaches and showing that difference-score and linear specifications can mask asymmetric and nonlinear effects of each party's dependence.",
+  "research_gap": "Prior channel studies used inconsistent operationalizations of interdependence (categorical versus dimensional) without directly validating or contrasting them, and they rarely assessed redundancy between magnitude and asymmetry measures. They also relied mainly on ANOVA or linear regression, limiting detection of nonlinear effects and reducing actionable managerial interpretation.",
+  "research_question": "How should interdependence in distributor-supplier dyads be measured and analyzed so that its effects on channel outcomes are captured validly? Specifically, do supplier dependence and distributor dependence exert distinct (including nonlinear) effects on distributor commitment, bilateral communication, and supplier control, and what additional managerial insight does RSA provide relative to prior approaches?"
+}

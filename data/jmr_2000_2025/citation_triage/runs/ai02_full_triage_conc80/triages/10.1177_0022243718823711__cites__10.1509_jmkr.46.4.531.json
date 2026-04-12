@@ -1,0 +1,4 @@
+{
+  "rationale": "Keep: the citing paper’s demand estimation explicitly uses an aggregate random-coefficients/nested-logit setup with control-function corrections for endogenous price/distribution, which closely matches the cited paper’s core methodological contribution (SML for aggregate random-coefficient logit with endogeneity handling). The DOI-level match confirms this specific methods paper is indeed referenced, making it a plausible methodological source rather than an incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

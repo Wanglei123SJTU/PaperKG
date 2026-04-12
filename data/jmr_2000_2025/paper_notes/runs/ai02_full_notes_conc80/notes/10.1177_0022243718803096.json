@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides direct managerial guidance on when selective versus full sales training should be used and how the trained subset should be composed.",
+    "Compares full training, selective training, and no training in a retail sales setting while explicitly estimating spillover from trained to untrained salespeople.",
+    "Moves sales training research beyond training content by identifying compositional drivers of spillover from both the trained group and the untrained peers in a competitive individual-sales context."
+  ],
+  "context": "The study is set in a national upscale/luxury apparel retailer with commission-based store salespeople. The training intervention is an off-site multiday social-selling program that teaches personalized relationship-building messages to past customers via social media and text.",
+  "design_and_data": "The authors analyze field data from 209 stores over two years (one pretraining year and one posttraining year): 21 control stores (162 salespeople), 130 selective-training stores (947 salespeople), and 58 full-training stores (361 salespeople). Outcomes include store sales per square foot and salesperson adoption of the taught behavior (the proportion of past customers receiving personalized messages), with about 30 store- and salesperson-level covariates. They estimate effects using multilevel models and weighting/matching approaches (MMWS, IPTW, nearest-neighbor propensity matching), and replicate with Heckman selection, Gaussian copula corrections, and an IV/2SLS specification for training percentage.",
+  "focal_constructs": [
+    "selective sales force training",
+    "training spillover",
+    "store performance diversity",
+    "performance similarity to the trained group",
+    "tenure diversity of the trained subgroup",
+    "social-selling behavior adoption",
+    "store sales performance"
+  ],
+  "main_findings": [
+    "Selective training can be highly effective, and in stores with low performance diversity the sales-gain gap between selective and full training narrows significantly.",
+    "Untrained salespeople in selective-training stores improve more than comparable salespeople in no-training stores, with spillover strongest in low performance-diversity stores and reduced as diversity increases.",
+    "Spillover is stronger when the trained subgroup is tenure-diverse and when untrained salespeople are closer in performance to trained peers; trained salespeople also show higher adoption of the taught personalized-messaging behavior than untrained peers."
+  ],
+  "one_line_summary": "Using multi-store field evidence from an upscale retailer, the paper shows that selective sales training works mainly through spillover in performance-homogeneous stores, especially when the trained subset is tenure-diverse.",
+  "relation_to_prior_work": "extends prior training, peer-effects, and group-composition research by testing spillover in a competitive retail sales context and by comparing selective, full, and no training policies. It also studies both sides of spillover by modeling characteristics of untrained learners and trained knowledge holders.",
+  "research_gap": "Prior work had not clearly established whether selective versus full sales training can generate effective spillover in retail settings. The authors also argue that earlier studies largely overlooked subgroup composition and did not jointly examine factors on both the untrained and trained sides of knowledge transfer in competitive sales environments.",
+  "research_question": "Can training only a subset of salespeople improve outcomes for the whole store, and under what conditions does selective training work relative to full training or no training? Which configuration of salespeople should be trained so that training-related knowledge and behavior spill over to untrained peers?"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper discusses Kumar, Zhang, and Luo (2014) multiple times with specific detail, not just in a grouped background list. It uses that study to frame a concrete gap, stating that prior work captured average effects of email response on spending/subscription duration but did not model joint email-open and purchase dynamics with heterogeneity. The cited paper is also used as a direct methodological precedent in the copula literature discussion, supporting the current paper's positioning and contribution claims.",
+  "relation_description": "The citing paper extends Kumar, Zhang, and Luo (2014) by moving from average-effect permission-marketing analysis to a dynamic joint model of email opens and purchases. It builds on that prior stream while adding latent-state dynamics, dependence modeling, and a decision-support policy for optimal email contacts.",
+  "relation_type": "extends"
+}

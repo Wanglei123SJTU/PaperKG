@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in the methods section to justify a specific modeling choice: including the previous post's sentiment as a control for the discussion environment. This is a concrete operational role in the empirical specification, not just a generic background mention. The citing paper does not build its core theory on Moe and Trusov (2011), but it does transfer a forum-dynamics measurement idea into its own sentiment model.",
+  "relation_description": "The citing paper applies Moe and Trusov (2011) as methodological precedent for modeling online conversation dynamics, specifically by using lagged post sentiment as a control in its regressions. The cited work informs how the authors operationalize the communication context around each post.",
+  "relation_type": "applies"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Proposes a hierarchical Bayesian data-augmentation method to estimate disaggregate random-utility choice models using only aggregate share data.",
+    "Shows that augmenting latent individual choices makes it possible to model purchase-history dynamics (such as last-period purchase effects) with aggregate data.",
+    "Demonstrates the method's validity in simulations and illustrates its managerial usefulness for estimating store-level brand competition and price elasticities."
+  ],
+  "context": "The empirical application uses store-level weekly data for refrigerated orange juice from a Dominick's Finer Foods store in the Chicago market (June 1991 to May 1993, 104 weeks). The analysis focuses on Minute Maid, Dominick's store brand, Tropicana, and an outside good.",
+  "design_and_data": "The paper develops a hierarchical Bayesian random-coefficients logit framework in which latent choices for R representative clusters are augmented subject to observed aggregate-share constraints, and parameters are estimated by MCMC with Metropolis-Hastings steps. Validation is done through simulations that generate aggregate shares from known individual-level parameters (including a dynamic last-purchase variable) and test whether the estimator recovers them. The empirical study estimates three specifications on store-level orange juice data: a logit without dynamics, a logit with last-purchase dynamics, and a nested-logit purchase-incidence variant, and compares fit and implied elasticities.",
+  "focal_constructs": [
+    "aggregate share data",
+    "disaggregate random-coefficients choice model",
+    "Bayesian data augmentation",
+    "latent individual choices",
+    "purchase history dynamics",
+    "consumer heterogeneity",
+    "no-purchase option",
+    "brand price elasticities"
+  ],
+  "main_findings": [
+    "In simulation experiments, the estimator recovered the true parameters, with true values lying within the 95% intervals of posterior mean estimates.",
+    "In the orange juice application, last-period purchase had a significant negative effect on current purchase incidence for the focal brands.",
+    "The dynamic logit model with no-purchase treated as another alternative fit better than both the no-dynamics logit and the nested-logit purchase-incidence model, and the estimated elasticities indicated asymmetric competition with Tropicana's price exerting relatively larger cross-brand effects."
+  ],
+  "one_line_summary": "The paper introduces a Bayesian latent-choice augmentation method that enables estimation of dynamic disaggregate brand-choice behavior from aggregate store-level shares and finds significant purchase dynamics in refrigerated orange juice data.",
+  "relation_to_prior_work": "introduces a hierarchical Bayesian alternative to prior aggregate-data discrete-choice estimators that either match observed shares or use aggregate likelihoods without observable individual purchase histories. It keeps the random-utility heterogeneity structure but enables purchase-history effects to enter utility through augmented latent choices.",
+  "research_gap": "Prior methods for estimating discrete choice models with aggregate data can handle heterogeneity but generally do not recover purchase-history effects because individual histories are unobserved and integrating over all possible history paths is computationally impractical. Consequently, microlevel purchase dynamics are typically omitted when only aggregate data are available.",
+  "research_question": "Can disaggregate random-utility choice models, including microlevel purchase-history dynamics, be estimated when only aggregate brand-share data are observed? Specifically, can a Bayesian data-augmentation approach recover latent individual choices and identify dynamic effects and brand competition parameters from aggregate data alone?"
+}

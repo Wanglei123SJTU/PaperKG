@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides a comprehensive empirical analysis of brand characteristics as antecedents of WOM across many brands and in both online and offline channels.",
+    "It presents a theoretical framework that organizes WOM antecedents into three drivers - social, emotional, and functional - and links these drivers to 13 brand characteristics.",
+    "It identifies and tests three WOM antecedents not previously studied in this context: brand differentiation, brand excitement, and brand complexity."
+  ],
+  "context": "The study examines highly talked-about U.S. national brands across 16 categories, including products, services, corporate brands, sports teams, and TV shows. WOM is analyzed in two communication environments: offline conversations (face-to-face and phone) and online mentions (blogs, forums, and Twitter).",
+  "design_and_data": "The authors compiled a brand-level dataset for 697 brands (final estimation sample: 613 brands with complete covariates except satisfaction). Offline WOM came from Keller Fay weekly diary data (January 2007 to August 2010), and online WOM came from NM Incite daily data (July 2008 to March 2010), aggregated to total mentions by brand. Brand characteristics were measured using a new survey of 4,769 U.S. respondents and Y&R Brand Asset Valuator data, plus secondary sources such as Interbrand and ACSI. They estimated separate online and offline hierarchical negative binomial models with category effects and a Bayesian missing-data approach for satisfaction.",
+  "focal_constructs": [
+    "brand WOM volume",
+    "online WOM mentions",
+    "offline WOM conversations",
+    "brand differentiation",
+    "brand excitement",
+    "brand complexity",
+    "social, emotional, and functional WOM drivers",
+    "brand visibility and relevance"
+  ],
+  "main_findings": [
+    "Brand differentiation and brand excitement are positively associated with WOM, and differentiation has a much stronger effect online than offline.",
+    "Brand complexity is positively related to offline WOM but negative and only marginally significant for online WOM.",
+    "Across drivers, social and functional factors are most important for online WOM, whereas the emotional driver is most important for offline WOM."
+  ],
+  "one_line_summary": "Using data on more than 600 major U.S. brands, the study shows that brand characteristics systematically predict WOM and that the dominant drivers differ by channel, with social/functional effects stronger online and emotional effects stronger offline.",
+  "relation_to_prior_work": "extends prior WOM antecedent research by integrating branding constructs into a large-scale, cross-category analysis that jointly compares online and offline WOM.",
+  "research_gap": "The paper states that branding and WOM are core marketing domains but have been studied largely separately, leaving limited understanding of brand characteristics as WOM antecedents. It also notes that prior antecedent studies typically examined only one or two characteristics and usually focused on either online or offline WOM, not both.",
+  "research_question": "How do brand characteristics influence the amount of WOM a brand receives? Do these effects, and the relative importance of social, emotional, and functional WOM drivers, differ between online and offline WOM channels?"
+}

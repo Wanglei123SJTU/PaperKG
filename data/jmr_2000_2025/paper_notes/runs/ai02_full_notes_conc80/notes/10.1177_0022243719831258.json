@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper develops a multiperiod theoretical model of strategic information transmission between a monopoly university-ranking publication and prospective students, where rankings both reveal quality information and create prestige.",
+    "It shows that when a prestige effect exists, a profit-maximizing publication has incentives to choose attribute weights that do not match student preferences and to change those weights over time, even without changes in preferences or education technology.",
+    "It derives student-welfare benchmarks, including a viewing-student-optimal and an all-student-optimal ranking methodology, and compares them with the publication's profit-maximizing methodology."
+  ],
+  "context": "The setting is commercial college and university rankings (for example, USNWR) used by prospective students in higher education choice. The model focuses on one ranking publication and students as the target audience in a repeated ranking environment.",
+  "design_and_data": "This is a theoretical paper with a multiperiod model and no empirical dataset. Universities are characterized by multiple attributes, and the publication chooses attribute weights in an attribute-and-aggregate ranking method before observing realized attributes each period. Students decide whether to view the ranking (at a cost) and where to enroll, with utility from both objective attributes and rank-based prestige that depends on prior ranking popularity. The analysis uses perfect Bayesian equilibrium, special-case characterizations, dynamic results, and a two-university two-attribute welfare comparison (with additional details in a Web Appendix).",
+  "focal_constructs": [
+    "university rankings",
+    "prestige effect",
+    "attribute-and-aggregate methodology",
+    "student university choice",
+    "strategic information transmission",
+    "profit-maximizing ranking design",
+    "ranking uncertainty"
+  ],
+  "main_findings": [
+    "Without a prestige effect, the publication's optimal ranking methodology matches student preferences (viewing-student-optimal weights).",
+    "With a prestige effect, the publication has incentives to add randomness by choosing attribute weights that diverge from student preferences, and in the extreme prestige-only case the optimal policy is a uniform/random ranking.",
+    "In a stable environment, as ranking popularity grows over time and prestige strengthens, the publication optimally moves from student-preference weights toward more random rankings, and this profit-maximizing design injects more uncertainty than is optimal for all students."
+  ],
+  "one_line_summary": "The paper shows in a multiperiod model that prestige created by university rankings leads a profit-maximizing publisher to strategically deviate from student-preference weights and increasingly randomize rankings over time, reducing student welfare relative to student-optimal designs.",
+  "relation_to_prior_work": "extends prior work on informative versus persuasive communications, fashion cycles, and media bias by modeling university rankings as both information and prestige signals and showing how these forces create incentives for strategic ranking manipulation.",
+  "research_gap": "The paper identifies a lack of formal explanation for why commercial university-ranking publications persistently change methodologies and may introduce volatility even when student preferences and education technology are stable. It also addresses the limited modeling of ranking publications as strategic, profit-seeking actors whose rankings can create prestige in addition to conveying information.",
+  "research_question": "How does a for-profit university-ranking publication choose ranking methodology when rankings both inform students about university attributes and create prestige for highly ranked schools? Under what conditions will the publication choose weights that differ from student preferences and adjust them over time, and how do these choices compare with student-welfare-optimal ranking methods?"
+}

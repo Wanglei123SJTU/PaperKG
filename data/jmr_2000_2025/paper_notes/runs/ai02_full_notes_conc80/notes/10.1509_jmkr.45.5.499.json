@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper provides a rigorous empirical test of price war consequences on consumer purchase behavior, addressing the lack of evidence beyond largely descriptive and game-theoretic work.",
+    "It separately identifies short-term and long-term effects of a price war on store visits, spending, and consumer sensitivity to weekly prices and store price image.",
+    "It combines behavioral modeling with decomposition analyses to show chain-level winners and losers, and supplements this with competitive reaction and stock-price evidence."
+  ],
+  "context": "The study examines a nationwide Dutch supermarket price war that started on October 20, 2003, when market leader Albert Heijn cut prices on a large set of items and major rivals quickly matched. The focal market includes six large national chains spanning service chains, middle-positioned chains, and hard discounters.",
+  "design_and_data": "The authors use GfK Dutch household hand-scan purchase data from July 2001 to December 2005 and keep a balanced panel of 1,821 households observed across 204 calibration weeks (90 pre-war and 114 post-war). They model purchases at the six largest national chains, combining purchase records with household-level store perception data (price image, produce quality), promotion data (feature/display), and store characteristics (distance, surface). They estimate a multivariate heterogeneous Tobit II model for weekly store visit incidence and conditional log spending, with pulse and cumulative price-war variables and interactions to capture short-run and long-run moderation of weekly price and price-image sensitivity. They also perform decomposition of spending changes and examine competitive reactions and stock-price patterns as complementary evidence.",
+  "focal_constructs": [
+    "price war",
+    "store visit probability",
+    "store spending",
+    "weekly store prices",
+    "store price image",
+    "price sensitivity",
+    "shopping around"
+  ],
+  "main_findings": [
+    "The price war temporarily increased shopping around and spending, but in the long run spending per visit declined and overall visits for the average store did not remain elevated.",
+    "The price war increased consumer sensitivity to weekly prices (for visits in the short run and for spending in both short and long run) and increased sensitivity to price image in the long run.",
+    "Albert Heijn improved its price image and halted its market-share slide, hard discounters benefited from increased price-image sensitivity, and rival mid-level/high-end chains were hurt because their price images did not improve."
+  ],
+  "one_line_summary": "Using Dutch household panel data around the 2003-2005 supermarket price war, the paper shows that initial traffic and spending gains faded into lower long-run spending while price and price-image sensitivity rose, producing clear winners and losers across chains.",
+  "relation_to_prior_work": "extends prior price-war research by moving beyond mostly antecedent-focused and descriptive evidence to a household-level empirical analysis of short-run and long-run consequences for store visits, spending, and price-related sensitivities.",
+  "research_gap": "Prior literature documented price war antecedents more than consequences, and empirical evidence on outcomes was sparse, case-based, and not rigorous enough to clarify overall and long-run effects. The paper targets the unresolved question of how price wars affect consumer behavior components and whether effects differ across firms through changes in price and price-image sensitivity.",
+  "research_question": "How did the major Dutch supermarket price war affect consumer store visits and spending in the short run versus the long run? Did the war change how strongly consumers respond to weekly prices and store price image, and did those changes create different outcomes for different retail chains?"
+}

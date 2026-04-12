@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in the empirical implementation section, not only as general background. The authors explicitly state they follow Gordon, Goldfarb, and Li (2013) for key data-preparation steps: aggregating UPC purchases to manufacturer-level brands and imputing missing brand prices using same-month, same-store-type purchases by other households. These choices directly shape the dataset used to estimate and validate the proposed CLV model. That role is a meaningful methodological application in the citing study.",
+  "relation_description": "The citing paper applies procedures from Gordon et al. (2013) to operationalize its scanner-panel dataset, especially brand aggregation and missing-price imputation. This is a direct methodological use to implement the citing paper's CLV framework in the CPG setting.",
+  "relation_type": "applies"
+}

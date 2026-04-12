@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops empirical generalizations about the role of periodicity in retail pricing using a large multi-category scanner dataset.",
+    "Shows that aggregating pricing interactions across frequencies can hide distinct interaction patterns and alter conclusions about competition.",
+    "Identifies brand- and category-level correlates of frequency-specific price variation and price coherence, suggesting practical relevance for modeling and managerial decisions."
+  ],
+  "context": "The empirical setting is U.S. grocery retail pricing using Dominick's Finer Foods scanner data from Chicago. The study analyzes weekly store-level leading-SKU prices for consumer packaged goods across 35 categories and 166 brands.",
+  "design_and_data": "The authors apply multivariate spectral decomposition to weekly price series, estimating spectra (variance by frequency) and coherence (frequency-specific cross-brand comovement). Frequencies are grouped into short (<=4 weeks), medium (4-13 weeks), and long (>13 to 50 weeks) planning horizons and then analyzed with random-effects regressions using brand-pair and category descriptors. The dataset spans 400 weeks and yields 166 price series, 348 brand pairs, 498 spectrum observations, and 1044 coherence observations. They also run a structural manufacturer-retailer pricing example in shredded cheese by filtering data at a 4-week cutoff and estimating a linear 3SLS system to compare inferred conduct across high- and low-frequency components.",
+  "focal_constructs": [
+    "pricing periodicity",
+    "planning horizons",
+    "regular price changes",
+    "temporary price reductions",
+    "spectral power distribution",
+    "cross-brand coherence",
+    "frequency aggregation bias",
+    "competitive conduct inference"
+  ],
+  "main_findings": [
+    "Cross-brand price interactions occur at multiple planning horizons, and the dominant interaction frequency typically does not match the weekly sampling rate.",
+    "Most observed price variation is explained by slower regular-price movements rather than rapid discount cycles, and planning horizon plus category effects account for much of spectral variation.",
+    "Frequency-specific interaction patterns vary with brand and category factors (for example, higher coherence for same-manufacturer pairs and lower coherence with higher private-label share), and inferred competitive conduct differed by frequency in the shredded cheese example (near Nash at low frequencies versus more cooperative at high frequencies)."
+  ],
+  "one_line_summary": "Using Dominick's weekly SKU prices across 35 grocery categories, the paper shows that pricing variation and cross-brand interactions are frequency-specific and that ignoring periodicity can distort inferences about competition.",
+  "relation_to_prior_work": "extends prior time-domain research on competitive pricing by decomposing price variation and interaction into frequency-domain planning horizons. It responds to calls for studying periodicity explicitly and argues that periodicity aggregation is different from standard time aggregation.",
+  "research_gap": "The paper states that little is known about how pricing interactions differ across planning cycles, even though weekly prices combine decisions such as regular price setting and temporary discounting by potentially different actors. It argues that analyzing data only at the sampling interval leaves periodicity aggregation unresolved, so existing time-domain approaches may obscure important interaction patterns.",
+  "research_question": "How do retail price variation and cross-brand price interactions differ across short-, medium-, and long-term planning horizons rather than only at the observed sampling interval? The paper also asks whether these frequency patterns are linked to brand and category characteristics and whether aggregation across frequencies affects inferences about competitive response."
+}

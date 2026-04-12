@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper studies bias mechanisms in online reviews (extremity driven by differential attrition), and the citing paper’s core design question is whether to base certification on consumer reports versus administrative metrics, so there is a plausible conceptual link. However, the provided evidence is only a single DOI-level match with no in-text citation context or stated dependence in the citing note. Given this sparse evidence, it cannot be safely dropped but is not strong enough to clearly keep.",
+  "triage_decision": "uncertain"
+}

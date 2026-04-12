@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing study’s core method is a multinomial logit with three latent supports for heterogeneity, and the cited paper directly evaluates discrete (finite mixture) versus continuous (HB mixed logit) heterogeneity representations in logit choice models. That makes the cited work a plausible methodological justification/source rather than a generic background mention. With a direct DOI match present, this pair should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and documents a novel spillover mechanism in which employees' digital presence on a service website alters memories of past service encounters and raises perceived employee service quality.",
+    "It identifies key contingencies and boundaries of digital presence effects, showing stronger effects with higher employee accessibility and stronger customer orientation, and no employee-quality spillover from nonservice employees or to product quality.",
+    "It shows that the effect on customer loyalty is explained not only by website service quality but also importantly by employee service quality, with implications for firm performance."
+  ],
+  "context": "The paper studies service firms' websites where customers can encounter images and contact information of service employees, with a core field setting of German service firms across industries. Complementary experiments use U.S. service contexts including courier, hospitality, telecommunication, and automotive services.",
+  "design_and_data": "Study 1 is a large-scale multisource, time-lagged field study with 3,351 customers from 113 German service firms (data collected 2012-2014), combining website coding, key-informant management surveys, customer telephone surveys, and follow-up objective revenue data for 66 firms. The authors estimate a multilevel model with controls and endogeneity corrections (selection correction, latent instrumental variable approach, and latent classes for unobserved heterogeneity). They then run randomized between-subject experiments (Studies 2-5, MTurk samples) to test mechanisms, moderators, and boundary conditions across multiple service scenarios.",
+  "focal_constructs": [
+    "digital presence of service employees",
+    "website service quality perceptions",
+    "employee service quality perceptions",
+    "reconstructive memory process",
+    "social presence perceptions",
+    "employee accessibility",
+    "customer orientation",
+    "customer loyalty"
+  ],
+  "main_findings": [
+    "Digital presence of service employees increases perceived website service quality and perceived employee service quality.",
+    "These effects translate into positive indirect effects on customer loyalty through both website and employee service quality, and customer loyalty predicts subsequent revenue per employee in the field sample.",
+    "Effects are stronger when employee accessibility is higher and when customer orientation is stronger; the employee-quality spillover appears only for service employees and does not generalize to product quality evaluations."
+  ],
+  "one_line_summary": "Across a field study and experiments, the paper shows that putting service employees digitally on websites improves website evaluations and reconstructs memories of past employee encounters, which raises loyalty under specific boundary conditions.",
+  "relation_to_prior_work": "extends prior digital presence and social presence research beyond website-only affective outcomes by introducing a reconstructive memory spillover to employee service quality in service contexts, while also adding moderator and boundary-condition evidence.",
+  "research_gap": "Prior studies on digital human presence largely focused on immediate website outcomes and offered limited evidence on contingencies. The paper addresses the unresolved question of whether employees' digital presence can spill over to offline employee service evaluations via memory reconstruction and whether that pathway matters for loyalty and performance.",
+  "research_question": "Does the digital presence of service employees on firm websites improve customer perceptions of website service quality and employee service quality? If so, through which mechanisms and under what conditions does this occur, and do these effects indirectly improve customer loyalty and financial performance?"
+}

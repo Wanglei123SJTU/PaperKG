@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Assesses the efficacy of franchise regulation by showing how registration law and relationship law, alone and in combination with franchise ownership structure, shape litigation-related conflict management choices.",
+    "Examines not only dyadic, immediate consequences of conflict management but also franchise system-wide, longer-term outcomes, and highlights a trade-off between winning a focal conflict and achieving growth goals.",
+    "Uses longitudinal multisource archival evidence on actual litigation episodes (FDDs, court records, and trade publications), reducing survey-related concerns and capturing evolving serious conflict dynamics."
+  ],
+  "context": "The study is set in U.S. business-format franchising, where states differ in franchise registration law (disclosure and filing requirements) and relationship law (good-cause termination protections). It analyzes franchisor-franchisee disputes that escalated to litigation across regulated and nonregulated state jurisdictions.",
+  "design_and_data": "The authors assembled multisource archival data from franchise disclosure documents, PACER court records, Bond's Franchise Guide, Entrepreneur's Franchise 500, and public economic/regulatory sources. They randomly sampled 75 franchisors and observed conflict over 1987-2003; 526 litigations were identified, and 411 franchisor-franchisee cases with sufficient information were retained. The unit of analysis is the individual litigated conflict, and the empirical approach combines a first-stage Heckman selection model for litigation incidence with a jointly estimated recursive conditional mixed-process system for initiation, ADR versus adjudication, outcome favorability, and system expansion outcomes.",
+  "focal_constructs": [
+    "franchise registration law",
+    "franchise relationship law",
+    "litigated conflict incidence",
+    "litigation initiation by franchisor versus franchisee",
+    "alternative dispute resolution (ADR)",
+    "franchise ownership structure (proportion franchisee-owned outlets)",
+    "outcome favorability in the focal conflict",
+    "achievement of franchise system growth goals"
+  ],
+  "main_findings": [
+    "Across franchise systems, operating in more registration law states lowered litigation incidence, while operating in more relationship law states raised litigation incidence.",
+    "Franchisor reliance on franchisee-owned outlets significantly moderated both regulatory effects on litigation incidence, weakening each effect and reversing sign in simple-slope probes at high versus low franchisee ownership.",
+    "Conditional on litigation, relationship law states were associated with greater franchisee initiation and registration law states with lower ADR use; franchisor initiation increased odds of a franchisor-favorable case outcome but reduced achievement of system expansion goals, while ADR showed the opposite pattern."
+  ],
+  "one_line_summary": "Using longitudinal archival litigation data from U.S. franchise systems, the paper shows that state regulation and ownership structure jointly shape conflict incidence and management, and that conflict tactics trade off immediate legal wins against longer-term system growth.",
+  "relation_to_prior_work": "extends prior marketing channel conflict research by combining an institutional regulation lens with agency theory and by linking actual litigation management choices to both immediate dyadic outcomes and longer-term system outcomes.",
+  "research_gap": "Prior marketing studies acknowledged conflict as a dynamic process but relied mostly on cross-sectional survey data that could not track unfolding conflict episodes. They also focused mainly on immediate dyadic consequences, leaving unclear how franchise regulation relates to the incidence and aftermath of serious franchisor-franchisee conflict at both dyadic and system levels.",
+  "research_question": "How do state franchise registration law and relationship law affect the incidence of serious franchisor-franchisee conflict, measured as litigation, and how do these effects vary with franchise ownership structure? Conditional on litigation, how does regulation shape who initiates and how cases are resolved, and what are the consequences for case outcomes and franchise system growth?"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Danaher and Dagger (2013) for more than background listing. It cites it as prior evidence that media channels differ in their ability to drive purchase and as precedent for formal profit-maximizing media allocation. In the empirical implementation, it directly borrows relative media cost inputs from Danaher and Dagger's Table 2 to operationalize its own FBPM optimization, indicating a meaningful methodological grounding role.",
+  "relation_description": "The citing paper builds its attribution-versus-allocation argument on prior multimedia effectiveness and allocation work that includes Danaher and Dagger (2013). It also uses cost benchmarks from that paper to parameterize the allocation optimization in its empirical analysis.",
+  "relation_type": "foundational_for"
+}

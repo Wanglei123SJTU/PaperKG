@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper presents a formal analysis of selective reporting of factual content by commercial media, with facts treated as objective signals that can be omitted but not fabricated.",
+    "It introduces a model with two explicit novel features: consumers anticipate media incentives to slant, and every stance must be supported by facts, with more facts making reports more convincing.",
+    "It models media stances as cheap talk with a dual role (signaling and market positioning), generating new implications for competition, polarization, and media bias."
+  ],
+  "context": "The setting is commercial news and information markets (e.g., newspapers, TV, online outlets) where media act as gatekeepers of factual content on complex public issues such as global warming. Consumers choose among media reports and care both about factual support and about whether a stance matches their prior opinions.",
+  "design_and_data": "This is a theoretical game-theoretic paper with no empirical dataset. The model defines a latent state of the world and a set of observable binary-signal facts; media observe all facts, choose a stance, and can report only true facts consistent with that stance, which endogenously limits how many facts can be shown. Consumers have heterogeneous fixed opinions, value both stance-opinion fit and the number of supporting facts, and update beliefs about the state from observed stances. The authors characterize perfect Bayesian equilibria for monopoly and duopoly (including interval equilibria), with additional numerical checks for cases that are not analytically tractable.",
+  "focal_constructs": [
+    "factual content provision",
+    "selective reporting",
+    "media slant",
+    "media competition",
+    "consumer inference from media stance",
+    "media polarization",
+    "media bias"
+  ],
+  "main_findings": [
+    "Competition does not improve informativeness in this model and, when consumers value factual support sufficiently, it leads each medium to provide fewer facts than a monopolist because rivals jam informative stances.",
+    "A monopoly medium can be more polarized than competitive media under some parameter values, so competition does not necessarily increase extremism.",
+    "More informative reporting can be more biased, and competition can reduce measured media bias, so bias is not a reliable proxy for how well consumers become informed."
+  ],
+  "one_line_summary": "The paper shows in a formal model that when consumers value fact-supported reporting but anticipate slant, media competition can induce stance jamming that lowers factual content and weakens learning relative to monopoly.",
+  "relation_to_prior_work": "extends prior media-slant and media-competition models by allowing consumers to infer from strategic stances and by requiring stances to be backed by selectable true facts. It contrasts with work that assumes consumers only learn from explicitly reported content and often predicts that competition raises bias. It also introduces a nonstandard cheap-talk environment where the message both signals information and serves as horizontal positioning.",
+  "research_gap": "Prior media-bias research mainly explains slant and differentiation, often assuming consumers cannot infer beyond explicit reports. The paper targets the less-studied problem of how commercial media selectively provide factual content when consumers value facts and strategically anticipate slant.",
+  "research_question": "How does competition among commercial media affect the provision of factual content and consumers' ability to learn about the underlying state of the world? In particular, when media can selectively omit facts to match audience opinions but must support stances with facts, does competition increase or decrease informativeness, polarization, and bias?"
+}

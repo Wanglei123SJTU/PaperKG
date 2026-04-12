@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited article is a methodological/foundational social-network modeling paper (joint modeling of multiple relationships), and the citing paper also studies a multi-tie music UGC network, so a substantive link is plausible. However, the matched evidence provides only a DOI-level match (no citation context or quoted reference text), and the citing note emphasizes logit seeding-response analyses rather than the cited paper’s hierarchical Bayesian multiplex model, so it is not safe to classify as clearly mention-only.",
+  "triage_decision": "uncertain"
+}

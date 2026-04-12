@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper provides what the authors describe as the first structural non-laboratory estimate of management heterogeneity based on the cognitive hierarchy model.",
+    "It combines behavioral game theory with structural New Empirical Industrial Organization methods to model heterogeneous strategic thinking in a simultaneous technology adoption game with multi-market firms.",
+    "It uses the estimated model to quantify how strategic ability changes technology distribution and diffusion outcomes for ISPs and modem suppliers."
+  ],
+  "context": "The empirical setting is the 1997 U.S. dial-up Internet service provider market, where ISPs chose whether to offer 56K access via Rockwell's K56Flex, US Robotics' X2, both, or neither. Markets are defined by local telephone switches, and many ISPs operate across multiple local calling areas.",
+  "design_and_data": "The authors build a structural entry-style model of ISP technology choice using cognitive hierarchy types (type-0 to higher k-step thinkers), with type distributions modeled as (truncated) Poisson and tau allowed to vary with observed market and firm characteristics in the main specification. The core data (from theDirectory and Boardwatch, as in Augereau, Greenstein, and Rysman 2006) include 2,233 ISPs across 9,070 markets, yielding 216,186 ISP-market observations, plus market demographics. The model imposes that a multi-market ISP chooses one technology strategy across all its markets and estimates parameters by simulated likelihood using differential evolution and a GHK simulator. For external validation, the authors manually checked ISP URLs in April 2007 to construct survival outcomes.",
+  "focal_constructs": [
+    "managerial strategic thinking",
+    "cognitive hierarchy types",
+    "strategic ability parameter tau",
+    "technology adoption under competition",
+    "product differentiation incentives",
+    "56K modem diffusion",
+    "multi-market ISP decision making"
+  ],
+  "main_findings": [
+    "Estimated behavior shows substantial heterogeneity in strategic thinking, and the common-tau estimate in a restricted model is 2.67, at the high end of lab-based ranges reported in prior CH studies.",
+    "Estimated competitive effects imply differentiation: firms are less likely to adopt the same modem technology as rivals, and strategic reasoning is linked to lower overall 56K adoption.",
+    "Simulations indicate that higher strategic thinking (higher tau) reduces the share of ISPs offering at least one 56K technology and reduces dual adoption, and higher estimated tau is positively associated with ISP survival through April 2007."
+  ],
+  "one_line_summary": "Using a structural cognitive hierarchy model on 1997 ISP 56K modem choices, the paper finds heterogeneous managerial strategic thinking that is associated with more differentiation, slower diffusion, and higher long-run survival.",
+  "relation_to_prior_work": "extends Augereau, Greenstein, and Rysman (2006) by replacing a homogeneous equilibrium treatment with heterogeneous cognitive hierarchy strategic thinking in the same modem adoption setting. It transfers Camerer, Ho, and Chong (2004) from laboratory evidence to a structural field application and checks whether the estimated strategic-thinking distribution is consistent with prior experimental ranges.",
+  "research_gap": "The paper argues that, despite extensive modeling of consumer heterogeneity, empirical work rarely models heterogeneity in managerial strategic ability. It also notes that cognitive hierarchy evidence is mainly laboratory-based, leaving a gap in structural non-laboratory estimation of strategic thinking and its market consequences.",
+  "research_question": "How does heterogeneity in managerial strategic thinking affect ISP decisions to adopt competing 56K modem technologies? Are firms estimated to be more strategic more likely to survive later, and which market or firm characteristics are correlated with strategic thinking?"
+}

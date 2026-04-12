@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Applies a large multischool conjoint design to estimate individual-level, location-specific job preferences of U.S.-educated Chinese STEM doctoral students and postdocs, then uses those estimates for policy-relevant migration counterfactuals.",
+    "Provides delayed follow-up evidence that the estimated conjoint preferences are stable over time and across response modalities, and shows similar follow-up performance across metric and choice-only linking assumptions.",
+    "Derives place-marketing targeting and positioning implications for attracting Chinese STEM talent, including which observable segments and job attributes matter most."
+  ],
+  "context": "The paper studies Chinese science, technology, engineering, and mathematics doctoral students and postdoctoral researchers at U.S. universities, focusing on their first postgraduation job-location choices between U.S. and China options. The substantive policy context is international competition for high-skill STEM talent and place marketing by governments and employers.",
+  "design_and_data": "The authors fielded an online conjoint survey in 2010-2011 with Chinese STEM PhDs/postdocs at three large U.S. research universities (Illinois, California, and North Carolina); 341 completed, 29 were excluded, yielding 312 analyzed respondents. Each respondent evaluated 25 paired hypothetical job offers and reported both choice and strength of preference, with attributes covering location/city, salary, job status, and employer ownership. They estimated individual-level random utility parameters using a hierarchical Bayesian model with demographics and attitudes as predictors of heterogeneity, and compared three response-utility linking assumptions. A delayed follow-up in 2012 (124 respondents) collected job/offer outcomes, two difficult binary follow-up choices, and salary expectations to assess validity and support simulations.",
+  "focal_constructs": [
+    "return-migration preference",
+    "location-specific job utility",
+    "U.S.-China salary differential",
+    "job status (researcher/manager/director)",
+    "national pride",
+    "gender and marital-status heterogeneity",
+    "place-marketing targeting and positioning"
+  ],
+  "main_findings": [
+    "The low observed return tendency is driven mainly by the U.S.-China salary gap rather than an inherent preference for living in the United States; at roughly current salary gaps only about one-third prefer China, while at salary parity roughly 70% would prefer China.",
+    "Single men are more return-oriented than women and married men, and respondents with higher national pride are more willing to sacrifice income to return to China.",
+    "The conjoint-based preference measures show strong internal validity in delayed follow-up choice prediction, while direct return-attitude responses are less reliable and substantially overpredict return behavior."
+  ],
+  "one_line_summary": "Using conjoint data from 312 Chinese STEM PhDs/postdocs in U.S. universities, the paper shows that return-migration hesitation is largely salary-driven, validates individual preference stability in delayed follow-up choices, and uses simulations to derive targeting and positioning implications for talent-retention policy.",
+  "relation_to_prior_work": "challenges the migration-policy assumption that highly skilled foreign STEM workers inherently prefer U.S. locations by showing salary-driven location demand among Chinese STEM PhDs. It extends conjoint-method work on reliability by testing long-horizon, within-person stability and cross-modality prediction in a labor-market setting.",
+  "research_gap": "Existing sources provide aggregate stay rates and counts but offer little evidence on individual-level, location-specific employment preferences of Chinese STEM PhDs in the United States. The paper also addresses the lack of validated preference-measurement evidence in this domain for informing policy counterfactuals and place-marketing strategy.",
+  "research_question": "What job attributes drive U.S.-educated Chinese STEM graduates' preferences to stay in the United States versus return to China, and how much of observed staying behavior is due to salary differences versus intrinsic location preferences? Can conjoint analysis produce stable, policy-usable individual preference estimates for simulating counterfactual migration responses to changes in salaries, job status, and U.S. location opportunities?"
+}

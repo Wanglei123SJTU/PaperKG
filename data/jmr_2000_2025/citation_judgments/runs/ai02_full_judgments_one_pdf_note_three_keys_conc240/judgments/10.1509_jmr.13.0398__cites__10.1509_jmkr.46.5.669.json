@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citation is used in the core methods section, not as a passing literature mention. The authors explicitly state that their new Bayesian multilevel path model subsumes the Bayesian mediation model of Zhang, Wedel, and Pieters (2009), alongside another prior framework. They then use this modeling approach to estimate mediation effects central to their hypotheses across experiments.",
+  "relation_description": "The citing paper extends Zhang et al. (2009)'s Bayesian mediation methodology by embedding it in a broader multilevel path model with moderators, multiple mediators and outcomes, and mixed response types. It applies this extended framework to analyze ad identification, exposure duration, and evaluation outcomes.",
+  "relation_type": "extends"
+}

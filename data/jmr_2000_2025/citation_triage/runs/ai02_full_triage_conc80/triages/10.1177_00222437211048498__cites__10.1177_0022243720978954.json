@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing study’s core contribution includes estimating peer spillover effects in training and handling endogeneity with IV-style methods (2SRI), while the cited paper is a causal peer-effects/herding paper that introduces a peer-identification and instrumentation strategy (second-degree peers). This strong construct/method overlap (peer influence + causal identification) makes the citation plausibly substantive rather than a generic mention, so it should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

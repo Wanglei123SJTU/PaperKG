@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is not just listed in background citations; it is used to motivate a specific control in the empirical model. In the model specification section, the authors cite Van Heerde, Mela, and Manchanda (2004) to justify including a radical-innovation indicator because such innovation may expand category demand and benefit incumbents. They then estimate and interpret this effect in their pharmaceutical setting, showing the citation informs model construction and interpretation.",
+  "relation_description": "The citing paper applies the cited paper's insight that radical innovation can expand a category and create spillover gains for incumbent brands. It incorporates this idea as a category-level radical-innovation variable (D_Radic) in the brand sales model and uses the estimated coefficient in its results discussion.",
+  "relation_type": "applies"
+}

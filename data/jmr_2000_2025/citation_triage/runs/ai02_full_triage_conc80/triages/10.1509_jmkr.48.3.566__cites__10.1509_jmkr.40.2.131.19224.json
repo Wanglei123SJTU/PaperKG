@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper is a game-theoretic model of sponsored-search bidding and downstream price competition, while the cited paper is an empirical Bayesian/optimization study of permission-based email customization; the provided notes show no clear shared mechanism, method, or benchmark use. With only a single DOI match in the reference list and no in-text evidence of substantive reliance, this looks like a likely background/incidental citation.",
+  "triage_decision": "drop_obvious_mention_only"
+}

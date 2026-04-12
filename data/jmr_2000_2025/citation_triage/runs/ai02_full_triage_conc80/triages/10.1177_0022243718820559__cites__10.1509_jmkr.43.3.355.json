@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper explicitly positions its contribution relative to prior recommendation algorithms and evaluates features within content-based/hybrid recommender setups, while the cited paper is a movie-recommendation methodology paper on handling missing ratings and improving recommendation accuracy. That direct domain/method overlap makes it plausibly foundational or a comparison point rather than a clearly incidental citation. Although the raw evidence is only a DOI match (no in-text snippet), this is not safe to drop as obvious mention-only.",
+  "triage_decision": "keep_for_relation_judgment"
+}

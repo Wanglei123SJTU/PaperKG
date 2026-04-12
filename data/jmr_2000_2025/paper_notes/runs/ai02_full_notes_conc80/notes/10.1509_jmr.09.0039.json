@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper provides direct experimental evidence on whether Bayesian truth serum works in practical survey settings where its theoretical assumptions are unlikely to hold exactly.",
+    "It shows that BTS can both reward truthful responding and induce more truthful behavior, including when respondents face explicit monetary incentives to exaggerate.",
+    "It demonstrates applied value by comparing BTS with a rival mechanism (solemn oath) and by applying BTS to contingent valuation, where it removes hypothetical bias in this study."
+  ],
+  "context": "The paper studies survey elicitation for intrinsically private matters such as recognition, opinions, and stated intentions, where administrators cannot verify individual truth directly. Most evidence comes from recognition questionnaires (brands, scientific terms, names, movies) containing nonexistent foils, plus a contingent valuation referendum about donating to the U.S. National Endowment for the Arts.",
+  "design_and_data": "The authors run five experiments. Experiments 1-4 use multiple-choice recognition surveys with one-third foil items and elicit both personal recognition and, in most implementations, predictions of others' responses to compute BTS information scores; incentives are varied in between-subject designs, including BTS, control payments, overclaiming payments, and a solemn oath condition. Data include lab and online samples (Exp.1 N=133; Exp.2 N=117; Exp.3 N=27; Exp.4 N=70 after two oath decliners excluded), with real-time or precomputed BTS feedback depending on study. Experiment 5 (N=114 after exclusions) compares real, hypothetical, BTS, and BTS-with-training referenda on a $4 public-good contribution.",
+  "focal_constructs": [
+    "Bayesian truth serum",
+    "information score (iscore)",
+    "truth-telling incentives",
+    "overclaiming questionnaire",
+    "foil recognition",
+    "solemn oath",
+    "contingent valuation hypothetical bias"
+  ],
+  "main_findings": [
+    "Across recognition studies, BTS strongly penalized recognition of nonexistent foils and participants paid by BTS reported fewer foils than control groups, while recognition of real items changed less.",
+    "With BTS payments and no explanation of the mechanism, foil recognition declined over survey position, indicating participants learned to respond to the incentives from feedback.",
+    "In the contingent valuation task, hypothetical support for donating to the NEA was inflated (76%) relative to the real-stakes baseline (44%), while BTS treatments were close to the real baseline (47% and 50%), consistent with elimination of hypothetical bias in this setting."
+  ],
+  "one_line_summary": "Across five experiments, the paper finds that Bayesian truth serum scoring can induce more truthful survey responses and reduce key biases, including overclaiming on foil items and hypothetical bias in a public-good valuation task.",
+  "relation_to_prior_work": "extends Prelec (2004) by testing Bayesian truth serum behaviorally in realistic survey implementations, including conditions with competing deception incentives and comparison to a solemn-oath alternative.",
+  "research_gap": "Prior work established a theorem for BTS but left open whether it works in real survey data where assumptions (Bayesian updating, large samples, prediction structure) are unlikely to hold. It was also unclear whether BTS would induce behavior change, how robust it would be against competing incentives to misreport, and whether its gains would compare favorably with simpler alternatives.",
+  "research_question": "Does Bayesian truth serum practically reward and induce truthful responding in surveys about private information when individual truth cannot be directly verified? The paper also asks how robust BTS is to competing incentives to exaggerate, limited participant understanding, and small-sample implementation issues, and whether BTS improves data quality relative to alternatives such as the solemn oath and standard contingent valuation elicitation."
+}

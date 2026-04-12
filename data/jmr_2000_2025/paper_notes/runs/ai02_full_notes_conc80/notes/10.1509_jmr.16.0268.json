@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper identifies when social information is avoided during goal pursuit, showing a stage-dependent pattern with strongest avoidance in the middle stage.",
+    "It explains why this occurs by linking middle-stage low motivation to avoidance of potentially threatening social comparison, especially for relevant, proximal, and superior referents.",
+    "It shows that this avoidance is costly because it contributes to being \"stuck in the middle,\" and demonstrates a mechanism-based intervention (self-affirmation) that reduces avoidance."
+  ],
+  "context": "The paper examines shared-goal environments where consumers can access others' objective progress information, such as fitness and goal-sharing platforms. Evidence comes from controlled lab tasks and field programs for walking and saving goals.",
+  "design_and_data": "The paper reports seven studies (including a follow-up) using both lab and field experiments. Lab studies include a Wii bowling task (head turns; N = 69), a pricing task with eye tracking (fixation count/time; N = 200), and online dice-game studies on MTurk (choice to view/skip social information and persistence; N = 301, follow-up N = 150, N = 451). Field studies are two-week voluntary walking and saving programs (N = 285 and N = 390), with stage based on actual progress and measures of motivation before and after view/skip decisions. Key manipulations vary goal stage and social-information properties (relevance, proximity, valence), plus self-affirmation and information type (social referent vs self-set benchmark).",
+  "focal_constructs": [
+    "social information avoidance",
+    "objective social information",
+    "goal stage dynamics",
+    "middle-stage motivational slump",
+    "social comparison threat",
+    "self-affirmation",
+    "subsequent motivation"
+  ],
+  "main_findings": [
+    "Attention to social referent information followed a U-shaped pattern across goal progress, with the least checking/viewing in the middle stage.",
+    "Middle-stage avoidance was strongest when comparison could be threatening (relevant, proximal, superior referents), and self-affirmation reduced this avoidance pattern.",
+    "For middle-stage goal pursuers, viewing social referent information increased subsequent effort relative to avoiding it, indicating that avoidance helps keep people stuck in the middle."
+  ],
+  "one_line_summary": "Across lab and field goal-pursuit settings, consumers were most likely to avoid social progress information in the middle stage, and this avoidance reduced subsequent motivation by reinforcing a middle-stage slump.",
+  "relation_to_prior_work": "extends the information-avoidance literature from decision contexts (for example, finance and health) to motivation during active goal pursuit. It also links social comparison and goal-stage psychophysics by showing how middle-stage low motivation and threat avoidance shape information use.",
+  "research_gap": "Prior work had not clearly examined whether people actively avoid objective information about similar others during goal striving, nor when this happens across goal stages. Goal-stage research emphasized beginning-versus-ending differences, leaving the middle stage and its role in social-information use underexplored.",
+  "research_question": "When do consumers avoid information about others pursuing similar goals, why does this avoidance occur, and does it help or hurt goal pursuit? The paper specifically tests whether avoidance peaks in the middle stage, whether this is driven by low motivation and anticipated negative comparison, and whether avoidance undermines subsequent motivation."
+}

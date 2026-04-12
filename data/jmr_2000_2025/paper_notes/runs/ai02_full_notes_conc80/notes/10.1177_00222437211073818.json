@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper explicitly distinguishes presales service and after-sales support and models their interdependence, where presales effort reduces the probability of after-sales support demand.",
+    "It studies channel service design by endogenizing which channel member provides presales service and after-sales support, instead of assuming one provider handles service.",
+    "It adds a manufacturer-retailer presales cost-sharing extension and shows that cost sharing can hurt the retailer and even reduce total channel profit."
+  ],
+  "context": "The setting is a manufacturer-retailer distribution channel for information-intensive complex durable goods (for example, consumer electronics and home appliances) where consumers make a one-time purchase. Consumers may need postpurchase usage help, and support can come from the retailer, the manufacturer, or third-party providers.",
+  "design_and_data": "The paper is a theoretical game-theoretic model with one manufacturer, one retailer, and consumers with valuations drawn from U[0,1]. Presales service by manufacturer and/or retailer lowers consumers' probability of needing after-sales support; presales has convex fixed investment costs, while after-sales support has variable handling cost plus a fixed effectiveness cost. The manufacturer first chooses wholesale price, presales effort, and whether to invest in after-sales support; the retailer then chooses retail price, presales effort, and possibly after-sales support, and subgame-perfect equilibria are derived analytically. Robustness extensions cover noncoprovision of presales service, asymmetric service costs, retail competition, alternative functional forms, and presales cost sharing by the manufacturer.",
+  "focal_constructs": [
+    "presales service",
+    "after-sales support",
+    "channel service configuration",
+    "consumer inconvenience cost",
+    "fixed cost of effective after-sales support",
+    "wholesale and retail pricing",
+    "demand for after-sales support",
+    "presales cost-sharing contract"
+  ],
+  "main_findings": [
+    "In equilibrium of the main model, both the manufacturer and the retailer provide strictly positive presales service.",
+    "Who provides after-sales support is threshold-driven by the fixed effectiveness cost: the retailer provides it when the fixed cost is low, the manufacturer may provide it at intermediate levels, and neither provides it when the fixed cost is high.",
+    "When the retailer provides after-sales support, the highest presales service and the highest demand for after-sales support can occur simultaneously under stated parameter conditions."
+  ],
+  "one_line_summary": "The article develops a distribution-channel game showing how fixed support costs govern whether retailer, manufacturer, or neither provides after-sales support, while both parties still provide presales service and retailer-led support can yield both maximal presales effort and maximal support demand.",
+  "relation_to_prior_work": "extends prior channel-service models by separating presales service from after-sales support and linking them through consumers' expected postpurchase inconvenience. It introduces an endogenous service-channel-design problem over who provides each service, whereas much prior work treats service as a single input or assumes one provider. It challenges standard coordination intuition by showing manufacturer presales cost sharing can reduce retailer and total channel profits in some configurations.",
+  "research_gap": "Prior channel-service literature often treats service as a single nonprice input and usually assumes one channel member provides it. The paper identifies a missing treatment of distinct but linked presales and after-sales services, and a missing analysis of endogenous service-provider choice in the channel.",
+  "research_question": "How do a manufacturer and a retailer choose presales service, after-sales support provision, and prices when consumers anticipate postpurchase inconvenience from using complex products? Which service configuration emerges in equilibrium as after-sales fixed costs vary, and what does that imply for presales effort and after-sales support demand?"
+}

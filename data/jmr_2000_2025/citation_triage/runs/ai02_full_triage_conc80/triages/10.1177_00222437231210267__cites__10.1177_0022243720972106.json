@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper studies ACA Sunshine disclosure effects on pharma payments to physicians using DiD + causal forests, whereas the citing paper is a TikTok influencer-impressions study using SMVAE + Deep IV; the notes show no direct overlap in setting, constructs, or core method dependency. With only a bare DOI match (no citation-context text), this looks most like a generic background/example citation rather than substantive use.",
+  "triage_decision": "drop_obvious_mention_only"
+}

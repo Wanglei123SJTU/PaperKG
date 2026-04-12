@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces psychological distance as a situational factor that changes how consumers process multidigit numbers containing separators.",
+    "Shows that construal-level patterns from verbal and visual domains do not directly generalize to numerical comparison, because distance shifts the relative weight of left versus right digits.",
+    "Provides evidence that perceived digit diagnosticity underlies the effect and identifies boundary conditions based on rating-stability beliefs and separator presence."
+  ],
+  "context": "The paper studies consumer numerical judgments in marketplace-like settings where values contain commas or decimal points (e.g., ratings, prices, mileage, salary, index forecasts). Empirical tasks include restaurant voucher choice, hotel willingness-to-pay, and used-car choice scenarios.",
+  "design_and_data": "Four experiments test the theory using psychological-distance manipulations and separator-based numbers. Study 1 used a 2 (distance: near vs far) x 2 (digit position: left vs right) x 4 (distance-dimension replicates: temporal, spatial, social, probabilistic) mixed design with MTurk participants (n=210) and measured perceived diagnosticity of left versus right digits. Study 2 (Credamo, China; n=200) used a temporally near vs far incentive-compatible restaurant-voucher choice task, measured digit diagnosticity and task involvement, and tested mediation. Study 3 (MTurk; n=210) manipulated spatial distance in a hotel WTP task and measured belief in rating stability as a moderator, and Study 4 (MTurk; n=400) used a 2 (social distance) x 2 (comma present vs absent) design in a used-car choice scenario.",
+  "focal_constructs": [
+    "psychological distance",
+    "perceived diagnosticity",
+    "left versus right digits",
+    "digit separator (comma/decimal point)",
+    "numerical comparison",
+    "construal level",
+    "rating stability belief"
+  ],
+  "main_findings": [
+    "Greater psychological distance decreased the perceived diagnosticity of digits to the right of a separator more than digits to the left.",
+    "Temporal distance changed restaurant choice patterns in line with reduced reliance on right digits, and this effect was mediated by relative left-versus-right digit diagnosticity.",
+    "The effect was attenuated when participants believed numerical ratings were stable over time and when the separator cue was removed."
+  ],
+  "one_line_summary": "Across four experiments, the paper finds that increasing psychological distance makes people downweight digits to the right of a comma or decimal point, altering perceived numerical differences and related choices.",
+  "relation_to_prior_work": "extends prior numerical cognition work by adding psychological distance as a situational driver of how different digit positions are used in separator-based numbers. It also shows that standard construal-level expectations about distance and perceived similarity do not straightforwardly carry over to numerical comparison, and it positions perceived digit diagnosticity as a mechanism.",
+  "research_gap": "Prior research on numerical cognition largely emphasized framing and presentation characteristics of numbers, leaving unclear whether psychological distance as a situational factor changes how people compare separator-based numbers. The paper also identifies that existing construal-level findings from verbal and visual comparisons may not directly apply to digit-by-digit numerical processing.",
+  "research_question": "How does psychological distance affect comparative judgments of numbers that contain a separator, such as commas or decimal points? Specifically, does increasing distance reduce the perceived diagnosticity and decision weight of right-side digits more than left-side digits, and when is this effect attenuated?"
+}

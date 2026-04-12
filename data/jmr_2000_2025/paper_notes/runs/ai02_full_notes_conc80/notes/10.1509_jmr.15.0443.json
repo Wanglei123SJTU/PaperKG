@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a general framework for building agent-based decision support systems for WOM programs, organized around four guidelines (participatory iteration, data use, data-driven calibration, and model simplicity) and three construction steps.",
+    "It demonstrates the framework on a real freemium app (Animal Jam) to produce both macro-level forecasts of premium adoptions and micro-level forecasts of likely converters, then uses the validated DSS to test targeting and reward policies.",
+    "The authors state that, to their knowledge, this is the first marketing study to apply a complex contagion model in this setting."
+  ],
+  "context": "The empirical application is Animal Jam, a multiplayer online freemium game for kids developed by WildWorks, where basic users can convert to premium membership and users interact through an in-app social network. The managerial problem is how to design WOM-based targeting and referral/reward actions to increase premium conversions.",
+  "design_and_data": "The study develops an ABM-based DSS framework and applies it to company data from 2012 that include about 1.4 million users and social network information; for quantitative validation, the analysis uses active users during the study months (roughly 40,000-50,000). The implemented simulation uses 20,000 agents mapped to 40,000 active users, asynchronous updates, and weekday/weekend seasonality, and compares three diffusion specifications: Bass-ABM, complex contagion, and complex contagion with external influence. Model parameters are calibrated with a genetic algorithm using Euclidean distance on daily new premium adoptions, 15 Monte Carlo runs per parameter setting, and a hold-out split of 60 training days and 31 test days. Micro-level prediction is evaluated on 10,798 basic users (718 eventual converters) using ROC/AUC, with logistic and random classifiers as baselines.",
+  "focal_constructs": [
+    "word-of-mouth programs",
+    "agent-based decision support systems",
+    "freemium conversion to premium",
+    "social network diffusion",
+    "Bass-ABM",
+    "complex contagion",
+    "genetic algorithm calibration",
+    "targeting and referral rewards"
+  ],
+  "main_findings": [
+    "For macro-level forecasting of daily premium adoptions, the calibrated Bass-ABM fit best among the tested diffusion models on both training and test data, though differences versus complex contagion variants were modest.",
+    "For micro-level prediction of which users convert, complex contagion performed best (AUC 0.73), outperforming both Bass-ABM (AUC 0.60) and a logistic baseline (AUC 0.71).",
+    "Simulation experiments indicate that increasing social influence through post-conversion rewards raises premium adoption in a positive but non-linear way, and targeting basic users with many premium friends (especially 6+) produces the largest forecasted lift, with some scenarios exceeding 1,000 additional conversions in one month."
+  ],
+  "one_line_summary": "The paper presents and validates a stakeholder-oriented, data-driven agent-based DSS framework for WOM decisions and shows in Animal Jam data that calibrated models can forecast premium conversions and evaluate reward and targeting policies.",
+  "relation_to_prior_work": "introduces a manager-facing, generalizable process for turning prior ABM and WOM diffusion ideas into an operational DSS with explicit participatory design and automated calibration. It also introduces complex contagion into a marketing WOM DSS application and empirically compares it with Bass-ABM and simpler prediction baselines in a freemium context.",
+  "research_gap": "Prior WOM and marketing models, including many ABMs, were often developed for theory and had limited practical DSS adoption by managers, partly because they were black-box, weakly integrated with stakeholder processes, and not systematically validated with real data. The paper addresses the need for a concrete, data-driven framework that guides how to build, calibrate, and test ABM-based WOM DSSs for managerial decision making.",
+  "research_question": "How can marketers systematically build an agent-based DSS that captures WOM dynamics in social networks and is credible and usable for managerial decisions? In a freemium app context, can such a calibrated DSS accurately forecast premium conversions at both aggregate and individual levels, and support evaluation of targeting and reward policies for market expansion?"
+}

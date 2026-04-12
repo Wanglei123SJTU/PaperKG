@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides one of the first cross-domain analyses of Web site visit duration and depth that jointly examines user demographics, site characteristics, and their interactions across 50 major sites.",
+    "It develops a triple-heterogeneity random effects framework that models person-level, Web site-level, and visit-occasion-level heterogeneity for repeated visits by the same person to the same site.",
+    "It offers a variance decomposition showing that visit-occasion effects are the dominant source of assignable heterogeneity, with implications for dynamic, situation-based targeting."
+  ],
+  "context": "The study is set in New Zealand Internet browsing behavior using home-based, user-centric panel tracking. It analyzes visits to the top 50 ad-carrying Web domains in the market during November 2000.",
+  "design_and_data": "Data come from ACNielsen NetRatings: a panel of 3284 people, of whom 1852 used the Internet in the month, with a final analytic sample of 1665 people who visited at least one of the top 50 sites. The dependent measures are domain-level visit duration and number of pages viewed (plus average page duration), with URLs aggregated to domain level and 23,264 visits analyzed. Site attributes (text, graphics, background complexity, advertising content, and 19 functionality items summarized as a score) were coded by three judges via content analysis. The authors estimate mixed/random effects models on log-duration and transformed pages viewed, compare fixed-effects and alternative random-effects specifications using log-likelihood, BIC, and calibration-validation error metrics.",
+  "focal_constructs": [
+    "Web site visit duration",
+    "visit depth (pages viewed)",
+    "average page duration",
+    "user demographics (age, gender)",
+    "Web site content (text, graphics, advertising)",
+    "Web site functionality",
+    "cumulative previous visits",
+    "person/site/visit-occasion heterogeneity"
+  ],
+  "main_findings": [
+    "Older users and women generally have longer Web site visits, but age interacts with gender and with multiple site characteristics.",
+    "Higher advertising content is associated with shorter visits overall, yet for older users advertising does not reduce duration and can increase it; functionality increases duration for younger users but decreases it for older users.",
+    "Variance decomposition shows visit-occasion heterogeneity dominates assignable heterogeneity (about 81%), exceeding Web site-level (about 12%) and individual-level (about 7%) components."
+  ],
+  "one_line_summary": "Using one month of Nielsen user-centric panel data and coded characteristics of 50 major sites, the study shows how demographics, site features, and repeat-visit conditions shape Web visit duration and pages viewed, with visit-occasion heterogeneity as the largest source of variation.",
+  "relation_to_prior_work": "extends prior single-site clickstream duration research by using cross-domain user-centric panel data with demographic information and site-content measures. It also extends Ansari, Essegaier, and Kohli's double-heterogeneity approach by adding visit-occasion heterogeneity for repeated person-site visits.",
+  "research_gap": "The paper states that although visit duration is a key Web performance metric, there is relatively little research on its drivers. Prior directly relevant work focused mainly on one site and technical covariates, leaving limited evidence on demographic effects, user-site interactions, and heterogeneity across many sites.",
+  "research_question": "What factors explain how long users stay on Web sites and how many pages they view? The paper tests whether visitor demographics, site type/content/functionality, and visit-occasion factors such as prior visits affect duration and depth, and it asks how much variation is due to people, sites, and specific visit occasions."
+}

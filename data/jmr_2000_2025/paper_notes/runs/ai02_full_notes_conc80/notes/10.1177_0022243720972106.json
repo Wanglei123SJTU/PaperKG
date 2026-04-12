@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides an initial causal assessment of whether public payment disclosure in the Sunshine program curbs industry-physician financial ties, finding no evidence of an overall reduction.",
+    "Documents physician- and drug-level heterogeneity, showing that a null average effect masks increases for expensive drugs and heavier prescribers.",
+    "Introduces a framework that combines quasiexperimental DiD variation with causal forests to estimate physician-drug-level effects and examine how disclosure changes competitive payment dispersion."
+  ],
+  "context": "The setting is U.S. pharmaceutical marketing to physicians under the ACA Sunshine/Open Payments disclosure program. The empirical application is the antidiabetics market, comparing states without prior public disclosure to Massachusetts, Vermont, and Minnesota, which already had disclosure laws.",
+  "design_and_data": "The study uses CMS Open Payments data to build a 29-month national monthly panel (August 2013 to December 2015) with $118 million in payments from 16 branded antidiabetic drugs to 50,002 physicians. The design compares 14 months before first online publication of payment records (through September 2014) to 15 months after, using prior-disclosure states as controls in a DiD logic. To recover granular heterogeneity, the authors estimate physician-drug treatment effects with causal forests using rich covariates, including full predisclosure payment sequences, physician demographics, market characteristics, and Medicare Part D prescribing measures. They report fixed-effects panel baselines, analyze both all payments and speaker/consulting fees, and run robustness checks.",
+  "focal_constructs": [
+    "information disclosure",
+    "industry payments to physicians",
+    "Sunshine Act/Open Payments",
+    "heterogeneous treatment effects",
+    "causal forest",
+    "drug price",
+    "physician prescribing volume",
+    "payment dispersion"
+  ],
+  "main_findings": [
+    "On average, online disclosure did not produce a statistically significant change in monthly payments per physician-drug pair, for both total payments and speaker/consulting fees.",
+    "The average null effect masked heterogeneity: total payments tended to decline for cheaper drugs and lighter prescribers but rise for more expensive drugs and heavier prescribers; for speaker/consulting fees, increases were stronger for expensive drugs and more pronounced among heavier prescribers.",
+    "Disclosure increased within-physician dispersion of payments across firms (about 4% in Gini terms), consistent with firms differentiating their physician targeting rather than converging to similar payment levels."
+  ],
+  "one_line_summary": "Using a quasiexperimental state comparison and causal forests on U.S. antidiabetic payment panel data, the paper finds no average postdisclosure payment change but significant heterogeneity favoring expensive drugs and heavier prescribers plus higher within-physician payment dispersion across firms.",
+  "relation_to_prior_work": "extends prior disclosure research that was largely descriptive or focused on prescribing outcomes by estimating physician-drug-level causal effects of online payment disclosure on subsequent payments. It also contrasts with price-transparency studies reporting lower dispersion by showing higher dispersion in payments across firms within physician after disclosure.",
+  "research_gap": "The paper states that existing work on physician-industry financial ties was mostly descriptive, and causal studies had focused more on prescriptions than on subsequent payment flows. It argues that it remained unclear whether and how public disclosure of competitors' payment information changes payments, especially across physician-drug heterogeneity.",
+  "research_question": "How did the first online public disclosure of Open Payments data in 2014 affect subsequent pharmaceutical payments to physicians? Beyond the average effect, the paper asks whether impacts differ by drug price and physician prescribing intensity, and what mechanism can parsimoniously explain the observed reallocation patterns."
+}

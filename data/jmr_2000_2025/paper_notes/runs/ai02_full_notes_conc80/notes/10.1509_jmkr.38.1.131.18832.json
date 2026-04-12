@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper presents a conceptual and empirical model that jointly links observed satisfaction ratings, latent true satisfaction, and actual repurchase behavior while separating threshold effects from response bias.",
+    "It provides large-scale durable-goods evidence by analyzing 100,040 automotive customers with observed subsequent repurchase behavior rather than intentions alone.",
+    "It shows that the choice of retention metric (repurchase intention vs repurchase behavior) can imply different functional forms and therefore different managerial conclusions."
+  ],
+  "context": "The study is set in a domestic automotive manufacturer's customer satisfaction tracking program. Vehicle owners were surveyed at the 33rd month of ownership, and later brand repurchase versus switching was observed in the automotive market.",
+  "design_and_data": "The dataset contains 100,040 customers who initially owned the same brand from one firm and provided survey responses on overall manufacturer satisfaction, repurchase intent, and demographics. Satisfaction and repurchase intent were measured with single-item 5-point scales, and subsequent purchase behavior was obtained from R.L. Polk and Associates as repurchase of the same brand versus switch. The authors estimate a latent-variable binary probit model in which observed satisfaction is an error-prone indicator of latent satisfaction, with demographic covariates entering both repurchase thresholds and response-style parameters. They compare linear versus discrete nonlinear satisfaction specifications and models with versus without demographic interactions using CAIC.",
+  "focal_constructs": [
+    "observed satisfaction ratings",
+    "latent true satisfaction",
+    "repurchase behavior",
+    "repurchase intentions",
+    "satisfaction thresholds",
+    "response bias",
+    "nonlinear functional form",
+    "customer demographics"
+  ],
+  "main_findings": [
+    "Customers with different characteristics have systematically different repurchase thresholds, so the same satisfaction rating can correspond to different repurchase probabilities across groups.",
+    "Response bias in satisfaction ratings varies by customer characteristics, and in one subgroup (women, suburban, single, no children) rated satisfaction is uncorrelated with repurchase behavior.",
+    "The satisfaction-repurchase behavior link is strongly nonlinear with increasing returns at high satisfaction levels, this nonlinearity does not vary by customer characteristics, and its shape differs from the satisfaction-intent link, which shows decreasing returns."
+  ],
+  "one_line_summary": "Using 100,040 automotive customers, the paper shows that demographic differences in thresholds and response bias, plus nonlinear effects, materially change how satisfaction ratings translate into actual repurchase behavior and that this differs from the satisfaction-intent relationship.",
+  "relation_to_prior_work": "extends prior customer satisfaction research by moving from largely intention-based and cross-category evidence to actual repurchase behavior within a single durable-goods category. It introduces explicit modeling of demographic differences in response thresholds and response bias that the authors state had not been addressed in earlier customer satisfaction research.",
+  "research_gap": "Few empirical studies directly connect satisfaction ratings to actual repurchase behavior, especially in durable goods where long purchase cycles make behavioral data hard to obtain. Prior work documents demographic variation in ratings but does not clearly show how that variation reflects differential thresholds, response bias, and nonlinear translation of ratings into behavior within a single category.",
+  "research_question": "How do customer characteristics affect the relationship between observed satisfaction ratings and actual repurchase behavior in a commercial satisfaction survey? Specifically, the paper asks whether demographic differences create different repurchase thresholds, different response bias in ratings, and different nonlinear satisfaction-behavior mappings, and whether this mapping differs from the satisfaction-intention relationship."
+}

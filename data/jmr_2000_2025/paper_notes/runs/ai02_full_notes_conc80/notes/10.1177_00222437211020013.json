@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides large-scale field-intervention evidence on the productivity effects of activity-based incentive (ABI) pay in a sales force, an area with little prior empirical evidence.",
+    "Shows that incentivizing frontline supervisors on activity metrics affects subordinate behavior and performance, highlighting downward behavior-control effects.",
+    "Combines a treatment-removal intervention with synthetic control and generalized synthetic control analyses to estimate ABI effects when randomized controls were not feasible."
+  ],
+  "context": "The study is set in one strategic business unit of a large pharmaceutical firm in a South Asian country, with an outbound prescription-drug sales force organized into 305 territories. Salespeople submit monthly call reports to supervisors, and the firm historically used sales-based bonuses while tracking activities without paying activity-based incentives.",
+  "design_and_data": "The authors run a 36-month treatment-removal field intervention across 305 territories: 15 months no ABI baseline, 6 months ABI for supervisors and salespeople (SSABI), 3 months ABI for supervisors only (SABI), then return to no ABI for 12 months. Internal data include monthly territory sales over all 36 months and salesperson composite activity scores for Years 2-3. The intervention covered about 412 salespeople and 71 supervisors on average. To address the lack of a randomized control group, they add syndicated monthly sales data for 23 SBUs of the same parent firm (22 untreated) and estimate effects using synthetic control and generalized synthetic control methods.",
+  "focal_constructs": [
+    "activity-based incentives",
+    "call reports",
+    "sales productivity",
+    "composite activity score",
+    "supervisor behavior control",
+    "output-based incentives",
+    "sales signal noisiness",
+    "synthetic control"
+  ],
+  "main_findings": [
+    "Both ABI schemes increased performance relative to the no-ABI baseline: sales gains were about 6%-9% in internal panel models and about 7%-9% in synthetic-control analyses.",
+    "Supervisor-only ABI and supervisor-plus-salesperson ABI both increased activity scores above baseline, and evidence indicates supervisors exert stronger downward behavior control when they are incentivized on activities.",
+    "ABI effects on sales were larger in territories with more salespeople, and gross profit impact calculations suggested supervisor-only ABI was more cost-efficient than paying ABI to both supervisors and salespeople."
+  ],
+  "one_line_summary": "Using a 3-year treatment-removal field intervention in 305 pharmaceutical territories, the paper finds that modest activity-based incentives, especially when targeted to supervisors, raise activity and increase sales by roughly 6%-9% versus an output-only plan.",
+  "relation_to_prior_work": "extends prior empirical sales-compensation work by moving beyond sales-based frontline incentives to activity-based pay and supervisor-level incentives, and by linking principal-agent predictions with sales-force control arguments in field data.",
+  "research_gap": "The paper identifies two gaps: empirical incentive-pay research in sales has focused on sales-based incentives rather than activity-based incentives, and it has largely ignored supervisor-targeted incentives despite supervisors' central role in behavior control and call-report verification. As a result, the productivity effects and mechanisms of ABI pay were unresolved.",
+  "research_question": "Do activity-based incentives tied to call-report metrics improve salesforce productivity relative to an output-only compensation plan? The paper also asks whether effects differ when ABIs are paid to supervisors only versus to both supervisors and salespeople, and whether territory team size (signal noisiness) moderates these effects."
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces cumulative timed intent, a response scale that elicits adoption probabilities for multiple cumulative future intervals to predict both whether and when adoption occurs.",
+    "Develops a parsimonious hierarchical Bayes framework to estimate heterogeneous individual-level cumulative adoption likelihood curves from self-reported intentions, including endpoint responses at 0 and 100 percent.",
+    "Provides empirical validation across managerial and consumer settings, including longitudinal behavioral validation, and benchmarks performance against single-intent measures and classic intent models."
+  ],
+  "context": "Data were collected in collaboration with a Fortune 100 heavy-equipment company. Empirical settings include U.S. golf course superintendents evaluating an advanced mower, U.S. farm operators evaluating tractor autoguidance, and university students evaluating GPS cell phones.",
+  "design_and_data": "The authors collected cumulative timed intent in cross-sectional surveys by asking respondents for the probability that they would have adopted by successive cumulative time intervals on a 0-100 percent scale. Study 1 surveyed 212 U.S. golf course superintendents and Study 2 surveyed 266 U.S. farm operators, each with a five-year horizon and mainly six-month intervals. Study 3 surveyed 354 students on GPS cell phone adoption over a 36-month horizon with three-month intervals, with half assigned to cumulative timed intent and half to two single-intent measures; 143 participants completed all four six-month follow-up waves over two years with behavioral adoption outcomes. A three-stage hierarchical Bayes model (latent linear propensity, probit mapping to latent probabilities, rank-order binomial mapping to observed scale points) estimated individual adoption curves and was compared with raw cumulative scores, covariate-only predictions, two single-intent measures, and Morrison and Bemmaor intent models.",
+  "focal_constructs": [
+    "cumulative timed intent",
+    "cumulative adoption likelihood curves",
+    "technology adoption timing",
+    "self-reported adoption likelihood",
+    "predictive accuracy",
+    "innovation diffusion antecedents",
+    "hierarchical Bayes heterogeneity"
+  ],
+  "main_findings": [
+    "Across studies, estimated adoption likelihood increased over time, and curve slopes were partly predictable from Rogers-type antecedents, with relative advantage consistently positive.",
+    "In the two-year behavioral follow-up, the hierarchical Bayes cumulative-timed-intent approach achieved an 84.3 percent individual-level hit rate and a 3.6-month mean absolute deviation for adoption timing among adopters.",
+    "Cumulative adoption likelihood curves outperformed two single-intent measures and outperformed Morrison and Bemmaor models for individual-level adoption prediction over two years."
+  ],
+  "one_line_summary": "The paper proposes cumulative timed intent and a hierarchical Bayes curve-estimation method, and shows in three technology-adoption studies that this approach improves prediction of whether and when adoption occurs.",
+  "relation_to_prior_work": "introduces a time-integrated intention measurement approach in response to calls for timed intent research, and benchmarks it against traditional single-intent elicitation and established intent models such as Morrison (1979) and Bemmaor (1995).",
+  "research_gap": "The paper states that academic research on timed intent measures is scarce despite repeated calls to integrate time into intention measurement, and that intention-based prediction remains only modestly accurate. It also argues that many bias-correction models are complex and often require actual sales data, which limits prelaunch applicability.",
+  "research_question": "Can cumulative timed intent, measured as adoption probabilities over multiple cumulative future intervals and modeled at the individual level, improve prediction of whether and when people adopt a new technology? Are the resulting adoption-curve slopes systematically related to established technology-adoption antecedents?"
+}

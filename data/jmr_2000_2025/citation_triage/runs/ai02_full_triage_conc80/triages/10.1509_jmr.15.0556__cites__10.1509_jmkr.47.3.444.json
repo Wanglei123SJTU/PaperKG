@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper explicitly highlights a two-step control-function correction for endogeneity and unobserved heterogeneity in its main model, while the cited paper’s core contribution is a control-function estimator for intercept/slope endogeneity with multiple endogenous marketing variables. This strong methodological overlap, plus a direct DOI match (10.1509/jmkr.47.3.444), suggests the citation may be a substantive method source rather than a generic mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

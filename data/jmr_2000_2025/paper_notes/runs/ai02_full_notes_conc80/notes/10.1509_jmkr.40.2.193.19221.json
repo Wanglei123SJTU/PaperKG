@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides a systematic empirical study of Internet use in automobile information search using a natural field experiment with comparable pre-Internet and post-Internet survey settings.",
+    "It develops and estimates a formal cost-benefit model of information-source choice and total search that operationalizes and extends the authors' earlier general framework, including a testable proportional-draw implication.",
+    "It derives group-level monetary welfare estimates of Internet availability from the estimated search model."
+  ],
+  "context": "The study is set in consumer search for new automobiles in the Buffalo, New York area. It examines how buyers allocate search time across dealer/manufacturer sources, friends/relatives, nonadvocate print sources, and the Internet.",
+  "design_and_data": "The authors use two independent mail surveys of new car buyers drawn from the same Buffalo ZIP-code area and months, with purchases in 1989 surveyed in 1990 and purchases in 1999 surveyed in 2000. Sampling lists were purchased from R.L. Polk; usable responses were 901 in the earlier wave and 886 in the later wave, with analysis sample sizes varying because of missing data. Respondents reported hours and minutes spent across detailed search activities, which were aggregated into source categories and total search time, along with demographics, prior-information measures, satisfaction, and price variables. Empirically, the paper estimates tobit models for source shares, pooled nonlinear regressions for total search implied by the model, and simulations/counterfactuals to estimate gains from Internet availability.",
+  "focal_constructs": [
+    "Internet use as an information source",
+    "information-source time shares",
+    "total information search effort",
+    "prior information",
+    "source productivity/efficiency",
+    "opportunity cost of time",
+    "consumer welfare gains",
+    "automobile purchase search"
+  ],
+  "main_findings": [
+    "The Internet's share of search time appears to be drawn approximately proportionally from other sources, and the data do not reject this proportional-draw assumption.",
+    "Internet share in search is higher for younger and more educated buyers and is also higher for buyers less satisfied with their previous dealer; it is lower for older buyers.",
+    "Internet users search more overall than nonusers, but model-based counterfactuals indicate they would have searched even more without the Internet; estimated gains from Internet availability are substantial and are largest for younger, more educated consumers."
+  ],
+  "one_line_summary": "Using matched pre-Internet and post-Internet surveys of Buffalo new car buyers, the paper shows that Internet search reallocates time from other sources roughly proportionally, reduces search needed relative to a no-Internet counterfactual, and delivers larger benefits to younger, educated buyers.",
+  "relation_to_prior_work": "extends Ratchford, Talukdar, and Lee (2001) by turning their general source-choice framework into an estimable model for automobile search with explicit functional forms and testable implications. It also shifts the Internet search discussion from mainly descriptive or market-outcome studies to individual-level source allocation, total search, and welfare effects in field data.",
+  "research_gap": "The paper argues that systematic academic evidence on Internet use as a product information source was limited, with much prior evidence being descriptive and sometimes contradictory about effects on traditional media. It also states that theoretical frameworks for choice among information sources were underdeveloped and not readily operational for empirical estimation in this context.",
+  "research_question": "Who uses the Internet as an information source when buying automobiles, and for what purposes? How does Internet availability change the use of conventional information sources and total search effort, and what are the implied consumer welfare effects?"
+}

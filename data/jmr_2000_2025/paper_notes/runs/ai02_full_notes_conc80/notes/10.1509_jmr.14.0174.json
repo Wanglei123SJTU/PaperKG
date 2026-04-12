@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Develops and empirically tests a customer profitability framework that jointly models firm marketing efforts, customer purchases, and customer product returns while incorporating customer perceived risk related to returns.",
+    "Provides a large-scale field experiment for customer selection and optimal resource allocation with 26,000 customers from an online retailer, a setting with limited prior field-experiment evidence.",
+    "Shows that including both return costs and return-related perceived risk in a CLV objective function can improve short- and long-term profitability and materially change which customers should be targeted."
+  ],
+  "context": "The focal empirical setting is a major U.S. online retailer selling footwear, apparel, and accessories through online and catalog channels with a lenient return policy. The paper also reports descriptive survey evidence from retailers on current customer selection and resource allocation practices regarding returns.",
+  "design_and_data": "The authors run a randomized field experiment with 26,000 customers, split into five groups of 5,200: control (no marketing), firm RFM strategy, CLV without returns, CLV with net purchases (returns as cost), and a proposed CLV model with separate purchases and returns plus perceived-risk dynamics. Marketing contacts (emails and catalogs) were optimized and deployed for 3 months, then all groups were observed for another 3 months without additional allocation, for a 6-month evaluation window. Model development uses a hierarchical Bayesian SUR Tobit framework (with data augmentation) for purchases, returns, and marketing, combined with BG/NBD to estimate the probability the customer remains active; validation used a separate sample of 935 customers and a 3-year holdout period. The paper also compares post-experiment predicted CLV and observed profit over the next 3 years for the proposed-model group.",
+  "focal_constructs": [
+    "customer perceived risk",
+    "product return behavior",
+    "customer lifetime value",
+    "customer selection",
+    "optimal resource allocation",
+    "marketing communications",
+    "purchase behavior"
+  ],
+  "main_findings": [
+    "The proposed model produced the highest short-run profitability in the field test, with average 6-month profit per customer of $352.77 versus $294.21 (CLV with net purchases), $273.48 (CLV without returns), $240.55 (firm strategy), and $235.20 (control).",
+    "Compared with benchmark and firm strategies, the proposed model sent fewer marketing contacts while increasing purchase profit and reducing return-related losses (e.g., return losses of $201,160 vs. $270,210 for CLV with net purchases).",
+    "Poststudy expected CLV was highest for the proposed-model customers ($1,402.96 per customer), and their realized 3-year profit ($1,353.66) was close to prediction, supporting long-run value gains."
+  ],
+  "one_line_summary": "A 26,000-customer field experiment shows that a CLV resource-allocation model that treats product returns as both a cost and a perceived-risk signal outperforms RFM and standard CLV benchmarks in short- and long-term profit.",
+  "relation_to_prior_work": "extends CLV-based customer selection and resource allocation research by incorporating product returns not only as a cost but also as a driver of future behavior through perceived risk, and by providing field-experiment evidence in an online retail setting where prior experiments were scarce.",
+  "research_gap": "The paper argues that many retailers either ignore product returns in customer value models or include them only as costs, which misses their role in lowering customers' perceived purchase risk and shaping future buying and return behavior. It addresses the lack of field-experiment evidence on whether modeling this risk-return dynamic improves customer selection and marketing resource allocation profitability.",
+  "research_question": "How should firms incorporate customer product return behavior into customer selection and marketing resource allocation decisions to maximize profit? Specifically, does adding return-related perceived risk, in addition to return costs, to a CLV objective function improve short- and long-term profitability relative to firm RFM practice and standard CLV benchmarks?"
+}

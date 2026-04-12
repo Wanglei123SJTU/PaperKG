@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the background section, the cited paper is not just listed in a broad cluster; it is specifically used to support the claim that handling ad-position endogeneity is difficult because strong, valid instruments are hard to find. That point directly motivates the citing paper's design choice to collect paired-comparison primary data and abstract away from position effects in copy testing. The citing study does not reuse the latent IV model itself, but the citation meaningfully informs the methodological framing of the problem.",
+  "relation_description": "The citing paper relies on Rutz et al. (2012) as prior evidence that position endogeneity in paid search is hard to correct with instruments. This serves as a conceptual foundation for proposing an alternative evaluation approach that avoids that endogeneity problem.",
+  "relation_type": "foundational_for"
+}

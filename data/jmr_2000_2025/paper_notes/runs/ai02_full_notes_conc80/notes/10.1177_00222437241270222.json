@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper studies a key quality-certificate design choice that prior empirical work has not directly tested: whether certificate criteria should rely more on consumer reports or on administrative data.",
+    "It shows the trade-off in using consumer reports by documenting both their informational benefit for buyers and their potential to weaken seller incentives when outcomes are less controllable by sellers.",
+    "It brings principal-agent incentive insights to quality-certificate design by showing threshold-targeting behavior after a certification redesign and by highlighting market-level consequences such as certification homogenization and concentration shifts."
+  ],
+  "context": "The setting is eBay's Top Rated Seller (eTRS) program, the main reputational badge shown on search results pages for established sellers. eBay announced in September 2015 and implemented in February 2016 a redesign that removed most consumer-rating inputs from eTRS criteria and added administrative performance metrics such as unresolved claims and tracking-based late delivery.",
+  "design_and_data": "The authors use proprietary eBay data spanning October 2014 to August 2016, excluding Motors and Real Estate, and focus on professional sellers (at least $5,000 sold pre-announcement) who remain active across before, interim, and after periods. They construct market-level relevance and controllability proxies using pre-announcement data: relevance is the correlation between old-badge status and a counterfactual new-badge status, and controllability is based on conditional variance of old badge outcomes given seller effort proxies from new-regime metrics. Empirically, they decompose selection versus behavior changes using old, counterfactual, and post-implementation badge shares; estimate threshold effects with an RDD around the late-delivery cutoff; and estimate buyer valuation via matched-listing badge-premium regressions. They also run market-month DiD analyses for consumer retention and market outcomes across hundreds of product markets.",
+  "focal_constructs": [
+    "quality certification design",
+    "consumer reports",
+    "administrative performance data",
+    "relevance to consumer experience",
+    "seller controllability",
+    "seller effort and threshold targeting",
+    "badge valuation",
+    "consumer retention and market concentration"
+  ],
+  "main_findings": [
+    "After the redesign, sellers increased effort on dimensions emphasized by the new administrative criteria, but effort converged toward thresholds, consistent with threshold targeting or gaming.",
+    "Buyer response improved more where the new administrative metrics were more aligned with consumer reports: the eTRS purchase premium rose more in high-relevance markets, and six-month repeat purchasing increased there.",
+    "The share of certified sellers became more homogenized across markets, total sales changes were limited, and low-controllability markets showed signs of greater concentration toward larger sellers."
+  ],
+  "one_line_summary": "Using eBay's 2015-2016 eTRS redesign as a natural experiment, the paper finds that shifting certification criteria from consumer reports to administrative data raises targeted seller effort but increases threshold targeting, while buyer value and retention gains are strongest where the new metrics better track consumer experience.",
+  "relation_to_prior_work": "extends empirical work on quality disclosure and certification by identifying the consequences of changing the information basis of a badge from consumer reports to administrative data. It also links reputation-system evidence to principal-agent theory by documenting a relevance-controllability trade-off and threshold-focused effort responses in a large platform market.",
+  "research_gap": "Prior research shows that reputation systems and certification can affect behavior, but there is limited empirical evidence on how the choice of input information for certification criteria changes seller incentives, buyer responses, and market structure. The paper emphasizes that theory predicts an unresolved relevance-versus-controllability trade-off, making net effects ambiguous without empirical evidence.",
+  "research_question": "What are the consequences of constructing quality certification with consumer reports versus administrative data? In eBay's badge redesign, how does this shift affect seller effort and strategic behavior, buyer valuation and retention, and market outcomes, and how do these effects vary with market-level relevance and controllability?"
+}

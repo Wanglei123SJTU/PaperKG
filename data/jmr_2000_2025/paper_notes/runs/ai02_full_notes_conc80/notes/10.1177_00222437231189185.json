@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "To the best of the authors' knowledge, this is the first paper to model customer-level routines from transaction timing data using a Bayesian nonparametric Gaussian process nested in an inhomogeneous Poisson process.",
+    "The paper introduces a routineness metric by decomposing expected usage into routine and nonroutine components and a novel day-hour kernel that flexibly captures weekly temporal structure.",
+    "It shows how detected routines can be used for CRM tasks, including prediction, segmentation, and targeting in ridesharing."
+  ],
+  "context": "The study is set in ridesharing, using data from Via, a New York City-based platform where many trips are embedded in weekly schedules such as commuting. The focal behavior is customer ride-request sessions over time.",
+  "design_and_data": "The authors specify an individual-level inhomogeneous Poisson model with two latent processes, routine and nonroutine usage, and model their rate components with Gaussian processes, including a custom day-hour kernel and Bayesian priors. They estimate the model with NUTS and define weekly routineness as the expected number of routine interactions. Empirically, they analyze 2,000 Via customers over a 48-week window in 2018 (first 3 weeks after each customer's acquisition are discarded), using 38 weeks for calibration and 10 weeks for holdout; the data include 86,952 sessions. They run simulations and quasi-simulations, benchmark holdout prediction against NR, NDH, Pareto/GGG, and LSTM models, and run regressions linking routineness to future requests, activity, proposal acceptance, and repeat requesting.",
+  "focal_constructs": [
+    "customer routines",
+    "routineness",
+    "routine vs nonroutine usage decomposition",
+    "weekly temporal structure",
+    "customer value and activity",
+    "price sensitivity",
+    "service failure resilience",
+    "clumpiness and regularity"
+  ],
+  "main_findings": [
+    "Estimated routineness is positively associated with future request volume and with remaining active in holdout periods, even after controlling for last-week requests, recency, frequency, clumpiness, and regularity.",
+    "Including the routine component improves holdout prediction of request timing versus nonroutine and Pareto/GGG benchmarks, and performs on par with an LSTM benchmark for timing prediction.",
+    "More routine customers, and trips with higher trip-level routineness, are more likely to accept proposals and request again; routineness attenuates some negative effects of price and certain service frictions, and routine-type clusters differ substantially in customer value."
+  ],
+  "one_line_summary": "The paper develops and validates a Bayesian nonparametric method to detect individual weekly routines in ridesharing transactions and shows that routineness has incremental predictive and managerial value for CRM outcomes.",
+  "relation_to_prior_work": "introduces a routine-detection approach that the authors position as distinct from habit/repeat-buying and from transaction-timing summaries such as RFM, clumpiness, and regularity. It argues that recurring temporal structure adds interpretable information beyond these existing constructs for CRM prediction and management.",
+  "research_gap": "The paper states that despite extensive work on habits and repeat behavior, little research has examined routines and their implications for customer relationship management. It also identifies a measurement gap: routines are hard to detect from transaction data when temporal patterns vary substantially across customers.",
+  "research_question": "Can firms detect individual customers' recurring weekly routines from transaction timing data in a flexible but precise way? If routines can be measured, do routineness and routine type provide incremental insight for CRM outcomes such as future usage, activity, and responses to pricing and service disruptions?"
+}

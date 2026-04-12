@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper examines user-initiated behaviors (following users and subscribing to topics/questions), rather than only exposure or immediate responses to recommended items.",
+    "It extends empirical evidence on recommendation effects to knowledge-sharing platforms with social-embedded algorithms and shows that even without direct friend recommendation, feed algorithms can reshape whom users connect with and network structure.",
+    "It provides evidence that recommender systems do not necessarily create popularity bias; effects vary by algorithm design, behavior type, and user characteristics."
+  ],
+  "context": "The empirical setting is Zhihu, a large Chinese Q&A knowledge-sharing platform similar to Quora. On August 16, 2012, Zhihu silently replaced a content-based feed algorithm with a social filtering algorithm based on followees' activities.",
+  "design_and_data": "The authors use internal Zhihu activity logs covering all registered users from platform launch through the end of 2013, including following, topic/question subscriptions, question posting, and answer contributions. They identify effects with a regression discontinuity in time design around the August 16, 2012 platform-wide algorithm switch, using day-level outcomes and temporal controls; the main analysis uses a 30-day pre/post window with 60- and 90-day checks. They run robustness checks including alternative polynomial orders, donut RD, lagged outcomes/controls, placebo dates, and covariate discontinuity tests. Heterogeneity analyses use 35,389 users and 15,719 topics segmented by pre-period centrality/popularity, and mechanism analyses use user-topic behavior and social-network asymmetry measures.",
+  "focal_constructs": [
+    "algorithmic curation",
+    "content-based filtering",
+    "social filtering",
+    "social tie creation",
+    "topic and question subscription",
+    "answer contribution",
+    "popularity concentration",
+    "niche topics"
+  ],
+  "main_findings": [
+    "After the switch, daily social tie creation increased by about 15%, while question subscriptions decreased by about 20% and answer contributions decreased by about 23% in the short run.",
+    "Social interests became more concentrated at the user level, with high in-degree users gaining significantly more followers than low in-degree users.",
+    "Topical interests became less concentrated, with popular topics receiving fewer question subscribers and less popular topics gaining relative attention, consistent with evidence that followees (especially popular users) consumed more niche topics than focal users."
+  ],
+  "one_line_summary": "Using Zhihu's 2012 switch from content-based to social filtering, the paper shows a short-run shift from content activity to social tie formation and a paradoxical deconcentration of topic interests.",
+  "relation_to_prior_work": "extends prior recommender-systems research from mostly passive exposure outcomes in e-commerce settings to user-initiated social and topical behaviors in a social-networked knowledge-sharing platform, while challenging the blanket claim that algorithmic curation always amplifies popularity bias.",
+  "research_gap": "Despite widespread use of social-embedded recommendation algorithms, there is limited causal evidence on how they change user behavior on online platforms. Prior work often treats algorithms as black boxes and lacks exogenous algorithm changes and rich behavioral data to isolate effects.",
+  "research_question": "How does replacing a me-focused content-based feed with a social-focused feed causally change user behavior on a knowledge-sharing platform? The paper asks whether this algorithm shift changes social and topical interest concentration across users and topics, and what mechanism explains those changes."
+}

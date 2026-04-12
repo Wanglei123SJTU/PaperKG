@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a behaviorist targeted-promotion model in which consumer choice depends on prices offered both to oneself and to other segments, captured through betrayal and jealousy effects in addition to standard switching and loyalty effects.",
+    "Combines a first-order Markov choice framework, laboratory-based parameter calibration, and game-theoretic equilibrium analysis to derive competitive targeting implications.",
+    "Shows that optimal targeting can differ sharply from strong-rationality prescriptions, with managerial implications about overpromoting, mistargeting, and the long-run viability of giving lower prices to switchers."
+  ],
+  "context": "The paper studies targeted promotions in competitive markets where firms can offer deals to current customers (loyals), rival customers (switchers), or neither, with particular relevance to Internet-enabled and information-rich pricing environments. The motivating setting is dynamic pricing where consumers may learn what other consumers get and react to perceived unfairness.",
+  "design_and_data": "The authors build a two-brand first-order Markov model of repeat purchase and switching with four effects: switching, loyalty, betrayal, and jealousy. They estimate model parameters using a between-subjects 3x3 laboratory experiment (n = 310 business students) in which subjects choose between two digital audio service providers before and after firm-specific promotional offers to loyals/switchers/none. Estimation uses weighted least squares on stated posterior preference allocations (with nested restrictions to test strong-rationality vs behaviorist effects). Estimated parameters are then used in steady-state profit and game-theoretic equilibrium analyses, including a case where only a fraction of consumers are aware and care about others' deals.",
+  "focal_constructs": [
+    "targeted promotions",
+    "aware versus unaware consumers",
+    "switching effect",
+    "loyalty effect",
+    "betrayal effect",
+    "jealousy effect",
+    "first-order Markov purchase dynamics",
+    "competitive promotion equilibria"
+  ],
+  "main_findings": [
+    "Laboratory estimates support all four effects, and models that include betrayal and jealousy fit significantly better than the strong-rationality model that excludes them.",
+    "Ignoring behaviorist effects biases firms toward targeting switchers and away from targeting loyals, which can produce suboptimal equilibria and meaningful profit losses in the calibrated competitive examples.",
+    "The optimal promotion strategy depends jointly on discount level and the share of aware-and-care consumers, and even a small aware segment can shift equilibrium; this implies that pricing lower to switchers may become unsustainable as awareness spreads."
+  ],
+  "one_line_summary": "Using a lab-calibrated Markov and game-theoretic model, the paper shows that when consumers care about deals offered to others, optimal targeted promotion policies differ from standard own-price-only prescriptions and can shift away from targeting switchers.",
+  "relation_to_prior_work": "challenges economics-based targeted-promotion models that assume consumer choice depends only on own available prices, by incorporating fairness-related responses to others' deals and showing different equilibrium targeting implications.",
+  "research_gap": "Prior targeted-promotion research largely assumes strong rationality, where consumers respond only to prices they themselves receive. The paper addresses the lack of a formal and empirically tested framework for how awareness of differential offers to other segments affects consumer choice and optimal competitive promotion strategy.",
+  "research_question": "How do firms' optimal targeted promotion policies change when consumers are influenced not only by their own prices but also by prices offered to other consumer segments? In particular, do betrayal and jealousy responses alter equilibrium targeting to switchers versus loyals, including when only part of the market is aware and concerned about others' deals?"
+}

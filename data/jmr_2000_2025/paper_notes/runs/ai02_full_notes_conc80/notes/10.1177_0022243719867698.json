@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a matching theory of mass customization interfaces and culture-specific information processing, arguing that by-attribute interfaces fit Western analytic processing and by-alternative interfaces fit Eastern holistic processing.",
+    "It introduces and tests interface fluency as the mechanism linking processing-congruent interfaces to better consumer outcomes.",
+    "It connects customization and personalization by showing that personalizing the customization interface can improve firm outcomes in real markets, including conversion and spending."
+  ],
+  "context": "The paper studies digital mass customization in international consumer markets, focusing on Eastern versus Western cultural contexts. Empirical settings include online car configuration, in-person chocolate customization, and Facebook ads for custom headphones across Asian, European, and North American markets.",
+  "design_and_data": "A pilot analysis used company data from 31,830,440 unique visitors who started car configurations on a by-attribute interface across 17 markets (2013-2016), comparing conversion rates between Eastern and Western markets. Experiments 1-3 were randomized cross-cultural studies with prospective car buyers or MTurk participants (Singapore/Germany; India/United States) that manipulated interface type (by attribute vs by alternative), measured processing style and outcomes, and in Experiment 3 directly manipulated interface fluency via tilted images. Experiment 4 was a field study with 133 international visitors in Switzerland who customized chocolate and then stated incentive-compatible willingness to pay in a pay-what-you-want purchase. Experiment 5 was a large-scale Facebook field experiment with 206,178 users across six English-speaking markets, testing ad stimuli that depicted by-attribute versus by-alternative customization and measuring click-through conversion.",
+  "focal_constructs": [
+    "mass customization interfaces",
+    "by-attribute interface",
+    "by-alternative interface",
+    "cultural information processing",
+    "analytic vs holistic processing style",
+    "processing-congruent interface",
+    "interface fluency",
+    "conversion and product satisfaction"
+  ],
+  "main_findings": [
+    "In the pilot data, a globally standardized by-attribute interface produced much lower conversion in Eastern than Western markets (3.11% vs 6.62%).",
+    "Across experiments, consumer responses showed a market-by-interface interaction: Eastern consumers responded more positively to by-alternative interfaces, while Western consumers responded more positively to by-attribute interfaces, for outcomes such as product satisfaction and purchase likelihood.",
+    "Interface fluency mediated these effects, and when interface fluency was experimentally reduced the effect was switched off; field studies also showed higher spending and higher click-through rates under processing-congruent interfaces."
+  ],
+  "one_line_summary": "Across controlled and field evidence, matching mass customization interface structure to culturally dominant processing style (by-alternative in Eastern markets, by-attribute in Western markets) increases interface fluency and improves satisfaction, purchase-related outcomes, spending, and conversion.",
+  "relation_to_prior_work": "introduces a cross-cultural matching account for mass customization interface design by integrating prior work on analytic versus holistic processing, matching and persuasion, and human-computer interaction adaptation; it also positions cultural information processing as an antecedent boundary condition beyond prior MC research that mainly emphasized outcomes.",
+  "research_gap": "Mass customization is commonly implemented with one global by-attribute interface, but the paper argues this one-size-fits-all design may be culturally misaligned. The authors identify limited systematic evidence on whether and why interface structure should be matched to culture-specific information processing in mass customization.",
+  "research_question": "Does matching mass customization interface type to consumers' culture-specific information processing style improve consumer and firm outcomes compared with processing-incongruent interfaces? The paper also asks whether interface fluency explains these effects and whether they hold in consequential field settings."
+}

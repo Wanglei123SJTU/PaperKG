@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "A flexible scanner-panel model that jointly estimates category purchase incidence (including no-purchase) and brand choice with shared unobservables.",
+    "An unrestricted household-level heterogeneity structure that allows covariance between coefficients in the incidence and brand-choice equations, and flexible brand-specific marketing effects in incidence.",
+    "A Bayesian MCMC estimation approach and empirical comparison showing practical gains over the commonly used nested logit specification."
+  ],
+  "context": "Primary application is household scanner-panel purchasing in the U.S. cola category (private label, Pepsi, Coca-Cola, RC Cola) in one metropolitan market from 1991 to 1993. The model is also reestimated on coffee and sugar categories for a generalizability check.",
+  "design_and_data": "The paper specifies a two-part random-utility model: a binary category-purchase (no-purchase) equation and a multinomial brand-choice equation, linked through correlated latent errors and a joint random-coefficient distribution across equations. Category incidence uses brand-specific price, display, and feature variables for all brands plus household inventory; brand choice uses brand intercepts and common price/display/feature effects with household heterogeneity. Estimation is Bayesian via MCMC data augmentation, with 11,000 draws and the first 1,000 discarded. Empirically, the main calibration uses IRI cola scanner-panel data (312 households, 20,236 shopping visits, 22.5% category purchase incidence), compared against a nested logit benchmark with a 112-household holdout sample.",
+  "focal_constructs": [
+    "no-purchase option",
+    "category-purchase incidence",
+    "brand choice",
+    "correlated unobservables",
+    "household-level heterogeneity",
+    "price, display, and feature effects",
+    "inventory",
+    "promotion elasticity decomposition"
+  ],
+  "main_findings": [
+    "The proposed model predicts better than nested logit for cola, including higher holdout predictive log-likelihood (-5399 vs -5545) and lower MAD at category and brand levels.",
+    "Estimated unobserved correlations between category purchase and brand choice are positive and significant for Pepsi, Coca-Cola, and RC Cola (.22, .42, and .29), indicating non-ignorable dependence between the two decisions.",
+    "Relative to the proposed model, nested logit understates category-expansion effects of promotions (especially display and feature components) and gives distorted competitive vulnerability/clout assessments; Pepsi appears as the strongest category cue."
+  ],
+  "one_line_summary": "The paper develops a Bayesian household-level model that jointly links no-purchase incidence and brand choice in scanner-panel data and shows that this more flexible specification outperforms nested logit and changes elasticity-based managerial inferences.",
+  "relation_to_prior_work": "introduces a joint incidence-brand-choice specification that is more general than nested logit, translog/GEV, and add-one-outcome MNL approaches by allowing brand-level incidence covariates and flexible dependence through unobservables and random coefficients. It also addresses informative missingness from omitting no-purchase observations in standard brand-choice estimation.",
+  "research_gap": "Most brand-choice models estimate only purchase occasions and drop no-purchase observations, which is valid only when unobserved drivers of incidence and brand choice are independent. Existing no-purchase formulations impose restrictive structures (inclusive-value links, translog restrictions, or zero deterministic utility for no-purchase) and do not allow fully flexible cross-equation dependence and heterogeneity correlation.",
+  "research_question": "How should category purchase incidence (including no-purchase) and brand choice be modeled jointly in scanner-panel data when unobserved factors may affect both decisions? Does allowing flexible dependence through shared unobservables and correlated household heterogeneity improve prediction and alter substantive marketing conclusions relative to nested logit?"
+}

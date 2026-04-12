@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citation is used for a specific modeling choice rather than a generic background mention. When constructing the adstock control, the authors state that they fix the carryover parameter at lambda = .5 following the meta-analysis by Kohler et al. (2017). This directly informs how delayed advertising effects are parameterized in the demand system. Even though it is not the focal theory of the paper, it plays a meaningful methodological role.",
+  "relation_description": "The citing paper applies empirical generalization from Kohler et al. (2017) to set the adstock carryover decay parameter in its demand model. This transfers the cited paper's carryover evidence into the warning-label pricing context as an implementation input.",
+  "relation_type": "applies"
+}

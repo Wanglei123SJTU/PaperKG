@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides a multi-paradigm empirical assessment of lay beliefs about consumer discretion under implied constraints from science and technology.",
+    "Shows that free will in consumer judgment is often construed as noncorporeal, while responses vary with perceived physical causation and individual differences.",
+    "Derives policy implications by indicating broad support for libertarian paternalism but also identifying cases where greater intervention may be publicly acceptable."
+  ],
+  "context": "The studies are set in consumer and policy domains, especially food consumption and obesity, with additional scenarios involving shoplifting, fraud, drunk driving, and sales persuasion. The substantive focus is how marketing-relevant behaviors are judged when autonomy appears constrained.",
+  "design_and_data": "The article reports 10 experiments (1a, 1b, 2, 3a-3d, 4, 5a, 5b) using mostly Amazon Mechanical Turk samples and one undergraduate sample, with between-subject designs. Manipulations varied deterministic framing and causal source, including shared metacauses (environment/history/genes), risk-factor predictability (70% vs 100%), prediction basis (preferences, in-store cues, genetics), brain versus personality loci, engineered food effects on brain systems, and persuasion targeting adults versus elderly consumers. Key dependent measures were self-likelihood of misbehavior, perceived voluntary control, perceived responsibility, and support for government regulation; belief in free will, religiosity, and political orientation were measured as moderators.",
+  "focal_constructs": [
+    "belief in free will",
+    "consumer discretion",
+    "perceived voluntary control",
+    "determinism",
+    "physical causation",
+    "libertarian paternalism",
+    "religiosity",
+    "support for regulation"
+  ],
+  "main_findings": [
+    "Most participants rejected strict determinism in metacausal scenarios and typically explained discretion through freedom of choice and willpower, often characterized as nonphysical.",
+    "Perceived consumer control was generally resilient across deterministic challenges, especially among participants with stronger free-will belief, but was reduced when hard-wired or explicit physical causation was salient (for example, genetics or direct brain effects).",
+    "Judgments were not uniform: behavior type and individual differences moderated responses, and support for regulating complex persuasion toward elderly consumers increased mainly among participants with weaker free-will belief."
+  ],
+  "one_line_summary": "Across 10 experiments, the paper shows that lay beliefs in consumer free will are robust and often noncorporeal, yet systematically moderated by physical-causation cues and individual differences with implications for policy intervention.",
+  "relation_to_prior_work": "extends prior philosophical and psychological work on free will and marketing discussions of libertarian paternalism by experimentally mapping when consumers maintain or relax perceived autonomy under concrete causal challenges.",
+  "research_gap": "The paper states that implications of free will for consumer policy are underexplored, even though autonomy assumptions are central to marketing regulation debates. It also identifies uncertainty about whether pervasive lay belief in autonomy will persist under advances in data science and neuroscience, and where the public draws intervention boundaries.",
+  "research_question": "How do people judge consumer control when behavior is portrayed as constrained by deterministic forces from social, biological, and neuroscientific sources? How resilient are these judgments across different causal framings, and how do they vary by individual differences such as free-will belief, religiosity, and political orientation? What do these patterns imply for policy approaches such as libertarian paternalism?"
+}

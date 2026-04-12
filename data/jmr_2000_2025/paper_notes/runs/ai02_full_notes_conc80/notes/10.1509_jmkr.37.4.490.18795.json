@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces a maximum-likelihood exploratory factor analysis approach that handles missing observations directly, without first replacing missing values with single imputations.",
+    "Provides a general factor-analytic framework for observed variables from the exponential family, allowing discrete and continuous outcomes, mixed outcome types, and skewed distributions.",
+    "Positions the factor model as both an object of substantive analysis and a practical engine for multiple imputation in common marketing missing-data settings (item nonresponse, data fusion, split questionnaire, subsampling, time sampling)."
+  ],
+  "context": "The paper is set in marketing research datasets where missingness is common from both item nonresponse and design choices. Empirical illustrations use customer satisfaction data from a U.S. HMO study and a large bank study, including a simulated data-fusion setup.",
+  "design_and_data": "The authors specify a latent factor model with normal latent factors and exponential-family conditional outcome distributions linked through canonical links, and estimate parameters by simulated maximum likelihood (with draws from the latent-factor distribution) and CAIC-based factor-number selection. They then generate multiple imputations using draws from the approximate posterior predictive distribution, using 50 imputations per missing value in applications. Synthetic experiments use N=300, J=12, P=2 with missingness from 0% to 50% under a latent-variable-dependent mechanism and outcomes generated as normal, binomial, exponential, or Erlang-2; they also test misspecified normal models for skewed data. Two empirical studies are reported: HMO satisfaction data (N=886, 10 five-point items, simulated 10%-60% item nonresponse) and bank satisfaction data (N=1375, mixed measurement scales, simulated block-missing data fusion).",
+  "focal_constructs": [
+    "exploratory factor analysis",
+    "missing data mechanisms",
+    "simulated maximum likelihood",
+    "multiple imputation",
+    "exponential-family measurement models",
+    "mixed discrete and continuous outcomes",
+    "factor weight recovery"
+  ],
+  "main_findings": [
+    "In synthetic data, when the outcome distribution is correctly specified, the proposed method recovers factor weights very well and maintains strong performance even with large missing-data proportions (up to about 50%).",
+    "When skewed outcomes are analyzed with a misspecified normal factor model, recovery and imputation quality deteriorate as missingness increases, indicating greater sensitivity to distributional assumptions under incomplete data.",
+    "In the HMO application, the proposed approach yields more accurate recovery of complete-data factor weights than mean replacement, pairwise deletion, or listwise deletion across all tested missingness levels; in the bank data-fusion application, imputations recover missing blocks reasonably well, though some recovered correlations are somewhat upward biased in absolute value."
+  ],
+  "one_line_summary": "The paper develops and tests a simulated-ML exploratory factor analysis framework for incomplete marketing data that estimates factors directly under missingness and also supports multiple imputation across mixed and skewed outcome types.",
+  "relation_to_prior_work": "extends prior factor-analysis and missing-data work by combining latent-variable ML estimation for incomplete data with exponential-family outcome modeling, going beyond standard normal-data factor models and ad hoc deletion/mean-replacement practices.",
+  "research_gap": "The paper argues that common marketing practice for missing data in factor analysis (mean replacement, pairwise deletion, listwise deletion) has serious drawbacks and is not satisfactory. It also highlights the lack of a general ML exploratory factor-analysis approach for high-dimensional marketing data that can jointly handle missingness and varied outcome distributions, including skewed and mixed discrete-continuous variables.",
+  "research_question": "How can exploratory factor analysis be estimated in marketing datasets with substantial missing observations from both nonresponse and design, while avoiding traditional ad hoc handling methods? Can a unified ML factor model with exponential-family outcomes recover latent structure accurately and also serve as a practical multiple-imputation vehicle for subsequent analyses?"
+}

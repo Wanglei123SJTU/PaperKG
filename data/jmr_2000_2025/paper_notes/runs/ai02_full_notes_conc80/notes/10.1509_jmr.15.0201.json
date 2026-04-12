@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "Provides what the authors describe as the first theoretical analysis of how within-team ability composition affects effort when salespeople compete in teams.",
+    "Derives sharp comparative predictions across three team contest metrics (average, minimum, maximum) and discusses when each metric is optimal under different modeling assumptions.",
+    "Tests the model with two incentive-aligned strategic laboratory experiments and reports broad qualitative support for the core predictions."
+  ],
+  "context": "The paper studies team-based sales contests in which firms group salespeople into teams and rank teams to allocate prizes. The key contextual feature is heterogeneity in member ability endowments (such as sales effectiveness or territory/customer-base advantages) within teams.",
+  "design_and_data": "The authors build a game-theoretic model with two competing teams of two members each, where individual output equals effort plus ability endowment plus noise, and contest winners are determined by average, minimum, or maximum within-team output. The baseline assumes symmetric team composition across teams and equal prize sharing within winning/losing teams, with extensions for correlated shocks, asymmetric teams, and alternative heterogeneity via effort-cost differences. They then run two incentivized laboratory experiments with strategic repeated effort choices in z-Tree. Experiment 1 is a 2 x 3 between-subjects design (homogeneous vs. heterogeneous composition x average/minimum/maximum metric) with 160 undergraduate participants; Experiment 2 focuses on the average metric with cost-based heterogeneity and includes 28 undergraduates.",
+  "focal_constructs": [
+    "team composition heterogeneity",
+    "salesperson effort",
+    "team-based sales contests",
+    "contest metric (average/minimum/maximum output)",
+    "stronger versus weaker team members",
+    "team symmetry versus asymmetry"
+  ],
+  "main_findings": [
+    "In the baseline model, when winning depends on average team output, within-team ability heterogeneity does not change total team effort, and stronger and weaker members choose identical effort.",
+    "When winning depends on the minimum or maximum member output, heterogeneity lowers total team effort; stronger members exert less effort under the minimum metric and more effort under the maximum metric than weaker members.",
+    "For symmetric teams, homogeneous composition makes average/minimum/maximum metrics effort-equivalent, but with heterogeneous composition the average metric yields the highest team effort; the experiments provide broad support for these predictions, including effort invariance under the average metric."
+  ],
+  "one_line_summary": "Using a game-theoretic model and two incentivized experiments, the paper shows that the effect of sales team ability composition on effort depends strongly on whether contests are ranked by average, minimum, or maximum member output.",
+  "relation_to_prior_work": "extends prior marketing work on sales contests from mostly individual-based tournaments and homogeneous-team assumptions to heterogeneous team composition under multiple team ranking rules. It also extends alliance contest research by incorporating within-team ability heterogeneity and the minimum-contribution metric, while complementing team composition evidence by isolating incentive effects apart from knowledge-transfer mechanisms.",
+  "research_gap": "Prior sales contest research is largely about individual-based contests, and team-contest models in marketing typically assume homogeneous members and average-based team ranking. The paper addresses the missing theoretical and empirical analysis of how within-team ability heterogeneity changes effort under alternative team contest metrics.",
+  "research_question": "How does within-team ability composition affect individual and total effort in team contests? Do stronger and weaker members adjust effort differently as heterogeneity changes, and how do these effects depend on whether teams are ranked by average, minimum, or maximum member output?"
+}

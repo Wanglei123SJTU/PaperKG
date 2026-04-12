@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "Provides convergent field evidence from two transactional datasets (Prosper and eBay) that online community participation is associated with greater financial risk seeking.",
+    "Identifies a process mechanism: participation increases members' perceived support from the community, which in turn leads to riskier financial decisions.",
+    "Identifies a boundary condition: the effect appears when ties with other community members are relatively strong, but not when ties are weak."
+  ],
+  "context": "The paper studies consumer behavior in online communities tied to financial decisions, mainly Prosper.com (a U.S. peer-to-peer lending platform) and eBay Germany's collectibles communities. It focuses on how community participation relates to lenders' and bidders' risk taking.",
+  "design_and_data": "Study 1 is a field study of 600 randomly sampled Prosper lenders tracked over 18 months (April 2006 to September 2007), using platform and third-party tracking data on community participation and lending portfolios; risk preference is computed from portfolio shares weighted by borrower default risk categories. Study 2 is a controlled longitudinal field experiment on eBay Germany with 13,735 collectibles users observed for 22 months, where roughly half were randomly invited to community participation in May 2005 and effects were estimated with a selection model using invitation as an exogenous driver of participation. Study 3 is a 2 x 2 laboratory experiment (community join vs. not join, strong vs. weak ties) with 120 undergraduates using a Prosper investment-allocation task, thought listings, and a self-efficacy measure.",
+  "focal_constructs": [
+    "online community participation",
+    "financial risk preference",
+    "risky financial behavior",
+    "perceived community support",
+    "tie strength among community members",
+    "cushion hypothesis"
+  ],
+  "main_findings": [
+    "In Prosper field data, community members showed higher lending risk preference than nonmembers, and greater posting activity predicted greater risk preference.",
+    "In the eBay field experiment, induced community participation increased risky bidding behavior, using both spending-per-win and bids-per-win risk measures, with robustness checks supporting the effect.",
+    "In the lab experiment, participation increased risk taking only under strong ties, and support-related thoughts mediated this pattern; self-efficacy did not explain the effect."
+  ],
+  "one_line_summary": "Across two field settings and one lab experiment, the paper shows that online community participation can increase risky financial behavior by heightening perceived support from other members, especially when member ties are strong.",
+  "relation_to_prior_work": "extends the cushion hypothesis and social risk research by showing that perceived support from an online community of relative strangers can raise financial risk taking, even without actual monetary support from family or close friends. It also broadens online community research from engagement outcomes to consequential financial decision behavior.",
+  "research_gap": "Prior work had documented online community effects on engagement and information behaviors, but offered little evidence on how participation affects consumers' financial decision making and risk seeking. Existing group and cushion explanations were based on stronger, offline social ties and did not clearly address whether dispersed online community participation would produce similar risk effects.",
+  "research_question": "Does participation in an online community increase consumers' risk-seeking tendencies in financial decisions and behaviors? If so, is the effect driven by perceived support from other community members, and does it depend on the strength of members' ties?"
+}

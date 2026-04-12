@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper explicitly positions itself as extending Liu, Lee, and Srinivasan (2019), stating that prior work examined ratings and review content effects on demand but did not separate quality versus taste heterogeneity. This citation is used to frame the paper's core contribution and research gap, not just to provide general background. The cited study is also invoked in the empirical strategy discussion as a methodological contrast on observed review-reading behavior versus assuming all reviews are read, which is directly relevant to identification concerns.",
+  "relation_description": "The citing paper builds on Liu et al. (2019) as a key prior empirical study linking review content to demand. It extends that work by modeling and estimating distinct vertical (quality) and horizontal (taste) variance components in reviews and their differential demand effects.",
+  "relation_type": "extends"
+}

@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a unified recommendation framework that jointly addresses nonignorable missing ratings, ordinal rating scales, and customer heterogeneity.",
+    "It explicitly models rating selection (whether an item is rated) together with rating prediction (how it is rated) using a correlated binary-probit and ordinal-probit structure.",
+    "It shows how the framework can be implemented in existing recommender systems and used to guide targeted requests for additional customer ratings."
+  ],
+  "context": "The paper studies online product recommendation systems, especially for experience goods, with an empirical application to movie recommendations. The main empirical setting is the EachMovie platform data used widely in collaborative filtering research.",
+  "design_and_data": "The authors develop a hierarchical Bayes joint model with two linked latent components: a binary selection model for whether a customer rates a movie and an ordinal probit prediction model for the star rating, with correlated errors and heterogeneous cutoffs. They include movie-genre covariates and customer demographics (age, gender), with heterogeneity across customers and movies. Empirical analysis uses EachMovie data (72,916 customers, 1,628 movies, six-star ratings, March 1996 to September 1997), with a calibration sample of 2,432 customers and 78 movies (93.9% missing) plus three holdout designs (existing customers/new movies, new customers/existing movies, new customers/new movies). Estimation is via MCMC, with 20,000 burn-in draws and at least 30,000 retained draws, and performance is compared with restricted variants and the Ansari, Essegaier, and Kohli (2000) benchmark.",
+  "focal_constructs": [
+    "nonignorable missing ratings",
+    "selection versus prediction processes",
+    "ordinal star ratings",
+    "hierarchical Bayes heterogeneity",
+    "selection-prediction error correlation",
+    "recommendation accuracy"
+  ],
+  "main_findings": [
+    "In the EachMovie data, missing ratings are not ignorable, and modeling selection jointly with ratings improves recommendation quality.",
+    "The full joint heterogeneous model outperforms restricted variants and generally improves holdout accuracy over the benchmark model, with roughly 10%-20% gains in MAD/RMSE for new-movie prediction tasks.",
+    "Selection behavior and rating outcomes differ materially by genre; for example, some genres (such as classic films) are selected less often but receive high ratings when selected."
+  ],
+  "one_line_summary": "Using EachMovie data, the paper shows that jointly modeling nonrandom rating missingness and ordinal ratings with heterogeneity yields materially better online recommendations than models that ignore missingness.",
+  "relation_to_prior_work": "extends prior statistical recommender models by jointly modeling whether items are rated and how they are rated, while keeping ratings ordinal and allowing rich heterogeneity; unlike earlier approaches that typically assumed missing completely at random, it treats missingness as informative.",
+  "research_gap": "Prior recommendation models reviewed in the paper generally relied on observed ratings only, effectively assuming missing ratings were missing completely at random, and often did not model rating ordinality and heterogeneity in one integrated framework. The paper targets this unresolved joint treatment.",
+  "research_question": "Can online recommendation accuracy be improved by explicitly modeling the missing-rating mechanism together with ordinal rating outcomes, rather than ignoring missing ratings as random? How much do heterogeneity and the correlation between selection and rating processes matter for holdout recommendation performance?"
+}

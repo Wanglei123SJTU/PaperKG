@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Demonstrates that regulatory fit effects can arise with mixed appeals containing both promotion- and prevention-focused claims, not only single-frame messages.",
+    "Identifies involvement as a boundary condition: fit effects are robust under low involvement and attenuate under high involvement.",
+    "Provides process evidence that regulatory focus guides selective information search under limited cognitive resources, with persuasion effects mediated by perceived feature attractiveness."
+  ],
+  "context": "Laboratory persuasion and product-evaluation settings with mixed advertising claims for two toothpaste brands that combined strong/weak promotion and prevention features. Study 2 used a computerized online-drugstore simulation to track feature selection and viewing time.",
+  "design_and_data": "Two mixed-factor experiments were conducted with undergraduate participants. Study 1 (N = 51; after a 52-participant feature-classification pretest) used a 2 (promotion vs prevention prime) x 2 (high vs low involvement) x 2 (toothpaste profile: strong promotion/weak prevention vs strong prevention/weak promotion; within-participant) design and measured brand attitudes, choice, and feature-attractiveness ratings. Study 2 (N = 58) replicated the design and added direct process measures: selecting 4 of 6 feature dimensions and mouse-over viewing time for promotion versus prevention information in a computer task. Analyses included ANOVA, logistic regression for choice, and mediation tests (Baron and Kenny conditions and Sobel tests).",
+  "focal_constructs": [
+    "regulatory focus",
+    "regulatory fit",
+    "task involvement",
+    "selective attention",
+    "information search behavior",
+    "preference construction",
+    "feature attractiveness",
+    "heuristic versus systematic processing"
+  ],
+  "main_findings": [
+    "Regulatory fit effects on brand attitudes and choice appeared in low-involvement conditions: promotion-focused participants preferred the strong-promotion toothpaste, whereas prevention-focused participants preferred the strong-prevention toothpaste.",
+    "When involvement was high, regulatory-focus-based selectivity in evaluation and choice was not observed, and participants processed fit and nonfit information more evenly.",
+    "In low involvement, participants selectively chose and spent more time on fit features, but the fit effect on brand attitude was mediated by perceived feature attractiveness rather than by processing time."
+  ],
+  "one_line_summary": "Across two experiments, the paper shows that regulatory focus shapes selective attention and persuasion under mixed promotion-prevention appeals only when involvement is low, with effects mediated by perceived feature attractiveness.",
+  "relation_to_prior_work": "extends prior regulatory fit research that largely used single-focus persuasive frames and passive message exposure by testing mixed appeals in which consumers can actively select information. It clarifies the mechanism behind earlier fit effects by showing a pattern more consistent with heuristic processing under low involvement than with systematic processing based on processing effort.",
+  "research_gap": "Prior regulatory fit studies mainly presented either promotion- or prevention-focused messages and treated recipients as passive processors. The paper argues that it was unclear whether consumers would actively seek and weight fit information when both claim types are available, and whether fit effects would hold under high versus low involvement.",
+  "research_question": "Do consumers with different regulatory foci actively construct regulatory fit by selectively searching for and using promotion- versus prevention-relevant information when both are present in the same message environment? How does involvement (motivation to process information) moderate this selective processing and its impact on attitudes and choice?"
+}

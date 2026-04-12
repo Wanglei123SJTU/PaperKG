@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides empirical evidence on how different similarity measures used in brand extension research relate to one another rather than treating them in isolation.",
+    "Shows that the influence of perceived similarity on extension evaluations is mediated by categorization constructs, not simply direct similarity-to-attitude or similarity-to-intention paths.",
+    "Identifies a goal-derived organizing construct, labeled brand meaning, that links multiple similarity dimensions and better predicts extension attitudes and purchase intention when core and extension products share a goal."
+  ],
+  "context": "The paper studies consumer evaluation of brand extensions for established brands in a brand-extension setting. The empirical context uses Reebok and Benetton extensions into cotton spandex athletic wear, dress leather shoes, and notebook computers across goal-congruent and goal-incongruent conditions.",
+  "design_and_data": "The authors first used interviews/focus groups and a pretest to choose brands, categories, and goal-congruency manipulations; a pretest sample of 72 undergraduates assessed fit, ideals, similarity, and associated goals. A pilot study with 256 undergraduates from three Western U.S. universities conducted exploratory factor analyses under goal-congruent and moderately goal-incongruent conditions to identify factor structures. The main study used a 2 (brand: Reebok vs. Benetton) x 3 (goal-congruent, moderately incongruent, extremely incongruent) between-subject design with 320 students randomly assigned to six extension scenarios. The analysis used maximum likelihood factor analysis and structural equation modeling (EQS) to compare mediated and direct-effect models for attitudes and purchase intention.",
+  "focal_constructs": [
+    "goal congruency",
+    "perceived similarity",
+    "feature-based similarity",
+    "usage-based similarity",
+    "goal-based similarity",
+    "brand meaning",
+    "attitude toward the extension",
+    "purchase intention"
+  ],
+  "main_findings": [
+    "Perceived similarity is multidimensional, and its factor structure changes across goal-congruent, moderately goal-incongruent, and extremely goal-incongruent extension contexts.",
+    "In the goal-congruent condition, three first-order similarity factors loaded on a higher-order brand meaning construct, and the mediated model fit better than a model with direct independent similarity effects.",
+    "In both goal-incongruent conditions, models with a mediating ad hoc categorization construct fit better than direct-effect models; in the extremely goal-incongruent condition, attitude toward the extension was not significantly related to purchase intention."
+  ],
+  "one_line_summary": "Using Reebok and Benetton extension scenarios, the study shows that goal congruency changes the structure of similarity judgments and that categorization mediators (brand meaning or ad hoc categories) better explain extension attitudes and purchase intention than direct similarity effects.",
+  "relation_to_prior_work": "refines prior brand extension research that used competing similarity definitions by empirically mapping their relationships across goal-congruent and goal-incongruent contexts. It applies goal-derived categorization theory to show when these measures cohere under a shared goal and when they fragment into weaker ad hoc structures.",
+  "research_gap": "Prior brand extension studies proposed multiple similarity measures (feature-based, usage-based, brand-concept, goal-based) but offered little evidence on how these measures are related to each other and to attitudes and intentions. The contextual role of goal congruency in shaping these relationships had not been systematically examined.",
+  "research_question": "How are major similarity measures used in brand extension research related to one another, and how do they relate to attitudes toward an extension and purchase intention? Does goal congruency between core brand and extension alter these relationships, and is similarity's impact direct or mediated by categorization processes?"
+}

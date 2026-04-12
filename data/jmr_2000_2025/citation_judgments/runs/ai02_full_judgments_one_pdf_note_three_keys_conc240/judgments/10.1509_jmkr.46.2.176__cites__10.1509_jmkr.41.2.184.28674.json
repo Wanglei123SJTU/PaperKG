@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in the model development section to justify key assumptions in the citing paper's category-needs component, not just as a generic background mention. Specifically, Briesch et al. cite Chib et al. to support that needs are realized at the category level and that category purchase incidence is negatively related to inventory. Those citations directly motivate how they specify and sign the category-needs equation (time since last purchase and last purchase quantity effects). This is a meaningful conceptual input to their framework even though they do not fully reuse Chib et al.'s full estimation model.",
+  "relation_description": "The citing paper uses Chib et al. (2004) as conceptual and empirical grounding for its category-needs/incidence submodel within the store-choice framework. In particular, it borrows the category-level need perspective and inventory-incidence logic to structure and interpret that part of the model.",
+  "relation_type": "foundational_for"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper introduces a psychosocial sender-side cost of positive WOM: recommending a product can reduce the recommender's perceived uniqueness by increasing others' adoption.",
+    "It shows when this cost is strongest by identifying moderators of uniqueness effects on WOM: public vs private product consumption, ownership or purchase intention, and WOM content (recommendations vs details).",
+    "It provides guidance for targeting WOM agents by linking individual differences in uniqueness to the likelihood and type of WOM consumers generate."
+  ],
+  "context": "The studies examine WOM in consumer product settings where people talk to friends, classmates, or acquaintances about new discretionary products. Evidence spans lab and scenario contexts (e.g., laptop, mattress, sandals, iPhone, Apple television, sneakers) and a field WOM campaign for a candy bar via BzzAgent.",
+  "design_and_data": "The paper reports six studies: a pilot plus Studies 1-5. The pilot (n=116 students) and Study 1 (n=77 nonstudents) use 2x2 experiments manipulating product publicness/use and uniqueness (measured in the pilot, manipulated in Study 1) to test purchase likelihood and positive WOM. Study 2 (n=120 students) manipulates product type and WOM type (recommendation vs details) to assess perceived persuasiveness, and Study 3 (n=170 students) manipulates product and ownership while measuring uniqueness and separate multi-item WOM intentions for recommendations and details; Study 4 (n=118 students) manipulates WOM type in a between-subjects scenario with measured uniqueness. Study 5 analyzes real WOM campaign data from 549 BzzAgents, codes report favorability, and estimates logistic regressions of favorable WOM using uniqueness and age.",
+  "focal_constructs": [
+    "need for uniqueness",
+    "positive word of mouth",
+    "publicly vs privately consumed discretionary products",
+    "product ownership and purchase intention",
+    "WOM recommendations",
+    "WOM product details",
+    "psychosocial cost of decreased uniqueness"
+  ],
+  "main_findings": [
+    "When a public product is adopted by others, high-uniqueness consumers show lower purchase likelihood, and they are less willing than low-uniqueness consumers to provide positive WOM for owned public products; this pattern does not appear for private products.",
+    "WOM that includes positive recommendations is perceived as more persuasive than WOM that only provides product details for public products, and uniqueness effects are stronger for recommendations than for details.",
+    "For public products, uniqueness reduces recommendations for owned products but not for products consumers do not plan to buy, and field data show high-uniqueness agents are less likely to generate favorable WOM while not less likely to report conversations per se."
+  ],
+  "one_line_summary": "This paper shows that consumers high in need for uniqueness are less willing to spread positive WOM, especially buy recommendations for publicly consumed products they own, because wider adoption threatens product uniqueness.",
+  "relation_to_prior_work": "extends prior WOM research that emphasizes benefits by theorizing and testing a sender-side social cost tied to need for uniqueness. It also refines discussion of WOM content by separating recommendations from detail-sharing and showing different uniqueness effects across these forms and across public versus private products.",
+  "research_gap": "Prior WOM research has focused mainly on the benefits and spread of WOM, with limited attention to costs borne by the sender. The authors argue that prior work also leaves unclear which product types people talk about and how individual differences interact with WOM content (recommendations vs details).",
+  "research_question": "How does an individual's need for uniqueness influence willingness to generate positive WOM? The paper tests whether this effect depends on product visibility (public vs private use), ownership or purchase intention, and WOM content (buy recommendations vs product details)."
+}

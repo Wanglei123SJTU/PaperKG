@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used as a methodological precedent in the citing paper's Study 4, where the authors explicitly state they implement a difference-in-differences approach following prior work including Chevalier and Mayzlin (2006). They then build their cross-platform differencing strategy (same app across Google Play and Apple App Store, across time) to remove app- and platform-level confounds, which is a concrete design role rather than a passing mention. Even though it appears in a grouped citation, the surrounding text makes its function clear as part of the empirical identification logic.",
+  "relation_description": "The citing paper applies Chevalier and Mayzlin's cross-platform difference-in-differences logic to its archival app-store setting. It uses that approach to identify how free versus paid status and existing WOM conditions relate to subsequent review posting while controlling for unobserved heterogeneity.",
+  "relation_type": "applies"
+}

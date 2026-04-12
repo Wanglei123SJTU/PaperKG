@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Identifies and tests a two-pathway framework for WOM in free versus paid settings: reciprocity toward producers and adoption-risk concerns for other consumers.",
+    "Provides multi-method evidence, including marketplace archival data, that free pricing substantially affects WOM generation.",
+    "Shows that WOM dynamics (existing volume and dispersion) condition sharing via adoption-risk perceptions, while highlighting WOM as behavior that can serve both producers and other consumers."
+  ],
+  "context": "The studies are set in digital app markets, including mobile game apps, a web photo-editing app, and a mobile health app scenario. The field analysis uses Google Play and Apple's App Store, where free and paid apps coexist and prior review information is visible.",
+  "design_and_data": "The paper reports four studies. Study 1 is a retrospective MTurk survey of mobile game app users (usable n = 156) comparing recalled WOM behavior and likelihood for free versus paid apps, with reciprocity and satisfaction measures. Study 2 is a controlled 2 x 2 x 2 experiment (usable n = 354) using an actual web photo app experience, manipulating product type (free vs paid) and existing WOM volume and dispersion, then observing review-posting choice and process measures. Study 3 is a scenario-based 3 x 2 x 2 MTurk experiment (usable n = 683) that adds a free+ads condition and measures posting intention and mediators; Study 4 analyzes archival data on 5,665 apps listed on both Google Play and the App Store (Sep 2014 and Mar 2015) using a difference-in-differences model of new reviews with ranking and rating controls.",
+  "focal_constructs": [
+    "free versus paid pricing",
+    "word of mouth sharing",
+    "reciprocity toward producer",
+    "perceived adoption risk",
+    "existing WOM volume",
+    "existing WOM dispersion",
+    "online review posting"
+  ],
+  "main_findings": [
+    "Across studies, consumers were generally more likely to share WOM for free products than for paid products.",
+    "Higher reciprocity toward developers mediated the greater WOM sharing for free products.",
+    "The free-product WOM advantage was reduced, and in some experimental conditions nearly eliminated, when existing WOM was low in volume and high in dispersion, consistent with an adoption-risk pathway favoring paid products."
+  ],
+  "one_line_summary": "The paper finds that free pricing usually increases WOM sharing through reciprocity toward producers, but this advantage weakens when prior WOM is sparse and highly dispersed, which raises adoption-risk concerns.",
+  "relation_to_prior_work": "extends prior zero-price and freemium research by linking free pricing to WOM behavior, and supplements WOM motivation and dynamics work by showing how review volume and dispersion shape adoption-risk-driven sharing.",
+  "research_gap": "Prior research on free pricing emphasized strategic viability and valuation anomalies, while giving limited attention to WOM behavior in free-product settings. The paper targets the unresolved issue of whether and why WOM motives differ between free and paid products, and when WOM dynamics alter those effects.",
+  "research_question": "Are consumers more or less likely to share WOM for free versus paid products? Through what mechanisms does any difference arise, specifically reciprocity toward producers versus concern about adoption risk for potential adopters, and how do existing WOM volume and dispersion moderate these effects?"
+}

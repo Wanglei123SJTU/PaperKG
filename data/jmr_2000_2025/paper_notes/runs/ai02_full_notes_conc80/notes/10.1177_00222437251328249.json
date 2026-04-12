@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Documents a novel lay belief that legal products are perceived as less effective than illegal products.",
+    "Identifies and tests an accessibility-to-strength inference process linking legality to efficacy and harm judgments.",
+    "Shows behavioral and policy relevance by connecting this belief to product choice and field ad response."
+  ],
+  "context": "The paper studies health, wellness, and personal care consumables, including pain relievers, weight loss and muscle drugs, eyelash serum, teeth whitener, and anxiety-related supplements, primarily with U.S. participants. One study uses a Facebook ad field setting during the COVID-19 period.",
+  "design_and_data": "Across eight preregistered studies, the authors run randomized experiments that manipulate whether products are described as legal or illegal, mostly on Prolific and MTurk samples, plus one Facebook A/B field test. Early studies hold objective outcomes constant with identical numeric or visual evidence, including an incentivized teeth-whitening accuracy task. Study 2 measures perceived efficacy, strength, and safety for a fictional pain reliever and tests mediation. Studies 3 and 4 use 2x2 designs to test moderation by access information and by explicit potency-equivalence information, and Study 5a tests choice while Study 5b tests click-through behavior.",
+  "focal_constructs": [
+    "product legality",
+    "perceived efficacy",
+    "perceived product strength",
+    "inferred access restrictions",
+    "safety concerns",
+    "lay beliefs",
+    "consumer choice"
+  ],
+  "main_findings": [
+    "Participants consistently judged legal products as less effective than illegal products, even when objective outcomes were identical and even when responses were incentivized for accuracy.",
+    "Perceived strength mediated legality effects: legal status lowered inferred strength, which lowered perceived efficacy and also lowered safety concerns; safety did not mediate efficacy.",
+    "Equating access restrictions or product strength attenuated or eliminated legality differences in efficacy, and these beliefs changed behavior (more illegal choice when efficacy was prioritized and higher clicks for a claim of being more effective than illegal alternatives)."
+  ],
+  "one_line_summary": "Across eight preregistered studies, consumers inferred that legal products are less effective than illegal products because legality signals broader access and lower strength, and this belief affected choice and ad clicking.",
+  "relation_to_prior_work": "introduces a legality-based lay belief that departs from a simple halo account by showing legal status can raise perceived safety yet lower perceived efficacy. It refines prior safety-efficacy discussions by identifying inferred accessibility and product strength as the mechanism for this pattern.",
+  "research_gap": "Prior research has examined why products are legalized, but the paper states that consumer lay beliefs about legal versus illegal products are not well understood. It also highlights uncertainty about whether legality should produce uniformly positive inferences (halo) or distinct inferences about efficacy and safety.",
+  "research_question": "How does a product's legal versus illegal status shape consumer judgments of efficacy, even when objective outcomes are the same? Through what inference process does legality affect perceived efficacy and harm, and do these beliefs influence consumer choice behavior?"
+}

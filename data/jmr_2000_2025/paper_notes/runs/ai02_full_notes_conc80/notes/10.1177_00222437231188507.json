@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The editorial uses behind-the-scenes ScholarOne data to empirically describe JMR's peer review process across nearly 3,000 editorial decisions.",
+    "It documents how reviewer evaluations and recommendation agreement relate to AE recommendations and CoE decisions across review rounds.",
+    "It directly examines whether disclosing prior rejection at another journal is associated with manuscript handling and outcomes at JMR."
+  ],
+  "context": "The paper studies the double-anonymized peer review system at the Journal of Marketing Research, involving the EIC, coeditors, associate editors, and reviewers. The focal period is April 1, 2019 to January 23, 2023, which includes the COVID-19 period and an editorial team transition.",
+  "design_and_data": "The authors analyze all manuscripts with complete observed histories from submission to final decision within the window, yielding 2,448 unique manuscripts and 2,931 decisions. The sample involves 4,826 unique authors, 1,127 reviewers, 113 AEs/guest AEs, and 13 CoEs/guest CoEs. Analyses are descriptive and include decision-round/timing summaries, reviewer-AE-CoE alignment tabulations, and logistic models with correlated-measure adjustments (including GEE) for reviewer recommendations. The authors note left- and right-censoring in this sampling frame and caution that rejection-related rates are biased upward in this sample.",
+  "focal_constructs": [
+    "peer review process",
+    "editorial decision rounds",
+    "time to decision",
+    "reviewer attribute ratings",
+    "reviewer recommendations",
+    "AE recommendations",
+    "CoE decisions",
+    "prior rejection disclosure"
+  ],
+  "main_findings": [
+    "Reviewer recommendations were most strongly associated with perceived current contribution, potential contribution, appropriateness for JMR, and methodological rigor, while topic importance and clarity were not significant in the first-round model.",
+    "Reviewer teams often disagreed (61% of first-round cases), and AE/CoE rejection likelihood increased monotonically as the share of reviewers recommending rejection increased.",
+    "Manuscripts disclosed as previously rejected elsewhere had substantially lower desk-reject rates and similar acceptance outcomes to brand-new submissions, providing no evidence of disadvantage from disclosure in these data."
+  ],
+  "one_line_summary": "Using full-history records for 2,448 manuscripts, the editorial descriptively maps JMR peer review and shows how reviewer, AE, and CoE inputs and prior-rejection disclosure are associated with editorial outcomes and timing.",
+  "relation_to_prior_work": "extends prior work on peer review by adding a journal-specific, data-based description of manuscript trajectories and evaluator alignment within JMR.",
+  "research_gap": "Despite peer review's central role, the process is often opaque, and stakeholders have limited empirical evidence on how manuscripts move through stages, how reviewer/AE/editor inputs combine, and whether specific submission disclosures relate to outcomes.",
+  "research_question": "How do manuscripts progress through JMR's peer review stages, and what are the durations and decision patterns across rounds? How are reviewer attribute ratings, reviewer agreement, and AE recommendations associated with CoE decisions, including changes across rounds? Does disclosing prior rejection at another journal relate to review outcomes at JMR?"
+}

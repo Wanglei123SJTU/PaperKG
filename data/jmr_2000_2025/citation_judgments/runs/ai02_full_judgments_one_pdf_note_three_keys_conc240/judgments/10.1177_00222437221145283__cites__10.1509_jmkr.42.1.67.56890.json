@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citation appears in the core related-literature argument on remedies for biased pricing inference in conjoint, not in a peripheral list. The authors explicitly describe the incentive-alignment logic associated with Ding et al. and use it to motivate their research gap. They do not reuse Ding et al.'s method directly, but they substantively engage with its applicability boundaries to justify a different modeling solution.",
+  "relation_description": "The citing paper uses Ding, Grewal, and Liechty (2005) as a key prior example of incentive-aligned conjoint methods that tie choices to real monetary consequences. It then positions its own budget-inference approach as a complementary alternative for high-ticket categories, arguing incentive alignment can be costly and may introduce income-effect distortions in that setting.",
+  "relation_type": "other"
+}

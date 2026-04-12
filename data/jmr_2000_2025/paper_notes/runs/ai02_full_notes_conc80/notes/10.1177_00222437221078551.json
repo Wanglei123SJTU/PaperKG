@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Identifies product ownership status as a key moderator of consumer responses to a brand's upgrade release.",
+    "Shows a context in which the usually positive ownership effect is mitigated, with current owners reacting less favorably after upgrades.",
+    "Demonstrates that upgrade launches can harm existing consumer-brand relationships by increasing perceived distance, and highlights connection-building tactics to reduce this harm."
+  ],
+  "context": "The paper studies markets where firms frequently release improved versions of existing products, with focal contexts including consumer electronics and automobiles. Empirical settings include tablet, iPhone, camera, and Bluetooth speaker scenarios plus U.S. household vehicle ownership and switching behavior.",
+  "design_and_data": "The authors report a pilot survey on MTurk (n=572 with relevant experience) and five studies. Studies 1-3 are experiments (student and MTurk samples) that manipulate upgrade release or upgrade salience and ownership status or brand-self distance, and measure brand attitude, cross-category purchase intention, and perceived relationship distance; Study 2 uses actual iPhone 7/7 Plus owners versus non-iPhone owners. Study 4 is a two-phase ownership study where participants chose and kept a real Bluetooth speaker, then two weeks later were assigned to control, upgrade, or upgrade-with-advice conditions, with both attitudinal outcomes and donation behavior. Study 5 uses 2017 National Household Travel Survey data from 49,998 U.S. households and estimates a multilevel logistic model linking the number of newer generations released for a previously owned model to subsequent brand switching.",
+  "focal_constructs": [
+    "product upgrade release",
+    "product ownership status",
+    "brand preference",
+    "perceived relationship distance",
+    "brand-self distance",
+    "brand attitude",
+    "cross-category purchase intention",
+    "brand switching"
+  ],
+  "main_findings": [
+    "Upgrade releases increased brand attitude and cross-category purchase intention for nonowners but decreased these outcomes for current owners.",
+    "For owners, the negative effect of upgrades on brand preference was mediated by increased perceived relationship distance from the brand; this mediated effect was not supported for nonowners.",
+    "Providing owners with an additional connection to the brand (brand self-relevance or advice solicitation) attenuated the negative response, and in secondary auto data more newer generations were associated with higher odds of brand switching among owners (odds ratio about 1.099 per generation)."
+  ],
+  "one_line_summary": "Across five studies, the paper finds that product upgrades can raise brand preference among nonowners but lower it among current owners because owners feel the brand has moved away from them.",
+  "relation_to_prior_work": "extends prior product-upgrade research that mainly emphasized upgrade adoption or positive brand inferences by showing ownership-contingent negative brand effects and by linking those effects to perceived consumer-brand relationship distance.",
+  "research_gap": "Prior work on upgrades and line extensions had not clearly examined when upgrade releases could hurt brands, especially by jointly considering ownership status and brand preference shifts. The paper also notes that earlier ownership findings did not isolate whether post-launch owner and nonowner differences reflected positive or negative attitude change from baseline.",
+  "research_question": "How does a brand's release of an upgraded product affect brand preference differently for consumers who own the prior version versus those who do not? The paper also asks whether owners' unfavorable reactions are driven by increased perceived distance in the consumer-brand relationship and whether adding another source of connection can mitigate this effect."
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides guidance for constructing multi-item indexes with formative indicators as a complement to established reflective scale development procedures.",
+    "Identifies four critical issues for formative index development and evaluation: content specification, indicator specification, indicator collinearity, and external validity.",
+    "Illustrates the proposed formative index procedures empirically with survey data and SEM-based validation steps."
+  ],
+  "context": "The paper is a marketing measurement methods article, illustrated in the domain of firms' export sales forecasting. The empirical example focuses on a resource commitment construct for export forecasting in manufacturing exporters.",
+  "design_and_data": "The study is primarily methodological, drawing on prior literature to define formative indicators and propose index construction procedures. The empirical illustration uses mail survey data on export sales forecasting practices, with analyses based on 173 questionnaires from senior managers in exporting firms (from a size-stratified sample of 1330 manufacturing exporters). Ten candidate formative items for resource commitment were developed from literature review and exploratory interviews and measured on five-point Likert scales. The authors assess multicollinearity (VIF), use an external global criterion for initial indicator screening, estimate MIMIC models with reflective indicators, and test nomological validity in a two-construct structural model.",
+  "focal_constructs": [
+    "formative indicators",
+    "reflective indicators",
+    "index construction",
+    "content specification",
+    "indicator collinearity",
+    "external validity",
+    "resource commitment to export sales forecasting"
+  ],
+  "main_findings": [
+    "Traditional reflective-scale diagnostics such as internal consistency and standard convergent/discriminant validity are not appropriate for formative indexes, so quality assessment should rely on external and nomological validation approaches.",
+    "In the empirical illustration, collinearity among the ten formative indicators was low (maximum VIF = 1.588), and one indicator was dropped after failing an external criterion correlation screen.",
+    "A reduced four-indicator resource commitment index (x1, x3, x5, x7) showed acceptable fit without significant deterioration versus the larger model, and it positively predicted export sales forecast performance (beta21 = .108, p < .05)."
+  ],
+  "one_line_summary": "The article develops and illustrates a practical framework for constructing and validating formative indicator indexes in marketing as an alternative to reflective scale development.",
+  "relation_to_prior_work": "extends prior measurement work by addressing the underdeveloped treatment of formative indicators in marketing and by complementing reflective psychometric guidelines with formative-specific index construction and validation procedures.",
+  "research_gap": "The authors state that existing measurement guidance in marketing focuses almost exclusively on reflective multi-item scales, while formative index construction is neglected and the relevant advice is fragmented. This leaves researchers with limited systematic guidance on how to evaluate the quality of formative measures.",
+  "research_question": "How can marketing researchers construct and evaluate multi-item measures when indicators are formative causes of a construct rather than reflective effects? The paper asks what procedures should be used to specify indicators and assess the validity of formative indexes."
+}

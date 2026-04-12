@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces and validates attribute consideration time from cursor trajectories as a real-time process measure for branded-product decisions.",
+    "Shows that consideration-time differences have practical predictive value for choice, including out-of-sample prediction, and provide information beyond conjoint part-worths and standard sequential sampling models.",
+    "Extends cursor-tracking applications in marketing by showing the method works with few trials and in choices involving three attributes (brand, product, and price)."
+  ],
+  "context": "The studies examine choices among branded consumer goods, primarily food items and clothing, where options combine product and brand attributes and sometimes price. Data come from lab and online cursor-tracking tasks in which participants choose between two simultaneously displayed options.",
+  "design_and_data": "The paper reports four cursor-tracking studies (Studies 1-3 plus a supplemental study in Web Appendix A) using lab and online designs. Study 1 used incentive-compatible lab choices for food and clothing (200 trials each) with prior product/brand ratings and a spatial-location manipulation; Study 2 replicated online with 290 participants and only 10 food-brand trials, with ratings collected after choices. Study 3 used lab food choices over three attributes (product, brand, and price). Across studies, consideration time was estimated from normalized cursor trajectories using regressions that identified when each attribute began to significantly and persistently influence movement angles.",
+  "focal_constructs": [
+    "attribute consideration time",
+    "brand consideration time",
+    "product consideration time",
+    "brand-based choice",
+    "product-brand conflict",
+    "cursor trajectories",
+    "attribute decision weights",
+    "spatial prominence of attributes"
+  ],
+  "main_findings": [
+    "On average, product desirability influenced cursor trajectories earlier than brand desirability (about 160 ms earlier in Study 1), and in three-attribute choices product was also earlier than price while brand and price were not significantly different.",
+    "Consumers who considered brand attributes relatively earlier were more likely to choose the option from the preferred brand when brand and product preferences conflicted, and this relationship also predicted out-of-sample choices.",
+    "Making brand information more prominent (e.g., top-screen placement, and in the supplemental study brand-focused promotion) shifted consideration time toward brand, increased brand weighting, and increased brand-based choices, with mediation through relative consideration time and attribute weights."
+  ],
+  "one_line_summary": "Using cursor-tracking across four studies, the paper shows that earlier consideration of brand versus product attributes increases brand-based choices in product-brand conflicts and can be shifted by marketing-relevant prominence manipulations.",
+  "relation_to_prior_work": "extends prior sequential-sampling, query-theory, and cursor-tracking research by showing in branded-product marketing choices that the relative onset time of attribute processing predicts conflict resolution and can be experimentally shifted. It also reports that this timing measure adds predictive information beyond conjoint part-worths and standard diffusion-style models.",
+  "research_gap": "Prior work on branded product choice has often relied on self-reports or inference from final choices, which does not reveal when brand versus product information enters the decision process in real time. The paper also notes limited marketing use of cursor trajectories to estimate attribute-level timing, especially for low-trial settings and decisions with more than two attributes.",
+  "research_question": "How does the relative timing of considering brand versus product desirability during choice affect whether consumers resolve product-brand conflict in favor of the preferred brand or the preferred product? Do contextual marketing manipulations that increase brand prominence shift attribute consideration time and thereby shift choice outcomes?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper identifies three broad classes of natural heuristics used in data-based allocation decisions: difference-based, trend-based, and exemplar-based.",
+    "It shows that these heuristics can generate substantial and sometimes extreme allocation biases, including allocations toward an uncorrelated variable under exemplar-based processing.",
+    "It provides a unified heuristic-based explanation for effects of temporal frame, prior beliefs, and graphical format, and tests whether experience or explicit training mitigates these biases."
+  ],
+  "context": "The empirical setting is managerial advertising budget allocation across newspaper, radio, and television using historical expenditure and sales records. Tasks were framed as either cross-sectional store comparisons or time-series weekly data for department stores.",
+  "design_and_data": "The paper reports three controlled experiments in which participants allocated a 100-point advertising budget across three media after viewing 16 observations of spending and sales in tables, bar charts, or line charts. Stimulus data were engineered from three resource patterns (control, global trend, local contrast), then linearly transformed to realistic dollar values; sales outcomes were generated as a linear function of the resource variables plus small error. Experiment 1 used students (n=157) and marketing managers (n=89) with manipulations of temporal frame, format, and prior-belief labels, and collected open-ended process reports. Experiment 2 (n=213 students) and Experiment 3 (n=160 students) used altered data designs to separate heuristic predictions; a follow-up training study (reported as follow-up/Web Appendix) tested explicit debiasing instructions.",
+  "focal_constructs": [
+    "data-based decision making",
+    "advertising budget allocation",
+    "difference-based heuristics",
+    "trend-based heuristics",
+    "exemplar-based heuristics",
+    "prior beliefs",
+    "temporal frame",
+    "graphical data displays"
+  ],
+  "main_findings": [
+    "Biases were strong and often suboptimal relative to normative allocations, and in one design many participants allocated most to a control variable uncorrelated with sales.",
+    "Graphical displays did not debias decisions; line charts especially increased difference-based responding and produced more extreme allocations, with format effects larger than prior-belief and temporal-frame effects.",
+    "Trend-based heuristics were least used (trend neglect), while real-world managerial experience and explicit training did not reliably reduce the observed biases."
+  ],
+  "one_line_summary": "Across three advertising allocation experiments, decision makers relied on a small set of heuristics that systematically distorted data-based causal inference, and these distortions were not corrected by common chart formats, experience, or training.",
+  "relation_to_prior_work": "extends prior heuristics-and-biases research on intuitive correlation assessment to multivariate managerial allocation decisions under table and chart displays. challenges the common expectation in statistical-graphics and debiasing discussions that better displays, experience, or explicit training will substantially reduce such inference biases.",
+  "research_gap": "Prior work had documented biases in correlation judgment and studied graphical comprehension largely at perceptual or bivariate levels, but had not clearly established whether major biases in multivariate managerial allocation decisions can be reduced by graphical displays, real-world experience, or explicit training. The paper also addresses whether a small, general set of heuristics can account for these decision biases across display formats and frames.",
+  "research_question": "When managers infer advertising effectiveness from historical expenditure-sales data, do they make biases large enough to produce seriously suboptimal budget allocations? Do graphical displays, real-world experience, or explicit training reduce these biases? Can the observed allocation patterns be explained by a small set of natural heuristics used in data-based decision making?"
+}

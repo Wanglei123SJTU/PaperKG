@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides a structural framework for modeling customer retention in which loyalty rewards and other marketing instruments are evaluated in a dynamic discrete-choice setting.",
+    "Shows how to estimate loyalty-program effects when rewards depend on cumulative purchases over time, while jointly accounting for short-term factors such as prices, e-mail coupons, and shipping fees.",
+    "Demonstrates policy-simulation use of the estimated model to compare long-term effects of alternative promotions for multicampaign direct marketing decisions."
+  ],
+  "context": "The empirical setting is an online retailer specializing in nonperishable grocery and drugstore items. The loyalty program awards frequent-flyer miles when annual cumulative spending crosses thresholds ($1,000, $1,500, $2,000), and points do not carry over across annual cycles.",
+  "design_and_data": "The paper models weekly customer choices among no order, small, medium, and large orders as a finite-horizon (52-week) dynamic optimization problem. State variables include cumulative spending, recency, price level, e-mail coupon availability, shipping-fee schedule, and expected future prices. The full database covers more than 30,000 customers over 13 months (1997-1998), and the estimation sample contains 1,058 customers selected for meaningful transaction histories (at least two purchases in first 5 weeks and at least 30 weeks observed). Estimation uses maximum likelihood with backward recursion, includes latent-class heterogeneity, and uses simulation/policy experiments (including 100,000-customer simulations).",
+  "focal_constructs": [
+    "loyalty program rewards",
+    "customer retention",
+    "forward-looking purchase behavior",
+    "cumulative annual spending thresholds",
+    "short-term promotions",
+    "shipping-fee policies",
+    "e-mail coupons",
+    "recency and cumulative purchase history"
+  ],
+  "main_findings": [
+    "Dynamic specifications fit the data better than myopic specifications, and the loyalty reward effect is positive and statistically significant in the dynamic model.",
+    "In the best-fitting two-segment dynamic model, the loyalty effect is concentrated in one larger segment, while the other segment shows little reward response.",
+    "Policy simulations indicate that removing loyalty rewards lowers weekly purchase incidence (19.7% to 19.2%), reduces mean annual orders (10.25 to 9.98), and decreases average annual customer revenue (from $647 to $634)."
+  ],
+  "one_line_summary": "Using online grocery retail panel data, the paper estimates a dynamic discrete-choice model and finds that a threshold-based loyalty program increases repeat purchasing and annual revenue for a substantial share of customers.",
+  "relation_to_prior_work": "extends prior empirical loyalty-program work that often used single-period switching models by modeling customer choices as forward-looking dynamic optimization under cumulative reward thresholds. It also integrates loyalty incentives and short-term marketing actions in one empirical retention model.",
+  "research_gap": "Prior empirical evidence on loyalty-program effectiveness is limited and contradictory, and much of it is based on single-period models that do not represent cumulative, time-dependent reward incentives. The paper addresses the need for an empirical model that captures dynamic response to loyalty rewards while jointly estimating short-term promotion effects on retention.",
+  "research_question": "How much does a cumulative-purchase loyalty program affect customer retention and purchasing over time, relative to short-term promotions and other marketing instruments? The paper also asks whether customer behavior in this setting is better explained by forward-looking dynamic decision making than by myopic choice."
+}

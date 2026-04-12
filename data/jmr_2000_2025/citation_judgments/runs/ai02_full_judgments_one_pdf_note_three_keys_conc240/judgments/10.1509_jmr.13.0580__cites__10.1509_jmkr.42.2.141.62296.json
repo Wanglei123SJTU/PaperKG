@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citation appears in the methods section where the authors justify using hierarchical linear modeling to handle nested meta-analytic observations, citing Bijmolt et al. (2005) as a precedent. This is a functional methodological use tied to model specification, not just a generic literature-list mention. The citing paper does not engage the cited paper's price-elasticity findings, but it does rely on its meta-analytic modeling approach in a new context.",
+  "relation_description": "The citing paper uses Bijmolt et al. (2005) as methodological precedent for applying hierarchical linear modeling to nested effect-size data in meta-analysis. It transfers that approach to the domain of marketing communication carryover effects.",
+  "relation_type": "applies"
+}

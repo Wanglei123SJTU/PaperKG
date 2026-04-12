@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops and estimates a structural model of sequential online news browsing that separately identifies within-session learning from observed links and across-session valuation from anticipated links.",
+    "It introduces an augmented Bayesian learning framework with a vertical utility component based on redundantly distributed news 'bits,' in addition to horizontal match learning from links.",
+    "It provides empirical evidence on links among original news publishers (not just aggregators) using individual-level browsing sequences and counterfactual simulations of a link-ban policy."
+  ],
+  "context": "The empirical setting is online celebrity news consumption across five sites (Celebuzz, Dlisted, Egotastic!, Perez Hilton, The Superficial). The policy motivation is debate over regulating links and excerpts in online news markets, including EU link-tax style interventions.",
+  "design_and_data": "The authors estimate a dynamic structural demand model of sequential site visits with Bayesian learning and forward-looking choice. Data combine comScore URL-level browsing records with scraped daily content and inter-site links for 92 days (October-December 2009). The estimation panel includes 127 high-frequency U.S. consumers, 5,757 browsing sessions, and 19,130 choices across the five sites. They fit the model via Bayesian MCMC and run counterfactual simulations comparing observed linking to a no-linking policy.",
+  "focal_constructs": [
+    "hyperlinks and excerpts",
+    "within-session learning effect",
+    "across-session anticipatory effect",
+    "horizontal match utility",
+    "vertical utility from news volume",
+    "forward-looking sequential browsing",
+    "link informativeness",
+    "counterfactual link ban"
+  ],
+  "main_findings": [
+    "Encountering a link reduces consumers' uncertainty about their daily match with the linked site's content by about 6%.",
+    "Relative to a no-linking counterfactual, linking increases celebrity news consumption; the median consumer visits 0.54% more sites, and total traffic at the five sites is higher (about 0.01% to 0.18% by site).",
+    "Among consumers exposed to links, exposure increases the probability of visiting the linked site by 0.14% (about a 2.3% lift over baseline), which the authors note is roughly three times typical display-ad click-through rates."
+  ],
+  "one_line_summary": "Using a structural learning model on individual celebrity-news browsing data, the paper finds that links and excerpts increase overall news consumption and generally benefit both linking and linked sites in this setting.",
+  "relation_to_prior_work": "extends prior internet browsing and consumer learning models by treating links as informative signals that update expected match utility and by modeling forward-looking anticipation of links in sequential site choice. It also extends empirical work on online news links beyond pure aggregators by analyzing publisher-to-publisher linking at the individual browsing-sequence level and decomposing within-session versus across-session effects.",
+  "research_gap": "Prior empirical evidence on how links affect news demand is limited and focused largely on aggregate effects of pure aggregators (especially Google News), leaving unclear how links among content-producing publishers affect individual browsing decisions. The paper also addresses the lack of structural evidence separating ex post effects of observed links from ex ante effects of anticipated linking behavior.",
+  "research_question": "How do links and excerpts among online news sites affect consumer demand for news, both after a link is observed within a browsing session and before browsing when consumers anticipate links? What is the net effect of banning links on site traffic and consumer browsing behavior in this news ecosystem?"
+}

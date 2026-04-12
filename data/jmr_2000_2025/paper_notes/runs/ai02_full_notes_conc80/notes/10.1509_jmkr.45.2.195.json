@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a conjoint model for multipart pricing that jointly handles an access fee, a free usage allowance, a per-unit overage charge, and optional add-on features.",
+    "Extends nonlinear budget-set ideas to conjoint analysis by modeling the two-way dependence between prices and consumption, allowing usage uncertainty, and letting consumption affect plan choice.",
+    "Shows how to estimate both choice probabilities and usage from choice-set data and use them for revenue/profit simulation, optimal plan design, and add-on feature pricing."
+  ],
+  "context": "The paper studies markets where services are sold with multipart tariffs, such as wireless telephony, car rentals, HMOs, prescription plans, and cable services. The empirical application is U.S. cell phone plan choice among plans that vary in provider, fees, free minutes, and optional features.",
+  "design_and_data": "The authors run a conjoint study with 72 undergraduate marketing students (plus a 33-student pilot to set attributes and ranges). Each respondent evaluates 18 individualized choice sets with three wireless plans varying six attributes: access fee, per-minute overage rate, free plan minutes, provider, rollover, and Internet access. They estimate a hierarchical Bayesian multinomial probit model with latent usage and usage uncertainty using MCMC, and compare it with six competing models and two special cases of the proposed model. Model assessment uses Bayes factors and holdout prediction (16 estimation and 2 holdout tasks per respondent), followed by demand/revenue simulations, plan optimization, feature-pricing analysis, and a 20-replication Monte Carlo recovery check.",
+  "focal_constructs": [
+    "multipart pricing",
+    "access fee",
+    "free usage allowance",
+    "per-unit overage price",
+    "optional add-on features",
+    "price-consumption simultaneity",
+    "usage uncertainty",
+    "conjoint-based choice and usage estimation"
+  ],
+  "main_findings": [
+    "The proposed model (with and without usage uncertainty) fits better than the null conjoint models by Bayes-factor comparisons, and modeling satiation or underage behavior is more consequential than adding usage uncertainty alone.",
+    "Model-implied individual usage is reasonably reliable: predicted and self-stated monthly usage are correlated at about 0.70, with evidence that respondents slightly overstate self-reported usage.",
+    "In demand and optimization exercises, the proposed model yields finite revenue-maximizing tariff components and more industry-plausible optimal plans, while null models tend to imply implausibly high per-minute prices and inflated profits because they treat usage as price-invariant."
+  ],
+  "one_line_summary": "This paper proposes and demonstrates a hierarchical Bayesian conjoint method for multipart tariffs that jointly infers plan choice and uncertain usage to improve demand, revenue, and optimal service-plan design decisions.",
+  "relation_to_prior_work": "extends prior conjoint pricing models that assume a single price and price-invariant usage by modeling multipart tariffs with endogenous usage and uncertain consumption. extends labor-economics nonlinear budget-set formulations to conjoint settings by adding consumption effects on choice and estimating usage from choice data.",
+  "research_gap": "Prior conjoint pricing methods largely assume one posted price and do not model upgrading/add-on fees or usage that changes with tariff structure. The paper identifies a missing conjoint framework that captures simultaneous price-consumption dependence and consumer uncertainty about usage under multipart pricing.",
+  "research_question": "How can conjoint analysis be adapted to model consumer choice when services use multipart tariffs and usage is both endogenous to prices and uncertain? Can such a model recover individual usage from choice data and improve revenue/profit simulation and optimal design of base plans and optional features?"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces a novel judgment effect: forecast level itself shapes evaluations of both forecasts and forecasters.",
+    "Shows that this effect is driven by directional focus on the target event versus its complement, and identifies boundary conditions based on directional format.",
+    "Generalizes the effect across multiple contexts and probability formats, and demonstrates downstream consequences for forecaster evaluations and related decisions."
+  ],
+  "context": "The paper studies consumer judgments of probabilistic forecasts for uncertain events. Empirical settings include basketball game outcomes, stock market predictions, and book publishing success (with additional web-appendix studies in other forecast formats and risk contexts).",
+  "design_and_data": "The authors report eight experiments (five in the article and three in the web appendix) that manipulate forecast level and related framing/format factors in hypothetical prediction scenarios. Main studies use between-subjects designs with undergraduate and online panel samples (e.g., N=161, 162, 94, 241, 247), including 2x2, 2x2x2, and 2x4 structures. Manipulations include high vs. low forecasts (typically 70% vs. 30%), target-event framing (e.g., win vs. lose; stock up vs. down), market context, and forecast format (numerical, pictorial, positive verbal, negative verbal). Outcomes include perceived forecast accuracy, inferred forecaster confidence, inferred depth of analysis, trustworthiness/reliability, betting intentions, and outcome expectations.",
+  "focal_constructs": [
+    "forecast level (high vs. low probability)",
+    "perceived forecast accuracy",
+    "forecaster confidence",
+    "depth of analysis",
+    "forecaster trustworthiness and reliability",
+    "target event predictability",
+    "directionality (target vs. complementary event focus)"
+  ],
+  "main_findings": [
+    "Higher forecasts are judged as more accurate than lower forecasts across studies, including cases where high and low versions are normatively equivalent under reframing.",
+    "Higher forecasts also lead to more favorable forecaster inferences: greater perceived confidence, deeper analysis, and higher reliability/trustworthiness.",
+    "The effect depends on directional focus: it appears within directionally consistent formats (and reverses as predicted within negative verbal framing), while cross-direction comparisons reduce differences; lower forecasts also trigger greater reliance on contextual information when forming outcome expectations."
+  ],
+  "one_line_summary": "Across eight experiments, the paper shows that higher-level forecasts are perceived as more accurate and made by better forecasters because people focus on the target event rather than the complementary event.",
+  "relation_to_prior_work": "extends prior work on probabilistic directionality by testing how forecast quantifier level (e.g., 70% vs. 30%) changes perceived accuracy and forecaster evaluations, not just event focus. It also documents that normatively equivalent complementary forecasts are judged asymmetrically by consumers.",
+  "research_gap": "Prior work had shown that probability expressions can direct attention to a target event or its complement, but it had not tested whether forecast level itself changes perceived accuracy or inferences about the forecaster. The paper addresses this missing link and its consequences.",
+  "research_question": "Do consumers use the level of a probabilistic forecast (high vs. low) to infer forecast accuracy and forecaster qualities such as confidence, analysis depth, and trustworthiness? If so, is this because people focus on the target event and misread low target-event likelihood as low overall forecaster confidence, and when does this pattern hold across formats?"
+}

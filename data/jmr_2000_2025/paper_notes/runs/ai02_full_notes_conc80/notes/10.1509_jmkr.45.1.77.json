@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces a recommendation model in which purchase is the joint outcome of awareness and satisfaction, with firm recommendation actions explicitly entering the process.",
+    "It claims to be the first recommendation-systems paper to treat purchase behavior data strictly as unary data and model that data-generation structure statistically.",
+    "It proposes a recommendation decision framework that distinguishes instantaneous and broad-range policies and optimizes on incremental response to recommendation rather than raw purchase probability."
+  ],
+  "context": "The empirical setting is a U.S.-based e-commerce retailer selling household products such as consumer electronics, school materials, and home tools. Recommendations are shown on the home page and during shopping-cart add events.",
+  "design_and_data": "The paper specifies a two-stage consumer model where a purchase requires awareness and satisfaction, each modeled with logistic functions using latent item characteristics observed by users but not by the analyst. It combines two data components: self-initiated purchase outcomes for nonrecommended user-item pairs and acceptance/rejection outcomes for recommended pairs, enabling separate identification of awareness and satisfaction parameters. Heterogeneity is modeled via a dual latent class structure over both users and items, estimated with MCMC and a fast mode-finding prelude based on iterative eigenvalue-eigenvector calculations. The empirical illustration uses 932 customers and 1,681 products (1,566,692 user-item pairs), with 60,790 purchases, 73,996 recommendations, and 6,807 accepted recommendations.",
+  "focal_constructs": [
+    "automatic recommendation systems",
+    "purchase probability sensitivity to recommendations",
+    "awareness",
+    "satisfaction",
+    "self-initiated purchases",
+    "firm-initiated purchases",
+    "unary purchase data",
+    "dual latent class model"
+  ],
+  "main_findings": [
+    "On holdout data, the proposed model separates purchases from nonpurchases better than binary and CF benchmarks; in recommendation-response data, top-decile purchases are 99% higher than the binary benchmark and 123% higher than CF.",
+    "Prediction accuracy for recommendation acceptance is 71.0% at a 0.485 threshold and 82.6% at a 0.75 threshold, compared with a 9.2% base acceptance rate; for self-initiated purchases, accuracy is 67.0% versus a 3.6% base rate.",
+    "Recommendation lists from the proposed model have low overlap with the binary benchmark lists, and projected incremental purchases are about 2.8x higher under the instantaneous policy and 3.8x higher under the broad-range policy."
+  ],
+  "one_line_summary": "This paper develops and empirically evaluates a unary-data recommendation model that separates awareness and satisfaction so firms can recommend items with the highest incremental lift from recommendation actions.",
+  "relation_to_prior_work": "introduces an intervention-sensitive recommendation framework that departs from prior approaches focused mainly on predicting high purchase or rating levels from historical behavior. It also replaces common ratings/binary treatments of purchase data with a unary-data formulation and integrates recommendation-response data for identification.",
+  "research_gap": "The paper argues that prior recommendation research generally recommends items with high conditional purchase probabilities rather than items with high sensitivity to recommendation intervention. It also states that existing work using purchase behavior does not properly model purchase data as unary data and lacks a corresponding statistical model.",
+  "research_question": "How should a firm choose which product to recommend to a specific customer when recommendations can change purchasing relative to what would happen without intervention? The paper asks whether recommendation decisions should be based on baseline purchase likelihoods or on incremental response to recommendation, using purchase and recommendation-response data."
+}

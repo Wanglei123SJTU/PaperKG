@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is a core input to the 2025 study, not a passing reference: it is explicitly included as Study 1 in the five-dataset mega-analysis. The citing paper uses Boksem and Smidts (2015) as a key prior result to replicate and stress-test, especially the gamma-band prediction of box office outcomes. It also draws on that study for analytic choices (e.g., gamma-related measurement setup) and then adds new datasets, controls, and out-of-sample prediction tests.",
+  "relation_description": "The citing paper directly extends Boksem and Smidts (2015) by reanalyzing its data within a larger multi-study framework and testing whether the original EEG-trailer findings generalize. It preserves the same research line (EEG responses to trailers predicting movie success) while broadening scope and validation rigor.",
+  "relation_type": "extends"
+}

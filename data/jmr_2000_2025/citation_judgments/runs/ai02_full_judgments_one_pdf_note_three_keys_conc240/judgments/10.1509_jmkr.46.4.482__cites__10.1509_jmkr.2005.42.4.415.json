@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Fader, Hardie, and Lee (2005) as a key prior example of CLV/customer-scoring models that assume independence between purchase timing and purchase quantity. This assumption is central to the 2009 paper's problem framing, and the authors repeatedly argue that such independence can bias customer value estimates and overvalue customers when compensating behavior exists. The citation is therefore not a passing mention; it supports the paper's core contrast between existing practice and the proposed dependent model.",
+  "relation_description": "The citing paper argues against an assumption used in the cited RFM-CLV approach, namely temporal independence between timing and quantity, and presents an alternative model that allows dependence. It positions its contribution as correcting bias in customer value scoring that can arise under that assumption.",
+  "relation_type": "challenges"
+}

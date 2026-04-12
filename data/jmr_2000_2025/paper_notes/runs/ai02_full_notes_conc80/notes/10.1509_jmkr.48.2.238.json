@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper develops propositions that compare WOM and observational learning (OL) on differential sales effects, lifetime dynamics, and interaction effects.",
+    "It introduces a natural-experiment approach using Amazon's OL information policy shifts, with both treatment-removal and treatment-reintroduction quasi-experimental designs, to separate OL from WOM in field data.",
+    "It reports a distinctive asymmetric OL pattern and a complementary OL x WOM-volume effect, and discusses implications for managing online social information."
+  ],
+  "context": "The empirical setting is Amazon.com's online digital camera category, where consumers can post/read reviews (WOM) and, in some periods, see purchase-percentage statistics under 'What do customers ultimately buy after viewing this item?' (OL). Amazon removed this OL display in late 2005 and reintroduced it in late 2006, creating policy-driven variation.",
+  "design_and_data": "The authors use a longitudinal natural experiment over three data collection waves (September 21, 2005; March 15, 2006; March 18, 2007) and run three quasi-experimental field studies. Study 1 is a treatment-removal design on 90 cameras available in Periods 1 and 2; Study 2 is a treatment-reintroduction design on an independent younger sample of 39 cameras; Study 3 is another reintroduction design on 61 older cameras from Study 1. They use Amazon sales rank changes (log form) as the sales outcome, WOM measures from review data (volume, average rating, 5-star share, 1-star share), and OL measures from purchase-percentage displays, with controls for price, number of sellers, product quality, and product age (quality/age from CNET). Estimation relies on first-difference regressions with additional robustness checks using alternative OL measures and other tests reported in appendices.",
+  "focal_constructs": [
+    "word of mouth valence",
+    "word of mouth volume",
+    "observational learning valence",
+    "online product sales",
+    "product lifetime effects",
+    "WOM-OL interaction effects",
+    "information policy shifts"
+  ],
+  "main_findings": [
+    "Negative WOM is more influential than positive WOM, but OL shows the opposite asymmetry: positive OL significantly increases sales, while negative OL has no significant effect.",
+    "The sales impacts of both WOM and OL diminish over product lifetime; effects observed for younger products weaken or disappear for older products.",
+    "The impact of OL is stronger when WOM volume is higher, indicating complementarity, while interaction between OL and WOM valence is not clearly significant."
+  ],
+  "one_line_summary": "Using Amazon's temporary removal and later reintroduction of purchase-percentage displays for digital cameras, the paper shows that positive OL and negative WOM drive sales asymmetrically, with effects that fade over product lifetime and OL effects that strengthen with WOM volume.",
+  "relation_to_prior_work": "extends prior field research that typically measured WOM or OL separately by jointly identifying both channels in one marketplace and decomposing their differential and interaction effects through a natural experiment.",
+  "research_gap": "Prior research faced data and identification difficulties in disentangling WOM and OL in real markets, yielding limited evidence on how their effects differ, evolve over product lifetime, and interact. Existing field studies often examined only one social channel at a time.",
+  "research_question": "How do WOM and observational learning differ in their effects on product sales in online markets? How do these effects change over product lifetime, and do WOM and OL interact in shaping sales outcomes?"
+}

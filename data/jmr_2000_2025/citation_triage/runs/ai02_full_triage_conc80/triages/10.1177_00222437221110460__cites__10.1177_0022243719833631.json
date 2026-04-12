@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is a very close methodological predecessor: both notes describe market-structure mapping pipelines built around skip-gram product embeddings and t-SNE projection (P2V-MAP in 2019; M4 in 2023). The citing paper’s stated gap (prior maps miss multimarket membership) and method framing strongly suggest it is positioning against/extending this prior mapping stream rather than making a purely incidental mention, and the reference is an exact DOI match.",
+  "triage_decision": "keep_for_relation_judgment"
+}

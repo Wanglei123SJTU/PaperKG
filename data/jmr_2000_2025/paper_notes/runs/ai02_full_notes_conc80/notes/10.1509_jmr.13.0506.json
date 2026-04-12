@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Demonstrates that a firm can gain from higher sales uncertainty even when it must motivate a risk-averse sales agent, contrary to standard principal-agent results.",
+    "Shows that a risk-averse agent's expected total compensation can rise with higher sales uncertainty, also contrary to the standard model.",
+    "Provides a mechanism and boundary condition: the positive effect arises when uncertainty affects response sensitivity (random slope, or responsiveness to a decision variable) but not when uncertainty is only a random intercept."
+  ],
+  "context": "The paper is set in sales force management, where a risk-neutral firm (principal) contracts with a risk-averse salesperson (agent) under uncertain sales outcomes. It discusses relevance to adaptive selling settings such as new-product and complex solution sales where effort or marketing mix decisions can be adjusted after signals are observed.",
+  "design_and_data": "This is an analytical theory paper with no empirical dataset. The authors solve a principal-agent model with salary-plus-commission pay, a risk-averse agent, and noisy signals about uncertainty using a joint normal specification for uncertainty and signals. They compare outcomes under a random-slope sales response versus a random-intercept response and derive conditions under which uncertainty helps or hurts profits and pay. They also extend the model by endogenizing price (and noting a parallel for advertising) to show how decision-relevant information can make higher uncertainty profitable.",
+  "focal_constructs": [
+    "sales uncertainty",
+    "principal-agent model",
+    "risk-averse salesperson",
+    "signal accuracy",
+    "random slope vs random intercept",
+    "adaptive selling effort",
+    "salary-plus-commission compensation",
+    "price adaptation"
+  ],
+  "main_findings": [
+    "When uncertainty affects the slope of sales response to effort and signals are sufficiently accurate, higher uncertainty increases expected firm profit.",
+    "Under the same random-slope and sufficiently informative-signal conditions, higher uncertainty can increase the risk-averse agent's expected total pay.",
+    "When uncertainty is only a random intercept in the effort-only model, higher uncertainty lowers expected firm profit regardless of signal accuracy; but with endogenous price, sufficiently accurate signals can again make higher uncertainty increase expected profit."
+  ],
+  "one_line_summary": "The paper shows in a principal-agent salesforce model that higher sales uncertainty can increase both firm profit and agent total pay when uncertainty is learnable and affects decision responsiveness rather than only baseline demand.",
+  "relation_to_prior_work": "challenges the standard principal-agent prediction that more sales uncertainty necessarily reduces firm profit and salesperson total pay under risk aversion. It introduces a decision-relevance logic, contrasting prior random-intercept formulations with cases where uncertainty affects responsiveness and can be exploited via adaptive decisions.",
+  "research_gap": "Prior salesforce principal-agent theory largely predicts that greater uncertainty hurts firms and lowers total pay, while several empirical findings do not align with that prediction. The paper addresses the underexplored case where uncertainty is partially learnable before decisions and may affect response sensitivity, making information actionable.",
+  "research_question": "Can a firm that must incentivize a risk-averse salesperson benefit from greater sales uncertainty, and can salesperson total pay also rise with uncertainty? The paper asks when this depends on how uncertainty enters the sales response (random slope versus random intercept) and on whether effort or price decisions can adapt to noisy signals."
+}

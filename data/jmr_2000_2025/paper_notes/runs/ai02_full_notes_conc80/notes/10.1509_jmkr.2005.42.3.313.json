@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper shows that variables typically beneficial in unordered search (lower search cost, more options, stronger accuracy motivation) can reduce choice quality in ordered recommendation environments.",
+    "It proposes a common mechanism: deeper search from ordered lists lowers the average quality of considered options and is not offset by sufficiently selective processing of better options.",
+    "It demonstrates this pattern across three principal-agent experiments and two product domains (electronic greeting cards and MP3 players)."
+  ],
+  "context": "The paper studies electronic shopping environments where screening tools rank alternatives from predicted best to worst for a consumer. The empirical tasks simulate online choice for another person using ordered recommendation lists.",
+  "design_and_data": "Three controlled principal-agent experiments were run. Study 1 (N = 51 MBA students) manipulated per-option search cost ($0.20 vs $0.01) in an ordered 50-card e-card list with imperfect ranking quality based on external judges and regression predictions. Study 2 (N = 47 MBA students) manipulated recommendation set size (top 15 vs top 50) in an ordered e-card task with perfect ordering and used a random-order trial covariate. Study 3 (N = 100 undergraduate and graduate students) manipulated search cost and accuracy incentives in an ordered MP3-player task with shopping-cart consideration sets, true utility scoring, and mediation analysis.",
+  "focal_constructs": [
+    "ordered environments",
+    "screening/ordering agents",
+    "search costs",
+    "number of recommendations",
+    "accuracy motivation",
+    "consideration set quality",
+    "processing selectivity",
+    "choice quality"
+  ],
+  "main_findings": [
+    "Lower search costs increased search depth and led to lower-quality choices in ordered lists, and participants were less selective in allocating attention to higher-quality options (Study 1).",
+    "Recommending more options (top 50 vs top 15) increased search and lowered chosen-option quality in ordered lists, even though the best 15 options were available in both conditions (Study 2).",
+    "Higher accuracy motivation backfired when search costs were low, producing worse choices; this interaction was partially mediated by lower average quality of the consideration set (Study 3)."
+  ],
+  "one_line_summary": "The paper finds that in ordered recommendation lists, inducing deeper search can paradoxically worsen decisions by degrading consideration set quality and reducing effective selectivity.",
+  "relation_to_prior_work": "challenges prior results from unordered search settings by showing that lower search cost, larger recommended sets, and stronger accuracy motivation can hurt choice quality when options are preordered by predicted fit. It also refines screening-tool research by identifying over-search as a boundary condition on the benefits of recommendation ordering.",
+  "research_gap": "Prior work had mainly established that ordering tools improve outcomes relative to unordered search, and that lower search costs or larger assortments are often beneficial in unordered environments. The paper addresses the unresolved question of whether these same factors can become harmful in ordered environments where marginal gains from additional search are limited.",
+  "research_question": "In environments where alternatives are ordered by predicted utility, does encouraging consumers to search more improve or degrade decision quality? The paper further asks whether any degradation occurs because deeper search lowers average consideration set quality and reduces selectivity in focusing on superior options."
+}

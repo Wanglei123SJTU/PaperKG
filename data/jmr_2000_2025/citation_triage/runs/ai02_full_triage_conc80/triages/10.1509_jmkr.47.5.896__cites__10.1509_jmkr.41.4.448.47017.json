@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper is about diagnosing MVN heterogeneity in hierarchical Bayes models and explicitly positions itself against more flexible heterogeneity alternatives; the cited paper’s core contribution is a Bayesian Dirichlet-process heterogeneity framework in a marketing demand model. That makes the citation plausibly methodological/foundational (not clearly incidental), so it should be retained for full relation judgment despite limited raw reference context (DOI-only match).",
+  "triage_decision": "keep_for_relation_judgment"
+}

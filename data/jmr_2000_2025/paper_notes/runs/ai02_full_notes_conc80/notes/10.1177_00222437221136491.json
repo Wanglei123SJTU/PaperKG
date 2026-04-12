@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper identifies parenting motivation as a novel antecedent of within-category variety seeking, showing that it reduces variety seeking.",
+    "It proposes and tests feelings of time crunch as the psychological mechanism linking parenting motivation to reduced variety seeking.",
+    "It maps boundary conditions for the effect, showing attenuation when time-saving parenting support is salient, when shopping time is perceived as ample, and when brand loyalty is low."
+  ],
+  "context": "The paper studies consumer shopping and brand choice for everyday products, combining real purchase behavior and controlled choice tasks. The setting includes U.S. household scanner-panel purchases and online/lab decisions in product categories such as beverages, pens, hand soap, shampoo, and fabric softener.",
+  "design_and_data": "The authors run six studies: one large panel-data analysis and five experiments. Study 1 uses NielsenIQ household panel data (2004-2015) with a within-household difference-in-differences design around transition to parenthood (2,049 households; 1,511,092 household-trip-category observations) and measures variety seeking as the ratio of unique UPCs to items purchased within category per trip. Study 2 experimentally activates parenting motivation (infant-face imagination) versus active and inactive controls and measures both variety seeking and perceived shopping time crunch. Studies 3-5 (nonparent student samples in 3, 4, 5a; parent online sample in 5b) test moderation-of-process via parenting support, perceived shopping time availability, and brand loyalty proxies (self-brand connection, brand attachment), using hypothetical and real/incentive-compatible choices.",
+  "focal_constructs": [
+    "parenting motivation",
+    "variety-seeking behavior",
+    "feelings of time crunch",
+    "parenting support availability",
+    "perceived time availability",
+    "brand loyalty",
+    "self-brand connection",
+    "brand attachment"
+  ],
+  "main_findings": [
+    "Consumers show lower within-category variety seeking after becoming parents, and experimentally induced parenting motivation also decreases variety seeking.",
+    "Feelings of time crunch increase under parenting motivation and mediate the reduction in variety seeking.",
+    "The effect weakens when time-saving parenting support is salient, when consumers are led to perceive ample shopping time, and when consumers have low loyalty to available brands."
+  ],
+  "one_line_summary": "Across panel and experimental studies, activating parenting motivation makes consumers feel more time-crunched and therefore choose less variety within product categories.",
+  "relation_to_prior_work": "extends prior work on parenting motivation by moving beyond previously studied outcomes to show effects on routine consumption variety-seeking decisions. It also refines variety-seeking research by adding a social-role based antecedent and process account centered on time crunch, with clear boundary conditions.",
+  "research_gap": "Prior variety-seeking research has focused mainly on traits, cognitive activation, and shopping environments, with limited attention to whether consumers' social roles shape variety seeking. The parenting-motivation literature had rarely examined consumer decision making and had not established feelings of time crunch as a mechanism for variety-seeking outcomes.",
+  "research_question": "How does parenting motivation influence consumers' tendency to seek variety in product choices? Through what mechanism does this effect occur, and under what conditions is it strengthened or weakened?"
+}

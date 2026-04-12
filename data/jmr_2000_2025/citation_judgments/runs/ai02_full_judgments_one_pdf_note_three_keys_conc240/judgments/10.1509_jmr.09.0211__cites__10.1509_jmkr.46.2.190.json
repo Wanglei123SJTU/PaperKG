@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Zhang and Wedel (2009) for a specific methodological step in its policy simulations, stating that it adopts their approach to integrate prediction functions over the asymptotic distribution of parameter estimates. This citation supports how the authors quantify uncertainty in simulated revenue effects, not just a generic background mention. Although the paper does not build its core theory on the cited study, it clearly relies on a concrete procedure from it in the empirical implementation.",
+  "relation_description": "The citing paper applies a simulation/inference procedure from Zhang and Wedel (2009) to account for parameter uncertainty when computing expected outcomes under alternative loyalty-program scenarios.",
+  "relation_type": "applies"
+}

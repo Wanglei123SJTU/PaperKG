@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper claims to clarify for the first time how and why the direction of context effects depends on consumers' mode of cognition, with holistic processing yielding assimilation and analytic processing yielding contrast.",
+    "It claims to introduce a new and actionable way to induce these processing modes in marketplace settings, using self-view-shaping signage.",
+    "It claims to add to retail atmospherics research by showing that overlooked display fixtures can systematically influence product evaluations."
+  ],
+  "context": "The studies are set in retail merchandising contexts where products are displayed on fixtures with different surface materials. The focal material-linked dimensions are trendiness or modernity versus naturalness or tradition.",
+  "design_and_data": "The paper reports pretests plus two experiments. Experiment 1 is a lab 2 x 2 design (N = 47) manipulating self-view via a writing task (interdependent vs independent) and table surface (glass vs wood) while participants evaluated a neutral mug; outcomes include trendiness and naturalness evaluations, coded product thoughts, and later store name and gift basket appraisals. Experiment 2 is a field experiment in a student-union retail alcove (N = 120 shoppers) manipulating self-view with posters and tablecloth material (metallic vs burlap), with within-subject evaluations of three products (neutral mug, glass candleholder, bamboo picture frame) and binary brand-name choices. Pretests validated material associations, product extremity versus neutrality, and poster self-view activation.",
+  "focal_constructs": [
+    "context effects",
+    "self-view (interdependent vs independent)",
+    "holistic cognition",
+    "analytic cognition",
+    "display fixture surface material",
+    "assimilation effect",
+    "contrast effect",
+    "product trendiness and naturalness evaluations"
+  ],
+  "main_findings": [
+    "For a neutral product, interdependent self-view participants showed assimilation, with evaluations shifting toward the display material's associations (e.g., more trendy on glass or metallic, more natural on wood or burlap).",
+    "For a neutral product, independent self-view participants showed contrast, with evaluations shifting opposite to the display material's associations.",
+    "When products were extreme on trendiness and naturalness, display-material context effects disappeared; for neutral products, the same pattern also appeared in field brand-name choices and in lab downstream store-related judgments."
+  ],
+  "one_line_summary": "Across a lab study and a field study, the paper shows that display-fixture materials shape product evaluations through assimilation for interdependent (holistic) processors and contrast for independent (analytic) processors, mainly when product associations are neutral.",
+  "relation_to_prior_work": "extends prior context-effects work by showing that a fundamental consumer factor, self-view-induced cognitive mode, helps determine whether contextual cues produce assimilation or contrast rather than focusing only on contextual cue characteristics. extends atmospherics research by showing that tangible display-fixture materials can alter product judgments in realistic retail settings.",
+  "research_gap": "Prior context-effects research had mainly examined how properties of contextual cues themselves shape effects, not whether consumers' mode of cognition determines the direction of those effects. The authors also note that much prior work used artificial verbal stimuli, leaving unclear whether findings generalize to tangible retail display contexts.",
+  "research_question": "Can the surface material of a retail display fixture create context effects on product evaluations, and does the direction of those effects depend on whether consumers use holistic versus analytic cognition induced by interdependent versus independent self-views? The paper also asks whether such effects are limited to products that are neutral, rather than extreme, on the contextually primed dimensions."
+}

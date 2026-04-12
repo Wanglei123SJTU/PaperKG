@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Edwards and Allenby (2003) in its model development section when introducing the multivariate binomial probit (MBP) approach for multiple-response outcomes. The authors explicitly state they follow that work's MBP framing and then use it as the core structure for modeling redemption of three simultaneously delivered coupons. They extend the implementation with random effects and an endogeneity correction, but the cited paper still plays a meaningful methodological role rather than a passing mention.",
+  "relation_description": "The citing study applies the MBP framework associated with Edwards and Allenby (2003) to a new context: mobile coupon redemption behavior. It builds its core response model on that multiple-response structure, then layers additional features (random effects and endogeneity handling) on top.",
+  "relation_type": "applies"
+}

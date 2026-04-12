@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Identifies consumers' implicit theory orientation (entity vs incremental) as an individual-difference moderator of approach/avoidance framing effects in persuasion.",
+    "Shows distinct underlying mechanisms by orientation: entity theorists focus on comparative outcomes, whereas incremental theorists focus more on contextual/process cues such as advertiser tactics.",
+    "Demonstrates that when implicit theories are violated, the framing pattern changes, and documents these effects across comparative advertising and health-message contexts."
+  ],
+  "context": "The studies are set in marketing communication contexts: comparative advertisements (toothpaste and airlines) and a health advocacy message about cholesterol testing. Participants were undergraduate consumers in U.S. university subject pools.",
+  "design_and_data": "The paper reports three between-subject experiments using framed persuasive messages and attitude outcomes. Study 1 (N=100, with 87 classified off-median) measured chronic implicit theory orientation and manipulated comparative ad frame (approach vs avoidance) in a fictitious toothpaste ad. Study 2 (N=156) experimentally primed implicit theories with film/TV clips, manipulated comparative framing in an airline ad, and coded open-ended thoughts into outcome, tactics, counterargument, and support categories. Study 3 (N=155, with 148 classified off-median) measured implicit theories, manipulated theory confirmation vs violation via a person scenario, then manipulated approach/avoidance framing in a health message and tested a 2 x 2 x 2 interaction on advocacy attitudes.",
+  "focal_constructs": [
+    "implicit theories (entity vs incremental)",
+    "approach vs avoidance framing",
+    "comparative advertising frames",
+    "persuasion attitudes",
+    "outcome-focused vs process-focused cognition",
+    "advertising tactics-related thoughts",
+    "theory confirmation vs theory violation"
+  ],
+  "main_findings": [
+    "Incremental theorists were frame sensitive in Studies 1 and 2, showing more favorable attitudes to approach-framed than avoidance-framed messages, whereas entity theorists were largely frame insensitive.",
+    "Process evidence in Study 2 showed entity theorists generated more outcome-related thoughts regardless of frame, while incremental theorists generated more tactics-related thoughts and, under avoidance framing, more counterarguments and fewer support arguments.",
+    "Study 3 found a significant implicit theory x frame x theory consistency interaction: under confirmation, prior patterns replicated; under violation, entity theorists became more persuaded by approach than avoidance frames, and incremental theorists did not show the predicted significant avoidance advantage."
+  ],
+  "one_line_summary": "Across three experiments, the paper shows that lay implicit theories about world mutability shape when and why approach versus avoidance framed messages persuade consumers.",
+  "relation_to_prior_work": "extends prior framing and approach/avoidance research by showing that susceptibility to framed persuasion depends on implicit theory orientation and by testing process differences and theory-violation effects.",
+  "research_gap": "Prior framing research had examined many situational moderators, but the role of individual differences was described as receiving limited attention. The paper also notes that process mechanisms underlying responses to approach/avoidance framing were not well understood.",
+  "research_question": "Do consumers' lay implicit theories about whether the world is fixed or malleable moderate the persuasive impact of approach- versus avoidance-framed messages? If so, what cognitive process differences (outcome focus vs process/tactics focus) explain these effects, and what happens when messages are encountered under implicit-theory confirmation versus violation?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a three-level individual-level measurement model of the online purchase funnel that jointly models channel consideration, visit choice, and purchase choice with carryover and spillover effects.",
+    "Proposes a method to attribute conversion credit to multiple online channels using estimated incremental effects from both converting and nonconverting paths.",
+    "Provides field validation by using a paid-search shutdown experiment and shows how the estimates can inform targeting decisions such as when retargeting emails may reduce conversion probability."
+  ],
+  "context": "The study is set in multichannel online marketing for a hospitality firm's website, where customers can arrive via organic search, paid search, referral, direct, email, and display channels. It focuses on customers' repeated touches and visits before website conversion.",
+  "design_and_data": "The authors build a probabilistic three-stage model (consideration, visit, purchase) with channel-specific carryover and spillover effects at visit and purchase stages, and estimate it with MCMC. Data come from integrated individual-level path records from a hospitality firm, combining DoubleClick, Omniture, referral, and email systems. The main sample tracks 1,997 visitors over 68 days and includes channel-level visits/touches and 1,128 purchases. They also use a field setting where paid search was paused for one week (Nov 3-9, 2011) to validate incremental-effect predictions.",
+  "focal_constructs": [
+    "conversion attribution",
+    "carryover effects",
+    "spillover effects",
+    "channel consideration sets",
+    "website visit choice",
+    "purchase conversion",
+    "firm-initiated channels",
+    "customer-initiated channels"
+  ],
+  "main_findings": [
+    "There are significant carryover and spillover effects across channels at both the visit and purchase stages, and their magnitudes differ by channel.",
+    "Attribution from the proposed model differs sharply from common metrics: last-click materially undervalues email, display, and referral contributions and overstates search contributions.",
+    "In the paid-search shutdown period, observed outcomes were broadly consistent with model predictions of incremental effects, and part of lost paid-search conversions was recaptured by other channels, especially organic search."
+  ],
+  "one_line_summary": "Using individual-level online path data and a three-stage model, the paper estimates channel carryover and spillover effects to produce incremental conversion attribution that differs substantially from last-click metrics and is supported by a paid-search field test.",
+  "relation_to_prior_work": "extends prior multichannel and online advertising work by jointly modeling customer- and firm-initiated channels at distinct consideration, visit, and purchase stages for attribution. It moves beyond single-channel studies and beyond within-site conversion models by incorporating pre-website touches and nonconverting paths in estimating incremental channel impact.",
+  "research_gap": "The paper argues that widely used attribution metrics (last-click, first-click, and simple weighted variants) ignore timing and sequence of prior touches, nonconverting paths, and cross-channel carryover/spillover, leading to biased channel credit. It also states that prior research had not jointly examined these effects across visit and purchase stages to attribute conversions across multiple online channels.",
+  "research_question": "How can a firm use individual-level multichannel path data to estimate the incremental contribution of each online channel to website conversions? Specifically, can a model that captures channel consideration heterogeneity and carryover/spillover effects at both visit and purchase stages produce better attribution and decision guidance than commonly used metrics?"
+}

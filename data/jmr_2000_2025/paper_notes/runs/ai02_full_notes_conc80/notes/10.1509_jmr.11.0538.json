@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "Provides large-scale randomized field-experimental evidence on the causal impact of competitors' direct-mail advertising on a focal retailer's sales in a mature market.",
+    "Documents that competitive advertising can generate positive spillovers between competing retailers, not just demand substitution.",
+    "Shows that spillover heterogeneity is linked to product standards and customer learning: categories with stronger size-learning-based switching costs have more positive responses."
+  ],
+  "context": "The study is set at a medium-sized U.S. private-label retailer (\"Retail World\") selling apparel, home furnishings, and sporting goods through catalog, Internet, and store channels. The competitive setting is a direct-mail cooperative/list-sharing market in which rival retailers target each other's past customers.",
+  "design_and_data": "Retail World randomly assigned about 369,080 prior customers (184,455 treatment; 184,625 control) before a 12-month competitive mailing event (May 2006-May 2007). Treatment customers were made available to rivals through a third-party cooperative program and received about 1.15 million competitor mail pieces from 64 competitors; control customers were withheld. Outcomes were Retail World purchases over a 20-month window (12 treatment months plus 8 follow-up months), covering over 1 million orders and nearly $100 million in revenue. To measure learning about fit, the authors also used a separate historical dataset of 3,634,695 customers, over 93 million purchases, and about 15.1 million returns (with coded return reasons) to construct category-level changes in return rates.",
+  "focal_constructs": [
+    "competitive advertising spillovers",
+    "product standards in sizing",
+    "customer learning about product fit",
+    "switching costs",
+    "state dependence/customer loyalty",
+    "demand depletion (purchase recency)"
+  ],
+  "main_findings": [
+    "On average, competitors' advertising did not significantly reduce Retail World's sales: treatment and control customers had statistically indistinguishable units and revenue over the measurement period.",
+    "The treatment effect varied by recency of prior purchase: customers with less recent prior purchases showed significant positive effects (for example, Segment 3 had +5.30% units and +5.88% revenue; multivariate models also show positive Treatment x Recency interactions).",
+    "Across the 35 largest categories, categories with larger declines in size-related return rates showed more positive responses to competitors' advertising (Pearson correlation -0.41; rank correlation -0.50), and Size Learning interactions were significantly negative in category-level models, consistent with stronger switching costs from fit learning."
+  ],
+  "one_line_summary": "A large randomized field experiment shows that competitors' direct-mail advertising can raise, not just steal, a retailer's sales, especially where customers have learned brand-specific fit and face higher switching costs.",
+  "relation_to_prior_work": "extends spillover and switching-cost literatures by providing causal evidence that competitors' advertising can create positive spillovers to a rival in mature retail categories. It complements prior work that emphasized negative competitive spillovers or price competition in fast-moving consumer goods by focusing on advertising competition and fit-learning-based switching costs.",
+  "research_gap": "Prior theory and much empirical work imply that competitors' advertising should primarily shift demand away from the focal firm, and causal identification is difficult because competitor targeting is typically endogenous and unobserved. The paper addresses the limited causal evidence on positive spillovers from competitive advertising and on how product standards and customer learning moderate these effects.",
+  "research_question": "How does competitors' direct-mail advertising affect a focal retailer's sales in a competitive, mature market? Do product standards, customer learning about fit, and switching costs explain why competitive advertising sometimes increases rather than decreases the focal firm's sales, and why effects vary across customers and categories?"
+}

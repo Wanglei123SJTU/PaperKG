@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "Within the citing paper, the cited article is not just listed as generic background; it is used to justify a core design criterion of the proposed method, incentive alignment. The authors explicitly invoke Ding et al. (2005) when arguing that non-incentive-aligned settings can produce systematic preference distortions, which motivates their upgrading mechanism. They also cite it in the analysis section as methodological precedent for hierarchical Bayes specification choices. This indicates a meaningful functional role beyond a passing mention.",
+  "relation_description": "The citing paper uses Ding, Grewal, and Liechty (2005) as key prior evidence that hypothetical preference elicitation can be biased, and this supports the paper's incentive-aligned design logic. It also leans on that study for estimation practice in modeling the upgrading data.",
+  "relation_type": "foundational_for"
+}

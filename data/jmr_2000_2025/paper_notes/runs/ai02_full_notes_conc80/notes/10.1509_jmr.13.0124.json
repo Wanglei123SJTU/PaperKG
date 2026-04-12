@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper extends traditional brand-message recall measurement by adding precampaign surveys to control for preexisting brand knowledge when comparing media formats.",
+    "It introduces a scalable matching-based methodology (using nearest-neighbor matching) to construct format-specific baselines for brand recall lift.",
+    "It provides what the authors describe as the first multi-campaign field comparison of Internet and TV advertising on advertiser-trusted brand metrics."
+  ],
+  "context": "The study is set in U.S. advertising campaigns measured through Nielsen's TV Brand Effect panel (RewardTV.com) in 2011. It covers 20 campaigns across telecommunications, food and beverage, beauty, financial services, and pharmaceuticals, with concurrent TV and online advertising.",
+  "design_and_data": "The evidence uses Nielsen TV Brand Effect panel data, a repeated cross section with observed ad exposures and survey responses. The authors analyze 20 campaigns and four formats (TV, banner, rich media, online video) using a common outcome: correct brand identification after a creative prompt, with respondents restricted to those recalling the creative for cross-format comparability. They collect both in-flight and precampaign surveys and estimate lift as in-flight brand recall minus a matched precampaign baseline. Precampaign respondents are matched to in-flight respondents via nearest-neighbor matching on media exposure variables, with population weights applied.",
+  "focal_constructs": [
+    "brand recall lift",
+    "preexisting brand knowledge",
+    "initial conditions",
+    "brand-message association",
+    "advertising format effectiveness",
+    "television advertising",
+    "Internet display and video advertising"
+  ],
+  "main_findings": [
+    "Precampaign brand knowledge differs by format: respondents exposed to banner and rich media formats have lower baseline brand recall than TV-exposed respondents, while video baselines are similar to TV.",
+    "Using only in-flight recall (without initial-condition adjustment), TV appears superior to banner and rich media in brand recall comparisons.",
+    "After adjusting for format-specific preexisting brand knowledge with matched precampaign baselines, banner, rich media, and video all generate significant lift and are statistically indistinguishable from TV in brand-recall lift."
+  ],
+  "one_line_summary": "Using Nielsen panel data from 20 campaigns, the study finds that Internet banner, rich media, and video ads deliver brand-recall lift comparable to TV once format-specific preexisting brand knowledge is controlled with matched precampaign surveys.",
+  "relation_to_prior_work": "extends traditional TV recall-based brand measurement to Internet formats by incorporating matched precampaign baselines to address preexisting familiarity bias. It also shifts Internet-versus-TV comparison away from mainly short-run behavioral outcomes toward advertiser-trusted brand metrics.",
+  "research_gap": "Prior Internet advertising research was often focused on immediate behavioral outcomes, leaving limited direct cross-media evidence versus TV on standard brand-building metrics used by advertisers. Standard recall-lift practice also relied on common baselines (often random guessing) and did not account for format-specific preexisting brand knowledge, which could bias comparisons.",
+  "research_question": "Can Internet advertising formats (banner, rich media, and video) build brands as effectively as television when both are evaluated with the same brand-message recall metric? How do differences in preexisting brand knowledge across media audiences affect measured lift and cross-format comparisons?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a direct veridicality test of rating formats using a number-line estimation method from numerical cognition, rather than only comparing relative evaluations.",
+    "Identifies two mechanism-based biases in fractional rating perception: visual completion drives overestimation of graphical ratings, and left-digit anchoring drives underestimation of Arabic numeral ratings.",
+    "Shows that fractional star fill technique and visual completeness of stars systematically change magnitude judgments, motivating practical recommendations for rating-display standardization."
+  ],
+  "context": "The paper studies online rating environments where platforms display average product ratings on 1-5 scales using stars, Arabic numerals, or both. The focus is on fractional ratings, which the authors note are common on e-commerce platforms.",
+  "design_and_data": "Across 12 preregistered experiments (6 in the article and 6 in the web appendix), the authors use U.S. online panel samples and multiple judgment tasks. The core method is a calibrated number-line estimation task where participants place ratings from 1.00 to 5.00 (in .25 increments), allowing estimation error to be computed as perceived minus actual magnitude. Experiments compare star symbols, Arabic numerals, combined displays, and two fractional star fill methods (proportion-of-area vs proportion-of-width), and test visually complete vs visually incomplete stars. Additional studies examine rounding choices, short-term recall, and willingness to pay via a modified BDM procedure; supplementary evidence includes shape generalization tests and two Meta field experiments.",
+  "focal_constructs": [
+    "rating format",
+    "fractional ratings",
+    "magnitude judgment",
+    "veridicality of ratings",
+    "visual-completion effect",
+    "left-digit effect",
+    "star fill method",
+    "willingness to pay"
+  ],
+  "main_findings": [
+    "Fractional star ratings are overestimated and fractional Arabic numeral ratings are underestimated, while misestimation is much smaller for whole-number ratings.",
+    "Misestimation tracks anchor distance: quarter star ratings are overestimated more than three-fourths star ratings, whereas three-fourths Arabic numeral ratings are underestimated more than quarter Arabic numeral ratings.",
+    "Star presentation details matter: proportion-of-width and proportion-of-area stars yield different errors, visually complete stars substantially reduce average overestimation of fractional stars, and star-formatted ratings can produce higher recalled ratings and higher willingness to pay than Arabic numerals."
+  ],
+  "one_line_summary": "The paper shows that common rating displays are not veridical: fractional stars are typically overestimated, fractional Arabic numerals are typically underestimated, and design choices such as star fill method and visual completeness materially shift these errors.",
+  "relation_to_prior_work": "extends prior research on rating formats by testing absolute accuracy of perceived magnitudes instead of only relative preferences across formats. It also qualifies recent claims by showing that star ratings are not inherently veridical and that observed differences depend on how fractional stars are filled.",
+  "research_gap": "Prior work had mainly documented relative differences between rating formats without establishing whether each format accurately reflects the underlying numeric magnitude. The literature also had not directly compared the accuracy consequences of different fractional star fill methods.",
+  "research_question": "Do consumers perceive identical fractional product ratings differently when ratings are displayed as stars versus Arabic numerals, and which format more accurately represents true magnitude? The paper also asks whether misestimation depends on fractional value and star fill method, and whether visually complete stars can reduce bias."
+}

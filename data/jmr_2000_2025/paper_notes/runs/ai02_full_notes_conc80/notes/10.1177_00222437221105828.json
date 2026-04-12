@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Shows how innovation in temporary B2B projects depends on project organizational design, captured by task configuration.",
+    "Identifies general contractor task participation as a project coordination mechanism that can be implemented under time-compressed conditions.",
+    "Develops and tests a dark-side account in which general contractor participation creates information leakage concerns that hinder process innovation, and shows monitoring as a mitigation mechanism."
+  ],
+  "context": "The core empirical setting is U.S. B2B construction, especially design-build projects involving buyers, general contractors, and multiple subcontractors. The authors also ran a supplementary survey across five project-intensive industries to check construct generalizability.",
+  "design_and_data": "Study 1 uses longitudinal project-level data from the Design-Build Institute of America covering projects reported from 2001 to 2015 (429 projects reported; estimation sample shown as n=328), augmented with Hoovers, U.S. Census, and Google-based measures. Product and process innovation were coded from project text and weighted by novelty using latent Dirichlet allocation topics, and hypotheses were estimated with hybrid-effects Poisson models with extensive controls and endogeneity checks (Gaussian copula and Lewbel approaches). The authors also conducted interviews with professional construction managers and a supplementary multi-industry survey as additional support. Study 2 is a cross-sectional Qualtrics survey of U.S. construction subcontractors (230 surveyed, 213 usable responses) analyzed with seemingly unrelated estimation and additional endogeneity robustness checks.",
+  "focal_constructs": [
+    "temporary B2B projects",
+    "task configuration",
+    "general contractor task participation",
+    "project size",
+    "subcontractor diversity",
+    "product innovation",
+    "process innovation",
+    "information leakage concerns"
+  ],
+  "main_findings": [
+    "Project size and subcontractor diversity are positively associated with both product and process innovation.",
+    "General contractor task participation strengthens the positive effect of project size on product innovation, but weakens the effect of subcontractor diversity on both product and process innovation, and does not significantly moderate project size for process innovation.",
+    "In the subcontractor survey, general contractor participation increases leakage concerns when subcontractors have higher process-related specific investments, and leakage concerns increase information withholding unless subcontractors monitor the general contractor."
+  ],
+  "one_line_summary": "Across two studies in construction projects, the paper finds that general contractor task participation can aid product innovation coordination but can also suppress process innovation by triggering subcontractor leakage concerns.",
+  "relation_to_prior_work": "extends innovation and organizational design research from firms and long-term relationships to temporary project organizations by positioning task configuration as a key governance mechanism. It also challenges the view that product and process innovation share common drivers by documenting different effects of general contractor participation across the two innovation types.",
+  "research_gap": "Prior work has emphasized innovation in single firms and durable interorganizational arrangements, while innovation mechanisms in temporary project organizations are less documented in marketing. The paper targets the unresolved issue of how project governance via task configuration converts project inputs into innovation, and whether product and process innovation respond similarly.",
+  "research_question": "How do project size and subcontractor diversity influence product and process innovation in B2B projects, and how does task configuration shape these effects? Specifically, does general contractor participation in project tasks solve coordination problems that unlock innovation, or does it create information leakage concerns that reduce subcontractor information sharing and process innovation?"
+}

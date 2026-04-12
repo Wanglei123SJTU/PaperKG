@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s core model includes a discrete hidden Markov model for latent purchase states and state transitions, while the cited paper is a prior JMR study centered on a hidden Markov model of latent household life stages and transition probabilities. This strong methodological overlap makes the cited work a plausible method/foundational source rather than an incidental mention, even though the raw evidence only gives a DOI match without local citation context.",
+  "triage_decision": "keep_for_relation_judgment"
+}

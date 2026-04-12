@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Choi, Hui, and Bell (2010) as a key prior study in the diffusion literature on cross-area network effects, not just as a passing background citation. In the literature review, it explicitly summarizes that paper's spatial-weight-matrix approach and then positions its own model as different by introducing a two-sided platform setting and origin-destination adoption hazards. The citation also reappears in method positioning (e.g., discussion of spatial weight-matrix alternatives), indicating that Choi et al. informs the citing paper's conceptual and modeling setup.",
+  "relation_description": "The 2024 paper extends the line of work represented by Choi et al. (2010) on spatiotemporal diffusion across geographic areas. It moves from a single-side spatial imitation framework to a two-sided sharing-platform adoption model with consumer mobility, asymmetric information, and origin-destination structure.",
+  "relation_type": "extends"
+}

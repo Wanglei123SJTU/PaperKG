@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides objective call-level evidence that sales momentum exists, using a clumpiness-based statistical test rather than self-reported momentum perceptions.",
+    "It shows that positive and negative momentum have distinct effects on subsequent call outcomes, with positive momentum increasing and negative momentum decreasing next-call success.",
+    "It identifies actionable moderators of momentum effects, especially social workplace design and call timing, and proposes a momentum-aware DSS logic with simulated performance gains."
+  ],
+  "context": "The study is set in inside sales at a large European firm running an outbound campaign through two call centers with different social layouts. Salespeople sold the same product via cold calls, allowing comparison of momentum effects across a more social center (SCC) and a less social center (NSCC).",
+  "design_and_data": "The authors analyze high-frequency transactional call-level data from a 3-month campaign: 74,060 calls (after cleaning) made by 113 salespeople. Each call log includes timestamp and success/failure, with automated random customer assignment and a required precall confidence entry by the salesperson. Analysis 1 tests for momentum using Zhang, Bradlow, and Small's clumpiness approach in rolling windows (mainly 9 calls) with Monte Carlo critical values. Analysis 2 estimates fixed-effects logistic models of next-call success using positive/negative momentum measures, moderator interactions, salesperson and customer-region fixed effects, and a copula-based correction for endogeneity of negative momentum.",
+  "focal_constructs": [
+    "sales momentum",
+    "positive momentum",
+    "negative momentum",
+    "sales call outcomes",
+    "social working environment",
+    "time of day and day of week",
+    "salesperson gender",
+    "next-call sales performance"
+  ],
+  "main_findings": [
+    "Sales momentum exists in call outcomes: 71.68% of salespeople experienced momentum at least once, and 1.35% of calls were made while in a momentum state under the main specification.",
+    "Positive momentum increases and negative momentum decreases the likelihood of success in the subsequent sales call.",
+    "A more social call-center environment strengthens positive momentum and weakens negative momentum, while midday and early/late-week calls mitigate negative momentum; gender does not significantly moderate momentum effects."
+  ],
+  "one_line_summary": "Using call-level data from two inside sales call centers, the paper shows that short-term positive and negative momentum in sales outcomes exists and predicts next-call success, with social workplace design and call timing shaping these effects.",
+  "relation_to_prior_work": "extends prior sales and momentum research by moving from perceived or aggregate streaks to objective, call-level detection of short-term outcome clustering via clumpiness tests. extends work that treats sales attempts as independent by showing intertemporal spillovers and testing moderators such as social workspace design and call timing.",
+  "research_gap": "The paper argues that sales organizations and salespeople believe momentum exists, but there is little systematic, objective evidence of momentum in sales calls and limited guidance on how to manage it. Prior work often assumes independent sales events or uses aggregate/self-reported momentum, leaving call-level momentum detection and management underexplored.",
+  "research_question": "Do short-term trends in salespeople's call outcomes systematically deviate from long-term expected performance (i.e., does momentum exist)? How do positive and negative momentum affect subsequent call success? Do social working environment, salesperson gender, and call timing (time of day and day of week) moderate momentum's effect on performance?"
+}

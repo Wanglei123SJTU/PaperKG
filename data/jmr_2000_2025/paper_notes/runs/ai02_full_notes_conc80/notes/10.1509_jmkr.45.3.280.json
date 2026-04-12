@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "A new deterministic two-way clusterwise bilinear MDS model is proposed to jointly estimate market segments, brand coordinates, and segment preference vectors.",
+    "An alternating least squares estimation algorithm is developed with analytic closed-form conditional updates, plus options for hard partitions or overlapping segment memberships.",
+    "The method is conceptually and empirically compared with latent-class MDS (MULTICLUS) in a real automotive segmentation-targeting-positioning application."
+  ],
+  "context": "The empirical illustration is the U.S. compact SUV market. The data come from a 2002 commercial automotive image tracking study of new vehicle intenders rating SUV consideration and brand image attributes.",
+  "design_and_data": "The model represents consumer-brand consideration as a bilinear scalar-product function of brand coordinates, segment vectors, membership indicators, and an additive constant, with an optional attribute-based reparameterization of brand coordinates. Estimation uses a five-step alternating least squares procedure that yields conditionally global closed-form updates within each iteration and selects dimensionality and segment count via VAF scree-style assessment. In the application, 360 consumers rated 18 compact SUVs; 11 high-share brands were used for calibration and 7 brands for predictive validation, with 60 consumers held out and 300 used for estimation. The authors benchmarked against MULTICLUS using correlations between actual and predicted consideration for in-sample and out-of-sample comparisons.",
+  "focal_constructs": [
+    "simultaneous segmentation and positioning",
+    "clusterwise bilinear multidimensional scaling",
+    "brand spatial coordinates",
+    "segment preference vectors",
+    "overlapping segment membership",
+    "purchase consideration intentions"
+  ],
+  "main_findings": [
+    "For the SUV data, the selected parsimonious solution was 4 dimensions and 5 overlapping segments, and the overlapping solution improved VAF by 34.1% over the nonoverlapping solution at the same R and S.",
+    "The four dimensions were interpreted as rugged off-road, economical considerations, size/practicality, and popularity, and the derived segments showed distinct preference patterns across brands.",
+    "Relative to MULTICLUS, the proposed method achieved better fit and prediction: overall calibration correlation .687 versus .492 and overall holdout correlation .596 versus .433, with better holdout performance for all 7 validation brands."
+  ],
+  "one_line_summary": "The paper proposes a deterministic clusterwise bilinear MDS method for simultaneous segmentation and positioning and shows, in a compact-SUV study, stronger fit and predictive validity than MULTICLUS.",
+  "relation_to_prior_work": "introduces a deterministic alternative to sequential MDS-plus-clustering and parametric latent-class MDS methods for two-way preference data. It avoids explicit distributional and finite-mixture identification assumptions and adds direct handling of overlapping segment memberships within the same spatial framework.",
+  "research_gap": "Existing approaches either run MDS and clustering sequentially, which can optimize incompatible criteria and produce inconsistent solutions, or rely on latent-class MDS models that require strong distributional assumptions, mixture identification, and intensive computation. The paper addresses the need for a faster, assumption-light method that still estimates segmentation and positioning simultaneously.",
+  "research_question": "Can a deterministic clusterwise bilinear spatial model be developed to estimate market segments, segment memberships, brand positions, and segment preference vectors simultaneously from two-way preference/consideration data? Does this approach provide a practical and effective alternative to latent-class MDS in a real segmentation-targeting-positioning application?"
+}

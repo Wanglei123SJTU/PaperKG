@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Examines the impact of M&As on the sales force, a key but largely neglected internal stakeholder in marketing M&A research.",
+    "Positions external image mismatch as an alternative explanation for post-merger sales decline, showing effects before operational and cultural integration.",
+    "Delineates managers as sense givers and salespeople as sense makers during the post-announcement pre-integration phase, showing that communication emphasis can buffer or aggravate OI change."
+  ],
+  "context": "Study 1 is a U.S. retail merger context: a national durable-goods chain merged with a regional chain that had a poorer external image, with salespeople in overlapping states as treatment and nonoverlapping states as control. Study 2 uses frontline employees from multiple industries in a scenario-based merger experiment.",
+  "design_and_data": "Study 1 is a natural longitudinal experiment using monthly surveys and firm records over 13 months (6 months before to 6 months after announcement). The authors sent surveys each month to about 3,000 salespeople and 80 managers; after exclusions they retained 2,054 salesperson responses (367 salespeople) and 458 manager responses (64 managers), and combined these with objective performance data. Identification relies on panel fixed-effects difference-in-differences and multilevel moderated analyses comparing overlapping versus nonoverlapping regions during a period before actual integration. Study 2 is a between-subjects scenario experiment (N = 235 screened frontline employees from Amazon Mechanical Turk) that manipulates merger partner image (poorer vs better).",
+  "focal_constructs": [
+    "mergers and acquisitions",
+    "external image mismatch",
+    "organizational identification",
+    "salesperson performance",
+    "managerial sense giving",
+    "salesperson sense making",
+    "salesperson tenure",
+    "social inclusion"
+  ],
+  "main_findings": [
+    "In Study 1, merging with a poorer-image firm significantly reduced salespeople's organizational identification in affected regions, and this OI drop mediated lower quota achievement and revenue performance.",
+    "Managerial and salesperson boundary conditions mattered: managerial emphasis on organizational culture aggravated OI dilution, emphasis on strategic intent buffered it, longer tenure intensified dilution, and perceived social inclusion reduced dilution; emphasis on distinctiveness was not significant.",
+    "Study 2 replicated OI dilution for poorer-image mergers, found OI enhancement for better-image mergers that was weaker than the dilution effect, and showed the adverse effect is tied to image uncertainty rather than job uncertainty (job satisfaction did not change)."
+  ],
+  "one_line_summary": "Across a natural experiment and a scenario experiment, the paper shows that external-image-mismatched M&As, especially with poorer-image partners, reduce salespeople's organizational identification and hurt sales outcomes, with effects shaped by communication and social context.",
+  "relation_to_prior_work": "extends prior marketing M&A research by moving from macro strategic-fit and firm-level outcomes to micro salesperson-level identity dynamics during the pre-integration phase. It introduces external image mismatch and image uncertainty as mechanisms alongside, rather than only strategic integration and internal culture explanations.",
+  "research_gap": "Prior marketing research on M&As had not directly examined salesperson-level effects, despite the sales force's central role in customer contact and marketing spending. The literature also emphasized long-term firm-level outcomes and strategic/cultural integration, leaving the immediate effect of external image mismatch on salesperson OI and performance underexplored.",
+  "research_question": "How do M&As involving mismatched external images affect salespeople's organizational identification and, through it, salesperson performance? Under what conditions do managerial communication emphases and salesperson characteristics (tenure and social inclusion) amplify or buffer these effects? Do these effects arise from image uncertainty rather than job uncertainty?"
+}

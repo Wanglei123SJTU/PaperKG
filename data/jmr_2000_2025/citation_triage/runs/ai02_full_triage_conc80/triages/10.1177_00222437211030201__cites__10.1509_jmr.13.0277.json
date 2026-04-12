@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper is a game-theoretic analysis of exchange auction formats (first-price vs. second-price, header bidding, reserve prices), while the cited paper is a randomized field experiment on purchase-funnel ad effectiveness and impression allocation. With only a bare DOI match and no in-text evidence of methodological, theoretical, or benchmarking use, this looks like likely background/domain-context citation rather than substantive dependence.",
+  "triage_decision": "drop_obvious_mention_only"
+}

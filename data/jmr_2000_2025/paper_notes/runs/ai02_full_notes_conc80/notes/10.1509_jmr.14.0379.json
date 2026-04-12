@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides what the authors describe as the first experimental evidence on how consumers interpret imprecise rank claims when exact rank and the full list are not disclosed.",
+    "It introduces and documents the comfort tier effect: a less exclusive but expected round-number tier claim can outperform a more exclusive non-comfort tier claim.",
+    "It proposes a two-stage process model in which stage 1 focuses on tier exclusivity and stage 2, triggered by expectation violations, generates negative inferences about likely exact rank."
+  ],
+  "context": "The paper studies advertising messages that cite third-party ranked lists while withholding exact rank, such as claims of being in the top X. Empirical settings include unfamiliar or fictional banks, an MBA program, a campground, a hotel ranked by a travel guide, and ski resorts.",
+  "design_and_data": "Evidence comes from six randomized experiments. Most studies used U.S. adults from MTurk (Study 1 N=284, Study 2 N=230, Study 3 N=450, Study 4 N=403, Study 6 N=236), and one used undergraduates (Study 5 N=225). The studies manipulate comfort versus non-comfort tier boundaries (e.g., top 10 vs top 9; top 100 vs top 92), prompts to estimate exact rank, time pressure, claim-list-length match versus mismatch, and joint versus separate evaluation; key outcomes are composite brand evaluations and willingness to pay.",
+  "focal_constructs": [
+    "imprecise rank claims",
+    "comfort tiers",
+    "non-comfort tiers",
+    "expectation violations",
+    "stage 1 processing (tier exclusivity)",
+    "stage 2 processing (rank inference)",
+    "brand evaluations",
+    "willingness to pay"
+  ],
+  "main_findings": [
+    "A comfort tier effect was observed: claims using common round-number boundaries (e.g., top 10, top 100, top 20, best 50) produced higher evaluations, and in Study 5 higher willingness to pay, than proximal but more exclusive non-comfort tiers under separate evaluation.",
+    "Prompting exact-rank estimation lowered evaluations after comfort-tier claims but had little effect after non-comfort-tier claims, and time pressure eliminated the comfort-tier advantage by lifting evaluations for non-comfort-tier claims.",
+    "Claim-list mismatch altered responses: a comfort tier claim performed worse when it mismatched third-party list length, while a non-comfort tier claim performed better when it matched list length; imprecise comfort-tier and unbounded 'one of the best' claims also outperformed exact-rank claims in several comparisons."
+  ],
+  "one_line_summary": "Across six experiments, the paper shows that expected round-number comfort-tier rank claims can outperform more exclusive non-comfort-tier claims because expectation violations trigger additional processing and negative rank inferences.",
+  "relation_to_prior_work": "extends prior research on ranked-list judgments and disclosure by moving from full-list exact-rank settings to imprecise tier claims, and by linking expectations about message construction to when imprecision helps or hurts consumer responses.",
+  "research_gap": "Prior work on rank information processing has largely assumed that consumers see full ranked lists and know exact ranks, leaving little evidence on common advertising claims that report only tier membership. The paper addresses whether subtle tier-boundary choices in these imprecise claims change consumer evaluations.",
+  "research_question": "How do consumers respond when marketers advertise a brand's inclusion in a top-X tier without revealing exact rank? Do small boundary differences such as top 10 versus top 9 change brand evaluations and willingness to pay, and are these effects driven by expectation-based inferences about likely exact rank?"
+}

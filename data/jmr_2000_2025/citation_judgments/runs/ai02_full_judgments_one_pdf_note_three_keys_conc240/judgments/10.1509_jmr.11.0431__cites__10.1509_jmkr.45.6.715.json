@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Musalem, Bradlow, and Raju (2008) as a methodological anchor for Bayesian data augmentation with aggregate information, including explicit discussion of its coupon-access example. It then positions its own contribution against that prior work by stating that earlier approaches did not handle multivariate outcomes or mixed aggregate-plus-disaggregate observations in one model. The citation is therefore part of core method framing and contribution positioning, not just background name-dropping.",
+  "relation_description": "The citing paper builds on Musalem et al.'s data-augmentation approach for inferring individual-level behavior from aggregate data and extends it to a hierarchical multivariate logit setting with mixed aggregate and disaggregate platform usage data.",
+  "relation_type": "extends"
+}

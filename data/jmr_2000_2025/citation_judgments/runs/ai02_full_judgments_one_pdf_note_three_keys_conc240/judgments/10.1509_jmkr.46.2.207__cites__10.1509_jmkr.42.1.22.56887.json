@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in the citing paper's methodological framing of structural modeling, not just as a generic background mention. In the robustness section, the authors explicitly cite Bronnenberg et al. (2005) to motivate the key concern that supply-side first-order conditions may be misspecified, and they design robustness checks around that issue. They also quote Bronnenberg et al.'s argument that instrumental variables are not a guaranteed remedy, showing direct conceptual reliance for model-justification choices.",
+  "relation_description": "The citing paper draws on Bronnenberg et al. (2005) as a methodological foundation for handling structural model identification and policy-simulation credibility. It uses that guidance to justify robustness checks on supply-side specification and to caution against relying solely on instrumental-variable fixes.",
+  "relation_type": "foundational_for"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and tests an expectation-based framework in which the direction and frequency of historical price changes jointly shape purchase deferral.",
+    "It extends prior frequency-of-discount work to include both price decreases and price increases, and shifts the outcome focus to purchase timing deferral rather than only price perceptions or purchase quantity.",
+    "It introduces and tests monotonicity and timing of price changes as moderators of the core effect and discusses implications for how firms implement dynamic price changes."
+  ],
+  "context": "The paper is set in dynamic pricing environments where consumers can access historical price information, such as online retail and travel booking contexts. The experiments use purchase scenarios for flight tickets, TVs, Bluetooth speakers, tablets, and university-store consumer products.",
+  "design_and_data": "The authors report six preregistered experiments with total N = 5,713. Studies 1a-4 use mostly MTurk adult samples and manipulate direction (increase vs decrease) and frequency (single large vs multiple smaller changes, holding total magnitude constant), including a longitudinal sequential-choice design in Study 1b. Study 2 measures expected future price and tests mediation with conditional process analyses. Study 5 uses students (N = 297) and consequential incentivized choices across four products in a simulated university online store.",
+  "focal_constructs": [
+    "historical price information",
+    "direction of price changes",
+    "frequency of price changes",
+    "purchase deferral",
+    "future price expectations",
+    "monotonicity of price changes",
+    "timing of price changes"
+  ],
+  "main_findings": [
+    "Consumers were more likely to defer purchase when prices had previously increased rather than decreased, and this direction effect was much stronger after a single large change than after multiple smaller changes with the same total magnitude.",
+    "Expected future prices mediated the interaction between direction and frequency: after single changes participants tended to expect reversals, while after multiple changes reversal expectations weakened and some continuation expectations appeared.",
+    "For multiple changes, nonmonotonic sequences increased the direction effect relative to monotonic sequences; for single changes, earlier (vs later) timing attenuated the effect; and the core pattern replicated with consequential purchase decisions."
+  ],
+  "one_line_summary": "Across six preregistered experiments, the paper shows that historical price direction and frequency jointly influence purchase deferral through consumers' expectations about future prices.",
+  "relation_to_prior_work": "extends prior research on discount frequency, reference prices, and extrapolative expectations by showing that the effect of price-change direction on purchase deferral depends on change frequency and is mediated by future price expectations.",
+  "research_gap": "The paper argues that although prior work recognizes the importance of expected future prices, it has not firmly established how these expectations are formed from historical price information. It also notes that frequency research has focused mainly on discounts, leaving unclear how direction and frequency jointly affect purchase deferral, especially when prices increase.",
+  "research_question": "How does historical price information affect consumers' decision to buy now versus defer purchase? Specifically, does the direction of past price changes (increase vs decrease) interact with the frequency of those changes (single large vs multiple smaller changes, controlling total magnitude) to shape future price expectations and purchase deferral?"
+}

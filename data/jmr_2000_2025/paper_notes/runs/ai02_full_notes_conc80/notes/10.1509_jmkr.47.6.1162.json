@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper moves beyond asking whether CMOs matter to show that CMOs vary substantially in their contribution to firm performance.",
+    "It proposes a customer power and managerial discretion explanation for why some CMOs affect firm value more than others, including individual and firm contingencies.",
+    "It examines stock market reactions to CMO appointments to isolate the marginal financial impact of CMOs from other executives and provide guidance for CMO hiring."
+  ],
+  "context": "The study examines publicly traded firms that announce chief marketing officer appointments, using market reactions around those announcements. The focal substantive setting is firms facing differing levels of customer power from major customers.",
+  "design_and_data": "The authors conduct an event study of CMO appointment announcements from major newspapers and wire services between 1996 and 2005. After restricting to publicly traded firms, requiring explicit CMO-title appointments, and removing confounded events, the final sample is 88 announcements. Abnormal returns are estimated with a market model using a 250-day pre-event estimation period and S&P 500 market returns, and standardized event-day abnormal returns are regressed on customer power, interaction terms, and controls. Customer power is primarily measured as the presence of a major customer (10% or more of firm sales, from 10-K disclosures), with robustness checks using alternative measures and event windows.",
+  "focal_constructs": [
+    "chief marketing officer appointments",
+    "firm value",
+    "abnormal stock returns",
+    "managerial discretion",
+    "customer power",
+    "role-specific experience",
+    "firm-specific experience (insider vs outsider)",
+    "firm scope, firm size, and prior firm performance"
+  ],
+  "main_findings": [
+    "CMO appointments create less market value when firms face greater customer power, consistent with the argument that customer power constrains CMO discretion.",
+    "The negative effect of customer power is weaker when the appointed CMO has prior CMO role experience and stronger when the appointee is an insider with prior firm experience.",
+    "Firm scope and prior firm performance mitigate the negative customer power effect, whereas larger firm size amplifies it; the full model is significant and explains substantial variation in announcement returns."
+  ],
+  "one_line_summary": "Using an event study of 88 CMO appointment announcements, the paper shows that CMO effects on shareholder value are contingent on customer power and managerial discretion conditions.",
+  "relation_to_prior_work": "extends prior CMO-performance work that focused on whether CMOs are present by identifying when CMOs create or destroy value. It applies managerial discretion theory from top management research to marketing by centering customer power as a key external constraint on CMO impact.",
+  "research_gap": "Formal empirical evidence on CMOs and financial performance is limited, and much discussion is anecdotal. Prior findings are mixed and largely silent on the conditions under which CMOs create firm value.",
+  "research_question": "When do CMOs affect firm value? Specifically, does customer power reduce the value impact of CMO appointments by constraining managerial discretion, and do CMO experience and firm context moderate this effect?"
+}

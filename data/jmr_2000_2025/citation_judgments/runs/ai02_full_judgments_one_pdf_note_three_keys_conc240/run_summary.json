@@ -1,0 +1,29 @@
+{
+  "run_dir": "C:\\Users\\27497\\Desktop\\PaperKG_Final\\data\\jmr_2000_2025\\citation_judgments\\runs\\ai02_full_judgments_one_pdf_note_three_keys_conc240",
+  "items_total": 4341,
+  "items_ok": 4341,
+  "items_error": 0,
+  "items_skipped_existing": 0,
+  "judgments_dir": "C:\\Users\\27497\\Desktop\\PaperKG_Final\\data\\jmr_2000_2025\\citation_judgments\\runs\\ai02_full_judgments_one_pdf_note_three_keys_conc240\\judgments",
+  "api_backend": "responses_http_inline_file",
+  "api_base_url": "https://codex.ai02.cn/v1",
+  "api_key_slots": 3,
+  "model": "gpt-5.4",
+  "requested_reasoning_effort": "xhigh",
+  "returned_reasoning_counts": {
+    "high": 4341
+  },
+  "citation_substance_counts": {
+    "mention_only": 2467,
+    "substantive": 1868,
+    "ambiguous": 6
+  },
+  "relation_type_counts": {
+    "other": 205,
+    "extends": 463,
+    "challenges": 44,
+    "applies": 527,
+    "refines": 137,
+    "foundational_for": 492
+  }
+}

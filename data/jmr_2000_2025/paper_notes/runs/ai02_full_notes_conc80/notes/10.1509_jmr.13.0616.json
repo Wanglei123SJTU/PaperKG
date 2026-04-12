@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces asymmetric strategic capability into Varian-Narasimhan style oligopoly pricing models with loyal and switching consumers.",
+    "It identifies conditions under which less strategic firms can outperform more strategic firms, counter to the usual intuition that strategic sophistication always yields higher profits.",
+    "It provides a laboratory test of the core prediction that strategic firms set higher prices yet can earn lower profits than nonstrategic rivals."
+  ],
+  "context": "The paper studies oligopoly price competition for horizontally differentiated products where each firm has a loyal customer segment and firms also compete for a shared segment of price-sensitive switchers. Its empirical test is a controlled laboratory market with three competing stores, two played by human participants and one by a nonstrategic computer.",
+  "design_and_data": "The authors build an m-firm game-theoretic pricing model with zero marginal cost, loyal segment size a per firm, switcher segment b, and common reservation value 1. Strategic firms best respond with correct beliefs about rivals, while nonstrategic firms randomize prices uniformly on [0,1], and mixed-strategy equilibria are derived for symmetric and asymmetric capability structures. They also analyze alternative formulations with multiple levels of strategic thinking (step 0 to step 3), asymmetric strategic-player strategies, multiple nonstrategic firms, and private versus common knowledge of types. The laboratory study uses 32 undergraduates (two sessions of 16), with 5 practice rounds and 100 paid rounds, random rematching across rounds, prices from 0 to 100, and known computer random pricing; parameters are set so each firm has loyal share 0.2 and switchers are 40% of the market.",
+  "focal_constructs": [
+    "strategic capability",
+    "bounded rationality",
+    "mixed-strategy pricing",
+    "loyal consumers",
+    "price-sensitive switchers",
+    "oligopoly competition",
+    "cognitive hierarchy levels",
+    "firm profits"
+  ],
+  "main_findings": [
+    "When the loyal-customer segment is sufficiently large, strategic firms charge higher expected prices than a nonstrategic rival and can earn lower expected equilibrium profits.",
+    "The reversal is robust across several model variants, including asymmetric strategies among strategic firms, multiple levels of strategic thinking, multiple nonstrategic firms, and private information about firm types.",
+    "In the lab, human strategic players priced above the nonstrategic computer, and with enough rounds the nonstrategic player earned significantly higher profits in late-stage play."
+  ],
+  "one_line_summary": "The paper develops and experimentally tests an oligopoly model showing that when loyalty is high, strategically sophisticated firms optimally price higher but can earn lower profits than nonstrategic competitors that randomize prices.",
+  "relation_to_prior_work": "extends Varian (1980) and Narasimhan (1988) mixed-strategy sales models by adding asymmetric strategic capability across firms, and contrasts with prior bounded-rationality and field evidence that more strategic players generally achieve superior performance.",
+  "research_gap": "Prior field and experimental studies largely conclude that greater strategic capability improves competitive outcomes, leaving unclear whether the opposite can occur. The paper addresses this unresolved case by characterizing when less strategic firms can outperform more strategic rivals.",
+  "research_question": "Can firms with lower strategic capability ever earn higher profits than more strategic competitors in price competition? If so, under what conditions in markets with loyal consumers and price-sensitive switchers does this reversal arise?"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper differentiates manager responses to negative versus positive reviews and shows that they generate opposite externalities on subsequent reviewer ratings, offering an explanation for conflicting findings in prior MR studies.",
+    "It contributes a causal identification approach in eWOM by using response observability from review-response timing to estimate treatment-on-the-treated effects, beyond initial-response event studies.",
+    "It demonstrates that response tailoring moderates MR externalities by linking text-mined review-response similarity to stronger positive effects for MR-N and stronger negative effects for MR-P."
+  ],
+  "context": "The study is set in online hotel reviews across TripAdvisor and major booking platforms (Expedia, Hotels.com, and Orbitz). The focal outcome is how publicly posted manager responses influence later reviewers' star ratings.",
+  "design_and_data": "The authors compile ratings, review texts, and manager responses from TripAdvisor, Expedia, Hotels.com, and Orbitz, covering 65,099 matched mixed-level hotels globally; the TripAdvisor raw sample exceeds 20 million reviews. They estimate cross-platform difference-in-differences models around each hotel's initial manager response, using Orbitz (no MR feature in the study period) as a control with 30/60/90-day windows and exclusion of 7 days before and after the first response. Within TripAdvisor, they use review and response timestamps to classify whether a prior response was observable to the focal reviewer and estimate treatment-on-the-treated effects, with falsification tests using hotel-date matched Orbitz ratings and moderator tests for response/review timing trends. For mechanism heterogeneity, they run LDA-based topic analysis on review-response text pairs (8 million corpus) and compute cosine similarity as a response-tailoring measure.",
+  "focal_constructs": [
+    "manager responses to online reviews",
+    "opinion externalities on subsequent reviews",
+    "response observability",
+    "review valence (MR-N vs MR-P)",
+    "response tailoring",
+    "complaint management",
+    "shallow affective delivery"
+  ],
+  "main_findings": [
+    "Initiating manager responses increases subsequent ratings on TripAdvisor, but this average treatment effect does not appear on Expedia or Hotels.com.",
+    "When a prior response is observable on TripAdvisor, responses to negative reviews increase subsequent ratings, while responses to positive reviews decrease subsequent ratings; matched Orbitz falsification tests do not show these jumps.",
+    "Higher response tailoring amplifies the divergence: tailored responses to negative reviews strengthen positive externalities, and tailored responses to positive reviews strengthen negative externalities."
+  ],
+  "one_line_summary": "Using multi-platform hotel review data, the paper shows that manager responses affect later ratings only when observable at review time, with positive effects for responses to negative reviews and negative effects for responses to positive reviews that are amplified by tailoring.",
+  "relation_to_prior_work": "extends prior eWOM intervention and customer satisfaction research by separating responses to negative versus positive reviews and showing opposite effects on observers' ratings. It extends service recovery logic to observers of MR-N and shallow affective delivery logic to observers of MR-P. It extends observational causal inference in online review settings by exploiting treatment observability from response timing.",
+  "research_gap": "Prior work on eWOM intervention largely overlooked the common practice of manager responses in peer review platforms and reported conflicting average effects of responding. The paper argues that these inconsistencies may reflect failure to account for response observability and to distinguish responses to negative versus positive reviews.",
+  "research_question": "Do public manager responses to online hotel reviews causally influence the ratings posted by subsequent reviewers? If so, when are these effects present (i.e., when responses are observable at review time), and how do response valence (MR-N vs MR-P) and response tailoring alter the direction and magnitude of the effect?"
+}

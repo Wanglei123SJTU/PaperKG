@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Haschka (2022) as a meaningful prior method in its core positioning of SORE, not just as background. It explicitly discusses Haschka's contribution (modeling correlated endogenous and exogenous regressors in a copula framework and panel extension), contrasts SORE against it in Table 1, and states that a SORE specification (M3) corresponds to Haschka's GC setup. This citation helps motivate SORE's added generality (noncopula dependence, discrete endogenous regressors with few levels, and one-step estimation), so the role is functionally substantive.",
+  "relation_description": "The citing paper builds on the IV-free copula endogeneity-correction line that includes Haschka (2022), then broadens it by proposing SORE as a more general framework. It treats Haschka's GC-with-correlated-regressors specification as a nested special case and extends beyond it to wider dependence structures and regressor types.",
+  "relation_type": "extends"
+}

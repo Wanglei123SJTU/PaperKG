@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the Selection section, the citation is tied directly to the authors' identification strategy rather than to a general literature list. The paper explicitly references Atefi et al. (2018) when explaining why binary propensity-score tools are insufficient and why multivalued-treatment weighting and selection approaches are needed. This indicates a functional methodological use that informs model choice and robustness checks in the citing study.",
+  "relation_description": "The citing paper uses Atefi et al. (2018) as a methodological template for handling multivalued treatment selection in its observational study. It applies that prior paper's guidance on propensity score weighting and multinomial/Heckman-style selection correction to support robustness of the disclosure effect estimates.",
+  "relation_type": "applies"
+}

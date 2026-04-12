@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper is about causal effects of suspense/surprise on Twitch retention using a microfounded choice model and counterfactual media/platform design, while the cited paper is a choice-modeling approach to TV schedule optimization. This topical overlap (media design + choice modeling) means the citation could be methodological or foundational, but the evidence here is only a single DOI match with no in-text citation context, so it cannot be safely dropped as obvious mention-only.",
+  "triage_decision": "uncertain"
+}

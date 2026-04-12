@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Shows that smartphone (vs. PC) use changes the nature of written user-generated content by increasing emotional language and reducing specificity.",
+    "Provides convergent evidence that the effect is driven by smartphone-induced brevity and a resulting focus on gist, rather than by reviewer self-selection or review timing.",
+    "Demonstrates robustness and generality across two field settings and three experiments, using multiple text-analysis tools and human judgments."
+  ],
+  "context": "The paper studies online user-generated text in evaluative settings, primarily restaurant reviews and social media posts. Empirical contexts include TripAdvisor restaurant reviews (Philadelphia and San Francisco), controlled review-writing tasks, and Twitter posts about pop-culture hashtags.",
+  "design_and_data": "The research includes five studies: two field studies and three controlled experiments. Study 1 analyzes 61,642 TripAdvisor restaurant reviews (47,180 PC and 14,462 smartphone) from 593 restaurants posted between 2012 and 2017, and also uses human ratings for a large subset of reviews. Studies 2-4 randomly assign participants to write reviews on smartphone versus PC, with additional manipulations of review length (20 vs 40 words) and experience valence (positive, negative, control). Study 5 analyzes 70,027 tweets tied to 32 trending pop-culture hashtags (27,671 PC and 42,356 smartphone).",
+  "focal_constructs": [
+    "smartphone versus PC use",
+    "user-generated content",
+    "content brevity",
+    "gist focus",
+    "emotional content",
+    "emotional valence",
+    "linguistic specificity",
+    "online word of mouth"
+  ],
+  "main_findings": [
+    "Across datasets, content generated on smartphones contains a higher proportion of emotional language than content generated on PCs.",
+    "Smartphone-generated content is briefer and less specific, and brevity significantly mediates the device effect on emotionality; when length is experimentally held constant, device differences in emotionality attenuate.",
+    "The effect is stronger and easier to detect for positive affect, while negative affect shows weaker or less consistent detectability; results are robust to controls for temporal markers and to within-user analyses that reduce self-selection concerns."
+  ],
+  "one_line_summary": "Across field and experimental evidence, the paper finds that writing on smartphones versus PCs leads to shorter, less specific, and more emotional user-generated content because brevity shifts writers toward gist-based expression.",
+  "relation_to_prior_work": "extends prior work on mobile word-of-mouth by moving beyond correlational evidence of higher emotion in mobile reviews to experimental tests, broader contexts, and mechanism evidence. It argues that the key driver is brevity-induced gist focus rather than real-time posting timing.",
+  "research_gap": "Prior work had not clearly established whether smartphones fundamentally change what consumers write in UGC, nor had it provided strong causal evidence for why mobile-generated content appears more emotional. Existing explanations emphasizing real-time posting left the underlying mechanism unresolved.",
+  "research_question": "Do consumers generate systematically different user-generated content on smartphones versus PCs, especially in emotionality and specificity? If so, is the difference caused by smartphone-induced brevity that pushes writers toward gist, rather than by timing of writing or user self-selection?"
+}

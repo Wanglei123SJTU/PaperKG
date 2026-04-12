@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s core method explicitly includes a consideration stage and subsequent choice stages estimated with MCMC, while the cited paper is a two-stage Bayesian consideration-then-choice framework for retrieving unobserved consideration sets—an evident methodological and construct overlap. Given this strong alignment in model structure (consideration + choice) and the direct DOI match in the reference list, this is not clearly an incidental background mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

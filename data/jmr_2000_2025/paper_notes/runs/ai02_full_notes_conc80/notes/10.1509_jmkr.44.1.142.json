@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper provides empirical evidence for a specific rule-based decision mechanism in consumer choice: a \"don't pay for delay\" rule for positive experiences.",
+    "It identifies and tests two mechanism features of rules, showing that monetary considerations can invoke the rule and that the rule can be overridden.",
+    "It shows that rule use can create preference-action inconsistencies in which choices depart from happiness-maximizing outcomes, and that this tendency varies with personality."
+  ],
+  "context": "The studies examine consumer timing decisions for purchased experiences and products, especially a favorite-band concert where anticipation can increase utility. The key domain is monetary judgment, comparing pleasure-based choices with willingness-to-pay and effort-based choices.",
+  "design_and_data": "The authors first ran a pretest with 30 MBA students to identify unacceptable trade-offs and selected \"pay more for slower delivery\" as a focal rule violation. They then conducted seven experiments (N=50, 100, 160, 184, 337, 145, 119) using hypothetical timing choices for a concert and, in early studies, a PDA; measures included expected daily happiness over 60 days, preferred timing, willingness to pay, and willingness to exert effort. Experimental manipulations varied decision frame (pleasure vs payment vs effort), deliberation instructions (initial response vs careful consideration), and hedonic priming, and one study measured Big Five traits (10-item scale). Analyses included t-tests, ANOVA, and ordered probit models of timing choices.",
+  "focal_constructs": [
+    "rule-based decision making",
+    "don't-pay-for-delay rule",
+    "payment-pleasure dissociation",
+    "rule invocation by money",
+    "rule override",
+    "anticipation/savoring",
+    "conscientiousness"
+  ],
+  "main_findings": [
+    "Participants preferred delaying a concert (where anticipation adds utility) but preferred immediate timing for a PDA.",
+    "For concerts, payment framing reversed timing preferences: respondents were much less likely to choose delay when deciding what they would pay more for, while effort-based judgments resembled pleasure-based judgments.",
+    "The payment-based reversal decreased when participants deliberated carefully or were hedonically primed, and it was stronger among participants higher in conscientiousness."
+  ],
+  "one_line_summary": "Across multiple experiments, the paper shows that consumers may prefer beneficial delay for enjoyable experiences but become unwilling to pay for that delay because monetary judgments invoke a rule that can be overridden.",
+  "relation_to_prior_work": "extends prior research on rule following and preference-action inconsistencies by experimentally isolating a concrete payment rule and testing when it is activated or suppressed. It links money-versus-social-norm framing ideas to intertemporal consumer choice by showing that monetary cues trigger a specific rule response.",
+  "research_gap": "Although prior theory argues that people use rules or rationales, direct evidence on how a specific rule operates in consumer payment decisions is limited. The paper addresses this by isolating a concrete rule and testing its invocation and override conditions.",
+  "research_question": "Do consumers rely on a \"don't pay for delay\" rule that makes them unwilling to pay for delayed consumption even when delay increases expected pleasure? The paper also asks whether monetary cues invoke this rule, whether deliberation or hedonic salience can override it, and whether individual differences in conscientiousness predict stronger rule use."
+}

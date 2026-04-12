@@ -1,0 +1,4 @@
+{
+  "rationale": "Both papers use regression-discontinuity-style quasi-experimental identification: the citing study’s core design is a regression discontinuity in time around Zhihu’s algorithm switch, while the cited paper explicitly develops a multisite, multiwave regression discontinuity quasi-experiment framework. Given this clear methodological overlap (and a verified DOI match), the citation could be a method/source reference rather than a purely incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

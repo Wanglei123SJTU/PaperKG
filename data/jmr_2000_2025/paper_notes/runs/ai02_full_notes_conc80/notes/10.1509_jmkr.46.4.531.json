@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a simulated maximum likelihood estimator for aggregate random coefficient logit demand that simultaneously handles heterogeneity, endogeneity, and sampling error in observed shares.",
+    "It shows that endogeneity test statistics and the direction of endogeneity bias are obtained directly as by-products of estimation.",
+    "It highlights richer consequences of omitting unmeasured product characteristics, including bias in mean as well as heterogeneity parameters, and notes straightforward maximum-likelihood extensions such as Markov regime-switching dynamics."
+  ],
+  "context": "The method targets differentiated-product demand estimation with aggregate weekly brand shares, especially scanner or aggregated panel settings where the underlying number of shoppers can be limited. The empirical illustration uses paper towel purchases at a Pittsburgh supermarket over 103 weeks for four major brands plus a no-purchase option.",
+  "design_and_data": "The authors specify an aggregate random coefficient logit model with unmeasured product characteristics, a first-stage equation for endogenous regressors using instruments, and estimate parameters by simulated maximum likelihood integrating over heterogeneity and exogenous unmeasured shocks. They run five Monte Carlo studies with 100 replications each, generating household-level choices (typically H = 100000, J = 2, T = 50-200) and estimating on aggregated shares to assess bias, efficiency, and robustness under misspecification and omitted unmeasured attributes. They also apply the method to frequent-shopper data aggregated to weekly shares (880 households, 60393 trips, 103 weeks) in paper towels with Bounty, Brawny, Scott, Sparkle, and no-purchase. Results are compared with aggregate RCL and omitted-EUPC models and benchmarked against disaggregate ML/IV and ML/LS estimates.",
+  "focal_constructs": [
+    "aggregate random coefficient logit demand",
+    "simulated maximum likelihood estimation",
+    "price endogeneity",
+    "consumer heterogeneity",
+    "sampling error in market shares",
+    "unmeasured product characteristics",
+    "control function correction",
+    "instrumental variables"
+  ],
+  "main_findings": [
+    "In simulations, the proposed estimator recovers mean and heterogeneity demand parameters with little bias and reasonable precision under both simple and full heterogeneity specifications.",
+    "Performance remains fairly robust when the unmeasured product-characteristic process is misspecified, including autocorrelated exogenous shocks and nonnormal unobservables in the pricing equation.",
+    "Ignoring unmeasured product characteristics can induce upward or downward bias in mean and heterogeneity parameters; in the paper towel application, the proposed aggregate estimates are close to disaggregate ML/IV benchmarks and indicate significant negative price endogeneity for Bounty, Brawny, and Sparkle but not Scott."
+  ],
+  "one_line_summary": "The paper develops a simulated maximum likelihood estimator for aggregate random coefficient logit demand that jointly handles heterogeneity, price endogeneity, and finite-sample share noise, and validates it with simulations and scanner data.",
+  "relation_to_prior_work": "extends the BLP aggregate random-coefficients framework by allowing sampling error in observed shares and using a likelihood-based treatment of unmeasured product characteristics. It also extends Villas-Boas and Winer's control-function logic to aggregate random-coefficients demand and is closely related to Petrin and Train's aggregate control-function approach under different distributional assumptions.",
+  "research_gap": "The widely used BLP aggregate approach assumes observed market shares have no sampling error, which is problematic when shares are computed from finite shopper samples. Existing control-function work either focused on disaggregate data without unobserved heterogeneity or did not provide this aggregate random-coefficients treatment with sampling error.",
+  "research_question": "How can researchers consistently and efficiently estimate an aggregate random coefficient logit demand model when consumer heterogeneity and endogenous marketing variables are both present and observed shares contain sampling error? The paper also examines whether this likelihood-based approach can provide practical endogeneity diagnostics while retaining good parameter recovery."
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s design note explicitly says it \"estimate[s] effects with a Bayesian synthetic control model,\" indicating likely methodological dependence rather than a passing mention. The cited paper is exactly \"Bayesian Synthetic Control Methods\" and introduces the Bayesian SCM variants and inference framework, so this pair is plausibly a method-source citation worth full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

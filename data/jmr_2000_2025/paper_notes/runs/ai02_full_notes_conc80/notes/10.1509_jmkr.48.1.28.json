@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides what the authors describe as the first substantial empirical evidence in the diffusion literature on whether contagion exists in new CPG diffusion, using a large multi-product individual panel.",
+    "Introduces an individual-level multi-product trial hazard framework that lets contagion be temporally limited (R-period window) and spatially local (K-nearest neighbors), rather than permanently and globally homogeneous.",
+    "Shows how estimated contagion parameters can be converted into an implicit consumer influence network to identify influential early adopters for launch targeting."
+  ],
+  "context": "The study is set in new consumer packaged goods sold through a dominant grocery chain in one midsize metropolitan area in the southeastern United States. It analyzes household trial behavior for many new product launches in this grocery retail environment.",
+  "design_and_data": "The authors estimate a discrete-time proportional hazard model of first trial, calibrated simultaneously across multiple products with latent factors for household baseline trial propensity. The model includes price and display/feature covariates, linear and log-linear time trends, recent purchases by K-nearest neighbors (contagion), and recent purchases by nonneighbors as a control for time-varying confounds. Data include 5,912 households over 124 weeks and 67 new CPG introductions, with household geocodes, store rollout timing, and trial/repeat purchase histories; best fit is selected by BIC over alternative K and R settings. Predictive validity is checked with a holdout test against an exponential-gamma hazard benchmark using the last 40 weeks.",
+  "focal_constructs": [
+    "contagion (interpersonal influence)",
+    "new product trial hazard",
+    "temporal heterogeneity in contagion",
+    "spatial heterogeneity in contagion",
+    "correlated unobservables",
+    "baseline trial propensity (innovativeness)",
+    "local neighbor influence network"
+  ],
+  "main_findings": [
+    "A no-contagion specification fits worst, and the best-fitting model supports temporally short and spatially local contagion (best at R=4 weeks and K=1000 nearest neighbors).",
+    "Contagion coefficients are positive for 64 of 67 products, with significant effects for 33 products at p<.01 and 40 products at p<.05, indicating contagion in many CPG diffusions.",
+    "Nonneighbor recent purchases are mostly insignificant or negative while neighbor effects are positive, and the proposed model improves holdout trial prediction versus the exponential-gamma benchmark for 52 of 67 products (mean MAE improvement about 7.5%)."
+  ],
+  "one_line_summary": "Using household-level panel data for 67 new CPGs, the paper shows that contagion is detectable for many products once diffusion is modeled with local and temporary interpersonal influence and stronger controls for confounds.",
+  "relation_to_prior_work": "extends prior CPG trial-purchase and diffusion modeling by replacing standard assumptions of globally homogeneous and permanent influence with empirically determined local and temporary contagion in an individual-level hazard framework. It also moves beyond single-product analyses by using cross-product trial histories to control unobserved baseline trial heterogeneity.",
+  "research_gap": "Prior CPG trial-purchase models generally assumed no contagion a priori, and evidence based on aggregate adoption curve shapes could not cleanly identify contagion from confounds. The paper targets the need for an individual-level, properly identified test that accounts for spatial and temporal heterogeneity and correlated unobservables.",
+  "research_question": "Does contagion materially influence trial adoption of new consumer packaged goods when measured at the individual level with careful controls for major identification confounds? If so, is that influence local in space and temporary in time, and how often is it detectable across a broad set of CPG launches?"
+}

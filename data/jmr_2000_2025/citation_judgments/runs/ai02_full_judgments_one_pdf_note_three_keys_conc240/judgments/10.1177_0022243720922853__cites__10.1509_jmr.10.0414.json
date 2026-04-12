@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the methods section, the citation is used in a specific implementation choice ('for a similar practice, see Van Heerde et al. 2013') rather than as a broad background mention. It helps justify the paper's IV/control-function setup around post-rebranding interactions and related estimation/reporting practice. The citing paper does not draw on the cited paper's business-cycle theory or substantive findings, but it does meaningfully borrow its econometric approach.",
+  "relation_description": "The citing paper applies methodological practice from Van Heerde et al. (2013) in its identification and estimation design, particularly around instrument interactions with the post-event period in a panel setting. This is a methodological carryover to a new context (private-label umbrella rebranding), not a theoretical extension of business-cycle results.",
+  "relation_type": "applies"
+}

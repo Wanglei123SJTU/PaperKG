@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the methods section, the authors explicitly attribute their posterior-draw procedure to Allenby and Edwards (2003) when describing how they estimated model parameters and handled burn-in/thinning. This is not a generic literature-list mention; it supports a concrete estimation step used in their main empirical analysis. The citation functions as method application rather than theoretical extension or critique.",
+  "relation_description": "The citing paper uses Allenby and Edwards (2003) as a methodological source for implementing MCMC estimation of its joint multivariate probit model (ad clicks and brand recognition). It applies that Bayesian sampling approach in a different substantive setting, namely native advertising experiments.",
+  "relation_type": "applies"
+}

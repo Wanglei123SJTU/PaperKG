@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited 2005 paper directly studies ordered recommendation lists and shows that deeper search can worsen choice quality, which closely matches the citing 2012 paper’s core focus on how recommendation ordering changes sequential search behavior and stopping. Given this strong construct/mechanism overlap in the notes (ordered environments, search depth/stopping, recommendation effects), this is plausibly a foundational or direct comparison citation rather than an incidental mention, despite only one DOI-level match record.",
+  "triage_decision": "keep_for_relation_judgment"
+}

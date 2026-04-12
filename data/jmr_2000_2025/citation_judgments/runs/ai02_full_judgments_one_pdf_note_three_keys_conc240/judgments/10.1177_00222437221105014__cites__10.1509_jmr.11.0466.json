@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citation is used in the methods section to justify and implement the adstock treatment of advertising effects, not just as generic background. The authors explicitly state they use an adstock specification with reference to Dinner et al. (2014), and later follow it in defining the adstock variable for their demand model. This is a concrete methodological borrowing that informs model construction, even though the cited paper's main cross-channel sales question is not the focus here.",
+  "relation_description": "The citing paper applies the adstock-based advertising carryover specification associated with Dinner et al. (2014) as a control component in its demand model. It transfers that modeling element to a new policy context (nutritional warning labels) rather than extending the cited paper's core substantive domain.",
+  "relation_type": "applies"
+}

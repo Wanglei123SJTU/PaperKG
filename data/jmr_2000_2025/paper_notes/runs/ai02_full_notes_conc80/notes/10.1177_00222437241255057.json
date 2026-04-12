@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Builds and estimates a platform-adoption model that incorporates information asymmetry and spatial network effects driven by consumer mobility and local characteristics.",
+    "Documents that network effects in this car-sharing platform are asymmetric and that the balance between local and spatial effects varies strongly by location.",
+    "Provides evidence on geographically targeted growth actions by comparing alternative seeding strategies and by empirically quantifying the impact of a local promotional campaign."
+  ],
+  "context": "The paper studies a leading French peer-to-peer car-sharing platform (similar to Turo) where consumers rent cars from individual owners and physically pick them up. Adoption is analyzed across French cantons, with consumers sometimes renting near home and often at other destinations.",
+  "design_and_data": "The analysis uses platform records from launch to mid-April 2014 (476 days), including account creations, car listings and unlistings, and reviews; transactions are inferred from paired reviews. Adoption is defined as first transaction for consumers and first car listing for providers, with provider exit when all listed cars are removed; the sample includes 14,968 consumer adoptions, 11,842 provider adoptions, and 5,235 provider exits. The authors estimate a continuous-time hazard framework with consumer adoption modeled by origin-destination pair and provider adoption/exit by destination, with installed bases updated after each event. Covariates combine platform data with census demographics, commuting and leisure flows, rental-agency and transit availability, weather, holidays, media appearances, and advertising indicators.",
+  "focal_constructs": [
+    "spatial network effects",
+    "cross-side network effects",
+    "consumer mobility",
+    "information asymmetry",
+    "two-sided platform adoption",
+    "continuous-time hazard model",
+    "seeding strategy",
+    "local promotional campaign impact"
+  ],
+  "main_findings": [
+    "Provider-side installed base has a strong positive effect on consumer adoption, whereas consumer-side effects on provider adoption are positive but limited.",
+    "Proximity and mobility measures (same or nearby areas, commuting flows, leisure-trip flows) significantly shape consumer adoption and generate heterogeneous, asymmetric spatial network effects across origin-destination pairs.",
+    "Seeding simulations indicate that targeting supply, especially in large cities, produces the strongest overall growth, and the observed Paris campaign has mostly local effects with limited spillovers outside the region."
+  ],
+  "one_line_summary": "Using early-stage data from a French peer-to-peer car-sharing platform, the paper estimates a continuous-time spatial two-sided diffusion model and finds that supply-side presence drives consumer adoption across locations much more than demand-side presence drives provider adoption.",
+  "relation_to_prior_work": "extends prior diffusion and platform network-effects work by modeling two-sided sharing-platform adoption with origin-destination mobility and information asymmetry in continuous time. It moves beyond national-level or within-city analyses by estimating both local and cross-location network effects and linking them to seeding and promotion decisions.",
+  "research_gap": "Existing platform studies had not empirically quantified spatial network effects in sharing-economy adoption when consumers travel across locations, and related sharing-economy adoption studies did not provide a joint two-sided quantification of network and nonnetwork drivers. The paper addresses this missing evidence on how location and travel flows shape diffusion on both sides of the platform.",
+  "research_question": "How do network effects in a sharing-economy platform operate across space when consumers are mobile and information is asymmetric between sides? How does the geographic distribution of initial participants interact with travel flows to affect growth, and what is the magnitude and spatial reach of a local promotional campaign's impact on consumer and provider adoption?"
+}

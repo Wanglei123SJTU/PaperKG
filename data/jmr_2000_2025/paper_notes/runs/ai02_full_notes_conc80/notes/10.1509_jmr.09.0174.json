@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper takes an integrative approach to key informant accuracy by examining both reliability and validity rather than only one of the two.",
+    "It develops and tests hypotheses on a broad, multi-level set of antecedents of key informant accuracy, including construct, informant, organizational, industry, and method characteristics.",
+    "It offers empirically grounded guidance on when triangulation is most needed and how researchers can implement triangulation in organizational survey studies."
+  ],
+  "context": "The paper addresses organizational survey research in marketing and management, where firms or business units are represented by key informants. Evidence comes from major published studies and from cross-industry marketing strategy surveys with multiple informants per organization.",
+  "design_and_data": "Study 1 is a meta-analysis of triangulation applications in six major marketing and management journals (1998-2010), with 182 eligible studies and 127 studies reporting numeric reliability information. The reliability analyses use 431 constructs and 11,874 observations, analyze correlation- and agreement-based reliability separately, and test antecedents with multilevel and weighted regressions. Study 2 uses eight cross-sectional, cross-industry multi-informant datasets from marketing strategy research, covering 127 constructs and 1,057 observations. Validity is estimated with correlated trait-correlated method MTMM CFA models to isolate informant-type method variance, then linked to construct characteristics via multilevel regression.",
+  "focal_constructs": [
+    "key informant accuracy",
+    "key informant reliability",
+    "key informant validity",
+    "triangulation",
+    "random measurement error",
+    "systematic measurement error",
+    "construct characteristics (temporal reference, objectivity, salience)",
+    "informant, organizational, and industry antecedents"
+  ],
+  "main_findings": [
+    "Across the meta-analysis, average key informant reliability is moderate to high (mean correlation .612; mean agreement .872).",
+    "Reliability is higher for present-focused, objective, and salient constructs, tends to be higher for informants in higher hierarchical positions, is lower in more concentrated industries and higher in more R&D-intensive industries, and is estimated as higher when triangulation uses archival data.",
+    "In the multi-informant validity analyses, about 19% of item variance and 26.4% of construct variance is attributable to informant-type method effects, and validity is higher for objective and salient constructs (with mixed support for present vs. past and no support for specificity or local-scope effects)."
+  ],
+  "one_line_summary": "Using a meta-analysis of published triangulation studies and eight multi-informant marketing datasets, the paper identifies conditions under which key informant responses are more reliable and valid and when triangulation is most warranted.",
+  "relation_to_prior_work": "extends prior key informant and method-bias research by jointly analyzing reliability and validity and by moving beyond mainly descriptive or exploratory evidence to hypothesis-driven tests of antecedents across multiple levels.",
+  "research_gap": "Although triangulation is increasingly used in organizational survey research, the paper argues that there is little guidance on when and how it should be applied. It also notes that prior studies typically examined either reliability or validity in isolation and mostly provided overall accuracy descriptions with limited antecedent testing.",
+  "research_question": "What factors systematically drive the accuracy of key informant responses in organizational survey research? Specifically, under which construct, informant, organizational, industry, and method conditions are key informant responses more reliable and valid, and when is triangulation most necessary?"
+}

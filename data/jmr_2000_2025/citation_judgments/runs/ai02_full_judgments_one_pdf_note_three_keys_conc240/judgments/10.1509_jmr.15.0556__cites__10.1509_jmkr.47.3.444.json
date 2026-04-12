@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Luan and Sudhir (2010) for a specific methodological role: it cites them as the source for handling potential slope endogeneity driven by managers' private information. In its robustness tests, the authors explicitly state they follow the procedure from Luan and Sudhir (2010) and implement additional correction terms based on that approach. This is more than background mention because the cited work directly informs an empirical validity check in the citing study's estimation strategy.",
+  "relation_description": "The citing paper applies Luan and Sudhir's slope-endogeneity correction procedure in a robustness analysis of its acquisition-performance model. It transfers that methodological idea to test whether heterogeneous private information biases its overlap-effect estimates.",
+  "relation_type": "applies"
+}

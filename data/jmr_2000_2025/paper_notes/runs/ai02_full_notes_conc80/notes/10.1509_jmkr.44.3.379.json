@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Integrates mental simulation theory with research on intertemporal choice to explain and manage preference inconsistency over time.",
+    "Proposes and demonstrates a timing-contingent strategy: outcome simulation is more effective for near-future decisions, whereas process simulation is more effective for distant-future decisions in producing cross-time preference consistency.",
+    "Shows that mental control of thought focus can alter construal-related desirability versus feasibility weighting, with evidence in both an assignment task and a multiattribute consumer software choice context."
+  ],
+  "context": "The paper studies decisions that involve desirability-feasibility trade-offs at different time horizons, using student scenarios. The empirical settings are choosing class assignment topics and choosing photo album software for a course project (quality/features versus setup and learning effort).",
+  "design_and_data": "The authors run two 2 (time: near vs distant future) x 3 (simulation: control vs outcome vs process) between-subjects experiments with university students. Experiment 1 uses an assignment-topic choice (interesting but effortful vs easy but less interesting) with N = 189; Experiment 2 uses photo software choice (higher quality but harder to use vs lower quality but easier) with N = 225. Participants in simulation conditions completed written process- or outcome-focused imagination tasks before evaluation; outcomes were relative preference ratings in both studies, plus binary choice in Experiment 2. Experiment 2 also included manipulation checks and coding of written thought protocols to verify process- versus outcome-focused cognition.",
+  "focal_constructs": [
+    "temporal distance",
+    "construal level",
+    "process-focused mental simulation",
+    "outcome-focused mental simulation",
+    "desirability considerations",
+    "feasibility considerations",
+    "preference consistency over time"
+  ],
+  "main_findings": [
+    "In control conditions, participants showed the expected temporal inconsistency: near-future decisions favored the more feasible option more than distant-future decisions.",
+    "For near-future decisions, outcome simulation shifted preferences toward the more desirable but less feasible option, while process simulation did not significantly differ from control; outcome simulation made near-future preferences align with natural distant-future preferences.",
+    "For distant-future decisions, process simulation shifted preferences toward the more feasible option, while outcome simulation did not significantly differ from control; process simulation made distant-future preferences align with natural near-future preferences, and this pattern also appeared in Experiment 2 choice shares."
+  ],
+  "one_line_summary": "Across two experiments, the study shows that outcome simulation for near-future choices and process simulation for distant-future choices attenuate temporal preference inconsistency between desirability and feasibility options.",
+  "relation_to_prior_work": "extends construal-level research on intertemporal preference by showing that targeted mental simulation can regulate which attributes are weighted at different time horizons. It also extends mental simulation work beyond performance outcomes by identifying outcome timing as a moderator of process- versus outcome-simulation effectiveness for preference and choice.",
+  "research_gap": "The paper argues that, although prior work suggests temporal construal can be influenced, using mental control mechanisms to alter construal in choice-over-time and self-regulation contexts has received limited attention. It also notes that mental simulation research has focused mainly on goal attainment/performance rather than preference consistency over time.",
+  "research_question": "Can process-focused versus outcome-focused mental simulation reduce time-inconsistent preferences that arise between near- and distant-future decisions? More specifically, does outcome simulation work better in near-future decisions and process simulation work better in distant-future decisions for aligning preferences across time?"
+}

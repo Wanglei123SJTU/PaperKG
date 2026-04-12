@@ -1,0 +1,4 @@
+{
+  "rationale": "Keep: the citing paper relies on Bayesian MCMC choice modeling with structural heterogeneity and benchmark model comparisons, while the cited paper is a Hierarchical Bayes model for assortment choice with individual-level heterogeneity and nested-model comparisons—making it a plausible methodological/foundational source rather than a generic mention. The pair is DOI-matched (10.1509/jmkr.37.2.259.18733), and given the strong topical/method overlap (assortment/complementary choice + HB estimation), it should receive full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

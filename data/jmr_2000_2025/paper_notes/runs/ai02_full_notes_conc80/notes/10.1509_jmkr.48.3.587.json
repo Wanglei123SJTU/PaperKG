@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces an asset configuration strategy perspective that decomposes both customer and innovation assets into depth and breadth and examines their interactions.",
+    "It argues and shows that different configurations relate to different financial outcomes, distinguishing effects on firm performance from effects on performance variability.",
+    "It applies RBV and configuration theory jointly to test internal fit among asset components and external fit with industry dynamism."
+  ],
+  "context": "Both empirical studies are conducted in high-tech settings. Study 1 covers publicly traded firms in software, semiconductor, computer, and electronic equipment industries, and Study 2 surveys senior managers from high-tech firms.",
+  "design_and_data": "Study 1 uses secondary longitudinal data from COMPUSTAT business segments, CRSP stock returns, and Delphion patent records for 1990-2005; after rolling windows and lag structure, the panel includes 2,857 observations from 348 firms over 11 years. Customer and innovation assets are measured as depth and breadth, and outcomes are shareholder return and idiosyncratic risk estimated from a four-factor asset pricing model. The authors estimate fixed-effects AR(1) panel regressions with one-year-lagged predictors, interaction terms, and industry dynamism moderation. Study 2 uses a primary survey of senior managers from high-tech firms (167 usable responses) with multi-item measures and moderated regressions for the core interaction hypotheses.",
+  "focal_constructs": [
+    "customer asset depth",
+    "customer asset breadth",
+    "innovation asset depth",
+    "innovation asset breadth",
+    "asset configuration strategies",
+    "firm performance",
+    "performance variability",
+    "industry dynamism"
+  ],
+  "main_findings": [
+    "Firm performance is higher when firms use complementary deep-broad configurations: deep customer with broad innovation and deep innovation with broad customer.",
+    "Performance variability is reduced by deep-deep concentration, and broad-broad diversification also shows variability suppression in the survey study.",
+    "Industry dynamism selectively amplifies some configuration effects, notably the positive deep customer-broad innovation effect on performance and the variability-suppression effect of broad-broad diversification."
+  ],
+  "one_line_summary": "Across two high-tech studies, the paper finds that firms perform best when deep assets in one domain are paired with broad assets in the other domain, while deep-deep and broad-broad configurations are more associated with reduced performance variability.",
+  "relation_to_prior_work": "extends prior marketing-technology linkage work by showing that component-level interactions between customer and innovation assets (depth and breadth) produce different outcome patterns for returns versus variability. It also builds on configuration theory applications by testing both internal asset fit and external fit with environmental dynamism.",
+  "research_gap": "Prior research mainly examines customer and innovation assets at an aggregate firm level and rarely separates each asset into depth and breadth. The authors argue this obscures how assets jointly create and appropriate value and how different asset configurations affect both performance and performance variability.",
+  "research_question": "How does a firm's configuration of customer and innovation assets influence financial performance and performance variability? The paper specifically asks whether depth and breadth combinations of these assets create different outcome effects, and whether industry dynamism changes those effects."
+}

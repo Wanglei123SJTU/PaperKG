@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is not a passing reference; it provides the main causal estimation framework used in the study. The citing paper explicitly states it uses BSCM from Kim, Lee, and Gupta (2020), explains its advantages over standard SCM and DiD, and follows its model setup and horseshoe-prior specification in estimation. The paper's identification, inference claims, and robustness benchmarking are all organized around this method, indicating a clear functional dependence on the cited work.",
+  "relation_description": "The citing paper applies Kim, Lee, and Gupta (2020)'s Bayesian synthetic control method as its core empirical tool to estimate policy implementation and repeal effects on trash bag sales. It adopts the cited method's Bayesian SCM logic and priors for inference in a new policy-repeal context rather than developing a new SCM methodology.",
+  "relation_type": "applies"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces and empirically tests period-level bracketing in multiperiod service contracts, where customers evaluate per-period gains and losses rather than only total contract value.",
+    "Shows that timing prices to hassle timing matters: customers prefer lower payments in periods with higher hassle costs even when total contractual payments are fixed.",
+    "Provides evidence from a real-market field experiment and multiple lab experiments, and argues this mechanism is distinct from explanations based on switching costs or hyperbolic discounting."
+  ],
+  "context": "The paper studies long-term service contracts where customer hassle can occur at setup, during maintenance, or at contract end. Its field setting is a UK web hosting provider using Google search ads for 3-month hosting contracts, complemented by lab scenarios for internet service, water repairs, train passes, health clubs, and vacation rentals.",
+  "design_and_data": "The field experiment randomized four Google ad messages over seven days, crossing a hassle cue (\"no hassle setup\" vs no explicit hassle claim) with pricing format (constant monthly price vs first-period discount with higher later prices), generating more than 79,000 ad impressions. Field outcomes included click-through rates and subsequent on-site browsing depth from server logs, with 448 human visitors after excluding bots/spiders. Five lab experiments on Amazon Mechanical Turk (N=83, 80, 197, 409, 311) manipulated hassle level and timing (beginning, middle, end), bracket length, and relative total bill across plans. Dependent variables were pricing plan choice or discount timing choice, with additional controls such as perceived firm quality, plan perceptions, and measured discount rates.",
+  "focal_constructs": [
+    "period-level bracketing",
+    "contract-level bracketing",
+    "hassle costs",
+    "contractual discounting",
+    "multiperiod service contracts",
+    "discount timing",
+    "pricing plan choice"
+  ],
+  "main_findings": [
+    "In the field experiment, ads that offered only contractual discounting or only a no-hassle message had higher click-through than ads combining both messages, while the combined message performed similarly to mentioning neither.",
+    "Field browsing behavior showed contractual discounting increased engagement, but this effect was significantly weakened when paired with a no-hassle claim; the pattern was concentrated among nontechnical searchers.",
+    "Across five lab experiments, participants were more likely to choose discounts or pricing plans that reduced payment in the hassle period (at beginning, during, or end of contract), consistent with period-level bracketing and robust to controls for discount rates and other alternative explanations."
+  ],
+  "one_line_summary": "Using a UK web-hosting field experiment and five lab studies, the paper shows that customers bracket service contracts by period and therefore prefer discounts in the same period they expect hassle costs.",
+  "relation_to_prior_work": "extends narrow-bracketing research by applying it to predetermined streams of benefits and payments in multiperiod service contracts rather than isolated joint outcomes. It introduces hassle timing as a pricing dimension not addressed in standard nonlinear-pricing analyses and distinguishes this mechanism from switching-cost models that depend on uncertain future prices.",
+  "research_gap": "Standard contract evaluation models imply customers should be indifferent to when prices are paid if total discounted value is unchanged, but this may fail when hassle varies over time. Prior work in nonlinear pricing and switching costs does not directly test whether the timing of anticipated hassle changes preferences over within-contract payment schedules that are fixed ex ante.",
+  "research_question": "Do customers evaluate multiperiod service contracts at the aggregate contract level or as per-period gains and losses (period-level bracketing)? If customers anticipate hassle costs in specific periods, do they prefer pricing schedules that lower payments in those same periods, even when total contract payments are unchanged or less favorable overall?"
+}

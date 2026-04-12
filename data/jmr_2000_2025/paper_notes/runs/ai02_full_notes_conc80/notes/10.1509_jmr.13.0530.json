@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a method to infer retailers' joint stocking probabilities of SKUs from aggregate market-level data that only report marginal availability (ACVD).",
+    "It introduces a joint framework that estimates consumer choice, retailer stocking, and pricing equations together so demand is contingent on dynamically varying SKU assortments and price endogeneity is addressed.",
+    "It claims to provide managerial diagnostics not available in conventional aggregate demand models, including separation of consumer-versus-retailer preference dynamics, conditional joint stocking insights, and shelf-space cannibalization effects from product line expansion."
+  ],
+  "context": "The empirical application is a skin-care category in an emerging Asia-Pacific market where sales are dominated by fragmented mom-and-pop stores with persistent shelf-space constraints. In this setting, manufacturers typically receive market-level data aggregated across stores, not store-level stocking data.",
+  "design_and_data": "The data cover 11 SKUs from three major brands in one city market over 86 weeks, aggregated across mom-and-pop stores; the three brands account for about 89% of category sales. Observed variables include SKU market share, ACVD, shelf price, wholesale price, trade promotion, consumer promotion, advertising (TARPs), and lagged market share, with some SKU entry/exit over time. The model combines an individual-level logit demand system, a latent-class multivariate-probit retailer stocking model, and a pricing equation with correlated unobservables across equations, estimated jointly in a Bayesian MCMC procedure. The authors also run simulation studies to assess parameter recovery and identify conditions where recovery of stocking-correlation parameters becomes difficult.",
+  "focal_constructs": [
+    "aggregate market-level demand estimation",
+    "SKU availability",
+    "joint retailer stocking probability",
+    "consumer choice under availability constraints",
+    "retailer stocking preferences",
+    "price endogeneity",
+    "product line length",
+    "shelf-space cannibalization"
+  ],
+  "main_findings": [
+    "The proposed model fits better than benchmark models that omit correlated equation shocks and/or retailer joint-stocking correlation, with higher log-marginal likelihood and lower DIC, and Bayes factors indicating decisive improvement.",
+    "Retailer stocking dynamics materially affect brand share outcomes: retailer preference increases over time for Brands 2 and 3 but not Brand 1, while consumer preference grows for all three brands.",
+    "The number of SKUs in a brand's line has a significant negative effect on retailer stocking utility, consistent with product line expansion cannibalizing limited shelf space in small stores."
+  ],
+  "one_line_summary": "The paper develops and applies a joint consumer-choice, retailer-stocking, and pricing model that infers unobserved joint SKU availability from aggregate ACVD data to better diagnose brand market share dynamics in an emerging skin-care market.",
+  "relation_to_prior_work": "extends BLP-style aggregate discrete-choice demand modeling by incorporating endogenous, correlated retailer joint stocking and allowing consumer choice to depend on unobserved store assortments inferred from marginal availability data.",
+  "research_gap": "Aggregate market-level datasets typically provide only marginal SKU availability and lose information on which SKUs are jointly stocked in stores. Prior approaches either assume universal availability or rely on consumer/store-level availability data, leaving manufacturers without a practical method to account for dynamic, interdependent retailer stocking when only aggregate data are available.",
+  "research_question": "How can manufacturers estimate disaggregate consumer demand from aggregate market-level data when SKU purchases depend on unobserved, time-varying store assortments? Can joint retailer stocking probabilities be inferred from marginal availability data so that brand performance diagnostics reflect both consumer preference dynamics and retailer stocking dynamics?"
+}

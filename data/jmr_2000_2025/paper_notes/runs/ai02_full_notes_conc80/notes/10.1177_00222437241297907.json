@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces the social unitization effect (SUE), proposing that unitized food choice depends on impression management motives and social context.",
+    "Identifies social context as a boundary condition for unit bias and provides process evidence that attenuation is driven by reduced selection of small units under higher impression management.",
+    "Demonstrates marketing-relevant manifestations of the SUE through servicescape surveillance, descriptive size branding, and food-unit shape, with implications for mitigating overconsumption."
+  ],
+  "context": "The studies examine unitized food choices (e.g., cookies, pizza slices, chocolate bars, donuts) in socially visible versus private selection settings. The paper discusses applications to buffets, cafeterias, grab-and-go offerings, and surveilled retail/service environments.",
+  "design_and_data": "The paper reports five preregistered studies. Study 1 (MTurk, n=228) tests social appropriateness judgments for different numbers and sizes of pizza units while controlling key comparisons of volume/proportion; analyses use ANOVA. Studies 2a (n=202 undergraduates) and 2b (n=275 undergraduates) are behavioral lab taste-test experiments with real cookie choices in 2x2 designs (unit size x social context or surveillance), with count outcomes modeled via Poisson regression. Study 3 (MTurk, n=391) manipulates descriptive size branding (mini/jumbo) for chocolate bars in a social shopping scenario, and Study 4 (MTurk, n=217) manipulates regular versus irregular pizza-unit shape in a social scenario; both analyze unit counts with Poisson models.",
+  "focal_constructs": [
+    "unit bias",
+    "social unitization effect (SUE)",
+    "impression management motives",
+    "social context (alone vs with others)",
+    "unit size (small vs large)",
+    "servicescape surveillance",
+    "descriptive size branding (mini/jumbo)",
+    "food unit shape (regular vs irregular)"
+  ],
+  "main_findings": [
+    "Taking more small units was judged as less socially appropriate than taking fewer units of equivalent food amount (e.g., four small vs two large slices).",
+    "In real food-choice studies, participants chose more small than large units when alone, but this difference was attenuated when others were present or when surveillance cameras were present, primarily because small-unit selection decreased.",
+    "In social settings, labeling small units as \"mini\" increased small-unit selection, and in the shape study planned contrasts showed that irregularly shaped units produced greater small-versus-large unit selection than regularly shaped units."
+  ],
+  "one_line_summary": "Across five preregistered studies, the paper shows that social visibility and impression management attenuate small-unit selection advantages in unitized food choice, and that surveillance, size branding, and unit shape can shift this pattern.",
+  "relation_to_prior_work": "extends prior unit bias and social eating research by empirically establishing social context and impression management as a mechanism and boundary condition for unit-based food choice. It also extends work on unitized/prepackaged foods by showing that servicescape surveillance, size-descriptive branding, and unit shape alter small-versus-large unit selection.",
+  "research_gap": "Prior research on unit bias has provided limited evidence on mechanisms and boundary conditions for responses to smaller food units, and results have been mixed across settings. The paper argues that social context has been speculated but not empirically tested as a boundary condition, and that marketing influences on unit-based food choice are underexplored.",
+  "research_question": "When and why do consumers choose different numbers of small versus large unitized foods, rather than consistently following a simple one-unit bias? The paper tests whether social context changes these choices through impression management motives, and whether marketing factors in servicescapes, branding, and food design can bolster or mitigate the beneficial effects of smaller units."
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper explicitly says it extends prior CLV research and builds a profit-maximizing decision policy for customer/product/channel targeting, while the cited paper is a Bayesian decision-theory CLV customer-selection framework under budget constraints. This strong construct/method overlap (CLV-based targeting and optimization under uncertainty) makes a substantive link plausible; given only DOI-level matched evidence and no local citation context, it is not safe to treat as an obvious mention-only citation.",
+  "triage_decision": "keep_for_relation_judgment"
+}

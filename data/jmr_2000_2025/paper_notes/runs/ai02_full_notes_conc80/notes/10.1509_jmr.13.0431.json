@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper presents a stock market-based approach to estimate the total long-term financial impact of a marketing asset and to separate that impact into contemporaneous and future components when marketing time-series data are short.",
+    "It links customer mindset, product-market accounting performance, and stock market valuation in a single estimable framework for brand equity assessment.",
+    "It applies the method to brand equity and shows that impact dynamics differ materially across industries, implying that aggregate estimates can mask sector-specific patterns."
+  ],
+  "context": "The empirical setting is publicly traded U.S. mono-brand firms tracked in Y&R's BrandAsset Valuator from 2000 to 2010. The paper studies brand equity effects on firm profitability and valuation across multiple industries, with focused comparisons for distribution/retail, high-tech, and restaurant sectors.",
+  "design_and_data": "The author combines Y&R BAV brand survey data, CRSP monthly stock returns, Compustat quarterly accounting data, and Fama-French plus momentum factor data. The analysis uses an unbalanced panel of 444 mono-brand firms (up to 11 annual observations) and constructs a Brand Asset Index as an equally weighted sum of five z-standardized BAV pillars (differentiation, relevance, esteem, knowledge, energy). Unanticipated earnings are measured from a fixed-effects fourth-order autoregressive quarterly ROA model, and unanticipated brand changes are modeled as first differences of the Brand Asset Index based on a random-walk expectation test. The core estimation uses stock-return response equations to estimate direct future and total brand effects, tests simultaneity between ROA and brand equity, and includes industry-level and distributed-lag IV validation analyses.",
+  "focal_constructs": [
+    "customer mindset brand equity",
+    "Brand Asset Index",
+    "unanticipated ROA (earnings surprise)",
+    "abnormal stock returns",
+    "total financial impact",
+    "contemporaneous versus future impact dynamics",
+    "industry heterogeneity in brand effects"
+  ],
+  "main_findings": [
+    "In aggregate, unanticipated increases in the Brand Asset Index are associated with significantly higher abnormal stock returns, indicating a positive total financial impact of customer mindset brand equity.",
+    "Only a small portion of brand equity's total profitability impact is reflected in current-year earnings, while most of the impact is realized in future periods.",
+    "Brand impact dynamics vary by sector: restaurants show contemporaneous direct effects with no direct future effect, high-tech shows no contemporaneous effect but delayed future effects, and distribution/retail shows both contemporaneous and future effects."
+  ],
+  "one_line_summary": "The paper develops and applies a stock market-based method to estimate total and partially dynamic brand equity effects with short marketing time series, finding that most brand value impact appears in future profitability and that timing patterns differ sharply by industry.",
+  "relation_to_prior_work": "extends stock return response modeling by moving beyond incremental information-content tests to estimate total long-term marketing-asset impact and decompose it into current and future components under limited marketing time-series data.",
+  "research_gap": "Prior brand equity valuation approaches that rely on contemporaneous product-market outcomes do not capture brands' future performance effects and therefore miss total financial impact. At the same time, short and sparse marketing-metric time series often make traditional VAR or distributed-lag IV approaches infeasible for estimating full impact dynamics.",
+  "research_question": "How can researchers estimate the total financial impact of marketing assets, and separate current versus future effects, when marketing time-series data are limited? Applied to brand equity, the paper asks how much customer mindset brand equity affects current profitability versus future financial performance, and whether these dynamics differ across industries."
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces strategic emphasis alignment (similarity versus distinctness in marketing and R&D resource configurations) as a key construct for postmerger value creation.",
+    "Develops and tests a contingency framework showing that the value of similarity versus complementarity depends on merger motive, helping resolve conflicting findings in prior merger research.",
+    "Shows that marketing resources, operationalized via advertising relative to R&D, are linked to shareholder value in M&A contexts across industries."
+  ],
+  "context": "The empirical setting is publicly disclosed U.S. mergers and acquisitions among publicly traded firms in electronics (SIC 36), foods (SIC 20), and chemicals (SIC 28). The study covers 1990-2001 and focuses on investor reactions to merger announcements.",
+  "design_and_data": "The study uses an event-study approach and models portfolio abnormal returns as weighted cumulative abnormal returns to both acquirer and target around announcement dates. The final sample is 206 mergers, reduced from 804 initial deals after applying restrictions on verified announcement dates, CRSP and COMPUSTAT data availability, information leakage checks, and one deal per acquirer-year. Strategic emphasis is measured as (advertising expenditure - R&D expenditure)/total assets in the prior year, and strategic emphasis alignment is operationalized as the absolute acquirer-target difference (with Euclidean distance robustness checks). Merger motive was coded from public reports by three blind coders into pure consolidation, related diversification, or unrelated diversification, and OLS models estimated motive-by-strategic-emphasis interactions with controls.",
+  "focal_constructs": [
+    "strategic emphasis alignment",
+    "strategic emphasis difference",
+    "marketing resources",
+    "R&D resources",
+    "merger motive",
+    "portfolio abnormal returns",
+    "consolidation mergers",
+    "diversification mergers"
+  ],
+  "main_findings": [
+    "In pooled analyses, strategic emphasis difference under a consolidation motive is negative and significant, meaning greater value when acquirer and target are more aligned.",
+    "Strategic emphasis difference under a diversification motive is positive and significant, meaning greater value when acquirer and target are more distinct.",
+    "The consolidation-with-alignment pattern holds in electronics and foods but not chemicals, while the diversification-with-misalignment pattern is significant in all three industries."
+  ],
+  "one_line_summary": "Using an event study of 206 U.S. mergers from 1990 to 2001, the paper shows that strategic emphasis alignment raises announcement value for consolidation motives, whereas strategic emphasis misalignment raises value for diversification motives.",
+  "relation_to_prior_work": "extends resource-based merger research by reframing the similarity-versus-complementarity debate around strategic emphasis alignment in marketing versus R&D resources and by conditioning effects on merger motive. It also transfers Mizik and Jacobson's strategic emphasis idea from an intraorganizational context to an interorganizational M&A context.",
+  "research_gap": "Prior merger studies report conflicting evidence on whether similarity or complementarity between merging firms creates more value. The authors argue that this debate has not been adequately examined through a resource-based lens that jointly considers firms' marketing-versus-R&D resource configurations and merger motive.",
+  "research_question": "How do similarities or differences in acquirer and target strategic emphases in marketing versus R&D affect value creation after M&A announcements? Does this effect depend on the merger motive, specifically consolidation versus diversification?"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is referenced multiple times in the methods section to justify concrete design and inference choices, not just as generic background. Specifically, the authors use Chung and Narayandas (2017) to support geographically separated treatment assignment for reducing spillovers and preserving SUTVA, and to benchmark that field experiments with relatively small salesperson samples can still detect effects with panel data. These uses play a meaningful role in how the citing study frames the credibility of its empirical strategy.",
+  "relation_description": "The citing paper applies Chung and Narayandas (2017) as a methodological precedent for its own field experiment. It draws on that prior study to justify region-level treatment separation and to support the feasibility of identifying treatment effects with a modest salesperson sample in a repeated-measures design.",
+  "relation_type": "applies"
+}

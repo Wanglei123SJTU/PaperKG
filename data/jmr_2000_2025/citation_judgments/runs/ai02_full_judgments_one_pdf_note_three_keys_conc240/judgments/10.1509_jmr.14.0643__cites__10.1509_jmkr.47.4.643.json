@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the body and conclusion, this citation is used to position the paper's methodological contribution rather than as a generic literature list item. The authors explicitly compare their approach with Trusov et al. (2010), noting that although it models individual sender effects, it does not enable inference on dyadic attributes such as network overlap. That stated limitation directly motivates the citing paper's new dyadic hazards specification and contribution claims.",
+  "relation_description": "The citing paper treats Trusov, Bodapati, and Bucklin (2010) as a key prior model on influential users and multi-sender influence, then develops a dyadic proportional-hazards model that relaxes the earlier restrictive sender-effect setup. This refinement is presented as necessary to estimate effects of sender-receiver network overlap on sharing.",
+  "relation_type": "refines"
+}

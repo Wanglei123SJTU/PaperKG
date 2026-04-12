@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper is the first to estimate consumer search cost distributions separately for many geographic markets, using hundreds of isolated local gasoline markets in the United States.",
+    "It extends fixed-sample structural search models by directly incorporating wholesale cost shifters and station-level vertical differentiation when recovering search costs from prices.",
+    "It provides evidence on the underlying source of search costs by linking cross-market variation in estimated search cost distributions to local demographics, especially income."
+  ],
+  "context": "The study is set in highly localized U.S. retail gasoline markets, using stations in California, Florida, New Jersey, and Texas. Markets are defined as geographically isolated station clusters to match local competitive interaction.",
+  "design_and_data": "The authors use station-day regular gasoline prices from OPIS (via msn.gasprices.com) and wholesale spot prices, focusing on a 30-day window (February 27 to March 28, 2007) chosen to minimize wholesale cost variation. They define 367 isolated single-census-tract markets (1,145 stations) and estimate a fixed-sample consumer search model separately for each market after netting out station fixed effects and wholesale costs. They run empirical checks for mixed-strategy pricing (rank reversals, autocorrelation tests, and outside-market price correlation tests). In a second stage, they pool first-stage market-level search-cost points and fit parametric distributions (mainly lognormal) with market demographics from the American Community Survey.",
+  "focal_constructs": [
+    "consumer search costs",
+    "search cost heterogeneity",
+    "price dispersion",
+    "mixed-strategy pricing",
+    "vertical product differentiation",
+    "household income distribution",
+    "retail gasoline competition"
+  ],
+  "main_findings": [
+    "Estimated search cost distributions differ substantially across local gasoline markets, both in mean and variance.",
+    "Across markets, the mean and variance of household income are positively associated with the mean and variance of estimated search costs.",
+    "After controlling for station fixed effects and wholesale costs (and day effects), most price variation is explained, but remaining variation plus supporting tests is broadly consistent with mixed pricing strategies, with caveats due to price ties and mixed test evidence."
+  ],
+  "one_line_summary": "Using daily U.S. gasoline station prices and a structural fixed-sample search model across 367 isolated markets, the paper recovers market-specific search cost distributions and finds large cross-market heterogeneity strongly related to local income distributions.",
+  "relation_to_prior_work": "extends prior structural search-cost estimation by incorporating wholesale cost shifters and estimating separate search cost distributions across many geographic markets rather than a single market. It complements earlier reduced-form gasoline price-dispersion studies by structurally recovering the search cost distributions that rationalize observed prices.",
+  "research_gap": "The paper states that, despite the central role of search costs in theory, there is little evidence on how search costs vary across geographic markets and what drives that heterogeneity. It also notes that prior structural studies typically recover one search cost distribution in a single product or geographic market.",
+  "research_question": "How heterogeneous are consumer search cost distributions across local retail gasoline markets, and to what extent can this heterogeneity be explained by observable market demographics? The paper also asks whether the observed gasoline price dispersion is consistent with mixed-strategy pricing implied by a costly search model."
+}

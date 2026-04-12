@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and tests an evolutionary, domain-specific model in which persuasion effects depend on the specific emotion elicited and the content of the heuristic cue.",
+    "It shows that widely used heuristic appeals can become counterpersuasive under particular emotional states, not just weaker or stronger.",
+    "It distinguishes behavioral versus attitudinal social proof and distinctiveness versus limited-opportunity scarcity, and shows these distinctions matter for persuasion outcomes."
+  ],
+  "context": "The studies examine advertising and product-promotion contexts in which a persuasive message is encountered after emotion-inducing content, such as fear-inducing or romantic media. Stimuli include ads or reviews for a museum, a restaurant, and Las Vegas.",
+  "design_and_data": "Three laboratory experiments with university students were conducted. Experiments 1a (n=154) and 1b (n=157) used a 2 (emotion: fear vs romantic desire) x 3 (heuristic: social proof vs scarcity vs control) between-subjects design, with emotion induced by film clips (1a) or short stories (1b), and outcomes measured with attitude and behavioral-intention scales. Experiment 2 used 468 students (454 analyzed after excluding nonfluent English speakers) in a 3 (fear vs romantic desire vs neutral) x 4 (heuristic type) x 2 (product) mixed design, with heuristic type manipulated within subject and pre-manipulation ad ratings used as a covariate. Separate groups were used for emotion-manipulation checks (n=96) and ad-meaning pretests (n=23).",
+  "focal_constructs": [
+    "fear",
+    "romantic desire",
+    "self-protection motivation",
+    "mate-attraction motivation",
+    "social proof appeals",
+    "scarcity appeals",
+    "counterpersuasion",
+    "evolutionary domain specificity"
+  ],
+  "main_findings": [
+    "Fear increased persuasiveness of social proof appeals but decreased persuasiveness of distinctiveness-based scarcity appeals, with scarcity becoming counterpersuasive relative to control.",
+    "Romantic desire increased persuasiveness of scarcity appeals but decreased persuasiveness of social proof appeals, with social proof becoming counterpersuasive relative to control.",
+    "In Experiment 2, emotion effects were specific to cue content: behavioral social proof and distinctiveness scarcity changed with emotion, whereas attitudinal social proof and limited-opportunity scarcity did not."
+  ],
+  "one_line_summary": "Across three experiments, fear and romantic desire produced opposite effects on social proof and scarcity persuasion cues, and some classic appeals became counterpersuasive depending on the emotion and cue subtype.",
+  "relation_to_prior_work": "challenges general arousal and affective-valence accounts by showing that persuasion effects depend on discrete emotions and the functional content of heuristic cues rather than arousal or valence alone. It positions an evolutionary approach as a complementary framework for predicting when standard heuristics will help versus backfire.",
+  "research_gap": "Prior models in persuasion emphasize general arousal or positive versus negative affect, but the paper argues these approaches do not specify how discrete emotions should interact with particular heuristic contents. The study addresses whether fear and romantic desire can differentially alter, or reverse, the effectiveness of social proof and scarcity appeals.",
+  "research_question": "How do fear-inducing versus romantic contexts influence the effectiveness of common persuasion heuristics in advertising? Specifically, do these emotions differentially affect social proof and scarcity appeals, including cases in which such appeals become counterpersuasive, and do effects depend on cue subtype (behavioral vs attitudinal social proof; distinctiveness vs limited-opportunity scarcity)?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a multiple ideal point model (MIPM) that allows each household or individual to have multiple ideal points, with one activated probabilistically at each purchase occasion.",
+    "It introduces an estimation procedure for internal or external preference analysis using household product-switching matrices from scanner-panel data, with Markov transitions among ideal points and CAIC-based selection of the number of ideal points.",
+    "It provides simulation and empirical evidence to assess whether the model can recover underlying choice structure and yield managerially useful positioning and segmentation insights."
+  ],
+  "context": "The empirical setting is the powdered soft drink category in consumer packaged goods. The application uses Information Resources Inc. household scanner-panel purchases from five U.S. markets (Pittsfield MA, Marion IN, Eau Claire WI, Midland TX, and Rome GA).",
+  "design_and_data": "The authors formulate household choice probabilities as a function of distances from products to potentially multiple ideal points, and model transitions between active ideal points with a first-order Markov matrix (with zero-order as a restricted case). Parameters are estimated by iterative maximum likelihood, alternating household-level ideal point and transition parameters with market-level product locations under homogeneous perceptions and heterogeneous preferences; CAIC is used to choose the number of ideal points per household. They run exploratory full-factorial simulations varying number of consumers, product dimensions, products, purchase string length, and number of ideal points to evaluate parameter recovery. Empirically, they analyze IRI panel data: after screening, 59 households, 5826 choices, seven flavors, purchase strings of 32-307, with 2/3 estimation and 1/3 holdout validation; MIPM is compared with single ideal point and wandering ideal point models using Bayesian cross-validated likelihood.",
+  "focal_constructs": [
+    "multiple ideal points",
+    "ideal point activation probability",
+    "household-level preference heterogeneity",
+    "product-switching matrix",
+    "first-order Markov transitions",
+    "zero-order versus higher-order choice process",
+    "joint-space preference maps",
+    "variety-seeking and situational preferences"
+  ],
+  "main_findings": [
+    "In holdout validation, the MIPM outperformed both comparison models, with total log-likelihood -6498.33 versus -6787.40 for the single ideal point model and -7161.38 for the wandering ideal point model.",
+    "CAIC selected multiple ideal points for most households: 48% were assigned two ideal points and 18% three ideal points, while 34% were assigned one ideal point.",
+    "Transition-order tests showed heterogeneity in dynamics: 63% of households were adequately modeled as zero-order, but 37% exhibited higher-order ideal-point transition behavior."
+  ],
+  "one_line_summary": "The paper develops and validates a household-level multiple ideal point model using scanner-panel switching data and shows that it captures choice behavior better than single-ideal and wandering-ideal alternatives in powdered soft drinks.",
+  "relation_to_prior_work": "extends ideal point modeling by replacing the single invariant preference assumption with a within-household set of latent ideal points that are probabilistically activated (and can follow Markov transitions), while keeping the map-based interpretation used in positioning research.",
+  "research_gap": "Prior ideal point models typically assume a single stable preference, which can be misleading when household choices reflect multiple users, usage occasions, or variety seeking. Existing alternatives either require a priori specification of usage contexts or do not provide household-level, map-based analysis from standard scanner-panel switching data.",
+  "research_question": "Can household choice behavior be represented as switching among multiple latent ideal points rather than a single invariant ideal point? If so, can a model using product-switching matrices recover this structure and improve fit and prediction relative to single ideal point and wandering ideal point models?"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s core method is a Bayesian nonparametric Gaussian-process model estimated with NUTS, and the cited paper introduces a Gaussian-process dynamic heterogeneity framework (also Bayesian/NUTS) in marketing. Given this direct methodological overlap and likely foundational/method-source role, this is not clearly an incidental mention despite only one DOI match in the reference list.",
+  "triage_decision": "keep_for_relation_judgment"
+}

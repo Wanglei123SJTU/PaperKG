@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper provides field-experimental evidence on dynamic retargeting effectiveness outside the focal firm's website.",
+    "It identifies when information-specific ad content works by linking dynamic retargeting performance to observable external browsing signals such as review-site visits and category browsing activity.",
+    "It frames retargeting effectiveness within a multistage consumer decision process and argues that external browsing data can be used to time ad content, not only target audience."
+  ],
+  "context": "The empirical setting is online travel advertising for hotel products. Consumers who viewed specific hotels on a travel firm's website were later retargeted with display ads while browsing external websites in an ad network.",
+  "design_and_data": "The authors study a 21-day field experiment run by an online travel firm and an ad network, where eligible consumers were randomly shown either generic retargeted ads or dynamic retargeted ads on external sites; assignment could vary by day for the same consumer. Dynamic ads displayed previously viewed hotel-related content, while generic ads used brand-level vacation imagery. They analyze consumer-day purchase outcomes with Cox proportional hazard models and discrete-choice robustness checks, controlling for other ad types and cumulative ad exposure. They complement the field evidence with a 2x2 lab experiment (broad vs narrowly construed preferences x generic vs dynamic ad) to test mechanism and rule out alternative explanations.",
+  "focal_constructs": [
+    "dynamic retargeting",
+    "generic retargeting",
+    "information specificity in online ads",
+    "narrowly construed preferences",
+    "review-site visit",
+    "category browsing involvement",
+    "multistage online decision process"
+  ],
+  "main_findings": [
+    "On average, dynamic retargeted ads were less effective than generic retargeted ads at driving purchase.",
+    "Dynamic retargeting became relatively more effective after consumers visited travel review sites, consistent with effectiveness increasing when preferences are more narrowly construed.",
+    "Dynamic retargeting performed best when consumers had visited a review site and were simultaneously browsing category-related travel content, and lab results supported a preference-construal explanation over privacy or reactance explanations."
+  ],
+  "one_line_summary": "Using a randomized field experiment with an online travel advertiser, the paper shows that dynamic retargeted ads underperform generic retargeting on average but work better after browsing signals indicate consumers have narrowed their preferences.",
+  "relation_to_prior_work": "extends prior work on personalized recommendations, tailored communications, and online targeting by examining individual-level personalized ad content on external websites rather than on-site recommendations or segment-level customization. It also extends targeting research from deciding who sees an ad to deciding when specific versus generic retargeted content should be shown across decision stages.",
+  "research_gap": "Prior evidence on personalization largely focused on on-site recommendation systems or segment-level targeting, leaving unclear whether highly specific, individualized content is effective in off-site retargeted display ads. Advertisers also lacked empirical guidance on when dynamic retargeting should be used instead of generic retargeting.",
+  "research_question": "The paper asks whether dynamic retargeting ads that show previously viewed products are more effective than generic retargeting ads in generating purchases. It also asks when dynamic retargeting works, specifically whether its effectiveness depends on consumers' decision stage as reflected in browsing behavior such as review-site visits and category activity."
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops a contract-design model in which consumers are fully sophisticated about both present bias and the future sunk cost effect, and can use sunk costs as a self-commitment device.",
+    "Shows that fixed-fee pricing for investment goods must trade off consumers' demand for flexibility against demand for commitment, generating nonmonotonic implications of sunk cost sensitivity for optimal pricing and profits.",
+    "Compares regret-based and memory-cue-based sunk cost mechanisms and shows they imply different optimal contract outcomes, including when two-part tariffs or refunds can attain first-best profits."
+  ],
+  "context": "The paper studies markets with upfront access fees and later usage decisions, such as health clubs, online courses, and apps. It distinguishes investment goods (where consumers tend to underconsume because of self-control problems) from leisure goods (where overconsumption concerns are salient).",
+  "design_and_data": "The core evidence is a two-period analytical model of a firm and a present-biased consumer with sunk-cost sensitivity, solved under fixed-fee, pay-per-use, two-part tariff, and refund contracts. The baseline sunk cost mechanism is regret disutility from nonconsumption after paying an upfront fee, and closed-form results are derived under a uniform distribution for consumption cost. The paper also analyzes an extension where sunk costs act as a memory cue that shifts consumption likelihood without direct disutility. A pilot survey experiment (186 valid online participants) asks prospective health-club members to forecast attendance at different discounted upfront fees and finds higher expected attendance at higher fees.",
+  "focal_constructs": [
+    "sunk cost effect",
+    "self-control problem",
+    "present bias (time inconsistency)",
+    "commitment device",
+    "fixed-fee contract",
+    "pay-per-use contract",
+    "two-part tariff",
+    "refund policy"
+  ],
+  "main_findings": [
+    "For investment goods under a fixed-fee contract, the optimal fee is nonmonotonic in sunk cost sensitivity for sufficiently mild time inconsistency, but decreases with sunk cost sensitivity when time inconsistency is severe.",
+    "Under fixed-fee pricing, profits can first fall and then rise with sunk cost sensitivity only when marginal cost is low and time inconsistency is not severe; with sufficiently high marginal cost, profits decrease with sunk cost sensitivity.",
+    "Under regret-based sunk costs, increasing sunk cost sensitivity lowers profits under two-part tariffs and refund contracts, whereas under a memory-cue mechanism those contracts can achieve first-best profits."
+  ],
+  "one_line_summary": "The paper shows that anticipated sunk costs can act as a commitment device against present bias, creating contract-design trade-offs that make optimal pricing and profitability depend on both the psychological mechanism of sunk costs and contract form.",
+  "relation_to_prior_work": "extends prior sunk-cost and commitment-demand research by modeling ex ante anticipation of sunk-cost effects and deriving optimal fixed-fee, pay-per-use, two-part tariff, and refund contracts under present bias. It also refines the literature by contrasting regret-based versus memory-cue-based sunk-cost mechanisms and showing that they produce different welfare and profit implications.",
+  "research_gap": "Prior work has largely documented sunk cost effects ex post and proposed mechanisms, but has paid little attention to whether consumers anticipate sunk cost effects ex ante and how that anticipation should change optimal contract design. The paper addresses this gap by linking anticipated sunk-cost behavior to firm pricing choices.",
+  "research_question": "Do consumers anticipate future sunk cost effects when they choose contracts with upfront fees, and can they strategically use those effects to manage self-control problems? Given such consumers, what contract design (fixed fee, pay-per-use, two-part tariff, refund) is optimal for firms and how do profits vary with the magnitude and mechanism of the sunk cost effect?"
+}

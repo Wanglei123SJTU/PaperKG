@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper reconciles conflicting perspectives on monitoring by arguing that effects on opportunism depend on monitoring form (output vs behavior) and relational context.",
+    "It identifies microlevel social contracts as informal governance buffers that shape whether monitoring suppresses or triggers opportunism.",
+    "It provides longitudinal field evidence that formal and informal governance mechanisms are complementary in interfirm relationships."
+  ],
+  "context": "The empirical setting is business-to-business buyer-supplier relationships in the building materials sector (e.g., doors, windows, frames, stairs, roofing products). The focal unit is a supplier's relationship with a downstream buyer.",
+  "design_and_data": "The authors use a two-wave longitudinal field study with a three-year lag between waves. Time 1 measured buyer output monitoring, buyer behavior monitoring, and microlevel social contracts (output and behavior), and Time 2 measured supplier opportunism; opportunism at Time 1 and power-related controls were also included. Data came from a national sample of independent suppliers: 550 eligible firms, 342 Time-1 responses (62%), and 105 matched Time-1/Time-2 cases. Hypotheses were tested with OLS regression including interaction terms between monitoring forms and corresponding social-contract measures.",
+  "focal_constructs": [
+    "output monitoring",
+    "behavior monitoring",
+    "supplier opportunism",
+    "microlevel social contract",
+    "formal governance mechanisms",
+    "informal governance mechanisms",
+    "buyer-supplier relationships"
+  ],
+  "main_findings": [
+    "Buyer output monitoring has a significant negative effect on supplier opportunism, whereas buyer behavior monitoring has a significant positive effect.",
+    "The interaction between behavior monitoring and behavior social contract is significantly negative, such that behavior monitoring increases opportunism under weak social contracts but decreases opportunism under strong social contracts.",
+    "The interaction between output monitoring and output social contract is negative (reported as significant at p < .10), indicating that stronger output social contracts amplify the opportunism-reducing effect of output monitoring."
+  ],
+  "one_line_summary": "In a two-wave three-year study of buyer-supplier relationships, the authors find that output monitoring reduces supplier opportunism, behavior monitoring increases it, and strong microlevel social contracts buffer these effects so monitoring becomes more effective.",
+  "relation_to_prior_work": "extends prior transaction cost and agency accounts, and conflicting reactance-based evidence, by showing that monitoring outcomes are contingent on monitoring form and social-contract context.",
+  "research_gap": "Prior research offered inconsistent claims that monitoring either suppresses or promotes opportunism, and these views had not been reconciled. Empirical work on the effects of different monitoring forms and the contextual role of informal governance was limited.",
+  "research_question": "How does interfirm monitoring affect partner opportunism in buyer-supplier relationships? Specifically, do output and behavior monitoring produce different effects, and does the presence of microlevel social contracts moderate these effects?"
+}

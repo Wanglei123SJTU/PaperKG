@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is a plausible methodological source: the citing study estimates a Bayesian recursive system with Type II Tobit components, while the cited study develops a multivariate random-effects Tobit model estimated via variational Bayes on large panel data. Even though the substantive domains differ (gamified app engagement vs. multimedia advertising), this model-level overlap suggests the citation may be more than a generic mention and warrants full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

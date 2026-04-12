@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a behavior-based pricing model in a spokes framework to study markets with diverse tastes and limited consideration sets.",
+    "Identifies a novel mechanism under which BBP can raise profits: lower second-period poaching prices expand demand from consumers whose first preferred product is unavailable when valuation is low.",
+    "Shows how consumer valuation, taste diversity, and product availability jointly shape BBP profitability and the old-versus-new price gap, and checks robustness to larger consideration sets."
+  ],
+  "context": "The paper studies a horizontally differentiated market where consumers seek N varieties but only n varieties are offered, so some preferred options are unavailable. Motivating categories include services and products such as ridesharing, cleaning services, razors, credit cards, and TV programming, where firms can recognize old versus new customers.",
+  "design_and_data": "This is a theoretical game-theoretic paper with no empirical dataset. The authors build a two-period spokes model: firms set one price in period 1, then in period 2 can set separate prices for old and new consumers, and equilibrium is solved by backward induction. The framework generates three consumer segments: a competitive segment (both considered products available), a monopoly segment with only the first preferred product available, and a monopoly segment with only the second preferred product available. The analysis compares BBP to a no-BBP benchmark and includes extensions for full product availability (N = n) and larger consideration sets (r > 2).",
+  "focal_constructs": [
+    "behavior-based pricing",
+    "consumer valuation",
+    "diversity in consumers' taste",
+    "limited consideration set",
+    "product availability",
+    "old versus new consumer pricing",
+    "competitive and monopoly demand segments",
+    "spokes model"
+  ],
+  "main_findings": [
+    "When consumer valuation is high, BBP lowers competing firms' profits relative to no BBP, but when valuation is low and some desired varieties are unavailable (N > n), BBP can raise profits through market expansion from previously unserved consumers.",
+    "Under BBP, equilibrium prices in both periods increase with taste diversity when valuation is high; with low valuation, both first- and second-period prices can also increase with diversity under the paper's derived condition.",
+    "The old-minus-new price differential increases with taste diversity when valuation is high, but can decrease (with a nonmonotonic overall pattern) when valuation is low, and if all varieties are available (N = n), BBP reduces profits regardless of valuation."
+  ],
+  "one_line_summary": "Using a two-period spokes model, the paper shows that behavior-based pricing can become more profitable than uniform pricing for low-valuation markets with diverse tastes and incomplete product availability.",
+  "relation_to_prior_work": "extends prior BBP theory by moving beyond the common high-valuation, two-product/full-availability setup to a spokes market with limited consideration sets and incomplete availability. It contrasts with classic results that BBP hurts firms by showing a low-valuation market-expansion channel even with stable preferences and unit demand.",
+  "research_gap": "Prior BBP research largely assumes high consumer valuation and settings where consumers consider two products that are both available. The paper addresses the less-studied case of low-valuation markets with diverse tastes and limited consideration sets, where market coverage may be incomplete because preferred varieties are unavailable.",
+  "research_question": "When consumers have diverse tastes and limited consideration sets, under what conditions does behavior-based pricing increase or decrease firms' profits relative to uniform pricing? How do consumer valuation and taste diversity affect equilibrium prices across periods and the price difference charged to old versus new consumers?"
+}

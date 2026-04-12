@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a cheap-talk model of pandemic communication in which a government with private information interacts with a continuum of individuals whose social distancing choices endogenously affect infection risk.",
+    "Characterizes when communication is fully separating, semiseparating, or pooling, and shows that credibility can vary nonmonotonically with differences in possible disease-severity states.",
+    "Shows welfare consequences of communication credibility, including that more credible communication can reduce social welfare, and demonstrates robustness to alternative government objectives and private information about contagiousness."
+  ],
+  "context": "The paper studies government and public-health communication during an infectious-disease outbreak, motivated by COVID-19 and voluntary social distancing compliance. The setting features asymptomatic or presymptomatic transmission, so individuals do not know their own health state when choosing whether to isolate.",
+  "design_and_data": "This is a theoretical game-theory paper with no empirical dataset. The author models a cheap-talk game between a government sender and a continuum of individuals, where infection risk is endogenous to social activity and individuals differ in isolation cost in the main model. The government privately observes either a high or low base infection rate and sends costless, unverifiable messages; equilibria are analyzed using perfect Bayesian equilibrium, including pooling, separating, and semiseparating outcomes. Extensions allow unequal government weighting of isolation versus health costs, private information about disease contagiousness, and heterogeneity in health costs.",
+  "focal_constructs": [
+    "cheap talk communication",
+    "communication credibility",
+    "social distancing",
+    "base infection rate",
+    "incremental infection rate",
+    "pandemic contagiousness",
+    "government misrepresentation incentives",
+    "social welfare"
+  ],
+  "main_findings": [
+    "Equilibrium social distancing rises with contagiousness but is inverted U-shaped in the base infection rate, and aggregate infection can also be inverted U-shaped in contagiousness because behavior is endogenous.",
+    "A fully credible separating equilibrium exists if and only if severity states are sufficiently distinct in prior terms (equivalently, low enough pL or high enough pH), while semiseparating equilibria can exist with or without a separating equilibrium.",
+    "Higher communication credibility does not necessarily improve welfare: pooling can yield higher social welfare than semiseparating or separating outcomes, and the effect of increasing government emphasis on isolation costs on credibility is nonmonotonic."
+  ],
+  "one_line_summary": "The paper develops a cheap-talk model of pandemic messaging and derives when government communication about disease severity is fully credible, partially credible, or uninformative, along with the resulting social distancing and welfare effects.",
+  "relation_to_prior_work": "extends the cheap-talk literature to a pandemic environment where receivers strategically choose social distancing and create infection externalities. It extends De Vericourt, Gurkan, and Wang (2021) by relaxing commitment to information design and allowing strategic misreporting of privately observed pandemic conditions. This produces credibility and welfare results that differ from commitment-based full-disclosure conclusions.",
+  "research_gap": "Prior work on informing the public about pandemics does not fully address credibility when governments can freely and strategically misreport private information without commitment. The paper addresses the unresolved question of when truthful or partially truthful communication can still arise in equilibrium and what that implies for welfare.",
+  "research_question": "When a government privately knows pandemic severity and can send costless, unverifiable messages, under what conditions will communication be truthful, partially truthful, or noninformative? How do these communication equilibria affect voluntary social distancing, infection outcomes, and social welfare when private and social incentives are misaligned?"
+}

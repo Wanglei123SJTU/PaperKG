@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper appears directly relevant to the citing paper’s methodological baseline and prior-work framing: the 2021 paper explicitly discusses latent-attrition/customer-base models with transaction attributes and even reports benchmarking against latent-attrition model variants. The 2015 cited paper is exactly a latent attrition extension with transaction attributes and customer valuation (DERT), so this is plausibly a foundational/comparison source rather than an incidental mention, despite only one matched DOI reference entry.",
+  "triage_decision": "keep_for_relation_judgment"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Identifies personal relevance as a moderator that amplifies duration framing effects in self-improvement decisions.",
+    "Shows that this moderation occurs because personal relevance triggers process-focused (not outcome-focused) mental simulation.",
+    "Establishes frame-induced perceived duration and perceived difficulty as mediators linking duration frames to expected success and adoption-related judgments."
+  ],
+  "context": "The paper studies consumer decisions about sustained self-regulation plans, especially dieting plans framed as one year, 12 months, or 365 days. It also examines a personal finance intertemporal choice task where delayed rewards are framed as one year versus 12 months.",
+  "design_and_data": "The authors report a pretest plus five studies. Study 1 (N=183 students) tests one-year vs 12-month vs 365-day diet frames with measured BMI concern; Study 2a (N=68 students, 3 outliers removed) tests self vs other judgments and BMI concern; Study 2b (N=95 students; exclusions applied) manipulates personal relevance via involvement and measures expertise, difficulty, confidence, and adoption. Study 3 (N=201 MTurk; exclusions applied) measures financial relevance and estimates discount rates from repeated sooner-smaller vs later-larger monetary choices with delay framed as 12 months or one year. Study 4 (N=528 MTurk, 487 complete) uses a 2 x 3 x 2 design (frame x simulation instruction x personal relevance) and measures adoption likelihood, relative duration perception, and perceived difficulty, with mediated-moderation analyses.",
+  "focal_constructs": [
+    "duration framing",
+    "personal relevance",
+    "process simulation",
+    "outcome simulation",
+    "perceived duration",
+    "perceived difficulty",
+    "expected plan success",
+    "intertemporal discount rate"
+  ],
+  "main_findings": [
+    "Duration framing influenced adoption-related judgments primarily when personal relevance was high: participants were less willing to adopt plans framed as longer (e.g., one year vs 12 months, and in pretest/study 1, 365 days felt longest).",
+    "Process simulation was the key mechanism: under high personal relevance the framing effect appeared even without simulation instructions, under low personal relevance it appeared only when process simulation was prompted, and it did not appear under outcome simulation instructions.",
+    "Frame effects operated through perceived duration and perceived difficulty; in personal finance, highly financially concerned participants discounted delayed rewards more when delay was framed as one year than as 12 months."
+  ],
+  "one_line_summary": "Across five studies, the paper shows that equivalent duration frames change perceived duration and difficulty and thus plan adoption or discounting, and these effects are strongest when personal relevance triggers process-focused mental simulation.",
+  "relation_to_prior_work": "extends framing research by holding objective duration constant and showing that equivalent duration expressions shift judgments through perceived duration and difficulty, especially under high personal relevance. It also connects to mental simulation work by showing that personally relevant plans spontaneously induce process-focused simulation, which heightens susceptibility to frame cues.",
+  "research_gap": "Prior work documents unit and numerosity biases in time judgments, but it does not clearly establish when duration framing effects matter for consequential plan judgments when objective duration is fixed. The paper also addresses an unresolved issue about personal relevance: earlier perspectives imply framing should weaken or remain unchanged, while this work tests whether personal relevance can instead amplify framing and why.",
+  "research_question": "Do normatively equivalent duration frames (e.g., one year, 12 months, 365 days) alter consumers' expectations and decisions about sustained self-improvement plans? When does this effect occur, and is it amplified by personal relevance because personal relevance prompts process-focused mental simulation that changes perceived duration and difficulty?"
+}

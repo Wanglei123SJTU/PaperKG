@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper explicitly uses the cited work as a benchmark: its design note says holdout performance is compared against the “Ansari, Essegaier, and Kohli (2000) benchmark,” and findings report improvements over that benchmark. The pair is also topically and methodologically central (both hierarchical Bayes EachMovie recommender models), with an exact DOI match to the 2000 JMRK paper, so this is not an incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Uses Hedgcock and Rao's study as a springboard to propose best-practice guidance for neuroimaging research in marketing.",
+    "Identifies specific methodological risks in fMRI work across research conceptualization, study design, and neural-data interpretation.",
+    "Clarifies the limits of strong explanatory claims about trade-off aversion in attraction-effect data and specifies what future tests should include."
+  ],
+  "context": "The commentary is set in consumer choice research on the attraction effect, where two-item and three-item (decoy) choice sets are compared. It addresses task-based fMRI applications in marketing and consumer-behavior studies.",
+  "design_and_data": "This paper is a commentary, not a new empirical study. It critically evaluates Hedgcock and Rao's fMRI attraction-effect study, including their use of individualized stimuli and region-of-interest interpretations involving the amygdala, ACC, and DLPFC. The authors also use prior behavioral and neuroscience literature to assess construct definitions, control conditions, and inferential validity.",
+  "focal_constructs": [
+    "fMRI in marketing research",
+    "attraction effect",
+    "trade-off aversion",
+    "decoy choice sets",
+    "negative emotion",
+    "task complexity",
+    "region-of-interest interpretation",
+    "causal versus correlational inference"
+  ],
+  "main_findings": [
+    "The discussed evidence indicates that negative emotion may accompany the attraction effect, but it does not by itself establish that emotion causally drives the choice outcome.",
+    "An alternative explanation based on greater cognitive demand in larger choice sets remains plausible given the reported neural pattern (amygdala deactivation with ACC and DLPFC activation).",
+    "The authors conclude that fMRI should be theory-led and paired with rigorous behavioral design, control conditions, and convergent process measures rather than used as a stand-alone explanatory tool."
+  ],
+  "one_line_summary": "This commentary uses Hedgcock and Rao's attraction-effect fMRI study to highlight both the promise of neuroimaging in marketing and the methodological safeguards needed for credible inference.",
+  "relation_to_prior_work": "refines prior neuromarketing and consumer-neuroscience work by challenging overinterpretation of regional brain activations and by specifying stricter design and interpretation standards for fMRI studies.",
+  "research_gap": "The paper argues that marketing's early use of fMRI lacks sufficiently clear guidance on construct definition, experimental controls, and interpretation of neural correlates. It addresses the risk that correlational neural patterns are treated as deep causal explanations without adequate behavioral support.",
+  "research_question": "How should marketing researchers conceptualize constructs, design studies, and interpret neural evidence when using fMRI to study consumer choice phenomena such as the attraction effect? Using Hedgcock and Rao as a case, the paper asks what is required to discriminate between competing explanations such as emotion-based trade-off aversion versus cognitive-demand accounts."
+}

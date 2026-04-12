@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper examines how changes in trademark rights influence marketing assets by affecting trademarking behavior.",
+    "It provides an implicit appropriability-theory test using exogenous variation from U.S. Supreme Court trademark rulings in a natural-experiment framework.",
+    "It shows heterogeneous effects of rights changes across design versus non-design trademarks and multibrand versus single-brand firms."
+  ],
+  "context": "The study is set in the U.S. trademark system and uses U.S. Supreme Court trademark decisions from 1992 to 2019 as legal shocks. It covers trademark owners across industries filing with the U.S. Patent and Trademark Office.",
+  "design_and_data": "The authors use USPTO administrative trademark records and construct brand-level trademark networks by linking marks through the prior-registration field. The sample includes more than 8.9 million U.S. trademarks owned by for-profit organizations, with outcomes measured in 12-month windows before and after court decisions. They code 15 Supreme Court trademark-related cases into rights-strengthening, rights-weakening, and rights-neutral rulings and estimate difference-in-difference models comparing changing-rights cases to neutral cases. Outcomes are the number of trademark applications, classes of goods/services per application, and whether applications enter new classes; models include negative binomial, Tobit, and probit specifications and heterogeneity tests for design trademarks and multibrand ownership.",
+  "focal_constructs": [
+    "trademark rights strength",
+    "brand asset appropriability",
+    "trademark applications",
+    "cross-category trademark extension",
+    "design trademarks (trade dress)",
+    "multibrand brand portfolios",
+    "legal capability"
+  ],
+  "main_findings": [
+    "When Supreme Court decisions strengthen trademark rights, firms increase overall trademark applications and applications that extend protection into other categories/classes.",
+    "When Supreme Court decisions weaken trademark rights, firms generally reduce overall trademark applications and cross-category trademarking activity.",
+    "Trademarking responses are muted for networks with design trademarks (with mixed case-level effects when rights are weakened) and amplified for multibrand firms relative to single-brand firms."
+  ],
+  "one_line_summary": "Using U.S. Supreme Court trademark rulings as exogenous shocks, the study finds that stronger trademark rights increase and weaker rights decrease firms' trademark filings, with weaker responses for design-mark networks and stronger responses for multibrand firms.",
+  "relation_to_prior_work": "extends prior marketing work on trademarks that emphasized litigation signaling and performance consequences by identifying how exogenous shifts in trademark rights affect firms' trademark filing and category-extension behavior.",
+  "research_gap": "The marketing literature has rarely examined how the legal strength of trademark rights affects brand behavior and protection efforts. Existing related research focuses more on trademark lawsuit signaling and performance outcomes than on how exogenous rights changes alter trademark applications.",
+  "research_question": "How do exogenous changes in trademark rights affect firms' trademarking behavior as a way to appropriate and protect brand assets? Specifically, do rights-strengthening versus rights-weakening Supreme Court rulings change overall trademark applications and applications in other product categories, and are these effects conditioned by design-trademark protection and multibrand ownership?"
+}

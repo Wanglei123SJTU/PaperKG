@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Demonstrates that pleasant ambient scent can enhance memory for branded products, including both recall and recognition outcomes.",
+    "Identifies increased attention during brand exposure, captured by longer stimulus viewing time, as the most likely process explaining scent-based memory improvement rather than self-reported mood or arousal changes.",
+    "Shows that scent congruity with product category and scent presence at retrieval are not necessary conditions for the memory benefit, highlighting encoding-stage effects."
+  ],
+  "context": "The studies are set in a consumer learning context using personal care, toiletry, and household cleaning product brands shown as digital package photographs. The broader application context is environmental fragrancing in retail and service settings.",
+  "design_and_data": "The paper reports two laboratory experiments with incidental learning and a 24-hour delay between encoding and retrieval. Study 1 used a 3 x 2 mixed design (ambient scent: congruent geranium, incongruent cloves, or no scent; brand familiarity within subjects) with 90 student participants, who evaluated 34 target brands and later completed free recall and recognition tests against 34 foils. Study 2 used a 2 x 2 x 2 mixed design with 60 students, manipulating scent presence versus absence separately at encoding and retrieval while keeping the same brand memory tasks. Attention was measured unobtrusively as stimulus viewing time, and mood/arousal were measured with the PAD scale.",
+  "focal_constructs": [
+    "ambient scent",
+    "brand recall",
+    "brand recognition",
+    "attention (stimulus viewing time)",
+    "scent congruity",
+    "brand familiarity",
+    "encoding versus retrieval effects",
+    "mood and arousal"
+  ],
+  "main_findings": [
+    "In both studies, pleasant ambient scent at encoding increased stimulus viewing time and improved subsequent brand recall and brand recognition for both familiar and unfamiliar brands.",
+    "In Study 1, congruent and incongruent pleasant scents produced similar memory benefits relative to no scent, indicating no meaningful scent-congruity advantage for brand memory.",
+    "In Study 2, scent at retrieval did not improve memory and there was no encoding x retrieval scent interaction, while mediation tests showed attention partially mediated scent effects on recognition but not recall."
+  ],
+  "one_line_summary": "Across two 24-hour-delay lab experiments, pleasant ambient scent increased attention to product stimuli and improved later brand memory, with effects attributable to encoding-stage attention rather than scent congruity or retrieval-stage scent.",
+  "relation_to_prior_work": "extends prior ambient scent research that emphasized evaluations and decision processes by directly testing branded product recall and recognition after incidental exposure. It also extends the authors' earlier preliminary study by using a more demanding 24-hour delay and by separating scent effects at encoding versus retrieval.",
+  "research_gap": "Prior ambient scent research had focused mostly on product evaluations and decision behavior, leaving limited evidence on whether scent improves brand recall and recognition. The authors also note their earlier pilot found equivocal memory effects under a short delay and did not resolve the roles of scent congruity, encoding versus retrieval, or underlying process mechanisms.",
+  "research_question": "Can pleasant ambient scents enhance consumer memory for branded products? If so, does scent congruity with product category matter, is scent needed at encoding versus retrieval, and are any memory effects better explained by attention rather than mood or arousal mechanisms?"
+}

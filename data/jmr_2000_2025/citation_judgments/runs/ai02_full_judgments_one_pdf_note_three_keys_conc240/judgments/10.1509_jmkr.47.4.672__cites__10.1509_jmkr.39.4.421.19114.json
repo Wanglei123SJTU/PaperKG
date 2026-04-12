@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper explicitly uses Pauwels, Hanssens, and Siddarth (2002) to justify concrete modeling decisions. It states that it follows that study in using static market-share weights (rather than current-period weights) to construct competitive price variables, and it cites the paper as precedent for impulse-response based long-term effect summaries (immediate, permanent, cumulative). This is a functional methodological role, not a passing background mention.",
+  "relation_description": "The citing study applies methodological conventions from the cited paper in its own VARX market-response setup, especially variable construction and dynamic effect interpretation. It transfers these ideas to a broader framework that integrates mind-set metrics with marketing-mix and sales dynamics.",
+  "relation_type": "applies"
+}

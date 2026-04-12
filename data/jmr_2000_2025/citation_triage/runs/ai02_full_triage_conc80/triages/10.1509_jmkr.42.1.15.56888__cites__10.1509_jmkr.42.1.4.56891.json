@@ -1,0 +1,4 @@
+{
+  "rationale": "Keep: the cited paper is directly about econometric requirements for marketing policy simulation and the Lucas critique, which substantially overlaps with the citing paper’s core purpose (diagnosing when Lucas critique applies and how to test stability/super-exogeneity across model classes). The citing note explicitly frames itself as a conceptual synthesis of these diagnostics and policy-invariance issues, making the cited article a plausible methodological/foundational source rather than an incidental mention. The pair is also confirmed by an exact DOI match in the reference metadata.",
+  "triage_decision": "keep_for_relation_judgment"
+}

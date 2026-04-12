@@ -1,0 +1,6 @@
+{
+  "citation_substance": "mention_only",
+  "rationale": "The cited paper is used in grouped background citations to support general claims that selective or balanced sampling can help with rare-event prediction and that bias corrections exist for such sampling. The citing paper does not discuss Donkers et al.'s specific estimation framework, derive methods from it, or test its approach directly. Its own correction procedures for bagging and boosting are presented as adaptations from other sources, so this citation serves mainly as literature context.",
+  "relation_description": null,
+  "relation_type": null
+}

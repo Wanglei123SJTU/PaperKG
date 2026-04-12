@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides quasi-experimental evidence from store openings that online-offline channel effects can be both substitutive and complementary within the same firm.",
+    "Identifies a specific complementarity mechanism: a \"straight billboard\" effect in which offline stores inform consumers about brand existence, increasing online demand.",
+    "Reframes channel interaction as substitutes in distribution but complements in marketing communications, with complementarity concentrated where prior local brand presence is weak."
+  ],
+  "context": "The study examines a U.S. specialty bricks-and-clicks retailer that owns three subbrands selling apparel, shoes, housewares, and accessories through both offline stores and websites. The empirical setting is local U.S. markets defined at the census-tract level around offline store openings.",
+  "design_and_data": "The authors use transaction and browsing data for 42,000 randomly sampled U.S. customers from July 2010 to June 2012, using October 2010 to June 2012 for estimation after a 3-month preperiod. Data are aggregated to brand-tract-month panels (up to 1,201,596 observations) and linked to offline store proximity; there were 88 store openings during the analysis period. They estimate fixed-effects Poisson models with month and brand-tract fixed effects, using difference-in-differences and difference-in-difference-in-differences logic, with controls for direct marketing, competitor openings, and population-time interactions. Identification relies on timing of local openings and assumes no differential unobserved demand trends across tracts with versus without prior brand presence.",
+  "focal_constructs": [
+    "online-offline channel substitution",
+    "online-offline channel complementarity",
+    "offline store openings",
+    "prior local brand presence",
+    "online sales",
+    "online browsing activity",
+    "new customer acquisition",
+    "informative advertising billboard effect"
+  ],
+  "main_findings": [
+    "On average, local offline store openings are associated with a weak increase in online sales and clear increases in total sales and website traffic.",
+    "Effects differ by prior brand presence: openings increase online sales and browsing in tracts without prior presence, but decrease them in tracts with prior presence.",
+    "The post-opening online lift is driven by newly acquired customers and persists for months, with little differential evidence for fit-and-feel products or returns patterns by presence, consistent with a brand-awareness billboard mechanism rather than product-attribute learning."
+  ],
+  "one_line_summary": "Using local store openings as quasi-experiments, the paper shows that offline stores can either cannibalize or boost online sales depending on prior local brand presence, with boosts mainly arising from awareness-driven new customer acquisition.",
+  "relation_to_prior_work": "extends Avery et al. (2012) by providing quasi-experimental within-firm evidence that substitution and complementarity coexist and are moderated by prior local brand presence, and by emphasizing an awareness-focused billboard mechanism relative to product-attribute learning explanations such as Bell, Gallino, and Moreno (2014).",
+  "research_gap": "Prior research largely examined online versus offline competition across firms and therefore emphasized substitution, while evidence on within-firm channel interactions and the mechanism behind complementarities was limited. The paper addresses this by testing when complementarity versus substitution appears and what communication mechanism explains complementarity.",
+  "research_question": "Do offline store openings increase or decrease a retailer's online sales, and under what local conditions does substitution versus complementarity dominate? If complementarity exists, is it driven by marketing communications from store presence (brand awareness) rather than product-attribute information such as fit and feel?"
+}

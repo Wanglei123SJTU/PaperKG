@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "Petrin and Train is cited in the methods section to justify the paper's endogeneity strategy within an MNL/mixed logit choice framework. The citation supports a concrete modeling choice: adding control functions to the utility specification and evaluating their effects in the empirical results. Although the author uses specific implementations from other sources as well, the cited paper is used as the methodological basis for applying control-function logic in this setting.",
+  "relation_description": "The citing paper applies the control-function idea from Petrin and Train (2010) to handle endogeneity in its individual-level choice model for advertising microtargeting. It uses that prior work as methodological support for including control-function terms in the estimated demand system.",
+  "relation_type": "applies"
+}

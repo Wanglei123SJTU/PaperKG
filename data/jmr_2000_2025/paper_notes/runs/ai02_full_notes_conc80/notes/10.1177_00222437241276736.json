@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops a supervised disentanglement method that uses readily available structured product characteristics (e.g., brand, price-related variables) as proxy supervisory signals to discover statistically independent and human-interpretable visual characteristics without ground-truth visual labels.",
+    "It proposes an end-to-end generative visual design pipeline that links discovered visual characteristics to visual conjoint estimation and segment-targeted ideal-point product generation.",
+    "It evaluates alternative supervisory signal combinations and shows that multiple signals can improve disentanglement, while some signal choices can worsen performance."
+  ],
+  "context": "The main application is a watch market dataset with product images matched to structured characteristics and auction outcomes. The method is also tested on a separate sneakers dataset, and US Prolific respondents are used for interpretability checks and visual conjoint tasks.",
+  "design_and_data": "Methodologically, the authors build a supervised variational autoencoder with disentanglement losses (reconstruction, mutual information, total correlation, dimension-wise KL, and supervised prediction loss), and compare supervised and unsupervised variants. The watch data contain 6,187 watches (2,963 unique brand models) auctioned from 2010-2020, with images plus structured attributes such as brand, circa, movement, dimensions, material, and hammer price. Model selection/evaluation uses train-validation-test splits and the unsupervised disentanglement ranking (UDR) metric across multiple random seeds. They additionally run two human validation surveys (n=99 for interpretability, n=300 for quantification) and a choice-based conjoint study (400 recruited, 253 retained) estimated with a hierarchical Bayes model.",
+  "focal_constructs": [
+    "disentangled visual characteristics",
+    "supervised variational autoencoder",
+    "proxy supervisory signals",
+    "unsupervised disentanglement ranking (UDR)",
+    "human interpretability",
+    "visual conjoint analysis",
+    "hierarchical Bayes preference model",
+    "ideal-point visual design"
+  ],
+  "main_findings": [
+    "In the watch application, supervised disentanglement using Brand+Circa+Movement achieved higher UDR (0.414) than the unsupervised approach (0.131).",
+    "The model discovered six informative watch characteristics (dial size, dial color, strap color, rim/bezel color, dial shape, and knob/crown size), and human validation showed high agreement on interpretability (about 86% average) and quantification (about 85% average).",
+    "In conjoint prediction, the hierarchical Bayes model using the six discovered characteristics achieved the highest reported out-of-sample hit rate (71.61%), and generated segment-level ideal-point designs obtained predicted choice shares of 16.5% and 18.1% in counterfactual choice sets."
+  ],
+  "one_line_summary": "The paper introduces a supervised disentanglement approach that uses structured product attributes as proxy signals to automatically recover interpretable visual factors from images and then uses those factors for visual conjoint estimation and generation of segment-targeted ideal-point designs.",
+  "relation_to_prior_work": "extends prior disentanglement research by replacing unavailable ground-truth visual labels with proxy supervision from structured product characteristics, and extends marketing visual design methods that depend on expert-defined attributes by automating visual characteristic discovery, quantification, and generative design.",
+  "research_gap": "The authors argue that existing marketing methods for visual design require experts to manually define and quantify visual characteristics, and they state there is no extant marketing work that automatically does this in a human-interpretable way. They also note that machine learning disentanglement methods typically require ground-truth visual labels, which are usually unavailable in real-world marketing settings.",
+  "research_question": "Can a generative disentanglement model automatically discover and quantify human-interpretable, statistically independent visual characteristics directly from product images when ground-truth visual labels are unavailable? Can readily available structured product characteristics act as proxy supervision to improve disentanglement relative to unsupervised learning? And can the resulting visual factors be used to estimate consumer preferences and generate segment-targeted ideal-point product designs?"
+}

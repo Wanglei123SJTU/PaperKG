@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Demonstrates a robust preference reversal between digital and physical goods across elicitation modes, using preregistered studies, many product categories, and incentive-compatible designs.",
+    "Provides a contingent-weighting explanation in which choice (qualitative) emphasizes the prominent attribute of convenience, while WTP (quantitative) emphasizes compatible quantitative inputs such as market valuation beliefs.",
+    "Shows moderators of the reversal by weakening digital's dominance on the prominent attribute and by making WTP elicitation less compatible with numeric market valuations."
+  ],
+  "context": "The studies examine consumer decisions between digital and physical formats of common products, including movies, music, books, video games, photographs, and a New York Times subscription. Evidence comes from online participant pools in both hypothetical and consequential decision settings.",
+  "design_and_data": "The article reports 10 preregistered experiments and 6 supplemental studies, mostly between-subjects plus one within-subject replication. Participants from MTurk or Prolific either stated maximum WTP for digital and physical versions of the same good or chose between the two versions, with indifference recorded. Stimuli included multiple real goods and one fictitious product (\"skimbles\"). One key study used an incentive-compatible Becker-DeGroot-Marschak mechanism, and later studies measured or manipulated convenience prominence and response-scale compatibility to test mechanism.",
+  "focal_constructs": [
+    "digital versus physical goods",
+    "preference reversals",
+    "willingness to pay",
+    "choice",
+    "contingent weighting",
+    "prominence effect",
+    "convenience",
+    "market valuation beliefs"
+  ],
+  "main_findings": [
+    "Across goods, consumers were more likely to prefer physical formats in WTP, but preferred digital formats relatively more in choice, with many full reversals.",
+    "Convenience emerged as the prominent attribute in digital-physical decisions and was generally seen as favoring digital formats; when this convenience advantage was reduced, the WTP-choice reversal attenuated.",
+    "Market valuation cues (e.g., estimated retail prices and beliefs about others' valuations) were more tied to WTP than to choice, and using a less numerically compatible WTP scale reduced the physical-format advantage."
+  ],
+  "one_line_summary": "The paper shows that consumers often price physical goods higher than digital ones in WTP but shift toward digital goods in direct choice because elicitation mode changes which attributes are weighted.",
+  "relation_to_prior_work": "extends prior work showing higher WTP for physical than digital goods by demonstrating that this ordering is elicitation-dependent and by connecting the shift to classic contingent-weighting and compatibility accounts of preference reversals.",
+  "research_gap": "Prior research established a physical-good premium in WTP for digital-physical equivalents, but it was unclear whether this preference generalizes to choice, the dominant marketplace response mode. The paper addresses this unresolved procedure-invariance question and the mechanism behind any divergence.",
+  "research_question": "Do preferences between digital and physical versions of the same product change when preference is elicited as WTP versus direct choice? If preferences diverge, can contingent weighting explain the divergence through greater reliance on convenience in choice and market valuation cues in WTP?"
+}

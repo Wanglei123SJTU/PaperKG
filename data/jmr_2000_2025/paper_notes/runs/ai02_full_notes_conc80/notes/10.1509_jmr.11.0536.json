@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces and estimates a dynamic Bayesian model of store price image formation in which category prices act as noisy signals and signal precision depends on category characteristics.",
+    "It provides field-based evidence from a unique matched data set that combines household shopping trips and purchases with repeated store price perception measures over time.",
+    "It compares category-level SPI learning drivers across traditional supermarkets and hard discounters, and documents household heterogeneity and the managerial relevance of \"Lighthouse\" categories."
+  ],
+  "context": "The study is set in Dutch grocery retailing (2002-2005), covering major chains in two formats: traditional supermarkets and hard discounters. The period includes an extended price-war environment with substantial category-level price variation.",
+  "design_and_data": "The authors combine GfK scanner panel data and SPI survey data for the same households over four years. The data include weekly store visits and purchases across 18 grocery chains, weekly chain-level prices for 49 product categories (plus feature information), and semiannual ordinal ratings of visited stores' overall price level across nine survey waves. They estimate a dynamic Bayesian learning model in which households update latent SPI beliefs after store visits using category price signals, and map latent SPI to observed survey ratings through an ordered probit layer. Category signal precision is modeled as a function of category and household characteristics, with separate estimation by store format and household-level random heterogeneity.",
+  "focal_constructs": [
+    "store price image (SPI)",
+    "category prices",
+    "Bayesian belief updating",
+    "category price signal precision",
+    "category characteristics",
+    "feature support",
+    "store format differences",
+    "Lighthouse categories"
+  ],
+  "main_findings": [
+    "Category prices do not contribute equally to SPI formation: expensive \"big-ticket\" categories with narrower price ranges are stronger signals, while categories with deeper promotions are weaker signals of overall store expensiveness.",
+    "For traditional supermarkets, SPI learning is stronger for storable categories, categories bought in larger quantities, and categories with higher quality differentiation, while frequently purchased categories do not have stronger impact.",
+    "For hard discounters, SPI is shaped more by frequently purchased categories; categories' SPI signaling power is not proportional to their share of wallet, enabling identification of low-share \"Lighthouse\" categories that can improve price image with lower revenue risk."
+  ],
+  "one_line_summary": "Using matched Dutch scanner and perception panel data, the paper estimates a dynamic Bayesian model that identifies which category prices most shape store price image over time across supermarket and hard-discount formats.",
+  "relation_to_prior_work": "extends prior conceptual and experimental SPI research by providing dynamic, real-world evidence on how category prices update store price beliefs and by testing category-level moderators across store formats.",
+  "research_gap": "Existing SPI studies had mostly conceptual or experimental evidence on category effects, making it difficult to observe dynamic SPI formation in natural shopping environments. Field evidence on how category prices and category characteristics jointly drive SPI updates over time was limited.",
+  "research_question": "How do consumers dynamically update beliefs about a store's overall expensiveness based on category prices encountered during shopping? Which category characteristics make category prices more or less influential in SPI formation, and how do these effects differ between traditional supermarkets and hard discounters?"
+}

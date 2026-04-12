@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Integrates bidding for search-ad positions with downstream product price competition in one game-theoretic framework, rather than treating ad-slot value as exogenous.",
+    "Introduces an endogenous valuation view of position value and advertisers' willingness to pay that depends on firm asymmetry and consumer search behavior.",
+    "Derives a two-dimensional price-dispersion pattern in search advertising, with within-position price variation and across-position expected price differences."
+  ],
+  "context": "The paper studies sponsored search advertising, where firms compete for a prominent versus less prominent ad position on search engine results pages. Consumers are modeled as ordered searchers in an online market, with some comparing multiple positions and others stopping earlier.",
+  "design_and_data": "The core analysis is theoretical: a two-stage complete-information game in which two firms with different marginal costs bid for ad positions and then compete in prices to sell a product to a continuum of consumers. The auction is score-based and second-price-like (winner pays per click based on the rival's score), and the pricing stage is solved as a mixed-strategy equilibrium. The authors derive closed-form results and comparative statics in a baseline model, then extend to endogenous search ordering, endogenous sequential search, external information channels, heterogeneous consumer preferences, and a three-firm setting. They also provide supportive descriptive observations from tracked Google sponsored rankings and online price snapshots, but no causal empirical estimation is the main design.",
+  "focal_constructs": [
+    "endogenous valuation of ad positions",
+    "search advertising position prominence",
+    "bidding incentives and willingness to pay",
+    "asymmetric firm competence (marginal cost differences)",
+    "shopper versus nonshopper search behavior",
+    "mixed-strategy price competition",
+    "two-dimensional price dispersion"
+  ],
+  "main_findings": [
+    "A prominent ad position is always more profitable for the disadvantaged (high-cost) firm, but can be less profitable than a lower position for the advantaged (low-cost) firm in a nontrivial parameter region, even if the prominent position is cost-free.",
+    "The bidding outcome need not align with competitive strength: the disadvantaged firm can outbid and win the prominent position when both cost asymmetry and prominence difference are relatively small.",
+    "Equilibrium exhibits two-dimensional price dispersion, and the expected price at the prominent position is not always higher; when the advantaged firm wins and cost advantage is strong enough, the prominent-position expected price can be lower."
+  ],
+  "one_line_summary": "The paper develops a game-theoretic model of search-ad slot auctions and downstream pricing to show that slot value is endogenous, weaker firms can win top positions, and prominent slots do not always imply higher expected prices.",
+  "relation_to_prior_work": "extends position-auction work that assumes fixed per-click valuations by making slot value depend on equilibrium product-market pricing and conversion. It also extends price-advertising/search-pricing models by incorporating exclusive prominence-ranked location allocation and asymmetric competitors, which generates asymmetric bidding and pricing outcomes.",
+  "research_gap": "Prior search-ad auction studies typically assume exogenous, fixed per-click values, so they do not capture how slot value depends on downstream price competition. Existing price-advertising models also focus largely on symmetric competition or exogenous market segmentation and do not explicitly model exclusive prominence-based position allocation under asymmetry.",
+  "research_question": "How should the value of a prominent search advertising position be assessed when firms first compete for positions and then compete in product prices? Under asymmetric firm competence and ordered online search behavior, what bidding allocation and price-dispersion outcomes arise?"
+}

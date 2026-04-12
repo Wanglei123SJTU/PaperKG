@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper's key contribution is to focus on how consumer price knowledge alters firm behavior, specifically sellers' initial quote-setting behavior.",
+    "It uses a scripted field experiment to isolate the seller-response component of price determination rather than estimating equilibrium transaction prices.",
+    "It documents that the interaction between information signals and gender matters: gender differences appear when callers signal no price knowledge but disappear when callers cite benchmark prices."
+  ],
+  "context": "The setting is U.S. auto repair pricing for radiator replacement on a 6-cylinder 2003 Toyota Camry LE. Calls were made to non-dealership repair shops across major designated market areas, with a later extension to smaller DMAs.",
+  "design_and_data": "The authors ran a randomized field experiment with AutoMD's call center (9 agents: 4 male, 5 female) over 16 weeks in 2012 using fixed scripts. In experiment 1, callers were randomly assigned to uninformed, informed ($365 benchmark), or misinformed ($510 benchmark) scripts, and caller gender was randomized; if quotes exceeded the benchmark, callers asked for a match. They collected 4,603 quotes from 2,778 shops (1,825 shops were called twice under different conditions, typically with at least 4 weeks between calls). Experiment 2 added a downward-biased $310 condition plus an uninformed control in smaller DMAs, yielding 1,941 additional quotes.",
+  "focal_constructs": [
+    "consumer price knowledge",
+    "benchmark prices",
+    "initial price quotes",
+    "price concessions",
+    "gender differences",
+    "reservation prices",
+    "search costs",
+    "statistical discrimination"
+  ],
+  "main_findings": [
+    "Callers who cited a high benchmark price ($510) received significantly higher initial quotes than callers in the informed ($365) or uninformed conditions (about $24-$35 higher, depending on specification).",
+    "Women were quoted higher prices than men when callers said they were uninformed, but gender differences disappeared when callers cited either the correct or the high benchmark price.",
+    "Only about 26% of concession requests succeeded in experiment 1; women were about 11 percentage points more likely than men to obtain a concession, while conditional concession size did not differ by gender; in experiment 2, citing a low benchmark ($310) did not significantly lower initial quotes versus uninformed."
+  ],
+  "one_line_summary": "A large-scale field experiment in auto repair shows that sellers raise quotes when callers reveal high benchmark prices and that gender price gaps emerge mainly when callers signal no price knowledge.",
+  "relation_to_prior_work": "extends prior negotiation, reference-price, consumer search, and discrimination research by isolating seller-side quote responses to perceived buyer information in a field setting. Unlike work focused on final negotiated outcomes, this paper holds buyer behavior largely fixed to identify how initial offers vary with information and gender signals.",
+  "research_gap": "The authors argue that existing price-dispersion and many bargaining models often treat a seller's offered price as not buyer-specific, and prior negotiation/reference-price studies typically emphasize overall negotiated outcomes rather than the seller's initial response. The paper addresses this by directly testing whether sellers differentiate initial quotes based on buyers' apparent price knowledge and how this interacts with gender.",
+  "research_question": "Do sellers change initial auto-repair price quotes based on how informed consumers appear to be about market prices? Does this response differ by caller gender, and what happens to quotes when consumers use benchmark prices to request concessions?"
+}

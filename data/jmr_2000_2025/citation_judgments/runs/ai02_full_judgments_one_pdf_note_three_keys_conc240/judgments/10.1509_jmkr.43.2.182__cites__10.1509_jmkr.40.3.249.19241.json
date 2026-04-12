@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Bucklin and Sismeiro (2003) as its closest prior work, explicitly stating it is the only study with direct relevance and summarizing its clickstream model in detail. It then positions its own contribution against that baseline by broadening from one site to 50 sites and adding demographics and site-design variables in a different heterogeneity framework. The cited paper also informs specific operational choices (cumulative prior visits and log transformation) and interpretation of repeat-visit learning effects. This is a meaningful build-on role, not a passing background mention.",
+  "relation_description": "The 2006 study extends Bucklin and Sismeiro (2003) by taking the web-duration/browsing line of research from a single-site clickstream setting to a cross-domain panel setting with demographics and site-content features. It preserves core behavioral concerns (duration, repeat visitation dynamics) while expanding scope and model structure.",
+  "relation_type": "extends"
+}

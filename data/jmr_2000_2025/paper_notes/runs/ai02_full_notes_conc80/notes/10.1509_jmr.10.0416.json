@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "First empirical evidence on the mechanisms underlying the dynamics of individual activity consumption over time.",
+    "First empirical study to jointly track weekly time use, consumption motives, and expertise evolution in a consumer panel.",
+    "A unified dynamic framework linking expertise, consumption benefits, activity value, and time allocation, including expertise spillovers."
+  ],
+  "context": "The study is set in U.S. leisure activity consumption, focusing on arts and crafts, running/jogging, video games, workout, water sports, and an outside category of other leisure activities. The substantive domain is discretionary weekly time allocation across activities.",
+  "design_and_data": "The authors use a 20-week longitudinal panel (January-June 2011) of U.S. consumers recruited from Amazon Mechanical Turk. Of 428 sign-ups, 287 respondents who completed at least 12 weekly surveys were retained. Each week, respondents reported time use, hedonic/social/self-efficacy motives, expertise, exploration, friends/family liking, and estimated hourly monetary cost for each focal activity. Empirically, the paper estimates a dynamic multiple discrete-continuous (Kuhn-Tucker/MDCEV-style) time allocation model with random effects, lagged state dependence, expertise spillovers, AR(1) errors, and a control-function correction for monetary cost endogeneity, plus linked equations for motives and expertise evolution.",
+  "focal_constructs": [
+    "leisure time allocation",
+    "activity consumption",
+    "consumer expertise",
+    "hedonic benefit",
+    "social benefit",
+    "self-efficacy benefit",
+    "expertise spillovers",
+    "state dependence"
+  ],
+  "main_findings": [
+    "Expertise in the focal activity has a significant positive direct effect on consumption utility for all five focal activities, with several significant cross-activity spillovers.",
+    "Expertise significantly increases hedonic, social, and self-efficacy benefits across all activities, and these benefits are significant drivers of activity utility.",
+    "Current expertise is positively driven by both lagged expertise and lagged time use, supporting a recursive loop from expertise to value to time use and back to expertise."
+  ],
+  "one_line_summary": "Using a 20-week U.S. panel and a dynamic multiple discrete-continuous model, the paper shows that expertise both raises activity value (directly and via motives) and is built by past participation, creating persistent specialization in leisure time use.",
+  "relation_to_prior_work": "extends prior qualitative lifestyle research and mostly cross-sectional or short-panel time-use studies by modeling within-individual dynamics of leisure activity portfolios and incorporating internal drivers such as motives and expertise.",
+  "research_gap": "The paper states that quantitative empirical research is limited on why and how individuals allocate time to a portfolio of activities over time. Existing panel time-use studies are described as scarce and as largely omitting internal drivers like motives and expertise.",
+  "research_question": "How do consumers dynamically allocate weekly leisure time across multiple activities? In particular, does expertise shape activity value directly and indirectly through hedonic, social, and self-efficacy benefits, and is expertise itself accumulated through past activity consumption?"
+}

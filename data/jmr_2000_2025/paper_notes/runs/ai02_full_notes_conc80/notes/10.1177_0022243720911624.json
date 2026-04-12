@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper applies embodied cognition and cognitive appraisal theories to handheld scanner use across the full shopping trip and links this use to actual retail sales outcomes.",
+    "It introduces a serial mediation account that combines cognitive and affective mechanisms, supported with behavioral measures (eye-tracked shelf attention, product touch) and attitudinal measures (perceived control, shopping enjoyment).",
+    "It identifies outcome and boundary specifics: scanner use shifts purchases toward unplanned, healthier, and more impulsive items, and its sales effect depends on whether shoppers have a financial budget."
+  ],
+  "context": "The core empirical setting is grocery retail, primarily Swedish supermarkets and hypermarkets where customer handheld scanners were already in use. Additional evidence comes from online virtual grocery shopping simulations with MTurk participants.",
+  "design_and_data": "Study 1 used field eye-tracking data from four Swedish grocery stores (2013; usable n = 294), matched with receipts, shopping lists, and surveys, with self-selected scanner use. Study 2 replicated in four other stores from one chain (2017; n = 597) using updated eye-tracking, matched receipts, and preshopping planned-spend inputs, plus coded planned/unplanned purchases and basket-type analyses. Study 3 was a randomized field experiment in another grocery store (n = 81) assigning shoppers to scanner versus no-scanner conditions and matching receipts. Studies 4a (n = 272) and 4b (n = 874) were MTurk virtual-store experiments measuring perceived control and shopping enjoyment and testing budget versus no-budget moderation.",
+  "focal_constructs": [
+    "handheld scanner use",
+    "retail sales",
+    "shelf attention",
+    "perceived control",
+    "product touch",
+    "shopping enjoyment",
+    "financial budget",
+    "planned versus unplanned purchases"
+  ],
+  "main_findings": [
+    "Handheld scanner use increased sales in both eye-tracking field studies and in a randomized field experiment, and scanner users also spent more time in aisles and visited more categories.",
+    "Serial mediation evidence supported the proposed process: scanner use increased cognitive processes (shelf attention or perceived control), which increased affective experiences (product touch or shopping enjoyment), which then increased sales.",
+    "Scanner users bought relatively more unplanned items and fewer planned items, with baskets containing more healthy and impulsive products; the positive sales effect appeared for budget-constrained shoppers but reversed for shoppers without a budget."
+  ],
+  "one_line_summary": "Across three field studies and two experiments, handheld scanner use in grocery shopping generally increased sales via cognitive and affective pathways, but this effect reversed for shoppers without a budget.",
+  "relation_to_prior_work": "extends prior self-service technology research by moving beyond usage intentions to actual sales effects of consumer handheld scanner use in field settings. It also extends scanner and smart-cart work by modeling linked cognitive and affective mechanisms and by showing a budget-based boundary condition for sales outcomes.",
+  "research_gap": "Prior SST research on scanners and related technologies focused largely on adoption intentions and functional cognitive factors, with limited evidence on actual sales outcomes. The direction of handheld scanner effects on spending was mixed in practice, and prior work gave little behavioral-process evidence and limited treatment of budget-related boundary conditions alongside affective mechanisms.",
+  "research_question": "Do consumer handheld scanners in grocery stores increase or decrease sales, including planned and unplanned purchases? Through which mechanisms - cognitive (shelf attention, perceived control) and affective (product touch, shopping enjoyment) - do any sales effects operate, and does having a financial budget moderate these effects?"
+}

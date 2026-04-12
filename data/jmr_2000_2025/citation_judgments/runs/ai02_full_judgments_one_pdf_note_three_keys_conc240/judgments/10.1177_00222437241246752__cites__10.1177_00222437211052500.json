@@ -1,0 +1,6 @@
+{
+  "citation_substance": "mention_only",
+  "rationale": "In the citing paper, Chakraborty, Kim, and Sudir (2022) appears only in the literature review as a parenthetical example of recent sentiment-classification work using convolutional LSTM. The citation is not used to build the proposed Ising-prior segmentation model, define key assumptions, motivate hypotheses, or provide a benchmark comparison. It functions as general background context within a list of prior text-analysis methods.",
+  "relation_description": null,
+  "relation_type": null
+}

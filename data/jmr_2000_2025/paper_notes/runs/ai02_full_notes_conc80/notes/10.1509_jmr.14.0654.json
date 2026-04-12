@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides a systematic test of whether, when, and why mandatory political ad endorsements affect persuasion.",
+    "It proposes and evaluates seven candidate mechanisms, finding support for regulation legitimation and implicit-promise accounts rather than confusion-based explanations.",
+    "It offers an account that organizes mixed prior findings on SBYA and draws policy implications for communication regulation reform."
+  ],
+  "context": "The paper examines U.S. federal campaign advertising under the 2002 Bipartisan Campaign Reform Act's Stand by Your Ad (SBYA) requirement that candidates state \"My name is ..., and I approve this message.\" The substantive focus is voter responses to positive versus negative ads, especially policy-focused versus character-focused attacks.",
+  "design_and_data": "Study 1 (N = 404 undergraduates) used eight real TV Senate ads (Democratic and Republican; policy/character x attack/positive), experimentally retaining or digitally removing end-of-ad SBYA taglines, and measured ad and candidate evaluations. Study 2 (N = 338; undergraduates and MTurk) used controlled written transcripts for fictitious candidates, varying tone/content and SBYA presence across two ads per participant. Study 3 (N = 639; two university pools and MTurk) used four real 2008 U.S. House policy attack ads, manipulated SBYA presence and whether participants were told the FEC did not verify ad claims, and measured explicit SBYA theories and awareness. Study 4 (N = 565; university pool and MTurk) used audio versions of six real policy attack ads (plus two positive fillers) and manipulated tagline type (SBYA/placebo/none), speaker (candidate vs narrator), and which taglines were described as regulation-compliant.",
+  "focal_constructs": [
+    "Stand by Your Ad endorsements",
+    "policy-focused attack ads",
+    "character-focused attack ads",
+    "political ad credibility",
+    "candidate evaluations",
+    "regulation legitimation",
+    "implicit promise of truthfulness",
+    "recipient skepticism"
+  ],
+  "main_findings": [
+    "Mandatory SBYA endorsements increased the perceived credibility/legitimacy of policy-focused attack ads, and this carried forward to more favorable evaluations of sponsoring candidates.",
+    "SBYA did not show a consistent credibility boost for positive ads or character-focused attack ads across the studies.",
+    "The boost was not explained by confusion that endorsements were voluntary or that regulators verified ad content, operated largely outside participants' awareness, and was driven by regulation-linked legitimation plus the candidate-delivered \"I approve this message\" implicit promise."
+  ],
+  "one_line_summary": "Across four experiments, mandatory Stand by Your Ad endorsements made policy-focused attack ads more believable and persuasive by conferring regulatory legitimacy and an implicit promise of truthfulness.",
+  "relation_to_prior_work": "extends prior SBYA and disclosure research by identifying boundary conditions and mechanisms for how mandatory endorsements change recipients' evaluations rather than message content itself. It also explains apparently inconsistent earlier findings by showing that effects are concentrated in policy-focused attack ads.",
+  "research_gap": "Prior SBYA studies reported conflicting results (enhancing, reducing, or no effect) and did not provide a systematic account of when mandatory endorsements change ad effectiveness. The psychological mechanism behind any effect was also unresolved.",
+  "research_question": "Do mandatory candidate endorsements in political ads (SBYA) change how recipients evaluate ad credibility and sponsoring candidates? If so, for which ad types do effects emerge, and what psychological mechanisms in the tagline produce those effects?"
+}

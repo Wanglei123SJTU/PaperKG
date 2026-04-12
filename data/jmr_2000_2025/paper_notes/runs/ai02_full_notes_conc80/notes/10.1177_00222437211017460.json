@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper decomposes alcohol consumption into drinking frequency and drinking intensity using consumer-level reported consumption data rather than purchase-based or aggregate measures.",
+    "It develops and estimates a structural utility-maximization model in which consumers jointly choose how often to drink and how much to consume per episode, with local unemployment affecting drinking decisions.",
+    "It documents segment-level heterogeneity and uses structural counterfactuals to evaluate alcohol-tax policy effectiveness for vulnerable groups during recessions."
+  ],
+  "context": "The study examines U.S. beer consumption, the largest alcohol category and a major source of binge drinking, across counties from 2003 to 2007. It links consumer drinking behavior to local unemployment conditions and public-health policy over business cycles.",
+  "design_and_data": "The authors use quarterly survey-based consumer-level panel data from Research International, where respondents report daily beer consumption for the prior week, including brand, size, and number consumed (on- and off-premise). After excluding consumers under age 25, the sample includes 27,675 respondents and 90,498 observations, matched to county-level unemployment rates from BLS, state-level beer prices plus taxes, and county liquor-store density. They estimate a structural random-effects model in which consumers choose weekly drinking frequency and per-episode intensity jointly, with a setup cost and an unemployment-linked threshold for initiating drinking. They then run counterfactual simulations of beer-tax increases under recession scenarios.",
+  "focal_constructs": [
+    "business cycle conditions",
+    "local unemployment rate",
+    "drinking frequency",
+    "drinking intensity",
+    "total alcohol consumption",
+    "consumer heterogeneity",
+    "intensive drinking",
+    "alcohol tax policy"
+  ],
+  "main_findings": [
+    "Higher local unemployment is associated with lower drinking frequency and higher drinking intensity, and the frequency decline dominates on average so total beer consumption is procyclical.",
+    "Behavioral responses are heterogeneous: about 48% of drinkers do not reduce total consumption in downturns, and low-income (first and second income deciles) and age 61+ consumers are predicted to be vulnerable through increased intensive drinking.",
+    "In counterfactuals, increasing beer taxes by about $0.04-$0.06 per 12 ounces can nullify recession-related increases in intensity and intensive drinking among low-income and elderly consumers."
+  ],
+  "one_line_summary": "Using U.S. consumer-level beer consumption panel data and a structural model, the paper finds that unemployment lowers drinking frequency but raises per-episode intensity, with overall beer consumption procyclical and strong heterogeneity relevant for tax policy.",
+  "relation_to_prior_work": "extends prior alcohol-and-business-cycle research by moving beyond reduced-form analyses of total consumption to a structural decomposition of frequency and intensity. It also brings a consumer-level heterogeneity perspective to policy evaluation using detailed consumption, not purchase, panel data.",
+  "research_gap": "Prior studies provide mixed evidence on whether drinking is procyclical and often focus on total alcohol consumption in reduced-form frameworks using self-reported survey measures. The authors argue this misses policy-relevant distinctions between drinking frequency and intensity and provides limited segment-level evidence on heterogeneous responses.",
+  "research_question": "How does alcohol consumption over business cycles change when total consumption is decomposed into drinking frequency and per-episode intensity? How do these responses differ across consumer segments, and can alcohol tax policy offset recession-related increases in intensive drinking among vulnerable groups?"
+}

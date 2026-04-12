@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Shows, as a first test in this stream, how a romantic partner's unsustainable behavior affects the other partner's sustainability-relevant behavior.",
+    "Extends consumer behavior in relationships from joint dyadic decisions to sequential decisions, and shows that relationship power can increase (rather than reduce) susceptibility to partner influence in this context.",
+    "Identifies and tests a couple-level identity mechanism: perceived responsibility to reconstruct couple sustainable identity and desire to signal a positive couple identity."
+  ],
+  "context": "The paper studies sustainable consumption in romantic relationships, focusing on married or committed partners who observe each other's daily unsustainable behaviors. Empirical settings include online samples of married participants, a couple-based field product-choice study, and a Facebook wedding-planning ad context.",
+  "design_and_data": "Study 1 (N=391 married Prolific participants) manipulated exposure to partner vs neighbor unsustainable behavior vs control and measured relationship power. Study 2a (N=360 married Prolific) manipulated relationship power and partner unsustainable behavior; Study 2b preregistered (N=701 married MTurk via CloudResearch) measured relationship power and used incentive-compatible donations, with counterbalanced mediator and DV order. Study 3 was a field study with 98 couples (196 participants) where one partner made a real sustainable vs unsustainable product choice and the other partner then made a different sustainability choice. Study 4 was a Facebook Ads A/B field experiment targeting engaged users interested in weddings, comparing a partner-unsustainable-behavior ad with a control ad, using ad clicks as the outcome and gender as a proxy for relationship power in that context.",
+  "focal_constructs": [
+    "relationship power",
+    "partner unsustainable behavior",
+    "sustainable behavior",
+    "couple sustainable identity",
+    "perceived responsibility for reconstructing couple identity",
+    "positive couple identity signaling",
+    "green identity strength"
+  ],
+  "main_findings": [
+    "High-relationship-power individuals increased sustainable behavior after exposure to a partner's unsustainable behavior relative to baseline/control, while low-relationship-power individuals did not show this increase.",
+    "The effect was specific to the romantic partner context: high-relationship-power participants did not similarly increase sustainability after exposure to a neighbor's unsustainable behavior.",
+    "The effect was explained by a serial process in which partner unsustainable behavior increased perceived responsibility to reconstruct couple sustainable identity, which increased desire to signal a positive couple identity; this pattern was attenuated among high-relationship-power individuals with weak green identity."
+  ],
+  "one_line_summary": "Across multiple studies, the paper finds that only high-relationship-power consumers compensate for a partner's unsustainable behavior by becoming more sustainable, because they feel responsible for restoring and signaling a positive couple sustainable identity.",
+  "relation_to_prior_work": "extends prior social-influence work on sustainability from strangers, neighbors, and other social groups to romantic partners, and shows a distinct compensation pattern in this dyadic context. It also refines power research by distinguishing relationship power from individual state power, showing that higher relationship power can increase partner-driven influence in sustainability decisions. Finally, it introduces a couple-identity signaling account beyond individual-level identity signaling.",
+  "research_gap": "Prior research on sustainability social influence had mainly examined socially distant others (e.g., neighbors, strangers, in-group/out-group members) and had not examined romantic partners. The paper argues this omits a critical context where shared resources, interdependence, and relationship power may change how people respond to others' unsustainable behavior.",
+  "research_question": "How does observing a romantic partner's unsustainable behavior influence one's own sustainable behavior? Does relationship power determine whether consumers compensate for that behavior, and is this driven by responsibility to reconstruct couple sustainable identity and a desire to signal a positive couple identity?"
+}

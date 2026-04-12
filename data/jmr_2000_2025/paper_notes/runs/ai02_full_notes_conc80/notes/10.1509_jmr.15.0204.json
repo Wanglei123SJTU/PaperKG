@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides empirical evidence in the Airbnb-versus-hotels debate by estimating the effect of Airbnb entry on incumbent hotel revenue in Texas.",
+    "Applies a difference-in-differences strategy with granular hotel and Airbnb data, multiple supply measures, and extensive robustness checks to support causal interpretation.",
+    "Shows that Airbnb's impact is heterogeneous across hotel segments and links part of the effect to Airbnb's flexible, scalable supply during peak-demand periods."
+  ],
+  "context": "The paper studies short-term accommodation competition in Texas, using city-level variation in Airbnb adoption from 2008 onward against an established hotel market observed since 2003. It pays particular attention to Austin (including SXSW) and, for peak-demand comparisons, Dallas (Texas State Fair).",
+  "design_and_data": "The authors combine monthly Texas hotel room revenue tax records (2003-August 2014) with STR hotel census data, producing a matched panel of 3,619 hotels, plus an STR subset of 2,584 hotels with occupancy and ADR data. They collect Airbnb platform data for Texas (10,555 hosts and 13,395 listings, January 2008-August 2014) and construct both cumulative and instantaneous supply proxies from membership and review histories. The core design is a hotel-level difference-in-differences panel regression with hotel and time fixed effects, city-month effects, and city-specific trends, plus controls for hotel supply/capacity/quality, air passengers, wages, unemployment, and population. Robustness analyses include identification checks, distance-based competition measures, alternative Airbnb supply functional forms, and DD combined with coarsened exact matching.",
+  "focal_constructs": [
+    "sharing economy",
+    "Airbnb market entry",
+    "hotel room revenue",
+    "substitution between Airbnb and hotel stays",
+    "hotel pricing and occupancy response",
+    "supply-side flexibility",
+    "peak pricing power",
+    "hotel segment heterogeneity"
+  ],
+  "main_findings": [
+    "In the preferred cumulative specification, a 10% increase in Airbnb supply is associated with a 0.39% decrease in hotel room revenue in Texas, and the implied impact in Austin reaches about 8%-10% for the most vulnerable hotels.",
+    "The negative effect is stronger for lower-priced hotels, independent hotels, and hotels without conference/meeting facilities, while upscale/luxury and business-oriented properties are less affected.",
+    "Hotels respond mainly through lower prices rather than large occupancy declines, and Airbnb's flexible seasonal supply expansion reduces hotels' peak-demand pricing power, especially during Austin's SXSW period."
+  ],
+  "one_line_summary": "Using Texas panel data and a difference-in-differences design, the paper estimates that Airbnb entry reduced hotel revenues, with stronger effects on lower-end and non-business hotels and with much of the impact operating through weaker hotel pricing power during peak demand.",
+  "relation_to_prior_work": "extends prior work on peer-to-peer and two-sided markets by providing causal empirical estimates of substitution between Airbnb and incumbent hotels, and by documenting a supply-flexibility channel that dampens incumbent peak-period pricing power.",
+  "research_gap": "The paper states that there is little academic empirical evidence on competition between accommodation sharing platforms and hotels, despite substantial public debate. It also argues that existing Airbnb-commissioned analyses mainly emphasize citywide economic benefits and complementarity claims, rather than rigorously identifying competitive effects on hotel performance.",
+  "research_question": "How does Airbnb's market entry affect incumbent hotel performance, especially room revenue, in local markets over time? The paper also asks through which mechanisms and where the effect is strongest: whether impacts arise via price or occupancy responses, vary across hotel segments, and intensify during peak-demand periods due to Airbnb's flexible supply."
+}

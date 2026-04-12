@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper shows that, in trade-in purchases, consumer evaluations and choices are systematically influenced by how an equivalent net price is apportioned between the new-item payment and the trade-in receipt.",
+    "It provides an extended replication that reconciles conflicting prior findings by showing that scenario information can increase the perceived importance of the used item and shift preferences toward the trade-in price.",
+    "It identifies boundary conditions by showing that the dominant buyer mind-set in trade-in purchases can be shifted via seller versus buyer priming, changing component weights and reversing preferences."
+  ],
+  "context": "The empirical focus is on purchases that include a trade-in, primarily new car purchases with used-car trade-ins. A third study tests generalization in a different category: buying a new guitar while trading in an old guitar.",
+  "design_and_data": "Study 1 used 94 U.S. online panel respondents who owned cars and had prior new-car-with-trade-in experience; participants evaluated dealer offers across three choice sets with identical net price but different splits between new-car and trade-in prices. Study 2 used 88 undergraduate business students in four conditions (buying only, selling only, and two trade-in conditions) to replicate Zhu, Chen, and Dasgupta (2008) with and without a used-car-salience excerpt, measuring perceived importance and willingness to pay/accept. Study 3 used 232 U.S. online panel respondents in a 3 x 3 between-subjects design (buyer prime, seller prime, no prime x pure/single/mixed gain choice sets) in a guitar trade-in scenario with equal net price, plus post-choice manipulation checks.",
+  "focal_constructs": [
+    "price presentation",
+    "trade-in transactions",
+    "partitioned component prices",
+    "buyer versus seller mind-set",
+    "component importance weights",
+    "reference price gains and losses",
+    "willingness to pay and willingness to accept"
+  ],
+  "main_findings": [
+    "In Study 1, most respondents preferred offers with a better new-car price and worse trade-in price over the reverse at the same net price, and most rated the new-car purchase as more important than the trade-in.",
+    "In Study 2, including the used-car-focused excerpt replicated prior findings that emphasized the trade-in, but removing that excerpt reversed the pattern: the new car became more important, willingness to accept for the used car fell in trade-in context, and willingness to pay for the new car was directionally lower versus buying only.",
+    "In Study 3, no-prime and buyer-prime conditions produced similar choices favoring better new-item deals, whereas seller priming shifted focus to the trade-in and reversed preferences toward offers with better trade-in terms, with stronger effects when component gains/losses were more polarized."
+  ],
+  "one_line_summary": "Across three studies, the paper finds that for equivalent net trade-in exchanges, consumer choice depends on how price is split across the new item and trade-in, with a default buyer focus on the new item that can be shifted toward the trade-in.",
+  "relation_to_prior_work": "extends price partitioning research from buyer-only bundle settings to dual-role exchanges where consumers simultaneously buy a new item and sell a trade-in. It also refines interpretation of prior trade-in findings by showing that trade-in-dominant effects can depend on contextual cues that raise the salience of the used item.",
+  "research_gap": "Prior price partitioning work mainly examined transactions in which consumers are buyers for all components, offering limited guidance for trade-ins where consumers must balance buyer and seller roles. Existing trade-in evidence was also discrepant, and the conditions under which consumers weight the new item versus the trade-in were not clearly identified.",
+  "research_question": "How do alternative presentations of component prices in trade-in purchases affect evaluations and choices when the net economic outlay is identical? Do consumers naturally weight the new-item and trade-in components differently, and can those weights be shifted by contextual information or buyer versus seller mind-set priming?"
+}

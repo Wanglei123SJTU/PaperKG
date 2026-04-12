@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides one of the first empirical estimates of privacy regulation effects in a pay-per-click display advertising setting using ad performance, bid, and revenue outcomes together.",
+    "Uses proprietary data directly from a single publisher to study GDPR compliance, which the authors argue avoids cross-publisher consent-strategy heterogeneity and intermediary data-recording bias.",
+    "Shows that relevant web page context can partially compensate for reduced access to user personal data after GDPR compliance, and documents heterogeneous effects across advertiser industries."
+  ],
+  "context": "The study is set in a large U.S.-headquartered global ad publisher that serves native display ads on content-feed web pages and runs its own ad management and auction system. GDPR consent was requested only for users with EU IP addresses, while non-EU traffic was kept intact.",
+  "design_and_data": "The authors analyze proprietary publisher data covering 3.7 billion desktop impressions from about 6,000 ad creatives and 2,200 advertisers. The window is five weeks before and five weeks after the publisher began GDPR consent requests on April 18, 2018 (March 14-May 22, 2018), yielding 3,920,212 date-country-web page-ad-position observations aggregated across consenting and nonconsenting users. Identification uses difference-in-differences with EU-IP traffic as treatment and non-EU-IP traffic as control, with extensive fixed effects and interaction controls. They also estimate post-compliance models linking daily consent-rate variation to ad metrics.",
+  "focal_constructs": [
+    "GDPR explicit consent compliance",
+    "click-through rate",
+    "conversion rate",
+    "advertiser bid price",
+    "publisher revenue per click",
+    "daily consent rates",
+    "contextual targeting via web page content",
+    "industry heterogeneity in ad impact"
+  ],
+  "main_findings": [
+    "For this publisher, GDPR compliance caused modest but significant declines in ad metrics in EU traffic relative to non-EU traffic, including about -2.1% click-through rate, -5.4% conversion rate, -5.6% bid price, and -5.7% revenue per click.",
+    "Temporal variation in daily consent rates explains metric changes: higher consent rates are associated with better ad performance, bids, and revenue, and revenue-per-click declines reflect both lower bids and fewer active advertisers; advertisers' surplus also declines.",
+    "Negative effects are strongest for travel and financial services ads and weakest for retail and CPG ads, and losses are less pronounced when ads appear on web pages with specific topics that match the advertised product."
+  ],
+  "one_line_summary": "Using a natural experiment around one publisher's April 2018 GDPR consent rollout, the paper finds modest declines in display ad performance, bid prices, and revenue, with smaller losses when page context matches advertised products.",
+  "relation_to_prior_work": "extends prior GDPR and online advertising evidence by moving from intermediary or survey-based settings toward direct single-publisher ad-market outcomes in a pay-per-click auction context, and by quantifying contextual targeting as a partial offset to reduced personal-data targeting.",
+  "research_gap": "The paper argues that prior GDPR evidence in advertising is limited for pay-per-click publishers and is often based on intermediary or multi-publisher data that can mix different consent strategies and create data-observability bias under GDPR consent rules. It also notes limited evidence on whether contextual web page targeting can offset reduced access to user-level personal data after GDPR compliance.",
+  "research_question": "What is the early causal impact of a publisher's GDPR explicit-consent compliance on display ad performance, advertiser bidding, and publisher revenue in a pay-per-click system? Do changes in consent rates and heterogeneity across advertiser industries and web page contexts explain the size of that impact? Can relevant web page content targeting partially compensate for reduced user-data targeting?"
+}

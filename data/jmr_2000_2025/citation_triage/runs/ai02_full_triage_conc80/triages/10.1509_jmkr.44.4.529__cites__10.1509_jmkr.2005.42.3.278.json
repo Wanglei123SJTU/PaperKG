@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper explicitly says it extends prior Bayesian learning work, and the cited 2005 paper is a structural Bayesian-learning demand model that separates indirect learning and direct effects. That conceptual/method overlap makes this plausibly a theory/method source rather than a purely incidental mention, despite the raw match being only a DOI-level reference entry without in-text context.",
+  "triage_decision": "keep_for_relation_judgment"
+}

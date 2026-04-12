@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper presents one of the first formal theories of how physicians endogenously decide both whether to use assistive medical AI and whether to follow its recommendation in treatment planning.",
+    "It introduces a liability-sensitive framework that compares prevailing and emerging patient-protection schemes and shows how each changes physician incentives and patient outcomes.",
+    "It characterizes how reimbursement design interacts with liability to shape AI underuse and overuse, including the counterintuitive possibility that better AI can be used less."
+  ],
+  "context": "The setting is clinical treatment-plan selection by a physician choosing between a standard-of-care plan and a nonstandard plan for an individual patient. The model reflects fee-for-service incentives, malpractice lawsuits, and insurer reimbursement for AI use in healthcare practice.",
+  "design_and_data": "The study is a formal analytical model (a sequential game with Bayesian updating), not an empirical dataset study. A physician observes patient-specific uncertainty about whether the standard plan is correct, may generate an imperfect AI signal, and then chooses a treatment plan while weighing patient outcomes, revenue, consent effort, and expected liability. The authors analyze two liability regimes (AI reinforces the current standard of care vs AI signal becomes the standard of care) and two reimbursement rules (pay for AI use vs pay only when the physician follows AI). They derive threshold conditions for AI use, overuse, and underuse, and add extensions on patient preference for AI-enabled physicians, data network effects, and physician costs of improving AI precision.",
+  "focal_constructs": [
+    "assistive medical AI use",
+    "physician treatment-plan choice",
+    "clinical uncertainty",
+    "malpractice liability",
+    "patient-protection schemes",
+    "insurance reimbursement rules",
+    "AI signal precision",
+    "AI overuse and underuse"
+  ],
+  "main_findings": [
+    "Under both liability schemes, physicians can use AI in low-uncertainty cases where it adds little value and avoid AI in higher-uncertainty cases where AI could improve decisions, so overuse and underuse can coexist.",
+    "As AI precision increases, physicians may become less likely to use AI for some patients because ignoring a more accurate AI signal raises expected liability.",
+    "Reimbursing AI only when physicians follow the AI recommendation reduces overuse and is preferred by the insurer, and moving to AI-as-standard-of-care can reduce underuse or overuse for some patients but increase it for others, so neither liability scheme is uniformly superior."
+  ],
+  "one_line_summary": "This paper develops a game-theoretic model of physicians' AI-use decisions in treatment planning and shows that liability and reimbursement incentives can jointly produce both AI overuse and underuse.",
+  "relation_to_prior_work": "extends expert-service and healthcare AI theory by jointly modeling physicians' information acquisition and information use under malpractice liability, and by shifting focus from patient psychology or reputation signaling to treatment-plan decisions under policy design.",
+  "research_gap": "The paper states that despite progress in medical AI development, there is little understanding of why and how physicians actually use or avoid existing AI tools in routine practice. It also addresses unresolved policy uncertainty about how different liability standards for AI use shape physician behavior.",
+  "research_question": "How do physicians decide whether to use an assistive AI system, and whether to follow its recommendation, when choosing between standard and nonstandard treatment plans under uncertainty? How do malpractice liability regimes and insurer reimbursement rules affect these decisions and resulting patient welfare?"
+}

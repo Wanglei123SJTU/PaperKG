@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper shows that borrower-written loan-request text contains incremental information that predicts loan default above and beyond standard financial and demographic variables, including the loan interest rate.",
+    "It demonstrates that large-scale, automated text mining and machine learning can be used not only for prediction but also for interpretation of linguistic signals linked to financial outcomes.",
+    "It argues that low-cost, unverifiable text ('soft information') can materially improve lending outcomes, with a back-of-the-envelope ROI gain when used in funding decisions."
+  ],
+  "context": "The study is set in online peer-to-peer/crowdfunded unsecured consumer lending on Prosper in the United States. Borrowers submit structured financial data and free-form text descriptions when requesting loans.",
+  "design_and_data": "The authors downloaded 122,479 Prosper loan listings posted between April 2007 and October 2008 and focused default prediction on the 19,446 funded loans (35% default rate). They text-mined raw application text (tokenization, stemming, tf-idf), constructed textual features including writing metrics and 1,052 frequent bigrams, and combined them with financial, demographic, image-coded, and loan variables. For prediction, they used a stacking ensemble (L1/L2 regularized logistic models, random-forest variants, and extra trees) with repeated tenfold cross-validation, comparing models with and without text. For interpretation, they used naive Bayes, L1 logistic regression, LDA topic modeling, LIWC-based regressions, and a simple ROI simulation.",
+  "focal_constructs": [
+    "loan default",
+    "loan application text",
+    "soft information",
+    "financial and demographic risk variables",
+    "linguistic cues and writing style",
+    "crowdfunded lending",
+    "machine learning ensemble"
+  ],
+  "main_findings": [
+    "Adding textual features to financial and demographic variables significantly improved out-of-sample default prediction (overall AUC 70.72% to 72.60%, with larger gains for lower-credit borrowers).",
+    "Text-only models were nearly as predictive as financial/demographic-only models (AUC 66.69% vs. 70.72%), and a simple portfolio simulation suggested a 5.75% ROI increase from using text.",
+    "Defaulting borrowers' texts more often included hardship, family references, mentions of God, pleas for help, and short-term/future-tense language, and LIWC patterns were consistent with writing styles previously associated with extroversion and deception."
+  ],
+  "one_line_summary": "Using Prosper loan applications, the paper shows that linguistic features in borrower text materially improve default prediction beyond traditional credit variables and reveal interpretable signals about hardship, time focus, and writing style.",
+  "relation_to_prior_work": "extends prior consumer-finance and text-analytics research by showing on large-scale archival lending data that free-form borrower text predicts future default beyond standard structured risk variables. It also extends narrative-based lending studies that used manual coding by introducing a scalable automated pipeline that links prediction to interpretable linguistic themes.",
+  "research_gap": "Traditional credit-risk models rely heavily on structured financial and demographic data, which the paper argues miss forward-looking soft information about borrowers' intentions, circumstances, and personality, especially in online lending with limited human interaction. The paper addresses whether such information can be extracted from application text and whether it adds predictive value beyond existing variables.",
+  "research_question": "Do borrowers' own words in online loan applications contain information that predicts later loan default above and beyond standard financial, demographic, and loan variables? If so, which words, topics, and writing-style signals are most associated with default versus repayment?"
+}

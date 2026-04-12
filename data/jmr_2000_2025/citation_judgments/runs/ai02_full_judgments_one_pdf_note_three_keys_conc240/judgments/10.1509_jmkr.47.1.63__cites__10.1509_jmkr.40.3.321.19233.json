@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citation is used in the core model setup, where the authors explicitly state that their approach is built around a multivariate probit (MVP) consideration component from Edwards and Allenby (2003). This is not a background list citation; it anchors how consideration-set membership is modeled in the paper. The citing paper then adds a multinomial probit choice stage and dynamic/error-structure features, positioning its contribution as a development beyond a basic MVP specification.",
+  "relation_description": "The citing paper builds on the MVP framework referenced to Edwards and Allenby (2003) for modeling brand consideration, then extends it by combining MVP with an MNP choice stage in a two-stage model for panel choice data. It further augments this setup with dynamics and heterogeneity to recover unobserved consideration sets.",
+  "relation_type": "extends"
+}

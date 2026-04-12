@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Generalizes optimal control theory from macro advertising allocation to individual-customer microtargeting.",
+    "Develops a multibrand, multimedia microtargeting approach that combines random-effects MNL estimates with an iterative algorithm to compute customer-specific optimal ad exposures.",
+    "Demonstrates the value of simultaneous optimization across multiple owned brands using shared single-source customer data."
+  ],
+  "context": "The empirical application is a North American specialty retailer parent company with three apparel-focused brands that are managed separately but share a unified customer database. The setting tracks monthly exposures in email, catalogs, and paid search and corresponding customer purchases.",
+  "design_and_data": "The paper derives micro-level optimality conditions by combining a Lanchester-style dynamic competition formulation with an individual-level mixed logit choice model. The empirical study uses single-source panel data for 5,000 randomly sampled customers (120,000 customer-month observations) over 24 months (July 2010 to June 2012), including purchases and ad touchpoints for three brands across email, catalog, and paid search. A hierarchical Bayes random-effects MNL is estimated via MCMC in SAS, with controls for demographics, price, organic search, website visits, prior online and in-store sales, seasonality, and endogeneity control functions. The estimated parameters are used to compare current scheduling, macro optimization, separate-brand microtargeting, simultaneous multibrand microtargeting, and a fixed-budget variant, and the paper also runs a simulation varying ad-response heterogeneity.",
+  "focal_constructs": [
+    "optimal control theory",
+    "advertising microtargeting",
+    "random-effects multinomial logit",
+    "individual-level advertising response heterogeneity",
+    "multibrand media allocation",
+    "single-source customer data",
+    "advertising effort and exposure costs"
+  ],
+  "main_findings": [
+    "In the retail application, separate-brand optimal microtargeting increases parent-company profit by 150% versus the current ad schedule, while simultaneous multibrand microtargeting increases profit by 183%.",
+    "Macro optimal scheduling raises profit by 14%, much less than microtargeting, indicating large gains from customer-level tailoring of exposures.",
+    "In simulation, expected profit from microtargeting increases as ad-response heterogeneity increases, because spending can be shifted toward highly responsive customers and away from unresponsive customers."
+  ],
+  "one_line_summary": "The paper develops an optimal-control microtargeting framework that uses individual-level mixed-logit advertising responses to set customer-specific exposures across brands and media, and shows large profit gains in a multibrand retail application.",
+  "relation_to_prior_work": "extends prior optimal-control advertising models that focused on aggregate macro allocation (including multibrand settings) to individual-level multibrand microtargeting with multiple media.",
+  "research_gap": "Prior optimal-control advertising work had focused on aggregate macro budgeting and media allocation and had not been applied to individual-customer microtargeting. The paper also argues that common rule-based targeting is often nonoptimal because it can target likely buyers and does not jointly incorporate individual ad response, media cost, category spend, and brand share.",
+  "research_question": "How can optimal control theory be adapted from macro advertising allocation to determine optimal ad exposures at the individual-customer level across multiple media and brands? The paper also asks whether simultaneous multibrand microtargeting with single-source data outperforms macro scheduling and separate brand-by-brand optimization."
+}

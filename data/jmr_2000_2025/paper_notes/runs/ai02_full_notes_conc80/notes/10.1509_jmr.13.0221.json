@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops an empirical approach to estimate the performance impact of outlet-level hotel rebranding and decompose it into brand effects and property-brand interaction effects.",
+    "It provides a brand-strength measure at the property level using estimated brand effects on occupancy and revenue outcomes.",
+    "It documents heterogeneous rebranding effects and shows robustness through alternative instruments, matching estimators, and merger-based identification, while arguing the approach can generalize to other decoupled value-chain settings."
+  ],
+  "context": "The study is set in the U.S. lodging industry, where individual hotel properties can switch among existing chain brands or move between branded and independent status. It focuses on franchised hotel properties observed from 1994 to 2012.",
+  "design_and_data": "The authors use PKF Hospitality Research annual survey data on U.S. hotel properties from 1994-2012 with hotel-level operating and financial variables. The treatment group includes 260 rebranded hotels (2,632 hotel-year observations) and the control group includes 2,750 non-rebranded hotels (19,775 observations), with controls drawn mainly from the same MSA but different zip codes. They estimate panel models with extensive fixed effects (including hotel and market-year effects) and address endogeneity of rebranding using an IV based on origin-brand franchise fees interacted with hotel-level variation; they also run robustness checks (alternative instrument, merger-driven rebranding sample, matching, falsification, and competition checks).",
+  "focal_constructs": [
+    "outlet-level rebranding",
+    "brand effect",
+    "property-brand interaction effect",
+    "occupancy rate",
+    "revenue per available room (RevPAR)",
+    "gross operating profit per available room",
+    "brand strength",
+    "franchise fee instrumental variable"
+  ],
+  "main_findings": [
+    "On average, rebranding increases occupancy by about 6.31%, and is also associated with higher RevPAR (about 4.43%) and gross operating profit per available room (about 2.85%).",
+    "The decomposition suggests that about 60% of the occupancy gain is attributable to differences in origin and destination brand identities, with the remaining roughly 40% attributable to property-brand interaction effects.",
+    "Rebranding effects are heterogeneous: for example, branded-to-independent switches reduce occupancy while branded-to-branded and independent-to-branded switches increase it, and nearby competitors in the same zip code do not show a significant average impact."
+  ],
+  "one_line_summary": "Using U.S. hotel panel data, the paper finds that rebranding generally improves performance and that most of the occupancy gain comes from brand identity changes rather than property-brand interaction alone.",
+  "relation_to_prior_work": "extends prior branding and rebranding research by empirically quantifying outlet-level performance effects, decomposing those effects into brand versus property-brand interaction components, and complementing brand-equity work with a property-level brand-strength measure.",
+  "research_gap": "The paper explicitly notes that empirical marketing research has largely not answered whether rebranding improves concrete performance outcomes such as volume, revenue, and profits. It also identifies a lack of empirical decomposition of rebranding effects into brand-level effects versus product-property and brand interaction effects.",
+  "research_question": "Does rebranding an individual hotel property improve operating performance in the U.S. lodging industry? If it does, how much of the effect is due to the origin and destination brands themselves versus the interaction between a specific property and those brands?"
+}

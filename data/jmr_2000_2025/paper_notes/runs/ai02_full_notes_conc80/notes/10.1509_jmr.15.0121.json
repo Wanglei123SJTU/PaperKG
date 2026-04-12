@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces an empirical TV-viewing model in which channel choice is driven by optimal sequential search under uncertainty about alternative channels' programming and commercials.",
+    "Uses an exogenous regulatory shock in China to identify heterogeneous preferences and search costs in a field setting where these are usually confounded.",
+    "Derives managerial implications for commercial-break timing by quantifying when channels should synchronize versus differentiate break schedules."
+  ],
+  "context": "The empirical setting is the Beijing prime-time TV market in China, focusing on 29 major channels (about 80% market share). The study exploits a nationwide January 1, 2012 policy that banned in-show commercials for episodic TV series.",
+  "design_and_data": "The data combine one-minute ratings, minute-level program/commercial schedules, and second-by-second viewing logs for 1,022 sampled viewers, with prime-time observations from 7:30 to 10:00 P.M. The estimation window uses 16 days: eight days before and eight days after the policy change (Monday-Thursday in selected weeks from December 2011 to January 2012). The authors estimate a heterogeneous sequential search model with minimum distance, matching observed ratings, switching rates, and average numbers of searches. Identification relies on the policy-induced, plausibly exogenous change in commercial-break distribution while short-run regular programming remains constrained by regulatory review processes.",
+  "focal_constructs": [
+    "consumer sequential search",
+    "channel-switching behavior",
+    "programming uncertainty",
+    "search cost",
+    "in-show commercial breaks",
+    "between-show commercial breaks",
+    "commercial timing strategy"
+  ],
+  "main_findings": [
+    "Aggregate and individual-level patterns are consistent with viewers searching during commercial breaks: post-break ratings decline and many switchers do not return, especially from lower-rated initial channels.",
+    "Estimated utilities show large negative effects of commercials (about -4.56 per minute for in-show and -5.30 for between-show breaks), while estimated average search cost is relatively low (about 1.12).",
+    "Counterfactual timing simulations suggest low-rated channels gain from synchronizing breaks with high-rated channels, whereas high-rated channels gain from differentiating break timing from competitors."
+  ],
+  "one_line_summary": "Using Chinese TV data around a sudden ban on in-show ads, the paper estimates a sequential search model showing that commercial breaks facilitate channel search and that optimal break timing depends on a channel's rating position.",
+  "relation_to_prior_work": "extends prior TV-viewing choice research that often assumes little uncertainty about alternatives by modeling channel choice as sequential search under uncertainty in shows and commercials. It also tackles an identification issue emphasized in empirical search literature by using an exogenous regulation shock to separate utility and search cost.",
+  "research_gap": "Prior empirical TV channel-choice studies commonly assume viewers have near full information about alternatives, and empirical search models in field data often cannot cleanly separate preferences from search costs. The paper addresses these gaps with a sequential search framework and a policy shock that shifts utility conditions without directly changing search costs.",
+  "research_question": "How do TV viewers choose channels when they are uncertain about alternative programming and can search at a cost, especially during commercial breaks? Do commercial breaks lower the effective opportunity cost of search and thus drive switching, and what does this imply for channels' break-timing strategies?"
+}

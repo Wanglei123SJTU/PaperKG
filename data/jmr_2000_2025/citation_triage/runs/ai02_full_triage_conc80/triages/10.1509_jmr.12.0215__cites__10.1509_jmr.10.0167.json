@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper appears potentially substantive because it develops a state-space/latent-factor approach to Google search trend extraction in the same U.S. auto context, while the citing paper also builds a state-space model using Google Trends as an intermediate funnel measure for auto sales. This overlap suggests the citation could be methodological or foundational rather than a generic mention. With only DOI-level match evidence and no in-text snippet, it is safer to retain for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

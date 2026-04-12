@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper claims to add to computer-mediated consumer research by showing that download-screen color, a ubiquitous interface element, changes perceived download quickness.",
+    "It claims a process contribution by identifying feelings of relaxation as a mediator and by providing convergent evidence with a noncolor manipulation (repeated exposure to waiting).",
+    "It claims practical relevance by showing that perceived-speed management via color can complement engineering solutions and influence Web site evaluations and recommendation intentions."
+  ],
+  "context": "Consumers waited for pages in a simulated Web-based real estate browsing task, where a full-screen color with \"Downloading...\" appeared during delays. The domain is computer-mediated online service encounters in which page-load waiting is common.",
+  "design_and_data": "Four laboratory experiments used between-subjects or mixed designs with undergraduate students (usable Ns: 49, 61, 117, and 73). In all studies, actual delay duration was held constant at 17.5 seconds by serving files from a local high-speed server, while screen color attributes were manipulated. Experiments 1-2 manipulated hue (blue vs yellow; blue vs red), Experiment 3 manipulated value (58% vs 100%) and chroma (42% vs 100%) at blue hue, and Experiment 2 also manipulated one versus two waiting exposures. Experiment 4 used a combined positive color profile (blue, high value, low chroma) versus negative profile (yellow, low value, high chroma) and measured perceived quickness, seconds estimates, relaxation, site attitude, and recommendation intention.",
+  "focal_constructs": [
+    "perceived download quickness",
+    "screen color hue",
+    "screen color chroma",
+    "screen color value",
+    "feelings of relaxation",
+    "repeated exposure to waiting",
+    "Web site attitude",
+    "recommendation intention"
+  ],
+  "main_findings": [
+    "Across hue manipulations, blue screens produced higher relaxation and higher perceived download quickness than yellow or red screens, and ANCOVA tests showed substantial mediation by relaxation.",
+    "In the value/chroma experiment, higher value and lower chroma increased relaxation and perceived quickness; relaxation fully mediated the chroma effect on perceived quickness and partially mediated the value effect.",
+    "A second exposure to a slow download reduced relaxation and perceived quickness, and in the final study more relaxing colors improved site attitudes and recommendation likelihood partly through perceived quickness, while color did not affect seconds estimates or mood valence."
+  ],
+  "one_line_summary": "Across four experiments with fixed 17.5-second waits, the paper shows that more relaxing download-screen colors make Web pages feel faster to load via increased relaxation and can improve site evaluations and recommendation intentions.",
+  "relation_to_prior_work": "extends prior work on computer-mediated consumer behavior and color effects by linking hue, value, and chroma to perceived download speed through relaxation-based time perception.",
+  "research_gap": "Prior discussion of slow Web downloads emphasized engineering fixes and objective time, leaving subjective interface factors underexamined. The paper addresses the unresolved question of whether background screen color during waiting shapes perceived quickness and through what mechanism.",
+  "research_question": "Does the background color shown while a Web page is downloading change how quick the download is perceived to be, even when objective download time is constant? The paper also asks whether feelings of relaxation mediate this effect and whether these perceptions carry over to Web site attitudes and recommendation intentions."
+}

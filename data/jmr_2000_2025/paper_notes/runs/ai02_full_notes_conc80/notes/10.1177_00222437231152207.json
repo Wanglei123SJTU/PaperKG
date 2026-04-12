@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The study introduces a governance perspective on B2B buying groups by distinguishing monitoring and community-building as two mechanisms through which groups manage suppliers.",
+    "It theorizes and tests cross-level group-dyad interactions, showing that the effect of buying-group governance depends on buyer governance and dependence relations across group-supplier and buyer-supplier ties.",
+    "It provides multi-method evidence beyond prior mostly analytical or qualitative work by combining two-wave primary data, secondary outcome replications, and a conjoint experiment."
+  ],
+  "context": "The paper is set in the U.S. health care sector, where hospitals commonly use group purchasing organizations (GPOs) to source from suppliers. The focal exchange system is triadic: buying group-supplier and buyer-supplier relationships jointly shape outcomes at the buyer-supplier dyad.",
+  "design_and_data": "The conceptual framework was informed by 25 semistructured interviews with hospital buyers, suppliers, buying-group executives, and physicians in U.S. health care. Hypotheses were tested with two-wave survey data from U.S. hospitals collected 12 months apart, with 118 usable responses tied to a focal buying group, supplier, and product. The empirical model estimates cross-level interactions and uses a control-function approach to address endogeneity in buying-group governance variables. The authors also ran replications using secondary hospital outcomes (including operating expenses, with complete data for 66 hospitals) and a conjoint experiment with 473 B2B sales and service professionals.",
+  "focal_constructs": [
+    "buying group monitoring",
+    "buying group community building",
+    "supplier performance toward buyer",
+    "buyer monitoring of supplier",
+    "buyer-supplier solidarity",
+    "supplier dependence on buying group",
+    "buyer dependence on supplier",
+    "group-dyad cross-level interactions"
+  ],
+  "main_findings": [
+    "Buying-group monitoring is positively associated with supplier performance toward the buyer.",
+    "The positive effect of buying-group monitoring is stronger when buyer monitoring is higher, when supplier dependence on the buying group is higher, and when buyer dependence on the supplier is higher.",
+    "Buying-group community building does not show a positive main effect in the primary model, and its performance effect weakens as buyer-supplier solidarity and buyer dependence on the supplier increase; moderation by supplier dependence on the buying group is not significant in the primary model."
+  ],
+  "one_line_summary": "Using U.S. hospital-GPO data and replications, the paper shows that buying-group monitoring improves supplier performance and becomes more effective under specific buyer governance and dependence conditions, while community building is context-limited and often attenuated.",
+  "relation_to_prior_work": "extends interfirm governance research by moving beyond an atomistic buyer-supplier view to a triadic model that includes buying groups as active third-party governors of suppliers. It introduces a governance-focused explanation into buying-group research that has largely emphasized internal group attributes and pricing effects rather than cross-level group-dyad interactions on supplier performance.",
+  "research_gap": "Prior buyer-supplier interfirm research typically ignores buying groups, while buying-group studies often analyze groups in isolation from the buyer-supplier dyads they are meant to serve. The paper argues that this leaves an underdeveloped governance account of how buying groups influence supplier performance and when those effects hold.",
+  "research_question": "How do buying groups facilitate buyer-supplier exchange and affect supplier performance delivered to member buyers? Which boundary conditions shape these effects, especially buyer governance of suppliers and dependence relations across buying group-supplier and buyer-supplier relationships?"
+}

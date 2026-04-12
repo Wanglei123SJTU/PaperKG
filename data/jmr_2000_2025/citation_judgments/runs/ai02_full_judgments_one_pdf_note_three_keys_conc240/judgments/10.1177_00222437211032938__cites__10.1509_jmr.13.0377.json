@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citation is used in a focused literature-positioning passage on customer-base models that incorporate covariates into latent attrition and valuation. The authors explicitly discuss what this prior line (including Braun et al. 2015) does well, then state why it is not sufficient for their cold-start setting with noisy, high-dimensional acquisition data. This is more than a passing mention because it helps define the methodological gap and motivates the new framework, even though they do not directly reuse Braun et al.'s specific model.",
+  "relation_description": "The citing paper treats Braun et al. (2015) as a relevant prior covariate-augmented latent attrition approach, then differentiates its own contribution by proposing a more general and flexible probabilistic framework for cold-start CRM. The cited work functions as a comparison point for what existing models can capture versus what the new model is designed to handle.",
+  "relation_type": "other"
+}

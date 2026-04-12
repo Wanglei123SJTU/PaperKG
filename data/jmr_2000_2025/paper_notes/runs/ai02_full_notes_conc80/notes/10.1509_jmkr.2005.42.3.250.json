@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The article summarizes Richard Johnson's impact on marketing research in theoretical advances, practical method development, and dissemination into common practice.",
+    "It proposes three factors behind his productivity: a build-test-theory problem-solving style, intellectual wanderlust, and a strong personal/professional support base.",
+    "It argues that sustaining Johnson's bridging role between academics and practitioners is a key field-level challenge and discusses likely institutional successors."
+  ],
+  "context": "The paper is a retrospective essay about marketing research methods, centered on conjoint analysis and software-enabled practice (especially Sawtooth Software). It focuses on the interface between academic method development and practitioner adoption in market research.",
+  "design_and_data": "This is a conceptual commentary, not a new empirical study. It reviews the evolution from psychometric conjoint measurement to applied conjoint analysis and discusses Johnson's specific innovations, including ACA, CBC implementation, randomized balanced choice-set generation, and hierarchical Bayes estimation tools. The evidence is narrative and citation-based, with illustrative references to prior studies, critiques, and author-reported testing experience rather than a new dataset.",
+  "focal_constructs": [
+    "adaptive conjoint analysis (ACA)",
+    "choice-based conjoint (CBC)",
+    "hierarchical Bayes estimation",
+    "individual-level utility modeling",
+    "randomized balanced choice designs",
+    "build-test-theory orientation",
+    "academic-practitioner knowledge transfer"
+  ],
+  "main_findings": [
+    "Johnson's pragmatic approach favored methods that worked in practice, and this often improved predictive usefulness and usability even when theoretical purity was reduced.",
+    "Sawtooth's CBC plus hierarchical Bayes implementation helped move advanced conjoint and Bayesian tools from specialized use to broadly accessible practice.",
+    "The bridge between marketing theory and practice is becoming harder to sustain as academia grows more specialized and practice more proprietary, implying a larger role for institutions rather than single individuals."
+  ],
+  "one_line_summary": "The essay argues that Richard Johnson transformed marketing research by pragmatically advancing and diffusing conjoint methods, while warning that future theory-practice bridging will be harder to maintain.",
+  "relation_to_prior_work": "synthesizes prior psychometric, conjoint, and choice-model literature to explain how Johnson's adaptations shifted the field from axiomatic purity toward robust, widely usable methods.",
+  "research_gap": "The paper highlights an unresolved field problem: how to maintain effective translation of advanced academic methods into practitioner tools as incentives and norms in academia and industry diverge.",
+  "research_question": "What has marketing research learned from Richard Johnson's career and methodological work? The article examines how his innovations changed practice, what personal and organizational factors enabled that impact, and how similar bridging between theory and practice might be sustained in the future."
+}

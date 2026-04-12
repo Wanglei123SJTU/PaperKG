@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "This paper is presented as the first to study shared product consumption as simultaneous or sequential use of an unowned product by multiple people without ownership transfer.",
+    "It introduces and tests a process account in which sharing type (sharing-out vs. sharing-in) changes product identification, which then changes perceived product efficacy.",
+    "It shows a managerially relevant consequence that sharing with strangers can increase quantity used and that this detrimental effect is concentrated among consumers high in self-brand connection."
+  ],
+  "context": "The paper studies publicly and privately shared use of products that are often treated as personal-use items, such as hotel toiletries, hand sanitizers, plant food, and related products. The focal contexts include hospitality and other public/shared environments where consumers use products that others also use, often strangers.",
+  "design_and_data": "The authors first ran an exploratory survey of 77 hospitality managers about beliefs regarding shared versus individual product formats. They then conducted five studies: an observational quasi-field study with undergraduates (N=82) using hand sanitizer in sharing-in versus sharing-out groups; a lab experiment with undergraduates (N=106) on shared versus nonshared Miracle-Gro plant food; and preregistered MTurk experiments (Study 3: N=403 recruited, 331 valid; Study 4: N=602 recruited, 521 valid; Study 5: N=1,053 recruited, 1,007 valid). Measures include efficacy judgments and quantity used, with mediation tests for product identification and moderation tests for self-brand connection (measured and manipulated via gender congruence). They also report tests against alternatives such as contamination, freshness, ownership, scarcity, exclusivity, dilution, value, and zero-sum thinking.",
+  "focal_constructs": [
+    "shared product consumption",
+    "sharing-out",
+    "sharing-in",
+    "perceived product efficacy",
+    "product identification",
+    "self-brand connection",
+    "egocentric categorization",
+    "quantity used"
+  ],
+  "main_findings": [
+    "Sharing-out lowers perceived product efficacy relative to sharing-in and no-sharing, reflected in both lower efficacy judgments and greater quantity used.",
+    "Lower identification with the product mediates the effect of sharing type on efficacy judgments.",
+    "The negative effect of sharing-out is attenuated for consumers low in self-brand connection and is observed primarily among those high in self-brand connection."
+  ],
+  "one_line_summary": "Across five studies, the paper finds that sharing products with strangers reduces product efficacy perceptions and increases quantity used because consumers identify less with the product, with effects concentrated among high self-brand-connection consumers.",
+  "relation_to_prior_work": "extends prior sharing research centered on shared experiences and close-other coattention by showing effects in shared product consumption without ownership transfer. It also extends self-referencing and self-congruity work by identifying sharing-out as a contextual cue that reduces product identification and perceived functional efficacy.",
+  "research_gap": "The authors state that marketing research has paid little attention to shared product consumption of unowned products used by multiple people, especially compared with work on shared experiences. They also note a lack of clarity about how shared versus individual product formats affect consumer responses and use behavior.",
+  "research_question": "How does shared product consumption affect perceived product efficacy, and does sharing with strangers (sharing-out) differ from sharing with close others (sharing-in) and from no-sharing? The paper further asks whether product identification explains this effect and whether self-brand connection bounds it."
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides one of the first tests of acoustic cross-modal correspondence in a marketing context, showing that sound pitch in communications can shape product perceptions.",
+    "Shows that sound symbolism in marketing extends beyond phonetic word sounds to a basic nonlinguistic acoustic dimension: pitch.",
+    "Identifies visual mental imagery and sound-product association as key conditions governing when pitch-based meaning transfer affects perceived product size."
+  ],
+  "context": "The paper studies advertising communication settings where consumers hear manipulated spokesperson voices or background music associated with products (e.g., sandwiches, laptops, cameras, burgers). Judgments are made in controlled lab and online experiment environments.",
+  "design_and_data": "The authors report six experiments (Studies 1, 2, 3, 4, 5a, 5b) using between-subject manipulations of acoustic pitch (high vs. low) in voice or music and seven-point measures of perceived product size and other attributes. Samples include undergraduate participants in behavioral labs and online panel participants, with per-study sample sizes such as 94, 192, 150, 281, 153, and 209 before exclusions. Study 3 uses a 2 x 2 pitch x sound-product relatedness design to test a boundary condition. Studies 4-5b use 2 x 2 designs to test visualization mechanisms via ad descriptiveness and the presence/timing of product images, with stimulus realism/quality posttests reported.",
+  "focal_constructs": [
+    "acoustic pitch",
+    "perceived product size",
+    "cross-modal correspondence",
+    "sound symbolism",
+    "visual mental imagery",
+    "sound-product association",
+    "spillover inferences"
+  ],
+  "main_findings": [
+    "Lower-pitched voice or music led consumers to infer larger product size than higher-pitched sound across multiple product categories and stimuli.",
+    "The pitch-size effect appeared only when the sound was associated with the focal product; when framed as unrelated, pitch did not change size perceptions.",
+    "Evidence supports a visualization process: the effect was stronger when ad content facilitated imagery, disappeared when a product image was visible at the moment of size judgment, and reappeared when size was judged without a visible image even if an image had been shown earlier."
+  ],
+  "one_line_summary": "Across six experiments, lower acoustic pitch in product-linked advertising sounds (voice or music) increased perceived product size through cross-modal inference, contingent on sound-product association and visual imagery conditions.",
+  "relation_to_prior_work": "extends prior cross-modal correspondence research, which largely emphasized simultaneous perceptual classification tasks, by showing transfer from advertising sound cues to inferred physical product attributes. It also extends marketing sound-symbolism work beyond phonetic/brand-name effects to nonlinguistic acoustic pitch in voice and music.",
+  "research_gap": "The paper argues that marketers and researchers have limited understanding of what nonlinguistic sound dimensions communicate about products, beyond phonetic word sounds. It also notes that prior pitch-size correspondence work mainly examined perceptual integration/classification rather than whether advertising sound transfers to product attribute beliefs.",
+  "research_question": "Does acoustic pitch in marketing communications influence consumers' inferences of product physical size, such that lower pitch implies larger size? Under what conditions does this occur, and is the effect driven by visual mental imagery during product judgment?"
+}

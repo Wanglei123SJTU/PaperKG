@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides a real-world dynamic analysis of feedback effects by estimating their magnitude, longevity, and accumulation across sequential releases.",
+    "It introduces a branding framework that treats movie stars as branded components and movies as extensions, and links favorability dynamics to movie and off-camera shocks.",
+    "It offers a model-based decision aid for actors and agents to evaluate movie choices for protecting and enhancing celebrity brand equity."
+  ],
+  "context": "The study is set in the U.S. movie industry, treating Hollywood actors as celebrity brands and movies as extension products featuring those brands. Consumer attitudes are measured with industry favorability polls and linked to film releases and off-camera media coverage.",
+  "design_and_data": "The paper combines two lab experiments with a field-based dynamic panel analysis. The field data track 48 movie stars over 1993-2005, with 813 favorability ratings and 614 movie appearances (1,427 observations total), plus 6,228 non-movie media articles from People and Variety coded for volume and valence. Movie success and movie-characteristic variables are assembled from IMDb, Rotten Tomatoes, TNS Media Intelligence, and related sources. The authors estimate a dynamic panel model (with first-difference treatment of fixed effects) using a simulated moments procedure.",
+  "focal_constructs": [
+    "celebrity brand equity",
+    "dilution effect",
+    "enhancement effect",
+    "sequential movie releases",
+    "favorability ratings",
+    "off-camera media coverage",
+    "extension typicality",
+    "favorability decay"
+  ],
+  "main_findings": [
+    "Sequential movie appearances generate both dilution and enhancement effects on celebrity brand equity.",
+    "Celebrity favorability erodes over time, with carryover patterns varying by gender, age, and degree of establishment.",
+    "The volume of off-camera media coverage increases star favorability, while coverage valence is not significant in this dataset."
+  ],
+  "one_line_summary": "Using lab experiments and a 1993-2005 actor panel, the paper shows that sequential movie releases can both dilute and enhance celebrity brand equity, with effects that decay over time and are shaped by movie and media factors.",
+  "relation_to_prior_work": "extends brand extension feedback research from mostly product-focused, one-shot laboratory studies to celebrity brands observed longitudinally in the field, and documents dynamic effects across sequential releases.",
+  "research_gap": "Prior brand-extension feedback research was largely based on one-shot lab studies in product contexts, so it did not estimate the magnitude, longevity, and dynamic accumulation of feedback effects across sequential extensions. External validity in real-world settings and applicability to celebrity brands were therefore unresolved.",
+  "research_question": "How do sequential movie releases influence the dilution and enhancement of celebrity brand equity over time? The paper also asks which factors determine the magnitude and persistence of these effects after accounting for stars' off-camera media exposure."
+}

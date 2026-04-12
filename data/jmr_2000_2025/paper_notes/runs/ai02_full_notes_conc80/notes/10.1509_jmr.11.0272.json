@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides field evidence from a high-stakes, long-horizon consumer setting on how discrete subgoal completion relates to superordinate goal attainment.",
+    "It separates discrete subgoal completion from absolute progress and shows their distinct predictive roles in debt elimination outcomes.",
+    "It introduces a temporal-dynamics account in which short-run demotivating effects of subgoal completion may fade while longer-run motivating effects persist or strengthen, with implications for debt-management practice and policy."
+  ],
+  "context": "The study is set in consumer debt settlement (debt relief), where clients with multiple debt accounts make monthly deposits and a settlement firm negotiates account closures over a typical 3-4 year period. Data come from clients of Freedom Financial Network attempting to eliminate unsecured debt.",
+  "design_and_data": "The authors analyze a random sample of 5,943 clients who enrolled before January 1, 2007; 4,169 clients settled at least one account and have event-history settlement data. The main one-year analysis uses 2,609 active clients and estimates logistic regressions of eventual program success using dollar ratio (share of enrolled debt dollars in settled accounts) and number ratio (share of enrolled accounts settled), with additional initial and contemporaneous covariates. The institutional process assigns settlement sequencing largely to the firm rather than the client, which the authors argue reduces bias and approximates a natural experiment. Robustness checks re-estimate models by month since enrollment, allow nonlinear specifications, vary the active-client definition, and use all 5,943 clients to test the starting-problem hypothesis.",
+  "focal_constructs": [
+    "subgoal completion",
+    "goal persistence",
+    "absolute goal progress",
+    "debt account closure",
+    "debt elimination",
+    "self-efficacy",
+    "goal gradient",
+    "starting problem"
+  ],
+  "main_findings": [
+    "Among active clients, a higher fraction of debt accounts settled predicts a higher likelihood of eventual full debt elimination.",
+    "When account fraction and dollar fraction are modeled together, the dollar fraction settled is not a significant predictor, while the account fraction remains significant across specifications and monthly analyses.",
+    "Clients with a larger smallest-debt share (minimum debt relative to total debt) are less likely to become active by settling at least one account, consistent with an initiation benefit from more achievable early subgoals."
+  ],
+  "one_line_summary": "Using debt-settlement field data, the study finds that closing a larger fraction of debt accounts predicts eventual debt elimination better than paying off a larger fraction of debt dollars.",
+  "relation_to_prior_work": "extends prior psychology and marketing research on subgoals by testing subgoal-completion effects in a real, multi-year debt-management setting rather than only immediate post-subgoal contexts. It further extends goal-progress research by distinguishing discrete progress markers (accounts closed) from continuous absolute progress (dollars paid) and showing different associations with persistence.",
+  "research_gap": "Prior work offers conflicting mechanisms for whether subgoal completion helps or hurts persistence and does not yield clear actionable guidance for real settings. The authors argue that evidence is especially limited for long-duration, consequential goals where temporal dynamics may change which mechanisms dominate.",
+  "research_question": "Does completing discrete subgoals increase persistence toward a superordinate long-term goal beyond the absolute progress implied by those subgoals? In consumer debt management, does settling a larger fraction of accounts (controlling for debt dollars settled) predict eventual full debt elimination, and does having a relatively achievable smallest subgoal improve early engagement?"
+}

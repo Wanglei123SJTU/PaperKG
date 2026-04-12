@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in the methods section to justify a specific data-aggregation procedure, not just as background. The authors state that multiple expert ratings may be biased and that they therefore use the confidence-based weighting approach suggested by Van Bruggen, Lilien, and Kacker (2002). This procedure is integrated into their contingency-factor analysis and affects how key predictors are constructed before estimating Table 6 results.",
+  "relation_description": "The citing paper applies Van Bruggen et al. (2002)'s confidence-based multiple-informant aggregation method to combine expert evaluations of product-market characteristics. It uses the cited procedure to reduce informant error and produce bias-adjusted inputs for the BRiC regression analysis.",
+  "relation_type": "applies"
+}

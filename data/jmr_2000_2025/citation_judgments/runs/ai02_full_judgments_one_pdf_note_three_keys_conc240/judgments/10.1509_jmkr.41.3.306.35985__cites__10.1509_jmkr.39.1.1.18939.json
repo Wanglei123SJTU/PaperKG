@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in the methods discussion as the key reference for modeling geographic proximity/spatial correlation across regions. The citing paper explicitly contrasts its own county random-effects specification with that spatial approach, stating it does not incorporate geographic proximity (citing Bronnenberg and Sismeiro 2002) because of complexity and revisits this point in limitations/future research. This is more than a generic literature-list mention because it helps define a core modeling assumption and boundary of the proposed model.",
+  "relation_description": "The citing paper uses Bronnenberg and Sismeiro (2002) as a methodological contrast point for spatially structured regional effects. It positions its own model as a simplified alternative that omits geographic proximity-based correlation and flags the cited approach as a relevant extension path.",
+  "relation_type": "other"
+}

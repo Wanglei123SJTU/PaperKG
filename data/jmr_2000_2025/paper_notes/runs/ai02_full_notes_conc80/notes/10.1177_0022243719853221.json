@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The research introduces an ordinal-versus-nominal attribute distinction as a framework for predicting social matching versus non-matching in sequential choice.",
+    "It provides convergent evidence across multiple product categories and operationalizations, including both consumer-consumer and employee-consumer influence settings.",
+    "It identifies anticipated social discomfort from ordinal mismatching as a process account for why ordinal matching is stronger."
+  ],
+  "context": "The empirical contexts are everyday social consumption and shopping choices, including cake, pasta, wine, ice cream, charitable donations, and granola bars. Scenarios cover both companions choosing sequentially and customers responding to employee disclosures of prior choices.",
+  "design_and_data": "The web appendix documents a multi-study program that includes controlled choice experiments in the main paper (studies 1-8) plus supplemental tests. Reported supplemental data include a marketing manager survey (N = 52), an attribute-perception pretest (N = 155; 142 after attention-screen exclusion), a preference-strength post-test (two MTurk samples of N = 54 each), and a supplemental within-subject experiment on social discomfort across products (N = 156). Experimental tasks crossed two-level ordinal and nominal attributes within product menus and manipulated another person's prior choice (friend, partner, or employee), with analyses using logistic models, ANOVA, paired t-tests, and control-condition comparisons.",
+  "focal_constructs": [
+    "ordinal attributes",
+    "nominal attributes",
+    "social matching",
+    "social mismatching",
+    "social influence on choice",
+    "anticipated social discomfort",
+    "consumer-consumer effects",
+    "employee-consumer effects"
+  ],
+  "main_findings": [
+    "Across the reported studies, matching is consistently stronger for ordinal attributes than for nominal attributes, while nominal effects are often null or show mismatching depending on context.",
+    "Anticipated social consequences are more sensitive to ordinal mismatching: participants expected more negative (and fewer positive) social outcomes when mismatching on size, and study 8 showed greater avoidance of social discomfort when participants matched on size.",
+    "Marketing managers generally expected social influence but did not reliably predict the ordinal-versus-nominal distinction, tending to overestimate nominal matching."
+  ],
+  "one_line_summary": "Across multiple social choice settings, consumers tended to match others more on ordinal attributes (for example size, price, brand prestige, donation amount) than on nominal attributes (for example flavor, shape, cause), partly because ordinal mismatching is expected to create more social discomfort.",
+  "relation_to_prior_work": "extends prior marketing findings on both social matching and social non-matching by showing that attribute structure (ordinal vs. nominal) helps reconcile when each pattern emerges. It transfers distinctions used in ordinal/nominal and vertical/horizontal differentiation literatures into interpersonal choice influence contexts.",
+  "research_gap": "Prior findings in social consumption show both matching and non-matching, but the literatures are fragmented across different attribute types. The paper addresses whether distinguishing ordinal from nominal attributes can organize these mixed results and predict when matching is more likely.",
+  "research_question": "When a person observes another person's prior choice, does social influence produce different copying patterns for ordinal versus nominal attributes? The studies also examine whether anticipated social consequences, especially discomfort from mismatching, help explain stronger matching on ordinal attributes and whether this pattern appears in consumer-consumer and employee-consumer interactions."
+}

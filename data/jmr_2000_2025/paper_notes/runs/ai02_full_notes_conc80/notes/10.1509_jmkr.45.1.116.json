@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces and applies an item-level measure of misresponse for reversed Likert items, including analyses of published archival scale data.",
+    "Develops and contrasts three explicit source explanations for misresponse (inattention, acquiescence, and item verification difficulty) using polarity-truth-value predictions for both errors and latencies.",
+    "Applies the constituent comparison model to Likert responding and shows that verification difficulty maps to observed misresponse and response-latency patterns."
+  ],
+  "context": "The paper studies multi-item Likert scale measurement in marketing and related social-science survey research, where scales commonly mix reversed and nonreversed items. Evidence comes from published scale datasets and controlled student experiments, including computer-based response-time tasks.",
+  "design_and_data": "The authors first run an exploratory study on archived data from previously published studies (31 scale administrations, 48 reversed target items) to estimate misresponse prevalence and compare it with inattention and acquiescence indicators. Experiment 1 is a computer-based 2 x 2 x 2 within-subject design (item polarity x truth value x product feature) with 62 undergraduates, using objective belief information and recorded response latencies. Experiments 2a (paper, n = 143) and 2b (computer, n = 118) randomly assign participants to scale versions with or without negated target items; Experiment 2b also records response latencies. Experiment 3 (n = 483) manipulates item wording within subjects (affirmation, particle negation, affixal negation, implicit negation) with Williams Latin square counterbalancing across 16 published scales and includes additional inattention, acquiescence, and need-for-cognition measures.",
+  "focal_constructs": [
+    "misresponse to reversed Likert items",
+    "item polarity (affirmation vs negation)",
+    "item truth value (true vs false)",
+    "respondent inattention",
+    "respondent acquiescence",
+    "item verification difficulty",
+    "response latency",
+    "constituent comparison model"
+  ],
+  "main_findings": [
+    "Misresponse to reversed items was substantial across studies (exploratory mean 17.50%, with overall evidence near 20%), exceeding the 10% level previously identified as problematic for factor-analytic distortion.",
+    "Misresponse and response-latency patterns matched item verification difficulty predictions: true affirmations were easiest, followed by false affirmations, false negations, and true negations, with near-linear increases tied to predicted constituent comparisons.",
+    "Inattention and acquiescence indicators were generally low and weak predictors of misresponse; implicit negation produced higher misresponse than explicit negation, while affixal and particle negation did not differ significantly."
+  ],
+  "one_line_summary": "Using archival scale data and four experiments, the paper shows that reversed-item misresponse in Likert scales is common and is better explained by item verification difficulty than by inattention or acquiescence.",
+  "relation_to_prior_work": "introduces a direct empirical assessment of how often reversed-item misresponse occurs and what causes it, and transfers a psycholinguistic constituent comparison model to explain Likert error and latency patterns beyond prior psychometric warnings about reversed wording.",
+  "research_gap": "Although prior work linked reversed items to reliability and factor-structure problems, the authors state that research had not directly quantified misresponse frequency or tested its underlying causes. The paper addresses this by explicitly comparing inattention, acquiescence, and item verification difficulty explanations.",
+  "research_question": "How prevalent is misresponse to reversed Likert items, and what process generates it? The paper asks whether observed errors are better explained by respondent inattention, respondent acquiescence, or item verification difficulty driven by the cognitive operations required to verify item polarity and truth value."
+}

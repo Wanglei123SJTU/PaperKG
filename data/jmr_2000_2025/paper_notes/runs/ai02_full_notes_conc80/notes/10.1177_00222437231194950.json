@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides what the authors describe as the first large-scale empirical evidence that institutional threats produce opposite demand shifts for identity-linked domestic brands: internal threats reduce and external threats increase purchases of American-sounding brands.",
+    "Introduces and tests an intraindividual mechanism in which institutional internal threats weaken national identity self-enhancement, rather than relying on a black-sheep derogation account.",
+    "Offers and tests a feasible mitigation strategy for American brands: ad messages that refocus attention on coping with external threats, potentially deployable via geographically targeted local advertising."
+  ],
+  "context": "The paper is set in the United States and studies how threats to American national identity affect consumption of brands that sound American. The main field setting is U.S. grocery retail in 2004 during the Abu Ghraib scandal and Iraq/Afghanistan war casualties, complemented by U.S.-based experiments using brand ads.",
+  "design_and_data": "The authors triangulate across qualitative surveys, surveys, experiments, and secondary data; they report qualitative surveys (N=218), surveys (N=1,603), experiments (N=3,123), and scanner analyses covering over 8,000 brands across more than 1,100 U.S. stores. Study 1 uses weekly IRI supermarket scanner data (1,145 stores, 50 markets, 30 categories, 2004), brand-level American-sounding scores from MTurk ratings (seven evaluations per brand), county-level local war casualty exposure, and state-level Abu Ghraib news coverage in a market-share attraction model. Additional preregistered experiments manipulate internal versus external threats and test ad responses, mediation via national identity self-enhancement, and mitigation via ad copy that emphasizes coping with external threats.",
+  "focal_constructs": [
+    "national identity self-enhancement",
+    "institutional internal threats",
+    "institutional external threats",
+    "American-sounding brands",
+    "brand attitudes",
+    "market share",
+    "mitigation advertising strategy"
+  ],
+  "main_findings": [
+    "In scanner data, higher exposure to Abu Ghraib coverage is associated with lower market share for more American-sounding brands, while higher local war casualties are associated with higher market share for those brands.",
+    "Across experiments, internal threats lower national identity self-enhancement and attitudes toward American-brand ads, whereas external threats raise them; mediation analyses support self-enhancement as the pathway.",
+    "Ad messages that refocus on helping people cope with external threats mitigate internal-threat damage for American brands, but this mitigation does not hold for non-American brands."
+  ],
+  "one_line_summary": "The paper shows that institutional threats to U.S. national identity shift demand for American-sounding brands in opposite directions depending on whether threats are internal or external, and that specific ad refocusing strategies can mitigate internal-threat harm for American brands.",
+  "relation_to_prior_work": "extends prior marketing work on social identity, consumer ethnocentrism, and consumer animosity by examining institutional threats to national identity when product quality is unchanged. It also extends threat research by contrasting internal versus external institutional sources and linking them to opposite consumption responses, then adding a managerially actionable mitigation test.",
+  "research_gap": "The authors argue that marketing has underexamined how geopolitical and institutional systems shape consumer behavior, especially how institutional threats to national identity affect consumption when products themselves are unchanged. They also note limited prior work on mitigation strategies for internal institutional threats to identity-linked brands.",
+  "research_question": "How do institutional threats to national identity affect consumer responses to brands associated with that nation? Specifically, do internal versus external institutional threats produce opposite effects on preference and sales for American-sounding brands through national identity self-enhancement, and can firms mitigate internal-threat damage through advertising that refocuses attention on coping with external threats?"
+}

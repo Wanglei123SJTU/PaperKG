@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a dual-process model of food-sampling experiences in which an automatic affective component and a controlled informational component jointly shape pleasure and subsequent choice.",
+    "The paper provides experimental evidence that distraction during tasting can increase the effectiveness of food-sampling programs for pleasant foods, contrary to common intuition and expert opinion.",
+    "The paper identifies moderators and boundary conditions of distraction effects, including informational valence, affective preload, and consumer expertise or instructed focus."
+  ],
+  "context": "The study is in the context of food-sampling promotions, framed as grocery-store sampling of chocolate. Participants sampled an unfamiliar chocolate (Lindt) and outcomes included reported pleasure and subsequent choice between Lindt and Godiva.",
+  "design_and_data": "The authors report four randomized between-subject laboratory experiments. Experiment 1 (n=224) used a 2 x 2 design manipulating distraction (memorize 8-digit vs 2-digit number) and informational valence (positive quality information vs none) before choice between sampled Lindt and Godiva. Experiment 2 (n=212) used a 2 x 2 design manipulating distraction (8 vs 2 shopping-list items) and preload (salty vs sweet cracker) before sampling and choice; Experiment 3 (n=197) used a 2 x 2 x 2 design adding expertise (undergraduate novices vs culinary students) and measurement order, with both pleasure ratings and choice outcomes. Experiment 4 (n=305) used a 2 x 3 design with distraction (8-item list vs none) and focus instructions (control, sensation, emotion), and measured reported pleasure plus attention to sensory and other product characteristics.",
+  "focal_constructs": [
+    "consumer distraction",
+    "food-sampling effectiveness",
+    "somatosensory pleasure",
+    "affective component",
+    "informational component",
+    "sampled-product choice",
+    "consumer expertise"
+  ],
+  "main_findings": [
+    "In baseline conditions, distraction during tasting increased subsequent choice of the sampled chocolate compared with lower distraction, opposite to most surveyed expert predictions.",
+    "The effect pattern supported the dual-process account: informational-valence manipulations influenced choice mainly under low distraction, and affective-valence manipulation via salt versus sweet preload changed the size and direction of distraction effects.",
+    "Distraction increased reported pleasure and sampled-item choice for novices but not culinary experts, and emotion-focus instructions removed distraction differences in pleasure, favoring the dual-process model over the parallel-process model."
+  ],
+  "one_line_summary": "Across four chocolate-sampling experiments, distraction often increased pleasure and choice of the sampled item by increasing affective influence and reducing informational influence.",
+  "relation_to_prior_work": "extends affect-cognition dual-process theory to food-sampling and directly tests it against the parallel-process account from pain research in a pleasure domain. It also challenges practitioner intuition that paying more attention while tasting should make sampling more effective.",
+  "research_gap": "Prior work and practitioner intuition gave conflicting predictions about whether distraction during pleasurable food tasting helps, hurts, or does not affect sampling outcomes, and there was little direct evidence in food-sampling settings. The mechanism linking distraction to sampling effectiveness, including whether dual-process or parallel-process dynamics apply to pleasure, was unresolved.",
+  "research_question": "Does distraction while consumers taste a pleasant food sample increase, decrease, or not change subsequent preference and choice for the sampled product? Which mechanism better explains any effect in this context - a dual-process model with automatic affective and controlled informational inputs, or a parallel-process model - and does expertise moderate the effect?"
+}

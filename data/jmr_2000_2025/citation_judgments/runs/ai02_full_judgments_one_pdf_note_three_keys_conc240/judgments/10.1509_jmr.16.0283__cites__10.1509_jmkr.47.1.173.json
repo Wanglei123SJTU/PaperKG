@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used as methodological support for the citing paper's core modeling approach, not just as generic background. In the methods section, the authors explicitly reference Osinga et al. (2010) when motivating state equations where intercepts and response parameters evolve over time with carryover and observed marketing inputs. They also place it in the small set of prior dynamic time-varying marketing models, which frames their move to a B2B setting. This indicates a meaningful method-transfer role in the paper's conceptual and econometric setup.",
+  "relation_description": "The citing paper applies the time-varying state-space modeling logic exemplified by Osinga et al. (2010) to a new context: customer-level B2B direct marketing communications and purchase behavior. It uses that prior work as a precedent for modeling evolving marketing effects and latent carryover dynamics.",
+  "relation_type": "applies"
+}

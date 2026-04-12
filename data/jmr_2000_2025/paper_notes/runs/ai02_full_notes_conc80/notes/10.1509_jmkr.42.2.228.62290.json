@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides a unified comparison showing that retailer and manufacturer price-variable definitions are not symmetric in their impact on channel equilibrium outcomes.",
+    "It identifies when outcome invariance holds versus fails across the three commonly used channel game forms, showing full invariance only when manufacturers are Stackelberg leaders.",
+    "It endogenizes channel members' choice of pricing decision variables and shows that the retailer's equilibrium choice is percentage margin while manufacturers are indifferent, and discusses implications for theory and empirical inference."
+  ],
+  "context": "The paper studies a vertical distribution channel with n manufacturers (one product each) selling through a common retailer facing a general consumer demand system. It focuses on standard channel-pricing conduct assumptions used in marketing: manufacturers as Stackelberg leaders, Stackelberg followers, or Bertrand-Nash competitors vis-a-vis the retailer.",
+  "design_and_data": "This is a theoretical game-theoretic analysis rather than an empirical study. The model assumes continuously differentiable demand q_i(p_1,...,p_n), known constant manufacturer marginal costs, and Bertrand-Nash competition among manufacturers. It compares equilibrium implications when each side's decision variable is defined as absolute price, absolute margin, or percentage margin, deriving reaction functions and propositions (with technical derivations in an appendix).",
+  "focal_constructs": [
+    "pricing decision variable definition",
+    "absolute price",
+    "absolute margin",
+    "percentage margin",
+    "Stackelberg leadership and followership",
+    "Bertrand-Nash competition",
+    "equilibrium outcomes",
+    "retail price transmission of manufacturer price changes"
+  ],
+  "main_findings": [
+    "When manufacturers are Stackelberg leaders to the retailer, equilibrium outcomes are invariant to assigning absolute prices, absolute margins, or percentage margins as decision variables for either side.",
+    "When manufacturers are Stackelberg followers to the retailer or Bertrand-Nash competitors to the retailer, outcomes are invariant to manufacturers' variable definitions but are not invariant to the retailer's variable definition.",
+    "If pricing-variable choice is endogenized in those latter two game forms, manufacturers are indifferent among absolute price, absolute margin, and percentage margin, whereas the retailer chooses percentage margin."
+  ],
+  "one_line_summary": "The paper shows that in channel-pricing models the definition of the retailer's price variable can change strategic conclusions except when manufacturers lead as Stackelberg players, and endogenous choice makes retailers select percentage margins.",
+  "relation_to_prior_work": "extends prior distribution-channel pricing models that used different price-variable definitions in separate settings by testing outcome equivalence within one framework, and contrasts with Singh and Vives (1984) and Irmen (1997) by focusing on a vertical channel with multiple upstream firms, allowing different variable definitions across channel levels, and permitting both sequential move orders.",
+  "research_gap": "Prior channel-pricing studies use different definitions of manufacturer and retailer decision variables, but it is unclear whether resulting strategic conclusions differ because of substantive game-form assumptions or because of these variable definitions themselves. The paper addresses this unresolved comparability issue.",
+  "research_question": "Do equilibrium prices and profits in distribution-channel models depend on whether decision variables are defined as absolute prices, absolute margins, or percentage margins? How does this dependence vary across three common manufacturer-retailer game forms, and what definitions emerge when channel members can choose their own pricing variables?"
+}

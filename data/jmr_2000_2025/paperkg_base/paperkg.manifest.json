@@ -1,0 +1,14 @@
+{
+  "paper_summary_path": "C:\\Users\\27497\\Desktop\\PaperKG_Final\\data\\jmr_2000_2025\\crossref_references\\paper_summary.csv",
+  "notes_dir": "C:\\Users\\27497\\Desktop\\PaperKG_Final\\data\\jmr_2000_2025\\paper_notes\\runs\\ai02_full_notes_conc80\\notes",
+  "raw_citations_manifest_path": "C:\\Users\\27497\\Desktop\\PaperKG_Final\\data\\jmr_2000_2025\\citation_triage\\manifest.csv",
+  "judgment_manifest_path": "C:\\Users\\27497\\Desktop\\PaperKG_Final\\data\\jmr_2000_2025\\citation_judgments\\manifest.csv",
+  "judgment_summary_path": "C:\\Users\\27497\\Desktop\\PaperKG_Final\\data\\jmr_2000_2025\\citation_judgments\\runs\\ai02_full_judgments_one_pdf_note_three_keys_conc240\\summary.csv",
+  "sqlite_path": "C:\\Users\\27497\\Desktop\\PaperKG_Final\\data\\jmr_2000_2025\\paperkg_base\\paperkg.sqlite",
+  "paper_count": 1497,
+  "note_count": 1497,
+  "raw_internal_citation_count": 4593,
+  "citation_judgment_count": 4341,
+  "substantive_edge_count": 1868,
+  "skipped_missing_note": 0
+}

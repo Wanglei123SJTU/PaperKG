@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "Clarifies the conceptual distinction between positive/negative attribute framing and gain/loss risky choice framing in managerial decision contexts.",
+    "Shows that perceived issue capability moderates the effect of issue valence on effort investment, producing a preference reversal.",
+    "Identifies variable focus on upside potential and risk taking as mechanisms behind the moderation, and replicates the core interaction with practicing managers."
+  ],
+  "context": "The paper studies how managers allocate limited effort, time, and money across organizational issues. Evidence is drawn from two business scenario experiments and a survey of managers and professionals in a medium-sized Michigan hospital facing demographic change.",
+  "design_and_data": "Study 1 used a 2 x 2 between-subjects experiment (issue valence: positive vs negative; issue capability: high vs low) with 200 undergraduate seniors, where participants allocated part of a USD 100,000 discretionary budget to an issue and then provided thought listings coded into cognitive categories. Study 2 used another 2 x 2 experiment with 61 undergraduates, who allocated 100 preparation hours across three client prospects with different risk profiles (equal expected value), analyzed with MANOVA and ANOVA. Study 3 was a survey of 113 usable responses (from 150 distributed) from hospital managers and professionals, using multi-item scales for issue valence, issue capability, and effort investment; regression tested main and interaction effects.",
+  "focal_constructs": [
+    "issue valence",
+    "issue capability",
+    "effort investment",
+    "attribute framing",
+    "risk taking",
+    "upside and downside focus of attention"
+  ],
+  "main_findings": [
+    "Across studies, issue capability and issue valence interacted: under low capability, participants invested more effort in positively framed issues, but under high capability, they invested more effort in negatively framed issues.",
+    "Cognitive-response evidence in Study 1 showed higher capability was associated with more upside-potential thoughts and fewer downside-potential thoughts, and risk-related thoughts varied with the valence x capability combination.",
+    "In Study 2, allocation to the riskiest high-upside option (Client Y) followed the predicted reversal pattern (higher under negative framing when capability was high, but higher under positive framing when capability was low), supporting risk-taking and attention-focus mechanisms."
+  ],
+  "one_line_summary": "Across three studies, the paper shows that perceived issue capability reverses the effect of issue valence on effort investment, with low-capability decision makers favoring positive frames and high-capability decision makers favoring negative frames.",
+  "relation_to_prior_work": "extends prior marketing framing research by distinguishing attribute framing from risky choice framing and by showing that capability perceptions condition whether positive or negative frames attract managerial effort.",
+  "research_gap": "Prior evidence in managerial framing research generally suggested greater investment in positively framed issues, yet managers are sometimes observed prioritizing negatively framed issues. The paper argues that prior work did not clearly identify moderators of this pattern or cleanly separate attribute framing from risky choice gain/loss framing in this context.",
+  "research_question": "How do issue valence (positive vs negative framing) and perceived issue capability jointly affect managers' effort investment in organizational issues? The paper also asks whether shifts in attention to upside versus downside potential and differences in risk taking help explain this interaction."
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces a heterogeneous variable selection model that performs Bayesian variable selection at the individual level in discrete choice settings by allowing parameter distributions with mass at 0 and away from 0.",
+    "Introduces pooled and hybrid variable selection models to capture context-dependent attribute use when respondents move across choice contexts such as partial versus full profile tasks or experimental versus marketplace settings.",
+    "Introduces a threshold variable selection model, grounded in an extended model of choice, that links activated explanatory variables (concerns and interests) to selected product attributes through a discrete mapping, and provides tractable MCMC estimation algorithms for all proposed models."
+  ],
+  "context": "The paper is set in marketing discrete choice analysis where managers need individual-level information on which product attributes consumers actually use. Empirical applications are a physician medical device conjoint study (partial and full profile contexts) and a consumer toothpaste study combining conjoint tasks, concerns/interests measures, and reported brand choice.",
+  "design_and_data": "The paper develops four hierarchical Bayesian models (heterogeneous, pooled, hybrid, and threshold variable selection) for multinomial and rank-ordered choice data and estimates them with MCMC methods (including Gibbs, griddy Gibbs, and Metropolis-Hastings variants). It reports simulation studies for each model to examine identification and parameter recovery. Empirically, one study uses 111 physicians evaluating medical device choice scenarios (with calibration and holdout tasks), and a second study uses toothpaste survey data with concerns/interests and conjoint plus brand-choice information (448 complete respondents used in model fitting).",
+  "focal_constructs": [
+    "individual-level variable selection",
+    "consumer heterogeneity",
+    "attribute use in brand choice",
+    "choice-context regime shifts",
+    "concerns and interests activation thresholds",
+    "discrete mapping from concerns/interests to attributes",
+    "hierarchical Bayesian discrete choice modeling"
+  ],
+  "main_findings": [
+    "In both empirical applications, variable selection models fit better than baseline models that assume no variable selection and conventional heterogeneity distributions.",
+    "In the medical device study, variable selection models improved holdout predictive accuracy by about 7 to 16 percent, with pooled variable selection best in-sample and the hybrid model best out-of-sample.",
+    "In the toothpaste study, threshold variable selection provided the best fit, supported a complex concerns/interests-to-attributes mapping, and identified unmet concerns/interests not well addressed by current offerings."
+  ],
+  "one_line_summary": "The paper develops and tests hierarchical Bayesian models that identify which product attributes each individual uses in choice decisions, when that set changes across contexts, and in one model why attributes are selected via activated concerns and interests.",
+  "relation_to_prior_work": "extends Bayesian variable selection from aggregate-level model search to individual-level heterogeneous discrete choice, while adding context-dependent and threshold-structured selection mechanisms motivated by extended choice theory.",
+  "research_gap": "Prior Bayesian variable selection work emphasized aggregate-level variable inclusion and did not model which attributes are selected by different individuals in marketing choice data. The paper also argues that existing extended choice frameworks are conceptually rich but do not provide an empirical structure for threshold-based, discontinuous, and discrete mappings from antecedent conditions to attribute use.",
+  "research_question": "How can researchers infer, at the individual level, which product attributes are actually used in brand choice rather than assuming all attributes are always used? How can this attribute set vary across different choice contexts, and can explanatory antecedents (such as concerns and interests) provide a behavioral explanation for why particular attributes are selected?"
+}

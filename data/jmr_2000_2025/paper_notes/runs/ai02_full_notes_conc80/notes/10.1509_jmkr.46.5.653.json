@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Development of a new domain-specific salesperson theory-of-mind (SToM) scale for interpersonal mentalizing in selling.",
+    "Comprehensive validation of SToM measures using classical psychometric approaches, including CFA, structural equation modeling, and multitrait-multimethod analyses.",
+    "Use of fMRI to validate scale-related individual differences at the neural level, presented as one of the first marketing scale-validity tests using neuroscience."
+  ],
+  "context": "The setting is personal selling, where salespeople interact with customers and buying centers and must infer customer intentions, beliefs, and cues. Data come from working salespeople linked to executive education programs, plus an fMRI lab experiment with selected salespeople.",
+  "design_and_data": "Across four studies, the authors develop and validate the SToM scale. Study 1 surveys 132 salespeople and uses item generation, exploratory factor analysis, and confirmatory factor analysis; 33 items are reduced to a 13-item, four-factor scale. Study 2 surveys a new sample of 126 salespeople for replication and predictive tests with self-reported performance, and a separate validation sample of 102 salespeople classified by managers as top or bottom performers. Study 3 uses a multitrait-multimethod design with 132 salespeople and CFA/structural equation modeling; Study 4 uses fMRI with 20 right-handed male salespeople (high vs low SToM) performing auditory interpersonal-mentalizing, process, and unlinked-sentences tasks.",
+  "focal_constructs": [
+    "interpersonal mentalizing",
+    "salesperson theory of mind (SToM)",
+    "rapport building",
+    "detecting nonverbal cues",
+    "taking a bird's-eye view",
+    "shaping the interaction",
+    "social anxiety",
+    "adaptive selling"
+  ],
+  "main_findings": [
+    "The SToM scale comprises four dimensions - rapport building, detecting nonverbal cues, taking a bird's-eye view, and shaping the interaction - that load on a higher-order interpersonal-mentalizing factor, with convergent and discriminant validity across studies.",
+    "SToM measures show criterion-related links to a generalized theory-of-mind scale and are distinct from social anxiety, perspective taking, and adaptiveness.",
+    "SToM predicts sales outcomes: rapport building affects performance indirectly through lower social anxiety, and the other SToM dimensions show direct positive links to performance; in fMRI, higher SToM is associated with stronger MPFC and TPJ activation during mentalizing tasks, while TP differences are weak."
+  ],
+  "one_line_summary": "The paper develops a 13-item, four-dimension SToM scale for salespeople and validates it with psychometric tests and fMRI evidence showing stronger MPFC and TPJ mentalizing activity among high scorers.",
+  "relation_to_prior_work": "introduces a sales force-specific measure of theory of mind in response to calls for better measures of salespeople's ability to read customers beyond superficial cues. It extends prior sales research that emphasized self-report constructs such as adaptiveness by providing both psychometric and neural validation evidence.",
+  "research_gap": "Prior sales research on adaptation and related drivers relied mainly on verbal self-reports and lacked a domain-specific measure of salespeople's ability to read customers at an underlying motive level. The authors also note that scale validity in marketing had not been tested with neuroscience methods such as fMRI.",
+  "research_question": "This paper asks whether a sales force-specific theory-of-mind scale can validly measure salespeople's interpersonal mentalizing ability in customer interactions. It also asks whether salespeople who score high versus low on the scale show different neural activation patterns in brain regions linked to mentalizing."
+}

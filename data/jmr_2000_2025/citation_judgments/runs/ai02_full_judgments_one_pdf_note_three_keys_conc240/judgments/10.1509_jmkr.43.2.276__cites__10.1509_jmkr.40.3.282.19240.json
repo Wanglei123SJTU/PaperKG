@@ -1,0 +1,6 @@
+{
+  "citation_substance": "mention_only",
+  "rationale": "The cited paper appears only once in a grouped citation that lists examples of hierarchical Bayes approaches in consumer choice modeling. In the citing paper, this reference serves as broad background to describe existing sophisticated choice models, before shifting to bagging and boosting for churn prediction. There is no specific discussion of Yang and Allenby's interdependence model, no reuse of its framework or estimation approach, and no direct conceptual dependence in the paper's core arguments.",
+  "relation_description": null,
+  "relation_type": null
+}

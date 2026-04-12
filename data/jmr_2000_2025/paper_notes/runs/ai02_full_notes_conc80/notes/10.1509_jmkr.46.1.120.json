@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops a parsimonious dynamic direct-mail response model with competition that jointly models response incidence and donation amount using own and competitor promotion and purchase histories.",
+    "Incorporates key econometric issues in direct-mail settings by modeling mailing endogeneity (via simultaneous mailing-strategy equations) and unobserved household heterogeneity (Bayesian random effects).",
+    "Provides an empirical application with a uniquely merged household-level database from three Dutch charities, enabling direct measurement of dynamic competitive mailing effects over time."
+  ],
+  "context": "The empirical setting is charitable direct mail in the Netherlands, focusing on three large health charities that often mail the same households. The study examines household donation behavior when multiple competing charities send solicitations over time.",
+  "design_and_data": "The authors merge donor databases from three large Dutch charities to build household-level panel data on mailing dates and donation outcomes for each charity from January 2002 to December 2006. They randomly sample 5000 people from the merged frame and use individual one-year startup periods to initialize dynamic covariates. The model is a dynamic Tobit II with Koyck-type decay and RFM-style own and cross variables for mailing and donation history, estimated with Bayesian MCMC and random effects. To address endogenous targeting, they jointly estimate weekly charity-specific mailing decision probits with the donation model.",
+  "focal_constructs": [
+    "dynamic direct-mail effects",
+    "competitive cross-mailing effects",
+    "response incidence and donation amount",
+    "RFM purchase and promotion history",
+    "Koyck lag decay",
+    "mailing endogeneity",
+    "unobserved household heterogeneity",
+    "charitable giving drivers (irritation, guilt, licensing)"
+  ],
+  "main_findings": [
+    "A charity's extra mailing has a positive immediate revenue effect but a negative indirect own effect on later mailings, indicating short-term cannibalization; this negative effect diminishes over time.",
+    "Competitive charity mailings generate mostly positive short-term cross-effects (complementarity), but these effects fade in the longer run and can weaken at high mailing volumes.",
+    "Ignoring competition materially changes predicted net mailing returns, and the full model indicates that accounting for both competition and mailing endogeneity is important for decision quality."
+  ],
+  "one_line_summary": "Using merged household-level data from three Dutch charities, the paper shows with a dynamic Bayesian model that own direct mailings cannibalize future own donations while competitor mailings can temporarily increase total giving, with both effects fading over time.",
+  "relation_to_prior_work": "extends prior direct-mail research that largely used static single-firm models by estimating household-level dynamic own and cross effects across competing organizations, while correcting for endogenous mailing decisions.",
+  "research_gap": "Prior direct-mail studies were mostly static and single-firm, so they did not identify how competitors' mailings interact dynamically with a focal firm's mailings at the individual level. The paper also addresses the data-driven gap that has limited empirical measurement of competitive direct-mail effects over time.",
+  "research_question": "How do a charity's own direct mailings and competing charities' mailings affect household donation response and donation amount over time? Can these dynamic competitive effects be identified in a parsimonious model that also accounts for mailing endogeneity and household heterogeneity?"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper shows that subjective relative financial dissatisfaction increases desire for food energy and can raise actual food consumption.",
+    "It proposes and tests an energy-based resource exchange account in which money and food calories function as substitutable resources.",
+    "It highlights energy framing as a practically relevant lever for marketing and public policy, beyond the usual taste-versus-health focus in food research."
+  ],
+  "context": "The studies are controlled lab experiments on consumer food decisions after induced feelings of financial dissatisfaction versus satisfaction. The settings include hypothetical dish and snack choices and actual intake tasks using brownies and M&M's.",
+  "design_and_data": "The paper reports five experiments (Study 1: N=63; Study 2: N=197; Study 3a: N=97; Study 3b: N=124; Study 4: N=167), mostly with student participants. Financial dissatisfaction was manipulated with relative bank-account response scales, and in some studies also a writing task about growing up poor versus rich. Outcomes included high- versus low-calorie food choices, choice of an ambiguously healthy snack framed as energetic versus tasty, calorie-content estimates of brownies with versus without food access, and actual brownie and M&M consumption. Analyses used ANCOVA, logistic and ordinal regressions, and bootstrap mediation, with controls such as perceived taste, perceived price, mood/emotional eating, hunger, restraint, time of day, and cognitive load.",
+  "focal_constructs": [
+    "relative financial dissatisfaction",
+    "food energy desire",
+    "caloric food preference",
+    "actual food intake",
+    "resource exchange between money and food",
+    "perceived energy content",
+    "security meaning of money"
+  ],
+  "main_findings": [
+    "Participants in financial dissatisfaction conditions chose more high-calorie items, and this effect was mediated by perceived energy content of chosen foods rather than perceived taste.",
+    "When the same snack was positioned as energetic, financially dissatisfied participants chose it more than financially satisfied participants, but this difference disappeared when the snack was positioned as tasty.",
+    "Financial dissatisfaction distorted energy estimates of brownies (overestimation without access, underestimation with access) and increased actual brownie and M&M intake; in Study 4 this intake effect was stronger among people who attached higher security meaning to money."
+  ],
+  "one_line_summary": "Across five lab experiments, the paper finds that induced financial dissatisfaction increases preference for and consumption of caloric food because people value food for its energy as a substitute resource.",
+  "relation_to_prior_work": "extends prior research on money-food associations and financial dissatisfaction by identifying food energy value, rather than taste alone, as a mechanism linking relative financial dissatisfaction to food choice and intake.",
+  "research_gap": "Prior food-choice research had emphasized taste and health trade-offs, with limited attention to food energy as a distinct driver of consumption. The paper also argues that while financial dissatisfaction was known to motivate financial or conspicuous behaviors, it was unclear whether it would spill over into nonfinancial resource acquisition through caloric intake.",
+  "research_question": "Does subjective relative financial dissatisfaction increase consumers' desire for food energy, leading to choices of higher-calorie options and greater consumption? Is this effect specifically tied to the energetic value of food (rather than taste, price, or mood-based accounts), and when does it strengthen or weaken?"
+}

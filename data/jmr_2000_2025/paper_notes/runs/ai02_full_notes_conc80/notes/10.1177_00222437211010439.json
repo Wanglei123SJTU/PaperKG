@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper claims to be the first to show a causal adjustment effect of incentives on what consumers write in reviews, independent of reviewer-selection effects.",
+    "It claims to identify and test the mechanism that incentives raise review positivity by increasing enjoyment of the review-writing process.",
+    "It claims to specify boundary conditions for this mechanism (association strength between incentive and reviewing, and positivity of receiving the incentive), with practical implications for review programs."
+  ],
+  "context": "The research is in online word of mouth and consumer review writing across multiple domains, including videos, streaming services, fast food, consumer packaged goods, and a campus cafe. Participants wrote real reviews in experiments, and review content was evaluated with NLP tools and human ratings.",
+  "design_and_data": "The paper reports an initial within-writer field analysis of home improvement store reviews comparing the same users' incentivized and unincentivized reviews, and seven controlled experiments (five preregistered). Across studies, participants were assigned to incentive manipulations (presence/absence, financial vs nonfinancial type, sponsor company vs competitor, incentive tied to review vs experiment, and liked vs disliked company source) and then wrote reviews. Main outcomes were LIWC relative positivity (percent positive minus percent negative emotion words) and review-writing enjoyment, with robustness checks using Evaluative Lexicon 2.0 and human judgments in posttests. Samples came from U.S. Prolific, MTurk, and Cornell student populations.",
+  "focal_constructs": [
+    "review incentives",
+    "relative positivity of review content",
+    "enjoyment of review writing",
+    "adjustment effects vs selection effects",
+    "affect transfer",
+    "evaluative conditioning",
+    "incentive-review association strength",
+    "reciprocity"
+  ],
+  "main_findings": [
+    "Incentivized versus unincentivized reviews contained a higher proportion of positive relative to negative emotional language across multiple settings and incentive formats, including financial and nonfinancial incentives.",
+    "Incentives increased enjoyment of the review-writing process, and this enjoyment mediated the effect of incentives on relative review positivity.",
+    "The positivity effect attenuated when incentives were weakly associated with review writing or when incentives came from a disliked company, and it still occurred when a competitor sponsored the incentive, which argues against a pure reciprocity explanation."
+  ],
+  "one_line_summary": "Across a field analysis and seven experiments, the paper finds that incentives for writing reviews increase relative positivity in review text because incentives make review writing more enjoyable.",
+  "relation_to_prior_work": "extends prior incentives and online WOM research that focused on review volume and selection by showing a causal effect on linguistic review content and by testing the underlying process with affect-transfer based moderators.",
+  "research_gap": "Prior research on incentivized reviews mainly examined review volume and who posts, and findings on review valence/content were mixed. The paper addresses whether incentives causally change what people write (an adjustment effect) and through what process.",
+  "research_question": "Do incentives for writing product reviews change review content, beyond changing who chooses to write reviews? Specifically, do incentives increase the proportion of positive relative to negative emotion in review text by increasing enjoyment of review writing, and when does this effect attenuate?"
+}

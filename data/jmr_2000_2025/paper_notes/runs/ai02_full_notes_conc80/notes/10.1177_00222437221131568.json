@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The study empirically validates concerns that corporate lobbying influences automotive recall outcomes and adds a regulatory dimension to recall research that has been mostly business oriented.",
+    "It identifies media coverage as an external, actionable mechanism that stakeholders can use to counterbalance lobbying influence in recall decisions.",
+    "It integrates legitimacy-based institutional theory with the regulatory iron triangle perspective to explain firm and regulator recall behavior."
+  ],
+  "context": "The paper studies the U.S. passenger automobile market, where recalls are overseen by NHTSA and can be voluntary (firm-initiated) or mandatory (regulator-initiated). The setting is a politically active regulatory environment in which auto firms engage in corporate lobbying.",
+  "design_and_data": "The authors assemble a multisource firm-quarter panel for 16 major auto firms over 2008-2016 (576 observations), combining NHTSA recall/complaint/death records with U.S. Senate lobbying disclosures, plus Compustat, Automotive News, LexisNexis, Consumer Reports, and Kantar data. The sample includes 678 unique recalls (591 voluntary, 87 mandatory). The core empirical approach is an instrumental-variable 2SLS setup with separate voluntary and mandatory recall equations and firm/year/quarter fixed effects; lobbying is instrumented with aggregated individual political contributions from counties where firms have headquarters or plants. They also test moderation and indirect moderation and report robustness checks (including simultaneous-equation and nonlinear specifications).",
+  "focal_constructs": [
+    "corporate lobbying expenditures",
+    "voluntary recalls",
+    "mandatory recalls",
+    "defect severity (death reports)",
+    "media coverage (news salience)",
+    "consumer complaints",
+    "regulatory capture (iron triangle)",
+    "legitimacy versus efficiency perspective"
+  ],
+  "main_findings": [
+    "Higher lobbying expenditures are associated with fewer voluntary recalls and fewer mandatory recalls in the IV estimates.",
+    "Defect severity and media coverage both weaken the negative association between lobbying and recalls.",
+    "For voluntary recalls, the media coverage x lobbying interaction fully mediates the moderating effect of defect severity x lobbying (full indirect moderation), while this indirect moderation is not statistically significant for mandatory recalls."
+  ],
+  "one_line_summary": "Using U.S. auto industry panel data and an IV design, the paper finds that greater firm lobbying is linked to fewer voluntary and mandatory recalls, with media attention and defect severity constraining this influence.",
+  "relation_to_prior_work": "extends prior product recall research, which has focused mainly on efficiency-oriented business outcomes, by introducing political influence and regulatory oversight into recall decision making. It combines legitimacy-based institutional theory with regulatory capture (iron triangle) logic to explain why lobbying can affect both firm- and regulator-initiated recalls.",
+  "research_gap": "Prior recall studies largely emphasize performance, marketing-mix, and other business determinants, with limited attention to political and regulatory influences on recall decisions. The paper targets the underdeveloped marketing-politics interface by examining whether lobbying affects both voluntary firm recalls and mandatory regulator recalls.",
+  "research_question": "Does corporate lobbying influence the number of voluntary and mandatory product recalls in the U.S. automobile industry? If so, how do defect severity and media coverage condition this relationship, and does media-lobbying interaction mediate the moderating role of defect severity?"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper is about fairness ideals and QRE estimation in a manufacturer–retailer pricing game, while the cited paper is a Bayesian conjoint-methods study on imputing missing attribute levels in partial profiles. With only a bare DOI match in the references (no contextual citation text) and no overlap in constructs, data, or methods described in the notes, this looks like an incidental/background mention rather than a substantive dependency.",
+  "triage_decision": "drop_obvious_mention_only"
+}

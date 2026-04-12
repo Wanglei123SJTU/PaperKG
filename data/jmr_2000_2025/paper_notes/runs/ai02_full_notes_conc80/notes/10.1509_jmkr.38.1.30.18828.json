@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes transaction decoupling: in one-to-many bundled transactions, costs and benefits become psychologically disassociated, weakening sunk cost pressure on each individual service use.",
+    "It distinguishes transaction decoupling from the psychophysics of aggregated costs by using a semibundled ticket format that separates monetary from physical bundling.",
+    "It identifies two drivers of decoupling - consumer motivation and cost-allocation difficulty - and claims external validity through field attendance data."
+  ],
+  "context": "The paper examines expiring service consumption decisions, using ski-lift usage and theater attendance examples. Its field setting is a 1997 Summer Shakespeare Festival with single-performance and multi-performance ticket purchases.",
+  "design_and_data": "Study 1 was a 2 x 2 between-subjects ski scenario experiment with 80 undergraduates, manipulating lift-ticket bundling and vacation bundling and measuring likelihood of skiing on day 4. Study 2 used 150 undergraduates and compared unbundled tickets, semibundled tickets, and bundled passes, measuring skiing likelihood, pain, regret, repurchase likelihood, and fair refund. Study 3 used a 2 x 3 x 2 between-subjects theater BTGO scenario with 480 undergraduates, manipulating conflict attractiveness, frame (paid-for, ambiguous, free), and allocation difficulty, with attendance likelihood and fair resale price as outcomes. Study 4 used historical transaction and stub-matched attendance records from a summer theater festival (screened to 923 transactions and 6070 tickets; first-play subset 2565) and estimated logistic regressions of ticket usage with controls.",
+  "focal_constructs": [
+    "price bundling",
+    "transaction decoupling",
+    "sunk cost effect",
+    "mental accounting",
+    "coupling of costs and benefits",
+    "psychophysics of aggregated costs",
+    "consumer motivation",
+    "cost-allocation difficulty"
+  ],
+  "main_findings": [
+    "In Study 1, subjects were less likely to ski the final day when lift tickets were bundled as a four-day pass and when vacation costs were bundled, despite equal total spending.",
+    "In Study 2, outcomes followed an ordered pattern (unbundled > semibundled > bundled) for skiing likelihood and sunk-cost-related measures, indicating roles for both aggregated-loss psychophysics and transaction decoupling.",
+    "Study 3 showed strong motivational decoupling and limited marginal evidence for cognitive difficulty effects, and Study 4 showed lower theater ticket usage as the number of performances purchased increased, controlling for ticket price, purchase lead time, payment form, and tickets per performance."
+  ],
+  "one_line_summary": "Across three experiments and one field study, the paper shows that price bundling can decouple perceived costs from benefits, weaken sunk cost pressure, and reduce consumption of paid-for services.",
+  "relation_to_prior_work": "extends sunk cost and mental accounting research by showing that transaction format, specifically price bundling, changes how strongly consumers connect costs to subsequent benefits. It also separates this effect from the psychophysics of aggregated losses and shifts attention from bundling's purchase effects to postpurchase consumption effects.",
+  "research_gap": "Prior work had focused on how bundling affects valuation and purchase behavior, with almost no direct evidence on how bundling affects postpurchase consumption. Aside from speculation, it was unclear whether bundling changes attention to sunk costs and therefore actual use of paid-for services.",
+  "research_question": "How does price bundling affect consumers' likelihood of consuming a paid-for service benefit that can expire? The paper asks whether bundling creates transaction decoupling that weakens sunk cost effects and whether this decoupling is driven by motivation, cognitive allocation difficulty, or both."
+}

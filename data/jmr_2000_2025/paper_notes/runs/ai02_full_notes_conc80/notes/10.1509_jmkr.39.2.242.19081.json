@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops a conceptual model in which an unexpected in-store coupon for a planned purchase increases basket size via a psychological income effect and/or elevated mood, with priming and memory mechanisms shaping where extra purchases occur.",
+    "Provides an in-store field experiment that tests both overall basket effects and the allocation of incremental unplanned purchases across product types (sale items, treats, complements, and nearby items).",
+    "Adds supporting evidence from the Stanford Market Basket Data that in-store instant coupon use is associated with higher trip spending."
+  ],
+  "context": "The setting is supermarket shopping, focusing on instant in-store surprise coupons such as electronic shelf and peel-off coupons intended for immediate use. Primary evidence comes from two grocery chains in a middle-class St. Louis suburb, with supplemental evidence from the Stanford Market Basket grocery panel.",
+  "design_and_data": "The authors intercepted 192 grocery shoppers entering two store chains, screened for shoppers with at least 15 planned items and at least one planned purchase in cereal, laundry detergent, spaghetti sauce, or paper towels. Of these, 105 received a $1 surprise category coupon tied to one planned focal purchase and 87 served as controls; after checkout, planned items (list plus verbally recalled planned items) were subtracted from receipt items to identify unplanned purchases and spending. They then tested hypotheses on total unplanned purchasing and on specific unplanned-purchase types: items on sale, treat items, cognitively related complements, and products in the same aisle as the primed item. They also analyzed Stanford Market Basket Data (1042 consumers, 10 stores, 24 categories, two-year window) to test H1 by comparing spending in coupon-use weeks versus adjacent noncoupon weeks, with a noncoupon comparison group.",
+  "focal_constructs": [
+    "unexpected in-store coupons",
+    "unplanned purchases",
+    "shopping basket size",
+    "psychological income effect",
+    "elevated mood state",
+    "treat purchases",
+    "cognitively related purchases",
+    "close-proximity purchases"
+  ],
+  "main_findings": [
+    "Shoppers who received a surprise coupon made more unplanned purchases (11.37 vs 7.76) and had larger baskets in dollars ($83.91 vs $75.22), with higher unplanned-spend totals ($27.26 vs $19.58).",
+    "The coupon group made significantly more unplanned treat purchases, cognitively related purchases, and close-proximity purchases, while evidence that they made more unplanned sale-item purchases was mixed/partial.",
+    "A $1 surprise coupon was associated with about $7.68 more unplanned spending than controls, and the Stanford panel analysis showed roughly an 11% spending increase in weeks when shoppers used an in-store coupon versus adjacent noncoupon weeks."
+  ],
+  "one_line_summary": "Using an in-store grocery experiment plus panel basket data, the paper finds that unexpected in-store coupons for planned purchases increase total basket spending by increasing unplanned purchases, especially treats, complementary items, and nearby products.",
+  "relation_to_prior_work": "extends prior coupon and in-store promotion research by shifting the outcome from brand/category sales to total market-basket effects and by testing how incremental purchases are distributed within the store.",
+  "research_gap": "Prior coupon and in-store promotion research largely emphasized brand- or category-level outcomes, with little direct evidence on whether unexpected in-store coupons increase total basket sales. The paper also addresses the underexamined question of where incremental unplanned purchases are allocated across the store.",
+  "research_question": "Do unexpected in-store coupons encountered during a grocery trip increase total basket size by generating additional unplanned purchases? If they do, are those incremental purchases concentrated in items on sale, treats, products cognitively related to the couponed item, and products in close shelf proximity?"
+}

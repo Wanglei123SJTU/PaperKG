@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The comment highlights intentional strategies and feedback loops as concrete mechanisms for why geographic brand-share variation persists.",
+    "It proposes that category-level retailer-manufacturer interaction can be strong, persistent, and appear in market-level data as a geographic effect.",
+    "It provides an illustrative cross-retailer regional soft-drink example to show how such interaction patterns can persist despite major retailer changes."
+  ],
+  "context": "The paper is a comment on U.S. consumer packaged goods markets, where national and regional brands show persistent local share skews. Its empirical illustration uses Pepsi and Coke regular soft-drink shares across two national nonfood retailers and U.S. regions.",
+  "design_and_data": "This is primarily a conceptual comment paper built around mechanism-based arguments rather than a full formal model. It includes an illustrative table of 2003 annual dollar shares for Pepsi and Coke regular soft drinks in two national nonfood retailers across eight U.S. regions. The author reports consistent retailer-brand patterns across regions and notes that these effects persisted in 2006, while noting different patterns in bottled water. No formal identification strategy is presented.",
+  "focal_constructs": [
+    "geographic variation in brand share",
+    "intentional marketing allocation",
+    "trade promotion effectiveness",
+    "advertising and coupon intensity",
+    "share-distribution feedback loop",
+    "retailer-manufacturer interaction",
+    "local preference reinforcement"
+  ],
+  "main_findings": [
+    "Marketing programs such as trade promotion, advertising, coupons, and special events can be allocated more heavily to already strong markets and can reinforce existing geographic share differences.",
+    "Share and distribution are argued to form a positive feedback loop, in which stronger prior share supports stronger future distribution and distribution supports future sales.",
+    "In the soft-drink illustration, Pepsi is consistently stronger in Retailer A and Coke in Retailer B across regions, and the pattern is described as persistent over time."
+  ],
+  "one_line_summary": "This commentary argues that persistent geographic differences in U.S. CPG brand shares are sustained by intentional marketing allocation, share-distribution feedback loops, and stable retailer-manufacturer category interactions.",
+  "relation_to_prior_work": "extends Bronnenberg, Dhar, and Dube (2007) by moving from documenting persistent geographic brand-share differences to proposing mechanism-level explanations centered on marketing allocation, distribution feedback, and retailer-manufacturer interactions.",
+  "research_gap": "Prior evidence documents persistent geographic share variation, but the mechanisms that sustain it are not fully specified. The comment argues that beyond retailer-only and manufacturer-only main effects, category-level retailer-manufacturer interactions and feedback loops require attention.",
+  "research_question": "How can the substantial and persistent geographic variation in leading brand shares be explained? The comment examines whether intentional marketing practices, endogenous distribution dynamics, and retailer-manufacturer interactions can maintain local share differences over time."
+}

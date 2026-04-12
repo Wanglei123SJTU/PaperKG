@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper treats DeSarbo, Grewal, and Scott (2008) as a key prior method that jointly integrates segmentation and positioning, and it is explicitly used in the focused related-work comparison (including Table 1). Ringel uses this citation to define the closest methodological precedent and then states a concrete limitation for the current problem: the earlier approach does not identify or properly visualize multimarket membership products. This role is part of the paper's framing and contribution logic, not a generic background mention.",
+  "relation_description": "The citing paper extends the integrated clustering-and-mapping line represented by DeSarbo et al. (2008) by introducing M4 to detect overlapping submarket memberships and map multimarket products in multiple local competitive contexts on a single map. It positions M4 as overcoming a limitation of that prior approach rather than reusing its exact model.",
+  "relation_type": "extends"
+}

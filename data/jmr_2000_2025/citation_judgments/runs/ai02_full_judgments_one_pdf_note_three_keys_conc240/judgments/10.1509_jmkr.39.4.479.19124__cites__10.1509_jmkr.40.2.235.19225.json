@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used to justify concrete design and estimation decisions in the simulation study, not just as general background. In the methods discussion, the authors explicitly rely on Andrews and Currim (2003) to support using validation-sample log-likelihood (instead of BIC) for selecting the number of finite-mixture components, and they also reference it for how segment separation is manipulated. Because these choices affect the core model comparison setup, the citation plays a meaningful methodological role.",
+  "relation_description": "The citing paper draws on Andrews and Currim (2003) as methodological support for key simulation-design choices, especially segment-retention via validation log-likelihood for finite-mixture logit models. It uses that prior result as a basis for how finite-mixture specifications are constructed and evaluated.",
+  "relation_type": "foundational_for"
+}

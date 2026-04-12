@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces a hierarchical Bayes error-correction model (VAR rewritten in ECM form) to separate immediate from dynamic sales effects of price changes.",
+    "Explicitly distinguishes temporary promotional price changes from permanent regular price changes, and estimates immediate, cumulative, and long-term elasticities within one framework.",
+    "Relates brand-level and category-level characteristics directly to these elasticity measures in a single hierarchical estimation, avoiding a two-step estimation setup."
+  ],
+  "context": "The study is set in packaged-goods retailing using supermarket scanner data from Dominick's Finer Foods in the Chicago area. It analyzes brand sales behavior across multiple mature grocery categories where sales are treated as stationary after controls.",
+  "design_and_data": "The empirical application uses weekly data from September 1989 to May 1997 for 25 product categories, with the top four brands per category (100 brands total), aggregated from SKU to brand level. For each category, the authors estimate an ECM representation of a VARX model for log sales, including promotional price index, regular price, display, feature, competitive promotional price indexes, and seasonal/holiday controls. Actual prices are decomposed into regular price and promotional components using asymmetric cubic spline smoothing. A second-level hierarchical Bayes model links own immediate and dynamic elasticity parameters to standardized brand/category covariates, estimated by MCMC (Gibbs with Metropolis-Hastings steps).",
+  "focal_constructs": [
+    "immediate promotional price elasticity",
+    "cumulative promotional price elasticity",
+    "immediate regular price elasticity",
+    "long-term regular price elasticity",
+    "postpromotion dynamics",
+    "brand and category moderators",
+    "hierarchical Bayes error-correction model"
+  ],
+  "main_findings": [
+    "Immediate promotional price effects are typically larger in magnitude than cumulative promotional effects, implying that part of the promotion spike is offset in subsequent periods.",
+    "Promotional discount sensitivity is lower in categories with higher price dispersion and lower budget share, while deeper discounts (at both category and brand levels) increase promotional price sensitivity.",
+    "Immediate effects of regular price changes are often close to zero, but long-term regular-price effects are stronger; long-term sales gains from regular price decreases are larger in categories with high price dispersion, frequent promotions, and hedonic nonperishable products."
+  ],
+  "one_line_summary": "The paper develops and applies a hierarchical Bayes error-correction model to distinguish immediate and dynamic sales effects of promotional versus regular price changes and explain their cross-brand and cross-category heterogeneity.",
+  "relation_to_prior_work": "extends prior price-promotion elasticity research by jointly modeling immediate and dynamic effects in one hierarchical ECM framework, explicitly separating temporary promotions from permanent regular-price changes, and addressing the relatively underdeveloped evidence on determinants of regular price elasticity.",
+  "research_gap": "Prior studies largely focused on immediate promotional elasticities, often with two-step methods, and offered limited treatment of dynamic effects and little evidence on determinants of regular price elasticity. The paper also notes that literature often conflates temporary price promotions with permanent regular price changes, making effect definitions and comparisons unclear.",
+  "research_question": "How do temporary price promotions and permanent regular price changes differ in their immediate and dynamic effects on brand sales? Which brand-specific and category-specific characteristics explain cross-sectional differences in immediate promotional effects, cumulative promotional effects, and long-term regular price effects?"
+}

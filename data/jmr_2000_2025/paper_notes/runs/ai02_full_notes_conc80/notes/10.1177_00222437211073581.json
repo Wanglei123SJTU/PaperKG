@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper formalizes a precision-versus-mismatch tradeoff, via a stylized model, showing conditions under which external validity can peak and then decrease as more questions are asked.",
+    "It provides process-level evidence from mouse-tracking and eye-tracking that respondents adapt decision processes during elicitation, and that adaptation is task-format specific.",
+    "It demonstrates across time-preference and conjoint applications that asking fewer questions can yield better external validity than longer elicitation tasks."
+  ],
+  "context": "The studies are set in two common measurement domains: intertemporal choice (time preference elicitation) and marketing conjoint choice. External validity is evaluated against other choice tasks and behavior-related outcomes, including a behavior index, consumer credit scores, and a conjoint holdout choice task.",
+  "design_and_data": "The paper reports four studies. Study 1 recruited 353 MTurk participants (300 analyzed) who completed two 16-question static intertemporal choice sessions with delay format manipulations (days vs equivalent hours), while mouse-tracking captured information search. Study 2a used 1,308 participants and Study 2b used 478 community participants (417 with credit scores), both using a 20-question adaptive DEEP Time task; time-preference parameters were re-estimated after each question and linked to external criteria (BLB intertemporal choices, a 26-item behavior index, and credit scores). Study 3 reanalyzed eye-tracking data from 70 participants completing 20 static conjoint choices among Dell laptops and an external validity choice task.",
+  "focal_constructs": [
+    "preference elicitation",
+    "external validity",
+    "task-specific adaptation",
+    "decision-process mismatch",
+    "measurement precision",
+    "time preference parameters (beta and delta)",
+    "conjoint partworths",
+    "comparative versus integrative information search"
+  ],
+  "main_findings": [
+    "With more elicitation questions, respondents shifted toward more comparative and selective search, and this adaptation was format-specific in intertemporal tasks (e.g., hour delays increased delay comparisons and less patient choices).",
+    "In DEEP Time data, external validity for time-preference estimates was highest early: it peaked around questions 7-9 for predicting another intertemporal task and plateaued from about question 6 for behavior-index and credit-score prediction.",
+    "In conjoint data, search increasingly concentrated on fewer attributes, estimated partworths changed across questions, and holdout-task hit rates peaked early (question 6 when holdout was after, question 3 when before) then declined; search concentration partially mediated this decline."
+  ],
+  "one_line_summary": "Across four studies in intertemporal choice and conjoint settings, the paper shows that repeated elicitation questions induce task-specific adaptation in decision processes, so external validity often peaks after only about 6-9 questions and can then decline.",
+  "relation_to_prior_work": "challenges the standard more-is-better assumption in preference measurement and complements process-tracing work by linking within-task adaptation to out-of-task predictive validity losses.",
+  "research_gap": "Prior work on preference measurement mainly emphasizes precision gains from asking more questions, implicitly assuming stable data-generating processes across repeated trials. The paper targets the underexamined possibility that respondents adapt to repetitive elicitation formats in task-specific ways, creating process mismatch with target behaviors and reducing external validity.",
+  "research_question": "How does the number of questions in a preference elicitation task affect external validity for predicting behavior in other settings? The paper asks whether additional questions improve parameter precision but simultaneously induce task-specific adaptation in decision processes, and whether this tradeoff can produce a peak and then decline in predictive validity."
+}

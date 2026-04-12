@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces a formal model of new product launch in which consumers attribute observed sales to both intrinsic quality and visible marketing effort, so firms may strategically choose demarketing even when stronger marketing is available at no extra cost.",
+    "Derives boundary conditions for when demarketing is an optimal ex ante strategy, emphasizing the role of a sufficiently important late market and intermediate prior quality beliefs.",
+    "Provides behavioral validation with human-subject experiments showing that buyers and sellers behave in line with the model's attribution-based predictions."
+  ],
+  "context": "The paper studies a monopolistic new product introduction setting with early and late consumers, where late consumers observe first-period marketing effort and sales and update quality beliefs. Experimental tasks use an e-book reader launch scenario over a two-year horizon.",
+  "design_and_data": "The core evidence is a two-period analytical model with incomplete information: the seller privately knows quality (high vs low), chooses marketing level and introductory price, early consumers receive private inspection signals and buy, and late consumers infer quality from observed first-period marketing and sales plus their own inspection signal. Equilibrium analysis focuses on pooling outcomes where low-quality sellers mimic high-quality sellers, and derives propositions on beliefs, profits, and optimal (de)marketing conditions. The paper then reports five scenario-based experiments: Studies 1, 2, 4, and 5 use MTurk participants (100, 149, 100, and 99 respondents, respectively), and Study 3 uses 99 U.S. business students. The experiments manipulate marketing intensity, prior uncertainty, market growth, and observability of past sales/marketing, and measure perceived quality or choice of moderate versus intensive marketing.",
+  "focal_constructs": [
+    "demarketing",
+    "consumer quality inference",
+    "observational learning",
+    "marketing effort visibility",
+    "prior quality beliefs",
+    "new product adoption",
+    "early vs late consumer segments"
+  ],
+  "main_findings": [
+    "For a given observed sales volume, consumers infer lower product quality when prior marketing effort is more intensive, and higher quality when marketing is toned down.",
+    "Demarketing can be profit-maximizing in equilibrium when the future market (late consumers) is sufficiently important and prior quality beliefs are in an intermediate range; it is not optimal when priors are very pessimistic or very optimistic.",
+    "Experimental participants choose demarketing more under high quality uncertainty and high market growth, less when past sales or past marketing are unobservable, and more when quality-inference considerations are made salient."
+  ],
+  "one_line_summary": "The paper shows theoretically and experimentally that visibly reducing early marketing can sometimes increase expected profit by improving consumers' quality inferences from subsequent sales outcomes.",
+  "relation_to_prior_work": "extends prior demarketing research by modeling demarketing as an attribution-management tool for building quality image over time rather than as capacity shedding, segment pruning, scarcity creation, or competitive differentiation. It also extends observational learning and pricing work by allowing fully observable marketing and pricing actions to shape how consumers interpret observed sales in a monopoly setting.",
+  "research_gap": "Prior literature documents savvy consumer attribution and self-handicapping behavior, but it does not clearly establish when choosing adverse marketing conditions is ex ante optimal for firms. Existing demarketing explanations largely focus on excess demand, segmentation, scarcity, or differentiation rather than managing quality inferences from sales.",
+  "research_question": "How should a seller choose marketing intensity when consumers attribute market performance to both product quality and marketing push? Specifically, can a seller optimally choose demarketing ex ante, and under what belief and market conditions does this strategy improve expected profit?"
+}

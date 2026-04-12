@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper devotes a full reanalysis subsection to Sela and LeBoeuf (2017), summarizes its design and original mediation claim, and then re-estimates that study with the new Bayes-factor/measurement-error procedure. This is not a passing mention: the cited study is used as a key empirical test case for the article's methodological argument. The authors report that their approach rejects conditional independence in that dataset and therefore questions whether the original indirect-effect result identifies mediation as the data-generating model.",
+  "relation_description": "Laghaie and Otter use Sela and LeBoeuf (2017) as a worked reanalysis example and argue that, under their framework, the study's evidence does not uniquely identify mediation. Thus, the citing paper uses the cited paper to challenge the strength of the original mediation interpretation while still discussing partial-mediation estimation under assumptions.",
+  "relation_type": "challenges"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper gives the 2002 paper a clear functional role in framing and method development, not just background listing. It explicitly states that prior testing by Brusco, Cradit, and Stahl (2002) provides a foundation for the current research extension, then positions its contribution as moving from bicriterion/single-dependent-variable segmentation to multicriterion (at least tricriterion) clusterwise regression. The citing study also references and uses the same simulated annealing heuristic lineage and discusses how its treatment of weights and aspiration levels relates to the 2002 approach.",
+  "relation_description": "The citing paper directly builds on Brusco, Cradit, and Stahl (2002) by extending its bicriterion simulated-annealing segmentation framework to a multicriterion clusterwise regression problem with multiple dependent variables. It adopts the SA heuristic basis and generalizes the earlier setup to broader joint segmentation trade-offs.",
+  "relation_type": "extends"
+}

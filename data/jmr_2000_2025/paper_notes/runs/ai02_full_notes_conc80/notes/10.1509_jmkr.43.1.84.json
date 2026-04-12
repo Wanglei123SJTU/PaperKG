@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces a bilateral bargaining model with competing manufacturers and competing asymmetric multiproduct retailers, so bargaining positions are determined endogenously through disagreement payoffs.",
+    "It shows that the rise of a dominant low-cost retailer does not necessarily reduce manufacturer profits; manufacturers can gain from retailer efficiency advantages.",
+    "It provides pricing and channel-management implications, including differentiated wholesale prices across retailers and how consumer information can shift bargaining leverage toward manufacturers."
+  ],
+  "context": "The paper is motivated by consumer product channels with \"power retailers\" such as Wal-Mart competing with weaker retailers such as Kmart or Target. The modeled setting has two retailers carrying one or two competing brands, with consumers choosing a store and then a product.",
+  "design_and_data": "This is a theoretical game-theoretic paper with no empirical dataset. It develops a benchmark one-manufacturer/one-retailer Nash bargaining model and then a general two-stage model with two manufacturers and two competing multiproduct retailers that bargain bilaterally and simultaneously over wholesale prices before retailers set retail prices. Retailer asymmetry is exogenously introduced as a marginal retailing cost advantage for one retailer (Delta c = cK - cW). Because closed-form wholesale-price solutions are not available in the general model, key comparative-static results are obtained through numerical simulations over parameter values satisfying model assumptions.",
+  "focal_constructs": [
+    "retailer cost asymmetry",
+    "bilateral Nash bargaining",
+    "bargaining position via outside options",
+    "wholesale price differences across retailers",
+    "manufacturer profits",
+    "retail price strategic complementarity",
+    "channel surplus distribution",
+    "consumer product information"
+  ],
+  "main_findings": [
+    "When retailing costs are asymmetric (Delta c > 0), the low-cost retailer obtains a lower negotiated wholesale price than the high-cost retailer (pW < pK).",
+    "Manufacturer profits can increase as the low-cost retailer's cost advantage rises, due to more sales being channeled through the efficient retailer and strategic retail-pricing effects that increase extractable surplus.",
+    "If consumers are informed about product preferences before store choice, manufacturers' bargaining positions improve and wholesale prices are higher than in the uninformed-consumer case."
+  ],
+  "one_line_summary": "The paper uses a bilateral bargaining model of competing manufacturers and asymmetric competing retailers to show that a dominant low-cost retailer can increase, not decrease, manufacturer profits while receiving lower wholesale prices.",
+  "relation_to_prior_work": "extends prior channel power and bargaining models by analyzing competing multiproduct retailers with asymmetric retailing costs, whereas earlier work emphasized single multiproduct retailers or symmetric competing retailers. It also incorporates strategic effects of retail competition into bilateral bargaining-based surplus allocation.",
+  "research_gap": "Prior channel theory had not explicitly modeled cost asymmetry between competing multiproduct retailers in a bilateral bargaining framework, and thus could not show how such asymmetry affects manufacturer outcomes. Existing bargaining papers also did not explicitly trace how retailer competition feeds into surplus distribution within each manufacturer-retailer negotiation.",
+  "research_question": "Do manufacturers necessarily lose profits when one retailer becomes dominant because of lower retailing costs? How does exogenous retailer cost asymmetry affect negotiated wholesale prices, retail pricing, and the distribution of surplus among manufacturers, retailers, and consumers in competing channels?"
+}

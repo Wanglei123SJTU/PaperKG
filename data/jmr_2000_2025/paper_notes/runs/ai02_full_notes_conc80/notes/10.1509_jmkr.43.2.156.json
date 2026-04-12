@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces a vertical-differentiation explanation of price-matching guarantees in which both offering and not offering a guarantee act as branding signals of a retailer's service-price profile.",
+    "It shows that signaling can be credible and costless because informed consumers discipline mimicry, yielding conditions where only low-service retailers use guarantees.",
+    "It provides retailer-level empirical evidence from Canadian chains supporting the service-based prediction and the competition-service interaction."
+  ],
+  "context": "The study focuses on retail markets where chains sell comparable branded products but differ in service levels. Empirical evidence comes from Canadian chains in department store/mass merchandiser, electronics, sporting goods, and toy retailing.",
+  "design_and_data": "The authors develop a game-theoretic model of two vertically differentiated retailers with identical marginal costs and a mix of informed and uninformed consumers. They solve for perfect Bayesian equilibria over guarantee-policy choices and prices, including conditions under which a separating equilibrium arises. For evidence, they compile data on 66 Canadian chains from the 2002 Directory of Retail Chains in Canada and headquarters phone verification of low-price-guarantee policies. They estimate probit models where guarantee adoption is explained by a service proxy (employees per square foot), chain size (total square footage), competition intensity constructed from provincial store shares, cooperative status, and retailer-type fixed effects.",
+  "focal_constructs": [
+    "price-matching guarantees",
+    "vertical service differentiation",
+    "informed and uninformed consumers",
+    "service-price positioning",
+    "costless signaling",
+    "low-price guarantee adoption",
+    "retailer size and marginal cost",
+    "competition intensity"
+  ],
+  "main_findings": [
+    "When service differentiation is large and the uninformed share is positive but not too large, a separating equilibrium exists in which only the low-service retailer offers a price-matching guarantee and the high-service retailer does not.",
+    "In the Canadian chain sample, lower-service retailers are significantly more likely to offer low-price guarantees, and larger chains are also more likely to do so.",
+    "Competition interacts with service: as competitive intensity rises, low-service chains become more likely to adopt guarantees while high-service chains become less likely, consistent with guarantees being competitive positioning tools rather than collusive tools."
+  ],
+  "one_line_summary": "Using a vertical-differentiation signaling model and data from 66 Canadian retail chains, the paper shows that low-service retailers are more likely to offer low-price guarantees, especially under stronger competition.",
+  "relation_to_prior_work": "challenges the dominant collusion and price-discrimination interpretations of price-matching guarantees by showing a separating signaling equilibrium in vertically differentiated retail markets. It extends prior signaling work based on horizontal differentiation by modeling service-based vertical differentiation and testing predictions with retailer-level field data.",
+  "research_gap": "Existing collusion and price-discrimination theories do not convincingly explain why, within the same market, some retailers offer price-matching guarantees while others do not, and often imply different adopter types than casual observation suggests. The paper also identifies limited systematic empirical evidence on which retailers adopt these guarantees.",
+  "research_question": "What kind of retailer has a greater incentive to offer an advertised price-matching (low-price) guarantee? Specifically, do service differences imply that low-service retailers are more likely than high-service retailers to adopt guarantees, and how does competition affect this pattern?"
+}

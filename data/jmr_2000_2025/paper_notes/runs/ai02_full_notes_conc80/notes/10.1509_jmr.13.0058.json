@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Identifies, through integration of cross-cultural values research, which life values are most equal versus least equal in importance across countries and explains this pattern with adaptive societal-function arguments.",
+    "Builds and validates links between brand image attributes and Schwartz value types using semantic analysis, prior literature, and four supplementary consumer matching studies.",
+    "Provides large-scale empirical tests that positioning consistency and competitive-set similarity jointly shape multicountry brand attitudes, including a first market-data test of competitive-set heterogeneity in this context."
+  ],
+  "context": "The paper studies global brand management for multicountry brands that are marketed across national markets with potentially different cultural values and rival sets. The empirical setting spans 22 developed and emerging countries and 27 broad product and service categories.",
+  "design_and_data": "The main data come from Young & Rubicam's Brand Asset Valuator database, with 64,790 consumers evaluating 1,723 brands present in at least two countries. Respondents provided brand familiarity and related measures plus yes/no endorsements of brand image attributes, which were aggregated to brand-by-country measures and standardized for cross-country response-style differences. The authors used factor analysis to build multi-item image factors and an attitude composite, then estimated brand-level weighted OLS and hierarchical linear models relating cross-country positioning consistency to attitudes. To connect BAV attributes to Schwartz values, they combined conceptual and linguistic matching with four consumer matching studies (n=115, 122, 258, 198), and they computed a Hellinger-index measure of competitive-set similarity across countries.",
+  "focal_constructs": [
+    "multicountry brand positioning consistency",
+    "cross-national variation in life-value importance",
+    "brand image attributes",
+    "overall brand attitudes",
+    "standardization versus adaptation",
+    "competitive set heterogeneity",
+    "Schwartz value types (benevolence, universalism, self-direction, power, hedonism)"
+  ],
+  "main_findings": [
+    "The effect of a brand's cross-country positioning consistency depends on the underlying value type: consistency is less effective when linked to values that vary more across countries, supporting the paper's core prediction at an omnibus level.",
+    "For power- and hedonism-linked image attributes, greater global consistency is associated with lower overall brand attitudes, while allowing more cross-country variation is associated with better attitudes.",
+    "For benevolence/universalism/self-direction-linked attributes, pooled tests indicate a positive payoff to consistency but disaggregated tests are mixed; exploratory analyses indicate consistency performs better when the brand's competitive set is more homogeneous across markets."
+  ],
+  "one_line_summary": "Using multicountry BAV field data, the paper shows that global positioning consistency helps or hurts brand attitudes depending on whether the value-linked image attributes are uniformly desired across countries, and that competitive-set homogeneity further conditions these effects.",
+  "relation_to_prior_work": "extends the standardization-versus-adaptation literature by identifying specific value-linked needs with different cross-market homogeneity and empirically testing their attitudinal consequences, while also testing competitive-similarity moderation with market data.",
+  "research_gap": "Prior international marketing strategy research had not identified which specific consumer values are sufficiently similar across countries to justify standardized positioning. It also had not provided objective market-data tests of how cross-market competitive-set similarity affects the effectiveness of standardized positioning.",
+  "research_question": "Which image attributes should multicountry brands position consistently across countries given cross-national differences in the importance of cultural values? The paper asks whether consistency in value-linked positioning increases or decreases overall brand attitudes, and whether this relationship depends on the similarity of the competitors a brand faces across its markets."
+}

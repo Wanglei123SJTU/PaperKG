@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides what the authors describe as the first empirical investigation of multiple theoretical rationales for slotting allowances using highly disaggregated offer-level data.",
+    "Uses a unique data set of all new product offers to one retailer (including accepted and rejected offers) to test competing efficiency and anticompetitive explanations.",
+    "Offers evidence interpreted as supporting efficiency-enhancing roles of slotting allowances and supporting the FTC's caution against an outright ban."
+  ],
+  "context": "The paper studies slotting allowances in U.S. grocery retailing, where manufacturers make lump-sum payments to retailers for stocking new products. The empirical setting is one large regional supermarket chain in the northeastern United States.",
+  "design_and_data": "The authors analyze all new product offers made to one supermarket chain over nine months (June 1986 to February 1987). The full set includes 2,186 offers, with 1,021 usable observations across 21 categories, and 143 offers with slotting allowances; they observe whether a slotting allowance was offered but not its dollar magnitude. Data combine retailer records on offer terms (e.g., test market information, advertising support, competing-store acceptance, retailer acceptance decision) with buyer questionnaire ratings and manufacturer revenue data from Ward's directory. They estimate logistic regressions to test each rationale, add models with all variables and category fixed effects, and run robustness checks with endogeneity-adjusted ratings and a two-stage correction in the retailer-acceptance model.",
+  "focal_constructs": [
+    "slotting allowances",
+    "shelf-space opportunity cost",
+    "new product failure risk",
+    "manufacturer private information signaling",
+    "test market information",
+    "advertising support",
+    "retail competition mitigation",
+    "retailer power"
+  ],
+  "main_findings": [
+    "Overall, the data provide more support for efficiency-enhancing rationales than for anticompetitive rationales.",
+    "Slotting allowances are positively associated with shelf-space scarcity proxies and follow risk-balancing patterns, including an inverted U-shape with retailer success ratings and different large-versus-small manufacturer patterns.",
+    "The evidence is consistent with signaling and manufacturer-side mitigation of retail competition to induce participation/distribution, while providing little support for retailer-collusion or retailer-power explanations."
+  ],
+  "one_line_summary": "Using disaggregated offer-level data from one supermarket chain, the paper finds that slotting allowances in new product introductions are more consistent with efficiency mechanisms than with anticompetitive retailer-power or collusion stories.",
+  "relation_to_prior_work": "extends prior survey-based and aggregate-data studies by testing competing slotting-allowance theories with disaggregated transaction-level data on all offers to a single retailer. It distinguishes predictions from efficiency and anticompetitive models that earlier empirical approaches could not cleanly separate.",
+  "research_gap": "The paper states that existing empirical evidence on slotting allowances is inconclusive, largely because prior work relies on surveys or aggregate data and cannot discriminate among competing theoretical predictions. It also notes the lack of highly disaggregated data linking specific offers, terms of trade, and buyer evaluations.",
+  "research_question": "Do slotting allowances in grocery new product introductions primarily enhance market efficiency or hinder competition? Which specific efficiency-enhancing and anticompetitive rationales are supported when tested with detailed offer-level data on manufacturer-retailer transactions?"
+}

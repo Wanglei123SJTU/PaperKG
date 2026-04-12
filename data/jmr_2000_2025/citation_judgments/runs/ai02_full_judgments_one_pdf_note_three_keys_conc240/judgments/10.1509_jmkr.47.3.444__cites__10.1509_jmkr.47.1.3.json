@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper explicitly identifies Petrin and Train (2010) as a key contemporaneous study that addresses the same slope-endogeneity problem using a control-function approach in discrete choice models. It then directly contrasts that work with its own method, arguing its approach is better suited to forecasting marketing-mix responsiveness with aggregate/panel data, multiple endogenous variables, and carryover effects. This is more than a passing background mention because the citation helps define the methodological positioning and claimed contribution of the paper, even though the cited model is not directly reused in estimation.",
+  "relation_description": "The citing paper uses the cited paper as a substantive methodological comparison point and positions its own control-function framework as a differently scoped approach for marketing-mix forecasting. The role is primarily comparative positioning of contribution rather than direct method adoption.",
+  "relation_type": "other"
+}

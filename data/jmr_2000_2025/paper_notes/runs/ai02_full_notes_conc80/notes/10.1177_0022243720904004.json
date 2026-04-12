@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "This is the first study to show that the market-share effects of visual design dimensions (segment typicality and brand typicality) depend on consumer-based brand equity components and can reverse in sign.",
+    "The paper integrates visual design theory with brand equity research and generalizes fluency-based insights from human face processing to branded consumer products.",
+    "It provides objective, managerially usable visual design measures from front, side, and rear product images and links them to real-market outcomes in a large longitudinal setting."
+  ],
+  "context": "The empirical setting is the U.S. car market, where exterior appearance is important and models compete within brand portfolios and segment categories. The study covers 39 major brands and seven segments from 2000 to 2012.",
+  "design_and_data": "The authors analyze quarterly market shares for 456 car models, yielding 9,256 model-quarter observations. Segment typicality and brand typicality are measured objectively from standardized front, side, and rear images using 120 feature points and Euclidean distance to time-varying segment and brand prototypes. Brand equity is measured with Young & Rubicam BAV and reduced via principal components to relevant stature (RS) and energized differentiation (ED), with annual values interpolated to quarters. Estimation uses a multinomial market-share attraction model with brand and segment fixed effects, model random effects, marketing and life-cycle controls, interaction terms, and Gaussian copula controls for endogeneity.",
+  "focal_constructs": [
+    "visual segment typicality",
+    "visual brand typicality",
+    "consumer-based brand equity",
+    "relevant stature (RS)",
+    "energized differentiation (ED)",
+    "processing fluency",
+    "market share"
+  ],
+  "main_findings": [
+    "RS positively moderates the effect of brand typicality on market share and negatively moderates the effect of segment typicality.",
+    "The three-way interactions RS x brand typicality x segment typicality and ED x brand typicality x segment typicality are significantly negative, while ED does not show significant two-way interactions with either typicality dimension.",
+    "Simulations indicate that high-RS brands gain most by increasing brand typicality and decreasing segment typicality, whereas low-RS brands gain most by increasing segment typicality and avoiding stronger brand-typical design."
+  ],
+  "one_line_summary": "Using U.S. car market panel data, the paper shows that brand equity strongly conditions how visual segment and brand typicality influence market share, implying different design strategies for strong versus weak brands.",
+  "relation_to_prior_work": "extends prior objective product-design research by modeling interactions between segment and brand typicality and two CBBE components (RS and ED), and transfers fluency-based typicality insights from human-face research to branded product markets.",
+  "research_gap": "Prior product design research had not modeled visual design decisions in the context of brand equity, especially with objective design measures and explicit interactions between design typicality and CBBE components. Existing studies using brand-related controls generally relied on single indicators (for example, brand liking or advertising spending) rather than distinct equity dimensions and their interaction with design.",
+  "research_question": "How can firms leverage brand equity when designing product appearance? Specifically, the paper asks how segment typicality and brand typicality affect demand and whether these effects are moderated by relevant stature (RS) and energized differentiation (ED) of the brand."
+}

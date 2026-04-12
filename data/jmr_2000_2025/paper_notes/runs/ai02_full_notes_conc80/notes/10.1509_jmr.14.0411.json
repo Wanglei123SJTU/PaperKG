@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Documents the market-level effects of third-party-induced, mandatory price transparency in a real retail setting where firms do not choose whether to disclose prices.",
+    "Identifies separate own-sign and cross-sign pricing responses, showing how information effects propagate across stations along the highway.",
+    "Provides policy-relevant evidence on both price levels and residual price uncertainty by combining station pricing data with consumer transaction data."
+  ],
+  "context": "The study examines fuel retailing in the Italian toll-highway system (autostrada), where motorists buy at Motorway Service Area gas stations and historically had limited pre-stop price information. A 2007 law required large electronic roadside signs that post prices for nearby stations in each travel direction.",
+  "design_and_data": "The authors use daily station-level gasoline prices from the Italian Ministry of Economic Development (January 2008 to September 2010), matched to sign locations and activation dates in the Autostrade network. They estimate difference-in-differences models with station and time fixed effects, exploiting staggered sign installation to separate a station's own-sign effect from preceding and following cross-sign effects (baseline competitor window: 100 km, with robustness to other cutoffs). They also test effects on sign-level price dispersion before versus after posting. For demand-side evidence, they estimate an individual purchase model using loyalty-card transactions from one major oil company (13,722 cardholders; 1,812,070 observations; October 2008 to May 2009).",
+  "focal_constructs": [
+    "price transparency",
+    "mandatory price posting",
+    "own-sign effect",
+    "cross-sign effect",
+    "retail gasoline prices",
+    "price dispersion",
+    "consumer price sensitivity",
+    "price uncertainty"
+  ],
+  "main_findings": [
+    "Mandatory price posting lowered gasoline prices by about 1 euro cent per liter on average, roughly 20% of typical station margins.",
+    "The total price decline is split about equally between own-sign and cross-sign effects; own-sign effects are strongest for stations closest to the sign, preceding cross-sign effects are not significant, and following cross-sign effects are negative and significant.",
+    "Overall price dispersion changed little after posting (with some reduction when stations are closer together), and transaction data show that although price sensitivity rises after signs, fewer than 10% of consumers appear to use posted information effectively."
+  ],
+  "one_line_summary": "Using staggered mandatory fuel price signs on Italian highways, the paper finds that transparency reduced station prices by about 1 euro cent per liter but left substantial price uncertainty because only a small minority of consumers used the information effectively.",
+  "relation_to_prior_work": "extends prior price advertising and sale-sign research by analyzing mandatory third-party price disclosure rather than firm-chosen price communication. It also refines earlier transparency evidence from more limited settings by exploiting staggered rollout across many stations and separating own-sign from cross-sign effects.",
+  "research_gap": "Despite the spread of price transparency initiatives, there was limited field evidence on how firms react when a third party posts comparable prices, and theory predicted both lower prices from reduced search costs and higher prices from easier coordination. Existing price-advertising studies largely focused on discretionary firm communication, making the causal effect of mandatory disclosure itself less clear.",
+  "research_question": "How does mandatory third-party price posting affect retail gasoline pricing in the Italian highway system? Specifically, does greater transparency lower prices through stronger competition or raise prices through easier coordination, and does it reduce consumer price uncertainty?"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces and documents the concept of self-image-consistent product perceptions: customization shifts specific attribute perceptions in the direction of consumers' own self-image.",
+    "Shows that customization effects are not uniformly positive; depending on product attribute position and consumer self-image, customization can improve or worsen perceived attributes and related communications.",
+    "Provides and tests intervention strategies - framing the task as choice and strengthening positioning with labels - that mitigate negative customization effects."
+  ],
+  "context": "The paper studies consumer markets where customers assemble products from components, including clothing design, food assembly (Greek yogurt, muesli, gimbap), and vacation-package activity selection. Evidence is collected in a restaurant field setting, student labs in Europe and North America, and online panels (MTurk and Prolific).",
+  "design_and_data": "The authors run six experiments across field, lab, and online settings, primarily manipulating customization versus noncustomization; Study 4 adds a chooser-framing condition and Study 5 adds an organic-label manipulation. A core design choice is to keep objective outcomes comparable across conditions (including yoked assignment and pretested equivalent ingredients/activities), so differences can be attributed to customization and framing. Self-image tied to each focal attribute is measured with multi-item scales (fashionable self-image, healthy-eating self-schema, SSS-TAS adventurousness), and outcomes include attribute perceptions, recommendations to target users, and health-related hashtag use. The paper also reports an internal random-effects meta-analysis across the main studies.",
+  "focal_constructs": [
+    "product customization",
+    "self-image",
+    "self-image-consistent product perceptions",
+    "attribute-specific product perceptions",
+    "perceived control",
+    "product recommendations",
+    "product labeling"
+  ],
+  "main_findings": [
+    "Across product categories, customization interacted with attribute-relevant self-image: customizers' perceptions of focal attributes aligned with their own self-image more than noncustomizers', even when products were objectively matched.",
+    "In healthy-food contexts, customization often lowered perceived healthiness overall and especially among participants with lower healthy-eater self-image, with downstream effects on recommendations and social media hashtag content.",
+    "Framing the same task as a simple choice (instead of customization) and adding labels that strengthen positioning (e.g., organic) attenuated the self-image-consistent perception effect, particularly when consumers' self-image conflicted with the attribute cue."
+  ],
+  "one_line_summary": "Across six experiments, the paper shows that customizing an objectively identical product makes consumers judge key product attributes in ways that match their own self-image, affecting recommendations and social media portrayal.",
+  "relation_to_prior_work": "extends prior customization research that emphasized higher overall evaluations by showing that attribute-level perceptions can move positively or negatively through a customization x self-image interaction. It also extends extended-self and identity-consistent processing work by showing when self-transfer to products weakens under choice framing and strong extrinsic labels.",
+  "research_gap": "Prior work and manager beliefs emphasized positive overall consequences of customization (e.g., value, satisfaction, willingness to pay) and largely overlooked effects on specific product attributes. The paper addresses the unresolved issue of whether customization can also produce negative attribute perceptions depending on consumers' trait-specific self-image.",
+  "research_question": "Does the mere act of customization alter perceptions of specific product attributes even when the final product is objectively the same as a noncustomized alternative? If so, are these perceptions guided by consumers' own self-image in the relevant domain, and can firms reduce undesirable effects through framing and labeling interventions?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides an empirical marketing application showing that bagging and stochastic gradient boosting classification trees can outperform a binary logit model for churn prediction while offering interpretable diagnostics such as variable importance and partial dependence.",
+    "The paper adapts and tests two simple bias-correction approaches for balanced rare-event samples in bagging and boosting: weighting correction and intercept correction.",
+    "The paper shows, in a large-sample churn setting, that balanced sampling with appropriate correction is preferable to proportional sampling for ranking customers by churn risk."
+  ],
+  "context": "The empirical setting is customer churn prediction for an anonymous major U.S. wireless telecommunications carrier. The model targets whether mature subscribers churn in days 31-60 after the sampling date so firms can run proactive retention actions.",
+  "design_and_data": "The study uses three customer datasets from the Teradata Center at Duke University: two calibration sets of 51,306 subscribers each (one proportional with about 1.8% churn and one balanced with oversampled churners) and a holdout validation set of 100,462 subscribers with about 1.8% churn. The dependent variable is a churn indicator, and the authors retain 46 predictors (31 continuous, 15 categorical) from an initial 171 variables, with explicit missing-value handling rules. They estimate bagging and stochastic gradient boosting with classification trees as base learners, and compare them with a binary logit benchmark. Model performance is assessed on the holdout sample using error rate, top-decile lift, and Gini coefficient, including comparisons of two bias corrections for balanced sampling.",
+  "focal_constructs": [
+    "customer churn prediction",
+    "bagging",
+    "stochastic gradient boosting",
+    "classification trees",
+    "rare-event classification",
+    "balanced versus proportional sampling",
+    "intercept correction",
+    "top-decile lift"
+  ],
+  "main_findings": [
+    "Both bagging and stochastic gradient boosting significantly outperformed binary logit on holdout churn prediction, with reported gains greater than 16% in Gini coefficient and 26% in top-decile lift.",
+    "Bagging and stochastic gradient boosting achieved similar predictive accuracy in this application, while bagging was simpler to use.",
+    "For balanced calibration samples, weighting and intercept corrections both lowered error rates versus no correction, but intercept correction yielded much better Gini and top-decile lift; with intercept correction, balanced sampling outperformed proportional sampling on these ranking metrics across logit, bagging, and boosting."
+  ],
+  "one_line_summary": "Using U.S. wireless churn data, the paper finds that bagging and stochastic gradient boosting trees beat binary logit and that balanced rare-event sampling works best when combined with an intercept correction.",
+  "relation_to_prior_work": "introduces bagging and stochastic gradient boosting to marketing churn modeling, where the authors state prior marketing literature had no references to these methods. It also extends rare-event sampling practice beyond logit-focused corrections by adapting and empirically comparing weighting and intercept corrections for bagging and boosting.",
+  "research_gap": "The authors explicitly state that marketing literature had not yet applied bagging or boosting classifiers to this type of problem. They also note that existing bias corrections for balanced rare-event samples were mainly developed for traditional models such as logit, leaving no established correction for bagging and boosting and limited evidence for large-sample settings.",
+  "research_question": "Do bagging and stochastic gradient boosting outperform a traditional binary logit model for predicting customer churn in a wireless telecom setting? If they do, what are the implications for targeting profitability and churn drivers? For rare-event data, which bias correction is preferable under balanced sampling, and does a bias-corrected balanced sample beat a proportional sample even with large calibration sizes?"
+}

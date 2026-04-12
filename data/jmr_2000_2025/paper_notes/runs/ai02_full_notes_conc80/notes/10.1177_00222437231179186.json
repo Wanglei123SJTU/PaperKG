@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Identifies the graphical display format of rating distributions as an important, platform-controlled determinant of consumer judgment in online WOM.",
+    "Proposes and tests a visual reference-point mechanism: truncating the x-axis in simple bar graphs shifts the endpoint from 100% to the peak value, inflating perceived ratings.",
+    "Demonstrates that display format affects both preconsumption evaluations and postconsumption rating behavior, with implications for review-platform design."
+  ],
+  "context": "The paper studies online consumer review environments in e-commerce and review platforms, contrasting Amazon-like proportional rating-distribution graphs with Google-like simple graphs. The empirical contexts include product/service evaluation tasks and platform comparisons such as Google and TripAdvisor.",
+  "design_and_data": "The authors report six studies (plus three web-appendix studies), with online participant experiments from MTurk, Prolific, and CloudResearch and a field comparison study. Study 1 (N=1,192) uses a mixed design with 200 sampled rating distributions (from 130,000 generated distributions) shown in simple vs proportional formats; Studies 2-4 test estimation/perception and alternative explanations with additional manipulated formats and products (N=284, 607, 400). Study 5 (N=921) tests postconsumption rating behavior in a website-use scenario where prior ratings are shown in simple vs proportional format. Study 6 matches 343 New York City restaurants across Google and TripAdvisor and estimates platform differences with mixed-effects regression.",
+  "focal_constructs": [
+    "online consumer reviews",
+    "rating distribution displays",
+    "simple bar graphs",
+    "proportional bar graphs",
+    "visual reference points",
+    "peak value",
+    "imbalance score",
+    "future ratings"
+  ],
+  "main_findings": [
+    "Displaying the same rating distribution in a simple (truncated x-axis) versus proportional (0%-100%) bar graph increases product/service evaluations.",
+    "The simple-format advantage is weaker at higher peak values and stronger at higher imbalance scores, and simple graphs produce overestimation and inflated recall of rating-bar values.",
+    "Prior ratings shown in simple format lead to more favorable subsequent ratings in experiment, and matched field data show higher ratings on Google than on TripAdvisor, consistent with this pattern."
+  ],
+  "one_line_summary": "Across six studies, the paper shows that simple (truncated x-axis) rating-distribution bar graphs make identical ratings look more favorable than proportional graphs and can also increase later posted ratings.",
+  "relation_to_prior_work": "extends prior online WOM research centered on textual and statistical review attributes by isolating a neglected visual display factor, and extends graphical-perception findings by showing that reference-point shifts in bar-chart axes alter rating perception, evaluation, and rating behavior.",
+  "research_gap": "Prior online review research has mainly examined attributes such as review text, average rating, volume, and variance, with limited attention to visual presentation features that platforms fully control. Even work using rating distributions has not clearly established how different graphical formats of the same distribution change consumer interpretation and judgment.",
+  "research_question": "Do different graphical formats of identical online rating distributions (simple vs proportional bar graphs) lead to different consumer judgments? If so, is the effect driven by shifts in visual reference points, and when is it stronger or weaker (e.g., by peak value and imbalance score)? The paper also asks whether the format of prior ratings affects consumers' subsequent posted ratings."
+}

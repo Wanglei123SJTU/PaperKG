@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s design note explicitly states it \"apply[ies] a control-function endogeneity correction for email contacts,\" while the cited paper’s core contribution is introducing a control-function approach to handle endogeneity in consumer choice models. This indicates a plausible method-source/foundational use rather than a casual mention. The DOI match (10.1509/jmkr.47.1.3) confirms the specific methodological reference.",
+  "triage_decision": "keep_for_relation_judgment"
+}

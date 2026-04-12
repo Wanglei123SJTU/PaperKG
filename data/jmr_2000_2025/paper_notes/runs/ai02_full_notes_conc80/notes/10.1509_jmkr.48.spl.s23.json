@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "The paper presents what the authors describe as the first demonstration that interacting with age-progressed renderings of one's own face can increase future-oriented financial choice.",
+    "It proposes a third, complementary intervention for intertemporal choice that targets connectedness between present and future selves, rather than precommitment or elaborating future rewards.",
+    "It shows that the effect can be implemented not only in immersive virtual reality but also in lower-cost online decision-aid formats."
+  ],
+  "context": "The paper is set in the problem of inadequate retirement saving in the United States and studies intertemporal financial decisions. Experiments were run in immersive virtual reality labs and web-based interfaces with student and U.S. online adult samples.",
+  "design_and_data": "The authors report four experiments. Study 1 (N = 50 students) randomly assigned participants to see either current-self or age-progressed future-self avatars in immersive VR before a hypothetical $1,000 allocation task. Study 2 (N = 21 students) used a masked procedure comparing future-self versus future-other aged avatars and measured short-term discounting, long-term discounting, and a retirement spending choice. Study 3a (N = 42 students) used an online slider-based retirement allocation aid with age-progressed or current photos that changed expression with allocations, and Study 3b (Mechanical Turk adults ages 18-35; final analyzed sample n = 38) replicated the online task with neutral fixed faces and added a Future Self-Continuity measure.",
+  "focal_constructs": [
+    "future self-continuity",
+    "temporal discounting",
+    "retirement saving behavior",
+    "age-progressed self-renderings",
+    "immersive virtual reality",
+    "intertemporal choice"
+  ],
+  "main_findings": [
+    "In Study 1, participants exposed to their future-self avatar allocated more than twice as much money to retirement as those exposed to their current-self avatar.",
+    "In Study 2, participants exposed to their own future-self avatar showed higher saving-oriented responses across discounting and retirement-choice measures than participants exposed to another person's aged avatar.",
+    "In Studies 3a and 3b, online exposure to age-progressed future-self images increased chosen retirement allocations, and in Study 3b future self-continuity increased and statistically mediated the condition-allocation link."
+  ],
+  "one_line_summary": "Across four experiments, making people's future selves vivid with age-progressed renderings increased future-oriented financial choices, including higher retirement allocations.",
+  "relation_to_prior_work": "introduces a third route for improving intertemporal financial decisions by targeting psychological connectedness between present and future selves, complementing prior approaches based on precommitment and future-reward elaboration. It extends earlier correlational and neural work on future self-continuity by experimentally manipulating exposure to the future self and testing downstream choice effects.",
+  "research_gap": "Prior remedies for excessive discounting in saving decisions mainly focus on constraining present consumption or increasing the appeal of future rewards, not on strengthening identification with the future self. The paper addresses the lack of intervention evidence on whether making the future self vivid can causally increase saving-oriented choices.",
+  "research_question": "Does increasing the vividness of a person's future self through age-progressed digital renderings increase willingness to favor delayed rewards and save more for retirement? The paper also asks whether these effects generalize from immersive virtual reality to practical online decision-aid settings and whether future self-continuity is a mechanism."
+}

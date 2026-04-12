@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in the core design-method section, where the authors position their new f-criterion against Bayesian D-criterion benchmarks and explicitly cite Kessels et al. as part of the standard efficient-choice-design literature. The citing paper also draws on Kessels et al. for concrete evaluation guidance, including the EMSE-based comparison of parameter and predictive performance and interpretation of utility-balance/entropy. These are methodological uses that shape both framing and assessment of the proposed approach, not a passing mention.",
+  "relation_description": "The citing paper treats Kessels et al. (2006) as a methodological foundation for efficient choice-experiment design and for how design performance should be evaluated. It builds its benchmark comparisons and performance metrics around that prior framework while introducing a new compound criterion for selective choice contexts.",
+  "relation_type": "foundational_for"
+}

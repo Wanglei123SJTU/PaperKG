@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Claims to be the first to provide a theoretical explanation for the coexistence of multiple online advertising pricing schemes and the rising popularity of hybrid schemes.",
+    "Claims to be the first to endogenize publishers' pricing-scheme choice within an advertising auction framework, instead of taking pricing format as given.",
+    "Demonstrates a trade-off between allocative efficiency and quality separation under information asymmetry, and introduces a new uncompromised equilibrium refinement to characterize when hybrid pricing is an equilibrium."
+  ],
+  "context": "The paper studies Internet advertising auctions where publishers sell ad impressions to competing advertisers, with motivation from both display and search advertising markets. Publishers can offer pay-per-impression, pay-for-performance (for example, pay per click), or a hybrid mix used by platforms such as Google Display Ads, Facebook, and AOL.",
+  "design_and_data": "The study is a theoretical game-theoretic analysis of a one-shot game with one publisher and n risk-neutral advertisers competing for a single impression in an auction. Advertiser quality and publisher quality are modeled as high/low types, and each side observes only noisy signals about the other side, with misclassification probabilities capturing information asymmetry. The publisher first chooses a pricing scheme (PPI, PPC, or hybrid), then advertisers bid under generalized second-price style allocation/payment rules; expected revenues are derived using equilibrium winning probabilities and revenue equivalence. Equilibrium pricing choices are characterized using perfect Bayesian equilibrium and additional refinements, including a new uncompromised equilibrium concept.",
+  "focal_constructs": [
+    "two-sided information asymmetry",
+    "publisher quality uncertainty",
+    "advertiser quality uncertainty",
+    "pay-per-impression pricing",
+    "pay-for-performance pricing",
+    "hybrid PPI/PPC pricing",
+    "allocative efficiency",
+    "publisher quality signaling"
+  ],
+  "main_findings": [
+    "With two-sided information asymmetry and when PPI base revenue is at least PPC base revenue, low-quality publishers choose PPI, while high-quality publishers choose PPC only when quality-separation benefits exceed allocative-inefficiency losses.",
+    "A high-quality publisher is better off with a hybrid scheme than pure PPI ceteris paribus, while a low-quality publisher prefers pure PPI, because hybrid pricing reduces pooling costs while keeping PPI-like allocative efficiency via advertiser self-selection.",
+    "Under the uncompromised equilibrium refinement, hybrid pooling (H,H) can arise under many conditions and can supplant PPI pooling, helping explain the growth of hybrid pricing and in some cases improving overall allocative efficiency by reducing reliance on pure P4P."
+  ],
+  "one_line_summary": "The paper develops a signaling-auction model of online advertising to show when publishers optimally choose PPI, P4P, or hybrid pricing under two-sided information asymmetry and why hybrid schemes can emerge as equilibrium choices.",
+  "relation_to_prior_work": "extends prior online advertising pricing research by modeling pricing schemes as endogenous choices within auctions and by incorporating allocative-efficiency effects from noisy advertiser-quality estimates. It extends hybrid-auction studies that treated hybrid formats as exogenous by explaining when hybrid adoption is an equilibrium outcome. It also connects to mechanism design with informed principals by treating the publisher as a privately informed mechanism designer.",
+  "research_gap": "The paper argues that despite widely varying publisher practices, there is no systematic theoretical understanding of which pricing schemes publishers should offer in online advertising, especially display advertising. Prior work either studies bilateral contract settings or assumes auction pricing formats are exogenous, so it does not explain endogenous coexistence of PPI, P4P, and hybrid schemes.",
+  "research_question": "Which pricing schemes should publishers offer in market equilibrium when publishers and advertisers have asymmetric information about each other's quality? Can a unified model explain the coexistence of PPI and P4P and the increasing popularity of hybrid pricing schemes?"
+}

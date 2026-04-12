@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops a general discrete-time model of successive-generation diffusion that jointly represents first-time sales, subscription renewals, leapfrogging, and switching between generations.",
+    "It introduces a proportional hazards specification to incorporate marketing-mix covariates in a multiple-generation setting and contrasts this with Bass and generalized Bass alternatives.",
+    "It provides empirical evidence from cellular telephony that intergenerational price interactions matter, implying single-generation pricing estimates can miss part of the pricing effect."
+  ],
+  "context": "The empirical setting is a European cellular telephone market with two successive analog NMT generations: NMT450 and NMT900. The market includes both handset adoption and ongoing service subscriptions, so renewals are central to observed outcomes.",
+  "design_and_data": "The authors build a two-generation diffusion system in discrete time where subscriptions are decomposed into first-time sales and renewals, with explicit leapfrogging and switching multipliers. They test three adoption-time specifications (Bass, generalized Bass, and proportional hazards with a Bass baseline), two parameter constraints across generations (equal versus unequal q), and two leapfrogging assumptions, yielding 12 models. Estimation uses full-information maximum likelihood in SAS PROC MODEL on yearly data from 1981-1994: subscriptions for each generation and inflation-adjusted price measures transformed into relative price variables. They then back-calculate first-time sales from the fitted subscriptions model.",
+  "focal_constructs": [
+    "successive-generation diffusion",
+    "marketing-mix covariates",
+    "price elasticity over time",
+    "first-time adoption",
+    "subscription renewals",
+    "leapfrogging",
+    "intergenerational switching",
+    "proportional hazards model"
+  ],
+  "main_findings": [
+    "The proportional hazards models with price outperform no-covariate and generalized Bass alternatives, and the best fit is the unequal-q specification with leapfrogging allowed.",
+    "Estimated price elasticities are strongly time-varying: they generally decline over the life cycle, with first-generation elasticity rising after second-generation launch and second-generation elasticity declining faster.",
+    "Price responses interact across generations: lowering first-generation price increases both first-generation and later second-generation subscriptions (via installed-base effects), whereas lowering second-generation price increases second-generation subscriptions while reducing first-generation subscriptions."
+  ],
+  "one_line_summary": "The paper develops and estimates a proportional hazards model for first-time sales and subscriptions of two successive cellular phone generations and shows that price effects are dynamic and interdependent across generations.",
+  "relation_to_prior_work": "extends prior multiple-generation diffusion models by explicitly incorporating marketing-mix covariates and intergenerational leapfrogging and switching, and extends Jain's single-generation proportional hazards treatment of covariates to a successive-generation subscriptions framework.",
+  "research_gap": "Prior successive-generation diffusion models largely omitted marketing-mix variables, and the literature had called for models that integrate such covariates. The authors also note a lack of empirical work extending single-generation estimates of price response to successive-generation markets.",
+  "research_question": "How can a diffusion model for successive technology generations be formulated to jointly capture first-time adoption and ongoing subscriptions while incorporating marketing-mix effects? Using that framework, what role does price play in the diffusion and substitution dynamics of two cellular telephone generations?"
+}

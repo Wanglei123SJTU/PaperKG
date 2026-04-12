@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper’s note describes a dynamic individual-level Type II Tobit framework with communication decay/interaction effects and Bayesian random-effects estimation, which closely overlaps with the citing paper’s dynamic Tobit II, Koyck decay, and Bayesian MCMC setup. Given this strong methodological overlap (and only a DOI-level match in raw evidence), this is plausibly a method/foundation citation rather than an obvious incidental mention, so it should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

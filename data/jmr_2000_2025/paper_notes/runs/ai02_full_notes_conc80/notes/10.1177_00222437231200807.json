@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides the first large-scale field evidence on CMP sales effects in retail FMCG markets, including average effect size, campaign duration, donation depth, and comparison with price promotions.",
+    "Quantifies how competitive/category context and brand-price positioning shape CMP effectiveness, showing CMP lift can more than double under favorable conditions.",
+    "Quantifies the moderating role of concurrent price promotions on CMP performance and shows that brands in less favorable contexts can achieve above-average CMP lift by combining CMPs with price promotions."
+  ],
+  "context": "The empirical setting is the German fast-moving consumer goods market, covering grocery and drugstore categories in major supermarket chains. CMPs are executed at point of sale via packaging in competitive, high-assortment retail environments.",
+  "design_and_data": "The study analyzes 63 nationwide CMP campaigns across 20 FMCG categories over 417 weeks (2006-2013). CMP campaign details were compiled from Lebensmittel Zeitung and validated with additional sources and brand contacts, then matched to GfK household-panel sales data aggregated to brand-chain-week observations. The sample includes 123 brands, the four largest supermarket chains in Germany (more than 73% market coverage), and 241 CMP campaign-chain combinations. The authors estimate hierarchical Bayesian multilevel log-log sales models (three model variants) with controls for own and competitive promotions, nonprice promotions, advertising adstock, seasonality, and promotion dynamics, and model contextual moderation of CMP and CMP x PP effects.",
+  "focal_constructs": [
+    "cause-related marketing promotions (CMPs)",
+    "sales lift",
+    "consideration-set formation",
+    "concurrent price promotions (PPs)",
+    "brand leadership",
+    "relative price position",
+    "price-promotion frequency",
+    "category assortment complexity"
+  ],
+  "main_findings": [
+    "CMPs run about 11 weeks with an average donation depth of 3.2% of product price and produce an average weekly sales lift of 4.9%.",
+    "Unlike price promotions, CMPs in these data show no significant postpromotion sales dip after campaign end.",
+    "CMP effectiveness is higher for category leaders, lower-priced brands, and simpler assortments, and a concurrent 10% price reduction increases CMP sales lift by about 6.64% beyond the PP main effect; PP support is especially valuable in less favorable contexts."
+  ],
+  "one_line_summary": "Using 63 CMP campaigns in German FMCG retail, the paper finds that CMPs increase sales on average but work best when brands are likely to be considered or when concurrent price promotions make the CMP salient.",
+  "relation_to_prior_work": "extends prior CMP research from mostly simplified laboratory and single-option field settings to actual FMCG point-of-sale sales data, and tests contextual moderators tied to consideration-set formation that earlier work could not evaluate in realistic market complexity.",
+  "research_gap": "The paper argues that prior CMP evidence is dominated by experiments in simplified choice contexts and does not estimate actual point-of-sale sales lift in complex FMCG markets. It also identifies limited evidence on how market context and brand positioning moderate CMP effectiveness under real competitive conditions.",
+  "research_question": "What is the short-term sales impact of cause-related marketing promotions at the point of sale in real FMCG markets? How do consideration-related contextual factors, including brand leadership, pricing position, category complexity, and concurrent price promotions, moderate CMP sales lift?"
+}

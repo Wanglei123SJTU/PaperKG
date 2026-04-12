@@ -1,0 +1,4 @@
+{
+  "rationale": "The only linkage evidence is a single DOI match (10.1509/jmr.14.0186) with no in-text citation context, reference title, or quote to show how it is used in the 2024 paper. While both paper notes involve text-based marketing modeling with Bayesian/high-dimensional methods, their substantive settings differ (Yelp star-rating segmentation vs paid-search ad copy testing), so this is not clearly safe to drop nor clearly central to keep.",
+  "triage_decision": "uncertain"
+}

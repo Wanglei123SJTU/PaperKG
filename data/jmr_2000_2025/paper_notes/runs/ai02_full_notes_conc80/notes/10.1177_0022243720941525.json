@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a measurement approach for locational choices in reserved seating that models utility from proximity to focal elements and proximity to other consumers.",
+    "Demonstrates the practical need for individual-level locational choice data, including assortments seen by consumers who do not purchase, rather than relying only on aggregate purchase logs.",
+    "Illustrates a seat-level availability mechanism and optimization procedure that uses fitted individual parameters to support occupancy-improving decisions."
+  ],
+  "context": "The paper studies reserved seating venues, specifically movie theaters and concert halls, where consumers choose single seats or contiguous seat pairs from seat maps. The managerial objective is to understand and influence event occupancy in advance selling settings.",
+  "design_and_data": "The authors develop a hierarchical Bayesian multinomial choice model with utility components for seat position relative to focal elements and for proximity to other attendees (directional immediate neighbors plus less-proximal occupancy spheres). They test the approach with four locational choice experiments on seatmaplab.com involving 2,119 participants across movie and concert contexts, varying seat quantity (single vs pair), occupancy, layout orientation, and no-choice availability. Reported core analyses include movie pairs (n=233, high occupancy), movie singles (n=300, high occupancy), and concert pairs (n=383, multiple occupancy levels). They also report an operator survey (n=45), an observational Kennedy Center seat-map illustration, and a follow-up experiment (n=523; 488 analyzed) comparing control and optimized seat-availability layouts.",
+  "focal_constructs": [
+    "locational choice utility",
+    "proximity to focal elements",
+    "proximity to others",
+    "personal space",
+    "no-choice option",
+    "occupancy",
+    "individual-level heterogeneity",
+    "seat-level availability"
+  ],
+  "main_findings": [
+    "Models that include proximity-to-others terms fit and predict seat choices better than models using only proximity to focal elements, in both movie and concert settings.",
+    "Locational preferences are strongly heterogeneous and context dependent: movie choices show greater avoidance of nearby others on average, while concert choices show greater tolerance for nearby others and stronger front-center attraction on average.",
+    "Using estimated individual parameters for seat-level availability can reduce predicted no-choice probability (e.g., from 48% to 42% in the Kennedy Center illustration), and a test experiment found a marginally lower no-choice rate under the optimized layout (5.3% vs 9.4%, p = .09)."
+  ],
+  "one_line_summary": "Across four seat-map experiments, the paper shows that modeling individual preferences for proximity to both venue focal points and other people substantially improves reserved-seat choice prediction and can inform seat-availability decisions aimed at higher occupancy.",
+  "relation_to_prior_work": "extends research on advance selling, spatial models, and personal space by introducing an individual-level locational utility framework that jointly models focal-element proximity and surrounding-others effects, then linking those estimates to occupancy-oriented seat-level availability decisions.",
+  "research_gap": "Existing operator analyses largely use aggregate purchase logs and limited feedback, which obscure individual heterogeneity and omit choice sets seen by consumers who do not purchase. The paper targets this gap by modeling locational preferences with data that include both purchases and no-purchase outcomes.",
+  "research_question": "How should consumer locational choices in reserved seating venues be modeled when utility depends on both seat position relative to focal elements and proximity to other consumers? Can individual-level estimates from such a model, using data from both purchasers and nonpurchasers, improve prediction of seat choices and support occupancy-focused seat availability decisions?"
+}

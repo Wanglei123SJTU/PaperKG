@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces response risk into seeding dynamics for unpaid endorsements in user-generated content networks, instead of assuming status-independent or certain response.",
+    "Shows that creators make portfolio choices over target status levels under constrained outbound-activity budgets, framing seeding as a risk-versus-return problem.",
+    "Demonstrates that for unknown creators, gradual low-status seeding (climb) is more effective than influencer-focused seeding (jump), with clear managerial implications."
+  ],
+  "context": "The study is set on a worldwide leading user-generated music platform with creators and fans connected by directed follows. Unknown music creators try to grow their follower base through outbound actions such as follows, private messages, comments, likes, and repost-related interactions.",
+  "design_and_data": "The authors use two platform panel datasets: 35,956 users who signed up in Q1 2009 tracked for about five years, and 35,000 users who signed up in March 2013 tracked for about two years (including repost data). Across both samples they observe 70,956 focal users plus alters (about 11.2 million users) with complete logs of follows, messages, plays, reposts, comments, and likes. Core analyses use dyadic outbound actions from creators to nonfollowers (e.g., 4,964,174 actions from 18,005 creators) and estimate binary logit models of follow-back responsiveness with interactions and robustness checks using alternative status measures and fixed effects. They also run a survey of 199 unknown creators, data-based simulations with Bayesian learning from experience, and a randomized dissemination simulation comparing alternative seeding policies over 24 months.",
+  "focal_constructs": [
+    "network status (indegree)",
+    "status difference between creator and target",
+    "seeding target responsiveness",
+    "outbound seeding activities",
+    "direct return (follow-back)",
+    "indirect return (repost-driven followers)",
+    "risk-versus-return trade-off",
+    "seeding target portfolio choice"
+  ],
+  "main_findings": [
+    "Responsiveness declines sharply and monotonically with status difference; for unknown creators, low-status targets have much higher follow-back rates (about 7.41%) than high-status targets (about 0.03%).",
+    "Creators do not concentrate on one target-status level; they allocate outbound activities across multiple status tiers and shift toward higher-status targets as their own status rises, consistent with a risk-versus-return trade-off.",
+    "For unknown creators, expected total return is lower on high-status than low-status targets, and simulations show low-status-only seeding yields the strongest growth (median about 127 followers in 24 months vs about 72 for observed behavior and about 22 for influencer-only seeding)."
+  ],
+  "one_line_summary": "Using longitudinal data from a major music UGC platform, the paper shows that unknown creators relying on unpaid endorsements should seed lower-status users because target responsiveness falls with status difference and influencer seeding underperforms.",
+  "relation_to_prior_work": "extends prior seeding and diffusion work that generally favors high-status influencers by showing that, in unpaid endorsement UGC settings, response probability is strongly status-difference dependent and seeding must be treated as a constrained risk-versus-return portfolio choice.",
+  "research_gap": "Most seeding literature implicitly assumes that response probabilities are similar across targets or effectively certain, which supports influencer-focused seeding. The paper identifies that this assumption is inappropriate for unpaid endorsements in user-generated content networks and leaves unresolved how unknown creators should allocate limited outbound efforts across status levels.",
+  "research_question": "How should unknown content creators on user-generated content platforms allocate seeding efforts to grow their follower base when endorsements are unpaid? In particular, how does status difference affect target responsiveness and returns, and what seeding policy is most effective under constrained outbound activity budgets?"
+}

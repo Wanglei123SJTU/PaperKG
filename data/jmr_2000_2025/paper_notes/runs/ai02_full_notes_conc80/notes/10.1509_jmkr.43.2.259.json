@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Shows that prior decisions can systematically license subsequent preferences, and that this effect can occur without explicit intention or awareness.",
+    "Demonstrates a contrast pattern in nonconscious influence: an initial altruistic intent that boosts self-concept can increase indulgent choice rather than simple assimilation to salient identity.",
+    "Provides process evidence that licensing works through a temporary boost in relevant self-concept and identifies a boundary condition via external attribution of the virtuous act."
+  ],
+  "context": "The paper studies sequential consumer decisions in behavioral experiments with undergraduate students at a major East Coast U.S. university. Participants made charity-related prior decisions and then consumer choices involving relative luxuries versus necessities (e.g., jeans vs. vacuum cleaner, expensive vs. cheaper sunglasses), plus a real donation decision.",
+  "design_and_data": "The authors run five randomized experiments (study Ns: 108, 93, 80, 120, 66). In licensing conditions, participants first expressed or committed to a virtuous act (e.g., community service choice, intended donation, helping a foreign student) before making a target choice; controls completed no such moral-credential task or a neutral task. Outcomes include binary and scaled luxury preferences, buy/no-buy decisions, and actual donation amount from real payments. Study 4 adds an external-attribution manipulation for the virtuous act, and Study 5 tests mediation with a four-item self-concept measure plus Baron-Kenny regressions and a Sobel test.",
+  "focal_constructs": [
+    "licensing effect",
+    "prior virtuous intent",
+    "altruistic self-concept",
+    "luxury versus necessity preference",
+    "negative self-attributions and guilt",
+    "external attribution",
+    "nonconscious choice influence"
+  ],
+  "main_findings": [
+    "Across multiple tasks, participants in licensing conditions were significantly more likely than controls to choose indulgent or luxury options.",
+    "In a consequential donation task, licensing did not significantly change whether participants donated, but it significantly reduced the amount donated among donors.",
+    "The licensing effect was attenuated when the virtuous act was externally attributed, and a boosted self-concept significantly mediated the effect of licensing on luxury preference."
+  ],
+  "one_line_summary": "Across five experiments, the paper finds that committing to a prior altruistic act can license more self-indulgent consumer choices by temporarily boosting self-concept.",
+  "relation_to_prior_work": "challenges the common nonconscious-priming expectation of assimilation to salient identity by showing that moral credentials from a prior altruistic choice can produce contrast toward indulgence. It also extends sequential-choice and guilt-reduction accounts by identifying a self-concept-based licensing mechanism.",
+  "research_gap": "Most consumer choice research treats decisions as isolated and does not explain how prior choices can license later options that may conflict with a virtuous self-image. Prior nonconscious priming work largely predicts assimilation to salient traits, leaving unclear whether prior choices that establish moral credentials can instead increase indulgent choice.",
+  "research_question": "Does expressing or committing to a virtuous act in an initial decision increase subsequent preference for relative luxuries or other self-interested options? If so, is the effect driven by a temporary boost in relevant self-concept, and does it weaken when the virtuous act is attributed to external motivation?"
+}

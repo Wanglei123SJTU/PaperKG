@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Identifies a risk-of-underprocessing mechanism: when content can be viewed only once, recipients anticipate missing information and allocate more cognitive resources during initial viewing.",
+    "Expands research on consumer coping with restrictions and extends work on scarcity of informational goods by studying a fundamental but understudied communication feature, repeated-access restriction.",
+    "Provides managerial evidence that ephemerality can improve communication outcomes, including attitudes, choice quality, and aggregate efficiency of sponsored social media content."
+  ],
+  "context": "The paper studies digital communication and marketing settings where content may be viewable once or repeatedly, including messaging and social media environments such as Snapchat-like features and Facebook Messenger. It also tests sponsored content performance in a live Facebook campaign.",
+  "design_and_data": "The authors report 12 studies (10 preregistered): ten online experiments (total N = 17,620), one exploratory eye-tracking study (N = 131), and one Facebook A/B field study (N = 45,716 exposures). Core manipulations vary whether content is ephemeral (single access) versus perpetual (repeatable access), with additional manipulations of time pressure and information amount in some experiments. Measures include perceived risk, self-reported cognitive effort/attention, voluntary viewing time, recall/comprehension measures, eye-fixation patterns, product choice and confidence, attitudes, and campaign viewing metrics and costs.",
+  "focal_constructs": [
+    "content ephemerality",
+    "perceived risk of missing information",
+    "cognitive resource allocation",
+    "attention allocation",
+    "voluntary viewing time",
+    "recall and comprehension",
+    "attitudes toward content",
+    "sponsored content effectiveness"
+  ],
+  "main_findings": [
+    "Ephemerality increased perceived risk of missing information, and this perceived risk mediated effects on cognitive effort and viewing time in multiple studies.",
+    "Relative to perpetual content, ephemeral content increased attention allocation and processing depth, including longer voluntary viewing, higher self-reported effort, improved recall/comprehension, and more fixation on relevant information; effects were weaker when information load was low.",
+    "These processing effects had downstream consequences: participants were more likely to identify the dominant product option and felt more confident, liked engaging video content more and wanted to watch more, and Facebook campaign aggregates showed longer viewing and lower cost per ThruPlay under ephemeral framing."
+  ],
+  "one_line_summary": "Across preregistered experiments, an eye-tracking study, and a Facebook field split test, restricting repeated access to content increased perceived risk of missing information and led consumers to process content more deeply, improving several downstream marketing outcomes.",
+  "relation_to_prior_work": "extends prior work on coping with consumer restrictions by showing that limiting repeated access, distinct from objective time pressure, changes information processing; it also extends scarcity research on informational goods by emphasizing a risk-of-underprocessing mechanism rather than a value-from-limited-supply account.",
+  "research_gap": "Prior research on ephemeral communication mainly examined sender-side behavior (what people share and how they feel), leaving recipient-side processing effects largely untested. The paper addresses the understudied question of how restricting repeated access to content changes attention, processing quality, and marketing-relevant outcomes.",
+  "research_question": "How does restricting repeated access to content (ephemerality) affect consumers' processing of that content compared with perpetual access? The paper also tests whether any effects are driven by perceived risk of underprocessing and whether they carry downstream implications for memory, attitudes, choice, and advertising performance."
+}

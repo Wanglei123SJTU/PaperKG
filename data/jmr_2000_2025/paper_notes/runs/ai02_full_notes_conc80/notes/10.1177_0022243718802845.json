@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a new-to-the-literature formal attribution equation based on each medium's incremental contribution to purchase probability, and it explicitly accommodates carryover and interaction effects.",
+    "It derives a fixed-budget profit-maximizing (FBPM) allocation rule that is made comparable to attribution by using the same response model, consumer set, time horizon, and fixed budget.",
+    "It demonstrates analytically and empirically that using attribution weights for budget allocation can be misleading, and that formal profit-maximizing allocation yields materially better outcomes."
+  ],
+  "context": "The paper studies multimedia advertising touchpoints and purchase conversion across online and offline channels. The empirical application uses a North American specialty retailer with three brands and six touchpoint media: referral, organic search, paid search, social, email, and catalog.",
+  "design_and_data": "The authors derive attribution and allocation expressions from an individual-level probit purchase model with ad stock carryover and interaction terms, and compare them under a fixed-budget setting. They run simulations for 2,000 consumers over 90 days with two media, varying carryover and interaction, and they also test robustness to heterogeneity and targeting-induced endogeneity. The empirical analysis uses Wharton Customer Analytics Initiative data for three retail brands (7,663, 5,163, and 2,696 customers; 199,024, 174,279, and 74,570 observations) and estimates random-effects probit models separately by brand. They then compare predicted purchase outcomes under current allocation, LTA-based allocation, probit-attribution-based allocation, and FBPM allocation at equal total spend.",
+  "focal_constructs": [
+    "media attribution",
+    "last touchpoint attribution",
+    "fixed budget profit maximization allocation",
+    "marginal advertising effectiveness",
+    "ad stock carryover",
+    "media interaction effects",
+    "purchase probability model"
+  ],
+  "main_findings": [
+    "The formal attribution expression is proportional to a medium's marginal effectiveness times its exposure/ad stock, so frequently used media receive higher attribution weights.",
+    "FBPM allocation depends on response effectiveness and media costs, but not on past exposure levels, while attribution depends on exposure levels and not costs; therefore the two produce different budget shares.",
+    "In the three-brand empirical application, average purchase-probability lift from current allocation was 3.2% for LTA-based reallocation, 12.4% for probit-attribution-based reallocation, and 25.3% for FBPM allocation."
+  ],
+  "one_line_summary": "The paper formalizes attribution as relative incremental purchase contribution and shows that attribution-based budgeting can misallocate media spend relative to fixed-budget profit-maximizing allocation.",
+  "relation_to_prior_work": "introduces a formal mathematical attribution definition that the authors state is missing in prior attribution literature, while remaining conceptually close to existing incremental-contribution approaches. It also challenges common practitioner and academic use of attribution for budget setting by showing that attribution and profit-maximizing allocation answer different questions.",
+  "research_gap": "The paper states that attribution has surged in practice and academia but lacks an agreed formal definition in the marketing literature. It also identifies an unanswered question: whether attribution percentages are appropriate for allocating a fixed media budget.",
+  "research_question": "Should firms use attribution weights to allocate multimedia budgets? The paper examines how formally defined attribution differs from fixed-budget profit-maximizing allocation when carryover and cross-media interaction effects are present, and whether attribution-based allocation harms performance."
+}

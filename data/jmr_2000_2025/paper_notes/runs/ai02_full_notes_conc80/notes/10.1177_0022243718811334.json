@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces sleepiness as a construct in marketing and links it directly to purchase variety seeking.",
+    "Identifies a motivational process in which sleepiness elevates need for arousal to maintain wakefulness, which increases variety-seeking behavior.",
+    "Shows a feedback effect that variety-seeking behavior can serve as a psychological tool to help manage sleepiness, extending wakefulness-maintenance accounts beyond physical stimulants."
+  ],
+  "context": "The studies examine everyday consumer choices in U.S.-relevant settings, including candy and beer purchases around the spring daylight saving time shift, and consequential choices of candy, gift cards, and sticky notes in lab and online panel tasks. The work focuses on common episodes of subjective sleepiness rather than clinical total sleep deprivation.",
+  "design_and_data": "Study 1 uses a difference-in-differences design on Nielsen consumer panel data (2004-2014) around the 2007 U.S. daylight saving time policy change, measuring variety as the number of UPCs per trip for candy-bar purchases (with robustness checks in beer). Study 2 experimentally manipulates sleepiness via time-of-day by chronotype mismatch in a lab sample (N=299) and observes real candy-bar choices. Studies 3a (N=219 lab) and 3b (N=272 MTurk) test mechanism-based moderators by changing wakefulness goals (relaxation instruction) or externally satisfying arousal (stimulating sounds) while recording consequential choices (candy flavors, gift cards). Studies 4 (N=266 lab) and 5 (N=259 lab) assess pre/post or before/after changes in sleepiness and need for arousal around variety-choice tasks (sticky notes, candy).",
+  "focal_constructs": [
+    "subjective sleepiness",
+    "variety-seeking behavior",
+    "need for arousal",
+    "wakefulness maintenance",
+    "daylight saving time sleep disruption",
+    "chronotype-time-of-day mismatch",
+    "psychological arousal"
+  ],
+  "main_findings": [
+    "Sleepier consumers chose more variety across consequential choices, and the DST natural experiment showed higher purchase variety on DST Sunday.",
+    "The sleepiness effect on variety seeking operated through need for arousal: it weakened when participants were told they could relax or when arousal was satisfied by stimulating sounds.",
+    "Choosing variety, relative to nonvariety choice, partially reduced reported sleepiness and need for arousal."
+  ],
+  "one_line_summary": "Across six consequential-choice studies including a DST natural experiment, the paper shows that sleepier consumers seek more variety because they need arousal to stay awake, and that choosing variety partially reduces sleepiness.",
+  "relation_to_prior_work": "extends prior variety-seeking research centered on context, affect, and time-of-day by identifying subjective sleepiness as a broader motivational antecedent. It also extends sleepiness research that emphasizes caffeine or environmental stimulation by showing that ordinary consumption variety-seeking can provide psychological arousal for wakefulness maintenance.",
+  "research_gap": "Marketing research had rarely linked sleepiness to specific purchase choices, with no direct test of how sleepiness affects consumer decision behavior. The authors also note limited evidence on whether consumption behavior can function as a wakefulness-management tool beyond physical stimulants.",
+  "research_question": "Does subjective sleepiness increase consumers' tendency to seek variety in purchase choices? If so, is the effect driven by a heightened need for arousal to maintain wakefulness, and can variety-seeking itself reduce sleepiness?"
+}

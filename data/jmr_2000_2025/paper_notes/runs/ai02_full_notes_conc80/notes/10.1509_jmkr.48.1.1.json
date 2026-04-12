@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper claims direct causal evidence that expert advice affects consumer demand by exploiting an erroneous Consumer Reports rating shock that was uncorrelated with existing beliefs.",
+    "It claims the first field examination of whether consumers ignore information after it is retracted, providing a counterexample to laboratory findings of persistent influence.",
+    "It claims a finer-grained empirical approach than much prior work by using individual auction prices and bids with a simple natural-experiment identification strategy."
+  ],
+  "context": "The setting is the U.S. infant car seat market during January 2007, when Consumer Reports released a new safety ranking and retracted it two weeks later because the side-impact test had been run incorrectly. Consumer response is measured in online auctions on a major auction platform, focusing on six models present in both the 2005 and 2007 rankings.",
+  "design_and_data": "The author uses a natural experiment built around the January 4, 2007 release and January 18, 2007 retraction of Consumer Reports infant car seat ratings. The data include all infant car seat auctions from three months before to three months after the event, with a main sample of 5,471 auctions for six overlapping models. Core regressions predict deflated final prices using Before/During/After indicators interacted with ranking change (2007 rank minus 2005 rank), with auction controls and clustered standard errors; both OLS and censored normal models are estimated. Additional analyses examine three-day and biweekly dynamics, bid-level quantile regressions, and seller-side listing behavior.",
+  "focal_constructs": [
+    "expert advice",
+    "consumer demand",
+    "invalid information",
+    "information retraction",
+    "car seat safety rankings",
+    "online auction prices",
+    "bidding behavior"
+  ],
+  "main_findings": [
+    "While the flawed ranking was considered valid, auction prices moved strongly with it, at about a 3% price change per position lost or gained in ranking.",
+    "After the retraction, the ranking effect on prices dropped to approximately zero within a few days, indicating consumers stopped using the invalidated information.",
+    "Bid-level quantile regressions show the same During-versus-After pattern across the bid distribution, and seller-controlled listing changes do not explain the price dynamics."
+  ],
+  "one_line_summary": "Using the release and quick retraction of Consumer Reports infant car seat rankings, the paper shows that consumers initially followed the flawed expert advice but then rapidly stopped responding once it was invalidated.",
+  "relation_to_prior_work": "extends prior marketing and economics studies on advice effects by identifying causality from an erroneous rating shock and by using individual auction outcomes rather than aggregate demand measures. It also challenges lab-based evidence that people cannot ignore invalid information by documenting rapid discounting after a credible retraction in a field market.",
+  "research_gap": "Prior studies linking expert recommendations to demand often face endogeneity because recommendations correlate with what consumers already know. Experimental work suggests people cannot ignore invalid information, but the magnitude of this effect in real purchase behavior outside the lab had not been measured.",
+  "research_question": "Does expert advice causally influence consumer demand when the advice shock is exogenous to prior beliefs? After consumers receive that advice, can they ignore it once the source credibly retracts it? The paper examines these questions in the car seat auction market around the Consumer Reports release and retraction event."
+}

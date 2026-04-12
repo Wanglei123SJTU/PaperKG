@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper implements a real customer churn prediction tool in a live B2B sales organization and evaluates its impact with a longitudinal field experiment and causal forests at the salesperson-customer-month level.",
+    "It uncovers a broad moderator structure for predictive sales analytics effectiveness, spanning customer characteristics and salesperson technology perceptions, abilities, and selling orientations.",
+    "It experimentally tests expectation management about algorithm errors as an algorithm-aversion mitigation tactic and shows that its benefits are highly context dependent."
+  ],
+  "context": "The main setting is a national B2B wholesaler of construction supplies (e.g., paint, wallpaper, insulation) with 12 regional sales organizations. Salespeople manage customer portfolios, and customer churn is a salient managerial problem in a competitive market with low switching barriers.",
+  "design_and_data": "The authors build a monthly customer churn prediction model (XGBoost) using 9.7 million transactions, then deploy predicted churn probabilities in a 12-month field experiment with three conditions: churn prediction only, churn prediction plus expectation management (error disclaimer), and control. They combine a pre-implementation salesperson survey (130 complete responses; 83% response rate) with monthly customer-level panel data spanning 12 months before and 12 months after implementation; the field context includes roughly 10,000 customers and 130 salespeople across conditions, and the paper reports 234,505 customer-month observations after implementation. Treatment effects are estimated with causal forests, followed by parametric probing of CATE patterns and interactions. A follow-up stimuli-based multiround experiment with 200 salespeople (plus one supplemental experiment) conceptually replicates key patterns.",
+  "focal_constructs": [
+    "predictive sales analytics",
+    "customer churn prediction",
+    "algorithm aversion",
+    "expectation management",
+    "conditional average treatment effects",
+    "customer characteristics",
+    "salesperson technology perceptions",
+    "selling orientations"
+  ],
+  "main_findings": [
+    "The field experiment finds no significant average treatment effect of the churn prediction tool (with or without expectation management) on monthly customer sales revenue versus control.",
+    "Treatment effects are strongly heterogeneous, with customer-side factors such as predicted churn probability and prior revenue level/heterogeneity emerging as central drivers, and additional moderation from salesperson perceptions, abilities, and orientations; effects also evolve over time, consistent with learning dynamics.",
+    "Expectation management via a recurring error disclaimer helps only under specific profiles (e.g., low trust in algorithms with high learning orientation) and often reduces effectiveness, and a simulated targeted allocation based on heterogeneity implies a potential 3.1% revenue lift."
+  ],
+  "one_line_summary": "In a B2B churn-prediction rollout, the paper shows that predictive sales analytics does not raise revenue on average but creates large, time-varying heterogeneous effects by customer and salesperson factors, while expectation-management messaging has narrow upside and can backfire.",
+  "relation_to_prior_work": "extends prior analytics research that is largely firm-level, survey-based, or non-sales focused by testing a specific predictive sales tool in a longitudinal field experiment with salesperson-customer-level outcomes. extends algorithm-aversion work by experimentally evaluating expectation management during implementation and documenting boundary conditions and negative side effects.",
+  "research_gap": "Prior empirical work on marketing and sales analytics rarely examines predictive tools in sales organizations, seldom studies heterogeneous adoption and usage contingencies, and infrequently uses a longitudinal adoption perspective. Prior literature also offers limited field evidence on whether implementation tactics to reduce algorithm aversion, such as fostering realistic expectations of error, actually improve outcomes.",
+  "research_question": "How does implementing a predictive customer churn tool affect customer-level sales outcomes in a B2B salesforce? Which customer and salesperson factors mitigate or exacerbate adoption and effective use of the tool, and does managing salespeople's expectations about prediction errors improve implementation effectiveness?"
+}

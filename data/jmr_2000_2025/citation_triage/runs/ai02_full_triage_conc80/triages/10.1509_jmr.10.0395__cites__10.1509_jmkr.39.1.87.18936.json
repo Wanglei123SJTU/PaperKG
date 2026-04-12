@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is a core methodological comparison of finite mixture and hierarchical Bayes models, while the citing paper’s main contribution is a new Bayesian finite-mixture segmentation/regression approach that explicitly positions itself relative to prior latent class/Bayesian mixture methods. This method-level overlap makes a substantive role plausible, and with only a DOI-level match (no context snippet) it is not safe to treat as an obvious incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

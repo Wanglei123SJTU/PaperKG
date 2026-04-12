@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The study links global and ego network perspectives by modeling cross-level interactions, arguing that global centrality effects on launches are contingent on ego network properties.",
+    "It distinguishes breakthrough from incremental new product launches and shows that alliance network effects differ across these two innovation outcomes.",
+    "It provides managerial scenario analysis of network configurations (with R&D capability conditions) to identify strategies that favor breakthrough, incremental, or balanced launch portfolios."
+  ],
+  "context": "The empirical context is the consumer packaged goods industry, where firms frequently use interorganizational R&D alliances with public firms, private firms, and nonprofit institutions. The study covers alliance activity and product launches over 1990-2010.",
+  "design_and_data": "The authors build a multi-source archival panel using SDC Joint Ventures and Alliances (R&D collaborations), ProductScan (new product introductions), Compustat, and Delphion patent data. The estimation sample includes 91 publicly traded CPG firms and 1,087 firm-year observations (1995-2010), with prior years used to construct network measures. Global network centrality (closeness and flow betweenness) and ego network density/diversity are calculated from rolling five-year alliance windows, and breakthrough versus incremental launches are counted from ProductScan. The main models are dynamic panel system GMM with instrumental variables and lag structure tests to address persistence and endogeneity in network partner selection.",
+  "focal_constructs": [
+    "global network betweenness centrality",
+    "global network closeness centrality",
+    "ego network density",
+    "ego network diversity",
+    "R&D capability",
+    "breakthrough new product launches",
+    "incremental new product launches",
+    "interfirm R&D alliance networks"
+  ],
+  "main_findings": [
+    "A central global network position is a double-edged sword: closeness centrality increases incremental product launches, while betweenness centrality decreases breakthrough product launches.",
+    "Ego network density strengthens the positive centrality-to-incremental effect and, for betweenness, strengthens the negative centrality-to-breakthrough effect.",
+    "Ego network diversity weakens centrality's incremental-launch gains and alleviates centrality's negative breakthrough effect, and R&D capability strengthens the positive betweenness-to-incremental link but does not significantly moderate breakthrough outcomes."
+  ],
+  "one_line_summary": "Using panel data on 91 CPG firms, the paper shows that global network centrality has opposite effects on incremental versus breakthrough product launches, and these effects depend on ego network structure and R&D capability.",
+  "relation_to_prior_work": "extends prior alliance network and innovation research by integrating global network centrality with ego network density and diversity in one framework. It also differentiates innovation outcomes into breakthrough and incremental launches, rather than treating innovation as a single aggregate construct.",
+  "research_gap": "Prior studies had identified ego-level or global-level network factors related to innovation, but had not examined how these levels interact to shape launch outcomes. The literature also had not clearly tested whether alliance networks differentially affect breakthrough versus incremental new products.",
+  "research_question": "How does a firm's position in an industry-wide alliance network affect incremental and breakthrough new product launches? The paper also asks whether ego network density and diversity, and firm R&D capability, moderate the effects of global network centrality on these launch outcomes."
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used as a concrete methodological source, not just background. The citing study explicitly states it adopts the control function approach of Petrin and Train (2010) to handle endogeneity in its monetary cost variable, and Appendix A details the two-step residual inclusion implementation. The empirical results also report and interpret the control-function residual terms, showing the cited method is integrated into estimation and inference.",
+  "relation_description": "The citing paper applies Petrin and Train's control function method to correct endogeneity in self-reported activity monetary costs within its time-allocation utility model. It uses first-stage instruments, carries residuals into the main model, and bases part of its interpretation on those control-function terms.",
+  "relation_type": "applies"
+}

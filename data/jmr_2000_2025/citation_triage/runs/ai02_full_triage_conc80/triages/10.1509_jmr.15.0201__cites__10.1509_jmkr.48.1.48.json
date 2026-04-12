@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s stated gap, theory, and experiments are about team-based sales contest effort and ability composition, while the cited paper is about consumer price expectations, sequential search, and dynamic pricing under cost shocks—there is no topical overlap in the provided notes. The only linkage is a single DOI-level reference match (matched_reference_count=1) with no citation-context text, and the citing note’s prior-work framing does not mention pricing/search expectation mechanisms. This looks like a likely incidental/background citation rather than substantive use.",
+  "triage_decision": "drop_obvious_mention_only"
+}

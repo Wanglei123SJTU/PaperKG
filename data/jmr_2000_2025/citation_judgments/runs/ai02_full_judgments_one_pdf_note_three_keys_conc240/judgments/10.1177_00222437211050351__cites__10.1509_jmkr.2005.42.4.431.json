@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the conceptual framework, the citation is tied to a specific mechanism (system feature overload), not just a generic literature list. The paper explicitly uses the cited work to justify that users can be miscalibrated about complexity and usability before use and then experience strain once actual complexity is revealed, which supports its moderation argument about AI effectiveness. Although the cited paper's methods are not reused, it meaningfully informs the paper's theoretical setup of technology overload.",
+  "relation_description": "The citing paper applies Thompson, Hamilton, and Rust (2005) to motivate its system feature overload mechanism, arguing that tutors may underestimate AI interface complexity before use and face usability burdens after adoption. It transfers feature fatigue logic from consumer product contexts to employee use of AI-assisted tutoring tools.",
+  "relation_type": "applies"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper identifies decision type (choosing vs. rejecting) as a previously overlooked driver of variety seeking in repeated decisions.",
+    "It proposes and tests a mechanism in which rejection widens the liking gap between selected and unselected options, mainly by lowering liking for unselected options via more negative inferences.",
+    "It offers a consumer-welfare implication: rejection framing can improve decision quality when consumers otherwise over-diversify, but may worsen outcomes when consumers already under-seek variety."
+  ],
+  "context": "The paper studies repeated consumer decisions from a stable option set, using contexts such as sparkling water flavor selection, ice cream flavor allocation across weeks, cruise activity planning, and short video choices across days. Decisions are framed either as choosing desired options or rejecting undesired options.",
+  "design_and_data": "The authors report eight preregistered experiments (total N = 2,814), using lab and Prolific samples and mostly between-subject manipulations of decision type (choice vs. rejection). Participants made repeated decisions from the same options; variety seeking was operationalized as switching between initial and subsequent decisions (binary or count). Studies included consequential choices (e.g., actual sparkling water and incentive-compatible rewards), mediator measures (liking of selected vs. unselected options and inference measures), a design addressing free-choice measurement-artifact concerns, a moderation test with an external reason manipulation, and a two-day longitudinal test of diversification bias.",
+  "focal_constructs": [
+    "decision type (choice vs. rejection)",
+    "variety seeking",
+    "repeated decisions",
+    "liking gap between selected and unselected options",
+    "negative inferences about unselected options",
+    "self-perception",
+    "decision quality",
+    "diversification bias"
+  ],
+  "main_findings": [
+    "Across studies, making repeated decisions by rejection led to less variety seeking than making the same decisions by choice.",
+    "Rejection increased the liking gap after the initial decision, primarily by decreasing liking for unselected options, and this gap mediated reduced switching.",
+    "Rejection generated more negative inferences about unselected options, and these inferences serially mediated the effect on liking gap and variety seeking; when an external reason explained the initial decision, the effect attenuated, and rejection-in-advance eliminated diversification bias in the tested setting."
+  ],
+  "one_line_summary": "Across eight preregistered studies, the paper shows that framing repeated decisions as rejections rather than choices makes consumers switch less because rejection induces more negative inferences about unselected options and widens the liking gap.",
+  "relation_to_prior_work": "extends variety-seeking research that has mostly examined choice tasks by showing that rejection framing systematically reduces switching in repeated decisions and by identifying a liking-gap mechanism. It also extends choosing-versus-rejecting research from primarily one-shot outcomes to repeated-decision dynamics and welfare consequences.",
+  "research_gap": "Prior variety-seeking work has largely examined decisions framed as choices, and research on choosing versus rejecting has mostly focused on one-time decisions. The paper addresses the unresolved question of whether and why decision type changes variety seeking across repeated decisions.",
+  "research_question": "Holding options and other conditions constant, does making repeated decisions by rejecting rather than choosing change how much variety consumers seek? If so, is the effect explained by rejection-driven preference inference that widens the liking gap between selected and unselected options?"
+}

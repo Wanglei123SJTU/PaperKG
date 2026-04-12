@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper explicitly discusses Lee and Bradlow (2011) as part of the core prior stream on extracting market structure from online reviews, then states how its own framework differs and adds capabilities. This is more than a background list: the cited work is used to position the paper's methodological contribution (LDA-based joint dimension/valence extraction, broader scalability, and less dependence on review structure). The citing paper also references Lee and Bradlow when justifying a split-sample robustness procedure, indicating functional methodological influence.",
+  "relation_description": "The citing study extends Lee and Bradlow's line of automated review mining for market structure by proposing an LDA-based framework that adds joint valence extraction, dynamic analysis, and broader cross-market application. It builds on that prior approach as a benchmark and methodological precedent while advancing a different extraction method.",
+  "relation_type": "extends"
+}

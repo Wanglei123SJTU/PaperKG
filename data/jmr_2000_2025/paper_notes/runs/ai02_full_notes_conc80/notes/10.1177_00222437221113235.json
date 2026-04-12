@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces game-theoretic models of multi-unit uniform-price open auction and open fixed price that incorporate an all-or-none transaction rule and endogenous bid timing in a common-value environment.",
+    "Provides a unified explanation for several linked empirical regularities on Prosper, including late bidding in auctions, herding, lower completion under auctions, and different funding-outcome shapes (U-shaped vs J-shaped).",
+    "Shows that mechanism design implications differ from standard theory in this setting, with open fixed price generally outperforming open uniform-price auction in completion probability and expected revenue."
+  ],
+  "context": "The paper studies selling mechanisms used for peer-to-peer lending, with Prosper as the main empirical setting, and discusses related applications in equity crowdfunding and IPO markets. It focuses on dynamic multi-unit sales where funding progress is observable and all-or-none completion rules are common.",
+  "design_and_data": "The author documents empirical regularities using Prosper data on all listings posted in 2010 (uniform-price auctions) and 2011 (fixed rates), including detailed listing, borrower, and bid information. The empirical analysis includes fixed-effect Poisson regressions of bid arrival on funding progress and regressions comparing completion rates and reserve rates with controls for borrower and listing characteristics. Theoretical analysis develops two-period dynamic games for sealed-bid and open fixed-price and uniform-price mechanisms under common value, private signals, two units, and three bidders, and solves symmetric subgame-perfect Bayesian Nash equilibria. Numerical equilibrium solutions are used to compare completion probability, expected revenue, and outcome distributions across mechanisms.",
+  "focal_constructs": [
+    "multi-unit uniform-price open auction",
+    "open fixed-price mechanism",
+    "all-or-none transaction rule",
+    "endogenous bid timing",
+    "herding",
+    "strategic late bidding",
+    "completion probability",
+    "expected revenue"
+  ],
+  "main_findings": [
+    "In Prosper data, auctions show strong end-of-listing bid concentration, significant herding, a much lower completion rate than fixed rates (20% vs 52% around the mechanism switch), and a U-shaped funded-share distribution versus a J-shaped distribution under fixed rates.",
+    "In the equilibrium analysis, open uniform-price auctions generate more strategic delay and stronger herding than open fixed price, because bidders can delay to soften later price competition while fixed price with first-come-first-served encourages earlier entry.",
+    "Numerical solutions show higher completion probability and expected revenue under open fixed price than open uniform-price auction, and they indicate that allowing endogenous entry timing can reverse the usual linkage-style dominance of open over sealed-bid uniform-price auctions."
+  ],
+  "one_line_summary": "Using Prosper evidence and dynamic common-value models with endogenous timing, the paper shows that open uniform-price auctions induce more herding and late bidding than fixed price, reducing completion probability and expected revenue.",
+  "relation_to_prior_work": "challenges the standard multi-unit auction implication that open formats dominate sealed-bid formats by showing this can reverse when bidders endogenously delay entry. It extends prior auction-versus-fixed-price work from mostly single-object settings to a multi-unit common-value setting with all-or-none completion and dynamic entry timing.",
+  "research_gap": "The paper identifies a gap between standard models of dynamic selling mechanisms and how these mechanisms perform in practice in p2p lending, crowdfunding, and IPO contexts. Existing theories do not jointly explain the observed dynamic bidding behavior and the linked outcome patterns, including lower completion and the U-shaped funding distribution under open uniform-price auctions.",
+  "research_question": "Why have multi-unit uniform-price open auctions declined relative to fixed price in markets such as p2p lending, equity crowdfunding, and IPOs? Specifically, when bidders can endogenously choose whether and when to bid under an all-or-none rule, how do open uniform-price auctions compare with fixed price in herding, late bidding, completion probability, and expected revenue?"
+}

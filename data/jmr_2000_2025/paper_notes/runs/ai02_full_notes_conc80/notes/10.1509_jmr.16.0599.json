@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a new promotional framing for discounts: expressing the original price as 'was X% higher' than the sale price, and shows this framing can generate sales lift.",
+    "Provides evidence on how consumers form discount-depth perceptions in price promotions, showing that higher stated percentage numbers can increase perceived deal attractiveness.",
+    "Contributes to numeric-processing research by documenting a systematic absolute-number bias in percentage interpretation and identifying boundary conditions (numeracy and discount depth size)."
+  ],
+  "context": "The paper examines retail price-promotion advertising. Evidence comes from a field setting in four Swedish grocery stores and lab shopping scenarios involving furniture, coffee sachets, and mattresses.",
+  "design_and_data": "The authors run four studies plus a supplementary withdrawal study. Study 1 is a field experiment across four grocery stores and four products, comparing 'now Y% lower' versus financially equivalent 'was X% higher' signs during a sale week; daily unit sales are analyzed with controls (112 store-product-day observations). Study 2a (N = 82 undergraduates) tests mediation with an upscale chair scenario, and Study 2b (N = 271) uses a 2 x 2 design crossing phrasing ('now ... lower' vs 'was ... higher') and stated discount number (37% vs 59%) in a coffee scenario. Study 3 (N = 234) tests numeracy moderation, and Study 4 (N = 198) tests discount-depth moderation (high vs low, plus a control cell) using mattress scenarios.",
+  "focal_constructs": [
+    "promotional ad framing",
+    "perceived discount depth",
+    "purchase intentions",
+    "daily unit sales",
+    "numeracy",
+    "discount depth size",
+    "absolute number heuristic",
+    "value of discount"
+  ],
+  "main_findings": [
+    "Across field and lab evidence, framing discounts as 'was X% higher' generally increased sales or purchase intentions versus financially equivalent 'now Y% lower' framing.",
+    "Higher perceived discount depth (and value of discount) mediated the effect on purchase intentions; novelty did not significantly mediate the effect.",
+    "The framing advantage was weaker for more numerate consumers and was not significant at low discount depths (e.g., 10% vs 11%)."
+  ],
+  "one_line_summary": "The paper shows that reframing a discount as 'was X% higher' rather than equivalent 'now Y% lower' increases perceived discount depth and buying responses, with effects bounded by numeracy and discount size.",
+  "relation_to_prior_work": "extends prior price-promotion and behavioral pricing research by testing a financially equivalent discount frame that compares the discount against the sale price rather than the original price. It also connects to numeric-cognition findings by showing an absolute-number bias in percentage processing and by identifying when this bias attenuates.",
+  "research_gap": "Prior work on discount framing focuses on evaluations relative to the original price and has not examined reframing the same discount difference relative to the sale price. The authors explicitly position this untested framing as the missing piece.",
+  "research_question": "Does presenting a financially equivalent discount as 'was X% higher' (comparison against sale price) instead of 'now Y% lower' (comparison against original price) increase perceived discount depth and, in turn, purchase responses? The paper also asks whether this effect is moderated by consumer numeracy and by discount depth size."
+}

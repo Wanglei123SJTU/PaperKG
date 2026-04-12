@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a requestor-responder framework for joint consumption decisions, defining roles by who solicits versus expresses preferences.",
+    "Documents a robust preference expression asymmetry: requestors want preference expression, while responders more often express no preference.",
+    "Identifies role-based psychological drivers, associated social and preference costs, and a practical intervention that can reduce the asymmetry."
+  ],
+  "context": "The paper studies everyday shared-consumption planning, especially restaurant decisions, and also museum and movie outings. The settings mainly involve friends (and in one supplemental study, friends-of-friends), in both dyadic and small-group coordination contexts.",
+  "design_and_data": "The authors report 14 studies (including 5 preregistered; 6 supplemental in the Web Appendix) that manipulate joint consumption role (requestor vs responder) and observe desired versus actual preference expression. Evidence includes an incentivized real-dyad study with friends and a lottery-based restaurant gift certificate, plus multiple scenario experiments in MTurk and U.S. behavioral labs. Designs vary whether requestors provide consideration sets, who initiates the get-together, whether options are specific choices or categories, and whether decisions are dyadic or group-based. Later studies test parallel mediation, downstream social outcomes, and an intervention where requestors state they dislike choosing.",
+  "focal_constructs": [
+    "joint consumption decisions",
+    "requestor role",
+    "responder role",
+    "preference expression",
+    "no-preference expression",
+    "decision burden mitigation focus",
+    "likability and easygoingness focus",
+    "true preference strength"
+  ],
+  "main_findings": [
+    "Across studies, responders were less likely to express a preference than requestors wanted, producing a consistent preference expression asymmetry.",
+    "Parallel mediation evidence showed that requestors were more focused on reducing decision burden, while responders were more focused on appearing likable and easygoing, and these foci predicted opposite expression tendencies.",
+    "No-preference responses created costs: requestors preferred future interaction with preference-expressing responders, many responders masked real preferences, and having requestors explicitly say they dislike deciding mitigated the asymmetry."
+  ],
+  "one_line_summary": "The paper finds that in joint consumption decisions, requestors generally want explicit preferences while responders often withhold them, explains this role-based asymmetry, and shows its social and preference costs plus a simple mitigation tactic.",
+  "relation_to_prior_work": "extends prior joint consumption and choosing-for-others research by modeling distinct solicitation and response roles and analyzing preference expression during decision formation, and extends no-choice/indifference work by providing an interpersonal account of why people withhold preferences and with what consequences.",
+  "research_gap": "Prior joint consumption work mainly examined unilateral choosers without co-consumer input or joint choosers without explicitly modeling solicitation/response roles and preference expression processes. The authors argue that research has not explained whether desired and actual preference expression align when consumers coordinate a shared choice.",
+  "research_question": "When one consumer asks another for input in a joint consumption decision, do requestors' desired responses match responders' actual preference expression? If not, what role-based psychological processes generate the asymmetry, what costs does it create, and how can it be reduced?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops a four-part typology of supervisory actions for strategic change implementation: outcome risk containment, outcome reward emphasis, process risk containment, and process reward emphasis.",
+    "Shows that perceived outcome-oriented supervisory actions are linked to salespeople's primary appraisals, whereas perceived process-oriented supervisory actions are linked to secondary appraisals.",
+    "Provides evidence that successful strategic change implementation depends not only on rewards for outcomes but also on limiting salesperson risks and recognizing change-related effort."
+  ],
+  "context": "The study is set in a Fortune 500 industrial distributor that changed its go-to-market strategy from primarily offline salesperson-led transactions to primarily online Internet transactions. Salespeople were expected to migrate customers to ordering online in a business-to-business sales context.",
+  "design_and_data": "The authors conducted a cross-sectional field survey of salespeople in one firm. Usable responses were obtained from 828 salespeople across 204 U.S. sales branches (27.5% response rate). Measures were pretested and assessed with factor analysis and reliability/validity checks, and hypotheses were tested with two-level hierarchical linear models (salespeople nested within branches), including interaction terms and mediation tests.",
+  "focal_constructs": [
+    "outcome risk containment",
+    "outcome reward emphasis",
+    "process risk containment",
+    "process reward emphasis",
+    "primary appraisal",
+    "secondary appraisal",
+    "performance orientation",
+    "change implementation behavior and outcomes"
+  ],
+  "main_findings": [
+    "Perceived outcome risk containment and perceived outcome reward emphasis positively affect salespeople's primary appraisals.",
+    "Perceived process risk containment and perceived process reward emphasis positively affect salespeople's secondary appraisals, while perceived outcome reward emphasis shows a negative effect on secondary appraisals.",
+    "Primary and secondary appraisals increase change implementation behaviors, and these behaviors improve change implementation outcomes; performance orientation strengthens the effects of outcome and process risk containment on appraisals but does not strengthen reward emphasis effects."
+  ],
+  "one_line_summary": "Using survey data from 828 salespeople during an offline-to-online channel shift, the study finds that perceived supervisory risk and reward actions shape stress appraisals that drive change implementation behavior and outcomes, with stronger risk-containment effects for high performance-orientation salespeople.",
+  "relation_to_prior_work": "extends prior marketing strategy implementation and sales control research by focusing on frontline supervisors' role in implementing an already-decided strategic change. It applies stress appraisal theory to explain how supervisory actions influence salesperson behavior during change.",
+  "research_gap": "Prior work on marketing implementation was limited, and research on frontline strategic change implementation had not clearly specified how supervisors influence salespeople once a strategic change is mandated. The paper addresses this by examining specific perceived supervisory actions and their appraisal-based mechanisms.",
+  "research_question": "How do salespeople's perceptions of supervisors' outcome- and process-oriented actions influence their primary and secondary appraisals of a strategic change? Do these appraisal effects translate into change implementation behaviors and outcomes, and are these relationships stronger for salespeople with higher performance orientation?"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "Van Heerde et al. is not only listed in background; it is cited in the model-development and estimation sections as prior DLM work and directly invoked for a specific implementation choice. The authors state they handle cross-stage spillover similar to Van Heerde, Mela, and Manchanda (2004) by updating latent goodwill through periods with no observed sales and passing that state into the next stage. This is a meaningful methodological use rather than a passing mention.",
+  "relation_description": "The citing paper applies methodological ideas from Van Heerde et al. (2004), especially the state-space treatment of latent-state evolution when observations are missing between stages. It transfers that dynamic modeling logic to the theater-to-video sequential distribution setting.",
+  "relation_type": "applies"
+}

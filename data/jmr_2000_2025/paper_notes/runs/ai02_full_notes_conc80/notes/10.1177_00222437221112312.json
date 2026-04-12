@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The authors claim to identify a novel presenter-experiencer discrepancy: presenters believe UCI will improve impressions, but UCI often worsens experiencers' impressions.",
+    "They claim a process account based on presenter-experiencer knowledge asymmetry, showing attenuation when imperfections are obvious or upward counterfactuals are easy for experiencers to envision.",
+    "They claim to distinguish UCI from general information sharing by showing asymmetry versus downward counterfactual information, with presenters overcommunicating UCI but not DCI."
+  ],
+  "context": "The studies are set in consumer and marketing-like interactions where one party presents a target to another, including product selling, gift giving, restaurant service, tours, business presentations, and sightseeing. Participants were online adults from MTurk and Prolific assigned to presenter or experiencer roles.",
+  "design_and_data": "The paper reports 12 experiments (8 in the main text and 4 in web appendices), generally targeting about 150 participants per condition and using MTurk or Prolific samples. Most studies use between-subject designs that separate presenters (who decide whether to include UCI) from experiencers (who evaluate targets with or without UCI), with outcomes including impressions, product choice, intended Yelp ratings, and tips. Study 1 used an incentive-compatible purchase-choice setup, Study 2 created a real counterfactual experience, and Study 5 used open-ended presenter messages coded by blind raters. Mechanism tests manipulated imperfection obviousness (Study 6), experiencers' ability to vividly envision the upward counterfactual (Study 7), and counterfactual valence via UCI versus DCI (Study 8).",
+  "focal_constructs": [
+    "upward counterfactual information",
+    "presenter-experiencer discrepancy",
+    "target evaluation",
+    "knowledge asymmetry",
+    "imperfection obviousness",
+    "vivid envisioning of upward counterfactuals",
+    "downward counterfactual information"
+  ],
+  "main_findings": [
+    "Across domains, majorities of presenters chose to communicate UCI (for example, 59.4% to 87.4% in Studies 1-5), indicating a robust tendency to share it.",
+    "For relatively naive experiencers, receiving UCI typically lowered evaluations of the target compared with not receiving UCI, and also reduced related intentions such as Yelp ratings and tips in the restaurant context.",
+    "The backfire effect attenuated when experiencers had more knowledge about target variation (obvious imperfection or vivid upward-counterfactual visualization), and presenters were more likely to share UCI than equivalent DCI."
+  ],
+  "one_line_summary": "Across eight experiments, presenters often share upward counterfactual information to improve others' impressions, but this usually backfires by lowering experiencers' evaluations unless experiencers already recognize the imperfection or can vividly imagine the better version.",
+  "relation_to_prior_work": "extends prior counterfactual-thinking research by shifting focus from recipients' reactions to communicated counterfactuals toward presenters' communication choices and their consequences for overall target evaluations. It also connects this effect to egocentrism and insufficient perspective-taking in self-presentation contexts.",
+  "research_gap": "Prior work on counterfactual information mainly examined recipients' reactions, not whether presenters voluntarily communicate UCI or mispredict its impact on others. The authors also state that UCI communication decisions in marketing and consumption contexts had not been directly tested empirically.",
+  "research_question": "Do presenters choose to communicate upward counterfactual information to maximize experiencers' impressions of an evaluation target, and does that strategy actually help or hurt? The paper also asks when and why a presenter-experiencer discrepancy in these communication decisions and outcomes emerges."
+}

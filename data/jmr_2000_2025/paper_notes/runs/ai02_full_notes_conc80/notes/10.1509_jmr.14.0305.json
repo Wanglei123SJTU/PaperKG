@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper shows that, for consumer corrective warnings, imagery-based information can change implicit attitudes even when text and images produce comparable explicit attitude change.",
+    "It proposes and tests visual mental imagery as the mechanism of implicit attitude change, highlighting imagery valence and, in specific conditions, imagery vividness.",
+    "It provides process evidence that blocking visualization (visual load) blocks implicit attitude change from pictures, whereas cognitive load does not."
+  ],
+  "context": "The studies examine consumer-protection communications, specifically warnings about misleading advertising and product recalls for unfamiliar brands. The paper is motivated by the common use of text-only press releases by firms and regulators (e.g., FTC, CPSC).",
+  "design_and_data": "The article reports three main experiments (and three additional web-appendix experiments) using pre-post mixed designs where participants first receive positive brand information and then counterattitudinal corrective information in different formats. Experiment 1 (Hong Kong undergraduates; 219 analyzed) compares corrective picture, plain text, and imagery-evoking text in a misleading-advertising context, measuring implicit attitudes with evaluative priming and explicit attitudes with self-reports. Experiment 2 (U.S. online panel; 140 analyzed) crosses initial information format (picture vs text) with product-recall format (picture vs text), measures implicit attitudes with the SC-IAT, and tests mediation by imagery dimensions while also measuring affect. Experiment 3 (Hong Kong undergraduates; 139 analyzed) uses a product-recall setting with visual-load, cognitive-load, and no-load conditions to test whether preventing visualization prevents implicit attitude change from pictorial warnings.",
+  "focal_constructs": [
+    "implicit attitudes",
+    "explicit attitudes",
+    "corrective information",
+    "visual mental imagery",
+    "imagery valence",
+    "imagery vividness",
+    "misleading advertising warnings",
+    "product recall notices"
+  ],
+  "main_findings": [
+    "Picture-based and imagery-evoking corrective information produced stronger negative change in implicit attitudes than plain descriptive text, while explicit attitudes changed similarly across formats.",
+    "Negative valence of visual imagery mediated the effect of information format on implicit attitude change; vividness mediated in the predicted case when initial brand information was text-based, while imagery quantity and affect did not explain the effect.",
+    "A visual load manipulation that hindered visualization eliminated implicit attitude change from pictorial recall information, whereas a cognitive load manipulation did not, consistent with a System 1 process account."
+  ],
+  "one_line_summary": "Across experiments on misleading-advertising and product-recall warnings, image-based or imagery-evoking corrective information changed implicit brand attitudes more than plain text, primarily through visual mental imagery.",
+  "relation_to_prior_work": "extends prior implicit attitude-change research that has largely focused on verbal information by testing image-based and imagery-evoking corrective messages in marketing warning contexts. It also combines dual-process theorizing with visual-imagery research to explain mechanisms of implicit attitude change.",
+  "research_gap": "Prior work on text versus image message effectiveness had mainly examined explicit self-reported attitudes, and implicit attitude-change research had focused mostly on verbal inputs. The paper identifies a gap in understanding how common corrective warnings can shift implicit attitudes.",
+  "research_question": "Do image-based corrective warnings about misleading advertising and product recalls change implicit consumer attitudes more effectively than plain text, even when explicit attitude change is similar? If so, is this advantage explained by visual mental imagery (especially its valence and vividness) rather than alternative factors such as affect?"
+}

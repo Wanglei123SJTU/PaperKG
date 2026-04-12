@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops a convenience-salience framework of postpurchase consumption that separates the decision to consume (incidence) from how much to consume (quantity).",
+    "Shows that stockpiling can influence consumption through two different paths: salience-driven effects on incidence and cost-related effects on quantity.",
+    "Provides evidence with multiple methods (scanner data, field experiment, laboratory experiments) to clarify when stockpiling-inducing promotions accelerate consumption and when they do not."
+  ],
+  "context": "The paper examines postpurchase consumption in packaged consumer goods, especially situations where promotions induce households to stockpile products. Empirical contexts include grocery categories such as juices, cookies, detergent, snack foods, and drink/dessert formats in French scanner data and U.S. household/student studies.",
+  "design_and_data": "Study 1 analyzes 1994 Secodip household scanner panel data from a French test market for juices, cookies, and laundry detergent, distinguishing regular purchases, exogenous stockpiling (promotional packs), and endogenous stockpiling, and modeling consumption rate as Q/IP with regressions. Study 2 is a longitudinal field experiment with 56 U.S. households (224 observations) using a 2 x 3 x 2 design (stockpiling x salience x convenience) and 12-day recalled daily usage for six products. Study 3 is a laboratory 2 x 2 experiment with 102 undergraduates manipulating stockpiling and shelf salience for eight convenient snack brands and testing mediation via perceived salience. Study 4 is a laboratory 2 x 2 experiment with 153 undergraduates manipulating convenience and salience (stockpiling held constant) for iced tea, pudding, and orange juice, plus recall and consideration measures.",
+  "focal_constructs": [
+    "exogenous stockpiling",
+    "endogenous stockpiling",
+    "consumption incidence",
+    "consumption quantity",
+    "consumption rate",
+    "product salience at the point of consumption",
+    "consumption convenience",
+    "perceived acquisition and replacement costs"
+  ],
+  "main_findings": [
+    "Exogenous stockpiling increased short-term consumption rates for high-convenience products (for example, juices and cookies) but not for low-convenience detergent in scanner data, while endogenous stockpiling was associated with higher rates across all categories.",
+    "Stockpiling increased consumption quantity conditional on consumption for both high- and low-convenience products, but increased and accelerated consumption incidence mainly for high-convenience products.",
+    "Salience mediated stockpiling effects on consumption incidence for convenient products: when salience was independently held high, additional stockpiling no longer raised incidence, and salience mainly translated into consideration and incidence when products were convenient."
+  ],
+  "one_line_summary": "Across scanner, field, and lab studies, the paper finds that exogenous stockpiling accelerates consumption mainly by increasing the salience and incidence of convenient products, while increasing consumed quantity once consumption occurs for both convenient and less convenient products.",
+  "relation_to_prior_work": "extends economic and mental-accounting accounts of postpurchase behavior by distinguishing consumption incidence from quantity and adding point-of-consumption salience and consumption convenience to explain stockpiling effects. It addresses mixed prior scanner evidence by separating exogenous from endogenous stockpiling and by testing causal mediation and moderation experimentally.",
+  "research_gap": "Prior research largely examined consumption volume conditional on already consuming and emphasized acquisition/replacement cost mechanisms, leaving unclear what triggers consumption incidence. Scanner studies showed mixed category-level effects of stockpiling and offered limited causal evidence on mediators and moderators, motivating controlled tests of mechanism.",
+  "research_question": "When consumers stockpile products, how does stockpiling affect when they consume and how much they consume? The paper asks whether exogenous stockpiling truly accelerates consumption and whether this occurs through greater salience at the point of consumption, with effects contingent on product convenience and distinct for incidence versus quantity decisions."
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a scalable fine-grained attribute sentiment approach that combines convolutional and LSTM layers to account for spatial and sequential language structure in review text.",
+    "Develops a structural, heterogeneous, model-based imputation method for missing attribute sentiments by jointly modeling attribute ratings, selective attribute mention, and overall ratings.",
+    "Shows that reducing text-to-metric measurement error can materially change managerial attribute scorecards, highlighting implications for social science research using constructed text variables."
+  ],
+  "context": "The empirical setting is Yelp restaurant reviews, where users provide overall star ratings and free-form text but are often silent on many specific attributes. The study focuses on five restaurant attributes: food, service, ambiance, value, and location.",
+  "design_and_data": "The paper builds sentence-level attribute and sentiment classifiers for five attributes and five sentiment levels from Yelp review text. It uses 1.2 million restaurant reviews for exploratory attribute and vocabulary work, and a human-labeled supervised set of 2,400 sentences for training and test comparisons across lexicon, machine learning, and deep learning models, including hard-sentence diagnostics. For the structural missing-data analysis, the authors estimate a latent-class model on a stratified sample of 45,652 reviews from 2,704 restaurants and 19,583 reviewers, with panel history expanded to about 250,000 reviews for time-varying past-review measures. Missing attribute ratings are imputed via a joint model of ordinal attribute ratings, attribute-mention choice, and overall ratings, estimated with a nested EM algorithm and validated on holdout data.",
+  "focal_constructs": [
+    "fine-grained attribute sentiment scoring",
+    "spatial language structure",
+    "sequential language structure",
+    "attribute silence in reviews",
+    "attribute-mention self-selection",
+    "heterogeneous reviewer rating styles",
+    "model-based missing attribute imputation",
+    "informativeness and praise-vent motives"
+  ],
+  "main_findings": [
+    "A hybrid convolutional-LSTM model outperformed lexicon and other benchmark classifiers in both attribute classification and five-level sentiment scoring, with especially strong improvements on hard sentence types and better sentiment polarity detection.",
+    "A three-segment reviewer structure was identified: status-seeking regulars, an altruistic mass, and emotive irregulars, with distinct reviewing intensity and attribute weighting in overall ratings.",
+    "Attribute mentions were driven more by informativeness and praise-vent motives than by attribute importance, and heterogeneous model-based imputations outperformed homogeneous and ad hoc imputations and produced economically meaningful corrections in restaurant attribute ratings."
+  ],
+  "one_line_summary": "Using Yelp restaurant reviews, the paper combines a convolutional-LSTM text model with a heterogeneous structural missing-data model to improve fine-grained attribute sentiment measurement and correct biases from unmentioned attributes.",
+  "relation_to_prior_work": "extends prior marketing text analytics work that emphasized bag-of-words topics or valence-only sentiment by modeling fine-grained attribute sentiment with a hybrid convolutional-LSTM architecture, and introduces a missing-not-at-random style treatment of attribute silence through a joint structural model of rating and mention behavior.",
+  "research_gap": "Prior research on online review text in marketing mostly emphasized word-frequency methods or valence-level sentiment and provided limited treatment of fine-grained attribute sentiment in hard sentences where meaning depends on phrase and sequence structure. It also did not provide a behaviorally grounded approach to interpret and impute missing attributes created by selective attribute mention in open-ended reviews.",
+  "research_question": "How can open-ended online reviews be converted into accurate, fine-grained (five-level) attribute sentiment ratings when sentence meaning depends on language structure? How should missing attributes from reviewer silence be interpreted and imputed, accounting for reviewer self-selection and heterogeneity, so that aggregate attribute ratings are valid for managerial use?"
+}

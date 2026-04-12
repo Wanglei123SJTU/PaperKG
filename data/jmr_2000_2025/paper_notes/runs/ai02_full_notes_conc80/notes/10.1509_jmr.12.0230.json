@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper claims to show a nonintuitive violation of first-order stochastic dominance in separate evaluations of promotional lotteries caused by lottery reward structure.",
+    "It proposes and supports a process account in which high-probability token prizes shift attention from prize value to winning probability, reducing perceived odds of winning the grand prize and lowering lottery valuation.",
+    "It identifies a boundary condition: the effect appears when consolation prizes are highly probable or guaranteed, and not when consolation-prize probability is low."
+  ],
+  "context": "The paper studies consumer responses to marketing lottery promotions in which people may win a grand prize, with or without small token prizes. Empirical settings include shopping-mall lucky draw scenarios, a real survey participation decision, and a soft-drink lucky draw context in Hong Kong.",
+  "design_and_data": "After a pilot study, the authors report four between-subject experiments, mostly with Hong Kong undergraduates (Experiment 1: n=91; Experiment 2: n=127; Experiment 3: n=275 with 252 analyzed after outlier exclusion; Experiment 4: n=275). They manipulate whether consolation prizes are present and, in Experiment 3, whether those prizes are low probability, high probability, or guaranteed; Experiment 4 also manipulates grand-prize value and grand-prize winning probability in a 2 x 2 x 2 design. Dependent measures are participation intention, perceived likelihood of winning the grand prize, willingness to pay to enter the lottery, and a real binary participation choice. The paper also reports a Mechanical Turk follow-up (n=60) and a poststudy (n=56) for alternative-account checks.",
+  "focal_constructs": [
+    "promotional lottery valuation",
+    "consolation or token prizes",
+    "perceived likelihood of winning the grand prize",
+    "participation intention",
+    "willingness to pay",
+    "probability weighting",
+    "attention shift from value to probability"
+  ],
+  "main_findings": [
+    "Adding consolation prizes lowered participation intention and lowered perceived likelihood of winning the grand prize in the main scenario test, and perceived winning likelihood mediated the participation effect.",
+    "In a real binary choice task, participants were less willing to participate when a consolation prize was included than when only big prizes were offered.",
+    "The negative effect emerged for high-probability or guaranteed consolation prizes but not for low-probability consolation prizes, and Experiment 4 found a consolation x big-prize-probability interaction (without a consolation x big-prize-value interaction), supporting a probability-weight shift account rather than value dilution."
+  ],
+  "one_line_summary": "Across four experiments, adding high-probability consolation prizes to promotional lotteries reduced perceived odds of winning the grand prize and decreased lottery valuation and participation.",
+  "relation_to_prior_work": "introduces reward structure as a third decision dimension in risky choice and documents a pattern that runs against standard stochastic-dominance predictions in separate evaluation. It distinguishes the effect from value dilution and positions it alongside uncertainty-effect and less-is-better research with a different mechanism.",
+  "research_gap": "The authors state that little research has examined how reward structure in promotional lotteries affects consumers' valuation and participation decisions. They also argue that prior decision-theory work has not shown this specific dominance-violating effect driven by adding token prizes with high attainment probability.",
+  "research_question": "Does adding a small consolation prize to a promotional lottery increase or decrease consumers' valuation and willingness to participate, despite increasing expected value? The paper also asks whether any effect occurs because consumers shift attention and weight toward winning probabilities, and whether this depends on the consolation prize being highly probable."
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Shows that uncertain incentives can be almost as effective as offering the best possible outcome with certainty, implying a potentially more cost-effective promotional strategy.",
+    "Identifies boundary conditions for this effect: it weakens when consumers engage in probability-focused or otherwise careful consideration.",
+    "Provides evidence of ecological validity by replicating the key pattern in a real retail field setting with consequential purchase choices."
+  ],
+  "context": "The paper studies consumer retail promotions that include uncertainty, such as gift-with-purchase and instant-win style offers. The empirical contexts include hypothetical soft-drink promotions and an on-campus snack-shop candy-bar promotion.",
+  "design_and_data": "The authors run a series of randomized between-subjects experiments plus a field experiment. Experiment 1 uses 117 online participants assigned to valued reward, inferior reward, or uncertain incentive conditions, measuring purchase likelihood, attractiveness, and perceived monetary value. Experiment 2a uses 154 students and manipulates whether probability of receiving the valued reward is elicited before or after evaluation; Experiment 2b uses 76 online participants and increases value variance between outcomes (100 vs 1 iTunes downloads). Experiment 3 tests actual behavior with 100 snack-shop customers (with 2 exclusions reported by the authors), where a cashier offers a candy-bar purchase tied to a valued reward, inferior reward, or uncertain reward, and purchase is observed.",
+  "focal_constructs": [
+    "uncertain incentives",
+    "valued reward",
+    "inferior reward",
+    "innate optimism",
+    "probability consideration",
+    "purchase likelihood",
+    "promotion attractiveness",
+    "reward value variance"
+  ],
+  "main_findings": [
+    "In Experiment 1, uncertain incentives generated purchase likelihood statistically similar to the certain valued reward and higher than the inferior reward, even though participants valued the uncertain offer lower in direct dollar terms than the valued reward.",
+    "In Experiment 2a, asking participants to estimate win probability before judging the offer significantly reduced interest in the uncertain incentive, while asking after judgment preserved the valued-like response; reported probabilities themselves did not differ by timing.",
+    "Experiment 2b showed that with large value disparity, uncertain incentives resembled the inferior reward rather than the valued reward, while the field experiment showed uncertain incentives produced purchase rates similar to the valued reward (34.4% vs 38.7%) and higher than the inferior reward (13.4%)."
+  ],
+  "one_line_summary": "The paper finds that uncertain gift-with-purchase promotions can perform nearly as well as certain high-value rewards, but mainly when consumers evaluate them intuitively rather than through explicit probability-focused deliberation.",
+  "relation_to_prior_work": "extends prior research on risk aversion, certainty effects, and uncertainty in promotions by showing that low-consideration optimism can make uncertain incentives perform like their best possible outcome and by identifying consideration intensity as a key boundary condition.",
+  "research_gap": "Prior theory on risk aversion and the certainty effect suggests uncertain rewards should be less attractive than sure valued rewards, yet uncertainty-based promotions are widely used in practice. The paper addresses this mismatch by testing when uncertain promotions can still be effective.",
+  "research_question": "Can a promotion that offers an uncertain reward (e.g., either a valued or an inferior gift) be as effective as offering the valued reward with certainty despite lower expected value? Under what conditions does this effect hold or break down, especially when consumers are prompted to consider probabilities or when the incentive structure induces deeper thought?"
+}

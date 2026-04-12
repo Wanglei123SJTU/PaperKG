@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper identifies social crowdedness as an environmental cue that activates avoidance motivation and shifts consumers toward prevention-oriented decision making.",
+    "It provides process evidence that crowdedness effects on choice operate through increased net prevention focus rather than visual clutter.",
+    "It shows a theoretically consistent boundary condition by demonstrating attenuation when crowds are in-group members and extends effects to persuasion and real behavioral outcomes."
+  ],
+  "context": "The paper studies consumer decision making in physically crowded versus uncrowded environments, with examples such as retail and other public consumption settings. Evidence comes from North American university labs/classrooms and an online subject pool using shopping-like choices, health-message responses, and investment gambles.",
+  "design_and_data": "Six experiments are reported. A pilot (N=34) and Study 2 (N=100) used image primes (crowded, uncrowded, plus clutter/control in Study 2) and measured incidental regulatory focus and safety-oriented preferences; Study 2 tested mediation with bootstrap indirect effects. Study 1 (N=73) manipulated crowding naturalistically by placing 10 versus 2-3 participants in the same small lab room, then measured safety-word accessibility and two safety-oriented choice ratings. Study 3 used an online 2 x 2 crowding x group-membership design plus control (N=400; 380 after time-based exclusions), Study 4 used a 2 x 2 crowding x message-frame lab design with actual flossing behavior (N=213), and Study 5 used a 10-round real-money investment game after crowding primes (N=56).",
+  "focal_constructs": [
+    "social crowdedness",
+    "personal space violation",
+    "avoidance motivation",
+    "prevention focus",
+    "safety-oriented choice",
+    "regulatory fit and message framing",
+    "in-group versus out-group crowd composition",
+    "risk aversion"
+  ],
+  "main_findings": [
+    "Across studies, crowded (vs uncrowded/control/cluttered) participants showed higher net prevention focus, greater accessibility of safety-related words, and stronger preference for safety-oriented options (e.g., pharmacy over convenience store, first-aid products over cookies).",
+    "Mediation analyses in Study 2 showed that net prevention focus mediated the effect of crowdedness on safety-oriented preferences.",
+    "Crowding effects were weaker when the crowd was in-group rather than out-group members, and crowding increased receptivity to prevention-framed messages, actual flossing after a prevention-framed message, and risk aversion in a positive-expected-value gamble (especially after prior losses)."
+  ],
+  "one_line_summary": "Across six experiments, the paper shows that social crowdedness increases prevention focus and shifts consumers toward safer choices, stronger response to prevention-framed messages, and greater risk aversion, especially when crowds are out-group members.",
+  "relation_to_prior_work": "extends prior crowding and personal-space research, which had largely focused on satisfaction, task performance, and withdrawal, by demonstrating systematic effects on consumer choice content and risk taking. It also connects crowding to regulatory focus and regulatory fit findings by showing prevention-focus mediation and stronger response to prevention-framed messages under crowding.",
+  "research_gap": "Marketing research had shown that crowded settings reduce satisfaction and can hasten store departure, but there was little evidence on how crowding influences actual consumer choices. Existing choice work on reduced interpersonal distance emphasized threatened uniqueness, leaving unclear whether social crowdedness induces a broader defensive prevention mindset with downstream choice consequences.",
+  "research_question": "Does the mere social crowdedness of a consumption environment alter consumer preferences and decisions? The paper asks whether crowding activates an avoidance system that increases net prevention focus, leading to more safety-oriented choices, greater receptivity to prevention-framed messages, and higher risk aversion, and whether crowd composition (in-group vs out-group) moderates these effects."
+}

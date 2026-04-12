@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited work is referenced in core modeling sections, not just a literature-list context. The citing paper uses it to support the claim that pharmaceutical detailing is allocated by past prescription volume, creating nonrandom marketing exposure and potential endogeneity. That premise directly motivates the paper's fixed-effects and control strategy for identifying peer effects in prescriptions.",
+  "relation_description": "The citing paper relies on Manchanda, Rossi, and Chintagunta (2004) as empirical foundation that detailing follows a volume-based targeting rule and is not exogenous. This supports the citing paper's identification setup for handling targeted marketing while estimating social interaction effects.",
+  "relation_type": "foundational_for"
+}

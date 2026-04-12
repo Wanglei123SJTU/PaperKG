@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited 2001 article is treated as a central prior method, not a background list citation: the citing paper identifies it as the introduction of Bayesian design for multinomial logit choice experiments under parameter uncertainty. The citing authors explicitly state their approach is similar to Sandor and Wedel (2001), retain that Bayesian setup and DB benchmark, and even follow its example for prior draws, while changing the search algorithm and adding A-, G-, and V-based comparisons. This shows the cited work materially structures the citing paper's framing and methodological starting point.",
+  "relation_description": "The citing paper builds directly on Sandor and Wedel (2001)'s Bayesian conjoint design framework for multinomial logit models. It extends that line by comparing additional optimality criteria (especially G and V) and implementing them with a modified Fedorov algorithm rather than the original RSC procedure.",
+  "relation_type": "extends"
+}

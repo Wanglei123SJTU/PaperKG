@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and tests an accessibility-diagnosticity framework for predicting when a brand scandal spills over to product categories and rival brands.",
+    "It identifies specific moderators of spillover, including brand typicality, scandal-attribute association with the category, attribute-level similarity between brands, and contextual primes that focus on relationships versus differentiation.",
+    "It provides response guidance by showing when denials by competitors are beneficial versus harmful."
+  ],
+  "context": "The studies use familiar consumer categories, mainly fast-food restaurants (e.g., Burger King, Dairy Queen, Hardee's, Wendy's, McDonald's) and athletic shoes (Nike, Reebok, Asics). Scandals are presented as news stories about misleading nutrition claims, tainted ice cream, or water pollution.",
+  "design_and_data": "Evidence comes from three controlled experiments with student samples (Experiment 1: 81 MBA students; Experiment 2: 54 MBA students; Experiment 3: 66 respondents), supported by pretests to calibrate typicality, similarity, and primes. Experiment 1 used a 2 x 2 x 2 between-subject design (scandalized brand x scandal attribute x category measured) with pre- and post-scandal measures of category beliefs and competitor evaluations. Experiment 2 used a 2 x 2 design that manipulated an advertising prime (relationships vs differentiation) and competitor denial after a Burger King hamburger scandal, measuring attitudes and beliefs about Wendy's. Experiment 3 replicated with athletic-shoe pollution stimuli, a sorting-task prime, a subtle denial manipulation, and pre/post competitor measures to trace correction versus boomerang shifts.",
+  "focal_constructs": [
+    "brand scandal spillover",
+    "accessibility",
+    "diagnosticity",
+    "brand typicality",
+    "scandal-attribute similarity",
+    "brand relationship versus differentiation priming",
+    "denial boomerang and correction effects"
+  ],
+  "main_findings": [
+    "Category spillover occurred when the scandalized brand was a typical member of the category and the scandal attribute was strongly associated with that category; otherwise spillover was minimal.",
+    "Spillover to competitors depended on similarity on the scandal attribute, not on overall brand similarity.",
+    "Competitor denials improved evaluations when spillover was likely (correction) but worsened evaluations when spillover was unlikely (boomerang effect), and this pattern replicated across different categories, scandals, and priming methods."
+  ],
+  "one_line_summary": "Across three experiments, the paper shows that scandal spillover to categories and competitors depends on accessibility and diagnosticity conditions, and that competitor denials help only when spillover is likely but backfire otherwise.",
+  "relation_to_prior_work": "extends prior spillover research from within-brand and brand-family contexts to scandal spillover across brands within a product category, and supplements work on scandalized-brand outcomes by modeling category and competitor effects.",
+  "research_gap": "Prior spillover research mainly examined within-brand effects (across attributes or products in a brand family) rather than spillover from one brand scandal to other brands in the same category. The paper also notes limited guidance on whether competitors should deny involvement when another brand is scandalized.",
+  "research_question": "When does negative information about a scandalized brand generalize to the product category and to competing brands? The paper also asks how competitors should respond, specifically whether issuing a denial improves or worsens attitudes and beliefs depending on whether spillover has occurred."
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper discusses Anderson and Simester (2014) in its review-fraud section and states that unverified reviews are more negatively imbalanced in that prior work. This is not just a name-check: the authors explicitly use this stream of evidence to motivate accounting for fraud/verification when modeling cross-platform differences in polarity and imbalance. Although the citation is not central to the paper's main polarity self-selection theory, it meaningfully informs the study's conceptual setup and control strategy.",
+  "relation_description": "The citing paper uses Anderson and Simester (2014) as empirical support for the claim that review fraud and verification status can affect review valence patterns. It then incorporates this idea by including platform review-verification mechanisms in its cross-platform analyses.",
+  "relation_type": "other"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and tests a VAR-based empirical model to measure how newly acquired customers from different channels contribute to customer equity growth over time.",
+    "It introduces a profitability-oriented metric based on impulse response functions that captures both direct customer value and indirect network effects (especially WOM effects) beyond conventional CLV.",
+    "It demonstrates managerial use of the metric through dynamic simulations for acquisition resource-allocation decisions."
+  ],
+  "context": "The empirical setting is a single Internet startup that offered free Web-hosting services, where users registered and reported how they heard about the firm. Firm performance is studied in a digital context where log-in activity is linked to advertising revenue potential and later paid-service conversion.",
+  "design_and_data": "The authors analyze 70 weeks of weekly time-series data from the firm, with three endogenous variables: customers acquired through marketing channels (MKT), customers acquired through word-of-mouth channels (WOM), and total weekly unique log-ins (VALUE). They estimate a level VAR with lag 1 after stationarity checks (ADF and KPSS), and include exogenous controls for trend, outlier weeks, and weekly demographic composition of new registrants (U.S. share, retailer share, larger-firm share). They validate log-ins as a value proxy using a binary logit of later paid conversion (full population N = 93,119; choice-based sample N = 2,130) and conduct additional validation with segment-level VARs and a customer-base dropout analysis using individual log-in histories.",
+  "focal_constructs": [
+    "marketing-induced customer acquisition",
+    "word-of-mouth customer acquisition",
+    "customer equity growth",
+    "customer lifetime value",
+    "WOM network effects",
+    "impulse response functions",
+    "acquisition resource allocation"
+  ],
+  "main_findings": [
+    "Customers acquired through marketing channels generate more short-term value, but WOM-acquired customers generate about twice the cumulative long-term value in log-ins over ten weeks (11.80 vs. 5.89).",
+    "WOM-acquired customers create substantially more long-run buzz, with expected future WOM acquisitions of 3.64 per customer versus 1.77 for marketing-acquired customers, while short-run buzz differences are not significant.",
+    "In the simulation, acquiring 1,000 customers through WOM produces much higher 10-week present-value revenue gains than acquiring 1,000 through marketing ($23,481 vs. $11,759), under the paper's assumptions."
+  ],
+  "one_line_summary": "Using a VAR model on weekly data from a web-hosting startup, the paper finds that marketing-induced acquisition boosts immediate activity but WOM acquisition delivers much larger long-run customer equity through stronger persistence and referral effects.",
+  "relation_to_prior_work": "extends prior CLV and customer-equity research by modeling acquisition-channel heterogeneity and dynamic WOM network effects in a system framework, rather than valuing new customers only by their standalone expected lifetime cash flows.",
+  "research_gap": "The paper argues that acquisition effectiveness is often assessed with soft communication metrics or CLV calculations that do not capture dynamic cross-effects and network spillovers from newly acquired customers. It addresses the lack of a hard, profitability-based metric that links acquisition channel outcomes to long-term customer equity growth.",
+  "research_question": "How do customers acquired through marketing actions versus WOM differ in their short-run and long-run contributions to firm value? Can a dynamic time-series model quantify each acquired customer's total contribution to customer equity, including indirect WOM-related effects across time and channels?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a new theory of sequential retelling in which summarization is a strategic curation process, not just a memory process.",
+    "It identifies and labels a robust stylistic transformation in repeated retellings, \"disagreeable personalization,\" where factual details decline while opinions and negative interpretations increase.",
+    "It provides mechanism and boundary evidence by showing effects of felt relative knowledge and guide/persuade motives, and by documenting a reversal to agreeable personalization when positive information is more exceptional."
+  ],
+  "context": "The paper studies how consumer-facing information is retransmitted through word of mouth and social-media-like summaries as it moves away from original sources. Empirical contexts include retellings of news stories, a health-related scientific report about shampoo ingredients, and a product review.",
+  "design_and_data": "The authors run 10 controlled experiments with more than 11,000 participants using serial reproduction tasks, where participants summarize an original text and later participants summarize prior summaries across one to three waves. The four main studies use MTurk and Prolific samples and manipulate story topic, felt relative knowledge versus recipient, access to the original source, and whether exceptional information is positive or negative. They analyze summaries with both independent human ratings and automated NLP measures (e.g., LIWC valence and first-person usage, specificity/complexity, subjectivity, and lexical novelty), and in Study 2 estimate a structural mediation process linking relative knowledge to guidance and persuasion motives.",
+  "focal_constructs": [
+    "sequential retelling",
+    "disagreeable personalization",
+    "felt relative knowledge",
+    "desire to guide",
+    "desire to persuade",
+    "factual detail loss",
+    "opinion and interpretation injection",
+    "negativity versus positivity bias"
+  ],
+  "main_findings": [
+    "Across waves of retelling, summaries became less factually detailed and more opinionated, with a systematic shift toward negativity (disagreeable personalization).",
+    "Retellers who felt more knowledgeable than their audience reported stronger motives to guide and persuade, and these motives mediated greater opinion expression and negativity in summaries.",
+    "Access to the original source only modestly attenuated disagreeable personalization, and when positive information was made the exceptional element, retellings shifted toward agreeable personalization instead."
+  ],
+  "one_line_summary": "Using large serial-reproduction experiments, the paper shows that repeated summarization transforms news into less detailed, more opinionated retellings with valence shifts driven by felt relative knowledge and guidance/persuasion motives.",
+  "relation_to_prior_work": "introduces a strategic, motivation-based account of serial retelling that moves beyond memory-centric explanations such as leveling and sharpening. It connects retelling research with word-of-mouth and opinion-leadership perspectives by emphasizing felt relative knowledge and persuasive guidance motives.",
+  "research_gap": "Prior serial reproduction research largely documents memory-driven erosion of facts and offers limited explanation for how social and motivational factors systematically shape retelling across multiple waves. The paper argues that a comprehensive framework for how both content and style evolve in sequential retelling was missing.",
+  "research_question": "How does information from an original story systematically change in content and language style as it is repeatedly summarized across consumers? What drives these changes, especially whether retellers' felt knowledge relative to recipients increases motives to guide and persuade, producing more opinionated and negative retellings?"
+}

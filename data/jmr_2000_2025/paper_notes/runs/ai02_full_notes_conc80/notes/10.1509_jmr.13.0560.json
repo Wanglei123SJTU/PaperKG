@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The study provides evidence on neural processes behind consumers' adjustment to social context by comparing passive branded-product viewing when alone versus in noninteractive copresence.",
+    "It applies social facilitation theory to ERP responses in a marketing task and links LPP amplitude to increased attention allocation and motivational significance for higher-emotional-value brand stimuli.",
+    "It demonstrates the value of EEG as a complement to self-reports by detecting social-context effects even when most participants reported no comfort difference between conditions."
+  ],
+  "context": "The empirical setting is a controlled EEG laboratory study with female undergraduate students from a Dutch university. Participants passively viewed pictures of branded chocolates, beverages, shoes, and lingerie either alone or seated next to another participant without interaction.",
+  "design_and_data": "The authors pretested 120 branded product images with female undergraduates and retained 60 luxury and 60 basic images based on at least 90% classification agreement. A separate PERVAL study with 60 female undergraduates assessed emotional value and confirmed higher emotional value ratings for luxury versus basic branded products. In the EEG experiment, 40 female undergraduates completed both Alone and Together sessions (order counterbalanced), viewing 60 images per session (30 luxury, 30 basic) while 32-channel EEG was recorded. ERP mean amplitudes were analyzed in P2 (150-250 ms), P3 (250-450 ms), and LPP (500-700 ms) windows at posterior sites using repeated-measures ANOVAs.",
+  "focal_constructs": [
+    "luxury branded products",
+    "basic branded products",
+    "mere presence (noninteractive copresence)",
+    "social facilitation theory",
+    "event-related potentials",
+    "late positive potential (LPP)",
+    "attention allocation",
+    "emotional value at the brand level"
+  ],
+  "main_findings": [
+    "Luxury branded product pictures were rated significantly higher on emotional value than basic branded product pictures in the PERVAL assessment.",
+    "P2 and P3 amplitudes were significantly more positive in the Together condition than in the Alone condition, indicating a general social-context effect on early to mid-latency processing.",
+    "LPP amplitude was significantly higher for luxury than for basic branded products only in the Together condition, while the luxury-basic LPP difference was not significant in the Alone condition."
+  ],
+  "one_line_summary": "Using EEG, the paper shows that merely being with another person increases early ERP positivity and selectively amplifies late motivated attention to luxury versus basic branded product images.",
+  "relation_to_prior_work": "extends prior marketing work on social-context effects from behavioral outcomes to underlying neural processes, and extends ERP emotion research to marketing-relevant luxury versus basic brand stimuli under mere presence conditions.",
+  "research_gap": "Prior marketing research documented behavioral differences between individual and social contexts but had not examined the neural processes underlying consumers' adjustment to social context. The paper addresses this by testing whether mere noninteractive copresence modulates ERP responses to branded products.",
+  "research_question": "Do consumers exhibit different ERP responses when passively viewing luxury versus basic branded products, and does the mere presence of another person modulate these responses? The study also asks whether copresence generally increases ERP positivity and whether it magnifies the LPP advantage for luxury over basic brands."
+}

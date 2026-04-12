@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a structural consumer learning model for turbulent markets in which consumers update beliefs about both mean product quality and signal precision, rather than only mean quality.",
+    "Shows empirically, using scanner data around a real product-harm crisis, how consumer choice responses to a crisis evolve through changes in quality beliefs, perceived risk, and response sensitivities.",
+    "Provides counterfactual simulation evidence with managerial implications for crisis management strategies for strong versus weak recalled brands and for competing brands."
+  ],
+  "context": "The empirical setting is the Australian peanut butter market around Kraft Foods Australia's June 1996 product-harm crisis linked to salmonella concerns. The recall affected Kraft and Eta and occurred in a category with Sanitarium and a store brand as key alternatives.",
+  "design_and_data": "The authors develop a structural brand-choice model where consumers are uncertain about both brand mean quality and the precision of signals from use experience and crisis information, update beliefs with Bayes' rule, and discount confidence over time. They allow price, advertising, quality, and risk sensitivities to differ before, during, and after the crisis via period dummies and estimate the model using a hierarchical Bayesian MCMC approach. Data come from ACNielsen Australia weekly scanner panel records for 262 households in Sydney and Melbourne over 121 weeks around the crisis, with four focal brands covering more than 90% of market share, plus weekly prices and advertising expenditures. They use an initial preestimation window to initialize priors and run counterfactual simulations from estimated parameters.",
+  "focal_constructs": [
+    "product-harm crisis",
+    "consumer learning under uncertainty",
+    "brand choice dynamics",
+    "mean quality beliefs",
+    "signal precision beliefs",
+    "perceived risk (quality variance)",
+    "information discounting/forgetting",
+    "crisis spillover effects"
+  ],
+  "main_findings": [
+    "The proposed model fits better than both a no-discount variant and the standard learning model that assumes known signal precision (higher marginal likelihood).",
+    "During the crisis, consumers became less price sensitive, less responsive to advertising, and more risk averse; postcrisis risk aversion remained higher than precrisis but lower than during-crisis.",
+    "Brands differed in crisis outcomes in ways consistent with estimated quality consistency and risk effects: Kraft recovered better than Eta, Sanitarium gained share, and the store brand declined; counterfactuals indicate high-quality recalled brands are hurt mainly through worsened quality beliefs and uncertainty, while low-quality recalled brands are hurt mainly through heightened risk/quality sensitivity."
+  ],
+  "one_line_summary": "Using Australian scanner data around Kraft's 1996 peanut butter recall, the paper shows that a Bayesian choice model in which consumers learn about both product quality and signal precision with belief discounting explains crisis-period brand choices better than standard learning models.",
+  "relation_to_prior_work": "extends prior product-harm crisis and negative publicity research by moving from mainly experimental evidence to a scanner-data structural choice analysis, and extends standard marketing learning models by allowing belief updating for both quality level and information precision under crisis-driven incongruent information.",
+  "research_gap": "Prior marketing work on product-harm crises was relatively sparse and largely experimental, with limited longitudinal scanner-based modeling of actual purchase behavior. Existing consumer learning models also typically assume known, constant signal precision, which cannot capture crisis settings where new information may increase perceived uncertainty.",
+  "research_question": "How do consumers update brand quality beliefs and perceived risk when a product-harm crisis introduces information that may conflict with prior beliefs? Does a brand-choice model that allows learning about both mean quality and signal precision, with confidence discounting, better explain pre-, during-, and post-crisis purchase dynamics than standard learning models?"
+}

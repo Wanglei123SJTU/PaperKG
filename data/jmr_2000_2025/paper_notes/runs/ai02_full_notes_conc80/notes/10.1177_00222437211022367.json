@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces and tests a novel labeling system, real-time meal-level traffic light aggregation, designed to give intuitive and actionable feedback while consumers build meals.",
+    "Provides process evidence on how labeling changes decisions by tracking add/remove sequences and showing that dynamic intuitive feedback increases revisions of high-calorie orders.",
+    "Shows that the advantage of aggregation depends on intuitive feedback format, not just adding numeric information or visual salience, and discusses broader applications of dynamic intuitive feedback."
+  ],
+  "context": "The studies are set in restaurant-style meal ordering with menus that include entrees, sides, and drinks and display item calories and prices. One experiment used real university lunch orders with actual meal fulfillment, and the others used online hypothetical ordering with U.S. participant panels.",
+  "design_and_data": "The paper reports five preregistered experiments (total N = 11,900) where participants selected meals from computerized menus and real-time add/remove actions were recorded. Experiment 1 (n = 509, university participants) tested actual lunch choices with a chance to receive the chosen meal, comparing numeric item labels vs numeric item labels plus dynamic meal-level traffic light aggregation. Experiments 2-5 used online hypothetical orders (MTurk/Prolific; n = 1,803; 2,437; 3,002; 3,010 after exclusions) to compare item labels, numeric aggregation, traffic light aggregation, and format variants (written numeric guidance, continuous vs discrete aggregation, intuitive vs unintuitive graphics/symbols). The authors also estimated mediation models on revisions and an internal fixed-effects meta-analysis across experiments (plus supplemental studies).",
+  "focal_constructs": [
+    "numeric calorie labeling",
+    "meal-level calorie aggregation",
+    "traffic light feedback",
+    "dynamic real-time feedback",
+    "meal revisions",
+    "item removals and substitutions",
+    "intuitive vs unintuitive feedback"
+  ],
+  "main_findings": [
+    "Across experiments, dynamic meal-level traffic light aggregation reduced calories ordered relative to standard item-level numeric labels, including in a real meal-choice setting.",
+    "Traffic light aggregation generally outperformed numeric aggregation, and internal meta-analysis showed the largest overall calorie reduction for numeric item labels plus traffic light meal aggregation.",
+    "The calorie reduction effect was linked to more revisions, especially item removals among participants who crossed into higher-calorie ranges (yellow/red), indicating course-correction of initially high-calorie orders."
+  ],
+  "one_line_summary": "Five preregistered experiments show that dynamically updated meal-level traffic light calorie feedback lowers calories ordered, mainly by prompting revisions of high-calorie selections, and does so better than numeric aggregation.",
+  "relation_to_prior_work": "extends prior calorie-labeling research focused on static item-level numeric or traffic-light labels by testing dynamic meal-level aggregation during choice. It refines mechanism evidence by directly observing revisions and by separating intuitive feedback effects from discrete-category or salience effects.",
+  "research_gap": "Prior menu-labeling evidence for numeric calories is inconsistent and often small, and item-level traffic light labels have not shown clear superiority over numeric labels. The literature had little evidence on dynamic meal-level aggregation and limited process data on whether and how labels prompt revisions of preliminary meal choices.",
+  "research_question": "Does providing real-time aggregated meal-calorie feedback in a traffic light format reduce calories ordered relative to item-level numeric labeling and numeric aggregation? If effects occur, are they driven by consumers revising high-calorie preliminary orders, and is the benefit due to intuitive feedback rather than simply discrete categories or visual salience?"
+}

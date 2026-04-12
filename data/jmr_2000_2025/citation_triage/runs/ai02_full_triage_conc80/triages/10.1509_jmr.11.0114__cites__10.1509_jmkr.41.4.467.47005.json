@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited 2004 paper is about physician-level pharmaceutical response modeling with nonrandom detailing allocation (including a Poisson detailing-allocation component), and the 2012 citing paper also models physician-level detailing with a Poisson first-stage process in a drug-adoption framework. That strong methodological/domain overlap suggests plausible substantive use rather than a clearly incidental mention, even though the matched evidence here is only a DOI-level reference entry.",
+  "triage_decision": "keep_for_relation_judgment"
+}

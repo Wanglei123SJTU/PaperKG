@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper presents full-information discrete choice models that jointly estimate latent-variable measurement equations and binary or multinomial choice utility.",
+    "It introduces practical extensions for repeated-choice dependence (a correlated-response specification) and unobserved heterogeneity (a finite-mixture latent-variable choice model).",
+    "It provides two empirical applications to show when simultaneous factor-choice estimation materially changes conclusions versus limited-information methods."
+  ],
+  "context": "The empirical settings are customer switching and retention decisions in two service markets: cable television and health care insurance. In both settings, respondents evaluate competitive offers while attitudinal/satisfaction items are collected as indicators of latent constructs.",
+  "design_and_data": "The authors develop a general full-information likelihood that integrates over latent variables and estimate parameters by maximum likelihood using numerical quadrature (and discuss Monte Carlo integration for higher dimensions). Study 1 uses a cable provider survey with repeated stated switching ratings on a 0-10 scale across four competitor price points (1000 ratings from 250 respondents), plus eight attitudinal indicators loading on latent satisfaction and switching-barrier factors; ordered probit baseline and full-information models are compared. Study 2 uses a health care customer satisfaction study with binary stay/leave choice under competitive offer manipulations (deductible, copayment, reimbursement), with eight indicators for latent cost and coverage satisfaction; baseline logit models are compared with full-information and finite-mixture variants. The paper also reports Monte Carlo simulation experiments varying sample size, items per construct, item reliability, and the strength of the latent-variable-to-choice relationship.",
+  "focal_constructs": [
+    "discrete choice utility",
+    "latent attitudes and perceptions",
+    "customer satisfaction",
+    "measurement error in indicators",
+    "switching barriers",
+    "correlated repeated responses",
+    "finite-mixture unobserved heterogeneity"
+  ],
+  "main_findings": [
+    "In Study 1, full-information and limited-information models yield broadly similar directional conclusions, but full-information estimates are more precise, and a significant correlated-response term indicates within-respondent dependence across repeated choices.",
+    "In Study 2, limited-information models understate or misstate the role of satisfaction, whereas full-information models show significant effects of latent cost and coverage satisfaction and support a two-segment mixture with distinct choice drivers.",
+    "Simulation results indicate that full-information methods outperform two-stage limited-information approaches especially when item reliability is low to moderate and latent constructs strongly influence choice; the two-stage approach shows substantial bias (about 18% on average) and larger RMSE for the key structural link."
+  ],
+  "one_line_summary": "The paper develops full-information latent-variable discrete choice models and shows, via two marketing applications and simulations, that jointly modeling measurement and choice can materially improve inference when latent attitudes are strong drivers of choice.",
+  "relation_to_prior_work": "extends earlier discrete choice work that noted the need for latent variables (e.g., McFadden and follow-on restricted formulations) by embedding confirmatory factor measurement directly in full-information binary/multinomial choice estimation and by adding correlated-response and finite-mixture specifications.",
+  "research_gap": "Common practice in marketing choice modeling either inserts attitudinal indicators directly into utility or uses two-stage factor scores, but these limited-information approaches ignore measurement error and item-choice covariance, leading to biased and inconsistent estimates. The paper addresses the lack of practical full-information estimation frameworks for incorporating latent attitudinal constructs into discrete choice models.",
+  "research_question": "How can latent attitudinal constructs such as satisfaction and perceptions be incorporated correctly into binary and multinomial discrete choice models when they are not directly manipulated in the choice task? Do full-information joint measurement-choice models provide meaningfully different and better inference than common limited-information alternatives, and under what conditions?"
+}

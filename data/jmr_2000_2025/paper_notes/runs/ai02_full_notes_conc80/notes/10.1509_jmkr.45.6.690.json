@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides the first experimental evidence of a positive contagion effect in marketing or psychology.",
+    "Identifies sex as a critical moderator: positive contagion is realized when the contact source and recipient consumer are of the opposite sex.",
+    "Shows that positive contagion in this retail context is driven by a physical contagion process and rules out competing accounts such as mood or affect transfer from merely seeing an attractive person."
+  ],
+  "context": "The studies are conducted in an actual university bookstore apparel section, where participants encounter a target T-shirt that another shopper or sales associate has touched or worn. The contact source is a stranger in a live retail shopping experience rather than an advertising endorser.",
+  "design_and_data": "The paper reports three between-subjects field experiments using trained confederates and a T-shirt try-on task. Study 1 uses 119 students in a 2 (participant sex) x 2 (attractiveness of female shopper: high vs average) + no-touch control design; Study 2 uses 174 participants in a 2 x 2 x 2 (participant sex x attractiveness x confederate sex) + control design. Study 3 uses 83 male participants in a 2 (type of contagion: physical vs nonphysical via uncleaned vs dry-cleaned shirt) x 2 (female sales associate attractiveness) + control design. Outcomes include multi-item product evaluations, purchase intentions, and willingness to pay.",
+  "focal_constructs": [
+    "positive consumer contagion",
+    "physical attractiveness of contact source",
+    "consumer contamination",
+    "product evaluations",
+    "purchase intentions",
+    "willingness to pay",
+    "source-recipient sex pairing",
+    "physical versus nonphysical contagion"
+  ],
+  "main_findings": [
+    "Products were evaluated more favorably when participants believed a highly attractive other had touched the product than when an average-attractive other had touched it.",
+    "The attractiveness effect was moderated by sex pairing: positive contagion occurred when the source and recipient were of opposite sex, but not when they were of the same sex.",
+    "In Study 3, positive contagion was strongest when the item was physically contaminated by a highly attractive source and was reduced after dry-cleaning, supporting a physical transfer mechanism rather than mere exposure to attractiveness."
+  ],
+  "one_line_summary": "Across three field experiments in a bookstore, the paper shows that products touched by highly attractive others can receive higher evaluations, purchase interest, and willingness to pay, especially in opposite-sex source-recipient pairings, and that this positive contagion is physically based.",
+  "relation_to_prior_work": "introduces field-experimental evidence of positive contagion in retail consumer behavior, where prior marketing and psychology work had largely documented stronger negative contagion and only mixed correlational evidence for positive effects. It also tests mechanism in this context by supporting a physical transfer model.",
+  "research_gap": "Prior attractiveness research focused mainly on advertising and persuasion rather than attractive others during actual shopping interactions. Contagion research emphasized negative contamination, and positive contagion lacked experimental evidence and clear process validation in retail settings.",
+  "research_question": "Can contact from a highly attractive person in a retail setting create positive contagion, so that consumers respond more favorably to touched products than when touched by average-attractive others? Is this effect contingent on the sex pairing between source and recipient, and does it operate through physical rather than nonphysical contagion processes?"
+}

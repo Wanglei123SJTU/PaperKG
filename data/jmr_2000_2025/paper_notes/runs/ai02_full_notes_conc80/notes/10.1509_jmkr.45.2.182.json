@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a formal hierarchical Bayesian structural equation model for new product design in which subjective characteristics are latent constructs influenced by objective attributes and consumer idiosyncrasy, and purchase intention depends on both objective and subjective factors.",
+    "The paper proposes a Bayesian forecasting procedure that uses estimated attribute-to-perception links to predict latent subjective characteristics and purchase likelihood for out-of-sample design alternatives.",
+    "The paper demonstrates the approach with two empirical applications and argues that collecting prototype-based subjective perception data provides useful diagnostics for design decisions."
+  ],
+  "context": "The empirical settings are a U.S. manufacturer's handheld power tool development project and a toothbrush category. Respondents evaluated customer-ready prototypes, and the toothbrush study also included a verbal conjoint condition for comparison.",
+  "design_and_data": "The authors estimate a hierarchical Bayesian structural equation model (with latent subjective constructs and individual heterogeneity) using MCMC, and compare it with benchmark HB conjoint-type models. Study 1 uses 51 construction/metal workers who evaluated 10 power tool prototypes in two stages: purchase likelihood ratings and multi-item ratings for perceived power and perceived comfort; 9 prototypes were used for calibration and 1 for holdout, with additional hold-one-out robustness checks. Study 2 uses 84 students in a prototype condition and 64 students in a verbal conjoint condition across 14 toothbrush profiles; the prototype condition also collected multi-item ratings for perceived effectiveness and perceived comfort. Predictive validation uses holdout profiles and, in Study 2, an incentivized choice task among five out-of-sample toothbrushes, with comparisons via pseudo-R2, DIC, RMSD, MAE, RMSE, and hit rate.",
+  "focal_constructs": [
+    "objective product attributes",
+    "subjective product characteristics",
+    "purchase intention",
+    "latent constructs",
+    "consumer idiosyncrasy",
+    "hierarchical Bayesian structural equation model",
+    "Bayesian forecasting",
+    "optimal product design"
+  ],
+  "main_findings": [
+    "Across both empirical studies, the proposed model showed better in-sample fit and better out-of-sample prediction than benchmark conjoint models.",
+    "Both objective attributes and subjective characteristics affected purchase intention, and subjective characteristics partially mediated objective-attribute effects.",
+    "Ignoring subjective characteristics could misattribute effects and change design recommendations, such as suggesting a high price preference in conjoint when the structural model indicated a negative direct price effect offset by perceived power in the power tool case."
+  ],
+  "one_line_summary": "The paper develops and tests a hierarchical Bayesian structural equation approach that incorporates latent subjective perceptions from prototype evaluations into new product design and improves diagnostic insight and out-of-sample prediction versus traditional conjoint models.",
+  "relation_to_prior_work": "extends prior conjoint-focused new product design work that emphasizes objective attributes by integrating latent subjective characteristics from prototype ratings and linking them to objective attributes and purchase intention within a single HB framework.",
+  "research_gap": "The paper states that most new product design research has focused on objective attributes and that no formal model had incorporated subjective characteristics into product design decisions. It also identifies a methodological gap: subjective perceptions are latent, heterogeneous across consumers, and measured with error, making them difficult to include in standard conjoint models.",
+  "research_question": "How can firms formally incorporate consumers' subjective product characteristics, in addition to objective attributes, into new product design and evaluation models? Does a model that jointly captures objective attributes, latent subjective perceptions, and purchase intention improve understanding of causal relationships and prediction of out-of-sample purchase likelihood and choice relative to traditional conjoint approaches?"
+}

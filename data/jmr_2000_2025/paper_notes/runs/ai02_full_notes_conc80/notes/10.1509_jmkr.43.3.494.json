@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Defines and measures conversion ability at the idea level as a firm's likelihood of converting a given patented idea into a launched product.",
+    "Integrates problem-solving theory with new product development by framing conversion drivers as focus (idea load, expertise, idea importance) and deliberation (speed).",
+    "Provides a large-scale empirical test in pharmaceuticals of why firms differ in conversion ability, including nonlinear effects of speed and number of ideas."
+  ],
+  "context": "The study is set in the pharmaceutical industry, where patents and regulatory approvals make both product ideas and launch outcomes observable. The empirical setting is a cross-national sample of pharmaceutical firms and drug ideas across therapeutic categories.",
+  "design_and_data": "The authors combine data from Pharmaprojects, the FDA Orange Book, Delphion, Worldscope, COMPUSTAT, Million Dollar Directory, and Principal International Businesses. Starting from 1573 primary drug patents (1980-1985), they exclude firms with two or fewer patents and exclude licensed or acquired patents; the final estimation sample is 322 patented ideas from 38 firms, with outcomes tracked through 2001. Conversion is an idea-level binary indicator of whether the patent became a launched drug anywhere in the world. They estimate a random-coefficients logit with predictors for speed, normalized number of simultaneous ideas, expertise overlap, and idea importance, plus controls for novelty, country propensity, therapeutic category, resources, and year.",
+  "focal_constructs": [
+    "conversion ability",
+    "speed of development",
+    "number of promising ideas",
+    "expertise",
+    "idea importance",
+    "focus",
+    "deliberation"
+  ],
+  "main_findings": [
+    "Firms differ substantially in conversion ability, and in the broader patent pool only 18.30% of patented ideas were converted to launched drugs.",
+    "Speed has an inverted U-shaped relationship with conversion probability: very fast and very slow firms convert less than firms with moderate speed.",
+    "Number of simultaneous ideas also has an inverted U-shaped relationship with conversion probability, while expertise and idea importance have positive effects on conversion."
+  ],
+  "one_line_summary": "Using pharmaceutical patent-to-launch data, the paper finds that conversion ability is highest when firms work on a moderate number of ideas at a moderate pace and concentrate on important ideas in areas of expertise.",
+  "relation_to_prior_work": "challenges the common new product development assumption that more speed and more idea generation are always beneficial, by showing nonlinear downsides of both extremes for conversion.",
+  "research_gap": "The paper argues that research on why some ideas are converted and others are not is rare, largely because comparable data on both inputs (promising ideas) and outputs (launched products) are usually unavailable. It further states that no prior new product development work had empirically examined drivers of conversion ability at this level.",
+  "research_question": "Why are some firms better than others at converting promising ideas into launched products? Specifically, how do speed, number of simultaneous ideas, expertise, and idea importance affect the probability that a given idea is converted?"
+}

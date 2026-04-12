@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper introduces a contractual externality from uniform contract terms: each agent's presence affects the common incentive term and therefore other agents' outcomes.",
+    "It develops a practical method to jointly optimize sales force composition and compensation under multidimensional agent heterogeneity by reducing a large mixed-integer problem to a continuous search over commission rates.",
+    "It provides an empirical quantification, using a real U.S. sales force, of how composition choice and divisional sorting can recover much of the value of fully individualized contracts despite homogeneous commission constraints."
+  ],
+  "context": "The empirical setting is the direct sales force of a U.S. Fortune 500 contact lens manufacturer selling to optometrists across nonoverlapping territories. Agents are paid with salary plus nonlinear quarterly incentives (quota and ceiling), and commissions are commonly set within relevant groups.",
+  "design_and_data": "The authors build on a structural dynamic moral-hazard model estimated in Misra and Nair (2011) using firm data on compensation histories and client-level monthly sales over about 38 months for the focal sales force. They use estimated agent primitives (including effort cost, risk aversion, productivity, baseline demand, uncertainty, and outside option proxies) to simulate counterfactual compensation-composition policies. They solve a joint composition-compensation problem under common-commission constraints with a custom algorithm that searches over commission rates and retains agents with nonnegative contribution at each rate, then evaluate profits, effort, and sales under alternative architectures including sorting into multiple divisions.",
+  "focal_constructs": [
+    "homogeneous commissions",
+    "sales force composition",
+    "contractual externality",
+    "multidimensional agent heterogeneity",
+    "moral hazard incentives",
+    "sorting into divisions",
+    "joint composition-compensation optimization"
+  ],
+  "main_findings": [
+    "When composition is fixed, restricting the firm to partially homogeneous contracts lowers payoff materially relative to fully heterogeneous contracts (about $55.78M vs. $60.56M in the application).",
+    "When the firm can jointly optimize composition and compensation under a common-commission structure, payoff comes close to the fully heterogeneous benchmark (about $59.18M vs. $60.56M), indicating composition choice mitigates incentive losses from homogeneity.",
+    "Allowing a small number of divisions with division-specific uniform commissions generates profits close to fully heterogeneous contracts, and combining divisional sorting with composition choice improves performance further."
+  ],
+  "one_line_summary": "The paper shows theoretically and empirically that when commissions must be uniform, jointly choosing which agents to retain and how to pay them can recover most of the profit otherwise lost relative to fully individualized contracts.",
+  "relation_to_prior_work": "extends prior sales-force incentive and selection work by making contract terms and retained-agent composition jointly endogenous under common-contract constraints, rather than treating piece rates as exogenous or the agent pool as fixed. It also distinguishes its mechanism from team or relative-performance externalities by showing the effect arises with exclusive territories and absolute contracts.",
+  "research_gap": "Prior work had documented selection effects of incentives and analyzed contract design with fixed worker pools, but had not directly modeled and quantified the joint determination of incentives and agent composition when firms face uniformity constraints in contract terms. The paper addresses this gap in a multidimensional moral-hazard setting relevant to real sales force compensation practice.",
+  "research_question": "How does a restriction to homogeneous commission terms change the firm's optimal joint choice of sales force composition and compensation? In particular, to what extent can selecting and sorting agents offset the incentive losses from not tailoring commissions to each agent type in a realistic sales force environment?"
+}

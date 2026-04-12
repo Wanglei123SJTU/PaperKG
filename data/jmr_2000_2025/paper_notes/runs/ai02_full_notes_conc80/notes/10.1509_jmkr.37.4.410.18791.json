@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides an extensive full-factorial simulation that jointly varies four unobserved effects often treated separately in the choice-model literature: state dependence, serial correlation, heterogeneity, and choice set heterogeneity.",
+    "Shifts model validation emphasis from predictive fit alone to direct parameter-bias assessment by using simulated scanner-like data with known true coefficients.",
+    "Offers specification guidance by documenting when misspecification creates spurious effects and by identifying a practical model combination (choice set effects plus Guadagni-Little loyalty) that yields more valid parameters across conditions."
+  ],
+  "context": "The paper studies household brand choice in frequently purchased product categories using supermarket scanner-panel style settings. Choices are generated over five brands with marketing-mix and promotion variables to resemble typical scanner applications.",
+  "design_and_data": "The authors run a 3x3x3x3 full-factorial simulation over 81 conditions that vary state dependence (lambda = 0, .75, 1), serial correlation (rho = 0, .45, .90), heterogeneity (none, discrete, continuous), and choice set heterogeneity (none, SBM promotion expansion, BV). They generate 3 replications per condition (243 datasets), each with 3000 purchases from 200 consumers making 15 purchases, split into initialization, estimation, and validation segments. Nine multinomial logit-based models are estimated, including zero-order logit, GL loyalty, Fader-Lattin loyalty, latent-class heterogeneity, SBM choice sets, Roy-Chintagunta-Haldar, and combined models. Performance is evaluated via parameter bias metrics, BIC, validation log-likelihood, and dummy-variable regressions linking bias to misspecification factors.",
+  "focal_constructs": [
+    "parameter bias",
+    "multinomial logit consumer choice model",
+    "state dependence",
+    "brand loyalty (Guadagni-Little)",
+    "heterogeneity in preferences and market response",
+    "choice set heterogeneity",
+    "serial correlation in residuals",
+    "spurious effects"
+  ],
+  "main_findings": [
+    "Underspecified state dependence caused significant negative bias in market-response coefficients (about -40% when lambda = 0 and -18% when lambda = .75), and underspecified SBM-type choice set effects also caused significant response bias (about -27%).",
+    "Underspecified discrete heterogeneity produced very large bias in preference constants (about -105%), whereas underspecified continuous heterogeneity was not statistically significant; underspecified serial correlation mainly inflated loyalty estimates at high rho.",
+    "Across conditions, the logit model with choice set effects and GL loyalty gave the best overall parameter-bias performance, while the latent-class model with loyalty and choice sets gave the best predictive validity but showed higher variability and more spurious effects."
+  ],
+  "one_line_summary": "Using scanner-like simulations with known true parameters, the paper shows that misspecifying unobserved effects in multinomial logit brand-choice models can cause substantial coefficient bias and that adding choice set effects plus GL loyalty generally yields the most reliable parameter estimates.",
+  "relation_to_prior_work": "extends prior scanner-panel choice-model validation work that focused on predictive performance by providing a controlled parameter-bias analysis and a simultaneous examination of confounding among state dependence, heterogeneity, choice sets, and serial correlation.",
+  "research_gap": "The literature had mostly validated scanner-panel choice models using fit and prediction because true parameters are unknown in real data. The paper identifies a missing large-scale, simultaneous assessment of parameter bias from misspecified unobserved effects under scanner-like conditions.",
+  "research_question": "How much parameter bias arises in multinomial logit consumer-choice models when key unobserved effects are misspecified? The paper also asks whether commonly used model variants can correctly distinguish state dependence, heterogeneity, choice set effects, and serial correlation, and which specifications are most robust for explanation versus prediction."
+}

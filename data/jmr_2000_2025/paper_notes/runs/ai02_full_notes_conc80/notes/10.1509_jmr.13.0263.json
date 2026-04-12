@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes that conscious and unconscious goal pursuit differ in process, not just in performance, with conscious pursuit relying on elaboration and unconscious pursuit relying on active goal-attribute matching.",
+    "It identifies distinct predicted choice signatures for the two systems, including conscious pursuit's tendency toward extreme options (most goal-consistent or goal-inconsistent) and unconscious pursuit's tendency toward acceptable goal-consistent options.",
+    "It provides multi-study evidence that these differences depend on contextual factors such as goal value, competing-goal availability, attribute composition, and whether one or multiple goals are active."
+  ],
+  "context": "The paper studies consumer choice tasks where participants select among alternatives that vary in consistency with an activated goal and sometimes a competing goal. Empirical settings include snacks, bonsai trees, cooking classes, and restaurants in controlled student-lab and online panel experiments.",
+  "design_and_data": "The article reports six main between-subject experiments plus one ancillary experiment. Goal instantiation was manipulated as conscious (explicit instruction to pursue a goal) versus unconscious (lexical decision priming), with additional manipulations of goal value (high vs low), attribute-set composition, competing-goal presence, and single versus multiple goals. Dependent measures included discrete choices among alternatives, decision time, self-reported importance of focal and competing goals, and word-fragment completion measures of goal accessibility. Samples were primarily university students, with some studies on MTurk adults.",
+  "focal_constructs": [
+    "conscious goal pursuit",
+    "unconscious goal pursuit",
+    "goal-attribute matching",
+    "elaboration",
+    "focal goal accessibility",
+    "competing goal accessibility",
+    "trade-off consideration",
+    "goal-consistent and goal-inconsistent choice"
+  ],
+  "main_findings": [
+    "Conscious (vs unconscious) goal pursuit increased choice of the most goal-consistent alternative but also increased choice of goal-inconsistent alternatives when those alternatives served a competing goal, while unconscious pursuit increased the combined share of goal-consistent options.",
+    "Goal-priming checks showed effects were tied to goals rather than mere semantic activation: high-value goals produced the predicted choice and accessibility patterns, low-value goals did not, and accessibility rose after delay in both conscious and unconscious priming conditions.",
+    "Process tests supported mechanism differences: improving the best option increased choice mainly under conscious pursuit, adding more matching attributes to acceptable options increased choice mainly under unconscious pursuit, and under multiple active goals unconscious pursuit more often selected the option acceptable on both goals."
+  ],
+  "one_line_summary": "Across six experiments, the paper shows that conscious goal pursuit uses elaborative trade-off reasoning that can yield extreme choices, whereas unconscious goal pursuit uses goal-attribute matching that favors broadly goal-consistent options.",
+  "relation_to_prior_work": "challenges the common assumption that unconscious goal pursuit is simply an automated version of conscious goal pursuit and that differences are mainly due to cognitive bias. It introduces evidence that the two modes rely on different choice processes and therefore produce systematically different choice patterns.",
+  "research_gap": "Prior research largely emphasized when unconscious and conscious goal pursuit are similarly effective and often assumed a shared underlying process. The paper addresses the unresolved question of whether observed differences can arise from distinct decision processes rather than from biases in one system.",
+  "research_question": "How does being aware versus unaware of an active goal change consumer choice when options involve trade-offs and differ in goal efficacy? Specifically, do conscious and unconscious goal pursuit rely on different mechanisms - elaborative assessment versus goal-attribute matching - that generate different choice distributions across most goal-consistent, acceptable, and goal-inconsistent alternatives?"
+}

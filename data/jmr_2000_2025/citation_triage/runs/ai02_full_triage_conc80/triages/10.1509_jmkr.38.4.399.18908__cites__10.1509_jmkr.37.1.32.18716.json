@@ -1,0 +1,4 @@
+{
+  "rationale": "The two papers share a highly specific empirical setting (a toll-free medical referral service with hourly referrals and TV ad exposures across U.S. markets), which suggests more than incidental citation. The citing paper’s design (distributed-lag ad response estimation by market/creative, then linking creative cues to behavior and market age) is plausibly built on the cited paper’s prior hourly disaggregate modeling of creative/station/time effects and carryover in the same context. Given this likely methodological and substantive continuity, this pair should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

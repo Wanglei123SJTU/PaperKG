@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper explicitly positions itself against prior aggregate-data discrete-choice estimators and develops a hierarchical Bayesian random-coefficients logit from aggregate shares, while the cited paper is an aggregate scanner-data random-coefficients logit demand study in retail categories. Given this strong methodological/domain overlap (aggregate data + random-utility/logit estimation), the citation could be a substantive method/foundational reference rather than an incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "This is presented as the first empirical study to examine the timing of customer opt-in and opt-out decisions while accounting for purchase behavior.",
+    "The paper introduces vine copulas (pair-copula construction) to the marketing literature and extends bivariate dependence modeling to a multivariate setting.",
+    "The authors claim substantive and methodological value by providing a joint framework that improves opt-out prediction and supports marketing resource allocation decisions."
+  ],
+  "context": "The study is set in a permission-based e-mail program run by a U.S. home improvement retailer. It focuses on existing customers and their first observed opt-in and opt-out decisions.",
+  "design_and_data": "The authors analyze 47 months of customer-level data and build a calibration cohort of 9,180 customers (first purchase between February and July 2007) plus a holdout cohort of 9,180 customers for validation. The data include opt-in and opt-out timestamps, transactions, e-mail open and click histories, and firm marketing contacts, and are merged with Acxiom PersonicX Digital segments for online-habit and sociodemographic profiles. Opt-in and opt-out times are modeled with Weibull hazard models with gamma frailty, and average transaction amount is modeled with a random-effect log-normal model. Dependence across the three outcomes is modeled with a trivariate vine copula, with Gaussian and Frank pair-copula specifications compared via fit criteria.",
+  "focal_constructs": [
+    "permission-based e-mail marketing",
+    "opt-in time",
+    "opt-out time",
+    "average transaction amount",
+    "marketing contact intensity",
+    "e-mail open and click-through behavior",
+    "customer online-habit and sociodemographic segments",
+    "cross-process dependence"
+  ],
+  "main_findings": [
+    "Marketing intensity affects timing: more direct mail before subscription delays opt-in, and after opt-in both direct mail and e-mail show U-shaped effects on opt-out hazard, indicating overmarketing can accelerate opt-out.",
+    "Customers with different PersonicX characteristics differ in opt-in and opt-out propensities, and higher e-mail open and click behavior is associated with lower opt-out hazard.",
+    "The estimated dependence is positive between opt-in and opt-out times and positive between opt-out time and average transaction amount conditional on opt-in time, and the trivariate vine copula improves opt-out prediction versus benchmark models."
+  ],
+  "one_line_summary": "Using longitudinal retailer data, the paper jointly models customer opt-in timing, opt-out timing, and spending with a trivariate vine copula and shows that capturing their dependence improves opt-out prediction and informs contact strategy.",
+  "relation_to_prior_work": "extends prior permission-marketing research that studied opt-in and opt-out mostly as separate incidence decisions by jointly modeling their timing and linking them to transactional behavior. It also introduces vine pair-copula construction in marketing as a more flexible multivariate dependence approach than commonly used bivariate formulations.",
+  "research_gap": "Prior permission-marketing studies typically examined opt-in and opt-out separately, often in experimental settings, and focused on incidence rather than the timing and linkage of the two decisions. The literature also had not jointly incorporated transactional behavior with opt-in and opt-out timing, leaving an unresolved modeling problem with potential endogeneity concerns.",
+  "research_question": "The paper asks which customers are more likely to opt in, how firm marketing activities influence opt-in and opt-out timing, and whether opt-in and opt-out times are interdependent. It also asks how purchase behavior and willingness to remain in the e-mail program influence each other, and how firms can optimize contact strategy to extend subscription duration while increasing spending."
+}

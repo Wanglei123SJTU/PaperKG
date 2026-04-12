@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces an integrative framework that combines marketing-mix actions, customer mind-set metrics, and brand performance with dynamic feedback effects.",
+    "Shows with multi-brand FMCG evidence that mind-set metrics add substantial explanatory power to sales models beyond long- and short-term marketing-mix effects.",
+    "Applies VARX with generalized forecast error variance decomposition and generalized impulse response functions to quantify mind-set contribution, effect sizes, and wear-in timing, and presents this as a first use for this purpose."
+  ],
+  "context": "The empirical setting is French fast-moving consumer goods, using Kantar Worldpanel's Promethee system across breakfast cereals, bottled water, fruit juice, and shampoo brands. The analysis covers branded competition with both own-brand and competitor metrics observed every four weeks.",
+  "design_and_data": "The study uses synchronized four-week data from January 1999 to May 2006 for 74 brands (96 periods each), combining survey-based mind-set measures, household purchase/price panel data, store distribution/promotion panel data, and advertising spending data. Mind-set metrics are advertising awareness, consideration-set inclusion, and liking; marketing-mix variables are price, promotion, distribution, and advertising, with corresponding competitive variables. For each brand, the authors estimate a 15-equation VARX model with trend and seasonal controls, then use GFEVD and GIRF to assess variance explained, elasticities, and wear-in effects. GFEVD-based variance decomposition is reported for 62 brands with stationary sales series.",
+  "focal_constructs": [
+    "customer mind-set metrics",
+    "advertising awareness",
+    "brand consideration",
+    "brand liking",
+    "marketing-mix actions",
+    "brand sales performance",
+    "competitive mind-set effects",
+    "wear-in time"
+  ],
+  "main_findings": [
+    "In the full model, own and competitive mind-set metrics explain 16.3% of total sales variance (8.4% own and 7.9% competitive), which is about one-third of the explained sales variance, and model fit improves versus benchmark models with only marketing mix or only mind-set metrics.",
+    "Competitive and own mind-set metrics make similarly sized contributions to sales variation, implying that competitive mind-set tracking is important for explaining brand performance.",
+    "Mind-set effects on sales peak later (about 2.0-2.3 months) than most marketing-mix effects, supporting their role as leading indicators, and distribution shows the strongest overall impact on both sales and the mind-set metrics."
+  ],
+  "one_line_summary": "Using multi-brand French FMCG time-series data, the paper finds that adding advertising awareness, consideration, and liking to dynamic marketing-mix response models materially improves sales explanation and provides actionable early-warning signals.",
+  "relation_to_prior_work": "extends prior market response and brand-tracking research by jointly modeling what marketers do, what customers think and feel, and what customers do in one dynamic system that also includes competitive effects.",
+  "research_gap": "Quantitative market response models usually treat the customer mind as a black box and focus on direct marketing-to-sales links, while advertising/branding tracking typically focuses on attitudes without linking fully to sales or competition. The paper states that no extant approach comprehensively integrates marketing actions, mind-set metrics, and performance metrics simultaneously in one dynamic sales response model.",
+  "research_question": "Does including customer mind-set metrics add explanatory power to a sales response model that already includes own and competitive marketing-mix actions and their short- and long-term effects? If yes, how large are mind-set effects on sales, how strongly do marketing actions move mind-set metrics, and can mind-set metrics serve as advance warning signals based on their wear-in timing relative to marketing-mix effects?"
+}

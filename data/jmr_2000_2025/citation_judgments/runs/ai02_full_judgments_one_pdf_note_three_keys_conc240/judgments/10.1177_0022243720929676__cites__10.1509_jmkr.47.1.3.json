@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citation appears in the core model specification, not just in general background. The authors explicitly state that they rely on Petrin and Train's control function approach to address endogeneity, and they implement it by estimating first-stage equations and including residual control terms in the main performance equation. This procedure is used for the paper's central hypothesis tests, so the cited work has a clear methodological function.",
+  "relation_description": "The citing paper applies Petrin and Train (2010) as the endogeneity-correction method in its empirical analysis. It adopts the two-step control function setup to model endogenous channel design and governance variables before estimating financial performance effects.",
+  "relation_type": "applies"
+}

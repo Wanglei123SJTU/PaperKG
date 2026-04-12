@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper identifies gender identity as a key moderator of the local-global identity effect on price sensitivity, showing an identity incongruence pattern rather than a simple main effect.",
+    "It proposes and tests a mechanism in which identity incongruence depletes cognitive resources, increases affective processing, activates a sacrifice mindset, and lowers price sensitivity.",
+    "It provides pricing guidance by showing that firms can use local-global cues to reduce resistance to price increases among different gender-identity segments."
+  ],
+  "context": "The paper studies consumer responses to price increases in everyday consumption settings. Evidence includes a field setting in a Chinese chain restaurant with actual purchases and U.S. online experiments using product and service scenarios such as headphones, gym membership, and shoes.",
+  "design_and_data": "The authors run five studies with different designs and measures. Study 1 is a single-paper meta-analysis using four prior experiments from Gao, Zhang, and Mittal (2017) that include biological sex and local-global identity manipulations. Study 2 is a 92-day field study in one Chinese restaurant location (N = 3,287), with a local vs. global menu prime and a real price increase on 7 of 43 items, comparing baseline and post-increase purchase propensities. Studies 3-5 are U.S. MTurk experiments (N = 335, 608, and 563) that manipulate local-global identity and gender identity or measure gender identity, test sacrifice mindset mediation, and test boundary conditions via cognitive resource depletion and processing mode.",
+  "focal_constructs": [
+    "gender identity",
+    "local-global identity",
+    "identity congruence and incongruence",
+    "price sensitivity to price increases",
+    "sacrifice mindset",
+    "cognitive resource depletion",
+    "affective versus cognitive processing"
+  ],
+  "main_findings": [
+    "Across studies, identity incongruence (female-global or male-local) is associated with lower price sensitivity than identity congruence (female-local or male-global).",
+    "In the field study, the predicted local-global identity x gender x period interaction appears for 6 of 7 items with a real price increase and does not appear for the 36 items whose prices did not change.",
+    "Sacrifice mindset mediates the interaction effect on price sensitivity, and the effect is attenuated when consumers are already cognitively depleted or are induced into affective processing mode."
+  ],
+  "one_line_summary": "Across five studies, the paper shows that gender by local-global identity incongruence (female-global or male-local) reduces sensitivity to price increases through a stronger sacrifice mindset.",
+  "relation_to_prior_work": "extends Gao, Zhang, and Mittal (2017) by shifting from a main-effect account of local-global identity to a moderated and mediated account involving gender identity and sacrifice mindset. It also connects multiple-identity congruence theory to pricing behavior by showing when identity combinations change price sensitivity.",
+  "research_gap": "Prior work documented a main effect of local-global identity on price sensitivity but did not clearly address how multiple identities jointly shape this outcome. The moderating role of gender identity and the process linking identity (in)congruence to price sensitivity were not well established.",
+  "research_question": "How do gender identity and local-global identity jointly affect consumers' sensitivity to price increases? The paper asks whether identity incongruence between these identities lowers price sensitivity and whether this effect operates through cognitive resource depletion, affective processing, and a sacrifice mindset."
+}

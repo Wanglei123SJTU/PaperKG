@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper provides the first causal test in marketing of how serotonin levels affect buying rates and shows that lower serotonin increases purchase deferral.",
+    "It offers neurobiological evidence that the compromise effect relies on deliberate, cognitively demanding processing rather than primarily intuitive processing.",
+    "It demonstrates the value of pharmacological manipulation (ATD) as a complementary method for consumer neuroscience and for testing behavioral choice theories."
+  ],
+  "context": "The studies use realistic consumer product choices in laboratory sessions with male university students in Germany, spanning fast-moving consumer goods and more durable products. Decisions were incentive-compatible through real purchase consequences and random payoff implementation.",
+  "design_and_data": "In four placebo-controlled, double-blind experiments, participants consumed either a tryptophan-free amino acid drink (ATD) or a placebo drink including tryptophan, then completed product choice tasks after a 5-hour resting period. Study 1 (n=47) used a within-subject binary-to-trinary design with four categories and a no-buy option; Study 2 (n=98) tested the same effects in a between-subject design with two categories; Study 3 (n=51) tested purchase rates in trinary sets without a compromise option; Study 4 (n=49) replicated compromise tests in forced-choice formats (within and between). Choices were binding via a random-payoff mechanism, and mood and risk measures were collected to check potential confounds.",
+  "focal_constructs": [
+    "acute tryptophan depletion",
+    "serotonin deficiency",
+    "choice deferral",
+    "no-buy decisions",
+    "compromise effect",
+    "choice set composition",
+    "cognitive resource depletion"
+  ],
+  "main_findings": [
+    "ATD significantly increased no-buy rates versus placebo, indicating greater choice deferral, and this pattern replicated across free-choice studies and in choice sets without a compromise option.",
+    "A significant compromise effect appeared in placebo conditions, but serotonin depletion reduced or eliminated this effect in both within-subject and between-subject analyses.",
+    "The attenuation of the compromise effect under ATD also held in forced-choice settings, while mood and risk measures did not significantly differ between treatment and placebo groups."
+  ],
+  "one_line_summary": "Across four double-blind ATD experiments with incentivized product choices, lowering serotonin increased no-buy decisions and weakened or eliminated the compromise effect.",
+  "relation_to_prior_work": "extends consumer choice and context-effect research by causally linking serotonergic modulation to choice deferral and the compromise effect, and by supporting prior System II accounts of compromise choices under reduced cognitive resources.",
+  "research_gap": "Prior serotonin research documented cognitive effects but had not directly tested whether serotonin levels causally affect consumer choice behavior. The paper also addresses the lack of neurobiological evidence for the claim that the compromise effect depends on deliberate, cognitively demanding processing.",
+  "research_question": "Does experimentally reduced brain serotonin, induced via acute tryptophan depletion, change consumer purchase behavior by increasing choice deferral and altering the compromise effect? The authors also ask whether any change in the compromise effect appears in both within-subject and between-subject choice settings, and in free-choice and forced-choice tasks."
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides a profit-based theory of purchase limits during exogenous shortages, separating strategic motives from egalitarian or altruistic motives.",
+    "It introduces scarce-product-driven store traffic and associated nonfocal-item sales lift as a key mechanism in shortage management.",
+    "It derives strategy recommendations conditional on observable factors - store size, shortage severity, competition, and seasonality - and identifies conditions under which limits can also increase consumer surplus."
+  ],
+  "context": "The paper studies retail shortages caused by exogenous shocks such as pandemics, natural disasters, and fuel supply disruptions, with examples including meat, paper goods, sanitizers, and gasoline. The focal setting is multiproduct stores where scarce-product availability affects traffic and sales of other items.",
+  "design_and_data": "The study uses an analytical two-period noncooperative game in which two stores choose prices and whether to impose one-unit purchase limits during shortages. Consumers are modeled as loyal and switching segments with different willingness to pay, and stores earn from scarce-product sales plus traffic-linked spending on other items. The basic model analyzes no shortage, moderate shortage, and severe shortage under monopoly and duopoly with asymmetric store sizes. An extension adds dynamic period-by-period decisions, seasonality in nonfocal spending, and search-cost frictions, plus an illustrative numerical example motivated by Omicron-era food shortages.",
+  "focal_constructs": [
+    "purchase limits",
+    "exogenous shortages",
+    "price-and-limit strategy",
+    "store traffic lift",
+    "store size (average basket size)",
+    "shortage severity",
+    "competition intensity",
+    "consumer surplus"
+  ],
+  "main_findings": [
+    "Purchase limits can be profit-maximizing during shortages because they can preserve inventory for future periods and increase traffic-driven profits from other items.",
+    "In moderate shortages, large stores tend to use low prices with limits while small stores use high prices without limits; in severe shortages, small stores use high prices with limits, while large stores often avoid limits when low prices make stockouts unavoidable.",
+    "Purchase limits can increase both profits and consumer surplus in moderate shortages, and can do so in severe shortages when limits shift inventory to a later high-traffic period that supports lower future prices."
+  ],
+  "one_line_summary": "Using a two-period game-theoretic model of multiproduct retail shortages, the paper shows when purchase limits and prices jointly maximize profits and when limits can also improve consumer surplus.",
+  "relation_to_prior_work": "extends shortage-management research by formally analyzing purchase limits, a commonly used but less-studied tool than pricing, queues, and priority allocation. It also connects exogenous shortage strategy to promotion and loss-leader traffic mechanisms by modeling how scarce-product availability drives multiproduct-store traffic and profits.",
+  "research_gap": "Although purchase limits became common during shortages, prior literature paid less attention to them than to pricing, queueing, priority rationing, and lotteries. For profit-maximizing stores, it was unclear when limits are privately optimal given enforcement and administrative costs and unclear goodwill effects.",
+  "research_question": "The paper asks when profit-maximizing stores should impose purchase limits rather than rely only on price increases or first-come-first-served sales during exogenous shortages. It examines how store size, shortage severity, competition, and seasonality shape optimal price-and-limit strategies. It also asks whether and when purchase limits can improve consumer surplus as well as store profits."
+}

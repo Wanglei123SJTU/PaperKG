@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in the core model-construction section rather than as a passing background mention. The citing paper explicitly states that its recognition-memory component is a two-stage multivariate probit model and cites Edwards and Allenby (2003) as a basis for handling multiple correlated binary responses. This indicates methodological borrowing that materially informs the paper's empirical setup, even though the citing paper adds new components around attention and diagnostic-value estimation.",
+  "relation_description": "The citing paper applies Edwards and Allenby's multivariate multiple-response probit approach to model joint ad recognition outcomes (ad-noted, brand-associated, read-most) within its broader attention-memory framework. The cited work serves as a methodological template for the correlated binary response portion of the model.",
+  "relation_type": "applies"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Establishes, as the authors state, how affect regulation operates for specific emotions by jointly using emotion valence and approach/avoidance orientation.",
+    "Shows that merely considering an orientation-matched positive outcome can produce emotional benefit and free resources for later tasks, even when the outcome does not solve the original problem.",
+    "Demonstrates boundary conditions and scope by showing matching effects when people focus on affective feelings (not causes) and by generalizing across multiple negative emotions (sadness, anger, anxiety, embarrassment) and two positive emotions (happiness, calmness)."
+  ],
+  "context": "The paper is set in consumer judgment contexts where people in negative emotional states evaluate marketing stimuli, mainly ski-resort and cruise-vacation advertisements framed around happiness or calmness. Participants are undergraduate consumers in controlled lab-style studies.",
+  "design_and_data": "A pretest with 64 undergraduates induced six emotions (sadness, anger, anxiety, embarrassment, happiness, calmness) and measured whether each mapped to approach or avoidance orientation. Experiment 1 (n = 126 native English-speaking students) used a 2 (focus on feelings vs cause) x 2 (orientation match vs mismatch) x 2 (sad vs anxious replicate) design with ad evaluation, reported emotional benefit, and Remote Associates Test performance. Experiment 2 (n = 112) used four negative emotions (sad, angry, anxious, embarrassed) and happy vs calm cruise ads, measuring brand evaluation and mood change from before to after ad exposure. Experiment 3 (n = 48) induced a positive emotion first (happy or calm), then a negative emotion (sad or anxious), and measured overall mood, orientation-specific buffering, and overall task evaluation.",
+  "focal_constructs": [
+    "orientation matching",
+    "affect regulation",
+    "approach orientation",
+    "avoidance orientation",
+    "emotion valence",
+    "affective focus versus cause focus",
+    "emotional benefit",
+    "buffering of negative emotion"
+  ],
+  "main_findings": [
+    "When participants focused on feelings, orientation-matched positive outcomes produced greater emotional benefit and higher evaluations than mismatched outcomes; this pattern did not appear when participants focused on causes.",
+    "Orientation matching improved downstream performance on the Remote Associates Test and increased pre-to-post mood improvement, with effects replicating across sadness and anger (approach) and anxiety and embarrassment (avoidance).",
+    "Experiencing a positive emotion before a negative one buffered subsequent negative affect when orientations matched (happy before sad, calm before anxious), and orientation-specific regulation measures mediated overall evaluation."
+  ],
+  "one_line_summary": "The paper finds that negative emotions are regulated more effectively by positive outcomes with matching approach/avoidance orientation, particularly when people attend to their feelings rather than the causes of those feelings.",
+  "relation_to_prior_work": "extends prior motivational-implications and mood-as-information accounts by integrating orientation and valence to explain emotion-specific affect regulation. It argues against a pure valence view (any positive outcome helps equally) and provides evidence inconsistent with an arousal-balancing account for the observed effects.",
+  "research_gap": "Prior work treated emotions mainly through either orientation-based motivational implications or valence-based mood-as-information, leaving unclear how these two properties jointly determine regulation of specific negative emotions. The authors explicitly note that no prior research had proposed or tested their orientation-matching form of affect regulation.",
+  "research_question": "Do positive outcomes regulate negative emotions more effectively when the positive emotion matches the negative emotion's approach/avoidance orientation? Does this depend on whether consumers focus on their general feelings versus the cause of the emotion, and does matching produce downstream effects such as improved task performance and buffering against later negative emotion?"
+}

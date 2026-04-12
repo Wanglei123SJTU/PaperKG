@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper addresses calls in prior work by examining CMO gender as a salient executive characteristic and linking it to proximal marketing outcomes rather than only firm performance.",
+    "It claims to provide first empirical evidence that fear of failure and workplace scrutiny help explain lower risk taking among female executives.",
+    "It identifies structural, organizational, and environmental contingencies (CEO gender, relative firm performance, and demand uncertainty) that shape female CMOs' risk-taking decisions."
+  ],
+  "context": "Study 1 is set in U.S. public firms with marketing executives in the top management team from 2009 to 2019. Studies 2 and 3 use a MarkStrat simulation and surveys in an MBA setting in a developing-nation context.",
+  "design_and_data": "Study 1 merges BoardEx, Compustat, and RavenPack to form a panel (1,840 firms; 13,277 firm-years initially), with 7,482 firm-years used for advertising intensity and REM analyses and 2,040 firm-years for NPI analyses. The authors use industry and year fixed effects and endogeneity corrections, including an instrument based on the proportion of female CMOs in second-degree peer firms, with control-function, bivariate probit, and IV Poisson estimators. Study 2 runs a six-round MarkStrat simulation with 930 MBA participants in 185 teams (169 teams with complete CMO risk-appetite responses), and tests mediation through risk appetite. Study 3 surveys 730 participants on risk appetite/risk aversion, confidence, fear of failure, and fear of scrutiny, and applies bootstrapped mediation tests.",
+  "focal_constructs": [
+    "CMO gender",
+    "marketing risk taking",
+    "new product introductions",
+    "radical innovation",
+    "incremental innovation",
+    "real earnings management",
+    "failure avoidance orientation",
+    "workplace scrutiny"
+  ],
+  "main_findings": [
+    "In archival analyses, female CMOs are associated with lower advertising-related real earnings management and fewer new product introductions, while baseline advertising intensity does not differ significantly by CMO gender.",
+    "Female CMOs' lower risk taking attenuates under female CEOs and higher relative firm performance (more NPIs), and is stronger under higher demand uncertainty (lower REM and marginally fewer NPIs).",
+    "Simulation and survey evidence shows lower female risk appetite; risk appetite mediates a negative indirect effect of female CMO gender on radical introductions and a positive indirect effect on incremental introductions, while fear of failure and fear of scrutiny (not confidence self-ratings) mediate gender differences in risk appetite."
+  ],
+  "one_line_summary": "Using archival, simulation, and survey evidence, the paper finds that female CMOs are generally less risk taking than male CMOs, and shows when this gap narrows or widens and which mechanisms help explain it.",
+  "relation_to_prior_work": "extends CMO research focused on CMO presence and firm performance by examining how CMO gender relates to specific marketing decisions such as NPIs and REM. It extends executive gender research by testing fear of failure and workplace scrutiny alongside overconfidence and by empirically modeling risk taking as a mediator.",
+  "research_gap": "Prior CMO studies have mainly examined whether having a CMO affects firm performance, with limited evidence on how CMO characteristics like gender affect specific marketing decisions. The executive gender literature has also offered limited empirical evidence on risk taking as the mediating mechanism and on fear of failure and scrutiny as drivers of lower female executive risk taking.",
+  "research_question": "The paper asks whether female and male CMOs differ in marketing decisions. It also asks under what conditions female CMOs take more or less risky decisions, and what mechanisms explain differences in their risk-taking behavior."
+}

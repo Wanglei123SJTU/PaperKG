@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is not a generic background source: it develops synthetic-control causal methods and applies them to a soda-tax setting (Washington) with pass-through and sales estimates, which is closely aligned with the citing paper’s policy-evaluation context. The citing paper explicitly reports robustness using synthetic-DID and positions itself against prior soda-tax evidence, making this citation plausibly methodological and/or empirical benchmark use rather than an incidental mention. Given this overlap, it should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

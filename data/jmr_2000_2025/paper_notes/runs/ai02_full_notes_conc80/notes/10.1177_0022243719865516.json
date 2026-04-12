@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes that deliberately increasing online search frictions to discounted items can raise retailer margins and can also increase conversion under moderate search costs.",
+    "It develops a simple search model showing how forcing consumers to inspect higher-priced items first can increase average selling price and, in some parameter regions, purchase probability.",
+    "Using field experiments and customer-history-based heterogeneity analysis, it argues that added frictions act as a self-selecting price discrimination mechanism that sorts price-sensitive and price-insensitive shoppers."
+  ],
+  "context": "The empirical setting is a dominant online fashion and apparel retailer in the Philippines, with product listings split across main, sale, and outlet catalogs. The firm reports about 40% share of online fashion retail in its market, with no similarly large online competitor offering equivalent discounts.",
+  "design_and_data": "The paper combines a simple theoretical search framework with two randomized field experiments on the retailer website. Field Experiment I randomly assigned 104,605 new desktop/tablet visitors over nine days to control or three friction treatments (removing outlet link, discount sorting, and discount markers in different combinations), holding prices and assortment constant. Field Experiment II randomly assigned 348,110 new and returning visitors over two weeks to control or four treatments (removing outlet/sale links, discount markers, discount sorting, or discount banners). To study heterogeneity, the authors used historical transaction records (about 2.6 million items, about 1.1 million transactions, 418,039 customers) to proxy price sensitivity via Tobit modeling and validated this classification with a randomized email newsletter experiment on 246,688 subscribers.",
+  "focal_constructs": [
+    "online search frictions",
+    "search order",
+    "price sensitivity",
+    "conversion",
+    "average discount of purchased items",
+    "average selling price",
+    "website navigation design",
+    "self-selecting price discrimination"
+  ],
+  "main_findings": [
+    "Across both field experiments, adding search frictions reduced the average discount of purchased items and increased the share of full-priced purchases.",
+    "Conversion did not fall and was higher in several treatments, including all four treatments in the second experiment relative to control.",
+    "The margin-related gains were concentrated among price-insensitive shoppers, while more price-sensitive shoppers were more willing to incur added search effort to find discounts."
+  ],
+  "one_line_summary": "In randomized field experiments with a dominant online apparel retailer, small navigation frictions that make discounts harder to find shifted purchases toward higher-priced items and often increased conversion, consistent with self-selection by price sensitivity.",
+  "relation_to_prior_work": "challenges the prevailing online-retail presumption that minimizing search frictions is always optimal, and shows that in a dominant-seller setting, intentionally added navigation frictions can be profitable. It also connects search-cost and search-order literatures to second-degree price discrimination by varying navigation while holding prices and assortment fixed.",
+  "research_gap": "Prior work mainly examined falling online search costs or obfuscation via pricing and product design, while equivalent manipulations of search frictions in online navigation were less directly tested. The paper addresses this by experimentally varying website navigation frictions to discounted items, with prices and assortment held constant.",
+  "research_question": "Can a dominant online retailer improve performance by deliberately increasing the search frictions required to locate discounted items? Specifically, does forcing consumers to inspect higher-priced items first increase average selling price and possibly conversion, and are effects driven by self-selection between price-sensitive and price-insensitive shoppers?"
+}

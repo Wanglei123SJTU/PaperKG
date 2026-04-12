@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces the concept of shopping momentum: an initial purchase can increase purchase of a subsequent unrelated item.",
+    "Proposes and tests a mind-set mechanism in which an initial purchase shifts consumers from a deliberative to an implemental orientation, which then increases subsequent buying.",
+    "Identifies boundary conditions that can interrupt momentum, especially separating payment sources for the first and second purchases, and discusses managerial implications for retail promotion design."
+  ],
+  "context": "The paper studies sequential purchase decisions in controlled shopping tasks, mostly with university students in South Asia and one U.S. East Coast campus sample. Participants made real or incentive-compatible low-price purchase choices (e.g., CD, pen, floppy disk, key chain) using participation payments.",
+  "design_and_data": "The evidence comes from five experiments. Study 1 (N = 180) manipulates driver-item purchase likelihood (educational CD vs light bulb vs control) and measures target key-chain purchase; Study 2 (N = 120) compares a driver offered for purchase versus as a free gift versus control. Study 3 (N = 66) tests whether an initial purchase changes cognitive orientation using recall of implemental versus deliberative thoughts; Study 4 (N = 108 before exclusions) primes deliberative versus implemental mind-sets and measures purchase likelihood. Study 5 (N = 80) tests a boundary condition by comparing single versus separate payment sources for sequential purchases.",
+  "focal_constructs": [
+    "shopping momentum",
+    "driver item purchase",
+    "target item purchase likelihood",
+    "deliberative mind-set",
+    "implemental mind-set",
+    "positive affect from free gifts",
+    "payment source separation"
+  ],
+  "main_findings": [
+    "An initial purchase opportunity with a high-incidence driver increased purchase of an unrelated target item versus both a low-incidence driver and control (e.g., Study 1 key-chain purchase 65.0% after CD vs 37.0% after light bulb and 46.6% control).",
+    "Positive affect is not sufficient to explain the effect: giving the driver as a free gift raised affect more than offering it for purchase, but did not raise target purchase versus control, whereas a purchasable driver did (Study 2).",
+    "Mechanism and boundary evidence support the mind-set account: an initial purchase increased implemental-thought recall (Study 3), experimentally induced implemental mind-set increased purchase likelihood (Study 4), and separating payment sources reduced momentum (Study 5, 42.5% vs 70.0%)."
+  ],
+  "one_line_summary": "Across five experiments, the paper shows that making an initial purchase increases subsequent unrelated purchase by shifting consumers into an implemental mind-set, and that this momentum can be disrupted by payment-source separation.",
+  "relation_to_prior_work": "extends goal-related mind-set theory (Gollwitzer) to sequential consumer purchases, while distinguishing shopping momentum from foot-in-the-door and inaction inertia accounts and arguing against a purely affect-based explanation.",
+  "research_gap": "Retail practice implies that getting consumers to buy once may trigger additional buying, but prior explanations of multiple-item purchase (e.g., cost consolidation or complementarity) do not establish a causal carryover to unrelated items. The paper addresses the unresolved mechanism by testing whether a first purchase itself shifts mind-set and increases subsequent purchase propensity.",
+  "research_question": "Does purchasing an initial, unrelated driver item causally increase the likelihood of buying a subsequent target item? If so, is the effect driven by a shift from a deliberative to an implemental mind-set, and under what conditions is this momentum interrupted?"
+}

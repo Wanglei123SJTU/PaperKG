@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper is presented as the first study to jointly examine advertising and receivables investments in relation to both abnormal stock returns and idiosyncratic risk.",
+    "It proposes and empirically supports receivables management as a value-appropriation activity linked to relationship equity, alongside advertising as a brand-equity lever.",
+    "It identifies firm business scope as a contingency that changes the strength of the joint advertising-receivables association with shareholder value."
+  ],
+  "context": "The empirical setting is publicly traded U.S. firms listed on AMEX, NYSE, and NASDAQ across 266 four-digit SIC industries from 2003 to 2015. The study focuses on value appropriation through regional advertising and accounts receivable management.",
+  "design_and_data": "The main study uses an unbalanced panel assembled from Compustat (financials), Kantar Ad$pender (advertising), CRSP (monthly returns), and Kenneth French factor data. The final samples are 8,691 firm-year observations for idiosyncratic risk and 7,671 firm-year observations for abnormal returns, covering 1,375 firms. Abnormal returns and idiosyncratic risk are derived from rolling-window Carhart four-factor models; abnormal-return models use unanticipated changes (from AR(1)-based residuals), while risk models use levels, estimated with random-effects panel models, robust standard errors, year dummies, and AR(1) errors for risk. Two pilot studies support construct validity: a textual analysis of 108,365 Form 10-K filings and a B2B survey of 3,002 managers linked to supplier sales data.",
+  "focal_constructs": [
+    "value appropriation",
+    "advertising investments",
+    "accounts receivable investments",
+    "abnormal stock returns",
+    "idiosyncratic risk",
+    "firm business scope",
+    "brand equity",
+    "relationship equity"
+  ],
+  "main_findings": [
+    "Unanticipated increases in advertising and receivables interact negatively for abnormal stock returns, so increases in one weaken the positive association of the other with returns.",
+    "Advertising and receivables interact positively for idiosyncratic risk, so increases in one weaken the risk-reducing association of the other.",
+    "The substitutive joint effect of advertising and receivables is weaker for firms with broader business scope than for firms with narrower scope in both the return and risk analyses."
+  ],
+  "one_line_summary": "Using U.S. firm panel data from 2003-2015, the paper finds that advertising and receivables investments are associated with shareholder value as substitutes rather than complements, and this substitution is weaker when business scope is broader.",
+  "relation_to_prior_work": "extends prior marketing-finance work that mostly studied advertising and receivables separately by jointly modeling both activities against return and risk outcomes. It also introduces receivables management more explicitly as a relationship-equity based value-appropriation lever and tests firm scope as a boundary condition.",
+  "research_gap": "Prior research had largely examined advertising and receivables in isolation and had not jointly tested their associations with both abnormal returns and idiosyncratic risk as shareholder value outcomes. The paper also highlights limited evidence on whether multiple value-appropriation investments behave as complements or substitutes and when this depends on firm scope.",
+  "research_question": "How are investments in advertising and accounts receivables jointly associated with firm shareholder value, measured as abnormal stock returns and idiosyncratic risk? Do these two value-appropriation investments function as complements or substitutes, and does firm business scope moderate that joint association?"
+}

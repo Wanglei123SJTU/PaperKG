@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper derives how expected customer value E(y/time) depends on Var(log y - log t) and argues that assuming independence between timing and quantity can bias value estimates upward when customers show compensating behavior.",
+    "It proposes a conditional normal hierarchical Bayes reparameterization of the bivariate log-normal timing-quantity model that allows flexible customer-level covariance heterogeneity without relying on a single-degree-of-freedom inverse-Wishart prior.",
+    "It shows, through simulations and two direct-marketing applications, that the proposed dependent-heterogeneous specification improves prediction and customer selection profitability."
+  ],
+  "context": "The study is set in direct marketing and customer relationship management, where firms score customers using purchase timing and order amounts. Empirical tests use a U.S. B2B office-supply dataset and a Taiwan B2C health-and-beauty dataset.",
+  "design_and_data": "The authors model log interpurchase time and log purchase amount jointly, building the bivariate normal from a marginal model for time and a conditional model for amount, with customer heterogeneity handled in a hierarchical Bayes framework. They compare four nested variants (dependent/independent x heterogeneous/homogeneous covariance), a standard bivariate normal HB model with inverse-Wishart covariance heterogeneity, and an OLS benchmark. A simulation study evaluates parameter recovery under equal versus unequal covariance-matrix diagonal elements and varying purchase frequencies. Empirical data include 1,935 U.S. B2B firms and 1,344 Taiwan B2C customers (each with at least five purchases over three years), split into 1.5-year calibration and 1.5-year holdout periods, estimated via MCMC and assessed with RMSE/MAD, decile scoring, and top-20% targeting outcomes.",
+  "focal_constructs": [
+    "interpurchase time",
+    "purchase monetary amount",
+    "customer value (revenue per unit time)",
+    "temporal dependence of timing and quantity",
+    "covariance heterogeneity",
+    "conditional normal hierarchical Bayes model",
+    "customer scoring"
+  ],
+  "main_findings": [
+    "In simulations, the conditional normal HB model recovers individual covariance-related parameters more accurately and fits better than the standard inverse-Wishart bivariate HB model, especially with small per-customer samples and unequal variances.",
+    "In both empirical datasets, allowing dependence and covariance heterogeneity improves predictive accuracy for timing, amount, and value versus independent/homogeneous alternatives and versus the standard bivariate HB model.",
+    "Models that assume independence overvalue customers and worsen targeting; the proposed model yields higher realized purchase amounts in top-customer selection and the paper reports large implied annual profit differences (for example, about US$14.4 million in the B2B scale-up comparison)."
+  ],
+  "one_line_summary": "The paper shows that explicitly modeling customer-level temporal dependence between interpurchase time and purchase amount with a conditional normal HB model improves value prediction and targeting performance in direct marketing.",
+  "relation_to_prior_work": "extends prior direct-marketing and CLV/customer-scoring models that typically assume purchase timing and quantity are independent, and it generalizes earlier HB covariance treatments by replacing restrictive inverse-Wishart covariance heterogeneity with a more flexible marginal-conditional specification.",
+  "research_gap": "Prior customer value models in direct marketing commonly treat purchase timing and quantity as temporally independent, despite possible within-customer covariation that affects revenue-stream variability. Existing HB bivariate normal approaches also rely on an inverse-Wishart heterogeneity prior that is restrictive in shallow per-customer data, limiting covariance modeling flexibility.",
+  "research_question": "How should direct-marketing models jointly represent purchase timing and purchase amount when these behaviors may be temporally dependent within customers? Does modeling this dependence and heterogeneous covariance improve customer value estimation, prediction, and customer targeting relative to independent models and standard inverse-Wishart HB bivariate models?"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides large-scale nonlaboratory evidence that high-energy TV ad content is associated with higher ad-tuning rates.",
+    "Adds energy in ad content as a new dimension to the television ad-avoidance literature.",
+    "Introduces a scalable algorithm-based approach, adapted from Spotify/Echo Nest audio information retrieval methods, to measure ad energy from ad videos."
+  ],
+  "context": "The study examines U.S. national broadcast TV advertising on ABC, CBS, FOX, NBC, and The CW from September 2015 to August 2018. It uses in-home smart-TV automatic content recognition data from iSpot.tv, with supplementary Spotify, Free Music Archive, MTurk, and Super Bowl ad data for measurement and validation analyses.",
+  "design_and_data": "The main data include over 27,000 ad creatives and more than 1 million insertions (about 3,200 brands across 15 product categories), with ad-tuning rates measured as the share of TVs remaining tuned through 25%, 50%, or 75% of ad duration. Ad energy is estimated by reverse-engineering Spotify's energy metric: machine-learning models are trained on Free Music Archive tracks with Librosa features, then applied to extracted ad audio. An MTurk study (2,342 participants, 138 ads; audio-only, video-only, and audio+video conditions) validates how the algorithmic measure relates to perceived arousal and valence. The energy-tuning association is estimated using a two-stage between-estimator with rich insertion fixed effects and a within-estimator that exploits time-varying preferred audio-energy baselines from Spotify listening sessions.",
+  "focal_constructs": [
+    "energy in ad content",
+    "ad-tuning rate",
+    "ad avoidance",
+    "arousal",
+    "valence",
+    "program genre",
+    "product category"
+  ],
+  "main_findings": [
+    "On average, more energetic commercials are more likely to be tuned in for longer (or less likely to be avoided), and this positive association is significant at the 75% tuning cutoff after controlling for insertion and creative factors.",
+    "A second empirical procedure based on within-ad variation relative to time-varying baseline energy preferences also supports a positive energy-tuning association.",
+    "The energy-tuning relationship is heterogeneous across product categories and program genres, with differences in both magnitude and direction across category-genre combinations."
+  ],
+  "one_line_summary": "Using over 1 million U.S. TV ad insertions, the paper develops and validates an algorithmic ad-energy measure and finds that higher-energy commercials are generally associated with higher ad-tuning rates, with substantial heterogeneity by context.",
+  "relation_to_prior_work": "extends prior lab-based findings on arousal and ad viewing by testing the energy-ad tuning relationship in large-scale in-home TV data and by documenting contextual heterogeneity across categories and genres. It also introduces methods from audio information retrieval into marketing measurement of unstructured ad content.",
+  "research_gap": "Prior evidence on energetic advertising is largely lab-based and mixed, and few studies connect specific ad-content attributes to ad avoidance using large-scale nonlaboratory data. The paper also identifies a scalability gap in measuring ad energy consistently across tens of thousands of commercials.",
+  "research_question": "Is higher energy in TV ad content associated with lower ad avoidance (higher ad-tuning rates) in real-world in-home viewing? How can ad energy be measured at scale in a way that aligns with human-perceived affect, and does the energy-tuning association vary across product categories and program genres?"
+}

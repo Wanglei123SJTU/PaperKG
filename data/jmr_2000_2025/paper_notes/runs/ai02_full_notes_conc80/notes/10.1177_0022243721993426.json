@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "The paper is the first to examine how consumption rituals affect feelings of loneliness and when this effect occurs.",
+    "It identifies meaning in life as an underlying process, with evidence that rituals can work through perceived product meaningfulness to reduce loneliness.",
+    "It shows that even minimal, unfamiliar, and seemingly insignificant ritualized consumption behaviors can improve consumer welfare and influence downstream purchase intentions."
+  ],
+  "context": "The research studies everyday consumption rituals around common food and drink products such as Oreo cookies, milk tea, lemon tea, and cake. Data come from online consumer panels (MTurk and Prolific) and a laboratory study with Chinese undergraduates.",
+  "design_and_data": "Study 1 is a correlational MTurk survey (N=254) measuring chronic loneliness, frequency of engaging in self-described consumption rituals, and meaning in life, plus a follow-up MTurk evaluation study (N=469) of whether those behaviors were perceived as ritualistic and which ritual characteristics they contained. Studies 2-4 are 2x2 between-subject experiments manipulating affect (lonely vs control or calm) and ritual framing/presence around consumption tasks, with loneliness as the primary dependent variable and meaning-related measures as process evidence. Study 3 is an in-lab experiment in China (final N=121) with actual milk-tea preparation; Studies 2 and 4 are online simulation studies (final N=497 and N=593). Study 5 is an MTurk 2x2x2 experiment (N=417) crossing affect prime, ritual frame, and an incidental meaningfulness prime, measuring loneliness and purchase intention.",
+  "focal_constructs": [
+    "loneliness",
+    "ritualistic consumption",
+    "meaning in life",
+    "perceived product meaningfulness",
+    "involuntary vs voluntary aloneness",
+    "purchase intentions"
+  ],
+  "main_findings": [
+    "Engaging in ritualistic consumption reduced loneliness among participants primed to feel lonely, while effects were not evident or were weaker in control or calm conditions.",
+    "Meaning in life mediated the effect of ritualistic behavior on loneliness, and Study 4 supported a serial process from ritual framing to perceived product meaningfulness to meaning in life to lower loneliness.",
+    "When meaningfulness was incidentally induced, ritual framing no longer affected loneliness, and ritual framing increased purchase intention mainly for loneliness-primed participants when incidental meaningfulness was absent."
+  ],
+  "one_line_summary": "Across correlational and experimental studies, the paper shows that minimal consumption rituals can reduce loneliness among lonely consumers by increasing meaning in life, partly through greater perceived product meaningfulness.",
+  "relation_to_prior_work": "extends prior ritual research in consumer psychology that has mainly emphasized anxiety reduction, enjoyment, involvement, and self-control by showing effects on loneliness and purchase intentions. It introduces meaning in life, via perceived product meaningfulness, as a mechanism linking ritualistic behavior to emotional well-being. It refines boundary conditions by showing that ritual effects on loneliness attenuate when meaningfulness is available from an incidental source.",
+  "research_gap": "Loneliness is widespread and harmful, yet marketing research has paid limited attention to it and to practical consumption-based ways to reduce it. Prior work on rituals has provided limited evidence on whether ritualistic behavior improves emotional well-being through increased meaningfulness, beyond findings centered on anxiety and performance.",
+  "research_question": "Can engaging in consumption rituals reduce feelings of loneliness, especially for people experiencing involuntary aloneness? The paper tests whether rituals increase meaning in life, including through perceived product meaningfulness, and whether this process explains reduced loneliness. It also examines whether the effect disappears when meaningfulness is supplied incidentally and whether ritual framing changes purchase intentions."
+}

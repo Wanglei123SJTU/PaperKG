@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper explicitly models marketing contact frequency and customer behavior/CLV under budget-constrained targeting, while the cited paper examines how customer-initiated contacts affect downstream behaviors (SCR and WoM), so there is a plausible contact→behavior mechanism overlap. However, the provided evidence includes only a single DOI-level match with no in-text citation context or explicit statement that this 2001 CIC framework is used in the Bayesian CLV model. Given this sparse evidence, it is not safe to drop as obvious mention-only, but importance is not clearly established.",
+  "triage_decision": "uncertain"
+}

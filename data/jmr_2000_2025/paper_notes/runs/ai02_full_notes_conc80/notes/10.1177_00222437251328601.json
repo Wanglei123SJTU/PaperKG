@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces a geocompetition-based measure, relative proximity, and shows that it is a key moderator of retail advertising effectiveness.",
+    "It combines large-scale mobile location data and TV ad viewership data to identify granular spatial heterogeneity in advertising effects using traditional TV institutional features.",
+    "It documents distinct spatial response patterns for price-promotional versus nonpromotional ads and uses these patterns to inform location-targeting strategy design."
+  ],
+  "context": "The empirical setting is U.S. home improvement retail in 2017, focusing on the duopoly of Home Depot and Lowe's. The study examines how traditional TV advertising affects store visits across highly granular customer home locations.",
+  "design_and_data": "The authors compile mobile location records for 6.4 million anonymous users and measure visits to Home Depot and Lowe's stores, with home locations at the Census block group level and distances computed using driving distance. They merge these data with Nielsen Ad Intel TV viewership data (GRPs/impressions) by retailer-DMA-week, including ad content categories (price-promotional vs nonpromotional). The analysis uses a retailer-block group-week panel (about 21.2 million observations) and linear-log regressions with own and rival ads, block group-retailer-quarter fixed effects, retailer-month fixed effects, and retailer-holiday fixed effects. Spatial heterogeneity is estimated across proximity segments, distance quartiles/deciles, and ad-type-specific specifications.",
+  "focal_constructs": [
+    "spatial heterogeneity in advertising effectiveness",
+    "relative proximity",
+    "absolute proximity",
+    "customer-to-store distance",
+    "geocompetitive structure",
+    "price-promotional advertising",
+    "nonpromotional advertising",
+    "rival advertising effects"
+  ],
+  "main_findings": [
+    "Relative proximity to the focal store versus the rival store significantly moderates ad effectiveness, and in this setting it is a stronger moderator than absolute proximity.",
+    "Advertising effectiveness follows an inverted U-shaped pattern in own distance to store, with the highest response at moderate distances rather than among the nearest customers.",
+    "Price-promotional ads are more effective than nonpromotional ads, are strongest for closer segments, and steal rival traffic, while nonpromotional ads are strongest for relatively closer customers at moderate distance and rival nonpromotional ads show positive spillover."
+  ],
+  "one_line_summary": "Using merged TV ad and mobile location data for 6.4 million U.S. users, the paper shows that home improvement retail ad effectiveness depends strongly on relative proximity, is inverted U-shaped in own distance, and differs sharply between promotional and nonpromotional ad content.",
+  "relation_to_prior_work": "extends prior research on spatial heterogeneity in advertising by moving beyond simple near-versus-far targeting to show strong moderation by relative proximity and an inverted U-shaped distance pattern in a retail duopoly. It challenges the conventional radius-based targeting emphasis and contrasts with findings that effectiveness rises mainly with store proximity. It also links to horizontal differentiation work by emphasizing the empirical role of relative firm position in advertising-effect heterogeneity.",
+  "research_gap": "Despite widespread use of location-based advertising, firms and platforms commonly use radius-based proximity rules that treat nearby consumers as uniformly more responsive. The paper argues this misses key moderators: geocompetitive structure, possible nonmonotonic effects of distance due to customer information, and heterogeneity by ad type.",
+  "research_question": "How does retail advertising effectiveness vary across fine-grained customer locations in a physical retail market? Specifically, does effectiveness depend on relative proximity to a focal store versus its rival, absolute customer-to-store distance, and ad content type (price-promotional vs nonpromotional), including effects on rival traffic?"
+}

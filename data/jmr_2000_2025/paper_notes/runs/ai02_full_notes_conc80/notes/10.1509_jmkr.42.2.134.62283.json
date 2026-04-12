@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides a critical commentary on Novemsky and Kahneman's probabilistic buying and selling evidence and cautions against immediate generalization to standard certain transactions.",
+    "Expands the boundary discussion of loss aversion by proposing emotional attachment as a key moderator of reluctance to give up goods.",
+    "Expands the boundary discussion by proposing cognitive perspective shifts between buyer and seller roles as a key moderator of valuation gaps."
+  ],
+  "context": "The paper addresses consumer valuation and exchange settings in which people buy, sell, or forgo goods under different reference points. It discusses lab-style endowment-effect tasks and related contexts such as online auctions and ticket markets.",
+  "design_and_data": "This article is a conceptual comment on Novemsky and Kahneman (2005), not a new empirical study. It reviews NK's reported experiments, including probabilistic buying and selling conditions, and evaluates methodological issues such as task novelty and the BDM elicitation procedure. It also synthesizes prior empirical studies on ownership duration, option attachment, auction bidding, and buyer-seller framing to motivate additional moderators. No new primary data collection or original statistical tests are reported.",
+  "focal_constructs": [
+    "loss aversion",
+    "reference dependence",
+    "endowment effect",
+    "emotional attachment",
+    "cognitive perspective change",
+    "probabilistic buying and selling",
+    "money as a medium of exchange",
+    "hedonic versus utilitarian goods"
+  ],
+  "main_findings": [
+    "The authors report NK's core pattern that endowment effects are replicated for goods, whereas loss aversion is not observed for money in comparable valuation tasks.",
+    "They conclude that probabilistic commerce findings should be interpreted cautiously because transaction novelty and BDM-based procedural risk may affect responses and limit generalization.",
+    "They argue that emotional attachment and cognitive perspective shifts are important moderators that can increase, reduce, or even reverse observed endowment effects across contexts."
+  ],
+  "one_line_summary": "This commentary argues that when losses loom larger than gains depends importantly on emotional attachment and cognitive perspective, while warning that probabilistic BDM-based evidence may not cleanly generalize to ordinary buying and selling.",
+  "relation_to_prior_work": "extends Novemsky and Kahneman's boundary account of loss aversion by adding emotional attachment and cognitive perspective change as additional mechanisms. It also cautions that probabilistic trading evidence may include method-specific effects that require further validation before broad theoretical generalization.",
+  "research_gap": "Despite extensive endowment-effect research, the psychological mechanisms behind when loss aversion strengthens or weakens remain underdeveloped. The paper also notes that NK's probabilistic transaction paradigm is novel and may not yet establish how results map to nonprobabilistic commerce.",
+  "research_question": "Under what conditions do losses loom larger than gains in consumer valuation and exchange? Specifically, beyond NK's boundaries, can emotional attachment and shifts in cognitive perspective explain variation in endowment effects and the apparent absence of loss aversion for money used for transactions?"
+}

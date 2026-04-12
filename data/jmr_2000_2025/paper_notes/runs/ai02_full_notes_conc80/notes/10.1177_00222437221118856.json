@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides meta-analytic and original experimental evidence that the positive effects of time scarcity promotions established in offline retail are not similarly robust in online retail.",
+    "Shows that online time scarcity promotions can activate persuasion knowledge relative to identical control promotions, and that retailer-exogenous justifications for the time limit reduce this activation.",
+    "Offers actionable guidance for online promotion design by showing that exogenous justification and shorter time to expiry can improve the chances of positive engagement effects, while cautioning that superiority over control promotions is not consistent."
+  ],
+  "context": "The paper studies time-limited discount promotions in online retail, including simulated online shopping, mobile/email offers, Facebook ads, and an email campaign, with comparison to offline retail simulations. Outcomes include willingness to pay, purchase intentions, ad and page engagement, email opens, and unsubscribes.",
+  "design_and_data": "The authors run a meta-analysis of time scarcity versus control promotion effects across offline and online contexts (38 effect sizes from 16 studies in 6 papers) using a multilevel multivariate meta-regression. They also conduct a 2 x 2 experiment with 530 Prolific participants comparing simulated offline versus online Barnes & Noble shopping and willingness to pay. Study 1 (N=497 MTurk) and Study 2a (N=125 MTurk) manipulate online time scarcity and exogenous justification and measure persuasion knowledge and purchase interest. Two field studies test consequential behavior: Study 2b uses 18,157 Facebook impressions in a 3-day campaign with varying time remaining to expiry, and Study 3 uses 9,378 email subscribers in a holiday campaign comparing time scarcity, quantity scarcity, and control promotions.",
+  "focal_constructs": [
+    "time scarcity promotions",
+    "online retail channel",
+    "persuasion knowledge activation",
+    "retailer-exogenous justification",
+    "time remaining until promotion expiry",
+    "consumer interest",
+    "purchase intentions"
+  ],
+  "main_findings": [
+    "Meta-analytic and experimental results showed that time scarcity promotions increased purchase interest offline but did not produce a significant main effect online versus equivalent control promotions.",
+    "In online settings, unjustified time scarcity promotions activated more persuasion knowledge than control promotions, and persuasion knowledge mediated a negative indirect effect on purchase intentions; exogenous justification reduced this activation.",
+    "Field evidence indicated that time scarcity with exogenous justification improved some early-funnel behaviors mainly when expiry was very near, while effects were weak or null with more time remaining and did not generalize to a quantity scarcity promotion."
+  ],
+  "one_line_summary": "Across meta-analytic, experimental, and field evidence, the paper finds that online time scarcity promotions are often ineffective unless their time limits are exogenously justified and close to expiration, partly because unjustified time limits trigger persuasion knowledge.",
+  "relation_to_prior_work": "extends prior scarcity and persuasion knowledge research by showing that effects documented for offline time scarcity promotions do not reliably transfer to online retail and by identifying exogenous time justification plus short time-to-expiry as conditional levers for improving online outcomes.",
+  "research_gap": "Prior work offers strong support for time scarcity promotions in offline settings, but there is limited direct evidence that the same tactic works online when compared with identical non-time-scarcity control promotions. The paper addresses the unresolved question of whether offline efficacy translates online and how online time scarcity promotions can be designed to work better.",
+  "research_question": "Do time scarcity promotions that increase consumer interest offline also produce comparable effects in online retail relative to identical control promotions without time limits? If online effects are weaker, is persuasion knowledge activation a mechanism, and can retailer-exogenous justification and shorter time to expiry improve outcomes?"
+}

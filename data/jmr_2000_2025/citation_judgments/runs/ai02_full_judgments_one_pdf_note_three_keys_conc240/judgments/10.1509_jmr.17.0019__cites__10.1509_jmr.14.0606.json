@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is discussed in depth as a key prior method for decoding brand image from fMRI, not just listed in background citations. The citing paper summarizes Chen et al. (2015)'s brand-based decoding approach, identifies its assumption of shared a priori brand profiles, and then introduces its own template-based profiling specifically as an alternative. This comparison structures the paper's conceptual framing (including Figure 1) and is revisited in the discussion where the authors state how their method extends that prior stream.",
+  "relation_description": "The citing paper builds on Chen et al. (2015) by developing a new template-based neural profiling approach for brand image that relaxes the prior model's reliance on predefined, population-level brand attributes. It positions this as an extension of the same neural decoding line of research toward more flexible and individual-level brand representation.",
+  "relation_type": "extends"
+}

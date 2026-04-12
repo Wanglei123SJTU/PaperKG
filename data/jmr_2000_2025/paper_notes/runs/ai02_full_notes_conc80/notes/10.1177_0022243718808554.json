@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides new evidence on how consumers evaluate multiple percentage price changes, a setting the authors argue is understudied in marketing and numeracy research.",
+    "It identifies a process account in which simultaneous presentations produce first-item anchoring, while sequential presentations induce surprise that shifts attention and anchoring to the second percentage.",
+    "It offers actionable guidance for communicating stacked discounts or surcharges and reports boundary-condition evidence in main and supplemental studies."
+  ],
+  "context": "The main setting is consumer pricing communication with two stacked percentage changes, including retail discounts and surcharges (e.g., gift cards, vacation packages, cake surcharges). Supplemental tests examine nonprice percentage contexts such as health-risk reduction and energy-efficiency improvements.",
+  "design_and_data": "The article reports 5 main experiments and references 6 additional experiments in web appendices (11 total). Core studies use between-subject designs that manipulate presentation mode (simultaneous vs sequential) and percentage order (larger first vs larger later), with samples from a university participant pool and MTurk (e.g., N=124, 217, 158, 192, 643 in Experiments 1-5). Outcomes include real choice, deal evaluations, purchase and recommendation likelihood, and estimated total percentage change; process measures include surprise and perceived impact of the larger percentage. Analyses include ANOVA/logistic tests, mediation and moderated mediation (PROCESS), SEM-based process checks, and a within-paper meta-analysis reported in the appendices.",
+  "focal_constructs": [
+    "multiple percentage price changes",
+    "presentation mode (simultaneous vs sequential)",
+    "percentage ordering (larger first vs larger later)",
+    "anchoring and adjustment",
+    "surprise",
+    "perceived impact weighting of the larger percentage",
+    "deal evaluations",
+    "consumer choice and percentage estimation"
+  ],
+  "main_findings": [
+    "Presentation mode and percentage order interact: for discounts, evaluations are higher when the larger percentage is first in simultaneous presentations but second in sequential presentations; for surcharges, the pattern reverses in valence as predicted.",
+    "The interaction affects not only evaluations but also consequential behaviors and judgments, including real gift-card purchase choice, purchase and recommendation likelihood, and estimates of total percentage change.",
+    "Sequential presentations increase surprise, and surprise shifts attention to the second percentage; perceived impact of the larger percentage mediates effects, and when surprise is removed by forewarning participants, the sequential reversal disappears and a large-first order advantage remains."
+  ],
+  "one_line_summary": "Across 11 experiments, the paper shows that judgments of two percentage price changes depend on presentation mode and order because simultaneous displays trigger first-item anchoring, whereas sequential displays trigger surprise that shifts anchoring to the second percentage.",
+  "relation_to_prior_work": "extends prior work on multiple percentage changes (especially Chen and Rao 2007) by showing that communication format cues (mode and order) systematically alter evaluations, choice, and estimates beyond simple addition behavior. It connects this domain to anchoring and surprise theories by specifying when first versus second information serves as the judgment anchor.",
+  "research_gap": "The paper states that although percentages are widely studied, little is known about how consumers evaluate multiple percentage price increases or decreases. In particular, prior research had not clearly explained whether and why endogenous communication cues such as presentation mode and order change judgments of mathematically equivalent combined changes.",
+  "research_question": "How do consumers evaluate two percentage price changes when the same numeric changes are presented simultaneously versus sequentially and when the larger percentage appears first versus second? Do anchoring and surprise mechanisms explain resulting differences in evaluations, estimates, and choice?"
+}

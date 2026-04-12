@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and tests that potentially stigmatizing personal attributes make consumers decode marketing communication elements as audience cues, and infer audience favorability along a threat continuum (from shared to unshared cues).",
+    "It shows that these cues can unintentionally reduce beneficial consumption and increase interest in detrimental high return-risk offerings among consumers managing potential stigmas.",
+    "It argues that effects are not explained by simple homophily, and highlights mechanisms involving anticipated social devaluation versus benevolent intentions, plus a positive role for anticipated empowerment."
+  ],
+  "context": "The studies are set in health care marketing, including invitations to online health communities and health programs. Participants include actual patients with 87 diseases of varying stigma potential and consumers with varying body weight levels (BMI).",
+  "design_and_data": "The paper reports four experiments: two field experiments with a health care firm and two MTurk experiments. Study 1 is a longitudinal field experiment with 483 consumers across 87 diseases, manipulating email audience attribute cues (shared disease group vs ambiguous group) and observing actual click-through and two-week engagement behaviors. Study 2 (N=396 MTurk, measured BMI) manipulates visual audience cues (shared, contrasting, or no cue) and measures anticipated social devaluation and interest in a high return-risk option (sleeve gastrectomy). Study 3 (N=389 MTurk, measured BMI) manipulates whether body weight would be exposed to others in an online workshop, and Study 4 is a field experiment with 970 consumers across 87 diseases manipulating audience attribute and audience intention cues and tracking actual click-through.",
+  "focal_constructs": [
+    "consumer stigma",
+    "audience attribute cues",
+    "audience intention cues",
+    "anticipated social devaluation",
+    "anticipated benevolent audience intentions",
+    "beneficial consumption behaviors",
+    "detrimental high return-risk consumption",
+    "anticipated empowerment"
+  ],
+  "main_findings": [
+    "In Study 1, for highly stigmatizing diseases, ambiguous versus shared audience cues reduced click-through for a beneficial health program by 64% and reduced two-week engagement behaviors by 52%.",
+    "As BMI approached stigmatizing levels, contrasting audience cues increased anticipated social devaluation and increased interest in high return-risk stigma-alleviation options; anticipated social devaluation mediated this effect.",
+    "Across Studies 3 and 4, cues that reduced stigma exposure or directly signaled benevolent audience intentions improved beneficial response, and in the field setting failing to refine communication in light of stigma reduced click-through by 41%."
+  ],
+  "one_line_summary": "Across two field experiments and two MTurk studies, the paper shows that consumers with potentially stigmatizing attributes read marketing cues as signals of audience threat or benevolence, which shifts them away from beneficial options and toward risky stigma-alleviating options unless communications signal safety or empowerment.",
+  "relation_to_prior_work": "extends prior marketing stigma research that has largely examined in-situ interactions by providing experimental and field evidence on marketer-controlled audience cues, while showing boundary conditions for homophily when stigma is salient.",
+  "research_gap": "Prior marketing research on stigma mainly documents coping and audience sensing in immediate marketplace interactions, with limited causal evidence on how marketer-designed communications affect these processes. The paper addresses the unclear role of subtle communication elements as audience cues that can shape pre-consumption inference and behavior.",
+  "research_question": "How do consumers with potentially stigmatizing attributes interpret audience cues in marketing communications, and how do those inferences affect beneficial versus detrimental consumption responses? The paper also examines whether anticipated social devaluation versus benevolent intentions, and anticipated empowerment, explain these effects."
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and tests that gender moderates the effect of issue capability on risk taking through goal-task compatibility from agency-communion theory, rather than treating gender only as a main effect.",
+    "It provides process evidence that focus of attention, especially attention to upside potential, mediates the gender x issue capability effect in gain-oriented decisions.",
+    "It demonstrates the pattern with both real behavior and experiments and shows that the interaction reverses across gain-maximization versus loss-avoidance decision tasks."
+  ],
+  "context": "The paper examines financial risk taking in two domains: actual betting on Daily Doubles in the Jeopardy! game show and hypothetical consumer decisions about investing savings and purchasing investment insurance. The tasks are used to represent gain-focused decisions (investment, Jeopardy! betting) versus loss-prevention decisions (insurance).",
+  "design_and_data": "Study 1 uses archival data from 153 Jeopardy! episodes (May-December 2003) and analyzes 305 bets from the first two Daily Doubles by adult contestants. Risk taking is measured as bet size relative to clue value, and regression includes gender, issue capability (percent correct in the category before the Daily Double), their interaction, and controls for cumulative winnings and clue position. Study 2 is a 2 (gender) x 2 (high/low issue capability) between-subject experiment with 138 business students choosing between a risky stock fund and a safe bank account, with coded thought listings for upside versus downside focus. Study 3 is a 2 x 2 x 2 between-subject experiment with 217 business students manipulating issue capability and task type (investment vs insurance), with risk taking measured by stock-fund choice likelihood or reverse-coded insurance purchase likelihood.",
+  "focal_constructs": [
+    "issue capability",
+    "financial risk taking",
+    "gender",
+    "agentic orientation",
+    "communion orientation",
+    "focus of attention on upside potential",
+    "goal-task compatibility",
+    "investment versus insurance decisions"
+  ],
+  "main_findings": [
+    "In gain-focused decisions, issue capability increased men's risk taking but did not significantly change women's risk taking, as shown in Jeopardy! Daily Double betting and in the investment experiment.",
+    "In Study 2, the gender x issue capability effect on risk taking was fully mediated by upside-focused thoughts: capability shifted men's upside focus, and greater upside focus predicted higher risk taking.",
+    "In Study 3, there was a significant gender x issue capability x task interaction: the male-sensitive pattern appeared in investment decisions, but in insurance decisions women (not men) were more sensitive to capability and purchased more insurance under low capability."
+  ],
+  "one_line_summary": "Across Jeopardy! betting data and two experiments, the paper shows that issue capability drives risk taking more for men in gain-focused investment tasks but more for women in loss-avoidance insurance tasks, with upside attention mediating the gain-task pattern.",
+  "relation_to_prior_work": "extends prior gender-and-risk research that mostly documents average gender differences by showing a contingent gender x issue capability interaction. It also extends issue capability research by linking capability effects to agency-communion goal orientation and to task nature (gain maximization versus loss avoidance).",
+  "research_gap": "Prior studies largely report a main effect of gender on risk taking and a separate positive effect of issue capability, but do not test whether gender changes the capability-risk relationship. The paper addresses this by examining whether that relationship depends on goal-task compatibility in gain-focused versus loss-focused decisions.",
+  "research_question": "Does gender moderate how issue capability affects financial risk taking, and does this depend on whether the decision task emphasizes achieving gains or avoiding losses? The paper also asks whether differences in focus of attention, especially attention to upside potential, explain this interaction."
+}

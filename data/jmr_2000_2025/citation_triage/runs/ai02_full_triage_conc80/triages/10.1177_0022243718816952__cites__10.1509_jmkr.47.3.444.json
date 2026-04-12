@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s design explicitly uses a control-function approach to handle endogeneity (including selection corrections), while the cited paper’s core contribution is a control-function estimator for marketing-mix endogeneity (including slope endogeneity with multiple endogenous variables). This method-level alignment suggests the citation is plausibly a substantive methodological source rather than a generic background mention, and the DOI match is exact.",
+  "triage_decision": "keep_for_relation_judgment"
+}

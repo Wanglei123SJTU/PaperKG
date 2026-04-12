@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper is the first to study the communication of referral rewards, showing that how rewards are described (not just their presence, size, or type) changes referral behavior.",
+    "It proposes and tests a mechanism in which disclosing the referrer reward increases perceived compatibility with communal friendship norms and reduces referrers' psychological barrier.",
+    "It identifies managerially relevant boundary conditions for disclosure effectiveness: relative reward amount, stated reward source, and whether the referral opportunity is already framed as communal."
+  ],
+  "context": "The paper studies incentivized customer referral programs in which existing customers send company-generated invitation messages to friends. Empirical settings include U.S. fish taxidermy, Chinese after-school tutoring, and lab scenarios involving coffee, meal delivery, and mobile games.",
+  "design_and_data": "The authors report seven studies (five preregistered; two field and five lab) with total N = 2,060, plus one preregistered supplemental lab study (N = 176). Field experiments were run with a U.S. fish taxidermy firm (n = 371 customers) and a Chinese tutoring firm (n = 163 parents), randomly varying whether the invitation disclosed the referrer reward. Lab studies on Credamo, Prolific, and a U.S. university pool manipulated disclosure and tested mediation and moderators. Outcomes included referring, acceptance, compatibility and psychological barrier measures, and in field settings conversion rate and sales.",
+  "focal_constructs": [
+    "incentivized customer referral programs",
+    "referrer reward disclosure",
+    "communal versus exchange norms",
+    "perceived compatibility with communal norms",
+    "psychological barrier (discomfort/conflict/guilt)",
+    "referring likelihood/rate",
+    "referee acceptance",
+    "conversion rate and sales"
+  ],
+  "main_findings": [
+    "Disclosing the referrer reward in invitation messages increased referring across field and lab studies under standard reward setups.",
+    "The disclosure effect on referring was explained by higher perceived compatibility with communal norms and lower psychological barrier, with no significant support for a reputational-benefit explanation in Study 2a.",
+    "The effect weakened or reversed when disclosure revealed norm-incompatible setups (referrer reward greater than referee reward, or reward framed as coming from referee spending), and it weakened when the referral opportunity was already framed as communal; disclosure also increased acceptance in lab studies and improved field conversion and sales."
+  ],
+  "one_line_summary": "Across seven studies, disclosing the referrer reward in referral invitations increased referring by making the act feel more compatible with communal friendship norms and reducing referrers' psychological barrier.",
+  "relation_to_prior_work": "extends prior referral-program research from objective reward features (presence, amount, type) to reward communication, showing that disclosure itself changes behavior while holding rewards constant. extends disclosure research in business communication to consumer-to-consumer interactions between communal partners rather than primarily exchange-partner contexts.",
+  "research_gap": "Although referral programs commonly reward both referrer and referee, most invitation messages omit the referrer reward and firms use inconsistent disclosure practices, leaving its behavioral impact unclear. Prior referral research had mainly examined reward presence, amount, and type rather than whether and how the referrer reward is communicated.",
+  "research_question": "Does disclosing the referrer reward in referral invitation messages increase existing customers' likelihood of referring friends? If so, is the effect driven by greater compatibility with communal relationship norms and reduced psychological barrier, and when does the effect attenuate or reverse?"
+}

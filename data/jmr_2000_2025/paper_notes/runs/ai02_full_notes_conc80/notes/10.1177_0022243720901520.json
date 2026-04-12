@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper claims to be the first to isolate pure spatial arrangement effects in assortments without confounding messiness or out-of-place cues.",
+    "It proposes and tests a process account in which unsystematic arrangement increases perceptual disfluency, which increases exploratory search, which then promotes unfamiliar-product choice.",
+    "It identifies boundary conditions (prior preference clarity and source attribution of difficulty) and shows robustness across display formats, product domains, and a large-scale field setting."
+  ],
+  "context": "The research studies consumer choice from product displays in retail-like environments, including mobile phones in Swiss stores, apartment options in online-style interfaces, and chocolates in a cafeteria display. Evidence comes from both Switzerland and U.S. participant pools, including a nationwide field experiment with real shoppers.",
+  "design_and_data": "The paper reports five studies. Study 1a is a lab experiment with 152 Swiss students choosing among 21 mobile phones on a physical tracked display after familiarity induction for a subset of phones; Study 1b is a four-week field experiment with 51,312 shoppers across 36 Swiss mobile-phone stores assigned to four arrangement conditions and analyzed with mixed-effects models (store/day random intercepts). Study 2 (N = 264) uses a 2 x 2 between-subjects design (arrangement x preference clarity) in an incentive-compatible apartment-choice task, and Study 3 (N = 298, MTurk U.S.) adds a source-attribution condition. Study 4 is a field experiment in a Swiss university cafeteria (N = 106) using horizontal chocolate displays; mediation tests rely on bootstrap sequential mediation analyses.",
+  "focal_constructs": [
+    "systematic vs unsystematic product arrangement",
+    "perceptual disfluency",
+    "exploratory product search",
+    "choice of unfamiliar alternatives",
+    "prior preference clarity",
+    "source attribution of difficulty",
+    "display position salience"
+  ],
+  "main_findings": [
+    "Unsystematic (vs systematic) arrangements increased consumers' likelihood of choosing unfamiliar alternatives across studies, including the large field experiment.",
+    "The effect was sequentially mediated: unsystematic arrangement increased perceptual disfluency, disfluency increased exploratory search, and exploratory search increased unfamiliar-product choice.",
+    "The effect was attenuated or eliminated when consumers had high prior preference clarity or when they were prompted to attribute processing difficulty to the display, and it generalized across domains and vertical/horizontal display formats."
+  ],
+  "one_line_summary": "Across five studies, unsystematic rather than systematic product arrangements increased perceptual disfluency and exploratory search, which raised consumers' choice of unfamiliar products, especially when prior preferences were not clear.",
+  "relation_to_prior_work": "extends prior assortment-organization research by isolating spatial arrangement effects from messy or out-of-place display cues and showing a distinct impact on unfamiliar-product choice. It also extends disfluency research by linking arrangement-induced disfluency to exploratory search behavior and downstream choice outcomes.",
+  "research_gap": "Prior work had not cleanly isolated whether the spatial arrangement of the same set of products, independent of messiness or out-of-place cues, changes the likelihood of choosing unfamiliar alternatives. The mechanism linking arrangement to choice and boundary conditions for this effect were also not clearly established.",
+  "research_question": "Does presenting an assortment in an unsystematic rather than systematic spatial arrangement increase consumers' choice of unfamiliar alternatives? If so, is this effect driven by perceptual disfluency that triggers more exploratory search, and when is the effect attenuated (for example, under high prior preference clarity)?"
+}

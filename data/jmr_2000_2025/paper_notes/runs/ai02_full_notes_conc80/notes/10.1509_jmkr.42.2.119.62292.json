@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces an extended endowment-effect paradigm that adds risky buying and risky selling to standard buying, selling, and choice conditions.",
+    "It proposes an intention-based account of the boundaries of loss aversion, including the claim that goods exchanged as intended are not coded as losses.",
+    "It offers three propositions to organize when loss aversion should hold or fail across consumption goods, money, and balanced risks."
+  ],
+  "context": "Laboratory consumer decision tasks with low-value goods (mugs, pens, chocolates) were run with university participants in North America. The setting models buying, selling, choosing, and 50-50 risky exchange over the same goods and money amounts.",
+  "design_and_data": "The authors report eight experiments conducted over several years, with 1125 participants in total across five conditions (seller, chooser, buyer, risky seller, risky buyer), though not all conditions were used in every study. Participants were randomly assigned by color-coded forms, and preferences were elicited over price lists with one preselected amount determining real outcomes, following an incentive-compatible elicitation format. Risky conditions used balanced 50-50 gambles and produced RWTA and RWTP measures alongside WTA, CE, and WTP. Results are summarized with median valuations and hypothesis ratios, with 95% confidence intervals obtained by bootstrap resampling (1000 replications).",
+  "focal_constructs": [
+    "loss aversion",
+    "endowment effect",
+    "willingness to accept (WTA)",
+    "willingness to pay (WTP)",
+    "choice equivalent (CE)",
+    "risky willingness to accept (RWTA)",
+    "risky willingness to pay (RWTP)",
+    "mental budgets and intentions"
+  ],
+  "main_findings": [
+    "The endowment effect replicated, with sellers valuing the good above choosers (aggregate WTA/CE = 1.85).",
+    "Buying prices and choice equivalents were similar (aggregate CE/WTP = 1.07), supporting no loss aversion for money spent in routine purchases in these samples.",
+    "Risky selling prices were close to selling prices (aggregate RWTA/WTA = 0.91), and although WTP exceeded RWTP on average (2.31), that comparison was variable across studies and the authors call it preliminary."
+  ],
+  "one_line_summary": "Using an extended endowment-effect paradigm with risky buying and selling, the paper provides preliminary evidence that loss aversion has boundaries, especially that money spent as intended in routine purchases need not be treated as a loss.",
+  "relation_to_prior_work": "extends prior prospect-theory and endowment-effect research by jointly testing risky and riskless loss aversion in one paradigm and by proposing intention-based boundaries. It also addresses conflicting evidence from Bateman et al. about whether routine buying involves loss aversion for money.",
+  "research_gap": "Prior work documented many loss-aversion effects and some moderators, but the authors note few attempts to integrate these findings into a general account of when loss aversion applies versus fails. They also target an unresolved empirical disagreement about whether money spent in routine buying is itself loss-averse.",
+  "research_question": "What are the psychological boundaries of loss aversion across risky and riskless exchanges of goods and money? Specifically, do buyers treat money spent in routine purchases as a loss, and can loss aversion alone account for aversion to balanced 50-50 risks?"
+}

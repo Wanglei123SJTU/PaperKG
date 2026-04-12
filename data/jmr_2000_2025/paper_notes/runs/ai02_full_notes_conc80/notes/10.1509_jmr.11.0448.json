@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper introduces a forum-tailored supervised sentiment measure (consumer sentiment) designed to capture sample-specific language in online communities.",
+    "It provides multi-firm empirical evidence on active firm engagement performance in online communities, including evidence from a field experiment and multiple industries.",
+    "It shows that engagement effects are heterogeneous by conversation type and customer interest segment, with implications for performance measurement and resource allocation."
+  ],
+  "context": "The empirical context is firm-sponsored online forums with transparent moderator participation. The data cover a do-it-yourself community and travel-related communities (airlines and hotels).",
+  "design_and_data": "The study uses 11 independent datasets from 10 online forums: a 12-month do-it-yourself baseline dataset, a 3-week do-it-yourself field experiment, and 9 travel-forum datasets. In total, the authors analyze approximately 115,000 consumer posts and build sample-specific sentiment measures using supervised machine learning (SVM) with manually coded training and validation samples. Consumer sentiment is measured as the predicted probability that a post is positive on a 0-1 scale. Post-level fractional response models include thread, user, and time fixed effects with thread-clustered standard errors; the authors state that their data structure does not allow strong causal claims.",
+  "focal_constructs": [
+    "active firm engagement",
+    "consumer sentiment",
+    "firm-sponsored online communities",
+    "supervised sentiment analysis",
+    "functional versus social conversation type",
+    "consumer interest segments",
+    "diminishing returns"
+  ],
+  "main_findings": [
+    "Across do-it-yourself, airline, and hotel forums, consumer sentiment shows diminishing returns to greater firm engagement, and at very high engagement levels sentiment can decline in some cases.",
+    "For functionally oriented threads, firm engagement is positively associated with sentiment but with diminishing returns; for socially oriented threads, no significant association is found.",
+    "For users primarily interested in home improvement support, engagement shows diminishing returns in sentiment, while for users primarily interested in home decoration/inspiration, no significant relationship is detected."
+  ],
+  "one_line_summary": "Using forum-tailored supervised sentiment analysis on approximately 115,000 posts from ten firm-sponsored forums, the paper finds that active firm engagement is associated with diminishing returns in consumer sentiment, especially in functional support contexts.",
+  "relation_to_prior_work": "extends prior online community work by moving beyond largely theoretical or single-firm evidence to a multi-firm empirical analysis of active moderator engagement using a tailored sentiment outcome. It also complements offline relationship-communication findings by documenting diminishing returns to communication intensity in an online forum setting.",
+  "research_gap": "The paper argues that existing evidence on consumer reactions to firm engagement in online communities is mixed, limited in scope, and often based on theoretical work or single-firm settings. It also argues that generic sentiment inputs are not well suited to forum-specific jargon, creating a need for a community-matched performance measure.",
+  "research_question": "How do consumers react to firms' active participation in consumer-to-consumer online community conversations? The paper also asks whether this reaction differs by conversation type (functional vs social) and by consumer segment interests (home improvement vs home decoration)."
+}

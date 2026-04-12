@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Petrin and Train (2010) in Study 5 to justify and implement a control function correction for endogeneity in its home-sales regression analysis. It explicitly states that a control function approach was employed and then reports results with the residual-based correction term, so the citation supports an actual identification/estimation step rather than a passing literature mention. The paper does not refine or contest Petrin and Train; it imports that econometric tool for its own empirical robustness check.",
+  "relation_description": "Arens applies Petrin and Train's control function method to address endogeneity in the field study of home prices. The cited work provides the methodological basis for adding residual-based correction terms and showing the main interaction results remain after correction.",
+  "relation_type": "applies"
+}

@@ -1,0 +1,29 @@
+{
+  "claimed_contribution": [
+    "The paper extends global-local identity research to the environmental sustainability messaging context of global brands.",
+    "It refines framing and construal theorizing by proposing and testing asymmetric congruence for globally identified consumers: promotion framing with distant spatial construal and proximal temporal construal.",
+    "It advances process understanding by linking global identity to environmental mindset and showing additional explanatory power of eagerness to act for engagement outcomes."
+  ],
+  "context": "The study is set in global brand communications about environmental sustainability initiatives, where many multinational brands publicly promote environmental efforts. It contrasts current messaging practices on global versus local brand websites and then tests consumer responses to global brand initiative messages.",
+  "design_and_data": "The authors first ran a textual analysis of environmental statements from 100 global and 100 local brand websites, coding regulatory focus and spatial/temporal construal language with LIWC-based dictionaries. They then conducted six between-subjects experiments with manipulated global versus local identity primes and manipulated message frames (promotion/prevention; spatially distant/proximal; temporally proximal/distant) using fictitious global brands in fashion and home appliances. Samples were collected from MTurk Prime, MTurk, and Prolific (final ns by study: 417, 275, 235, 482, 113, 118). Consumer engagement was measured mainly by essay word count (log-transformed) and, in some studies, recommendations for upcycled products.",
+  "focal_constructs": [
+    "global identity",
+    "local identity",
+    "global brand environmental messaging",
+    "regulatory focus framing",
+    "spatial construal framing",
+    "temporal construal framing",
+    "environmental mindset",
+    "eagerness to act",
+    "consumer engagement with sustainability initiatives"
+  ],
+  "main_findings": [
+    "In the website analysis, 90% of global brands versus 35% of local brands posted environmental sustainability statements, and global-brand statements were much longer.",
+    "Across experiments, consumers primed with a global identity showed higher engagement when message frames were congruent, especially promotion framing with distant spatial construal and with proximal temporal construal; these framing effects were not significant for locally identified consumers.",
+    "Environmental mindset mediated the identity-to-engagement effect under congruent promotion plus distant spatial framing, and eagerness to act further mediated the effect of environmental mindset on engagement under promotion, distant spatial, and proximal temporal framing."
+  ],
+  "one_line_summary": "Across a website analysis and six experiments, the paper shows that global brands engage globally identified consumers most with promotion-focused environmental messages that pair distant spatial framing with proximal temporal framing, partly through environmental mindset and eagerness to act.",
+  "relation_to_prior_work": "extends prior global-local identity and global branding research into environmental sustainability engagement and refines framing/construal theory by showing asymmetric spatial-temporal congruence effects tied to consumer identity.",
+  "research_gap": "The paper argues that global marketing and environmental sustainability research had not fully examined consumer global-local identity as a key driver of responses to global brands' environmental initiatives. It also identifies a lack of clear guidance on which environmental message frames most effectively engage consumers.",
+  "research_question": "How does consumer global versus local identity influence engagement with a global brand's environmental sustainability initiative? Specifically, which regulatory focus and spatial/temporal construal message combinations are most effective, and through what psychological processes do these effects occur?"
+}

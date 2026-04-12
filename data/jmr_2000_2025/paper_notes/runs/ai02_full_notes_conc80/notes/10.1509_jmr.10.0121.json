@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Identifies and theorizes \"low-stakes opportunism,\" a form of opportunism that can arise when payoffs are small but rapport is high.",
+    "Synthesizes transaction cost theory with behavioral-economics/self-concept maintenance ideas, plus ethics and relationship-marketing perspectives, to explain opportunistic behavior.",
+    "Provides explicit empirical tests of stake size x rapport effects and shows that rapport-based relational safeguards can sometimes increase opportunism."
+  ],
+  "context": "The paper examines interorganizational exchange decisions, especially sales and procurement interactions involving deception, bidding, pricing, and credit-claiming behaviors. It also tests the phenomenon in a behavioral lab competition where cheating affects a real partner's monetary outcome.",
+  "design_and_data": "Study 1 is a 2 x 2 x 2 between-subjects scenario experiment with 325 executive MBA students at a U.S. private university, manipulating stakes (high/low), relationship duration (established/new), and communication mode (face-to-face/mediated) across seven opportunism scenarios. Study 2 uses 93 executive MBA students in the United States and United Kingdom, focuses on low-stakes scenarios with rapport manipulation, and collects open-ended justifications that two independent coders classify into reasoning categories. Study 3 is a 2 x 2 laboratory experiment with 104 undergraduate students, manipulating stakes and rapport in a head-to-head matrix-task setting where participants can inflate self-reported performance to win cash. The analyses use mixed-model ANOVAs and mediation tests (including Sobel and bootstrap) for the reasoning mechanism in Study 2.",
+  "focal_constructs": [
+    "opportunism",
+    "stake size",
+    "rapport",
+    "morally malleable reasoning",
+    "cost-benefit reasoning",
+    "self-concept maintenance",
+    "relational governance"
+  ],
+  "main_findings": [
+    "The stake-size effect predicted by transaction cost theory appeared only under low-rapport conditions, and in the lab study low rapport produced more cheating at high stakes than at low stakes.",
+    "When rapport was high, the relationship reversed: opportunism was higher at low stakes than at high stakes in the scenario studies and in actual behavior in the lab.",
+    "In low-stakes settings, high rapport increased morally malleable reasoning (23% vs. 6%) and decreased absolute moral reasoning, and morally malleable reasoning partially mediated rapport's effect on opportunism while cost-benefit reasoning did not."
+  ],
+  "one_line_summary": "Across three studies, the paper shows that rapport can reverse the usual stake-opportunism pattern, making low-stakes opportunism more likely through morally malleable self-justification.",
+  "relation_to_prior_work": "synthesizes transaction cost theory with behavioral-economics research on self-concept maintenance to explain opportunism as both calculative and morally malleable. It challenges the standard assumption that opportunism should increase monotonically with stake size and refines prior relational-governance views by showing rapport can enable opportunism under low stakes.",
+  "research_gap": "Prior work largely assumes that higher stakes increase opportunism and that rapport suppresses it, but the moderation between stakes and rapport had rarely been directly tested. Behavioral-economics evidence on self-justifying dishonesty had not been examined in interorganizational exchange, leaving low-stakes opportunism under high rapport underexplained.",
+  "research_question": "When does stake size increase opportunism as transaction cost theory predicts, and when can this pattern reverse? The paper asks whether rapport (via relationship duration and communication mode) moderates the stakes-opportunism link and whether morally malleable reasoning explains increased opportunism in low-stakes, high-rapport settings."
+}

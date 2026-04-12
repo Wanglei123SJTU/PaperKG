@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Identifies perceived risk as a moderator of when corporate image associations flow through to evaluations of individual products.",
+    "Shows that corporate image dimensions differ in impact: innovation and trustworthiness become more consequential under high perceived risk, whereas CSR does not in this setting.",
+    "Provides experimental evidence that higher perceived risk changes consumers' relative reliance on different information cues, not just overall information processing."
+  ],
+  "context": "The studies are set in consumer evaluations of HDTV offerings linked to Sony and Samsung, using product attribute information presented as from Consumer Reports and corporate reputation information presented as from Fortune rankings. Perceived purchase risk is manipulated as the likelihood that HDTVs may not perform as expected relative to regular TVs.",
+  "design_and_data": "Experiment 1 used 107 students in a 2 x 2 between-subjects design: perceived risk (high vs low) x corporate innovation argument strength (strong vs weak), with product attribute arguments held strong. Participants read the HDTV and corporate-reputation information, then provided product evaluations, diagnosticity ratings, and cognitive responses; analyses used ANOVA and mediation regressions. Experiment 2 used 149 students in a 2 x 3 between-subjects design: perceived risk (high vs low) x type of weak corporate association argument (innovation, trustworthiness, CSR) in the same HDTV context. Outcomes again included product evaluations and diagnosticity, with ANOVA and manipulation checks for risk and the targeted corporate-association dimension.",
+  "focal_constructs": [
+    "perceived purchase risk",
+    "corporate image associations",
+    "corporate innovation",
+    "corporate trustworthiness",
+    "corporate social responsibility",
+    "product evaluations",
+    "argument diagnosticity",
+    "corporate-related cognitive response valence"
+  ],
+  "main_findings": [
+    "In Experiment 1, strong versus weak innovation arguments improved product evaluations only when perceived risk was high; under low risk, this difference was not significant.",
+    "Corporate innovation arguments were judged more diagnostic under high versus low perceived risk, and corporate-related thought valence mediated argument-strength effects on evaluations only in high-risk conditions.",
+    "In Experiment 2, weak innovation and weak trustworthiness arguments produced less favorable evaluations in high- versus low-risk conditions, whereas weak CSR arguments did not; diagnosticity increased with risk for innovation and trustworthiness but not for CSR."
+  ],
+  "one_line_summary": "Across two HDTV experiments, the paper shows that perceived purchase risk increases the impact of corporate innovation and trustworthiness associations, but not CSR associations, on product evaluations.",
+  "relation_to_prior_work": "extends prior corporate-association research (notably Brown and Dacin 1997) by adding perceived risk as an explicit boundary-condition moderator rather than focusing only on mediating processes. It also refines perceived-risk and cue-utilization work by showing that risk shifts the relative diagnosticity and use of specific corporate image cues.",
+  "research_gap": "Prior research showed that corporate associations can influence product evaluations, but did not clearly theorize or test perceived risk as a moderator of that effect. It was also unclear whether different corporate image dimensions are used differently across high- versus low-risk purchase situations.",
+  "research_question": "When do corporate image associations influence evaluations of individual products? The paper tests whether perceived purchase risk moderates the effect and diagnosticity of three corporate image dimensions - innovation, trustworthiness, and CSR - in product evaluation judgments."
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper introduces the idea that recommendations can shift sequential product search into a choice mode, where consumers focus more on choosing among inspected options than on whether to keep searching.",
+    "It provides evidence on two specific process transformations caused by recommendations: broader product comparisons and different stopping behavior under attractiveness variability.",
+    "It argues that behavioral influences in search are not fixed, but vary systematically with the search environment, specifically the presence of recommendation ordering."
+  ],
+  "context": "The paper studies consumer sequential product search in recommendation-assisted environments where alternatives are presented in predicted-attractiveness order, versus unassisted search. Empirical tasks cover categories such as compact stereos, holiday rentals, apartments, resorts, fitness memberships, and chalet rentals in Internet-based decision settings.",
+  "design_and_data": "The authors run three studies. Study 1 uses a Dutch consumer panel (n = 438) in two categories, with personalized conjoint-based recommendations over 500 alternatives versus randomized unassisted order, and estimates random-effects binary logit models for product-comparison and stopping decisions at each search stage. Study 2 uses a North American online panel (n = 60) with a 2 x 2 between-subjects manipulation of beliefs about sorted order and screening while holding the inspected alternative stream identical, and tests process outcomes via reinspection frequency and time. Study 3 uses a North American online panel (n = 169) in a 2 x 2 mixed design manipulating recommendation-order beliefs (between subjects) and attractiveness variability (within subjects), and models amount of search with random-effects Poisson regression.",
+  "focal_constructs": [
+    "product recommendations",
+    "sequential product search",
+    "choice mode",
+    "product comparison decision",
+    "stopping decision",
+    "variability in product attractiveness",
+    "reservation utility"
+  ],
+  "main_findings": [
+    "With recommendations, consumers rely less on the utility difference between the current and best-so-far option and make broader comparisons with other previously inspected alternatives, including more reinspection of non-best prior options.",
+    "In recommendation-assisted search, greater uncertainty/variability around the next option's attractiveness increases stopping probability (shorter search), whereas in unassisted/control search higher variability leads to more search, yielding a reversal in direction.",
+    "Recommendations improved decision quality and shifted effort allocation: participants generally inspected fewer alternatives but spent more time per inspected alternative."
+  ],
+  "one_line_summary": "Across three studies, attractiveness-ordered recommendations shift consumers into a choice mode that broadens comparisons among inspected options and reverses how attractiveness variability affects search stopping.",
+  "relation_to_prior_work": "extends prior work on recommendation effects from decision outcomes to the underlying stage-level decision process during sequential search. It links normative search models and choice-from-set phenomena by showing that recommendation ordering activates choice-like behavioral influences during search.",
+  "research_gap": "Prior research had examined how recommendations affect decision outcomes, but there was little evidence on how they alter the decision processes consumers use while searching sequentially. In particular, it was unclear how recommendations change product-comparison behavior and stopping decisions.",
+  "research_question": "How does providing recommendations that order products by predicted attractiveness transform consumer decision processes during sequential product search compared with unassisted search? Specifically, do recommendations induce a choice-oriented mode that changes both how current options are compared with prior options and how variability in product attractiveness affects stopping decisions?"
+}

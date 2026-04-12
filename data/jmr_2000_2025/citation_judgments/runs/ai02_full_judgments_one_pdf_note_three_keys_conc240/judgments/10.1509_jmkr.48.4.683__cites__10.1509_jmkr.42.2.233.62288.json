@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is referenced repeatedly to motivate the core construct of evolving financial maturity and sequential cross-selling demand, not just as background. The citing study explicitly positions its contribution as moving beyond that model's assumptions and compares results against a specification identified as the Li, Sun, and Wilcox (2005) model. This indicates a direct methodological and conceptual build-on relationship rather than a passing mention.",
+  "relation_description": "The 2011 paper builds directly on Li, Sun, and Wilcox (2005) as a prior latent financial maturity cross-selling model, then adds hidden Markov state dynamics, explicit solicitation effects (instantaneous, advertising, educational), channel heterogeneity, and dynamic programming for campaign decisions. It also uses the 2005 model as a formal benchmark (Model A) in empirical comparisons.",
+  "relation_type": "extends"
+}

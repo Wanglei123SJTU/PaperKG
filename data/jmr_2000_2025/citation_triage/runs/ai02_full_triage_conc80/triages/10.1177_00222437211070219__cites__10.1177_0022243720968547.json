@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is primarily an advertiser-side bidding algorithm/regret-theory study, while the citing paper is a quasi-experimental policy-change analysis of context disclosure and site-level CPM, so the topical overlap may be only broad RTB background. However, the evidence here is sparse (single DOI match with no in-text citation context), so it is not safe to classify as an obvious mention-only citation.",
+  "triage_decision": "uncertain"
+}

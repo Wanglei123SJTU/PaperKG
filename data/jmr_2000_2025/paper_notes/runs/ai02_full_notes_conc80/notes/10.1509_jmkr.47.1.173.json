@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops a time-varying parameter state-space model that directly reports how persistent and transient marketing effects evolve over time at the brand level.",
+    "Provides a theoretical and empirical comparison with conventional persistence modeling based on unit root tests and VAR/VECM, and shows practical difficulties of that approach.",
+    "Offers a managerial tool for timing marketing expenditures and provides evidence on pharmaceutical marketing-effectiveness dynamics after launch."
+  ],
+  "context": "The empirical setting is the U.S. prescription pharmaceutical market, where firms use multiple physician- and consumer-oriented marketing instruments. The study tracks brand performance from product launch through the following years using monthly brand-level data.",
+  "design_and_data": "The authors specify a brand-level state-space model with a stochastic trend and stochastic time-varying parameters, where direct-to-physician effects can be both transient and persistent and evolve via a local linear trend process. They estimate the model with exact-initial Kalman filtering and smoothing, selecting brand-specific lag structures using AICC (with BIC robustness checks). The data cover monthly observations for 89 prescription drugs in 39 categories introduced between 1993 and 2000 in the United States, with at least 50 observations and 2000 sales of at least $25 million; estimation converged for 88 brands. Variables include prescriptions, own DTP and DTC expenditures, and competitor marketing and sales measures.",
+  "focal_constructs": [
+    "persistent marketing effects",
+    "transient marketing effects",
+    "time-varying parameters",
+    "state-space model",
+    "Kalman filtering",
+    "brand introduction timing",
+    "direct-to-physician marketing",
+    "direct-to-consumer advertising"
+  ],
+  "main_findings": [
+    "Both persistent and transient marketing effects are strongest and most likely right after brand introduction, and their average size declines over time.",
+    "For DTP marketing, significant persistent effects are found for 47% of brands overall, and the share of brands with significant persistent effects falls from about 40% near launch to below 20% after four years.",
+    "Unit root test outcomes vary substantially across test types and moving windows, implying that conventional unit-root-based persistence modeling is difficult and subjective in this setting."
+  ],
+  "one_line_summary": "Using a time-varying state-space model on U.S. pharmaceutical brand data, the paper shows that marketing effects are most persistent and strongest early after launch and then weaken over time.",
+  "relation_to_prior_work": "extends prior persistence modeling by replacing mostly static, unit-root-dependent specifications with a time-varying state-space approach that tracks persistent and transient effects after brand introduction. It adds explicit brand-level time-path evidence that complements earlier findings that persistence is more common in developing markets and newer brands.",
+  "research_gap": "The paper states that no prior study has revealed how persistent marketing effects evolve over time after a brand's introduction. It also highlights that conventional persistence modeling relies on unit root testing, which creates practical and interpretive difficulties.",
+  "research_question": "Are persistent marketing effects most likely to occur right after a brand is introduced, and how do persistent and transient effects change over time after launch? Can a time-varying parameter approach provide a more useful alternative to conventional unit-root-based persistence modeling for answering this question?"
+}

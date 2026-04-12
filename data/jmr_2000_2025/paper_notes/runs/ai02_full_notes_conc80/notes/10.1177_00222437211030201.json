@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides a new economic explanation for the industry shift from second-price to first-price auctions: after publishers adopt header bidding, both exchanges choose first-price auctions in equilibrium.",
+    "Shows that the combination of header bidding and first-price auctions weakens exchanges' differentiation and reduces equilibrium buyer-side fees in the baseline model.",
+    "Demonstrates that publishers can achieve Myerson-optimal revenue by setting reserve prices, even without direct access to advertisers because sales are intermediated by exchanges."
+  ],
+  "context": "The paper studies real-time bidding in online display advertising, where a publisher sells impressions through competing third-party ad exchanges. It focuses on the industry's move from sequential waterfall bid solicitation to simultaneous header bidding and the subsequent shift in exchange auction format.",
+  "design_and_data": "The evidence is a theoretical game-theoretic model, not an empirical dataset. The baseline model has one publisher, two exchanges, and four advertisers with i.i.d. valuations from U[0,1]; exchanges set buyer-side fees and choose first-price or second-price auctions, advertisers choose one exchange before valuations realize and then bid, and the publisher sets reserve prices under waterfalling or header bidding. The authors solve the game by backward induction and provide analytical propositions with proofs in the appendix. They also discuss robustness via alternative timelines and extensions (including horizontally differentiated exchanges, with additional details in the web appendix).",
+  "focal_constructs": [
+    "first-price auctions",
+    "second-price auctions",
+    "header bidding",
+    "waterfalling",
+    "real-time bidding (RTB)",
+    "reserve prices",
+    "buyer-side fees",
+    "exchange competition"
+  ],
+  "main_findings": [
+    "Under waterfalling, auction format does not change publisher revenue, exchange revenue, or advertiser utility, so exchanges have no revenue incentive to switch from second-price to first-price auctions in that regime.",
+    "If advertisers' exchange affiliations are fixed and exchanges use second-price auctions, publisher revenue is higher under header bidding than under waterfalling.",
+    "Under header bidding, the unique equilibrium has both exchanges using first-price auctions; this increases cross-exchange competitive pressure, yields zero buyer-side fees in the baseline symmetric model, and allows the publisher to achieve Myerson-optimal revenue via reserve prices."
+  ],
+  "one_line_summary": "Using a game-theoretic model of display-ad intermediaries, the paper shows that publisher adoption of header bidding makes first-price auctions the unique exchange equilibrium and enables publishers to reach optimal-auction revenue.",
+  "relation_to_prior_work": "extends prior RTB/display advertising auction models by explicitly modeling competing exchanges and the publisher's choice between waterfalling and header bidding in a unified framework. It contrasts with single-exchange analyses and with trust-based accounts of first-price adoption by showing an equilibrium mechanism driven by header bidding.",
+  "research_gap": "The paper identifies a missing formal explanation for why exchanges switched rapidly to first-price auctions only after header bidding became widespread. Prior related models generally do not capture competing intermediaries or the waterfall-versus-header-bidding design change, leaving the strategic and revenue implications of this transition unresolved.",
+  "research_question": "Why did online display ad exchanges move rapidly from second-price to first-price auctions only after years of second-price use? How does the publisher's move from waterfalling to header bidding alter advertiser bidding and exchange affiliation, publisher reserve-price choices, and exchange revenues?"
+}

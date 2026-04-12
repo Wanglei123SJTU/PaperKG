@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and tests a contingent framework in which self-efficacy moderates the political identity-financial risk-taking relationship.",
+    "It positions social dominance orientation as the theoretical basis for why conservatives are more responsive to self-efficacy in financial risk-taking.",
+    "It provides convergent evidence across six studies, multiple measures, and individual, household, and firm data to reconcile mixed findings in prior literature."
+  ],
+  "context": "The studies are set in U.S. financial decision contexts involving consumers, households, and public-firm managers. Outcomes include household risky-asset holdings, individual choices between safer and riskier investment options, and firm-level R&D intensity, ROA variability, and financial leverage.",
+  "design_and_data": "The paper reports six studies using mixed methods. Study 1 combines Consumer Expenditure Survey household data with U.S. presidential voting data (final sample includes five election years and 42 states; up to 14,945 households) and estimates random-effects models for risky-asset value and risky-asset holding. Studies 2a-4 use MTurk samples (N = 199, 300, 392, and 450) with measured and manipulated political identity and self-efficacy, including one incentive-compatible fund-choice task using real Vanguard products. Study 5 uses panel data merged from FEC political contributions, Compustat, and ExecuComp (1994-2015; 13,655-23,847 firm-year observations depending on outcome) with random-effects time-series cross-sectional models.",
+  "focal_constructs": [
+    "political identity",
+    "financial risk-taking",
+    "self-efficacy",
+    "social dominance orientation",
+    "focus on upside potential",
+    "managerial risk-taking"
+  ],
+  "main_findings": [
+    "Across studies, financial risk-taking increases with self-efficacy among conservatives, but liberals are largely invariant to self-efficacy.",
+    "When SDO is measured, high-SDO participants show stronger self-efficacy-linked increases in financial risk-taking, while low-SDO participants do not.",
+    "The interaction effect is mediated by focus on upside potential among conservatives and high-SDO decision makers, and mediation through downside focus is not significant."
+  ],
+  "one_line_summary": "Across six studies, the paper shows that self-efficacy increases financial risk-taking for conservatives (and high-SDO decision makers) but not for liberals, partly through greater focus on upside potential.",
+  "relation_to_prior_work": "refines prior work on political identity and risk by showing that the average main effect can be null and highly heterogeneous and that self-efficacy is a key moderator explaining when conservatives differ from liberals. It introduces an SDO-based explanation and an upside-focus mediation mechanism for financial risk-taking.",
+  "research_gap": "Prior studies on political identity and individual financial risk-taking report inconsistent results, and the paper's meta-analysis of five studies finds a nonsignificant average effect with high heterogeneity. The authors argue that this literature has under-specified moderators, especially self-efficacy, and managerial studies have largely emphasized main effects.",
+  "research_question": "When does political identity relate to financial risk-taking in consumer and managerial decisions? Specifically, does self-efficacy moderate this relationship so that conservatives, but not liberals, become more risk-taking as self-efficacy rises, and is this pattern explained by conservatives' higher social dominance orientation and focus on upside potential?"
+}

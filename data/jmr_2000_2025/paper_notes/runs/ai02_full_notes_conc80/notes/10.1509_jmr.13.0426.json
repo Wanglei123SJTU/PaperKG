@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper identifies and documents a role-reversal effect in repeated distributive negotiations: expected future reversal increases present concessions and speeds agreement.",
+    "It proposes and tests a reciprocity-based mechanism in which negotiators preemptively concede because they expect future reciprocal concessions and concession recovery.",
+    "It establishes theory-driven boundary conditions and robustness, showing attenuation under accounting-period decoupling or absent common knowledge and replication across multiple settings and methods."
+  ],
+  "context": "The studies examine dyadic price bargaining where parties expect a follow-up negotiation with the same counterpart and may switch buyer and seller roles. Empirical contexts include business-to-business exchanges (used cars, chemicals) and consumer-to-consumer settings (bike and couch).",
+  "design_and_data": "Evidence comes from eight studies: three actual computer-mediated laboratory negotiations, four simulated negotiations against programmed counterparts, and one scenario-based study. Participants included undergraduates, MBA students, and MTurk adults; key detailed samples were 125 analyzed dyads in Study 1a, 107 participants in Study 1b, 255 analyzed MTurk participants in Study 2a, 67 dyads plus an 18-dyad no-future control in Study 2b, 177 participants in Study 3, and 38 dyads in Study 4, with two additional summarized studies (N = 144 and N = 133). Designs manipulated expected later role (reversal vs no reversal), plus moderators such as counterpart concession rate, second-negotiation price, accounting period (same vs different fiscal period), and whether role-reversal intent was common knowledge. Main outcomes were initial concession, total offers, offers to agreement, and process measures of reciprocity and recovery beliefs.",
+  "focal_constructs": [
+    "repeated distributive negotiations",
+    "expectations of role reversal",
+    "initial concession amount",
+    "offers to reach agreement",
+    "counterpart-oriented reciprocity beliefs",
+    "concession recovery expectations",
+    "accounting period coupling",
+    "common knowledge of future role reversal"
+  ],
+  "main_findings": [
+    "When negotiators expected to reverse roles in the next interaction, they made larger initial concessions and generally reached agreement in fewer rounds.",
+    "Role-reversal effects were mediated by counterpart-oriented reciprocity beliefs, including expectations of reciprocal future concessions and recovery of current concessions; perceived positive reciprocal feelings of counterparts also mediated in Study 1b.",
+    "Role-reversal effects weakened or disappeared when negotiations were decoupled across accounting periods or when role-reversal intent was not common knowledge, and dyadic final agreement price was typically unchanged because both sides conceded more symmetrically."
+  ],
+  "one_line_summary": "Across eight studies of repeated distributive bargaining, expecting buyer-seller role reversal in a future transaction increased current concessions and often sped agreement because negotiators expected reciprocal recovery later.",
+  "relation_to_prior_work": "extends prior repeated-negotiation work by isolating expected role reversal versus same-role repetition while holding future interaction constant. It challenges direct carryover of integrative-negotiation findings to distributive settings where joint surplus maximization is not available.",
+  "research_gap": "Prior repeated-negotiation research mostly examined integrative settings or whether future interaction exists, rather than situations where future interaction is certain but only role-reversal expectations differ. The authors argue that preemptive concession making in repeated distributive negotiations is underexplained, especially given normative arguments that transactions should be decoupled.",
+  "research_question": "How does expecting to reverse buyer-seller roles with the same counterpart in a future negotiation affect behavior in the current distributive negotiation? The paper also asks whether any effect is driven by counterpart-oriented reciprocity beliefs and whether it depends on coupling conditions such as accounting-period alignment and common knowledge of future role reversal."
+}

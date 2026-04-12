@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper clarifies that the standard elasticity decomposition should not be interpreted as the net unit sales transfer from competing brands to the promoted brand.",
+    "It introduces a complementary unit sales decomposition measure: the contemporaneous ratio of cross-brand unit sales loss to own-brand unit sales gain during promotion.",
+    "It derives exact and approximate transformation equations that map incidence-choice-quantity elasticities into unit sales effects and applies them to both new and published results."
+  ],
+  "context": "The paper studies short-run effects of temporary price promotions in consumer packaged goods using household scanner-panel purchase behavior. Empirical illustrations use yogurt, canned tuna, and sugar data, and a reanalysis of published results across multiple grocery categories.",
+  "design_and_data": "The authors provide an analytical derivation linking the classic sales elasticity decomposition (purchase incidence, conditional brand choice, conditional quantity) to a net unit sales decomposition. Study 1 estimates household-level latent-class models with nested logit incidence/choice and truncated-at-1 Poisson quantity for three categories: yogurt (28,720 store visits, 223 households), canned tuna (17,771 visits, 270 households), and sugar (17,492 visits, 266 households), with three segments selected in each case. Study 2 applies an aggregate approximation formula to published Bell, Chiang, and Padmanabhan (1999) decomposition outputs (share-weighted category results).",
+  "focal_constructs": [
+    "sales promotion bump",
+    "secondary demand effects",
+    "primary demand effects",
+    "brand switching",
+    "purchase incidence elasticity",
+    "conditional brand choice elasticity",
+    "purchase quantity elasticity",
+    "unit sales decomposition"
+  ],
+  "main_findings": [
+    "A high brand-choice share in elasticity decomposition (for example around 75 percent) does not mean competitors lose the same percentage of units when the focal brand is promoted.",
+    "In Study 1, the average secondary-demand share is about 0.57 in elasticity terms but about 0.33 in net unit-sales terms across yogurt, tuna, and sugar.",
+    "Applying the aggregate transformation to published category results also yields much smaller net switching in unit terms, and in some categories the secondary-demand ratio can be negative when category expansion for nonpromoted brands dominates switching losses."
+  ],
+  "one_line_summary": "The paper shows that promotion elasticity decompositions overstate net brand switching in unit terms and derives a transformation indicating that roughly 33 percent, not 75 percent, of the sales bump is due to competing-brand losses.",
+  "relation_to_prior_work": "challenges the common interpretation in prior sales-promotion decomposition studies that the brand-choice elasticity component directly represents the net unit sales taken from competing brands.",
+  "research_gap": "Prior household decomposition studies reported large brand-switching shares of promotional elasticity and these were widely interpreted as equivalent unit sales transfers from other brands. The paper addresses the missing link between elasticity-based decomposition and the managerial net unit-sales question.",
+  "research_question": "How can the standard household-model elasticity decomposition of promotion effects be translated into a decomposition of contemporaneous unit sales effects? When this translation is made, what proportion of a promoted brand's sales bump is attributable to net cross-brand losses versus primary demand effects?"
+}

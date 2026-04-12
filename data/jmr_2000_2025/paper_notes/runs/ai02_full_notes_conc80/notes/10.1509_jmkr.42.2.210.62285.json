@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces heterogeneous conjoint choice designs in which different respondents receive different optimized subdesigns rather than one common design.",
+    "Develops a computationally feasible construction approach for heterogeneous designs using swapping, cycling, and a sequential greedy optimization routine, illustrated for Bayesian standard logit and mixed logit criteria.",
+    "Shows through simulation that only a small number of subdesigns is needed to obtain large efficiency gains and provides practical implementation guidance."
+  ],
+  "context": "The paper is set in marketing conjoint choice experiments used to infer consumer preference parameters from repeated choices among multi-attribute alternatives. It focuses on design construction for standard logit and mixed logit choice models.",
+  "design_and_data": "The study is methodological and uses Monte Carlo simulation rather than field data. The authors construct heterogeneous sets with up to M=10 subdesigns and compare them with homogeneous designs for Bayesian standard logit designs (12 or 18 choice sets, 2 alternatives, 5 attributes, 3 levels) and mixed logit designs (10 or 15 choice sets, 3 alternatives, 4 attributes, 3 levels). Designs are generated with swapping and cycling moves, mainly via a greedy sequential algorithm, and compared with separate optimization variants. Efficiency is evaluated by D-error based metrics, using simulated parameter draws (typically 512 for Bayesian and 256 for mixed logit, with additional tests at 64 draws) and reported as percentage respondent reduction versus homogeneous benchmarks.",
+  "focal_constructs": [
+    "heterogeneous conjoint choice designs",
+    "homogeneous choice designs",
+    "Bayesian design (DB-error)",
+    "mixed logit design",
+    "information matrix and D-error efficiency",
+    "greedy sequential optimization",
+    "swapping and cycling algorithms",
+    "task complexity in choice models"
+  ],
+  "main_findings": [
+    "Heterogeneous designs are more efficient than homogeneous designs, with reported respondent reductions up to about 90% for Bayesian designs and about 10% to 65% for mixed logit designs depending on conditions.",
+    "Efficiency gains generally increase as true parameters deviate more from assumed design values; for Bayesian designs gains are negligible when deviation is zero, while mixed logit still shows about a 10% gain at zero deviation.",
+    "Marginal gains flatten after a small number of subdesigns (approximately M=6), and follow-up simulations show only small efficiency differences from using more choice sets per design."
+  ],
+  "one_line_summary": "The paper proposes heterogeneous conjoint choice designs - multiple optimized subdesigns randomly assigned across respondents - and shows in Monte Carlo studies that they can substantially outperform single homogeneous Bayesian and mixed logit designs in estimation efficiency.",
+  "relation_to_prior_work": "extends prior conjoint design research that optimized one common design per study by allowing multiple optimized subdesigns across respondents and by demonstrating gains under Bayesian and mixed logit frameworks beyond restrictive null-effect standard-logit settings.",
+  "research_gap": "Prior conjoint choice design methods in this literature largely construct a single homogeneous design administered to all respondents. The paper argues that this misses potential information from attribute variation across respondents and that existing optimality results often rely on restrictive assumptions about model structure or parameter values.",
+  "research_question": "Can conjoint choice experiments be made more efficient by replacing one homogeneous design with a small set of heterogeneous subdesigns assigned across respondents? How large are the efficiency gains relative to homogeneous Bayesian standard logit and mixed logit designs, and how many subdesigns are needed in practice?"
+}

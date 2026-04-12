@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Integrates prior econometric marketing-finance studies to establish empirical generalizations of marketing firm value elasticities and compares mean effects across advertising expenditures and marketing assets.",
+    "Identifies moderators of firm value elasticities from substantive conditions (for example, industry concentration, recession, asset type) and from research design choices (for example, firm value metric, endogeneity treatment, omitted controls).",
+    "Provides benchmark elasticity magnitudes intended to inform managerial accountability and investor valuation models, while highlighting methodological sources of bias in this literature."
+  ],
+  "context": "The paper studies the marketing-finance interface, where firm value is captured by stock market based outcomes such as market capitalization, intangibles-to-tangibles ratios (for example Tobin's q), and stock returns. Evidence comes from publicly traded firm settings across industries and regions (North and South America, Europe, Asia) over data periods from 1971 to 2011.",
+  "design_and_data": "The authors conduct a meta-analysis of econometric studies meeting four inclusion criteria (econometric model, firm value dependent variable, interval-scaled firm-level marketing predictor, and reported or computable elasticity). Their search identifies 100 studies (1977-2013) with 621 elasticities; for multivariate modeling they focus on advertising and marketing assets, yielding 488 elasticities after outlier trimming (296 advertising from 55 studies, 192 marketing assets from 42 studies). They estimate separate hierarchical linear models with elasticity observations nested within studies and weight observations by normalized variance based on elasticity uncertainty (effective weighted samples: 269 and 178). Moderator sets include substantive factors and research-design factors.",
+  "focal_constructs": [
+    "marketing firm value elasticity",
+    "advertising expenditures",
+    "marketing assets",
+    "brand-related assets",
+    "customer-related assets",
+    "industry concentration",
+    "recession conditions",
+    "firm value metrics"
+  ],
+  "main_findings": [
+    "The mean firm value elasticity is 0.04 for advertising expenditures and 0.54 for marketing assets, and within assets customer-related metrics (0.72) exceed brand-related metrics (0.33).",
+    "Advertising expenditure elasticities are lower in more concentrated industries.",
+    "Marketing asset elasticities are higher during recession periods, and estimated elasticities are systematically affected by design choices such as firm value metric selection, endogeneity treatment, and omission of earnings controls."
+  ],
+  "one_line_summary": "Using a meta-analysis of 488 elasticities from 83 studies, the paper shows that marketing assets have much larger firm value elasticities than advertising and that both market conditions and research design choices systematically shape reported effects.",
+  "relation_to_prior_work": "extends prior marketing-finance review work by moving beyond narrative syntheses and an earlier advertising-focused meta-analysis to a broader elasticity-based quantitative synthesis that includes marketing assets. It refines prior evidence by testing how substantive and methodological moderators account for heterogeneity in reported firm value effects.",
+  "research_gap": "The literature had established meta-analytic generalizations for sales response elasticities, but lacked comparable empirical generalizations for marketing effects on firm value. Prior reviews in marketing-finance were largely narrative, and the existing quantitative review was narrower in scope and variable coverage.",
+  "research_question": "What is the average stock market value impact of marketing variables when prior econometric evidence is synthesized using firm value elasticities? How do these elasticities differ between advertising expenditures and marketing assets, and which substantive and research-design moderators explain variation in the estimates?"
+}

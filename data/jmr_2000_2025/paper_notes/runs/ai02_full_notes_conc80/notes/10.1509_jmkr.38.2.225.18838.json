@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops and tests a contingent framework linking CSR information to company evaluations and purchase intentions through four pathways.",
+    "It identifies both company-specific moderators (CSR domain, product quality) and consumer-specific moderators (CSR support, CSR-CA beliefs) of CSR effectiveness.",
+    "It highlights the mediating role of perceived consumer-company character congruence and shows that CSR initiatives can sometimes decrease purchase intentions."
+  ],
+  "context": "The studies place consumers in a marketplace evaluation task involving a large real technology company and its new products. CSR information is framed in specific domains (diversity and overseas labor or sweatshop practices) alongside product quality information (printers in Study 1, calculators in Study 2).",
+  "design_and_data": "Study 1 used a 3 (CSR record: positive, negative, control) x 2 (new product quality: low, high) between-subject experiment with MBA students (277 collected; 258 usable), measuring CSR support and two C-C congruence indicators (Euclidean trait-profile distance and identity-overlap scale). Subjects viewed CSR scenarios based on the company profile in KLD Socrates and reviewed new ink-jet printer descriptions, then reported company evaluations and purchase intentions. Study 2 used a 2 (CSR domain: diversity CA-irrelevant vs sweatshop CA-relevant) x 2 (CSR record) x 2 (new product quality) between-subject experiment with business undergraduates (345 collected; 320 usable), added a CSR-CA beliefs scale, and used calculator product descriptions. The authors estimated a simultaneous three-equation system with three-stage least squares for C-C congruence, company evaluation, and purchase intention with interaction terms and covariates.",
+  "focal_constructs": [
+    "corporate social responsibility initiatives",
+    "CSR domain",
+    "consumer support for CSR issues",
+    "consumer-company character congruence",
+    "company evaluation",
+    "new product quality",
+    "purchase intention",
+    "CSR-CA beliefs"
+  ],
+  "main_findings": [
+    "Positive versus negative CSR information increased perceived consumer-company character congruence and improved company evaluations, and these effects were stronger among consumers with higher support for the CSR issue.",
+    "Perceived consumer-company congruence mediated the CSR effect on company evaluations primarily for high-CSR-support consumers.",
+    "CSR did not uniformly raise product purchase intentions: in the diversity domain it could lower intentions under some conditions, whereas in the CA-relevant sweatshop domain positive CSR increased purchase intentions, and CSR-CA beliefs further conditioned these effects."
+  ],
+  "one_line_summary": "Across two experiments, the paper shows that consumer responses to CSR are contingent on CSR domain, consumer support, and CSR-CA beliefs, with consumer-company character congruence mediating company evaluations and CSR sometimes reducing purchase intentions.",
+  "relation_to_prior_work": "extends prior consumer CSR research, especially Brown and Dacin (1997), by specifying when CSR effects vary across domains, consumers, and product-quality contexts instead of assuming a uniformly positive impact. It also extends corporate-associations and contrast-effect work by showing that CSR-based evaluative context can lower product purchase intentions under some conditions.",
+  "research_gap": "Prior work suggested generally positive CSR effects, but it did not clearly specify when, how, and for whom specific CSR initiatives work at the consumer level. The authors argue that aggregate links between CSR and performance mask contingent company- and consumer-level differences.",
+  "research_question": "When, how, and for whom do specific CSR initiatives influence consumer evaluations of companies and their products? The authors examine whether CSR effects depend on the CSR domain, consumers' support for the issue, and beliefs about CSR-CA trade-offs, and whether perceived consumer-company character congruence mediates these effects."
+}

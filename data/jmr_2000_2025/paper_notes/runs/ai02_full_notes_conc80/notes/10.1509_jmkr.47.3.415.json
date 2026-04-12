@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper extends multimarket contact research by jointly examining direct effects on a firm's own decisions and strategic effects on its reactions to rivals.",
+    "It studies pricing and new product introductions together in one simultaneous system where sales, price, and new product introductions are jointly endogenous.",
+    "It develops and applies a market-segment-level firm-in-market MMC measure that incorporates market importance and competitor position rather than relying on simple contact counts."
+  ],
+  "context": "The empirical setting is the U.S. personal computer industry, where firms compete across five customer segments: home, large/medium business, small business/office, government, and education. The period is 1995-1999, a time of declining prices and frequent product introductions.",
+  "design_and_data": "The authors use annual firm-level data built from IDC's Processor Installation Census for 1995-1999, covering 45 firms, 122 brands, and 927 products across five segments. A product is defined as a unique combination of product form, subbrand, and microprocessor. They estimate a three-equation reduced-form system for sales, price, and new product introductions with fixed effects, random effects, and random slopes for competitive reaction terms interacted with MMC. Endogeneity of the three decision variables is addressed with instrumental variables (including lagged own and competitive variables, and year/market controls), with competitor variables lagged.",
+  "focal_constructs": [
+    "multimarket contact",
+    "mutual forbearance",
+    "strategic effects of MMC",
+    "price competition",
+    "new product introductions",
+    "competitive attacks and retaliation",
+    "firm-in-market MMC measure"
+  ],
+  "main_findings": [
+    "PC firms with higher multimarket contact exhibit mutual forbearance, reflected in higher prices and fewer new product introductions.",
+    "Strategic effects are asymmetric: high-MMC firms respond to competitive attacks by increasing new product introductions, but they do not use price as a retaliatory weapon.",
+    "Strategic MMC effects are weak for cooperative rival moves (price increases or product-introduction decreases), and robustness checks by leader/follower status and growth conditions preserve the core asymmetry."
+  ],
+  "one_line_summary": "Using segment-level panel data from the U.S. PC industry, the study finds that multimarket contact supports mutual forbearance while enforcing it asymmetrically through new product retaliation rather than price retaliation.",
+  "relation_to_prior_work": "extends prior MMC empirical work that largely focused on direct effects by jointly estimating direct and strategic effects across price and product decisions, and by operationalizing MMC at the firm-in-market segment level.",
+  "research_gap": "Prior empirical MMC studies mainly test direct relationships between MMC and outcomes such as price, performance, or spending, while largely ignoring strategic reaction effects. The literature also provides little joint evidence on how MMC shapes both price and new product decisions within an integrated empirical system.",
+  "research_question": "How does multimarket contact affect both a firm's own pricing and new product introduction decisions and its reactions to competitors' moves in those same variables? Do direct and strategic effects jointly explain how mutual forbearance is sustained in a multimarket setting?"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Dhar and Simonson (2003) in a dedicated theoretical and empirical role, not just as background. In the \"No-choice and context effects\" section, it draws directly on their finding that no-choice competes with compromise options to derive a signed hypothesis for a no-choice context parameter (expected negative effect). The authors then estimate an augmented model with these direct no-choice context terms and evaluate its fit, concluding that indirect context effects suffice in their setting. Because the citation motivates a specific hypothesis and model extension that is explicitly tested, the relation is substantive.",
+  "relation_description": "The citing paper builds on Dhar and Simonson's no-choice-versus-compromise claim to specify and test direct no-choice context terms in its choice model. It then qualifies that claim in this modeling context by finding those direct terms do not improve fit, implying the effect is captured indirectly through item utilities.",
+  "relation_type": "refines"
+}

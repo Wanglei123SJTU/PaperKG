@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s methods section explicitly states it benchmarks its model against “Libai-Muller-Peres (2009)” in rolling two-year holdout forecasts, indicating direct methodological comparison rather than a passing mention. The cited paper is an attrition-aware service diffusion/customer-equity model, which aligns closely with the citing paper’s acquisition–churn–valuation framework, so this pair is likely substantively related.",
+  "triage_decision": "keep_for_relation_judgment"
+}

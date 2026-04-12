@@ -1,0 +1,206 @@
+{
+  "papers_in_local_corpus": 1497,
+  "references_total": 73287,
+  "matched_reference_rows": 4593,
+  "unmatched_reference_rows": 68690,
+  "reference_match_rate_pct": 6.27,
+  "references_with_ref_doi": 58677,
+  "matched_by_doi": 4587,
+  "doi_match_rate_within_doi_refs_pct": 7.82,
+  "references_with_ref_article_title": 258,
+  "matched_by_title": 6,
+  "ambiguous_title_refs": 0,
+  "unique_directed_internal_edges": 4593,
+  "papers_with_outgoing_internal_matches": 1216,
+  "papers_with_incoming_internal_matches": 1091,
+  "matched_references_per_paper": {
+    "mean": 3.07,
+    "median": 2.0,
+    "max": 44
+  },
+  "top_15_by_incoming_internal_matches": [
+    {
+      "resolved_doi": "10.1509/jmkr.43.3.345",
+      "title": "The Effect of Word of Mouth on Sales: Online Book Reviews",
+      "official_year": 2006,
+      "incoming_internal_match_count": 60
+    },
+    {
+      "resolved_doi": "10.1509/jmkr.37.1.60.18718",
+      "title": "Consumer Choice between Hedonic and Utilitarian Goods",
+      "official_year": 2000,
+      "incoming_internal_match_count": 48
+    },
+    {
+      "resolved_doi": "10.1509/jmr.12.0420",
+      "title": "Spotlights, Floodlights, and the Magic Number Zero: Simple Effects Tests in Moderated Regression",
+      "official_year": 2013,
+      "incoming_internal_match_count": 43
+    },
+    {
+      "resolved_doi": "10.1509/jmr.10.0353",
+      "title": "What Makes Online Content Viral?",
+      "official_year": 2012,
+      "incoming_internal_match_count": 33
+    },
+    {
+      "resolved_doi": "10.1509/jmkr.41.4.467.47005",
+      "title": "Response Modeling with Nonrandom Marketing-Mix Variables",
+      "official_year": 2004,
+      "incoming_internal_match_count": 31
+    },
+    {
+      "resolved_doi": "10.1509/jmkr.47.1.3",
+      "title": "A Control Function Approach to Endogeneity in Consumer Choice Models",
+      "official_year": 2010,
+      "incoming_internal_match_count": 31
+    },
+    {
+      "resolved_doi": "10.1509/jmkr.43.2.259",
+      "title": "Licensing Effect in Consumer Choice",
+      "official_year": 2006,
+      "incoming_internal_match_count": 30
+    },
+    {
+      "resolved_doi": "10.1509/jmkr.40.2.131.19224",
+      "title": "E-Customization",
+      "official_year": 2003,
+      "incoming_internal_match_count": 28
+    },
+    {
+      "resolved_doi": "10.1509/jmkr.39.2.155.19084",
+      "title": "Earning the Right to Indulge: Effort as a Determinant of Customer Preferences toward Frequency Program Rewards",
+      "official_year": 2002,
+      "incoming_internal_match_count": 28
+    },
+    {
+      "resolved_doi": "10.1509/jmkr.48.3.457",
+      "title": "How Well Does Advertising Work? Generalizations from Meta-Analysis of Brand Advertising Elasticities",
+      "official_year": 2011,
+      "incoming_internal_match_count": 26
+    },
+    {
+      "resolved_doi": "10.1509/jmkr.40.4.481.19386",
+      "title": "Is 75% of the Sales Promotion Bump Due to Brand Switching? No, Only 33% Is",
+      "official_year": 2003,
+      "incoming_internal_match_count": 23
+    },
+    {
+      "resolved_doi": "10.1509/jmkr.42.2.141.62296",
+      "title": "New Empirical Generalizations on the Determinants of Price Elasticity",
+      "official_year": 2005,
+      "incoming_internal_match_count": 23
+    },
+    {
+      "resolved_doi": "10.1509/jmkr.2005.42.4.383",
+      "title": "Placebo Effects of Marketing Actions: Consumers May Get What They Pay For",
+      "official_year": 2005,
+      "incoming_internal_match_count": 22
+    },
+    {
+      "resolved_doi": "10.1509/jmkr.40.4.375.19385",
+      "title": "Understanding the Impact of Synergy in Multimedia Communications",
+      "official_year": 2003,
+      "incoming_internal_match_count": 22
+    },
+    {
+      "resolved_doi": "10.1509/jmkr.37.3.383.18782",
+      "title": "The Estimation of Pre- and Postpromotion Dips with Store-Level Scanner Data",
+      "official_year": 2000,
+      "incoming_internal_match_count": 21
+    }
+  ],
+  "top_15_by_outgoing_internal_matches": [
+    {
+      "resolved_doi": "10.1177/00222437241256710",
+      "title": "Mitigation in Marketing: Concept, Definition, and Scope",
+      "official_year": 2024,
+      "outgoing_internal_match_count": 44
+    },
+    {
+      "resolved_doi": "10.1177/0022243720965237",
+      "title": "The\n                    <i>Journal of Marketing Research</i>\n                    Today: Spanning the Domains of Marketing Scholarship",
+      "official_year": 2020,
+      "outgoing_internal_match_count": 31
+    },
+    {
+      "resolved_doi": "10.1177/00222437211054601",
+      "title": "Marketing Insights from Multimedia Data:  Text, Image, Audio, and Video",
+      "official_year": 2021,
+      "outgoing_internal_match_count": 25
+    },
+    {
+      "resolved_doi": "10.1509/jmkr.42.1.4.56891",
+      "title": "On the Use of Econometric Models for Policy Simulation in Marketing",
+      "official_year": 2005,
+      "outgoing_internal_match_count": 22
+    },
+    {
+      "resolved_doi": "10.1177/00222437221116058",
+      "title": "Paralanguage Classifier (PARA): An Algorithm for Automatic Coding of Paralinguistic Nonverbal Parts of Speech in Text",
+      "official_year": 2023,
+      "outgoing_internal_match_count": 19
+    },
+    {
+      "resolved_doi": "10.1177/00222437211068091",
+      "title": "Education and Marketing: Decision Making, Spending, and Consumption",
+      "official_year": 2022,
+      "outgoing_internal_match_count": 17
+    },
+    {
+      "resolved_doi": "10.1177/00222437221146728",
+      "title": "When and How Slow Motion Makes Products More Luxurious",
+      "official_year": 2023,
+      "outgoing_internal_match_count": 16
+    },
+    {
+      "resolved_doi": "10.1177/00222437241275927",
+      "title": "Driving Mobile App User Engagement Through Gamification",
+      "official_year": 2025,
+      "outgoing_internal_match_count": 16
+    },
+    {
+      "resolved_doi": "10.1509/jmr.14.0482",
+      "title": "The Influence of Serotonin Deficiency on Choice Deferral and the Compromise Effect",
+      "official_year": 2016,
+      "outgoing_internal_match_count": 15
+    },
+    {
+      "resolved_doi": "10.1509/jmr.12.0424",
+      "title": "Listening in on Social Media: A Joint Model of Sentiment and Venue Format Choice",
+      "official_year": 2014,
+      "outgoing_internal_match_count": 14
+    },
+    {
+      "resolved_doi": "10.1177/0022243720910104",
+      "title": "Advertising Effectiveness for Multiple Retailer-Brands in a Multimedia and Multichannel Environment",
+      "official_year": 2020,
+      "outgoing_internal_match_count": 14
+    },
+    {
+      "resolved_doi": "10.1177/0022243720929676",
+      "title": "Design and Governance of Multichannel Sales Systems: Financial Performance Consequences in Business-to-Business Markets",
+      "official_year": 2020,
+      "outgoing_internal_match_count": 14
+    },
+    {
+      "resolved_doi": "10.1177/00222437231200807",
+      "title": "Cause-Related Marketing as Sales Promotion",
+      "official_year": 2024,
+      "outgoing_internal_match_count": 14
+    },
+    {
+      "resolved_doi": "10.1509/jmr.13.0532",
+      "title": "Lay Rationalism: Individual Differences in using Reason versus Feelings to Guide Decisions",
+      "official_year": 2015,
+      "outgoing_internal_match_count": 13
+    },
+    {
+      "resolved_doi": "10.1177/0022243720922853",
+      "title": "Opening the Umbrella: The Effects of Rebranding Multiple Category-Specific Private-Label Brands to One Umbrella Brand",
+      "official_year": 2020,
+      "outgoing_internal_match_count": 13
+    }
+  ],
+  "excluded_nonresearch_rows": 3
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops a multiperiod game-theoretic model that jointly captures consumer consent for tracking, funnel-state inference, and repeat advertising decisions.",
+    "Shows that consumers' privacy choices must be analyzed in equilibrium with advertiser and ad-network reactions, not in isolation, because those reactions determine both ad repetition and informational value.",
+    "Provides conditions under consent regulation under which better targeting can reduce ad waste yet still lower sales and ad-network profit."
+  ],
+  "context": "The paper studies online display advertising in a consent-regulated environment (e.g., GDPR/CCPA) where consumers can opt in or out of tracking. An advertiser buys impressions from an ad network as a consumer moves through purchase-funnel stages across website visits.",
+  "design_and_data": "The study is a two-period game-theory model solved for subgame-perfect equilibrium with one consumer, one advertiser, and one ad network. The consumer transitions between top- and bottom-funnel states based on ad attention probability (mu) and category-interest probability (lambda), purchases at an exogenous price p, and incurs disutility from repeat-ad wearout. The ad network sells impressions via second-price auctions with reserve prices; tracking consent determines whether Period 2 ads are targeted by inferred funnel state or untargeted. Extensions add heterogeneous intrinsic privacy costs across a unit mass of consumers and product-category-interest inference for opt-in consumers.",
+  "focal_constructs": [
+    "consumer tracking consent",
+    "targeted versus untargeted advertising",
+    "purchase funnel states",
+    "ad effectiveness",
+    "ad wearout sensitivity",
+    "repeat ad intensity",
+    "expected product surplus",
+    "ad network profit"
+  ],
+  "main_findings": [
+    "Opting in to tracking reduces repeat ads only when ad effectiveness is intermediate; for low or high ad effectiveness, opting in increases repeat ads.",
+    "Consumers opt in when ad effectiveness is intermediate or when wearout sensitivity is low; with high wearout sensitivity, opt-in behavior can be nonmonotonic in ad effectiveness.",
+    "Relative to an all-opt-in benchmark, giving consumers privacy choice weakly increases consumer surplus but weakly decreases repeat ad exposure, product consumption, and total ad revenue, and ad-network profit can fall as ad effectiveness rises if consumers switch to opt out."
+  ],
+  "one_line_summary": "Using a two-period purchase-funnel game, the paper shows that consent-based tracking can either reduce or increase repeat advertising depending on ad effectiveness, with counterintuitive effects on consumer outcomes and ad-market profits.",
+  "relation_to_prior_work": "extends dynamic targeted-advertising research by modeling cross-period advertising along a purchase funnel where earlier ad exposures create later funnel-state heterogeneity. Compared with related privacy work, it lets ad intensity depend on privacy choice and allows ads to have both informational benefits and wearout costs, leading to different predictions about tracking and ad repetition.",
+  "research_gap": "Prior work had not explicitly modeled how cross-period advertising interacts with consumers' movement along purchase-funnel states under consent-based tracking. Related privacy models often abstract from privacy-driven changes in ad intensity or treat ads as purely harmful, leaving unclear when consent improves targeting efficiency versus increases repetitive exposure.",
+  "research_question": "Under regulations that require consumer consent for tracking, when will consumers opt in versus opt out once they trade off ad informational benefits against ad wearout? How do these privacy choices change advertiser repeat-ad targeting, consumer ad exposure and purchases, and ad-network revenue in equilibrium?"
+}

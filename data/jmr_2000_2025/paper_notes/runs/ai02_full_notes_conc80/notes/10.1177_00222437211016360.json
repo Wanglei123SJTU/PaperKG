@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper demonstrates that payment and certificate-based incentives can increase user engagement in MOOCs.",
+    "It isolates two temporal mechanisms of payment on engagement, the certificate effect and the sunk-cost effect, rather than attributing paid-free differences only to selection.",
+    "It shows how granular longitudinal engagement data and quasi-experimental variation across paying and nonpaying users can separate temporal effects from cross-sectional user differences and inform course and payment design."
+  ],
+  "context": "The study is set in massive open online courses on Coursera, using courses offered by a large public university under a freemium model where users could pay for a signature-track certificate. The data cover courses from 2012 to 2016, with typical course length around 10 weeks.",
+  "design_and_data": "The authors use granular panel data from over 70 courses, including enrollment and payment timing, clickstream session time, quiz and assignment attempts, grades, and forum activity. Engagement is measured primarily as time invested per user-quiz block, with forum activity used as an alternative metric. They estimate quiz-block regressions with user-course and quiz-paid fixed effects and prior-investment controls, exploiting variation in whether users are before versus after the passing-grade threshold (certificate effect) and variation in payment recency among paying users (sunk-cost effect). Robustness checks include alternative threshold definitions, matched samples using boosted-tree propensity scores, and additional controls such as forum-content exposure.",
+  "focal_constructs": [
+    "user engagement",
+    "certificate effect",
+    "sunk-cost effect",
+    "payment for signature track",
+    "passing grade threshold",
+    "intrinsic ability",
+    "intrinsic motivation",
+    "payment timing recency"
+  ],
+  "main_findings": [
+    "Paying users show about 8%-9% higher engagement than nonpaying users before crossing the passing-grade threshold, and this paid-free gap shrinks after the threshold, consistent with a certificate effect.",
+    "Payment is associated with an immediate engagement increase of about 17%-20%, but this effect decays quickly and is largely gone within about four weeks, consistent with a transient sunk-cost effect.",
+    "The certificate effect is stronger for early payers than late payers, while the sunk-cost effect shows little meaningful heterogeneity by early versus late payment."
+  ],
+  "one_line_summary": "Using Coursera panel data, the paper finds that paying for certificates increases MOOC engagement through a persistent certificate effect (about 8%-9% before passing) and a larger but short-lived sunk-cost effect (about 17%-20% right after payment).",
+  "relation_to_prior_work": "extends prior education research that has largely emphasized cross-sectional differences by identifying temporal payment-related engagement effects around milestone progress in MOOCs. It also connects to marketing incentive research by examining certificate-based incentives with directly observed longitudinal effort, unlike settings where effort is typically unobserved.",
+  "research_gap": "MOOC outcomes are much better for paying users, but it is unclear how much of this gap reflects selection on intrinsic ability or motivation versus effects caused by payment itself. The paper argues that prior work has not clearly identified temporal mechanisms tied to payment and progress toward passing thresholds using granular longitudinal engagement data.",
+  "research_question": "Does paying for a MOOC certificate causally increase engagement with course content, beyond preexisting differences between paying and nonpaying users? If so, can the engagement increase be decomposed into a certificate-driven motivation effect tied to passing thresholds and a separate sunk-cost effect from the act of payment?"
+}

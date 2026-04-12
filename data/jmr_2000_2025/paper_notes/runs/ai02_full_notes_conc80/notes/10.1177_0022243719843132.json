@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops a novel hybrid demand estimation approach that fuses conjoint stated choices with detailed revealed purchase panels from a separate random sample, preserving inference for new-to-market attributes while correcting distortions.",
+    "It provides a rare field-based predictive validity test using repeated individual-level actual purchases, including holdout consumers and forecasts months after conjoint collection, and reports superior performance over conjoint and a strong benchmark fusion model.",
+    "It quantifies selection versus contextual bias in conjoint-based inference and demonstrates how the model supports concrete managerial decisions on product design and store-level pricing."
+  ],
+  "context": "The empirical setting is single-cup Greek yogurt purchases at a major grocery retailer in 2011, around category growth, brand entry/exit, and a private label launch. The retailer ran a conjoint survey before launch and had loyalty-card purchase histories across 79 stores.",
+  "design_and_data": "The authors estimate a Bayesian hierarchical choice model (Stan) that links stated preference conjoint data (SPss) and revealed preference purchase data from a random sample (RPrs) using a scale parameter plus mean and variance distribution shifters on selected common attributes. The conjoint survey invited about 2,200 loyalty members with recent Greek yogurt purchase; 510 completed choice-based conjoint tasks (12 tasks each, 4 product profiles plus none). Loyalty-card data include purchases for a random sample of 4,288 customers and the 510 survey respondents from February to October 2011; for balanced fusion they use 510 random-sample consumers in estimation and keep the remainder for holdout prediction tests. Validation compares estimation and two forecast windows (before and after private label entry) using predictive log-likelihood, RMSE, and revenue prediction metrics.",
+  "focal_constructs": [
+    "choice-based conjoint",
+    "revealed preference consumer panel data",
+    "hybrid RP-SP data fusion",
+    "new-to-market attributes",
+    "selection bias",
+    "contextual bias",
+    "predictive validity",
+    "store-level pricing"
+  ],
+  "main_findings": [
+    "The proposed CPC model predicts actual purchases better than both conjoint-only and the BENCH hybrid model, and the paper reports about a 50% reduction in individual-level RMSE versus standard conjoint.",
+    "Conjoint data exhibit multiple distortions relative to actual purchases (including inside-versus-outside preference, price sensitivity, state dependence, heterogeneity, and some relative attribute reversals), and CPC adjustments improve alignment of inferred trade-offs with revealed preferences.",
+    "Using actual purchases for survey respondents, the authors find that after observable controls most remaining bias is contextual rather than selection-based (selection is usually less than one-third, but up to about half for price sensitivity), and managerial counterfactuals show conjoint-only decisions would set much higher prices and can yield up to 45% lower profits than CPC-based decisions."
+  ],
+  "one_line_summary": "In a Greek yogurt field application, the paper shows that a Bayesian hybrid conjoint-consumer-panel model with explicit distortion adjustments materially improves forecasting of postlaunch individual purchases for products with new attributes.",
+  "relation_to_prior_work": "extends prior stated-preference/revealed-preference fusion frameworks (especially Swait and Andrews 2003; Feit, Beltramo, and Feinberg 2010) by allowing flexible mean and variance preference shifts, not just a single scale adjustment, when linking conjoint and market data. It also extends prior validation evidence by testing repeated individual-level future purchase forecasts on both estimation and holdout consumers over multiple periods.",
+  "research_gap": "The paper argues that evidence on conjoint's ability to predict future market outcomes is limited, especially for demanding tests using repeated individual-level actual purchases over time. It also highlights that existing fusion approaches do not fully handle both sample-selection and choice-context distortions while still recovering preferences for new-to-market attributes.",
+  "research_question": "Can stated preference conjoint data be fused with revealed purchase panel data from a random target-population sample to recover demand for products with new-to-market attributes and improve real-market forecasts? How can such a model account for selection and contextual distortions in conjoint responses while remaining useful for product and pricing decisions?"
+}

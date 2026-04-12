@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited work is a segmentation/positioning methodology paper, while the citing paper develops a different Bayesian finite-mixture regression with segment-level variable selection and reports comparisons only to Flexmix and RegmixMH (not to the cited method). Because the matched evidence is only a DOI-level reference entry with no in-text citation context, there is insufficient evidence to safely classify this as obvious mention-only or clearly substantive.",
+  "triage_decision": "uncertain"
+}

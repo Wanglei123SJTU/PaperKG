@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides an explicit definition of structural modeling in marketing as optimization-based behavior under constraints with policy-invariant primitives.",
+    "Argues that out-of-sample prediction and parameter stability are neither necessary nor sufficient criteria for policy simulation, particularly when policy regimes change.",
+    "Identifies key opportunities and challenges for marketing scholars in structural demand and supply modeling, given marketing's rich data and policy problems."
+  ],
+  "context": "The paper is set in marketing policy analysis, especially firm decisions on price, promotion, and advertising and consumer responses over time. It discusses both disaggregate household-level data and aggregate store/market-level data environments common in consumer markets.",
+  "design_and_data": "This is a conceptual commentary article rather than an original empirical study. The authors contrast reduced-form and structural approaches using theoretical examples (for example, high-low versus everyday low price environments) and a utility-maximization demand formulation. They synthesize prior studies from marketing and industrial organization to discuss dynamic demand, supply-side modeling, endogeneity, and policy counterfactuals.",
+  "focal_constructs": [
+    "structural modeling",
+    "policy simulation",
+    "reduced-form models",
+    "Lucas critique",
+    "policy-invariant primitives",
+    "dynamic demand",
+    "supply-side modeling",
+    "endogeneity"
+  ],
+  "main_findings": [
+    "Reduced-form models can pass standard diagnostics and out-of-sample tests yet still give misleading predictions for policy changes under regime shifts.",
+    "Predictive validation and parameter stability tests alone cannot determine whether a model is useful for policy simulation; more demanding regime-shift validation or confidence in structural primitives is required.",
+    "For policy analysis, structural models should explicitly represent optimizing behavior and can validly focus on either demand or supply without being fully comprehensive."
+  ],
+  "one_line_summary": "This commentary argues that credible marketing policy simulation requires structurally grounded, policy-invariant models rather than reliance on reduced-form fit and stability diagnostics.",
+  "relation_to_prior_work": "challenges Franses (2005) by arguing that predictive performance and parameter stability are not sufficient or necessary tests for policy-simulation validity. It refines the structural-modeling discussion by emphasizing policy-regime changes, explicit optimization foundations, and the practical trade-offs in demand and supply specification.",
+  "research_gap": "The authors argue that marketing research is highly policy oriented but often skirts direct policy evaluation. They highlight a gap between common reduced-form diagnostic practice and the need for models that remain valid when policy environments change.",
+  "research_question": "What makes a model valid for marketing policy simulation, especially when policy regimes shift? The paper asks how structural models should be defined and how demand-side and supply-side modeling choices affect the credibility of policy counterfactuals."
+}

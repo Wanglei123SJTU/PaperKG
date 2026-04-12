@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces Brand Concept Maps (BCM), a structured consumer-mapping methodology to elicit brand associations and represent their network structure in consensus brand maps.",
+    "Provides standardized, rule-based aggregation procedures for combining individual brand maps into a consensus map without specialized statistical expertise.",
+    "Demonstrates the method's measurement quality through split-half reliability and nomological and convergent validity evidence, and highlights its managerial usefulness for identifying and tracking core brand associations."
+  ],
+  "context": "The empirical application is the Mayo Clinic brand in the U.S. healthcare context. Study 1 uses patients and nonpatients from two Midwestern cities, and Study 2 uses mall-intercept shoppers with at least some familiarity with Mayo Clinic.",
+  "design_and_data": "Study 1 used one-on-one interviews with 165 consumers (90 current/former Mayo patients and 75 nonpatients) who built BCMs using a card set of 25 salient Mayo associations and single/double/triple connection lines; mapping took about 15-25 minutes. The authors coded association presence, link strength, hierarchical level, and superordinate/subordinate placement, then applied a five-step frequency-based aggregation procedure to build consensus maps for segments. They assessed split-half reliability (random halves of the patient sample) and nomological validity via known-groups comparisons based on self-reported familiarity (very familiar vs somewhat familiar). Study 2 recruited 49 mall-intercept respondents (29 BCM, 20 attribute-rating scales), randomly assigned to method, to test convergent validity between BCM outputs and conventional scale ratings.",
+  "focal_constructs": [
+    "brand association networks",
+    "consensus brand maps",
+    "core brand associations",
+    "first-order associations",
+    "association interconnections",
+    "brand familiarity (expertise)",
+    "split-half reliability",
+    "convergent validity"
+  ],
+  "main_findings": [
+    "BCM produced segment-sensitive consensus maps: patients showed more core and first-order associations, more interconnections, and stronger links than nonpatients, and very familiar respondents showed more complex networks than somewhat familiar respondents.",
+    "Split-half reliability was acceptable to high for key map components (phi = .92 for core associations, phi = .78 for first-order associations, phi = .50 for specific links), with coefficient alpha about .70 for link presence and .78 for link strength.",
+    "BCM outputs converged strongly with attribute-rating scales in Study 2 (r = .844 for mention frequencies, r = .837 for hierarchy-weighted frequencies, and r = .845 for line-strength-weighted frequencies)."
+  ],
+  "one_line_summary": "The paper introduces Brand Concept Maps (BCM), a structured method for eliciting and aggregating consumers' brand association networks into consensus maps, and validates it with two studies on the Mayo Clinic brand.",
+  "relation_to_prior_work": "introduces a standardized consumer-mapping approach grounded in concept-mapping ideas as a more accessible alternative to labor-intensive ZMET procedures and statistically demanding analytical mapping methods. It adds explicit aggregation rules to convert individual maps into consensus maps and evaluates the method with traditional reliability and validity criteria.",
+  "research_gap": "Existing brand-mapping methods were either labor intensive and dependent on specialized interviewing expertise or required unfamiliar analytical/statistical techniques, which limited practical accessibility and flexibility. The paper addresses the need for a standardized and easier way to produce consensus brand association maps with evidence of reliability and validity.",
+  "research_question": "Can a structured Brand Concept Maps procedure reliably elicit consumers' brand association networks and aggregate individual maps into a valid consensus map of a brand? Does BCM capture expected differences across consumer groups and converge with conventional attribute-rating measures of brand perceptions?"
+}

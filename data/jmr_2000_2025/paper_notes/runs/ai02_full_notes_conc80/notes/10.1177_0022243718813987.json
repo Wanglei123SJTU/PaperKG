@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper provides one of the first large-scale causal estimates of incremental retargeted display advertising effects using randomized variation in both frequency and timing.",
+    "It demonstrates a novel, low-cost PSA tag-campaign method that enables valid advertiser-side online ad experiments when platforms do not report outcomes for unexposed users.",
+    "It documents policy-relevant temporal patterns, including immediate response and intertemporal complementarity, to inform retargeting schedule design."
+  ],
+  "context": "The study is conducted with BuildDirect, an online home-improvement retailer (Canada-based, marketing primarily to U.S. customers) that spends heavily on retargeting. Retargeting campaigns were run on Google DoubleClick in the presence of concurrent nonexperimental campaigns.",
+  "design_and_data": "In a large randomized field experiment launched in November 2014, users were assigned to retargeting frequency-cap schedules when they left BuildDirect without purchase. Product viewers were assigned week-level caps F0/F5/F15 over four weeks (76 usable conditions after 5 implementation-error conditions were dropped), while cart creators were assigned F0/F15 over two two-week periods (4 conditions). Parallel PSA tag campaigns were run for each condition to identify and track users; estimates are local average treatment effects for tagged users (about 71.1% coverage). The linked data contain user-level timestamps for impressions from experimental and nonexperimental campaigns and website outcomes (visits, cart creation, orders, sample orders), with analysis samples of 234,595 product viewers and 23,710 cart creators.",
+  "focal_constructs": [
+    "retargeted display advertising",
+    "frequency caps",
+    "ad timing",
+    "website revisit behavior",
+    "intertemporal advertising complementarity",
+    "intent-to-treat effects",
+    "PSA tag campaigns"
+  ],
+  "main_findings": [
+    "Turning on experimental retargeting increased the four-week return-to-site probability by 2.96 percentage points (14.6% relative) for product viewers and by 2.04 percentage points (5.43% relative) for cart creators, with positive effects still visible over eight weeks.",
+    "Ad effects were front-loaded: week 1 was most effective, about 33% of week-1 effect occurred on day 1, and week-level effects declined over time.",
+    "Advertising showed cross-week complementarity: week-2 ads had detectable lift mainly when week-1 advertising was on, and always-on high frequency (F15 throughout) produced the largest revisit effect; the authors find no evidence that marginal effects vanish at higher frequency caps."
+  ],
+  "one_line_summary": "Using a randomized field experiment at BuildDirect, the paper shows that retargeted display ads increase website return visits, with strongest effects immediately after site exit and complementary effects across weeks.",
+  "relation_to_prior_work": "extends the field-experimental online advertising literature by randomizing week-level retargeting frequency caps and estimating intent-to-treat effects on revisit behavior. It contrasts with prior retargeting studies the authors cite that focused on banner content and personalization, and complements Johnson, Lewis, and Nubbemeyer (2017) by studying frequency and timing effects.",
+  "research_gap": "Prior retargeting studies cited by the authors mainly examined ad content or personalization, while evidence on the causal incremental effect of retargeted impressions and their temporal scheduling was limited. The authors also highlight a practical measurement gap: ad platforms typically report outcomes only for ad-exposed users, making standard treatment-control comparisons difficult for advertisers.",
+  "research_question": "The paper asks whether incremental retargeted ad impressions causally change behavior among users who recently visited the advertiser's website, including both product viewers and cart creators. It also asks when retargeting is most effective, how effectiveness varies with frequency and timing over the campaign, and whether early advertising changes the effect of later advertising."
+}

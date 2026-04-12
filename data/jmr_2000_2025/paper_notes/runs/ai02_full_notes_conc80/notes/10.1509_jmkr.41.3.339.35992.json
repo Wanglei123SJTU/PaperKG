@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides a large-scale empirical analysis of pre- and postpromotion dips by estimating 39,441 UPC-level dip elasticities from weekly store scanner data.",
+    "Links dip elasticities to 24 UPC, category, and store trading-area customer characteristics, showing systematic cross-sectional heterogeneity.",
+    "Combines two promotion-response directions highlighted by the literature: dynamic pre/postpromotion effects and cross-sectional generalization across items, categories, and stores."
+  ],
+  "context": "The study uses Dominick's supermarket scanner data for frequently purchased goods in 83 stores over 399 weeks across 10 categories (for example, toilet paper, juices, tuna, detergents, crackers). Store trading-area demographic profiles come from U.S. Census-based variables in the database.",
+  "design_and_data": "The authors estimate a UPC-store level distributed lead-lag log-sales model with four price leads and four lags, plus controls for competitive prices, number of UPCs, bonus/bundle/coupon indicators, seasonality, trend, and AR(1) errors. They split the 399-week period into two halves and estimate models separately by half. After excluding UPCs with no promotions, insufficient observations, and extreme elasticity estimates, they retain 39,441 pre- and postpromotion dip elasticity estimates. In a second stage, they regress these estimates on 24 characteristics using weighted random-effects models with brand-level random effects.",
+  "focal_constructs": [
+    "prepromotion dip elasticity",
+    "postpromotion dip elasticity",
+    "stockpiling",
+    "deceleration",
+    "promotion predictability",
+    "UPC price and promotion frequency",
+    "category storability and budget share",
+    "store trading-area demographics"
+  ],
+  "main_findings": [
+    "Postpromotion dips are generally larger than prepromotion dips across categories, and on average about one-third of the promotion bump is offset by pre- and postpromotion dips.",
+    "Both pre- and postpromotion dips are stronger for higher-priced, more frequently promoted, more mature, and higher-market-share UPCs, and are smaller for UPCs with deeper discounts.",
+    "Postpromotion dips are larger when promotion patterns are less predictable and in stores with older, larger-household, car-owning clientele; private-label status is not significantly different."
+  ],
+  "one_line_summary": "Using Dominick's weekly scanner data, the paper estimates UPC-level pre- and postpromotion dip elasticities and shows that UPC, category, and store trading-area customer characteristics significantly explain their variation.",
+  "relation_to_prior_work": "extends Van Heerde, Leeflang, and Wittink's lead-lag dip estimation approach to many categories and items, and directly relates estimated dips to product, category, and consumer-environment characteristics.",
+  "research_gap": "Although prior work had shown that pre- and postpromotion dips can be detected in store data, there was limited direct evidence on how these dips vary across UPCs, categories, and store clientele. The paper addresses explicit calls to apply lead-lag models more broadly and explain commonalities and idiosyncrasies in dip dynamics.",
+  "research_question": "How do pre- and postpromotion sales dips in weekly store data vary across UPCs, categories, and store trading-area customer profiles? Which observable UPC, category, and demographic characteristics are associated with stronger or weaker dip elasticities?"
+}

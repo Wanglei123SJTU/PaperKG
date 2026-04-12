@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in the model-development section as a concrete methodological benchmark, not just as a background list citation. The authors explicitly contrast their demand specification with Chintagunta (2002), noting that they parameterize outside-good utility with inventory rather than fixing it at zero, and tie this to how simulated future purchase probabilities are computed. This indicates a clear functional role in motivating and justifying a modeling choice in the citing paper.",
+  "relation_description": "The citing paper builds on prior category-pricing modeling exemplified by Chintagunta (2002) and modifies a specific assumption in that setup. It refines the demand specification by modeling outside-option utility with inventory effects for its targeting-profit simulations.",
+  "relation_type": "refines"
+}

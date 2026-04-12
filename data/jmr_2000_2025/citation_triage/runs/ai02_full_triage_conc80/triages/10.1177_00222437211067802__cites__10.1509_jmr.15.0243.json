@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s stated contribution and prior-work positioning are about TV ad energy, ad-tuning/avoidance, and audio-based measurement at scale, while the cited paper is about frontline service-recovery interactions, verbal/nonverbal cue dictionaries, and CSAT dynamics in airline complaints. There is no explicit overlap in the provided notes suggesting the cited study is a theory, method, benchmark, or direct comparison source for the ad-energy analyses, and the raw evidence only shows a single DOI-level reference-list match without in-text context. This looks most consistent with a peripheral/background mention rather than substantive use.",
+  "triage_decision": "drop_obvious_mention_only"
+}

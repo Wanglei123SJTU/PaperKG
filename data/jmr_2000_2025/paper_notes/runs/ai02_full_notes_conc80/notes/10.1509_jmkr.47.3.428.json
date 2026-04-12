@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides a structural framework for studying firms' optimal dynamic pricing under indirect network effects, consumer heterogeneity, and oligopolistic competition.",
+    "Estimates a hardware demand system with indirect network effects and latent consumer segments, and numerically solves firms' dynamic pricing game in Markov perfect equilibrium.",
+    "Enables policy simulations that account for endogenous price adjustments under counterfactual strategies, such as changes in launch timing, game availability, and storage format choice."
+  ],
+  "context": "The empirical setting is the U.S. 32-/64-bit video game console market, focusing on Sony PlayStation and Nintendo 64 after Sega Saturn's early decline. The study period starts when N64 entered in September 1996, when PlayStation already had about one million units of installed base.",
+  "design_and_data": "The paper uses monthly data on console prices, unit sales, and number of compatible games for PlayStation and N64 (66 observations per console). Demand is estimated with a latent-class discrete-choice model (two segments) that includes price, software variety, and holiday effects, using GMM with input-price instruments (producer price indexes for computers, storage devices, and audio/video devices). A log-linear software provision equation links software variety to installed base to capture indirect network effects. The author then solves a finite-horizon (60-month) dynamic duopoly pricing game via numerical dynamic programming for a pure-strategy Markov perfect equilibrium and runs counterfactual policy simulations.",
+  "focal_constructs": [
+    "price skimming",
+    "penetration pricing",
+    "indirect network effects",
+    "consumer heterogeneity",
+    "dynamic oligopoly pricing",
+    "Markov perfect equilibrium",
+    "first-mover advantage",
+    "software variety"
+  ],
+  "main_findings": [
+    "The model reproduces observed patterns in which console prices fall over time while Sony's wholesale markup rises, and it implies that indirect network effects and consumer heterogeneity are similarly important for pricing dynamics.",
+    "Policy simulations indicate Nintendo could have won the console war with either about 10% more compatible games or a one-million-unit installed-base head start at PlayStation's entry point.",
+    "A counterfactual switch by Nintendo from cartridges to CD-ROM would not have been beneficial unless it increased N64 game availability by more than about 40%."
+  ],
+  "one_line_summary": "The paper builds and estimates a dynamic structural model of the PlayStation-N64 duopoly to evaluate whether optimal pricing is skimming or penetration under network effects and to quantify Nintendo's counterfactual strategic options.",
+  "relation_to_prior_work": "extends the empirical network-effects literature by explicitly solving firms' dynamic pricing policies, not just testing for network effects, so policy experiments can incorporate endogenous price responses. It also contrasts with prior work by modeling oligopolistic competition together with persistent consumer heterogeneity and declining marginal costs in this market.",
+  "research_gap": "Prior empirical studies on indirect network effects typically document network effects but do not solve firms' optimal dynamic pricing policies. Without an explicit dynamic pricing model, policy counterfactuals are hard to evaluate because firms would re-optimize prices when market conditions change.",
+  "research_question": "How should console firms optimally price over time when consumer heterogeneity pushes toward skimming but indirect network effects push toward penetration pricing under oligopolistic competition? In the PlayStation-N64 war, how would alternative strategies such as different launch timing, greater game support, or a different storage format have changed prices, market shares, and profits?"
+}

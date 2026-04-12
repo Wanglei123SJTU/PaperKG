@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces metaphor-enabled marketplace sentiment analysis (MEMSA), a researcher-driven, computer-augmented method that combines metaphor analysis with automated sentiment analysis.",
+    "Adds a rule-based word-pair approach that uses metaphor target-source structure to improve sentiment-object identification in large text corpora.",
+    "Provides a step-by-step framework (validation and dictionary creation, metaphor characterization, longitudinal analysis, and triangulation) and demonstrates it on consumer debt discourse."
+  ],
+  "context": "The paper is a methodological marketing study of marketplace discourse, illustrated with consumer debt coverage in news media and with U.S. presidential campaign speeches. Managerial implications are framed from the perspective of a nonexploitative financial institution (a credit union).",
+  "design_and_data": "The article is a methodological demonstration with an empirical illustration rather than a hypothesis-testing study. For the main illustration, the authors use the News on the Web corpus (over 700 newspaper sources across nine consecutive years), scan 10% of debt-related articles (275 articles), and inspect over 1,000 keyword-in-context excerpts to build custom metaphor dictionaries. Two authors plus a research assistant code candidate metaphor words into conceptual domains, producing dictionaries with over 100 metaphor words, then validate performance through saturation checks; reported dictionary accuracy is above 80%. For triangulation, they analyze a second corpus of 2016 U.S. campaign speeches (36 Clinton speeches, about 114,000 words; 82 Trump speeches, about 440,000 words).",
+  "focal_constructs": [
+    "marketplace sentiments",
+    "conceptual metaphors",
+    "linguistic metaphors",
+    "dictionary-based sentiment analysis",
+    "target-source metaphor structure",
+    "object identification challenge",
+    "sentiment-in-context challenge",
+    "consumer debt discourse"
+  ],
+  "main_findings": [
+    "In the debt illustration, MEMSA word-pair dictionaries correctly identified and labeled debt metaphors with over 80% accuracy, with an omission rate around 10%, and reduced false positives from literal word usage.",
+    "In news discourse on consumer debt, Debt is Weight is the most prevalent conceptual metaphor, while Debt is Captivity, Journey, and Enemy are secondary, and Weight and Captivity contest dominance around 2015-2016.",
+    "In 2016 campaign speeches, Debt is Captivity appears much more in Clinton's discourse than Trump's, while Debt is Weight appears at similarly low levels for both, consistent with different sentiment stances toward debt."
+  ],
+  "one_line_summary": "This paper proposes MEMSA, a metaphor-enabled extension of dictionary sentiment analysis that uses target-source word pairs to recover richer, object-specific marketplace sentiments in large text corpora.",
+  "relation_to_prior_work": "introduces a hybrid extension to established dictionary-based sentiment analysis by incorporating conceptual metaphor theory and qualitative interpretation. It responds to prior critiques that automated sentiment methods detect polarity better than sentiment targets and flatten contextual emotion. It also scales prior metaphor-focused qualitative marketing insights to big textual data.",
+  "research_gap": "Prior sentiment analysis methods in marketing and NLP are strong at polarity detection but weak at identifying the object of sentiment, separating good or bad content from sentiment toward that object, and retaining contextual emotional texture. Prior metaphor work in marketing is largely experimental or qualitative and has not been systematically scaled to big text data for marketplace sentiment analysis.",
+  "research_question": "How can researchers combine qualitative metaphor interpretation with automated text analysis to improve marketplace sentiment analysis in big textual data? Specifically, can metaphor target-source patterns be operationalized in dictionary methods to identify sentiment targets and provide richer sentiment-in-context than polarity-only approaches?"
+}

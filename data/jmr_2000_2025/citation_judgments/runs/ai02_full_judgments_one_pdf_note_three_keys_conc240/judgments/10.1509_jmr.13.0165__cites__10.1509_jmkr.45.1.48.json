@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the citing PDF, Villanueva et al. (2008) is cited at the exact point where the authors describe their significance-testing procedure: Monte Carlo simulations with 250 replications for pairwise comparisons of cumulative effects, and this note is repeated in Table 4. This indicates a concrete methodological use rather than a generic background mention. The citation does not frame the paper's core theory, but it materially informs how key hypothesis comparisons are evaluated.",
+  "relation_description": "The citing paper applies the Monte Carlo simulation approach from Villanueva et al. (2008) to conduct pairwise comparisons of cumulative impulse-response effects. It uses the cited study as a methodological template for testing differences across new vs. existing buyers/sellers and across stages.",
+  "relation_type": "applies"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "mention_only",
+  "rationale": "The cited paper appears in a grouped literature citation alongside several design papers to support a general point: utility-balanced choice designs can improve precision but typically require prior partworth information. The citing paper does not single out Sandor and Wedel's method, reuse its Bayesian criterion or algorithm, or build a direct modeling extension from it. Its role is background positioning for the authors' contrasting idea of random-subset autobalancing, not a paper-specific dependency.",
+  "relation_description": null,
+  "relation_type": null
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Identifies the board of directors, via board interlocks, as a critical antecedent of marketing department power.",
+    "Provides evidence that board interlock effects remain potent for MDP in recent years, cautioning against claims that interlock-based adoption effects have disappeared.",
+    "Adapts and applies the 3R (reach-richness-receptivity) framework to the board interlock context to explain heterogeneity in interlock effects."
+  ],
+  "context": "The study examines publicly listed firms in the Russell 3000 and TSX composite universes that are connected through shared directors in annual board interlock networks. It covers 411 four-digit SIC industries over 2007-2021.",
+  "design_and_data": "Using Equilar board and TMT data (2006-2021), the authors construct yearly board interlock networks and merge firm and industry controls from COMPUSTAT. After excluding isolates and firms without COMPUSTAT coverage, the final unbalanced panel includes 6,008 firms and 43,033 firm-year observations (MDP outcome observed for 2007-2021, predictors lagged from 2006-2020). MDP is measured as the first principal component of five TMT-based indicators: marketing executive share, compensation share, highest and cumulative marketing hierarchy levels, and title-length-based responsibility breadth. The analysis uses a lagged linear-in-means panel model with industry and year effects, firm-level random effects, and a Bayesian control-function IV approach with instruments from second- and third-degree interlocked firms.",
+  "focal_constructs": [
+    "marketing department power (MDP)",
+    "board interlocks",
+    "board interlock network reach",
+    "board interlock network richness",
+    "firm receptivity to interlock information",
+    "top management team marketing representation",
+    "board of directors"
+  ],
+  "main_findings": [
+    "MDP in first-degree board-interlocked firms positively affects MDP in focal firms.",
+    "The interlock effect is stronger when the focal firm's interlock network has greater reach and richness, and when receptivity is higher (marketer on TMT/board and younger TMT/board).",
+    "The MDP interlock effect remains positive and does not decline over 2007-2021, even as interlock networks become sparser, while average MDP itself declines over the period."
+  ],
+  "one_line_summary": "Using a large 2007-2021 panel, the paper shows that MDP diffuses across board interlocks and that this effect is amplified by network reach, network richness, and organizational receptivity.",
+  "relation_to_prior_work": "extends prior MDP research that emphasized performance outcomes by identifying a board-level network antecedent, and refines board interlock research by showing a persistent adoption effect for MDP during a period when some work reported fading interlock effects.",
+  "research_gap": "Prior studies show that MDP matters for performance and may be declining, but they provide limited evidence on antecedents of MDP and largely overlook boards of directors. At the same time, recent board interlock work questions whether interlocks still transmit corporate practices, leaving unclear whether interlocks can influence MDP.",
+  "research_question": "Do board interlocks act as conduits through which MDP in interlocked firms affects MDP in a focal firm? How do reach and richness of the focal board interlock network and the focal firm's receptivity condition this effect, and does the effect weaken over time as interlock networks become less connected?"
+}

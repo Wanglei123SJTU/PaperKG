@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper claims to show that consumers overvalue multifunctional products not only because of usage overestimation but also because they often fail to estimate feature usage before purchase.",
+    "It claims that a simple prechoice usage-estimation intervention shifts decision elaboration from having features to using features, with key moderators of need for cognition, feature trivialness, and materialism.",
+    "It claims that this intervention has downstream benefits, increasing postconsumption satisfaction and recommendation likelihood in an incentive-compatible setting."
+  ],
+  "context": "The studies examine consumer choice of multifunctional offerings in several markets: cell phones, vacation resorts, cable TV packages, and mobile apps. Evidence comes from MTurk and university participant samples, including a real app purchase followed by postuse evaluation.",
+  "design_and_data": "The paper reports five studies that manipulate whether participants estimate feature usage before choice versus after choice (control). Study 1 (MTurk, n=267) tests cell phone choice and need for cognition; Study 2 (students, n=184) uses hotel choice with a 2 x 2 design crossing usage estimation and feature trivialness; Study 3 (students, n=60) uses hotel choice plus coded thought protocols and mediation tests; Study 4 (MTurk, n=153, with 10 excluded for failing an instructional check) tests cable package choice with measured materialism. Study 5 recruits iPhone/iPad owners (n=80) for an incentive-compatible real app choice and measures satisfaction and recommendation about 10 days later among follow-up respondents (n=51).",
+  "focal_constructs": [
+    "usage estimation",
+    "having versus using focus",
+    "multifeature product preference",
+    "elaboration",
+    "need for cognition",
+    "feature trivialness",
+    "material values",
+    "product satisfaction"
+  ],
+  "main_findings": [
+    "Estimating feature usage before choice shifts preference from many-feature options toward few-feature options across product categories.",
+    "The effect is process-consistent with elaboration change: it is weaker or absent among high-need-for-cognition and high-materialism consumers, absent when added features are trivial, and accompanied by less having-focused and more using-focused thoughts.",
+    "In the app study, prechoice usage estimation increased selection of the few-feature app and led to higher later satisfaction and higher recommendation likelihood."
+  ],
+  "one_line_summary": "Across five studies, the paper shows that consumers often fail to estimate feature usage when buying multifunctional products, and prompting usage estimation shifts choices toward fewer-feature options and improves subsequent satisfaction.",
+  "relation_to_prior_work": "extends prior research on multifunctional products that emphasized feature complexity/usability and usage overestimation by identifying a distinct mechanism: consumers may not estimate feature usage at all at choice, even for familiar and simple features.",
+  "research_gap": "Prior work largely focused on difficult-to-use or novel features and on consumers overestimating usage, leaving unclear whether consumers choosing familiar multifunctional products spontaneously estimate feature usage before purchase. The paper addresses this missing issue and its consequences for choice and satisfaction.",
+  "research_question": "Do consumers spontaneously estimate how often they will use individual features when choosing multifunctional products, or do they mainly value having features? If consumers are prompted to estimate usage before choice, does this change preference between many-feature and few-feature options, through what process, and with what postpurchase consequences?"
+}

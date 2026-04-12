@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a goal-based account of queuing in which people behind a consumer signal accomplished actions and increase inferred product value, whereas people ahead mainly signal required effort.",
+    "Across five studies, it shows a unique value effect of people behind (and attention to them) that is independent of people ahead or total queue length.",
+    "It links this valuation process to downstream behavior by showing higher consumer expenditure when more people are behind the purchaser in line."
+  ],
+  "context": "The paper studies consumer waiting lines in everyday service settings, including a university bagel shop and cafeteria, an amusement park in South Korea, and campus taste-test queues in the United States. The focal outcomes are product evaluations and spending at the end of the queue.",
+  "design_and_data": "Five studies combine field and laboratory evidence. Study 1 (n=30) surveyed people waiting in a university bagel-shop line while observers recorded the numbers of people ahead and behind; Study 5 (n=80) unobtrusively tracked cafeteria patrons from queue entry to checkout and recorded spending. Study 2 (n=63) used a 2x2 experiment with confederates manipulating people behind (two vs none) and ahead (two vs none) before an unfamiliar smoothie taste test; Study 3 (n=79, 77 analyzed) manipulated backward versus forward attention in amusement-park lines for a familiar versus unfamiliar ride; Study 4 (n=47) manipulated take-a-number queue displays (next number vs now serving) and measured perceived progress and expected enjoyment.",
+  "focal_constructs": [
+    "people behind in queue",
+    "people ahead in queue",
+    "perceived product value",
+    "required effort to reach goal",
+    "attentional focus (backward vs forward)",
+    "perceived progress",
+    "consumer expenditure"
+  ],
+  "main_findings": [
+    "As the number or presence of people behind a person increased, expected product value increased, while people ahead did not increase value.",
+    "People ahead increased perceived required effort, whereas people behind primarily affected value rather than effort.",
+    "Directing attention to people behind (including queue structures that highlight the last person joining) increased perceived progress and expected value, and more people behind were associated with higher spending at purchase."
+  ],
+  "one_line_summary": "Across five studies, consumers in queues inferred higher product value and spent more when more people were behind them or when attention was directed backward, whereas people ahead mainly signaled effort.",
+  "relation_to_prior_work": "extends prior queuing research focused on waiting costs and service-quality evaluations by showing a positive valuation effect of queue experience, and extends prior work on reneging by isolating effects on product value and spending rather than only line-abandonment decisions.",
+  "research_gap": "Prior queuing research largely emphasized the economic and psychological costs of waiting and how waiting affects service evaluations. Existing work on people behind in line mainly examined reneging behavior, which does not cleanly identify product valuation effects, leaving unclear whether and how queue position information changes perceived product value.",
+  "research_question": "Do consumers infer the value of a queued product from the presence of people behind versus ahead of them in line? The paper also asks whether directing attention backward (vs forward) increases inferred value through perceived progress, when this effect is more likely (value ambiguity), and whether it changes actual spending."
+}

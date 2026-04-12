@@ -1,0 +1,6 @@
+{
+  "citation_substance": "mention_only",
+  "rationale": "The cited paper appears only once in the methods section as an example of prior work that handled sparse choice data via sequential estimation. The citing paper does not rely on the cited paper's substantive findings (e.g., elasticity cyclicality) for its theory, hypotheses, or interpretation. Instead, it briefly notes that approaches like that example are not feasible for the current GNL setting and then introduces its own estimation procedure. This is a passing methodological positioning reference rather than a meaningful building block.",
+  "relation_description": null,
+  "relation_type": null
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper provides a practical maximum-likelihood pseudolikelihood framework for consistent estimation of binary choice models under outcome-dependent sampling.",
+    "It shows that the needed adjustments are straightforward to implement for logit models, including sampling that stratifies on both the dependent variable and explanatory-variable strata.",
+    "It extends Scott and Wild (1997) toward marketing applications by analyzing selective sampling on skewed explanatory variables and demonstrating sizable sample-size savings in simulation and field data."
+  ],
+  "context": "The paper focuses on marketing research settings with rare binary outcomes, such as customer response/nonresponse or defection/retention. Its empirical illustration is customer churn at a Dutch direct-writing insurance company.",
+  "design_and_data": "The authors derive pseudolikelihood estimators for binary choice models when sampling is stratified on y only and when sampling is based on joint y-x strata, and they provide a logit-specific offset correction using known sample/population frequencies. They run simulations with a population of 200,000, repeated samples of 1,000, outcome incidence ranging from 2.5% to 50%, and 500 replications, comparing random sampling with selection on y, x, and y+x via D-error. They also estimate logit churn models on insurance data with 1,374 usable respondents (53 defectors) plus 30 additionally sampled defectors, using predictors including satisfaction, short relationship duration, and number of insurance products. They compare corrected versus uncorrected estimation and evaluate a reduced selective sample of 505 observations.",
+  "focal_constructs": [
+    "outcome-dependent sampling",
+    "endogenous stratification",
+    "binary choice models",
+    "pseudolikelihood maximum likelihood estimation",
+    "simultaneous selection on y and x strata",
+    "D-error sampling efficiency",
+    "customer retention and defection"
+  ],
+  "main_findings": [
+    "Simulation results show large efficiency gains from outcome-dependent sampling for rare events; when y=1 prevalence is 2.5%, sample-size reductions of roughly 60% to 80% are feasible, and gains become small when prevalence is above about 15%.",
+    "When explanatory variables are skewed, simultaneous stratification on y and x is more efficient than stratifying on y only or x only, with reported gains up to about 79% in their design.",
+    "In the insurance application, a corrected selective sample of 505 observations produced more precise estimates than the original random sample of 1,374, implying more than 60% potential sample/cost savings; uncorrected estimation produced materially distorted coefficients and predicted defection rates."
+  ],
+  "one_line_summary": "The article shows how to consistently estimate binary choice models under outcome-dependent and joint x-y selective sampling and demonstrates that such designs can greatly reduce required sample sizes without sacrificing precision.",
+  "relation_to_prior_work": "extends Scott and Wild (1997) by addressing sampling designs that combine outcome-dependent selection with stratification on explanatory variables, which the authors argue is especially relevant in marketing. It also operationalizes prior correction ideas from Cosslett (1993) and Imbens and Lancaster (1996) in an implementation-focused marketing setting.",
+  "research_gap": "The authors argue that although correction methods for endogenous stratification exist, they are not widely applied in marketing research where rare binary outcomes are common. They also highlight limited practical guidance on combining outcome-dependent sampling with selective sampling on skewed explanatory variables.",
+  "research_question": "How can researchers obtain consistent and efficient parameter estimates in binary choice models when data are collected via outcome-dependent sampling, including designs that also stratify on explanatory variables? How much efficiency and sample-size reduction can such selective sampling deliver in marketing applications with infrequent outcomes?"
+}

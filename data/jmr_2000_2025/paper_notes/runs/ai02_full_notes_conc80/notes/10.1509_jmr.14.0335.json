@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper identifies a new form of memory blocking, metacognitive memory blocking, in which feeling-of-not-knowing blocks use of implicit memory during judgment.",
+    "It is the first to show that attempting to recall information in explicit form can disrupt use of the same information in implicit form because of metacognitive experience from recall failure.",
+    "It provides further evidence for dual representations of price memory and argues that many memory-based price comparisons are made via implicit memory rather than explicit recall."
+  ],
+  "context": "The studies are set in memory-based grocery price judgments, where participants compare current prices with previously seen prices for common products. Data come from U.S. MTurk participants and a university lab student sample.",
+  "design_and_data": "Across six experiments, participants first completed an encoding task viewing 20 grocery products with prices and making purchase decisions, without warning about a later memory test. They then completed an unexpected price-comparison task with updated prices (+/-$1), typically in compare-only versus recall-and-compare conditions; recall-and-compare participants were asked to attempt recall before each comparison but could skip if unable. Process tests added an unrelated name-recall condition, an attention-to-feeling-of-not-knowing manipulation, and construal-level manipulations (primed how/why mindset and measured chronic BIF). Analyses used mixed-model repeated-measures logistic regression (PROC GLIMMIX), plus a raw-data meta-analysis across six studies (N = 903).",
+  "focal_constructs": [
+    "memory-based price comparisons",
+    "explicit price recall",
+    "implicit price memory",
+    "feeling-of-not-knowing",
+    "metacognitive memory blocking",
+    "recall failure",
+    "remember versus know judgments",
+    "construal mindset"
+  ],
+  "main_findings": [
+    "Participants asked to attempt price recall before comparing prices were less accurate than compare-only participants when recall was difficult; a meta-analysis showed 57.6% versus 50.7% accuracy (Cohen's d = .46).",
+    "Attempting recall increased indicators of feeling-of-not-knowing (for example, more 'don't know' responses), and feeling-of-not-knowing mediated the recall effect under control conditions.",
+    "The blocking effect depended on metacognitive attribution and attention: failing to recall unrelated names did not produce the same comparison impairment, drawing attention to not-knowing reduced compare-only accuracy, and abstract construal attenuated recall-induced impairment despite similar recall-failure rates."
+  ],
+  "one_line_summary": "Across six experiments on grocery prices, attempting and failing to explicitly recall past prices reduced subsequent comparison accuracy by inducing a feeling-of-not-knowing that temporarily blocks reliance on implicit price memory.",
+  "relation_to_prior_work": "extends prior memory-blocking research by showing a mechanism based on metacognitive feeling-of-not-knowing rather than memory-content change or retrieval competition, and extends remember-versus-know price-memory work by showing that explicit recall attempts can impair judgments that could otherwise use implicit memory.",
+  "research_gap": "Prior consumer price-memory studies and common intuition generally assume that asking for recall before comparison is helpful or at least harmless, and classic blocking accounts focus on memory-content or accessibility changes. The paper addresses the untested possibility that recall failure itself can create a task-relevant feeling-of-not-knowing that blocks use of intact implicit memory in subsequent comparisons.",
+  "research_question": "Does attempting explicit recall of prior prices before making price comparisons improve or impair the accuracy of memory-based comparisons? If it impairs accuracy, is the mechanism a metacognitive feeling-of-not-knowing that blocks reliance on implicit memory, and can this effect be moderated by relevance and attentional focus?"
+}

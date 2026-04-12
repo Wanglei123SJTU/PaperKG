@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces and tests the idea that perception spillovers can occur across directly competing brands that do not share a brand name.",
+    "It proposes two distinct mechanisms - prior perception spillover at entry and dynamic perception spillover during learning - and embeds them in a structural Bayesian learning model of disaggregate choice.",
+    "It explicitly tests and demonstrates the moderating role of product or brand similarity, linking competitive spillovers to order-of-entry outcomes and me-too entry strategy."
+  ],
+  "context": "This study is set in the U.K. antidepressant market from 1988 to 1992, where physicians prescribe under the National Health System. The setting includes sequential entry of a radical innovation (Prozac) and similar me-too SSRIs (Seroxat and Lustral), and direct-to-consumer prescription drug advertising is not allowed.",
+  "design_and_data": "The authors analyze a physician panel with 11,233 prescriptions from 125 physicians and physician-level detailing activity for competing drugs. They estimate a structural Bayesian learning choice model in which physicians update beliefs about drug quality using detailing signals and patient feedback from consumption experience. The model is extended to test prior perception spillover at entry and dynamic perception spillover over time, with specifications that contrast similar versus dissimilar competing drugs. They compare alternative models using in-sample fit (BIC) and run policy simulations on diffusion and detailing requirements.",
+  "focal_constructs": [
+    "competitive perception spillovers",
+    "prior perception spillover",
+    "dynamic perception spillover",
+    "product similarity",
+    "Bayesian learning under quality uncertainty",
+    "physician prescription choice",
+    "detailing signals",
+    "consumption experience feedback"
+  ],
+  "main_findings": [
+    "Physicians use perceptions of an existing drug to form initial quality beliefs about a new competing drug only when the drugs are sufficiently similar, and initial beliefs are more precise in that case.",
+    "Dynamic perception spillovers are supported across similar competing drugs through consumption experience signals, but not across highly dissimilar drugs; spillovers through competitors' detailing signals are not supported.",
+    "Policy simulations show that spillovers generate meaningful share gains and implied detailing savings for late entrants, and can also benefit the pioneer when similar followers enter."
+  ],
+  "one_line_summary": "Using U.K. physician prescription and detailing data, the paper shows with a structural Bayesian learning model that perception spillovers across competing drug brands occur through prior and dynamic channels only when brands are sufficiently similar.",
+  "relation_to_prior_work": "extends prior branding spillover research beyond same-brand extensions and umbrella branding by modeling spillovers across competing brands in one category using actual choice data. It also connects order-of-entry evidence on faster follower diffusion to a specific behavioral mechanism and boundary condition, product similarity.",
+  "research_gap": "Prior spillover research has focused on transfers within a brand family or across attributes of the same brand, leaving unclear whether spillovers occur across directly competing brands without a common name. The paper identifies limited evidence from actual choice data on how such competitive spillovers operate over time and what moderates them.",
+  "research_question": "Do quality perceptions spill over across directly competing brands that do not share a brand name in real-world choice behavior? If so, does spillover occur both at entry through transferred priors and over time through learning, and is it contingent on product or brand similarity?"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is highly aligned with the citing paper’s stated prior-work baseline: both study online review value/helpfulness, include valence-related effects, and use field data plus experiments (including negative binomial modeling of useful/helpfulness votes). The citing note explicitly says it extends review-helpfulness work focused on ratings/timing/valence, and the cited paper is directly about a timing cue (temporal contiguity) and negativity bias in review usefulness. Given this conceptual and methodological overlap, this is not an obvious incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

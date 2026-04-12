@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper develops PARA, a dictionary- and rule-based algorithm that automatically classifies textual paralanguage as nonverbal parts of speech in text across auditory, tactile, and visual dimensions.",
+    "The authors claim this is the first and most comprehensive tool dedicated to detecting nonverbal cues in text and translating a conceptual TPL framework into an operational text analytics method.",
+    "The paper claims to be the first to show that automatically detected textual paralanguage is a critical indicator of sentiment valence and intensity and improves prediction of consumer engagement beyond existing text analytics tools."
+  ],
+  "context": "The study is set in digital marketing communication on social media, where brands and consumers produce text-rich content. Empirical analyses use Twitter, YouTube, and Instagram posts/comments from both brand accounts and general users.",
+  "design_and_data": "The paper reports three studies. Study 1 develops PARA using five subdictionaries and rule-based modules, with 11,032 brand tweets for development, a 200-tweet saturation check, and 5,000 public tweets for construct validation against human coding (reported Krippendorff alpha across all TPL features = .896). Study 2 combines 4,200 publicly available manually coded tweets and 5,000 sampled YouTube comments manually rated for sentiment, and uses a causal-inference-from-text design with platform fixed effects, outputs from multiple sentiment tools, structural topic model controls, and propensity scores. Study 3 evaluates predictive validity with nested 10-fold cross-validation and lasso on Twitter COVID-19 data (897,127 posts), Twitter Olympics data (252,786 posts), and Instagram influencer data (66,144 posts), comparing baseline, text-tool, and PARA feature sets.",
+  "focal_constructs": [
+    "textual paralanguage (TPL)",
+    "nonverbal parts of speech in text",
+    "auditory tactile and visual TPL features",
+    "sentiment valence",
+    "sentiment intensity",
+    "consumer engagement",
+    "incremental and predictive validity"
+  ],
+  "main_findings": [
+    "Against human coding, PARA achieved high construct-validity accuracy (96.70 percent across all tweets; 92.94 percent on TPL-containing tweets; Krippendorff alpha = .896 overall).",
+    "In causal-inference models with extensive controls, PARA significantly increased human-rated sentiment valence (B = .092, p < .001) and sentiment intensity (B = .360, p < .001), with stronger comparative effects for intensity.",
+    "In out-of-sample prediction of likes/retweets, adding PARA significantly improved accuracy over baseline and over baseline plus other text tools across Twitter and Instagram (for example, for Twitter likes, Delta VEcv = .269 vs baseline and Delta VEcv = .231 on top of text tools, both p < .001)."
+  ],
+  "one_line_summary": "The paper develops and validates PARA, an automated classifier of textual paralanguage, and shows that these nonverbal text cues improve sentiment assessment and social media engagement prediction beyond existing text tools.",
+  "relation_to_prior_work": "extends consumer linguistics and marketing text-analytics research by moving beyond predominantly word-based analysis to systematic detection of nonverbal textual cues, grounded in the prior TPL conceptual framework. It benchmarks against established tools (for example LIWC and VADER) and reports incremental explanatory and predictive value from TPL features.",
+  "research_gap": "Existing marketing text analytics mostly focus on verbal word meaning and often treat symbols, capitalization, punctuation, and similar extratextual markers as noise. The paper identifies a lack of a comprehensive automated method to detect and categorize textual paralanguage as nonverbal communication in text.",
+  "research_question": "Can a comprehensive automated classifier reliably detect textual paralanguage, defined as nonverbal auditory, tactile, and visual cues expressed in text-based online communication? If detected, do these cues improve measurement of sentiment valence and intensity and prediction of consumer engagement beyond established linguistic text analytics tools?"
+}

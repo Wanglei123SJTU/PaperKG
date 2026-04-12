@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "Van Heerde et al. is cited in Appendix A exactly where the authors justify using a Tobit model because their discount measure is left-censored and used as a proxy for price sensitivity. This gives the citation a concrete methodological role in the citing paper's empirical setup, rather than only general background context. Although it appears in a grouped citation and is not central to the paper's core theory, it still meaningfully informs a specific modeling choice.",
+  "relation_description": "The citing paper uses Van Heerde et al. (2008) as methodological precedent for applying a Tobit approach to censored discount data when constructing a price-sensitivity measure. It transfers that modeling logic to its own customer classification analysis.",
+  "relation_type": "applies"
+}

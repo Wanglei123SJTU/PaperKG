@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces subtle self-awareness cues as a practical way to shape customer satisfaction without changing objective service performance.",
+    "Shows that the effect works through shifts in attribution of responsibility toward the self, and that the effect occurs at evaluation rather than at encoding.",
+    "Identifies a boundary condition: self-awareness-based interventions are effective mainly when customers bear substantial responsibility and can backfire when they do not."
+  ],
+  "context": "The studies are set in service contexts using both simulated and real interactions. Contexts include retail scenarios (copy service and appliance store), college course evaluations, meals at a university cafeteria, and returns or exchanges at a New York City clothing store.",
+  "design_and_data": "The paper reports six experiments, with additional replications (Studies 1a and 3a), totaling more than 800 participants across lab and field settings. Self-awareness is manipulated through mirrors, personal self-description tasks, self-referent story writing, video cameras, and audience presence, while outcome favorability and customer responsibility are varied across studies. Outcomes include self-reported satisfaction and attribution allocations across self, provider, and situation, with mediation assessed through attribution differential indices, ANCOVA reductions, and Sobel tests. Field evidence comes from cafeteria customers surveyed after meals and shoppers waiting to return or exchange items in an actual clothing store.",
+  "focal_constructs": [
+    "customer satisfaction",
+    "self-awareness cues",
+    "locus of attribution",
+    "outcome favorability",
+    "customer responsibility",
+    "private self-awareness",
+    "public self-awareness",
+    "service interaction evaluation"
+  ],
+  "main_findings": [
+    "Higher self-awareness increases satisfaction when service outcomes are unfavorable but decreases satisfaction when outcomes are favorable, holding objective service delivery constant.",
+    "These effects are largely mediated by increased self-attribution of responsibility and arise during evaluation of the interaction rather than during encoding of interaction details.",
+    "Self-awareness effects are more likely when customers bear substantial responsibility for outcomes; when responsibility is limited, the effect weakens or can reverse, and effects do not generalize to broad provider-level satisfaction in the field tests."
+  ],
+  "one_line_summary": "Across six lab and field studies, subtle self-awareness cues shifted customer satisfaction by moving responsibility attributions toward the self, with direction depending on outcome favorability and customer responsibility.",
+  "relation_to_prior_work": "extends attribution-based customer satisfaction research by showing that subjective responsibility can be shifted via contextual self-awareness cues without changing objective provider performance. It refines process understanding by indicating that the effect operates at evaluation of the interaction and by documenting a responsibility-based boundary condition.",
+  "research_gap": "Prior work on customer satisfaction has largely focused on improving objective quality or service-process alignment, and attribution studies typically vary objective provider responsibility. The paper addresses whether subjective responsibility can be altered through contextual cues to influence satisfaction without changing the service itself.",
+  "research_question": "Can subtle contextual cues that increase customer self-awareness influence satisfaction with service providers when objective service performance is unchanged? If so, does the effect operate through attribution shifts, depend on outcome favorability and customer responsibility, and occur when interactions are evaluated, including evaluations of past interactions?"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing-paper note discusses prior work mainly in sorting-task analysis (e.g., clustering/LDA and latent pairwise-similarity approaches), whereas the cited paper note is a Bayesian virtual-expert model for recommendation/experience products, with no explicit linkage described between them. Because the matched evidence is only a DOI hit (no surrounding citation text or usage context), there is insufficient evidence to safely classify this as an obvious mention-only citation.",
+  "triage_decision": "uncertain"
+}

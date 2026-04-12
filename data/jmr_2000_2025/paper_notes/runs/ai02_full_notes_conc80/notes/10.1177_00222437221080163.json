@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides what the authors describe as the first causal evidence on how a retail subscription program affects customer purchases using quasi-experimental field data.",
+    "Decomposes the total subscription effect into economic effects from tangible benefits and a residual noneconomic effect, and quantifies both at the individual level.",
+    "Documents a subscription-specific psychological mechanism - sunk cost fallacy from up-front fees - and illustrates a firm-side profitability calculation for subscription programs."
+  ],
+  "context": "The study is set at a large retailer in Asia that sells personal-care products and operates both offline stores and an e-commerce site. The focal program is an online-only paid subscription launched in December 2015 with a $50 annual fee and benefits including gift cards, occasional member discounts, free samples, and unlimited free shipping.",
+  "design_and_data": "The data include individual transactions, program usage, and demographics, with 10,811 subscribers (between Dec 2015 and Feb 2017) and a random sample of 13,768 nonmembers. The main analysis focuses on a cohort of 721 customers who subscribed in April 2016, using a 24-month customer-month panel (12 months pre and 12 months post, excluding the adoption month). To address self-selection, the authors combine a difference-in-differences model with generalized random forests that match each member to weighted comparable neighbors on 72 pretreatment covariates and estimate individual treatment effects; the common-support sample is 671 members and 11,745 nonmembers. To separate mechanisms, they extend the DD model with store-level prices and gift-card-adjusted budget terms to estimate noneconomic effects after controlling for economic benefits.",
+  "focal_constructs": [
+    "paid subscription programs",
+    "customer purchase amount",
+    "purchase frequency",
+    "purchase variety",
+    "economic program benefits",
+    "noneconomic effect",
+    "heterogeneous treatment effects",
+    "sunk cost fallacy"
+  ],
+  "main_findings": [
+    "Joining the subscription program increased member spending by about $27.45 per month on average over the post period, with effects that were persistent over time and accompanied by higher purchase frequency and greater product/category variety.",
+    "About one-third of the purchase lift was explained by economic benefits (price discounts and gift cards), while roughly two-thirds (about $17.91 per month) remained as a noneconomic effect; free shipping was not the main driver in this setting.",
+    "Treatment effects were strongly heterogeneous across members, and analyses of monthly individual effects were consistent with sunk cost fallacy: the noneconomic lift declined as members utilized more accumulated program benefits."
+  ],
+  "one_line_summary": "Using quasi-experimental customer-level data from an Asian retailer, the paper finds that a paid subscription program causally and persistently increases purchases, with most of the lift coming from noneconomic effects consistent with sunk cost fallacy.",
+  "relation_to_prior_work": "extends loyalty-program research to paid subscription programs by providing causal field evidence that goes beyond member-nonmember spending differences and by separating economic from noneconomic effects.",
+  "research_gap": "Prior evidence on subscription programs was mostly anecdotal and could not separate causal impact from member self-selection. The paper also targets a second gap: limited evidence on the mechanisms behind purchase changes, especially the relative roles of economic benefits versus psychological drivers.",
+  "research_question": "What is the causal effect of joining a paid subscription program on customer purchases? How much of that effect comes from tangible economic benefits versus noneconomic psychological effects, and how do these effects vary over time and across customers?"
+}

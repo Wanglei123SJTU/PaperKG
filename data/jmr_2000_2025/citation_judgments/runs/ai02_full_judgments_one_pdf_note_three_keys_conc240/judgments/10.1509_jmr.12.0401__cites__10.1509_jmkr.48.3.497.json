@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the prior-work section, the citing authors discuss Dahan et al. in detail, summarize its design and specific null finding, and explicitly state that this provocative result motivates further exploration. This is more than a passing mention because it helps define the research gap and justify the citing paper's central question. The citing study does not reuse STOC directly, but it re-examines the same broad raw-idea-to-market-outcome issue with different data and measures.",
+  "relation_description": "The citing paper uses Dahan et al. (2011) as a key prior empirical benchmark on whether early concept evaluations predict market outcomes, then investigates that question in a new setting with actual raw ideas and observed sales. It extends the prior line by providing new evidence with alternative measurement and context.",
+  "relation_type": "extends"
+}

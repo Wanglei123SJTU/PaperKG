@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces a Gaussian process dynamic heterogeneity (GPDH) specification that models individual-level latent parameters as time-varying random functions around a shared dynamic mean.",
+    "It shows that common fixed-offset static heterogeneity models are nested special cases of the proposed framework and develops a fully Bayesian estimation approach with interpretable kernel hyperparameters.",
+    "It demonstrates the framework's applicability in two different marketing models: a multinomial logit choice model and a dynamic topic model for online reviews."
+  ],
+  "context": "Empirical applications are in two marketing settings: household brand choice in six consumer packaged goods categories from IRI panel data spanning 2006-2011 (including the Great Recession), and product-level evolution of Amazon tablet-computer reviews (2009-2012). The first setting studies preference and elasticity dynamics, and the second studies topic-weight dynamics and market structure.",
+  "design_and_data": "The authors develop a hierarchical Bayesian framework in which each time-varying individual parameter is a latent function drawn from a Gaussian process centered on a dynamic mean model, using Matern kernels for dynamic heterogeneity and penalized-complexity priors on kernel hyperparameters. Models are estimated with Hamiltonian Monte Carlo via NUTS, jointly sampling latent trajectories and hyperparameters. Evidence includes simulations comparing GPDH against fixed-offset static heterogeneity and independent-period mixed-logit alternatives, plus an empirical multinomial logit application on monthly IRI purchases in six CPG categories with the last four months held out for forecasting. A second empirical application embeds GPDH in an LDA-based topic model using 2,686 product-month observations for 265 tablet products from Amazon reviews.",
+  "focal_constructs": [
+    "dynamic heterogeneity",
+    "Gaussian process dynamic heterogeneity",
+    "time-varying individual-level parameters",
+    "fixed-offset static heterogeneity",
+    "population mean dynamics",
+    "inter-individual shrinkage",
+    "intra-individual temporal smoothing",
+    "dynamic topic weights"
+  ],
+  "main_findings": [
+    "Across six CPG categories, GPDH outperforms fixed-offset static heterogeneity in both calibration fit and holdout forecasting across multiple metrics.",
+    "When dynamic heterogeneity is present but static heterogeneity is imposed, estimates exhibit attenuation toward zero in population mean trajectories and understate heterogeneity and own-price elasticities, with sizable differences for some consumers.",
+    "In tablet reviews, product-specific topic trajectories shift around major launches (such as Kindle Fire and iPad 3), revealing competitive and market-structure dynamics not obtainable from aggregate-only topic dynamics."
+  ],
+  "one_line_summary": "The paper proposes a Gaussian process dynamic heterogeneity framework for time-varying individual parameters and shows in choice and review applications that modeling flexible individual dynamics improves inference, prediction, and managerial insight relative to fixed-offset models.",
+  "relation_to_prior_work": "extends prior marketing models that allow dynamic population means but impose time-invariant individual offsets by letting individual deviations evolve nonparametrically over time via Gaussian processes. It introduces a dynamic Bayesian nonparametric analog to random coefficients and shows the fixed-offset specification as a limiting special case. It also builds on prior GP use in marketing by shifting GP modeling from mean-only dynamics to latent individual-level parameter dynamics.",
+  "research_gap": "Prior marketing studies with time-varying parameters typically capture dynamics only in the population mean while imposing static heterogeneity through fixed individual offsets. The paper argues this restriction misses within-individual evolution and can bias inference about both mean trends and the distribution of heterogeneity.",
+  "research_question": "How can researchers model dynamic heterogeneity in hierarchical marketing models so that individual-level latent parameters evolve flexibly over time rather than remaining fixed offsets from a dynamic mean? What are the inferential and substantive consequences of adopting such a model in applications like brand choice and online review dynamics?"
+}

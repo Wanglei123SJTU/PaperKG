@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper explicitly states an empirical contribution of \"modeling endogeneity\" and uses a \"two-step control-function correction\" in its main regression, which directly matches the cited paper’s core contribution: a two-step control-function approach to endogeneity. Given this close method-level alignment, the citation is plausibly serving as a substantive methodological source rather than a generic mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

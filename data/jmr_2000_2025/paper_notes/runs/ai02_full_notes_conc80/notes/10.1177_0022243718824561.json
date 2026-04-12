@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper shows that adding a bench-program disincentive to a quota-bonus plan can significantly improve laggard performance, rather than only rewarding top performers.",
+    "It introduces vividness, via the physical presence of replacements, as an additional facet of effective deterrence beyond certainty, severity, and speed.",
+    "It shows that replacing salespeople who are central in district advice networks can have harmful spillover effects on survivors' performance after the program ends."
+  ],
+  "context": "The primary setting is a U.S. Fortune 500 firm selling cleaning supplies to restaurant and hospitality customers, where salespeople operate in districts under a salary, commission, and annual quota-bonus system. A follow-up laboratory setting uses an effort task to compare threat designs under controlled conditions.",
+  "design_and_data": "Study 1 is a field-based quasi experiment in 140 districts: 58 treatment districts announced a bench program and 82 districts served as controls. The authors analyze percent-to-quota outcomes across preprogram, program, and postprogram years, using matching (genetic match chosen for best balance), difference-in-differences, and quantile regression with district-clustered errors. For instituting effects, the matched sample includes 286 treated and 188 control salespeople; for discontinuation effects, 240 treated survivors are matched to 159 controls. Advice-network measures come from a preprogram survey (526 of 699 responses), and Study 2 randomizes 180 participants to control, rank, fire, or bench-program conditions in a six-round effort task.",
+  "focal_constructs": [
+    "bench program",
+    "salesperson performance (percent to quota)",
+    "threat of punishment",
+    "laggards (low performers)",
+    "advice network size",
+    "replaced salesperson centrality",
+    "deterrence vividness"
+  ],
+  "main_findings": [
+    "Instituting the bench program increased salesperson performance relative to matched controls (about 4 percentage points), with an immediate jump in the program year.",
+    "The performance gain was larger for lower performers and for salespeople with larger advice networks; for example, preprogram last-place performers improved substantially more than top-ranked performers.",
+    "Discontinuing the bench program reduced survivors' performance, with larger declines among lower performers and in districts that lost more central salespeople, and the lab study showed the bench condition outperformed a firing-threat-only condition, consistent with a vividness effect."
+  ],
+  "one_line_summary": "Using a field quasi experiment and a randomized lab experiment, the paper finds that a bench program with visible replacement trainees raises sales performance - especially for laggards and those with larger advice networks - and that removing the program reverses gains while visible threats outperform firing threats alone.",
+  "relation_to_prior_work": "extends sales force incentive and marketing deterrence research by testing a structured punishment threat in contexts where prior work has focused more on rewards or isolated discipline. It also adds evidence that threat vividness matters in addition to certainty, severity, and speed, and links advice-network structure to heterogeneous effects.",
+  "research_gap": "Sales force research provides many prescriptions for extrinsic incentives such as bonuses and contests, but offers limited guidance on using disincentives and threats of punishment to manage poor performers. The paper also notes that deterrence research emphasizes certainty, severity, and speed, leaving the role of threat vividness less examined.",
+  "research_question": "Does instituting a bench program, in which last-place non-quota-attaining salespeople face replacement by trained trainees, improve salesperson performance under a quota-bonus plan? The paper also asks whether effects differ by prior performance level and advice network size, what happens when the program is discontinued, and whether visible replacements make threats more effective than firing threats without replacements in sight."
+}

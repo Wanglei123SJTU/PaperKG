@@ -1,0 +1,6 @@
+{
+  "citation_substance": "mention_only",
+  "rationale": "The cited paper is used in the literature review and summary table as one example of prior unsupervised review-text mining work that used LDA to extract latent dimensions. In the citing paper, this citation mainly helps position the research gap (moving to theory-driven supervised deep learning, cross-category scale, and causal identification with review-reading data). The citing study does not directly build its core model, identification strategy, or measures on this specific paper in a distinct way beyond background positioning.",
+  "relation_description": null,
+  "relation_type": null
+}

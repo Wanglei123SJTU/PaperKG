@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper conceptualizes jilting as a two-phase process: an anticipatory phase triggered by expected access to a highly desirable aspirant option, and a post-jilt phase triggered when that aspirant becomes inaccessible.",
+    "It introduces and demonstrates the jilting effect, defined as a shift in preference away from the incumbent option after a jilt.",
+    "It identifies and tests key mechanisms and boundary conditions, showing roles for incumbent denigration and post-jilt sadness, and the necessity of anticipation, aspirant desirability, and blocked access."
+  ],
+  "context": "The paper studies consumer choice situations in which a promised desirable product becomes unavailable, such as stock-outs, distribution/access failures, and launch-related delays. Empirical settings include wine pickup decisions, restaurant choice tasks, and cigar purchase scenarios involving incumbent, aspirant, and comparable alternatives.",
+  "design_and_data": "The evidence comes from four studies combining field and laboratory-style designs. Study 1 used an actual wine-choice field setting with university staff (N = 43 recruited; 38 completed pickup) in a 2 (jilt yes/no) x 2 (incumbent brand) between-subjects design. Study 2 used a wine scenario with undergraduates (N = 129) across anticipation, no-anticipation, and control conditions, with thought listings and cognition measures. Study 3 used undergraduates (N = 209; 142 experimental, 67 control) in a process-tracing restaurant task to measure predecisional distortion across incumbent-emergence, anticipatory, and post-jilt phases; Study 4 used MTurk cigar smokers (N = 235) in a 2 (aspirant vs non-aspirant) x 2 (access blocked vs pending) design measuring denigration, sadness/anger, and choice.",
+  "focal_constructs": [
+    "jilting",
+    "aspirant option",
+    "incumbent option preference",
+    "anticipation of receipt",
+    "incumbent denigration",
+    "post-jilt sadness",
+    "option inaccessibility",
+    "status quo bias"
+  ],
+  "main_findings": [
+    "Experiencing a jilt reduced preference for the incumbent option: in Study 1, incumbent choice fell from 88.24% (no-jilt) to 57.14% (jilt), with lower incumbent attractiveness but no corresponding increase in attractiveness of the comparable alternative.",
+    "Anticipation of receiving an aspirant is required for the effect: mere awareness/consideration of a superior option without anticipated receipt did not produce the same incumbent preference decline, and anticipatory negative cognitions about the incumbent mediated reduced post-jilt incumbent choice likelihood.",
+    "Denigration of the incumbent begins in the anticipatory phase and persists post-jilt, but the preference shift away from the incumbent is strongest when a highly desirable aspirant becomes blocked; sadness (not anger) showed a significant indirect effect on reduced incumbent preference."
+  ],
+  "one_line_summary": "Across four studies, the paper shows that when consumers anticipate obtaining a highly desirable aspirant option that later becomes unavailable, they denigrate the incumbent and then shift preference away from it, partly via post-jilt sadness.",
+  "relation_to_prior_work": "extends prior jilting and product-unavailability research by moving beyond reactions to the blocked aspirant and specifying when and why incumbent preference erodes through a two-phase process.",
+  "research_gap": "Prior work had suggested that jilting alters wanting and liking for the denied aspirant, but had not clearly identified jilting's antecedents, phase structure, or mechanisms. Existing research on stock-outs, channel access, and launch delays also had not examined how jilting affects preference for incumbent options.",
+  "research_question": "How does being jilted - anticipating a highly desirable aspirant option and then losing access to it - affect preference for incumbent versus non-incumbent options? What antecedents are necessary for this effect, and through which cognitive and affective mechanisms does the post-jilt preference shift occur?"
+}

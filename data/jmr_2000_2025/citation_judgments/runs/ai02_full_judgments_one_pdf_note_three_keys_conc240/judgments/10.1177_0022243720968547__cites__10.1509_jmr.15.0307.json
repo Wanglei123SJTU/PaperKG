@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the related-literature section, the cited paper is given a specific functional summary: it allocates spend across predetermined publishers to maximize reach under a priori value assumptions. The citing paper then explicitly contrasts its own problem as one with uncertain future values and costs, using that contrast to motivate its online knapsack formulation and claimed contribution. The citation therefore plays a meaningful role in framing and boundary-setting, not just background listing.",
+  "relation_description": "The citing paper uses Paulson, Luo, and James (2018) as a prior allocation approach and then sharpens the assumptions by moving to impression-level bidding under uncertainty in both values and costs. It positions its method as improving on that prior setup by relaxing those constraints.",
+  "relation_type": "refines"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Extends marketing-finance research beyond stock-market reactions to include very early venture financing, showing that seed investors value trademark applications as a marketing action.",
+    "Identifies temporal boundary conditions of seed-funding drivers by showing that the effect of trademark applications is strongest in very early days and declines over time within the seed stage.",
+    "Contributes to legitimacy theory by showing that the legitimacy value of trademark applications depends on contingencies such as industry technological uncertainty and startup-cluster location."
+  ],
+  "context": "The study focuses on U.S.-based new ventures in the post-founding pre-product commercialization period, where firms seek VC seed funding under high uncertainty. It examines ventures across industries and contrasts firms in major startup clusters (California, New York, Massachusetts) with those outside such clusters.",
+  "design_and_data": "The authors combine Crunchbase data, USPTO trademark case files, and Compustat industry data for ventures founded in 2007-2010 and observed through 2018. The final sample includes 5,370 U.S. ventures and 414,252 firm-month observations, with time to first VC seed funding as the outcome. They estimate extended Cox hazard models and Aalen additive hazards models to capture both overall and time-varying effects, and use rich controls plus a two-stage residual inclusion approach with peer trademark prevalence as an instrument. They also report semistructured interviews with 10 venture capitalists and 10 founders as complementary qualitative evidence.",
+  "focal_constructs": [
+    "trademark applications",
+    "VC seed funding acquisition",
+    "organizational legitimacy",
+    "temporal dynamics after venture founding",
+    "technological uncertainty",
+    "industry competitive intensity",
+    "startup cluster location"
+  ],
+  "main_findings": [
+    "Ventures that file trademark applications are more likely to acquire VC seed funding than ventures that do not file.",
+    "The positive association is strongest in the very early period after founding (especially the first roughly 100 days) and diminishes, becoming negligible around roughly 1,000 days after founding.",
+    "The positive effect is stronger in industries with lower technological uncertainty and for ventures outside startup clusters; moderation by industry competitive intensity receives only weak support."
+  ],
+  "one_line_summary": "Using longitudinal U.S. venture data, the paper finds that trademark applications increase the likelihood of VC seed funding, with the effect strongest immediately after founding and weaker over time and in certain contexts.",
+  "relation_to_prior_work": "extends prior seed-funding research that emphasized founder, team, and innovation signals by introducing an early marketing action - trademark application - as a legitimacy cue for venture capitalists, and refines legitimacy-based views by showing that its influence is temporally and contextually contingent.",
+  "research_gap": "Prior seed-funding literature has mostly examined founder/team characteristics, innovativeness, location, and industry factors, with limited direct attention to marketing and little evidence on marketing actions at this very early stage. The paper identifies a gap on whether early trademark applications affect VC seed-funding acquisition and whether this effect varies over time and by context.",
+  "research_question": "Do new ventures that apply for trademarks have a higher likelihood of acquiring VC seed funding? The paper also asks whether this relationship changes over time after founding and whether it depends on industry technological uncertainty, industry competitive intensity, and startup-cluster location."
+}

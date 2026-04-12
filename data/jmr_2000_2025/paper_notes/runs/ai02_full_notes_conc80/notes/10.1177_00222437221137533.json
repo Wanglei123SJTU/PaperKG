@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper derives formal asymptotic inference for factor-model ATT estimation, enabling hypothesis tests and confidence intervals without relying on bootstrap or permutation procedures.",
+    "The proposed inference is developed for both stationary and nonstationary panel settings and allows treatment and control outcomes to come from different distributions, including unequal error variances.",
+    "The framework is extended to multiple treatment units and presented as a computationally efficient normal-theory procedure with implementation guidance."
+  ],
+  "context": "The paper focuses on quasi-experimental marketing and policy interventions in panel data. Empirical settings are California's legalization of recreational marijuana (effect on beer sales) and a digitally native eyewear brand's showroom opening in Brooklyn (effect on local sales).",
+  "design_and_data": "The study develops theory for factor-model ATT estimators (with and without covariates), proving asymptotic normal inference for stationary and unit-root nonstationary data, and then extends results to multiple treated units. It compares inference performance via simulations that vary treatment-control error variance equality versus inequality, and benchmarks ATT estimation error against SC, MSC, HCW, and DID-related alternatives. Simulations include large Monte Carlo experiments (e.g., 100,000 replications in key coverage exercises). Empirically, it uses Nielsen weekly state-level beer sales (130 weeks, California treated, 41 control states) and weekly city-level sales for an eyewear retailer (110 weeks, Brooklyn treated, 52 control cities), with additional covariate-augmented specifications.",
+  "focal_constructs": [
+    "average treatment effect on the treated (ATT)",
+    "factor model counterfactual estimation",
+    "statistical inference",
+    "confidence intervals",
+    "hypothesis testing",
+    "stationary and nonstationary panel data",
+    "heterogeneous treatment-control error variances",
+    "multiple treatment units"
+  ],
+  "main_findings": [
+    "In simulations, the proposed normal-theory inference method delivers coverage close to nominal levels under both equal and unequal treatment-control error variances, while the Xu (2017) bootstrap shows substantial overcoverage or undercoverage when variances differ.",
+    "Across reported simulations and backdating exercises, the factor model shows better counterfactual prediction and ATT accuracy than competing methods such as DID, SC, MSC, and HCW in the studied settings.",
+    "In the applications, California recreational marijuana legalization is estimated to have a small negative but statistically insignificant effect on weekly beer sales (about -$88,400; p = .595), while the Brooklyn showroom opening is estimated to raise weekly sales by about $2,446 (27.2%) and is highly significant (p = 3.11e-15)."
+  ],
+  "one_line_summary": "The paper develops and validates a normal-theory inference framework for factor-model ATT estimation in quasi-experiments and applies it to marijuana legalization and showroom-opening marketing contexts.",
+  "relation_to_prior_work": "extends prior factor-model treatment-effect work by providing formal ATT inference where empirical practice had relied on bootstrap or placebo procedures with restrictive assumptions, and by showing validity under heterogeneous treatment-control distributions and both stationary and nonstationary data.",
+  "research_gap": "Although factor models are increasingly used to estimate ATT in quasi-experimental marketing studies, the paper states that formal inference theory for these ATT estimates was not available. Existing bootstrap and permutation approaches require strong assumptions (such as equal treatment-control error variances or symmetry) that may fail in quasi-experiments and can produce biased confidence intervals.",
+  "research_question": "How can researchers conduct valid statistical inference for ATT estimated with the factor model approach in quasi-experimental panel data? The paper asks whether inference can remain valid across stationary and nonstationary data, when treatment and control outcomes have different distributions (including unequal error variances), and when there are multiple treated units."
+}

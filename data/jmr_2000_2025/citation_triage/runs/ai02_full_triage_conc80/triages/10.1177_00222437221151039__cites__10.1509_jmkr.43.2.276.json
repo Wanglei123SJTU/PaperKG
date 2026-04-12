@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper centrally builds and deploys a customer churn prediction model (XGBoost) in a sales setting, while the cited paper is a marketing churn-prediction study focused on bagging/boosting trees and rare-event sampling corrections. Given this strong methodological/domain overlap and the exact DOI match, the citation is plausibly a substantive method/foundation source rather than an obvious incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces and empirically applies preference isolation, operationalized with a preference minority (PM) index, as a geographic driver of offline-to-online demand substitution.",
+    "Shows that preference isolation increases online category demand and simultaneously lowers responsiveness to online price advantage.",
+    "Demonstrates that niche brands are more sensitive to preference isolation than popular brands, with implications for the geographic composition of long-tail sales."
+  ],
+  "context": "The study is set in the U.S. baby-diaper market, using Diapers.com and local offline competitors (supermarkets, discount stores, and warehouse clubs). The analysis is conducted at the zip-code level within metropolitan statistical areas.",
+  "design_and_data": "The authors use zip code-level Diapers.com data: cumulative category buyers and repeat orders from January 2005 to March 2008, plus brand-level package sales from January 2007 to March 2008 for Pampers, Huggies, Luvs, and Seventh Generation. Preference minority status is measured as PM index = 1 - (households with babies / total households), with households with babies used as an offset for local demand potential. They estimate count-demand models (Poisson/NBD with MSA random effects) for category outcomes and a multivariate NBD model for brand outcomes, controlling for offline sales tax, shipping-time differences, distance to offline stores, market potential, and demographics. As process evidence, they also estimate a probit for local offline availability of Seventh Generation and a demand model using that availability indicator.",
+  "focal_constructs": [
+    "preference isolation",
+    "preference minority index (PM index)",
+    "offline-to-online demand substitution",
+    "online price sensitivity",
+    "offline assortment and shelf space constraints",
+    "niche versus popular brand demand",
+    "long tail sales distribution"
+  ],
+  "main_findings": [
+    "Holding the number of target households constant, high-PM markets (90th percentile) show more than 50% higher online diaper demand than low-PM markets (10th percentile).",
+    "Online demand is less sensitive to price advantage in high-PM markets: increasing offline tax rates raises online demand by about 27% in low-PM markets but only about 12% in high-PM markets.",
+    "Preference isolation affects niche brands more strongly than popular brands: high-PM markets increase online sales by about 140% for Seventh Generation versus about 40% for a leading popular brand, and niche-brand sales are disproportionately sourced from high-PM regions."
+  ],
+  "one_line_summary": "Using U.S. Diapers.com zip-code data, the paper shows that online diaper demand rises where households with babies are local preference minorities, with especially large gains for niche brands.",
+  "relation_to_prior_work": "extends prior online-offline channel research focused on geography, taxes, and store access by adding preference isolation from local majority tastes as a distinct mechanism. It also extends long-tail research by showing that niche-brand online sales are geographically concentrated in high preference-minority markets.",
+  "research_gap": "Prior studies largely explained online demand with geographic isolation, prices, and offline availability, but did not directly test preference isolation created by local assortment decisions that favor majority tastes. This paper addresses that gap by linking the relative local size of the target segment to variation in online category and brand demand.",
+  "research_question": "How does geographic variation in preference isolation, captured by the relative local size of the target customer group, affect substitution from offline to online demand? The paper also asks whether this isolation changes online price sensitivity and whether effects differ for popular versus niche brands in the long-tail distribution."
+}

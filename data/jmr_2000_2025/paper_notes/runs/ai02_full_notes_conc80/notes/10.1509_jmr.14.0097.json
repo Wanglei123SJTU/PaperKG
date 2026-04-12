@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces shared consumption influence as a distinct social influence in moviegoing decisions and shows it is essential to explain observed movie life-cycle shapes.",
+    "Develops and empirically validates an agent-based model of the U.S. motion picture market that links individual decision components to aggregate diffusion outcomes.",
+    "Decomposes prerelease advertising effects into acquisition and acceleration across launch and postlaunch periods, and shows these effects are moderated by shared consumption importance."
+  ],
+  "context": "The paper studies the theatrical motion picture market as a hedonic consumption setting where people often consume together. The empirical application simulates U.S. movie releases competing week by week for box office demand.",
+  "design_and_data": "The authors build an agent-based model in which consumers decide weekly whether to attend and which movie to watch based on internal influence, external influence from prerelease advertising, and shared consumption influence. The model is calibrated and validated with industry data for U.S. movies (2000-2010), including releases, weekly box office sales, advertising expenditures, seasonality, and attendance-frequency statistics, plus field statistics on moviegoing group sizes. Study 1 runs large-scale sensitivity analyses of influence weights and advertising parameters and evaluates simulations against market indicators derived from BOXMOD evidence (including 1,650 movie life cycles). Study 2 runs counterfactuals that raise prerelease advertising by 25% and decomposes launch and postlaunch effects into acquisition and acceleration under different shared-consumption levels.",
+  "focal_constructs": [
+    "shared consumption influence",
+    "internal influence (WOM and observational learning)",
+    "external influence (prerelease advertising)",
+    "movie life cycles",
+    "acquisition effect",
+    "acceleration effect",
+    "launch and postlaunch box office sales",
+    "agent-based model"
+  ],
+  "main_findings": [
+    "Realistic replication of movie life-cycle patterns requires high shared-consumption influence; the most realistic scenario gives shared consumption a larger weight than internal and external influence.",
+    "Increasing prerelease advertising generates a strong acquisition effect but only negligible acceleration, and the additional advertising spending is not recouped on average in the simulations.",
+    "Shared consumption moderates advertising effectiveness asymmetrically: higher shared-consumption importance strengthens acquisition at launch but weakens acquisition at postlaunch (and can make postlaunch effects negative)."
+  ],
+  "one_line_summary": "Using an empirically validated agent-based simulation of the U.S. movie market, the paper shows that shared consumption is a key driver of movie diffusion patterns and changes how prerelease advertising translates into launch versus postlaunch sales.",
+  "relation_to_prior_work": "extends prior motion picture diffusion research that emphasized external advertising and internal imitation by adding shared consumption as a separate social influence in consumer choice. It also extends work on acquisition versus acceleration effects of marketing by showing that these effects depend on the level of shared consumption in the market.",
+  "research_gap": "Prior studies in the movie market examined external influence (advertising) and internal influence (imitation/WOM), but did not model shared consumption influence, meaning the effect of consuming together on choice. The authors argue this omission limits explanation of typical movie life-cycle shapes and temporal advertising effects.",
+  "research_question": "How does the importance consumers attach to shared consumption affect the diffusion life cycles of movies, especially the relation between market size and decay? How do prerelease advertising expenditures affect launch and postlaunch sales through acquisition versus acceleration, and how is this relationship moderated by shared consumption?"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper identifies unexpected negative consequences of a common but understudied communication strategy in joint decisions: expressing no preference.",
+    "It proposes and tests perceptions of undisclosed preferences as the mechanism linking no-preference communication to decision, social, and consumption outcomes.",
+    "It argues that no-preference communication is a distinct case that can shift a joint decision into one person deciding for the dyad, and documents that communicators mispredict these effects."
+  ],
+  "context": "The paper studies everyday, lower-involvement joint consumption decisions with another person, such as choosing restaurants, snacks, movies, and game topics. The empirical settings include both in-person and online joint consumption interactions.",
+  "design_and_data": "The evidence base is a pilot plus six studies using both hypothetical scenarios and real choice tasks, with MTurk adults and university students. Studies manipulate preference communication (no preference vs explicit preference, and in some studies explicit similar vs explicit dissimilar preferences) and, in one study, directly manipulate perceived undisclosed preferences. Outcomes include decision difficulty, perception of undisclosed preferences, liking of the co-consumer, and coded choice positions relative to each participant's own ranked preferences. Behavioral studies include lab snack sharing, movie clip choice and viewing, and a remote joint online trivia game with an ostensible partner.",
+  "focal_constructs": [
+    "no-preference communication",
+    "joint decision making",
+    "perception of undisclosed preferences",
+    "decision difficulty",
+    "co-consumer liking",
+    "preference dissimilarity inferences",
+    "consumption utility"
+  ],
+  "main_findings": [
+    "Compared with explicit preference communication, no-preference communication more strongly triggered recipients' perceptions that the co-consumer had undisclosed preferences.",
+    "No-preference communication increased decision makers' decision difficulty versus explicit preference communication, and this effect was mediated by perceived undisclosed preferences; co-consumers underestimated this difficulty.",
+    "No-preference communication reduced decision makers' liking of the co-consumer and shifted decisions away from the decision maker's most-preferred option, with lower enjoyment in the online joint consumption study."
+  ],
+  "one_line_summary": "Across six studies of everyday joint choices, communicating no preference made decision makers infer hidden and often dissimilar partner preferences, which increased decision difficulty and reduced social and consumption utility.",
+  "relation_to_prior_work": "extends joint decision-making research that has largely assumed known or explicitly stated partner preferences by showing that no-preference communication is a distinct case that triggers perceived undisclosed preferences and downstream negative outcomes.",
+  "research_gap": "Prior joint decision-making research has mainly focused on resolving conflicts after parties' preferences are known or explicitly communicated, with limited attention to how preference communication itself shapes outcomes in mundane joint choices. The effects of one party communicating no preference were described as relatively understudied.",
+  "research_question": "How does a co-consumer's statement of no preference affect the person who must make a joint consumption decision? The paper examines whether recipients take no-preference statements at face value or infer undisclosed preferences, and how this shapes decision difficulty, interpersonal evaluation, and the option chosen and enjoyed."
+}

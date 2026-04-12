@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "Provides an editorial framework that urges applied marketing researchers to report and justify diagnostic testing before treating econometric models as valid.",
+    "Argues that advanced models for policy simulation should be empirically compared with plausible simpler or noncausal alternatives, not only estimated in their most complex form.",
+    "Uses prescription-drug and supermarket examples to show how Lucas-critique-type strategic responses can make otherwise sophisticated policy simulations misleading."
+  ],
+  "context": "The paper discusses econometric modeling for marketing policy decisions using historical data across marketing settings. It illustrates implications with two domains: prescription drugs (interactions among firms, physicians, patients, HMOs, and the FDA) and supermarket promotion strategy in hi-lo retailing.",
+  "design_and_data": "This article is an invited editorial commentary, not an original empirical estimation study. It synthesizes arguments from related papers in the same JMR issue and prior marketing-econometrics work. The author uses two conceptual examples (prescription drugs and supermarket items) to illustrate modeling risks under changing market conditions. No new dataset, sampling frame, or econometric estimation results are reported.",
+  "focal_constructs": [
+    "econometric policy simulation",
+    "diagnostic testing and model validity",
+    "causal versus noncausal benchmark models",
+    "bias-variance trade-off",
+    "supply-side inclusion and endogeneity",
+    "Lucas critique and strategic behavior"
+  ],
+  "main_findings": [
+    "Reported use of diagnostic tests in published JMR econometric articles is sparse, so model validity should not be assumed without appropriate diagnostics.",
+    "Adding model complexity (such as supply-side structure) can theoretically improve specification but may worsen demand estimates if the added component is misspecified, so alternative model forms should be compared empirically.",
+    "Models that omit strategic behavioral adjustments by consumers and other agents are often only descriptive and can fail to predict outcomes after policy changes."
+  ],
+  "one_line_summary": "This editorial argues that marketing econometric models for policy decisions need stronger diagnostics and benchmarking, and that ignoring strategic behavioral responses can invalidate policy simulations.",
+  "relation_to_prior_work": "extends prior marketing-econometrics discussions by combining concerns about underused diagnostics, complexity trade-offs in structural modeling, and Lucas-critique reasoning into practical guidance for model evaluation in policy simulation.",
+  "research_gap": "The paper highlights that applied marketing econometric studies often report too few diagnostic tests, leaving model validity insufficiently demonstrated. It also points to limited empirical evidence on the magnitude of Lucas-critique problems and on which alternative modeling approaches perform better when policies change.",
+  "research_question": "How can econometric models built on historical marketing data be trusted for policy simulation, especially when decisions involve major shifts in marketing actions? What diagnostic checks and model comparisons are necessary, and how should models account for strategic behavioral responses that change with market conditions?"
+}

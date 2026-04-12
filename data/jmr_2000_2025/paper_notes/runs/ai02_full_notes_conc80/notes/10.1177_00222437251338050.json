@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Shows that adding a token redemption task to an equivalent price discount can increase promotion effectiveness, a previously underexplored aspect of the redemption process.",
+    "Identifies and tests a process in which token effort increases perceived responsibility for obtaining the discount and perceived return on effort, with perceived return on effort also operating through smart-shopper feelings.",
+    "Provides a costless, easy-to-implement managerial tactic for improving discount campaign outcomes by using trivial redemption tasks (e.g., promo codes/CAPTCHA)."
+  ],
+  "context": "The paper studies price promotions in consumer purchase settings, especially online shopping where discounts can be auto-applied or redeemed through trivial tasks. Field evidence comes from a U.S. coffee company's email and Facebook/Instagram campaigns, and additional experiments use consumer scenarios for products such as shoes, jackets, earbuds, scooters, and vitamin tablets.",
+  "design_and_data": "The evidence includes eight studies (plus Web Appendix studies), including two field A/B tests and multiple controlled experiments. Field Study 1 tested an email promotion with 6,623 delivered emails from Zoka Coffee; Field Study 2 tested Meta ads reaching 92,826 individuals and used unique click-through rate. The remaining studies used U.S. Prolific samples and Singapore undergraduate samples, including preregistered and incentive-compatible designs, and manipulated redemption as token effort (promo code or one CAPTCHA) versus straight discount; one study added a high-effort condition (20 CAPTCHAs). Key outcomes were redemption/choice, conversion, and click-through, with mediation and moderation analyses for process tests.",
+  "focal_constructs": [
+    "token redemption effort",
+    "straight discount (no effort)",
+    "price promotion effectiveness",
+    "redemption rate",
+    "perceived responsibility over the discount",
+    "perceived return on effort",
+    "smart-shopper feeling",
+    "attention to financial cost"
+  ],
+  "main_findings": [
+    "Across field and lab studies, discounts requiring token effort produced higher conversion, click-through, or redemption rates than equivalent automatically applied discounts.",
+    "The effect is explained by higher perceived responsibility over obtaining the discount and higher perceived return on effort; perceived return on effort has both a direct effect on redemption and an indirect effect via smart-shopper feeling.",
+    "The effect is attenuated when attention is redirected to financial cost and when redemption effort becomes high rather than token; it does not depend on whether the promo code is semantically related to the discount."
+  ],
+  "one_line_summary": "The paper finds that requiring trivial effort to redeem a discount (vs auto-applying it) reliably increases promotion redemption because consumers feel more responsible for obtaining the deal and perceive a high return on that small effort.",
+  "relation_to_prior_work": "extends prior promotion and purchase-utility research by showing that nonfinancial deal terms in the redemption process, specifically perceived return on effort, can increase redemption for equivalent discounts. It also clarifies effort effects by showing a positive impact for token effort but attenuation when effort is high or attention is shifted to financial cost.",
+  "research_gap": "Prior price-promotion research has focused mainly on promotion design and discount formats, with limited attention to how the redemption process itself changes outcomes. Existing effort research often treats low effort as equivalent to no effort, leaving the behavioral impact of token effort in discount redemption insufficiently examined.",
+  "research_question": "Does requiring consumers to expend a token amount of effort to redeem a discount (e.g., entering a promo code or solving one CAPTCHA), rather than applying the same discount automatically, increase redemption? If so, is the effect driven by perceived responsibility and perceived return on effort, and when does it weaken (e.g., when attention shifts to financial cost or effort becomes high)?"
+}

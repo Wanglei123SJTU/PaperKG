@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper shows that static brand logos can evoke perceived movement (dynamic imagery) and that this perception has downstream effects on consumer responses.",
+    "It identifies engagement as the process mechanism linking logo dynamism to brand attitudes, using both self-reports and eye-tracking indicators.",
+    "It shows that effects of logo dynamism depend on metaphorical congruence between movement cues (including movement direction) and brand characteristics such as modern versus traditional positioning."
+  ],
+  "context": "The studies are set in logo design and advertising communications for brands, mainly using fictitious brands and logo stimuli embedded in simple ads. Brand-positioning contexts include modern versus traditional descriptions (e.g., orchestra and fashion brand examples).",
+  "design_and_data": "The authors report six experiments with multiple pretests, manipulating logo dynamism in static visuals via frozen motion (e.g., tilted seesaw, raised Newton's cradle ball), visual friction (horse blocked vs unblocked), and movement direction (forward vs backward). Main studies use both university student samples and online panel samples, with outcomes including perceived movement, engagement, and brand attitudes. Study 3 and Study 4 use 2x2 between-subject designs crossing brand description (traditional vs modern) with logo dynamism or direction cues. Study 5 uses Tobii eye-tracking during ad viewing to measure fixation count and fixation duration on the logo, plus a follow-up online posttest.",
+  "focal_constructs": [
+    "dynamic imagery",
+    "perceived movement",
+    "logo dynamism",
+    "consumer engagement",
+    "brand attitudes",
+    "logo-brand congruence",
+    "movement direction",
+    "conceptual fluency"
+  ],
+  "main_findings": [
+    "Across studies, higher-dynamism static logos generated greater perceived movement and, in baseline conditions, more favorable brand attitudes than lower-dynamism logos.",
+    "Engagement mediated the effect of logo dynamism on brand attitudes in the mediation tests, and higher-dynamism logos increased engagement on both self-report measures and eye-tracking attention metrics.",
+    "The attitude effect was contingent on congruence: higher dynamism helped modern-positioned brands but hurt traditional-positioned brands, and forward (backward) implied movement fit modern (traditional) brand descriptions better."
+  ],
+  "one_line_summary": "The paper demonstrates that static logos can evoke perceived movement that increases engagement and shapes brand attitudes, with effects strengthened or reversed by fit between movement cues and brand positioning.",
+  "relation_to_prior_work": "extends prior work on antecedents of perceived motion and logo design by isolating logo dynamism and testing its downstream consequences for engagement and brand attitudes, including congruence-based boundary conditions.",
+  "research_gap": "The authors state that art/design, cognitive psychology, and consumer behavior research had examined antecedents of perceived movement from static images but had not examined its downstream consequences. In logo research, activeness had been noted as a design characteristic, but prior studies had not isolated it to test how evoked dynamism affects consumer responses.",
+  "research_question": "Can static brand logos evoke perceived movement that increases consumer engagement and improves brand attitudes? Is the effect of logo dynamism on brand attitudes mediated by engagement? Under what conditions does this effect change, particularly when movement cues are congruent or incongruent with brand characteristics such as modernity versus traditionalism?"
+}

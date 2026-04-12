@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s central methodological problem is correcting endogeneity in choice/conversion models via latent instrumental variables, and the cited paper is explicitly a method paper on testing/correcting endogeneity in individual consumer choice with IV-based estimation. This strong methodological overlap (endogeneity, IVs, choice modeling under unobserved heterogeneity) makes the citation plausibly foundational/method-source rather than an incidental mention, even though the raw match only provides a DOI record.",
+  "triage_decision": "keep_for_relation_judgment"
+}

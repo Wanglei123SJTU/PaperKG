@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in the methods section to justify a specific econometric choice, not just as general background. The citing authors explicitly reference Chintagunta (2002) when explaining their use of wholesale prices (along with lagged price) as instruments in the pricing equation to address price endogeneity. Although it is cited in a group, the functional role is clear and directly tied to model specification.",
+  "relation_description": "The citing paper applies methodological precedent from Chintagunta (2002) in its pricing component, especially the use of wholesale-price-based instrumentation for endogenous retail prices. This prior pricing-equation practice is incorporated into the citing paper's joint demand-stocking-pricing framework.",
+  "relation_type": "applies"
+}

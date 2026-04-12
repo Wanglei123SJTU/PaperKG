@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper focuses on causal effects of K-12 digital textbook utilization (panel regressions, teacher fixed effects, IPTW, IV) on student outcomes, while the cited paper is a hierarchical Bayesian Internet movie recommendation model. The provided match evidence is only a bare DOI entry (reference index 5) with no contextual text indicating method adoption, theoretical dependence, or direct empirical comparison, so this looks like an incidental/background mention.",
+  "triage_decision": "drop_obvious_mention_only"
+}

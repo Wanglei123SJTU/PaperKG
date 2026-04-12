@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "Yan and Muthukrishnan (2014) is used as a focal reanalysis case, not a passing background citation. The citing paper contrasts this study with another mediation paper in Table 1 and a dedicated subsection, then re-estimates the model with its Bayes-factor framework. It concludes that despite a significant indirect effect under conventional methods, the Bayes factor indicates insufficient evidence for full mediation, so the original mediation interpretation depends on prior assumptions. This directly serves the citing paper's core methodological argument.",
+  "relation_description": "The citing paper reanalyzes Yan and Muthukrishnan (2014) with its proposed Bayesian mediation-identification procedure and reports inconclusive support for full mediation (BF about 0.66). This is used to question the strength of the original mediation claim derived from standard indirect-effect testing.",
+  "relation_type": "challenges"
+}

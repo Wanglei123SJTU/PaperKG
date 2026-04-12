@@ -1,0 +1,4 @@
+{
+  "rationale": "The pair is likely substantive: the citing paper develops a control-function correction for endogeneity in mixed-logit consumer choice, and the cited paper proposes a simulated-ML random-coefficient logit estimator that also addresses endogeneity (including control-function logic) in aggregate demand. Given this strong methodological overlap in core constructs (price endogeneity, random-coefficient logit, control functions), this is not clearly an incidental background mention despite having only one DOI match record.",
+  "triage_decision": "keep_for_relation_judgment"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces a transaction cost governance explanation for branded component contracts, arguing that they function as self-enforcing safeguards for suppliers' noncontractible customization investments.",
+    "It provides contract-level evidence from real industrial OEM-supplier relationships to test both safeguarding and brand-leveraging motives for choosing branded versus white box contracts.",
+    "It estimates the normative consequences of contract-form misalignment and reports asymmetric losses from wrong choices."
+  ],
+  "context": "The study examines OEM procurement contracts for engineered components physically embedded in end products in B2B industrial markets. The empirical setting is three engineering-intensive U.S. manufacturing sectors: SIC 35 (nonelectrical machinery), SIC 36 (electrical/electronic machinery), and SIC 37 (transportation equipment).",
+  "design_and_data": "The authors collected primary survey data from purchasing managers/directors, with each respondent reporting on one recently organized OEM-supplier contract (within the last 12 months) for an embedded engineered component from an independent supplier. From 1016 sampled contacts, screening produced 521 qualified informants, and 191 usable contract observations were obtained. They estimate probit models of contract choice (branded vs white box) and then use Maddala-style endogenous switching regressions to assess outcome differences and misalignment costs. They also run an endogeneity correction for differentiation using instrument-based residualization to isolate supplier ex ante differentiation capability.",
+  "focal_constructs": [
+    "branded component contracts",
+    "white box contracts",
+    "supplier specific investments",
+    "supplier ex ante differentiation capability",
+    "self-enforcing agreements",
+    "transaction cost economics",
+    "vendor opportunism",
+    "governance misalignment costs"
+  ],
+  "main_findings": [
+    "OEMs are more likely to choose branded component contracts when supplier specific customization investments are higher.",
+    "OEMs are also more likely to choose branded component contracts when suppliers have stronger ex ante differentiation capability, including in models with endogeneity correction.",
+    "Choosing the wrong contract form is associated with worse outcomes, and the losses are asymmetric: using a white box contract when branded is indicated is more harmful than using a branded contract when white box is indicated, with especially large penalties when supplier investment hazards are high."
+  ],
+  "one_line_summary": "Using data on 191 industrial OEM-supplier contracts, the paper shows that branded component contracts are chosen both to leverage supplier differentiation and to safeguard supplier customization investments, and that misaligned choices raise opportunism with asymmetric penalties.",
+  "relation_to_prior_work": "extends prior cobranding and transaction cost research by treating branded component contracts as a real-world governance form, showing they are used not only for brand leveraging but also to safeguard supplier investments, and by quantifying misalignment consequences.",
+  "research_gap": "Prior work on ingredient branding mainly provides laboratory evidence on leveraging effects and offers limited evidence on how branded component contracts are actually chosen in complex industrial exchanges. The literature also does not adequately explain observed cases involving heavy supplier customization or cases where supplier brands are not obviously stronger than OEM brands.",
+  "research_question": "What drives OEMs to choose branded component contracts instead of white box contracts with independent component suppliers? Specifically, do OEMs choose branded contracts to leverage supplier brand-based differentiation, to safeguard supplier customization investments, or both, and what performance consequences follow from correct versus incorrect contract-form choices?"
+}

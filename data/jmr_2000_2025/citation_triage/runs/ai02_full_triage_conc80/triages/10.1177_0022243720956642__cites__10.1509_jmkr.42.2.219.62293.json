@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper directly studies mass-customization configurators and includes “default version” as a key design lever affecting utility/complexity, which overlaps closely with the citing paper’s focus on defaults in sequential configuration choices (hotels/sofas/car configurator). Given this conceptual and domain overlap, the citation could plausibly be a foundational or mechanism-related prior work rather than an incidental mention. With only DOI-level match evidence and no in-text snippet, it is still safer to retain for full relation judgment than to drop.",
+  "triage_decision": "keep_for_relation_judgment"
+}

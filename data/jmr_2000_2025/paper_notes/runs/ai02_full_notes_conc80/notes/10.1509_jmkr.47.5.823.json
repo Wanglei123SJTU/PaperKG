@@ -1,0 +1,26 @@
+{
+  "claimed_contribution": [
+    "The paper introduces BRiC as a category-level construct that captures the overall role of brands in consumer decision making relative to other criteria.",
+    "It develops and validates new multi-item scales for BRiC and its brand-function drivers and applies them across many categories and countries.",
+    "It provides evidence on cross-category, cross-country, and consumer-level variation in BRiC, identifies contingency factors, and shows temporal stability in a replication study."
+  ],
+  "context": "The empirical setting spans 20 categories across FMCG, durables, services, and retailers in France, Japan, Spain, the United Kingdom, and the United States. The construct is positioned as input for brand investment and resource-allocation decisions.",
+  "design_and_data": "The authors developed items from branding literature, refined them through focus-group and expert review, and purified scales using a student sample of 578. Main data come from a 2006 online consumer survey across five countries (6168 respondents, 5769 retained after data cleaning), with each respondent evaluating two categories and answering BRiC and brand-function items. They estimated multi-group structural equation models, tested cross-national measurement invariance, and assessed convergent, nomological, and discriminant validity using survey measures plus external data (published conjoint studies, COMPUSTAT advertising data, Interbrand brand values, and ACSI data). They also estimated a contingency-factor model with product-market ratings from 30 marketing experts and ran a replication survey 2.5 years later in France, the United Kingdom, and the United States (700 respondents per country).",
+  "focal_constructs": [
+    "brand relevance in category (BRiC)",
+    "risk reduction function of brands",
+    "social demonstrance function of brands",
+    "brand loyalty",
+    "price premium",
+    "product-market characteristics"
+  ],
+  "main_findings": [
+    "The BRiC scale and the two brand-function scales show strong psychometric performance, and risk reduction plus social demonstrance explain a large share of BRiC variance (71.4% in the pooled sample).",
+    "BRiC differs substantially across categories and countries: medium-sized cars and cigarettes rank among the highest categories overall, paper tissues and drugstores among the lowest, and the United States has the highest overall BRiC mean.",
+    "Risk reduction has a much larger average effect on BRiC than social demonstrance; age and gender moderate effects (risk reduction is stronger for older consumers and women, and social demonstrance declines with age), several product-market characteristics significantly predict BRiC, and BRiC is highly stable over 2.5 years (correlation .938)."
+  ],
+  "one_line_summary": "The study introduces and validates BRiC, a category-level measure of how much brands matter in consumer choice, and shows systematic differences across 20 categories, five countries, and over time.",
+  "relation_to_prior_work": "extends prior brand equity and brand knowledge research by shifting focus from individual-brand metrics to a category-level measure of how strongly brands influence consumer decisions, while linking this measure to risk-reduction and symbolic-function perspectives in branding.",
+  "research_gap": "Prior branding research mainly emphasizes brand-level constructs such as awareness, image, and equity, but gives limited attention to how important brands are within an entire category. Cross-category and cross-country evidence on this category-level brand importance is largely missing.",
+  "research_question": "How can the overall importance of brands in consumer decision making be conceptualized and measured at the category level rather than the individual-brand level? The paper also asks how BRiC varies across categories, countries, and consumers, what drives these differences, and whether BRiC is stable over time."
+}

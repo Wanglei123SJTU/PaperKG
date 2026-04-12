@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides a scanner-data evaluation of Philadelphia's sweetened-beverage tax with broad store-format and geographic coverage, supplemented by hand-coded product ingredients and nutrition information.",
+    "To the best of the authors' knowledge, it is the first soda-tax study to estimate effects on nutritional intake (calories and sugar) using retail purchase data.",
+    "Quantifies policy-relevant margins jointly - pass-through, product substitution, and geographic tax avoidance - and uses the estimates to assess tax-rate and geographic-coverage design choices."
+  ],
+  "context": "The empirical setting is Philadelphia's 1.5 cents-per-ounce tax on sugar- and artificially sweetened beverages, implemented on January 1, 2017, with surrounding untaxed stores in Pennsylvania and New Jersey as comparison areas. The analysis is for traditional retail beverage purchases and excludes point-of-consumption channels such as restaurants and bars.",
+  "design_and_data": "The study uses IRI UPC-store-week scanner data from January 2015 to September 2018 for all beverage categories, merged with hand-collected product ingredient and nutrition facts data and census-tract demographic measures. The final sample includes 357 stores in Philadelphia and 870 surrounding stores from 11 chains/groups, and 861 analyzed beverage products (489 taxed, 372 untaxed). Identification is based on difference-in-differences with store and week fixed effects, primarily comparing Philadelphia stores to control stores located more than 6 miles outside city limits, with two-way clustered standard errors (store and week). The first four post-tax months are omitted in main specifications as an adjustment period.",
+  "focal_constructs": [
+    "soda tax pass-through",
+    "taxed beverage demand",
+    "cross-shopping tax avoidance",
+    "substitution to untaxed beverages",
+    "calorie and sugar intake",
+    "tax revenue",
+    "geographic tax coverage",
+    "income heterogeneity"
+  ],
+  "main_findings": [
+    "The tax was passed through at about 97 percent (about 1.45 cents per ounce), implying roughly a 34 percent price increase for taxed beverages.",
+    "Taxed-beverage volume sold in Philadelphia stores fell by about 46 percent, but increased purchases at stores up to 6 miles outside the city offset more than half of this decline, leaving a net reduction of about 22 percent.",
+    "The study finds no significant substitution to bottled water and only modest substitution to untaxed natural juices; calories and sugar from beverage purchases fell by about 16 percent and 15 percent, and quantity declines were smaller in low-income neighborhoods consistent with less cross-shopping."
+  ],
+  "one_line_summary": "Using detailed scanner data around Philadelphia's soda tax, the paper shows near-full pass-through, large within-city sales declines that are substantially offset by cross-border shopping, and limited nutritional gains, with important implications for tax design.",
+  "relation_to_prior_work": "extends prior U.S. soda-tax evidence by using broader Philadelphia scanner coverage and by jointly analyzing cross-shopping, nutritional outcomes, income heterogeneity, and tax-design counterfactuals that are less developed in earlier studies.",
+  "research_gap": "Prior soda-tax evidence, especially in U.S. city settings, showed mixed estimates of pass-through and quantity effects and often did not measure all relevant adjustment margins together. The paper argues that evaluating localized taxes requires joint evidence on pass-through, substitution across products and locations, and resulting nutrition and revenue outcomes.",
+  "research_question": "How did Philadelphia's sweetened-beverage tax affect retail prices, beverage demand, and tax avoidance behavior through cross-shopping to untaxed stores? The paper also asks whether consumers substituted to untaxed beverages, how nutritional intake changed, and what the estimated responses imply for tax-rate and geographic-coverage policy design."
+}

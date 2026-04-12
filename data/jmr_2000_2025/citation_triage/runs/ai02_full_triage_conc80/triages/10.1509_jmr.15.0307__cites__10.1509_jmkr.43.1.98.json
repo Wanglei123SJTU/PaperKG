@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper note describes a technical contribution in large-scale convex media-allocation optimization (audience overlap, bid landscapes, coordinate descent), while the cited paper is an earlier individual-level hazard model of banner ads’ effect on repeat purchase. There is no provided in-text citation context beyond a single DOI match, and no evidence in the notes that the 2006 model is reused as method, benchmark, or core mechanism in the 2018 optimization framework. This pair therefore appears most likely to be a background effectiveness citation rather than substantive use.",
+  "triage_decision": "drop_obvious_mention_only"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Erdem and Sun (2002) to justify a concrete modeling choice in its utility specification: advertising is entered as an exponentially smoothed ad-stock control when consumer media exposure data are unavailable. This is stated explicitly in the method footnote ('as in Erdem and Sun (2002)') and followed by the ad-stock equation definition. That role is more than a passing literature mention because it informs how a key explanatory variable is operationalized in estimation. At the same time, the citation is for a transferable modeling component rather than the core product-harm learning contribution.",
+  "relation_description": "The citing paper applies a methodological element from the cited paper by modeling advertising via an ad-stock term in the utility function, following Erdem and Sun (2002). It uses the cited study as precedent for this reduced-form treatment of advertising effects.",
+  "relation_type": "applies"
+}

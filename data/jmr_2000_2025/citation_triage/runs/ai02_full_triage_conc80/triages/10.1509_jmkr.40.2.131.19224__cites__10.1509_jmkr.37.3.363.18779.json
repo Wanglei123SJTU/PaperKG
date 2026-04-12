@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper explicitly states it extends recommendation research and uses model-based collaborative filtering with Bayesian heterogeneity modeling, while the cited paper is a hierarchical Bayesian Internet recommendation system centered on customer/product heterogeneity. This is a strong topical and methodological overlap suggesting the cited work could be a foundational or method source, not an obvious incidental mention. With only DOI-level match evidence, it is still not safe to drop.",
+  "triage_decision": "keep_for_relation_judgment"
+}

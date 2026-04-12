@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citation is not only a passing literature-list mention: in the macro-theory section, the author attributes a specific allocation rule to Danaher and Dagger (2013) and uses it to frame the optimization problem. The paper also repeatedly relies on this source to justify assumptions about multimedia effectiveness-cost tradeoffs and the availability of single-source data. Although the new model primarily extends other optimal-control work, Danaher and Dagger plays a meaningful conceptual and empirical grounding role.",
+  "relation_description": "The citing paper uses Danaher and Dagger (2013) as a key prior foundation for multimedia allocation logic, explicitly citing its result that optimal channel allocation depends on relative advertising elasticities and media costs. It also cites the paper as evidence that single-source individual-level media exposure and purchase data can support cross-media effectiveness analysis, which motivates the microtargeting setup.",
+  "relation_type": "foundational_for"
+}

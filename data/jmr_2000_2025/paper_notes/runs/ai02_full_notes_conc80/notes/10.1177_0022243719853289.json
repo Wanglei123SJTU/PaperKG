@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper introduces and empirically implements a way to measure two nonmonetary contest utilities separately: self-generated rank-based utility and peer-induced rank-based utility.",
+    "It shows how contest disclosure schemes, beyond prize structure, change contestants' incentives and effort through peer-induced rank utility.",
+    "It argues and provides evidence that reward spread and disclosure should be designed jointly because reward spread also changes self-generated rank utility."
+  ],
+  "context": "The empirical setting is simulated sales contests in laboratory sessions, designed to mirror common firm recognition programs such as naming a single winner, announcing a group of winners, or disclosing both winners and losers. Participants are repeatedly ranked in small-group contests where the top half receive prizes.",
+  "design_and_data": "The authors run z-Tree lab experiments with 336 Canadian university students across 24 sessions. Subjects play repeated one-shot contests (four-player sessions with 40 periods, six-player sessions with 50 periods), are randomly rematched each period, and choose effort from a 100-point endowment; revenue is stochastic and based on effort plus logistic noise. Prize structures vary within session between high reward spread and low reward spread with equal total payout, while disclosure scheme varies between sessions (ND, WD, PD, FD in four-player sessions; ND, PD, WRD, FD in six-player sessions). They estimate net own and net peer utility parameters from equilibrium effort equations using random-effects regressions with clustered standard errors.",
+  "focal_constructs": [
+    "rank-based utility",
+    "self-generated rank-based utility",
+    "peer-induced rank-based utility",
+    "disclosure schemes",
+    "reward spread",
+    "contest effort",
+    "recognition and shaming"
+  ],
+  "main_findings": [
+    "Relative to no disclosure, most disclosure schemes generate positive peer-induced rank utility and higher effort, but which disclosure scheme performs best depends on reward spread and contest size.",
+    "Recognition as the sole first-place winner does not produce significantly higher peer-induced utility than recognition as one among multiple winners.",
+    "A lower reward spread consistently increases estimated self-generated rank utility, while shaming by identifying low-ranked contestants is only directionally motivating and is statistically weak (marginal at best)."
+  ],
+  "one_line_summary": "Using laboratory sales contests, the paper estimates self-generated and peer-induced rank-based utility and shows that disclosure format and reward spread jointly shape effort incentives.",
+  "relation_to_prior_work": "extends prior contest and sales management research by moving beyond prize-structure-only analyses to jointly study reward spread and public disclosure of outcomes. It also extends behavioral contest models by separating self-generated from peer-induced rank utility and estimating these components from experimental effort data.",
+  "research_gap": "Prior contest research largely emphasizes reward structure (for example, winner-take-all versus multiple winners) and provides little evidence on how disclosure of outcomes affects motivation. The paper addresses the unresolved managerial question of how disclosure and reward spread jointly influence nonmonetary rank utility and effort.",
+  "research_question": "How do contest reward spread and outcome disclosure schemes affect contestants' effort through nonmonetary rank-based utility? Specifically, can self-generated and peer-induced rank utility be separately identified and measured, and how do alternative recognition and shaming schemes change these utilities?"
+}

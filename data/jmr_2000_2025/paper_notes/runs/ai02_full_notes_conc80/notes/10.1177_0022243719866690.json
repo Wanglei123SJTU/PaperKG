@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "One of the first studies to causally quantify how specific textual review content affects conversion using observed individual-level review-reading behavior.",
+    "A scalable, theory-driven approach that uses supervised deep learning to code six quality and price content dimensions from reviews across nearly 600 categories.",
+    "Managerial guidance via counterfactual review-ranking policies that link content-based reordering to economically meaningful conversion gains."
+  ],
+  "context": "The study uses data from a major UK e-commerce retailer covering Home and Garden and Technology departments, with 583 product categories. Consumer activity occurs on PC and mobile devices in an online purchase journey setting where review pages display five reviews at a time.",
+  "design_and_data": "The authors analyze two months of panel data (February-March 2015) on 243,000 consumers, including about 2.5 million page views, 12.3 million review impressions, 500,000 used interactions, and 30,000 transactions, with roughly 500,000 reviews. They label 5,000 reviews via MTurk and train supervised deep learning models to detect six theory-driven content dimensions (with valence), then score the full review corpus. For causal identification, they use a regression discontinuity in time design based on exogenous timing of new review posts and the platform's five-reviews-per-page display that creates content crowd-out. They estimate device-specific choice models and a hierarchical Bayes cross-category model to study heterogeneity.",
+  "focal_constructs": [
+    "review-content reading behavior",
+    "sales conversion",
+    "aesthetics content",
+    "price content",
+    "product quality dimensions",
+    "deep learning NLP",
+    "regression discontinuity in time",
+    "cross-category heterogeneity"
+  ],
+  "main_findings": [
+    "Consumers did not read reviews in 71.2% of all journeys, but in higher-intent journeys (excluding search-only journeys) review reading occurred about 85% of the time, and assuming all reviews are read understates content effects by about 20%.",
+    "Positive aesthetics content increased conversion, while negative price content reduced conversion, and aesthetics and price-related effects were the most prevalent across categories and devices.",
+    "Review-content effects were stronger when average ratings were higher and less dispersed, in more competitive and newer categories, and when brand information was less accessible; content-based reordering produced conversion gains comparable to about a 1.6% price cut."
+  ],
+  "one_line_summary": "Using individual-level review-reading data from a large UK retailer, the paper combines deep-learning content coding with an RDiT design to causally show how specific review content dimensions influence conversion across hundreds of categories.",
+  "relation_to_prior_work": "extends prior online review-sales research that mostly used aggregate metrics or simple sentiment correlations by estimating causal effects of specific theory-driven text content. It also extends largely single-category evidence to a large cross-category analysis and documents systematic heterogeneity in when review content matters.",
+  "research_gap": "Prior work could not answer what specific review content consumers use because studies were typically limited to aggregate review metrics or simple text features, often in one or a few categories. The literature also lacked data linking which reviews consumers actually read to purchasing outcomes, limiting causal identification of content effects.",
+  "research_question": "How do consumers use review content during online purchase journeys, and for which products, consumers, and devices does review reading matter? Which specific theory-driven quality and price content dimensions in read reviews causally affect conversion, and how do these effects vary across product categories and market conditions?"
+}

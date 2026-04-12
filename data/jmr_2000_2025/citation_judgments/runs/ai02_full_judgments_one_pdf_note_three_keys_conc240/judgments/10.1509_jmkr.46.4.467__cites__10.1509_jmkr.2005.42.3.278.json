@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in core modeling sections, not just as a passing background reference. The authors explicitly position their structural Bayesian physician-learning model as an extension of prior learning models in pharmaceuticals and repeatedly cite Narayanan, Manchanda, and Chintagunta (2005) for physician learning under quality uncertainty and the direct versus informative roles of detailing. They also invoke it when interpreting parameter results, indicating ongoing conceptual dependence. This supports a meaningful build-on role for the citation.",
+  "relation_description": "The 2009 paper extends Narayanan et al. (2005)'s physician Bayesian learning framework by adding competitive prior and dynamic perception spillovers across brands and testing similarity as a moderator. It keeps the underlying learning and detailing structure while introducing new spillover mechanisms for order-of-entry and diffusion effects.",
+  "relation_type": "extends"
+}

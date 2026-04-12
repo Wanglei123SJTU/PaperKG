@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used as a methodological source for handling endogeneity in the citing paper's core model estimation. In the Modeling Challenges section, the authors explicitly contrast a Mundlak approach with an instrumental-variable/control-function approach attributed to Petrin and Train (2010), then state they adopt that approach based on model fit. They implement it by regressing endogenous marketing variables on instruments and adding residual-based correction terms to the main equation, and those correction terms are reported in the results table.",
+  "relation_description": "The citing paper applies Petrin and Train's endogeneity-correction framework to its own B2B direct-marketing model. Specifically, it uses a residual-inclusion control-function style correction for endogenous EM and RM variables as part of the final estimation procedure.",
+  "relation_type": "applies"
+}

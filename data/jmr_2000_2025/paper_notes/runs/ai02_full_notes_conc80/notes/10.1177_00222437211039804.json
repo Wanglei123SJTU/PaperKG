@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper uses an FTC-driven shutdown of fake news ad operators as an exogenous shock to identify the causal effect of fake news advertising on consumer interest in advertised product domains.",
+    "It decomposes merchant traffic into direct visits, fake news ad referrals, and regular ad referrals to estimate treatment effects, spillovers, and substitution across channels.",
+    "It adds evidence on consumer outcomes beyond traffic by linking the shutdown to complaint-board measures and browsing-based purchase proxies."
+  ],
+  "context": "The setting is online consumer goods marketed through fake news-style websites, especially weight-loss and related products (for example, acai and colon-cleansing offers). In April 2011, the FTC halted ten fake news website operators (over 150 fake news sites), while the merchant product domains remained operational.",
+  "design_and_data": "The study uses comScore web-browsing panel data (about 50,000 U.S. internet users) with referral-domain information, primarily for 2010-2011, and analyzes first visits to merchant domains. The main sample contains 174 merchant domains referred by fake news sites, with narrower subsets of 48 FTC-cited domains and 17 domains observed active after shutdown. Identification comes from a before-after event-study style design around the April 2011 FTC shutdown, compared with a placebo year, estimated mainly with zero-inflated Poisson models at the domain-month level. The author supplements with complaint-board data (Ripoff Report and Complaints Board) as purchase-related outcomes and Nielsen ad data to test supply-side ad response.",
+  "focal_constructs": [
+    "fake news advertising",
+    "consumer site visits",
+    "product discovery pathways",
+    "regulatory shutdown",
+    "spillovers to organic demand",
+    "substitution to regular ads",
+    "deceptive claims",
+    "purchase proxies"
+  ],
+  "main_findings": [
+    "After the FTC shutdown, the probability that a merchant domain receives zero new visits in a month rises substantially (about 22%-41% across samples).",
+    "Traffic declines are not limited to fake news referral traffic; direct visits also fall, while regular ad referrals increase for some merchants, indicating partial substitution but not full replacement.",
+    "Overall visits decline materially (about 12.5 fewer visits per domain per month in the full pathway decomposition), and purchase-related outcomes also decline, including an 8% lower probability of receiving a consumer complaint."
+  ],
+  "one_line_summary": "Using an FTC-induced shutdown of fake news ad sites, the paper shows that fake news advertising materially increases consumer discovery and likely purchases of advertised product domains, with only limited substitution to regular ads after shutdown.",
+  "relation_to_prior_work": "extends prior fake news research centered on political content sharing and belief by estimating behavioral market outcomes in consumer goods under a regulatory shutdown. It also extends deceptive advertising work by studying ads that are deceptive in both format and content and by empirically separating fake-news, organic, and regular-ad pathways.",
+  "research_gap": "The paper states that little is known about whether fake news advertising brings in new consumers or is mostly viewed by people already in the market for the product. It also highlights limited empirical evidence on the real behavioral impact of fake news ads on consumer outcomes in commercial settings.",
+  "research_question": "Do fake news advertisements causally increase consumer visits and purchase-related behavior at merchant product sites, beyond what would occur through organic discovery or regular ads? After fake news ads are shut down, do consumers substitute to other pathways or does demand largely disappear?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Defines \"spotlight personnel\" as key employees who deliver the focal entertainment service under focal public attention and distinguishes them from frontline staff, enabling staff, and key decision makers.",
+    "Provides the first joint empirical assessment of hiring quantity and quality and turnover quantity and quality of spotlight personnel on both service performance and demand.",
+    "Introduces local cubic projections to marketing as a flexible complement to VAR-X to uncover dynamic interactions and nonlinearities in response effects."
+  ],
+  "context": "The study is set in professional German soccer as an ongoing entertainment service context, focusing on players as spotlight personnel. It analyzes teams in and around the Bundesliga system, where transfer markets are observable and both winning and ticket demand are tracked over long periods.",
+  "design_and_data": "The authors compile a longitudinal panel of 33 German professional soccer teams from 1979-80 to 2018-19, yielding 1,310 team-season observations. Endogenous variables are hiring quantity and quality, turnover quantity and quality, service performance (winning percentage), and demand (ticket capacity utilization), with multiple exogenous controls and team fixed effects. They estimate a panel VAR-X (lag length 1 by BIC) and use generalized impulse response functions for dynamic effects, then apply local cubic projections to explore dynamic interactions and nonlinearities; robustness checks cover alternative samples, periods, and measures.",
+  "focal_constructs": [
+    "spotlight personnel",
+    "hiring quantity",
+    "hiring quality",
+    "turnover quantity",
+    "turnover quality",
+    "service performance",
+    "demand",
+    "dynamic interactions and nonlinearities"
+  ],
+  "main_findings": [
+    "Hiring is more consequential than turnover for outcomes: all focal hiring effects are significant, while turnover effects are mostly not, except turnover quality reducing demand.",
+    "Higher hiring quantity lowers service performance but raises demand over subsequent years, revealing a performance-versus-demand tradeoff.",
+    "Higher hiring quality improves service performance and demand on average, but local cubic projections show state dependence and nonlinearity: benefits are stronger when prior hiring quality is low, and demand effects weaken or can turn negative when high quality hiring is already elevated."
+  ],
+  "one_line_summary": "Using four decades of Bundesliga panel data, the paper shows that spotlight personnel hiring, more than turnover, dynamically drives a tradeoff between service performance and demand through its quantity and quality components.",
+  "relation_to_prior_work": "extends service, HRM, and entertainment research by shifting attention from frontline staff or one-off star settings to ongoing spotlight personnel management and by jointly modeling hiring and turnover quantity and quality against both operational and demand outcomes over time.",
+  "research_gap": "The paper identifies three gaps: prior work offers limited guidance on how spotlight personnel changes affect service performance versus demand, has not jointly examined hiring and turnover in both quantity and quality terms, and has largely ignored dynamic effects over time. As a result, managers lack systematic evidence on whether and when personnel changes create aligned or conflicting outcome effects.",
+  "research_question": "Do changes in spotlight personnel affect service performance and demand in the same or opposite directions? How do hiring quantity and quality, and turnover quantity and quality, influence these two outcomes, and are the effects dynamic over time?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper identifies and documents complicating choice, a predecisional process in which consumers increase rather than reduce choice conflict.",
+    "It proposes and empirically supports an effort-compatibility framework in which consumers seek alignment between anticipated and experienced decision effort, yielding either simplifying or complicating distortions.",
+    "It shows that complicating behavior affects preference construction and can change ultimate choices, not just intermediate evaluations."
+  ],
+  "context": "The studies use controlled consumer choice tasks involving physician services, MP3 players, famous paintings, and job opportunities, with student participants from U.S. and Israeli universities. Choice sets are designed to vary in conflict and perceived importance so decisions can feel easier or harder than anticipated.",
+  "design_and_data": "The evidence is a series of experiments: Study 1 (n = 225; 2 x 4 between-subjects) compares control, predecisional, postdecisional, and no-choice phases for low- versus high-difficulty physician-service choices using constant-sum attribute weights and implied utility differences. Studies 2a-2c (n = 64, 193, 83) directly manipulate anticipated effort, experienced effort via perceptual fluency, and decision importance, and test prechoice (and in 2b also postchoice) weighting shifts. Study 3 (n = 197) uses a within-subject test-retest painting paradigm with random pair draws, continuous difficulty, and moderated mediation with measured anticipated effort. Study 4 (n = 183) tests preference-order reversals for an ambiguous attribute in job choices, and Study 5 (n = 70) tests consequences for final choices under simultaneous versus sequential presentation.",
+  "focal_constructs": [
+    "complicating behavior",
+    "simplifying behavior",
+    "predecisional processing",
+    "choice conflict",
+    "effort-compatibility principle",
+    "anticipated effort",
+    "experienced effort",
+    "decision importance"
+  ],
+  "main_findings": [
+    "When choices were harder than anticipated, participants simplified by increasing utility differences in favor of a tentative preferred option, and this bolstering persisted postchoice.",
+    "When choices were easier than anticipated and important, participants complicated by overweighting disadvantages of superior options, converging overall evaluations, and even reversing attribute-level preference ordering; these effects attenuated after choice or when no choice was required.",
+    "Manipulations and mediation supported effort compatibility as the mechanism, and complicating affected final choice outcomes, including a large increase in selection of a target option in the sequential condition (13% to 58.3%)."
+  ],
+  "one_line_summary": "Across experiments, the paper shows that consumers can complicate easy but important choices by distorting preferences to raise conflict, explained by a drive to match anticipated and experienced decision effort.",
+  "relation_to_prior_work": "extends prior work on predecisional bolstering, motivated reasoning, and postdecisional dissonance by identifying an opposite bias in which consumers increase conflict in easy important choices. It also integrates earlier findings of simplification and attenuation by arguing that anticipated-versus-experienced effort mismatch determines whether consumers simplify, show little distortion, or complicate choice.",
+  "research_gap": "Prior research mainly documented simplifying and bolstering processes, or conditions that attenuate those processes, but did not directly examine whether consumers actively make decisions harder. The paper addresses the lack of a unifying account that can explain simplifying, no-distortion, and complicating behavior within one framework.",
+  "research_question": "When do consumers simplify versus complicate decisions, and what psychological mechanism determines which process occurs? The paper asks whether consumers facing important yet easy choices will endogenously increase conflict and effort, and whether compatibility between anticipated and experienced effort explains these distortions across decisional phases."
+}

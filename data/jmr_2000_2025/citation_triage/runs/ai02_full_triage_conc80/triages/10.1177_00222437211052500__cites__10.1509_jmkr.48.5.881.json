@@ -1,0 +1,4 @@
+{
+  "rationale": "The pair is likely substantive rather than incidental: the citing paper explicitly states it extends prior marketing text-analytics work on bag-of-words/valence approaches, and the cited paper is a core online-review text-mining study on automated attribute extraction and polarity analysis. Given this strong topical/method overlap (both centered on deriving attribute insights from online customer reviews), this should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

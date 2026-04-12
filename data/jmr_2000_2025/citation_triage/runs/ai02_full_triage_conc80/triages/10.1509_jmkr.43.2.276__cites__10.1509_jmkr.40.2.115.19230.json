@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper is about churn prediction using bagging/boosting trees and rare-event sampling corrections, whereas the cited paper develops a hierarchical Bayesian bundle-choice (COBA) model for pure bundling and pricing; the notes show no clear conceptual or methodological dependency between them. The only matched evidence is a bare DOI reference entry (no citation context or quoted use), which is consistent with an incidental/background mention rather than substantive use.",
+  "triage_decision": "drop_obvious_mention_only"
+}

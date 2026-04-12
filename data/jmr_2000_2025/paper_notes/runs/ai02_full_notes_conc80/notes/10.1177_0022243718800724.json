@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides a meta-analytic synthesis of partitioned-pricing evidence and estimates the overall effect size and heterogeneity across studies.",
+    "It proposes and empirically tests a three-category moderator framework: price presentation, magnitude, and contextual moderators.",
+    "It examines new cross-study moderators (presence of total price, typicality of partitioning, seller controllability) and offers a predictive model to guide managerial pricing decisions."
+  ],
+  "context": "This is a cross-study analysis of consumer responses to base-price-plus-surcharge offers across multiple markets and products, including settings such as online retail and service fees. The focal managerial choice is whether mandatory components should be shown as partitioned charges or as one all-inclusive price.",
+  "design_and_data": "The authors meta-analyze 17 years of partitioned-pricing research, compiling 149 contrasts between partitioned and all-inclusive pricing from 43 studies in 27 published and unpublished works (N = 12,878). They standardize outcomes as Cohen's d, correct for small-sample bias, and weight by inverse variance, with different effect-size formulas for between-subjects and within-subject designs. Moderator variables are coded from study information, with blind-judge coding for several contextual moderators, and estimated in a hierarchical linear model with multiple controls. They report a series of robustness checks using alternative model specifications, interaction terms, and alternative dependent measures.",
+  "focal_constructs": [
+    "partitioned pricing",
+    "all-inclusive pricing",
+    "consumer preference",
+    "presence of total price",
+    "price level",
+    "typicality of partitioning",
+    "surcharge benefit",
+    "hedonic vs utilitarian product category"
+  ],
+  "main_findings": [
+    "Across studies, partitioned pricing shows a small directionally positive average effect on preference versus all-inclusive pricing (d = .08, p = .10), roughly a 9% mean preference increase.",
+    "Partitioned pricing is more favorable when the total price is absent, as price level increases, when partitioning is typical for the category, when surcharge benefit is high, and for utilitarian versus hedonic categories.",
+    "After accounting for other moderators and controls, surcharge format, relative surcharge magnitude, seller reputation, and seller controllability are not significant moderators."
+  ],
+  "one_line_summary": "This meta-analysis finds that partitioned pricing has a small average preference advantage over all-inclusive pricing, but the effect depends strongly on total-price disclosure, price level, surcharge typicality and benefit, and product category.",
+  "relation_to_prior_work": "synthesizes prior partitioned-pricing studies that produced mixed positive and negative effects and compares moderator strength in a single model rather than isolated tests. extends the literature by evaluating moderators that had varied across studies but were rarely or not directly manipulated, especially total-price presence and typicality of partitioning.",
+  "research_gap": "Prior partitioned-pricing findings were contradictory, with nearly equal positive and negative effects, leaving unclear theoretical and managerial guidance. Most studies examined only one or two moderators at a time, making relative moderator impact and some cross-study moderators difficult to assess.",
+  "research_question": "When does partitioned pricing, compared with all-inclusive pricing, lead to more favorable consumer preferences? The paper asks whether price presentation, price magnitude, and contextual moderators explain the divergent effects reported in prior studies."
+}

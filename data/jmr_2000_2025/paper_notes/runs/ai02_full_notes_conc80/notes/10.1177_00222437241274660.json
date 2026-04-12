@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "A novel Bayesian nonparametric sequential search model that flexibly captures nonnormal patterns in postsearch shocks, search propensities, and preference heterogeneity.",
+    "A Bayesian estimation procedure for the model using MCMC with stick-breaking Dirichlet-process representations, Gibbs steps, data augmentation, and elliptical slice sampling.",
+    "Simulation and empirical evidence that inference from parametric sequential search models can be highly sensitive to distributional assumptions, while the proposed model recovers key data-generating features more accurately across settings."
+  ],
+  "context": "The empirical application uses clickstream and purchase data from a large Japanese e-commerce retailer in the paper towel category. Consumers sequentially click product listings to view detail pages and then buy an inside option or choose no purchase within a session.",
+  "design_and_data": "The paper develops a Weitzman-based sequential search model with a centered Dirichlet process mixture for postsearch shocks, a Dirichlet process mixture of normals for search propensities, and a Dirichlet process prior for preference heterogeneity. Parameters are estimated in a Bayesian framework via MCMC. Monte Carlo studies compare a nonparametric model and a parametric benchmark under two DGP families (nonnormal vs normal), using N=1,000 consumers, J=5 products, and 20 simulated datasets per DGP in each of two simulation studies. The empirical dataset spans September 2022 to February 2023 and contains 2,692 sessions from 995 consumers, 3,171 searches, and 8 focal products, with holdout tests and a personalized coupon counterfactual.",
+  "focal_constructs": [
+    "sequential consumer search",
+    "postsearch shocks",
+    "search propensities",
+    "search cost heterogeneity",
+    "preference heterogeneity",
+    "Dirichlet process mixtures",
+    "price elasticities",
+    "personalized couponing"
+  ],
+  "main_findings": [
+    "In simulations, the parametric benchmark showed sizable estimation error when the DGP was nonnormal, while the Bayesian nonparametric model recovered parameters and distributional shapes more accurately; when the DGP was normal, performance was comparable.",
+    "In the retailer application, the nonparametric model inferred complex heterogeneity patterns (including bimodal search propensity and multimodal or skewed preference distributions) that were not captured by the parametric benchmark, and it achieved somewhat better fit and prediction overall.",
+    "Managerial implications differed materially across models: the estimated median monetary search cost was 181 yen (vs 12 yen in the benchmark), and optimal personalized couponing implied a 3.8% profit gain (vs 1.0%)."
+  ],
+  "one_line_summary": "The paper proposes and estimates a Bayesian nonparametric sequential search model and shows, through simulations and Japanese e-commerce data, that it is more robust than a parametric benchmark and can materially change managerial inferences.",
+  "relation_to_prior_work": "extends Weitzman-based empirical sequential search models in marketing by replacing fixed parametric assumptions for postsearch shocks, search costs, and preference heterogeneity with Dirichlet-process-based specifications. It also builds on Bayesian estimation approaches for search models by tailoring an MCMC scheme to these nonparametric priors.",
+  "research_gap": "Empirical sequential search research typically relies on tractability-driven parametric assumptions (for shocks, search costs, and heterogeneity) despite limited theoretical justification for specific functional forms. The paper argues that the consequences of these assumptions for inference in search models had not been systematically examined.",
+  "research_question": "How can sequential search be modeled and estimated when key latent distributions, including postsearch shocks and consumer heterogeneity, are unknown and potentially nonnormal? Does a Bayesian nonparametric specification improve recovery of behavior and managerially relevant quantities relative to state-of-the-art parametric search models?"
+}

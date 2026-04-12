@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a psychophysical model of meal size estimation in which perceived calories follow a compressive power function of actual meal size.",
+    "Shows that the observed association between BMI and calorie underestimation in prior health research is a spurious consequence of high-BMI consumers selecting larger meals to estimate.",
+    "Demonstrates that piecemeal decomposition is a practical debiasing method that improves calorie estimates (including among certified dieticians) and can shift choices toward smaller fast-food meals."
+  ],
+  "context": "The paper studies calorie estimation for fast-food meals, a setting where portion sizes are large and calorie information is often not displayed at point of choice. Evidence comes from student lab tasks, a field intercept of food-court diners in three Midwestern U.S. cities, and certified dieticians at a professional conference.",
+  "design_and_data": "The authors run four studies and model estimated calories as a power function of actual calories using log-linear regressions. Study 1 asks 55 students (low vs high BMI) to estimate calories for eight standardized fast-food meals (190-1480 calories). Study 2 uses 156 students who self-select meal components and are assigned to control, bias-disclosure, or piecemeal-estimation conditions; Study 3 is a field study of 147 fast-food consumers (of 200 approached) estimating calories after eating, with actual intake reconstructed from tray remains and restaurant nutrition data. Study 4 surveys 405 certified dieticians, comparing their own estimates, forecasts for low- and high-BMI targets, and holistic versus piecemeal estimation effects on intended meal choice and expected satiation.",
+  "focal_constructs": [
+    "calorie underestimation bias",
+    "meal size estimation",
+    "psychophysical power function",
+    "body mass index (BMI)",
+    "self-selected meal size",
+    "piecemeal decomposition",
+    "nutrition involvement",
+    "fast-food meal choice"
+  ],
+  "main_findings": [
+    "Across studies, calorie estimates are compressive (beta < 1): sensitivity to increases in meal size declines, so underestimation grows with meal size.",
+    "High-BMI participants appear to under-estimate more when estimating self-selected meals because they choose larger meals; after controlling for meal size, low- and high-BMI participants show similar estimation functions.",
+    "Bias disclosure and incentives raise average estimates but do not remove the psychophysical compression, whereas piecemeal decomposition improves estimation accuracy (for consumers and dieticians) and leads to choosing smaller but similarly satisfying meals."
+  ],
+  "one_line_summary": "Across four studies, the paper finds that calorie estimation errors in fast-food meals are driven by meal size through a compressive psychophysical process rather than by body size, and that piecemeal estimation reduces these errors and meal-size choices.",
+  "relation_to_prior_work": "challenges prior health-science interpretations that link higher BMI to intrinsically greater calorie underestimation by showing the correlation is confounded by meal size selection. extends psychophysics-based quantity perception work to calorie estimation and compares this account with common disclosure-and-incentive correction attempts.",
+  "research_gap": "Prior studies document a negative BMI-underreporting correlation but generally rely on people estimating their own intake, which confounds body size with the size of meals selected. The paper identifies an unresolved need to explain why food intake is misreported and to test whether BMI differences persist once meal size is isolated.",
+  "research_question": "Is obesity related to an intrinsic tendency of high-BMI people to underestimate calories, or is the apparent BMI-underestimation link caused by high-BMI people selecting larger meals that are harder to estimate? Can a psychophysical model explain meal-size estimation errors, and which correction approach reduces these biases in estimation and choice?"
+}

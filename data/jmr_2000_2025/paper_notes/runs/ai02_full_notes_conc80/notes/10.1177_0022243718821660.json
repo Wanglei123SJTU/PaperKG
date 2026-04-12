@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides causal evidence that liquidity constraints reduce low-income households' use of intertemporal money-saving strategies for everyday goods, above and beyond other household-specific constraints.",
+    "Shows, using recurring within-month liquidity variation, that low-income households partially catch up to higher-income households in bulk buying and sale-timing acceleration when liquidity is higher.",
+    "Offers managerial and policy implications that distinguish static vs intertemporal deal-proneness and highlight liquidity provision as a lever to reduce the poverty penalty."
+  ],
+  "context": "The paper studies U.S. household purchases of everyday nonfood grocery products in Nielsen Homescan data, with toilet paper as the primary category and paper towels, laundry detergent, and cigarettes as extensions. The setting emphasizes frequent, storable purchases where consumers can save via bulk buying or by buying earlier when items are on sale.",
+  "design_and_data": "The authors use Nielsen consumer panel data from 2006-2014 and analyze about 3.2 million toilet paper purchases from more than 104,000 households, then replicate analyses in paper towels, laundry detergent, and cigarettes. They exploit recurring within-household liquidity variation over the month and estimate difference-in-differences style regressions with household fixed effects, comparing beginning-of-month high-liquidity periods to later periods across income groups. High-liquidity periods are defined as purchases in the first week of the month and on the household's first or second shopping trip that month. They estimate effects on package size and purchase acceleration around sales, and run robustness checks with brand/channel controls, supply-side timing controls, and placebo outcomes (coupon use, store-brand choice, cheapest-brand choice).",
+  "focal_constructs": [
+    "intertemporal savings strategies",
+    "liquidity constraints",
+    "bulk buying",
+    "purchase acceleration in response to sales",
+    "poverty penalty",
+    "deal-proneness",
+    "household income"
+  ],
+  "main_findings": [
+    "Cross-sectionally, low-income households are more likely to buy cheaper and store brands but are less likely to buy large package sizes and less likely to accelerate purchases on sale than higher-income households.",
+    "When liquidity is higher at the beginning of the month, low-income households increase bulk buying relative to higher-income households, partially closing the income gap in package size choice.",
+    "When liquidity is higher, low-income households accelerate purchases in response to sales more than they do later in the month, with estimates indicating they nearly close the acceleration gap versus higher-income households; this pattern generalizes across additional categories for purchase acceleration and for bulk buying in paper towels and cigarettes."
+  ],
+  "one_line_summary": "Using Nielsen panel data and within-month liquidity fluctuations, the paper shows that liquidity constraints causally limit low-income households' use of bulk buying and sale-timing strategies for everyday goods.",
+  "relation_to_prior_work": "extends prior poverty-penalty and liquidity-response research by moving from cross-sectional differences and total spending responses to causal within-household evidence on how recurring liquidity fluctuations affect specific intertemporal savings behaviors.",
+  "research_gap": "Prior work documented income differences in prices paid and proposed multiple reasons low-income households may underuse bulk buying, but it had not empirically isolated the causal effect of liquidity constraints on intertemporal savings behaviors. The paper targets this unresolved identification problem while accounting for alternative constraints.",
+  "research_question": "Do liquidity constraints causally inhibit low-income households from using intertemporal money-saving strategies such as bulk buying and accelerating purchases to exploit temporary sales? When low-income households experience higher liquidity within the month, do they increase use of these strategies relative to higher-income households, above and beyond other confounding factors?"
+}

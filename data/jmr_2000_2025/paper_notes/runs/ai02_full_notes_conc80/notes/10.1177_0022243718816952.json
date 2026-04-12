@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides rare customer-level evidence in B2B that online and salesperson channel activities jointly shape seller sales and net profit outcomes.",
+    "Shows that multichannel customer-seller communication affects not only outcomes directly but also the deployment and efficacy of customer-specific discounts, a major B2B pricing practice.",
+    "Separates online catalog search from online purchasing over time and triangulates archival modeling with experiments to probe communication mechanisms."
+  ],
+  "context": "The study is set in B2B industrial selling, using customers of the inside sales force of a global U.S.-based industrial goods seller where standardized products are often available from multiple suppliers. It focuses on seller-managed online catalog and ordering channels plus assigned salesperson interactions.",
+  "design_and_data": "The main study uses a monthly panel of 3,653 business customers from January 2014 to March 2015 (28,909 customer-month observations), built from CRM, transaction, activity-based costing, and customer history databases. The authors jointly model customer-specific discounts, customer-level sales, and customer-level net profit with a multivariate hierarchical Bayesian framework. They address endogeneity and self-selection with a control-function approach, an inverse Mills ratio for online search, and an instrument for discount realization (newly offered discounted items). They also run two randomized 2x2 post hoc experiments with B2B buyers (n=117 and n=120) to test need fulfillment and perceived risk mechanisms.",
+  "focal_constructs": [
+    "online catalog search",
+    "online purchasing",
+    "customer-salesperson contact",
+    "customer-specific discounts",
+    "customer-level sales revenue",
+    "customer-level net profit",
+    "need fulfillment",
+    "perceived risk"
+  ],
+  "main_findings": [
+    "Online catalog search and online purchasing have a positive interaction effect on both customer-level sales and customer-level net profit.",
+    "Customer-salesperson contact positively interacts with online catalog search and online purchasing to raise sales, and the main model also finds positive interaction effects on net profit.",
+    "Online catalog search and online purchasing are positively related to customer-specific discounts and increase discounts' positive effects on sales and profit; salesperson contact does not significantly increase discount deployment but does strengthen discounts' effect on sales."
+  ],
+  "one_line_summary": "Using customer-level B2B panel data and two experiments, the paper finds that online search and purchasing complement salesperson contact and improve the sales and profit impact of customer-specific discounts.",
+  "relation_to_prior_work": "extends multichannel research by moving from mostly B2C or firm-level analyses to customer-level B2B sales and profit effects of distinct online search and online purchasing behaviors alongside salesperson contact. It also integrates customer-specific discounts into the multichannel framework, an area the authors note was largely unexamined.",
+  "research_gap": "Prior work offered limited customer-level B2B evidence on how different channel activities translate into differential sales and profit for individual customers. The role of cross-channel communication in the deployment and effectiveness of customer-specific discounts was also not directly examined.",
+  "research_question": "How does a B2B customer's online channel activity affect the seller's customer-level financial outcomes? Does contact with a dedicated salesperson complement online search and purchasing, and if so through what communication mechanisms? How do online and salesperson channel activities influence the deployment and efficacy of customer-specific discounts?"
+}

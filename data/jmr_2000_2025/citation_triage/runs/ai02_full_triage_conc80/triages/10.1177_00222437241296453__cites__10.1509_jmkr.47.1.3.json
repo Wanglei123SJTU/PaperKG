@@ -1,0 +1,4 @@
+{
+  "rationale": "The notes indicate strong methodological overlap: the citing paper proposes a two-stage copula-generated regressor control-function method for endogeneity, and the cited paper introduces a two-step residual-based control-function approach to endogeneity in consumer choice. This makes the citation plausibly a substantive method/foundation reference rather than a generic mention. With only DOI-level match evidence and no context snippet, it should be retained for full relation judgment rather than dropped.",
+  "triage_decision": "keep_for_relation_judgment"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper introduces cast demographics of main characters as explicit show attributes in a structural television viewing demand model.",
+    "It incorporates both observed and unobserved heterogeneity in genre preferences and allows switching costs to vary by show type and viewer demographics.",
+    "It shows improved predictive performance relative to a Rust-Alpert benchmark and demonstrates how the model can inform ratings-improving scheduling choices."
+  ],
+  "context": "The study is set in U.S. weekday prime-time television viewing, focusing on ABC, CBS, NBC, and FOX, with additional nonnetwork and no-TV options. The managerial context is network programming and scheduling aimed at improving ratings and advertising value.",
+  "design_and_data": "The authors use ACNielsen People Meter individual-level panel data for Monday through Friday, 8:00-11:00 P.M., from the week beginning November 6, 1995, with viewing observed in 15-minute intervals. After restrictions (East coast, age over six, usable meters, and at least some network viewing), the sample is 3231 viewers, split into 1675 for estimation and 1556 for holdout validation. They code show attributes including genre and cast demographics (age, sex, African American cast indicator, family orientation) and estimate a utility-based nested multinomial logit with discrete latent viewer types by maximum likelihood. They compare against an enriched Rust-Alpert model using cross-validation and jackknife-style prediction tests and then run programming/scheduling simulations.",
+  "focal_constructs": [
+    "cast-viewer demographic match",
+    "show category preferences",
+    "unobserved viewer segments",
+    "heterogeneous switching costs",
+    "audience flow/state dependence",
+    "television ratings prediction",
+    "counterprogramming and homogeneous scheduling"
+  ],
+  "main_findings": [
+    "Viewers are significantly more likely to watch shows whose cast demographics match their own, and a perfect demographic match raises viewing likelihood by about 1.79 times versus a poor match.",
+    "The model identifies three unobserved viewer segments with large differences in sitcom preference, and estimated switching costs differ by both viewers and shows, including lower switching costs for men and during news and sports.",
+    "Compared with an enriched Rust-Alpert benchmark, the model improves predictive fit on aggregate error metrics and predicts substantial ratings gains from schedule adjustments, including estimated selected-evening increases of 12.9% for ABC, 7.5% for CBS, and 6.7% for NBC."
+  ],
+  "one_line_summary": "Using ACNielsen quarter-hour panel data, the paper estimates a television viewing choice model with cast demographic matching, latent segments, and heterogeneous switching costs, and shows it predicts ratings better than Rust-Alpert while implying profitable scheduling changes.",
+  "relation_to_prior_work": "extends Rust and Alpert's audience-flow viewing model by adding cast demographic matching, latent preference heterogeneity, and switching costs that vary with show types and viewer demographics. It also evaluates performance against an enriched Rust-Alpert specification and reports better prediction on aggregate rating-focused measures.",
+  "research_gap": "Prior viewing-choice work largely characterized shows by broad categories and did not include cast demographics in demand estimation. The paper also argues that without modeling unobserved preference heterogeneity and flexible switching costs, state dependence may be misattributed and prediction for programming decisions may suffer.",
+  "research_question": "How can television viewing choices be modeled when utility depends on demographic match between viewers and show casts, observed and unobserved heterogeneity in genre preferences, and switching costs that vary across shows and individuals? Does this richer model improve predictive accuracy over the Rust-Alpert framework and provide better guidance for programming and scheduling decisions?"
+}

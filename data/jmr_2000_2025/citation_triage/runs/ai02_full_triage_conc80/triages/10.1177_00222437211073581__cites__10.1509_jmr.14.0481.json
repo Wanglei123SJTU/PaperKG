@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s core design uses a “20-question adaptive DEEP Time task” to estimate time-preference parameters (beta, delta), while the cited paper explicitly uses incentive-compatible adaptive DEEP elicitation of present bias and long-term discounting. Given this direct overlap in focal method/constructs (time-preference elicitation) and a confirmed DOI match, this citation is plausibly methodological/foundational rather than a generic mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

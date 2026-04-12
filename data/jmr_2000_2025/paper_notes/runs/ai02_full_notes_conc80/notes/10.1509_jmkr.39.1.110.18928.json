@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "To our knowledge, this is the first study to examine how basic personality traits relate to an explicit measure of service workers' customer orientation.",
+    "The paper introduces a hierarchical personality model in which a context-specific surface trait (customer orientation) helps explain service performance evaluations beyond basic traits alone.",
+    "It adds need for activity to the trait set and shows it is an important predictor of customer orientation in this service context."
+  ],
+  "context": "The study is set in the food service industry, using frontline restaurant employees and their supervisors. Data come from full-service and fast-food restaurants in a midsize university-dominated community.",
+  "design_and_data": "The authors conducted a field study with matched employee-supervisor responses from 27 restaurant firms (final usable sample n = 249). Employees reported basic personality traits, customer orientation (needs and enjoyment dimensions), and self-rated performance, while supervisors rated the same employees' performance on global quality and quantity items. They estimated structural equation models in LISREL comparing full versus partial mediation by customer orientation, and used hierarchical regression to test incremental variance explained.",
+  "focal_constructs": [
+    "customer orientation",
+    "needs dimension of customer orientation",
+    "enjoyment dimension of customer orientation",
+    "emotional instability",
+    "agreeability",
+    "conscientiousness",
+    "need for activity",
+    "service performance ratings"
+  ],
+  "main_findings": [
+    "A partially mediated hierarchical model fit better than a fully mediated model, and adding customer orientation increased explained variance in both self-rated and supervisor-rated performance.",
+    "Emotional instability negatively predicted customer orientation, while agreeability and need for activity positively predicted it; basic traits explained about 39% of variance in customer orientation.",
+    "Customer orientation positively related to both self and supervisor performance ratings, conscientiousness had direct positive effects on both rating sources, and agreeability had a direct negative effect on supervisor ratings."
+  ],
+  "one_line_summary": "Using matched restaurant employee-supervisor data, the paper shows that customer orientation partly mediates personality effects on service performance ratings.",
+  "relation_to_prior_work": "extends prior service personality-performance research that focused mainly on direct trait effects by modeling customer orientation as a context-specific surface trait mediator. It also builds on individual customer orientation measurement work by specifying needs and enjoyment dimensions for service employees.",
+  "research_gap": "The paper argues that individual-level customer orientation in service settings has been underexamined, especially regarding its determinants. Prior personality-performance studies in services largely tested direct links from basic traits to performance and omitted a direct measure of employees' disposition to be customer oriented.",
+  "research_question": "Which basic personality traits predict service employees' customer orientation, and does customer orientation mediate the relationship between those traits and overall performance ratings? The paper also asks whether a hierarchical model including customer orientation explains performance better than a model with only direct trait effects."
+}

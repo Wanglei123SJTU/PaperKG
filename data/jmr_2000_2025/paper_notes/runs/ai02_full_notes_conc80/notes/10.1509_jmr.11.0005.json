@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Develops a formal model of differentiated status-goods competition in which consumer value is endogenized through beliefs about owner and nonowner type composition, with a matching-game microfoundation for image value.",
+    "Shows a counterintuitive competitive mechanism: two status goods can be substitutes in consumer utility but complements in firms' profit functions, generating nonstandard pricing, entry, and merger implications.",
+    "Provides experimental evidence for both core assumptions about signaling value and a key comparative-static prediction that one product's price cut can increase demand for the other product."
+  ],
+  "context": "The paper studies markets for status or self-expressive goods (e.g., luxury cars, designer fashion, watches) where ownership signals desirable type. The modeled market has two high-type subsegments and one low-type segment, and firms compete by pricing differentiated status products.",
+  "design_and_data": "The authors build a game-theoretic model with two firms setting prices and consumers choosing among two status products or no purchase, where utility depends on inferred type from ownership patterns. They derive equilibrium conditions, comparative statics, and implications for duopoly, single-product monopoly, and two-product monopoly (horizontal integration). They run an online survey experiment (80 participants in one manipulation and 40 in a second manipulation) using luxury-watch scenarios to test whether perceived value depends on owner and nonowner composition. They also run a lab experiment with 56 undergraduates in four computerized sessions of repeated purchase-matching decisions, varying one product's price (28 vs. 35.5 francs) while holding the other at 33 francs.",
+  "focal_constructs": [
+    "status goods",
+    "consumer signaling",
+    "image value",
+    "ownership distribution",
+    "high-type and low-type consumers",
+    "cross-price demand effects",
+    "duopoly pricing",
+    "horizontal integration"
+  ],
+  "main_findings": [
+    "Perceived desirability of a status product increases when desirable types are more prevalent among owners and decreases when undesirable types are more prevalent among owners; it also increases when desirable types are less prevalent among nonowners.",
+    "In the lab experiment, lowering one product's price increased demand not only for that product but also for the competing product with unchanged price, consistent with the model's key prediction.",
+    "In equilibrium analysis, a rival's cost reduction can benefit both firms, and prices under separate ownership can exceed those under joint ownership of both products; competitor entry can even raise the incumbent's profit in some cases."
+  ],
+  "one_line_summary": "The paper models and experimentally tests differentiated status-goods competition and finds that a price cut for one product can raise demand for both products, implying profit complementarity and nonstandard effects of competition, entry, and integration.",
+  "relation_to_prior_work": "extends prior signaling-based status-goods theory that focused on monopoly or perfectly competitive supply by analyzing differentiated price competition between firms. It also contrasts with conformity-exclusivity models by deriving conditions under which a product's demand can decrease when a competitor's price rises.",
+  "research_gap": "Prior work did not clearly characterize how nontrivial differentiated competition changes pricing and profitability when status value is endogenous to ownership distributions. In particular, whether standard competitive intuitions about cross-price effects and entry carry over to status-goods markets remained unresolved.",
+  "research_question": "How does price competition work when products derive value from status signaling and that value depends on who owns and who does not own the products? The paper asks whether a price or cost decrease for one status product can increase demand and profits for a competing product, and how duopoly outcomes compare with monopoly ownership structures."
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is a close methodological predecessor: it applies LDA to mine latent dimensions/valence from online reviews, while the citing paper explicitly positions its contribution against existing topic-model approaches for review text and ratings (its stated gap is limitations of prior topic models). Given this direct overlap in domain (online review text mining in marketing) and likely foundational/method-source role, this is not an obvious incidental mention despite only DOI-level matched reference evidence.",
+  "triage_decision": "keep_for_relation_judgment"
+}

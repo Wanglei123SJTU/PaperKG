@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is not just listed as general background; it is explicitly used in the model section as the approach the authors follow to address nonrandom detailing and endogeneity in physician-level demand estimation. The citing paper adopts this logic when specifying the linked prescription-detailing system and interpreting key parameters, and it also compares its estimates to Manchanda et al.'s results. This shows the cited study plays a meaningful methodological role in the paper's empirical design.",
+  "relation_description": "The citing paper uses Manchanda, Rossi, and Chintagunta (2004) as a methodological foundation for correcting detailing endogeneity in its demand model. It then builds its own data-enrichment and competitive-reaction framework on top of that base.",
+  "relation_type": "foundational_for"
+}

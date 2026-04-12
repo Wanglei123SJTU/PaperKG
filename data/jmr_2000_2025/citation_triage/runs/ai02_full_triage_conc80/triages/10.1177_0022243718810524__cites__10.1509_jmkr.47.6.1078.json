@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper appears to be a plausible methodological predecessor rather than a generic mention: it develops an augmented Kalman filter for nonlinear state-space advertising dynamics, while the citing paper explicitly positions itself as extending Kalman-style parametric marketing dynamics with new Bayesian nonparametric state-space estimators. Given this clear method/domain overlap (dynamic advertising response modeling) and a confirmed DOI match, this pair is worth full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

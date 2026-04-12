@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper explicitly emphasizes correcting mailing endogeneity by jointly estimating mailing-decision equations with the response model using Bayesian random effects, which closely matches the cited paper’s core contribution on modeling nonrandom marketing-mix allocation and simultaneity via a joint hierarchical Bayes framework. Given this strong methodological overlap (beyond a generic background mention), this pair should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

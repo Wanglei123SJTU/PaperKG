@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces buyer monitoring as a service employee control mechanism in marketing and develops the economics argument that buyers can sometimes monitor and reward service workers more efficiently than firms.",
+    "Provides the first empirical tests of buyer monitoring's service-enhancing effects, showing that it motivates good service and encourages customer-oriented service behavior better than alternative control approaches.",
+    "Offers a conceptual and empirical resolution of the tipping-service puzzle by arguing that perceived service-reward contingency among servers matters more for motivation than the observed customer rating-tip correlation."
+  ],
+  "context": "The paper studies hospitality service settings where interactions are complex and personalized, focusing on leisure cruises and restaurant dining. Empirical contexts include cruise ships, Miami Beach restaurants, and U.S. restaurant servers.",
+  "design_and_data": "The paper uses multimethod evidence: a preliminary cruise analysis, a field cross-sectional restaurant study, a large server survey, and a scenario experiment. The preliminary analysis used Ward (1995) data (one ship per cruise line) to compare service ratings for 54 ships with voluntary tipping versus 16 with no tipping, with controls. Study 1 analyzed 107 Miami Beach restaurants using Zagat service ratings and phone-collected tipping-policy data, controlling for food, decor, and price. Study 2 surveyed 1,189 current U.S. servers across 48 states on perceived service-tip contingency and service behaviors, and Study 3 randomized 469 current/former servers to tipping, service-charge, or wages-only scenarios (plus supervision manipulation) and measured self-reported motivation and behavior factors.",
+  "focal_constructs": [
+    "buyer monitoring",
+    "voluntary tipping",
+    "service quality",
+    "personalized service",
+    "perceived service-tip contingency",
+    "customer-oriented service behaviors",
+    "sales-oriented service behaviors",
+    "employee control mechanisms"
+  ],
+  "main_findings": [
+    "In both cruise and restaurant observational analyses, units with voluntary tipping policies had significantly higher service ratings than units with no tipping or automatic service charges after controls.",
+    "Most surveyed servers believed tips were meaningfully contingent on service, and stronger perceived service-tip contingency was positively associated with more frequent positive service behaviors, including after controls.",
+    "In the experiment, voluntary tipping increased customer-oriented service motivation and behavior versus both service-charge and wages-only policies, while sales-oriented motivation and behavior were similar under tipping and service charges and lower under wages-only pay."
+  ],
+  "one_line_summary": "Across cruise and restaurant studies, the paper shows that buyer monitoring through voluntary tipping improves personalized service, largely because servers perceive tips as contingent on service quality.",
+  "relation_to_prior_work": "introduces buyer monitoring from economics into marketing's service control literature and challenges the prior inference from tipping studies that weak observed service-tip correlations imply weak incentive effects.",
+  "research_gap": "Service quality research emphasizes frontline interactions, but marketing evidence on how to motivate service workers in highly customized, low-programmability contexts is limited. The paper identifies a lack of direct empirical tests of buyer monitoring and addresses the unresolved tipping-service puzzle.",
+  "research_question": "Does buyer monitoring, operationalized mainly as voluntary tipping, motivate service employees to provide friendlier and more personalized service than alternative compensation policies? The paper also asks whether this can reconcile high observed service levels with the weak empirical correlation between customers' service ratings and tip size."
+}

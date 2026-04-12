@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper documents a counterintuitive negative association between mobile app adoption and overall customer spending in a highly competitive market, contrasting prior positive findings.",
+    "It links this outcome to institutional features of hospitality - intense app competition, high search relevance, and derived demand - and provides evidence consistent with shopping-around across competing apps.",
+    "It offers managerial guidance by showing that deeper app engagement, especially mobile check-in usage, can mitigate the negative spending effect while app adoption increases direct-channel spending share."
+  ],
+  "context": "The setting is a large international hotel group that launched a loyalty-member mobile app in August 2011 in a market where major hotel chains and online travel agencies also had competing apps. Customers book through direct channels (website, property/call center, mobile website/app) and third-party channels (GDS, OTAs, other intermediaries).",
+  "design_and_data": "The data come from the focal hotel group and span January 2011 to February 2015, with reservation records, app adoption and usage, and customer demographics. The authors focus on existing customers and draw a random sample of 60,000 eventual app adopters from six adoption cohorts (10,000 each), covering 1,937,124 reservations. They construct 10 treatment-control cohort pairs by adoption timing and estimate two-period DID models over six months pre and six months post adoption (excluding the adoption month), then augment with Heckman-type selection correction and propensity score matching. They also run channel-level and latent-class analyses, plus robustness checks and mechanism analyses using app-market app counts and mobile check-in usage.",
+  "focal_constructs": [
+    "mobile app adoption",
+    "multichannel customer spending",
+    "difference-in-differences treatment effect",
+    "app market competition intensity",
+    "shopping-around behavior",
+    "share of wallet",
+    "app engagement",
+    "mobile check-in service"
+  ],
+  "main_findings": [
+    "Across all tested treatment-control pairs and model variants, app adoption is associated with a significant negative change in customers' total spending with the focal hotel group, often greater than 10%.",
+    "The spending decline appears in both direct and third-party channels, but it is generally stronger in third-party channels, implying a higher direct-channel spending share after adoption.",
+    "Evidence is consistent with a shopping-around mechanism: the negative effect becomes stronger when more hotel and travel apps are available, and higher app engagement via mobile check-in is associated with more favorable spending outcomes than search-only app use."
+  ],
+  "one_line_summary": "Using multiyear hotel booking data and DID-based analyses, the paper finds that adopting a hotel group's app is linked to lower overall customer spending in a highly competitive app market, with mitigation from deeper app engagement such as mobile check-in.",
+  "relation_to_prior_work": "challenges prior mobile app adoption studies that generally report positive effects on overall spending by showing an opposite pattern in a highly competitive hospitality context. It also highlights boundary conditions related to market competition, search intensity, and engagement depth.",
+  "research_gap": "Prior mobile app adoption studies mostly report positive spending effects in settings with low to medium app-market competition, leaving limited evidence for highly competitive contexts. The paper argues that hospitality may differ because customers can easily adopt multiple hotel and OTA apps, search broadly, and reallocate spending.",
+  "research_question": "Does adopting a focal hotel group's mobile app increase or decrease customers' total spending with that hotel group across channels in a highly competitive hospitality app market? What mechanisms in this context, including potential shopping-around across apps and app engagement behavior, help explain the observed spending change?"
+}

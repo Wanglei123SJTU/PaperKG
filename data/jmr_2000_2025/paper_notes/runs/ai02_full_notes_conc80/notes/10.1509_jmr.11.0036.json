@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces a dynamic factor model of brand satiation embedded in a direct utility framework that accommodates both corner and interior demand solutions (multiple discreteness).",
+    "Links baseline utility and satiation parameters to a large set of manufacturer-provided product characteristics, while using a factor structure specifically for satiation to identify which characteristics drive satiation.",
+    "Introduces time-varying household factor scores to represent evolving satiation sensitivity and uses them to study downstream welfare measures such as compensating values for assortment changes."
+  ],
+  "context": "The empirical application is an experiment on corn chips purchases by undergraduate students at a large university. Participants chose among eight chip varieties over seven weeks under a fixed weekly snack budget and discounted prices.",
+  "design_and_data": "The authors estimate a constrained utility maximization model with baseline utility and satiation parameters, mapped from product characteristics and augmented with temporal dynamics. Data come from 101 students and 634 purchase occasions, with quantity vectors over eight chip varieties plus an outside good (unspent budget). They compare 14 Bayesian models spanning no-dynamics, deterministic time trends, dynamic factor specifications, models without characteristics, and a two-factor extension. Model comparison uses log-marginal likelihood and DIC, with posterior inference via MCMC.",
+  "focal_constructs": [
+    "dynamic brand satiation",
+    "multiple discreteness demand",
+    "baseline marginal utility",
+    "satiation parameters",
+    "dynamic factor loadings and scores",
+    "product characteristics",
+    "compensating value",
+    "product line assortment"
+  ],
+  "main_findings": [
+    "A one-factor dynamic factor model for satiation with a quadratic time trend for baseline utility (Model 9) provides the best fit among the 14 models.",
+    "Satiation is well represented in a low-dimensional characteristics space, but imposing a comparable factor restriction on baseline utility overly restricts preferences.",
+    "Estimated excitement scores decline for many households (about 60 percent show negative change from first to last period), indicating quickening satiation, and average compensating values for assortment tend to increase over time and are much larger than in a base non-dynamic model."
+  ],
+  "one_line_summary": "Using a seven-week corn-chip purchase panel, the paper shows that a multiple discrete-continuous dynamic factor model captures brand satiation as a low-dimensional, time-varying process and implies rising assortment value as satiation quickens.",
+  "relation_to_prior_work": "extends Bhat (2005) by adding attribute-based baseline utility and dynamic satiation components to a multiple discrete-continuous utility model. It also departs from Rutz and Sonnier (2011) by modeling temporal satiation through evolving household factor scores in this demand setting, rather than relying on regime-stable time-varying factor loadings for brand intercepts.",
+  "research_gap": "The paper argues that quantifying dynamic brand satiation is difficult when categories have many brands and characteristics but panel data are temporally limited. Prior low-dimensional approaches can be too restrictive, and existing dynamic factor approaches are not tailored to multiple-discreteness demand with both corner and interior solutions.",
+  "research_question": "Can brand satiation dynamics be modeled parsimoniously in a multiple discrete-continuous demand system using product characteristics and a dynamic factor structure? Do satiation effects lie in a lower-dimensional space than baseline preferences, and what does this imply for welfare and product assortment decisions over time?"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s methodological contribution and stated prior-work link center on extending Park & Gupta-style Gaussian-copula endogeneity correction to fixed-effects panel models, whereas the cited paper focuses on a substantive permission-marketing application using trivariate vine copulas for opt-in/opt-out timing. The overlap appears to be only the broad use of copulas, and the matched evidence is just a DOI-level reference with no indication of direct methodological dependence in this specific FE endogeneity framework.",
+  "triage_decision": "drop_obvious_mention_only"
+}

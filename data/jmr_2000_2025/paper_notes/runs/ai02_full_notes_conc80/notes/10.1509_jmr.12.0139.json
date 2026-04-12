@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper jointly models hotel quality choice at purchase and post-stay satisfaction rather than treating them as separate outcomes.",
+    "It introduces and empirically evaluates three purchase-time circumstantial variables (lead time, travel distance, and business-hours booking) as drivers of both choice and satisfaction.",
+    "It embeds these variables in a formal two-stage economic model with correlated choice and satisfaction components, showing the value of adding circumstantial factors to prediction."
+  ],
+  "context": "The setting is online hotel booking on a discount travel website that shows star rating and price before purchase but reveals the hotel name after payment. Customers prepay at reservation and then receive a post-checkout satisfaction survey; the analysis focuses on leisure trips to 200 U.S. destination cities.",
+  "design_and_data": "The authors use field data from an online travel site covering reservations from January 2008 to October 2009. From 10,193 initial customers, they construct a leisure-trip sample of 4,582 consumers making 5,093 trips, with 120,758 hotel alternatives observed across those trips. They model behavior in two stages: a nested logit for hotel choice and an ordered satisfaction model, jointly estimated with correlated errors using a flexible bivariate logistic structure and hierarchical Bayes. They estimate on 3,382 trips and assess predictive performance on a 1,711-trip holdout sample.",
+  "focal_constructs": [
+    "hotel quality-price trade-off",
+    "postpurchase satisfaction",
+    "time gap between purchase and consumption",
+    "distance between purchase and consumption",
+    "time of purchase (business vs nonbusiness hours)",
+    "prospective accounting",
+    "psychological distance",
+    "resource depletion"
+  ],
+  "main_findings": [
+    "Consumers who book earlier, travel farther, and book during business hours are more likely to choose higher-star hotels.",
+    "Consumers who travel farther and consumers who book during business hours are less satisfied with their hotel stay.",
+    "Earlier booking is associated with higher satisfaction overall, and the estimates indicate a significant prospective-accounting effect that can outweigh the opposing higher-expected-utility effect."
+  ],
+  "one_line_summary": "Using online hotel reservation and survey data, the study shows that booking lead time, travel distance, and business-hour booking jointly influence both hotel quality choice and post-stay satisfaction.",
+  "relation_to_prior_work": "extends prior research that has examined purchase choice and satisfaction in separate streams by modeling both decisions jointly in one empirical framework. It also links purchase-time circumstantial variables, beyond standard expectation-based antecedents, to subsequent satisfaction judgments.",
+  "research_gap": "Prior research has largely treated purchase decisions and satisfaction judgments separately, and the satisfaction literature had not clearly tied purchase-time circumstances to later satisfaction assessments. The authors also argue that the three focal circumstantial variables had not been empirically examined together in this context.",
+  "research_question": "Do purchase-time circumstances - booking lead time, traveler-to-destination distance, and whether booking occurs during business hours - affect both the quality level of hotel chosen and post-stay satisfaction? Can a joint two-stage model quantify these effects while accounting for dependence between choice and satisfaction and the opposing expectation versus prospective-accounting mechanisms?"
+}

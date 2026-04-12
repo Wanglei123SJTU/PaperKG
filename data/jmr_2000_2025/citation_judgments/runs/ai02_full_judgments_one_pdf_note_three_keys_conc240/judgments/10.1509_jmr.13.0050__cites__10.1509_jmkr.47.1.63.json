@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used directly in the model development, not just as background. In the consideration-stage specification, the authors explicitly follow Van Nierop et al. (2010) by modeling latent utilities for channel inclusion via a multivariate probit-style consideration framework. They also return to it when interpreting prediction results, noting similar findings when comparing models with versus without consideration sets. This indicates a meaningful methodological role in the citing paper's setup and interpretation.",
+  "relation_description": "The citing paper applies Van Nierop et al. (2010)'s consideration-set modeling idea to online channel choice by using a latent-utility formulation for which channels consumers consider. It integrates that consideration component into a broader multistage attribution model (consideration, visit, purchase) for multichannel conversion analysis.",
+  "relation_type": "applies"
+}

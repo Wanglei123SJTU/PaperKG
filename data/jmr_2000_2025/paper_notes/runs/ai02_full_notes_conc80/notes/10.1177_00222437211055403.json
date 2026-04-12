@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces and empirically tests the 'rabbit hole effect' in media consumption.",
+    "Provides causal evidence that consecutively consuming similar media increases subsequent choice of similar media, including stand-alone/divisible media and externally induced viewing patterns.",
+    "Develops and tests an accessibility-based framework in which similarity salience, repetition, and consecutiveness increase immersion and anticipated enjoyment, with implications for recommendation and advertising strategies."
+  ],
+  "context": "The paper studies consumer media choices on digital platforms such as YouTube, Instagram, and Netflix, including stand-alone clips/images and TV episodes. The focal decision is whether people choose more category-similar media versus dissimilar media or a different task.",
+  "design_and_data": "The authors report ten real-behavior studies and three supplemental studies, with preregistration for ten studies and materials/data posted on OSF. Participants were primarily U.S. adults from MTurk and Prolific, plus one student sample in a Netflix episode study. Experiments manipulated prior consumption patterns (shared category labels, repetition level, and consecutive vs alternating sequence), then observed actual subsequent choices between similar and dissimilar options (including nonmedia tasks). Process evidence included immersion measures, a thought-listing accessibility measure, anticipated enjoyment measures, serial mediation tests, and boundary/intervention tests using ad-category match and a two-day delay.",
+  "focal_constructs": [
+    "rabbit hole effect",
+    "consecutive similar media consumption",
+    "category accessibility",
+    "immersion",
+    "anticipated enjoyment",
+    "similarity salience",
+    "repetition",
+    "consecutiveness and recency"
+  ],
+  "main_findings": [
+    "After people consumed multiple similar media consecutively, they were more likely to choose another similar option over a dissimilar option or a different task, even when prior consumption was externally assigned.",
+    "Increasing accessibility cues - salient shared category labeling, greater repetition, and consecutive (vs interrupted/alternating) exposure - increased similar-choice behavior and increased immersion/category-related thought accessibility.",
+    "The effect operated through immersion and anticipated enjoyment (serial mediation evidence), was weaker for identical low-complexity repetition, was attenuated by dissimilar ads and by time delay, and was strengthened by category-similar ads."
+  ],
+  "one_line_summary": "Across experiments, consecutive consumption of multiple similar media pushes consumers down a 'rabbit hole' by increasing shared-category accessibility, which heightens immersion and anticipated enjoyment of further similar options.",
+  "relation_to_prior_work": "extends prior variety-seeking/consistency and binge-watching research by providing causal evidence that similar consumption can self-perpetuate for stand-alone divisible media via category accessibility, not only for storyline-based TV continuation.",
+  "research_gap": "Prior theory gave conflicting expectations (variety seeking from satiation vs continued viewing), and existing binge-watching evidence was largely observational and centered on TV series with continuous narratives. The paper targets the unresolved causal question of whether and why prior similar media consumption drives subsequent similar choice outside storyline-dependent contexts.",
+  "research_question": "What makes consumers choose additional media in the same category versus switch to different media or another task after prior media consumption? The paper asks whether consecutively consuming similar media causally increases subsequent similar choice, even when that sequence is externally induced, and whether category accessibility (via immersion and anticipated enjoyment) explains the effect."
+}

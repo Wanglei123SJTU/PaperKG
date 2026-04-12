@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper identifies a source of number-processing fluency in practiced arithmetic facts, showing that common addition and multiplication results (and related operands) can make numbers more fluent and more liked.",
+    "It introduces a constraint on number-fluency priming: indirect single primes can help, but multiple primes that map to the same result create interference and reduce the fluency benefit.",
+    "It demonstrates marketing consequences of number fluency for numeric brand names, advertising execution, and price-promotion design."
+  ],
+  "context": "The paper studies consumer judgments in marketing settings where numbers appear in brand names, product labels, and promotional prices. Empirical contexts include lab tasks and ad/choice scenarios for categories such as anti-itch cream, shampoo, body spray, contact lenses, juice, and pizza promotions.",
+  "design_and_data": "The evidence comes from six experiments plus an ancillary choice study using undergraduate participants. Study 1 (n = 306) measured liking and reaction times for numbers 1-100; Study 2 (n = 236) used conjoint-based choices in anti-itch cream and shampoo profiles with brand-number manipulations. Studies 3a (n = 151), 3b (n = 143), and 5 (n = 174) manipulated common versus uncommon arithmetic and operand primes, and used equation-verification response times as a fluency/accessibility measure with mediation tests. Study 4 (n = 185) and Study 6 (n = 141) used print-ad evaluations of numeric brand names and promotional prices; an ancillary ad-choice test (n = 79) examined V8 versus Campbell's juice choice.",
+  "focal_constructs": [
+    "processing fluency",
+    "number liking",
+    "common arithmetic results",
+    "number facts",
+    "arithmetic problem primes",
+    "operand primes",
+    "numeric brand names",
+    "promotional price evaluation"
+  ],
+  "main_findings": [
+    "Numbers that are common sums or products were liked more than other numbers (controlling for number magnitude), and higher number liking was associated with faster responses in Study 1.",
+    "Brand names with product numbers were chosen more often than equivalent nonproduct-number or no-number names in conjoint tasks, and matching operand primes in ads increased evaluation only when the brand number was the corresponding product number.",
+    "Common arithmetic or operand primes increased liking and verification fluency for associated results, whereas uncommon problem primes did not; priming two different number facts with the same result removed the benefit, and in promotions one relevant prime set improved offer evaluation while two sets did not."
+  ],
+  "one_line_summary": "The paper shows that consumers prefer numbers tied to common arithmetic facts, that matching arithmetic or operand primes can raise this fluency-based preference, and that these effects influence numeric brand and price-promotion evaluations.",
+  "relation_to_prior_work": "extends processing fluency research by linking number liking to arithmetic fact representations and indirect operand/problem priming rather than only direct target repetition. refines prior fluency accounts by showing a boundary condition in which multiple primes that share one numeric result create interference and eliminate the fluency gain.",
+  "research_gap": "Prior fluency work had not clearly explained why certain numbers are liked more than others or how number representations from learned arithmetic facts generate fluency effects. The authors argue that for numbers, direct priming may be nondiagnostic, so the sources and practical consequences of number fluency needed to be established.",
+  "research_question": "Do consumers like numbers more when those numbers are fluent because they are outcomes of common arithmetic facts, and can this fluency be changed through arithmetic-problem or operand priming? Do these fluency effects carry over to marketing outcomes such as preference for numeric brand names and evaluations of promotional prices, including limits when multiple primes are used?"
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Shows with practitioner evidence that large geographic variation in brand performance and response was already known and used in practice before its recent academic documentation.",
+    "Demonstrates that the highest managerial leverage is geographic reallocation of marketing resources based on incremental response, not allocation rules based on local share indexes such as BDI.",
+    "Calls for deeper academic-practitioner collaboration and larger multiarea, multiyear datasets to explain persistent geographic differences and improve strategy."
+  ],
+  "context": "The comment is set in U.S. consumer packaged goods markets using Information Resources Inc. scanner-based analyses across local geographic areas. The main illustration is a national detergent brand analyzed across multiple U.S. markets.",
+  "design_and_data": "This is a practitioner-oriented comment rather than a new full empirical article. Lodish reports a 1991 IRI analysis for one national detergent brand (\"Old Yeller\") across 66 markets, using the PromotionScan approach to estimate incremental sales from merchandising (features and displays) from store-level scanner data aggregated to markets. Because direct merchandising costs were unavailable, the team used market size and ACV-weighted promotion weeks as a proxy proportional to spending and evaluated reallocation scenarios. The comment also includes a disguised IRI (2006) cross-market figure comparing BDI and TV advertising responsiveness.",
+  "focal_constructs": [
+    "geographic variation in market response",
+    "market share differences",
+    "scanner data",
+    "incremental sales from merchandising",
+    "ACV-weighted weeks of promotion",
+    "brand development index (BDI)",
+    "television advertising responsiveness"
+  ],
+  "main_findings": [
+    "For the Old Yeller case, market-weighted merchandising response differed by more than 20x across markets (e.g., 8617 in Knoxville vs 420 in Houston), with dispersion of 0.648.",
+    "The response dispersion in this case is higher than the reported share dispersion benchmark for top-selling brands with true national distribution (0.433), indicating substantial heterogeneity in actionable response.",
+    "A simulated reallocation of 14 market-weighted weeks of merchandising from 12 low-response markets to 11 high-response markets produced a net gain of 87,639 cases (a bit over 3% of national volume) at virtually no incremental cost, and the advertising example shows a slight negative relation between BDI and ad responsiveness."
+  ],
+  "one_line_summary": "Using IRI scanner-data examples, Lodish argues that geographic heterogeneity in marketing response is managerially decisive and that reallocating support by local response rather than by local share can materially increase brand performance.",
+  "relation_to_prior_work": "challenges the novelty framing around geographic variation by arguing that practitioners had long documented and acted on local response differences using scanner data.",
+  "research_gap": "The paper argues that academic discussion had not adequately incorporated practitioners' long-standing evidence that geographic variation in marketing-mix response is large and directly actionable. It also highlights a communication gap in which practical know-how was not quickly formalized in academic work.",
+  "research_question": "The comment asks whether marketers should allocate resources geographically based on estimated local response rather than on local share levels. It also asks what the documented lag between practitioner learning and academic formalization implies for future collaboration and research on persistent area differences."
+}

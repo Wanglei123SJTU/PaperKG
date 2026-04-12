@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper presents what the authors describe as the first statistical approach in advertising to jointly use high-frequency eye-tracking and automated facial-expression data to predict avoidance behavior.",
+    "It provides moment-to-moment evidence on how two specific positive emotions, joy and surprise, influence engagement with video ads through both attention and zapping decisions.",
+    "It develops representative and optimal emotion-trajectory templates (for example, peak-and-stable and peak-valley-peak) to support video ad design and pretesting."
+  ],
+  "context": "The study is set in Internet video advertising, where ads are embedded in web pages and viewers can continue watching or zap to the next ad. The empirical setting uses online video ads from multiple product categories and brands.",
+  "design_and_data": "In a controlled lab browsing experiment, 58 participants were recruited, and the main analysis is reported on 50 viewers exposed to 28 online video advertisements. Joy and surprise were measured every 250 ms using automated facial-expression detection, attention concentration was measured via infrared eye tracking, and viewer retention was measured by time-varying zapping decisions. The data contain about 145,000 frame-level observations plus ad and viewer controls (for example, visual complexity, branding variables, familiarity, age, and gender). The authors estimate a simultaneous dynamic Bayesian frailty model (probit duration model for zapping plus log-linear model for attention dispersion) with MCMC and time-varying effects.",
+  "focal_constructs": [
+    "joy",
+    "surprise",
+    "emotion level",
+    "emotion velocity",
+    "attention concentration (interperson)",
+    "viewer retention",
+    "ad zapping",
+    "emotion trajectories"
+  ],
+  "main_findings": [
+    "Both joy and surprise increase attention concentration across viewers, and surprise has the stronger concentration effect.",
+    "Both joy and surprise reduce zapping (increase retention), but joy has the stronger retention effect, with joy velocity especially influential and asymmetric (increases in joy help more than decreases hurt).",
+    "Attention concentration itself lowers zapping, implying dual pathways where emotions affect retention directly and indirectly through attention; empirically, surprise level is most diagnostic for attention, while joy dynamics are most diagnostic for retention."
+  ],
+  "one_line_summary": "Using high-frequency facial-expression and eye-tracking data for Internet video ads, the paper shows that surprise and joy both improve engagement but through different dynamic mechanisms: surprise mainly concentrates attention, whereas joy mainly reduces zapping and retains viewers.",
+  "relation_to_prior_work": "extends prior advertising work that emphasized downstream outcomes and broad valence/arousal measures by modeling specific emotions and immediate moment-to-moment avoidance behavior. It also extends prior zapping-attention research by identifying emotional antecedents of attention concentration and estimating their joint dynamic effects on attention and retention.",
+  "research_gap": "Prior research had largely examined downstream ad effects and broad affect dimensions rather than the immediate, moment-to-moment effects of specific positive emotions on attention and avoidance. The interplay between emotions and attention during ad exposure, and the emotional antecedents of attention concentration linked to zapping, was presented as underexplored.",
+  "research_question": "How do joy and surprise evoked during Internet video advertisements influence consumers' moment-to-moment engagement, specifically attention concentration and the decision to keep watching versus zap? Do the level and velocity of these emotions have distinct effects on attention and viewer retention over time?"
+}

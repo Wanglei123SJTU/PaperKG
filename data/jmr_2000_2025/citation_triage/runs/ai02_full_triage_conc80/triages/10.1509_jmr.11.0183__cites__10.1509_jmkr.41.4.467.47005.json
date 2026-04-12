@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s core problem is bias/inconsistency from endogenous installed-base variables and it proposes IV and analytic bias-correction, while the cited paper is explicitly about response modeling with nonrandom marketing-mix variables and simultaneity bias. That methodological overlap (nonrandomly set regressors and correction strategies) makes this a plausible method/foundational source rather than an obvious incidental mention. With only a DOI match and no in-text snippet, it is not safe to drop.",
+  "triage_decision": "keep_for_relation_judgment"
+}

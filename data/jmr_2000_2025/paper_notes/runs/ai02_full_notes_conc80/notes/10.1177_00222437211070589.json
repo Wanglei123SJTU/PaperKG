@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper shows that adopting minimum automatic credit card repayment has an unintended negative effect: although missed payments fall, overall repayments fall and interest costs rise.",
+    "It provides causal evidence using two identification strategies in field data: a matched difference-in-differences design (with a single-hurdle selection model) and an instrumental-variables design based on local peer switching rates.",
+    "It tests two new mitigation interventions in an experiment - a full-repayment prompt and a targeted prompt to increase very low repayments - and shows large counter-effects against minimum-payment anchoring."
+  ],
+  "context": "The substantive setting is the U.K. credit card market, where cardholders can repay manually or set automatic repayment at the minimum, a fixed amount, or full balance. The paper combines market transaction data with an online experiment run with U.K. participants in collaboration with the Financial Conduct Authority.",
+  "design_and_data": "The field study uses card-month transaction data from U.K. issuers covering about 40% of the market, drawn as a 10% random sample of consumers in Argus data over January 2013 to December 2014. To estimate effects of switching to minimum automatic repayment, the authors use a matched difference-in-differences design (with a single-hurdle model for missed vs. positive payments) and an instrumental-variables model using postcode-district peer switching rates. They also run Monte Carlo simulations to quantify excess interest and fee costs implied by the estimated repayment changes. The experiment is a 2 x 2 online design (minimum payment shown vs. omitted x full-repayment prompt vs. none) with 699 analyzed participants after pre-specified exclusions, plus a follow-up low-payment prompt for participants initially choosing very low repayments.",
+  "focal_constructs": [
+    "default effects",
+    "minimum automatic repayment",
+    "manual repayment anchoring",
+    "missed payments",
+    "repayment amount",
+    "revolving balances and interest costs",
+    "full repayment prompt",
+    "low payment prompt"
+  ],
+  "main_findings": [
+    "Switching to minimum automatic repayment sharply reduced missed payments to near zero but also reduced repayment levels (about 40% in the matched difference-in-differences model; about 55% in the IV model).",
+    "Simulations imply that cards using minimum automatic repayment could save about 19.8% of interest and fees if they had not switched, and this corresponds to about 8.4% of all interest and fees paid in the credit card market.",
+    "In the experiment, omitting minimum payment information increased mean manual repayment by about GBP88, adding a full-repayment prompt increased it by about GBP107, and targeted prompts to low payers made them more than twice as likely to revise upward."
+  ],
+  "one_line_summary": "Using U.K. credit card field data and an online experiment, the paper finds that minimum payment defaults reduce missed payments but also depress repayments and raise interest costs, and that targeted prompts can partially reverse these effects.",
+  "relation_to_prior_work": "extends prior default and credit-card repayment research by shifting focus from proximate outcomes and disclosure effects to unintended consequences across multiple outcomes, especially for automatic minimum repayment. It also extends anchoring-based minimum-payment studies by testing practical prompt-based interventions that mitigate low repayment choices.",
+  "research_gap": "The paper argues that default studies often evaluate only target outcomes and may miss unintended downstream effects, so net welfare effects remain unclear. In credit cards, evidence on causal consequences of switching to minimum automatic repayment and on effective remedies for minimum-payment anchoring was limited.",
+  "research_question": "How does the minimum payment default affect credit card repayment behavior when used as automatic repayment and when shown during manual repayment choices? Do the intended benefits (fewer missed payments) come with unintended costs (lower repayments and higher interest), and can prompt-based interventions mitigate these effects?"
+}

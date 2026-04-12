@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s design explicitly addresses endogeneity with “Gaussian copulas (including slope-endogeneity interactions),” while the cited paper’s core contribution is a control-function estimator for slope endogeneity (and carryover) in marketing-mix response. That methodological overlap suggests the citation is plausibly a substantive method/theory source rather than a generic background mention. With a direct DOI match to this specific endogeneity paper, this pair should be retained for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

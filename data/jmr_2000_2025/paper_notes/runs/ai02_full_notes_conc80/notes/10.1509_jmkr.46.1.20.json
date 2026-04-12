@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The rejoinder explicitly elaborates three issues raised by commentators - rival explanations of the neural results, reverse inference, and correlation versus causation - to inform future research.",
+    "It proposes that forward and reverse inference are complementary, not opposing, modes for linking behavioral theory and brain evidence.",
+    "It argues that neuroscientific methods should be used jointly with traditional behavioral methods in consumer research and warns against overinterpreting or misusing brain-imaging results."
+  ],
+  "context": "The paper is set in consumer choice research on the attraction effect, where choices between two options are compared with three-option sets containing a dominated decoy. It is also situated in debates about using fMRI and related neuroscience methods in marketing and decision research.",
+  "design_and_data": "This article is a rejoinder to two commentaries on Hedgcock and Rao (2009), not a new empirical study. It reprises evidence from the prior fMRI study that combined behavioral choice-share outcomes with neural activation data while participants made trade-off versus decoy-enriched choices. The authors discuss prior findings, including amygdala differences across conditions and across participants with stronger versus weaker attraction effects, and then provide conceptual and methodological analysis. No new primary data collection is reported in this rejoinder.",
+  "focal_constructs": [
+    "attraction effect",
+    "trade-off aversion",
+    "dominated decoy",
+    "amygdala activation",
+    "cognitive conflict",
+    "reverse inference",
+    "correlation versus causation",
+    "cognitive resource depletion"
+  ],
+  "main_findings": [
+    "The authors maintain that their core prior result is supported: two-item trade-off choices are linked to greater negative emotion and higher amygdala activation than decoy-enriched choice sets.",
+    "They conclude that reduced amygdala activation in three-item sets does not by itself identify a single mechanism, and may reflect alternative processes such as added cognitive processing or resource reallocation.",
+    "They conclude that neuroscience can add process insight in consumer research but should be interpreted conservatively and paired with behavioral evidence rather than used as a stand-alone method."
+  ],
+  "one_line_summary": "This rejoinder defends and qualifies prior fMRI evidence on trade-off aversion in the attraction effect while outlining methodological guidance on inference, causality, and method choice in consumer neuroscience.",
+  "relation_to_prior_work": "refines the interpretation of the authors' earlier fMRI attraction-effect study by addressing commentaries and positioning its conclusions within broader debates on neural inference and research design.",
+  "research_gap": "The paper notes that the negative-emotion account of the attraction effect was relatively new and had been directly examined only sparsely, and that clear methodological guidance for interpreting neural evidence in this domain was limited.",
+  "research_question": "How should the authors' prior fMRI evidence on the attraction effect be interpreted in light of alternative explanations and methodological critiques? Specifically, the paper addresses whether trade-off choices are more emotionally aversive than decoy-enriched choices and what standards should guide reverse inference and causal interpretation in consumer neuroscience."
+}

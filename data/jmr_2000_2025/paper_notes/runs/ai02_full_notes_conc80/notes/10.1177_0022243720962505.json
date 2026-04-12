@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides evidence on how informational versus emotional TV ad content effectiveness varies with product positioning, operationalized by price and quality.",
+    "Quantifies advertising's direct sales effect and its indirect effect through online search, and shows that omitting the search channel biases advertising elasticity estimates in panel sales models.",
+    "Presents what the authors describe as the first concurrent estimation of informational and emotional ad content effects on both online search and sales across purchase-funnel stages."
+  ],
+  "context": "The empirical setting is the U.S. automotive market, specifically sedan and SUV models from major premium and nonpremium brands. The study links monthly television advertising, online search behavior, and new-car registrations for 144 models during 2007-2010.",
+  "design_and_data": "The authors assemble a monthly panel combining car registrations (R.L. Polk), Google Trends search indexes, TV ad spending and ad videos (Kantar), prices and attributes (Wards Auto), and quality ratings (J.D. Power and U.S. News). Ad content was coded for more than 2,300 TV ads using an adapted Stewart and Furse codebook, then aggregated to model-month informational and emotional content measures. They estimate separate online-search and sales equations with product and month fixed effects, ad and search carryover stocks, interaction terms with content and positioning, and decomposition of advertising effects into direct and search-mediated indirect components. They address endogeneity of key marketing variables using Gaussian copulas (including slope-endogeneity interactions) and report bootstrap standard errors.",
+  "focal_constructs": [
+    "informational ad content",
+    "emotional ad content",
+    "television advertising effectiveness",
+    "online search volume",
+    "product sales",
+    "product positioning by price",
+    "product positioning by quality",
+    "indirect advertising effect through online search"
+  ],
+  "main_findings": [
+    "Increasing emotional content raises advertising's effect on online search, while increasing informational content has no significant effect on online search.",
+    "Both informational and emotional content increase advertising's effect on sales, but informational-content gains are larger for lower-price and lower-quality cars, whereas emotional-content gains are larger for higher-price cars.",
+    "Online search translates into sales more for lower-price cars (e.g., a 10% search increase is associated with about a 3.6% sales increase for a $15,000 car and no significant change for a $60,000 car), so advertising's indirect sales effect through search is stronger for lower-price cars; adding ad content and search improves sales-model fit and out-of-sample prediction."
+  ],
+  "one_line_summary": "Using a large U.S. car-market panel, the paper shows that emotional TV ad content drives online search, both emotional and informational content drive sales with positioning contingencies, and search-mediated sales effects are stronger for lower-price cars.",
+  "relation_to_prior_work": "extends prior advertising-content research by jointly estimating how informational and emotional TV ad content affects both online search and sales rather than only one outcome. It extends TV advertising-search-sales work by modeling online search as a mediator of advertising's sales effect and showing that this indirect path varies by product price. It refines boundary-condition evidence by identifying positioning-based heterogeneity in content effectiveness, especially at the sales stage.",
+  "research_gap": "Prior studies largely examine ad content effects on either online search or sales, not both jointly across funnel stages, and provide limited evidence on how these effects vary by product positioning. Evidence is also limited on how online search converts to sales across differently positioned products and what this implies for estimating advertising effectiveness.",
+  "research_question": "How do informational and emotional TV ad content change the effectiveness of advertising at two funnel stages, online search and product sales? Do these content effects depend on product positioning (price and quality), and how much of advertising's sales impact is indirect through online search?"
+}

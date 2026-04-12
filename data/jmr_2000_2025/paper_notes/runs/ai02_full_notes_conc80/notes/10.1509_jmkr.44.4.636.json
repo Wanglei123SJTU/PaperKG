@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides a clear method to simultaneously attribute own-good demand growth to consumer decisions, competitive demand, and competitive market share.",
+    "Clarifies the interpretation of decision-based and share-based decompositions and states the distinct research/managerial questions each decomposition can answer.",
+    "Introduces unified relationships, including a cross-good elasticity decomposition and matrix representations, that connect decision-based measures to unit-based and share-based competitive-impact measures."
+  ],
+  "context": "The paper addresses marketing actions such as price cuts and feature-and-display promotions in competitive product markets. It illustrates the framework using a two-brand antiulcer drug market (Tagamet and Zantac) and a coffee promotion example (Folgers versus other coffees).",
+  "design_and_data": "The article is primarily analytical and derives decomposition formulas from demand and share identities plus a three-decision consumer model (purchase incidence, conditional choice, and conditional quantity). It derives links between unit-based and share-based decompositions and extends decision-based analysis to cross-good, competitive, and market demand elasticities, including a switching-offset term. Illustrations use published estimates from Berndt et al. (1997) for the antiulcer drug market and the coffee example values discussed in Van Heerde, Gupta, and Wittink (2003). No new primary dataset is introduced.",
+  "focal_constructs": [
+    "unit-based decomposition",
+    "share-based decomposition",
+    "decision-based decomposition",
+    "primary and secondary demand",
+    "stolen units",
+    "stolen market share",
+    "cross-good demand elasticity",
+    "switching offset"
+  ],
+  "main_findings": [
+    "Unit-based and share-based decompositions are complementary and mathematically related, but they differ because one defines stolen business as lost rival units and the other as lost rival market share.",
+    "Decision-based decomposition of own-good demand alone is insufficient to infer competitive impact, and cross-good elasticity decomposition is needed to quantify effects on competing and market demand.",
+    "In the coffee illustration, most Folgers demand growth is attributed to conditional choice switching while most of the same growth is also classified as market expansion under the unit-based view, demonstrating how these results can coexist when own share is low."
+  ],
+  "one_line_summary": "The paper develops a unified elasticity-decomposition framework that reconciles unit-based, share-based, and decision-based views to explain how marketing actions affect consumer decisions and competitive outcomes.",
+  "relation_to_prior_work": "extends prior decomposition work by formally linking consumer-decision decompositions with unit-based and share-based competitive-impact decompositions and by extending Gupta's framework to cross-good demand.",
+  "research_gap": "Prior studies typically examined either consumer decision effects or competitive effects, and applying different decompositions to the same action produced apparently contradictory conclusions. The paper identifies imprecise interpretation of share-based and decision-based results and addresses the missing extension of decision-based analysis to competitive demand via cross-good elasticities.",
+  "research_question": "How can the growth in own-good demand from a marketing action be attributed simultaneously to changes in consumer decisions, competing-goods demand, and competing-goods market share? The paper also asks how unit-based, share-based, and decision-based decompositions are related and what distinct questions each can answer."
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper is a theoretical RTB auction-design model (header bidding, first- vs second-price auctions, exchange fees, reserve prices), while the cited paper is a field experiment on dynamic vs generic retargeting ad content in online travel; these constructs and mechanisms do not overlap in the notes. The citing note’s stated prior-work positioning mentions auction/market-structure models, with no indication that retargeting-information-specificity findings are used as theory, method, benchmark, or direct comparison, and the evidence is only a bare DOI match without contextual quote.",
+  "triage_decision": "drop_obvious_mention_only"
+}

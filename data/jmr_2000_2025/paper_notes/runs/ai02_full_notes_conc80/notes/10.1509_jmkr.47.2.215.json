@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides a first step toward understanding how social networks between individual sellers create economic value in online social commerce marketplaces.",
+    "Introduces and empirically supports the idea that seller networks act as a virtual shopping mall, with value created primarily through improved shop accessibility for browsing customers.",
+    "Shows that network-generated value is unevenly distributed and is driven more by accessibility-related position than by prominence-style centrality."
+  ],
+  "context": "The setting is a large French social commerce marketplace where individual users create personalized shops, list products from major online vendors via affiliate arrangements, and earn commissions on sales. In June 2007, after about 18 months as a disconnected marketplace, the platform introduced directed hyperlinks between shops, creating a seller network observable to customers.",
+  "design_and_data": "The data cover the full population of shops created during the first 781 days of the marketplace, including pre-network and post-network periods (network introduced on day 583). For marketplace-level effects, the authors estimate ARX time-series models of daily commission revenues using daily changes in marketplace size, number of network links, and number of dead-end shops. For shop-level effects, they estimate a hierarchical Bayesian tobit model with latent ability, using network-position and assortment measures from month 6 to explain shop commission revenues in month 7. The shop-level estimation sample includes 85,708 shops with at least one product listed at the end of month 6.",
+  "focal_constructs": [
+    "social commerce seller network",
+    "shop accessibility",
+    "commission revenues",
+    "directed hyperlinks between shops",
+    "dead-end shops and network browsability",
+    "network centrality (in-degree, out-degree, proximity, clustering)",
+    "product assortment characteristics"
+  ],
+  "main_findings": [
+    "Introducing the networking feature significantly increased daily marketplace commission revenues after controlling for marketplace growth.",
+    "At the marketplace level, more new links increased revenues while more dead-end shops reduced revenues, and the estimated revenue loss from a new dead end was much larger than the gain from a typical new link.",
+    "At the shop level, accessibility-related positions mattered most: in-degree and in-proximity increased shop commissions, out-degree and out-proximity reduced them, incoming clustering was negative, and hub/authority prominence measures were not significant."
+  ],
+  "one_line_summary": "Using a large social commerce platform's pre/post network transition, the paper finds that seller-to-seller links create substantial value mainly by improving customer access paths, with gains going to shops whose accessibility improves most rather than to the most prominent shops.",
+  "relation_to_prior_work": "extends shopping center and social network research to online social commerce by modeling directed seller-to-seller hyperlinks as accessibility structures. It contrasts this setting with bricks-and-mortar centers by showing that directed asymmetries and dead ends are central for performance outcomes.",
+  "research_gap": "Social commerce had received limited academic attention relative to social shopping, and the implications of connecting sellers were largely untested in marketing contexts. The paper targets the unresolved questions of whether seller networks create economic value, through which mechanism, and how that value is allocated across sellers.",
+  "research_question": "Does allowing individual sellers to connect their shops in an online social commerce marketplace create economic value by increasing sales-related revenues? If so, what mechanism drives this value creation, and how does network position shape which sellers benefit or suffer?"
+}

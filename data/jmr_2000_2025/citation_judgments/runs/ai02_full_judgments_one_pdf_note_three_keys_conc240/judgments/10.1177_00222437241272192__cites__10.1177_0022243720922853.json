@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used in the methods/identification section, not just in a general literature list. The authors explicitly state they follow Keller, Geyskens, and Dekimpe (2020) (with Ter Braak et al. 2013) to handle multicollinearity by removing a time trend from a control variable before using it in their 2SRI framework. This is a concrete methodological borrowing that affects model specification and estimation, even though the substantive domain of the cited paper differs.",
+  "relation_description": "The citing paper applies a data-preprocessing/modeling practice from the cited paper to reduce multicollinearity (detrending a correlated control via regression on time effects and using residuals in subsequent models). The citation functions as a methodological template rather than a theory or domain foundation.",
+  "relation_type": "applies"
+}

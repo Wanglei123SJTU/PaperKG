@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a store-level model specification explicitly based on arguments for why postpromotion dips may be hidden in aggregate scanner data.",
+    "The paper shows that the postpromotion dip paradox need not exist by recovering pre- and postpromotion dips in store-level data that are comparable to household-level evidence.",
+    "The paper introduces a way to model interactions between price cuts and support conditions (no support, feature-only, display-only, feature-and-display) and demonstrates differences in dynamic effects across these conditions."
+  ],
+  "context": "The empirical setting is U.S. supermarket store-level scanner data for frequently purchased packaged goods. The authors analyze tuna and toilet tissue categories, where stockpiling potential is high.",
+  "design_and_data": "The authors estimate a pooled store-level econometric sales-response model (a modification of SCAN*PRO) with current, lead, and lagged own-brand promotion terms, current cross-brand promotion effects, and weekly and store controls. They compare three distributed lead-lag structures: unrestricted dynamic effects, exponential decay, and Almon polynomial, with lead and lag lengths searched up to six weeks and model choice by AIC. Data are weekly ACNielsen scanner observations for 52 weeks: tuna (3 brands, 28 stores, 1456 observations per brand) and toilet tissue (6 brands, 24 stores, 1248 observations per brand). They test pooling with Chow tests and, when needed, reestimate with IGLS to address autocorrelation and heteroscedasticity.",
+  "focal_constructs": [
+    "postpromotion dip",
+    "prepromotion dip",
+    "purchase acceleration",
+    "distributed lead and lag effects",
+    "price discount support conditions",
+    "feature and display interactions",
+    "store-level scanner sales response",
+    "net promotion effect"
+  ],
+  "main_findings": [
+    "Significant dynamic promotion effects are found for 8 of 9 brands.",
+    "Estimated acceleration-related dynamic losses are about 4% to 25% of the current-week sales effect, consistent with household-level ranges reported in prior work.",
+    "Models that include only current promotion effects can misstate incremental impact; flexible dynamic specifications (especially unrestricted or Almon) provide more credible net effects than a simple exponential decay structure."
+  ],
+  "one_line_summary": "Using weekly store-level scanner data for tuna and toilet tissue, the paper shows that flexible distributed lead-lag models uncover substantial pre- and postpromotion dips that are largely hidden in standard store-level analyses.",
+  "relation_to_prior_work": "extends prior store-level scanner promotion modeling (including SCAN*PRO) by explicitly incorporating flexible multiweek lead and lag effects and separate support-conditioned price-cut effects. It also aligns store-level inference with household-level evidence by showing comparable magnitudes of purchase-acceleration-related dips.",
+  "research_gap": "Prior household-panel studies imply postpromotion dips from purchase acceleration, yet store-level scanner analyses rarely detect such dips. The paper addresses the explicitly noted need for more sophisticated distributed lag modeling to uncover potentially hidden pre- and postpromotion effects in aggregate store data.",
+  "research_question": "Do pre- and postpromotion dips truly exist in store-level scanner sales data, despite their frequent absence in traditional analyses and visual inspection? If they do, can flexible distributed lead-lag models that account for support-conditioned promotions recover these dynamics and yield magnitudes consistent with household-level evidence?"
+}

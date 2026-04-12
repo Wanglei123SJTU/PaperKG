@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Haschka (2022) as a central methodological benchmark in developing its own contribution, not as a passing background citation. It repeatedly contrasts 2sCOPE with Haschka's copula panel approach, highlighting specific limitations (continued nonnormality requirement, MLE burden, and lack of formal proofs) that motivate the new method. The comparison is integrated into the contribution claims (including Table 1), theoretical discussion, and simulation positioning, showing a clear functional role in framing and advancing the paper's argument.",
+  "relation_description": "The citing paper refines the line of work represented by Haschka (2022) by proposing a copula control-function alternative (2sCOPE) that relaxes key assumptions and broadens applicability. It keeps the copula-based endogeneity-correction agenda but improves the framework through weaker identification requirements and formal consistency results.",
+  "relation_type": "refines"
+}

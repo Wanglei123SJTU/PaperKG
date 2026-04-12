@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides a unified treatment of common response styles in marketing questionnaires and focuses empirically on five forms: acquiescence, disacquiescence, extreme responding/response range, midpoint responding, and noncontingent responding.",
+    "Introduces two models that specify how response styles bias (1) observed scale scores and (2) correlations between scales, including moderators based on scale construction.",
+    "Supplies cross-national evidence from large representative EU consumer samples, plus a secondary analysis of widely used marketing scales, to argue that marketing researchers should explicitly address response-style contamination."
+  ],
+  "context": "The empirical setting is a mail survey of nationally representative consumer samples from 11 European Union countries (Belgium, Denmark, France, Germany, Great Britain, Greece, Ireland, Italy, the Netherlands, Portugal, and Spain). The substantive measures are multi-item marketing and consumer behavior attitude scales administered on 5-point Likert responses.",
+  "design_and_data": "The study includes a secondary analysis of 200 scales from the Handbook of Marketing Scales to assess how often common safeguards against response bias are used. It also analyzes survey data from 10,477 respondents (mean response rate 72%) who answered 60 attitudinal items mapped to 14 constructs. The authors compute indices for ARS, DARS, ERS/RR, MPR, and NCR, and estimate hierarchical linear models to explain scale scores from response styles with scale-level moderators (proportion reverse-keyed items and deviation of scale mean from midpoint). A second multilevel model compares observed versus response-style-corrected interscale correlations across 91 scale pairs per country.",
+  "focal_constructs": [
+    "acquiescence response style",
+    "disacquiescence response style",
+    "extreme response style and response range",
+    "midpoint responding",
+    "noncontingent responding",
+    "scale-score contamination",
+    "bias in interscale correlations",
+    "scale characteristics (reverse-keying balance and midpoint deviation)"
+  ],
+  "main_findings": [
+    "The secondary analysis indicated limited routine control for response bias in marketing scales: on average 18% of items were reverse-keyed, 43% of scales had none, and only 9% were balanced.",
+    "In the cross-national data, response-style effects on scale scores varied strongly by scale but only minimally by country; balanced wording substantially reduced acquiescence/disacquiescence contamination, and deviation from midpoint significantly moderated ERS and MPR effects in opposite directions.",
+    "Response styles explained nontrivial variance in scores (average about 8%, up to 29% for some scales), and correlations between scales were systematically inflated or deflated depending on correlations among response-style components; adding these components raised explained variance in observed correlations from 64% to 91%."
+  ],
+  "one_line_summary": "Using representative samples from 11 EU countries, the paper shows that multiple response styles systematically distort marketing scale scores and interscale correlations, with bias magnitude strongly shaped by scale design.",
+  "relation_to_prior_work": "extends prior response-style research by integrating several stylistic tendencies in one framework and testing their joint consequences for both score levels and correlations in marketing measures. It brings earlier psychometric insights about balanced wording and response-style correction into a large cross-national marketing application.",
+  "research_gap": "The paper argues that marketing research had paid limited attention to response styles and offered little evidence on how strongly they bias substantive conclusions. It addresses the unresolved issue of when response styles inflate or deflate both scale scores and relationships between scales.",
+  "research_question": "How do major response styles contaminate observed scores on marketing scales and bias correlations between scales? Under what scale-design conditions do these effects become stronger or weaker, and how general are these effects across countries?"
+}

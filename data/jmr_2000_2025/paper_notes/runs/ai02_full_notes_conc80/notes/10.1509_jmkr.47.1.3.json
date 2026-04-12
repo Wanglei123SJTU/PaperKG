@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces a control function approach for endogeneity in consumer choice models that conditions on residual variation from auxiliary equations.",
+    "It argues that pricing, advertising, and related equations can provide information to construct controls for unobserved demand factors.",
+    "It presents this approach as a practical alternative to BLP product-market controls, highlighting easier estimation and applicability in settings where BLP is invalid or hard to implement."
+  ],
+  "context": "The empirical setting is household choice among television reception options: antenna-only, basic/extended cable, premium cable, and satellite. The data include 11,810 households in 172 geographic markets, where cable prices vary across markets and unobserved programming quality is expected to be correlated with price.",
+  "design_and_data": "The authors develop a two-step estimator: first regress each endogenous price on observed characteristics and instruments, then include the resulting residuals as control functions in the utility specification. In the TV application, cable price equations use product attributes and Hausman-type instruments based on prices in other markets served by the same multiple-system operator. The demand model is estimated as mixed logit with income-interacted price coefficients and simulated integration using Halton draws. They estimate uncorrected, control-function-corrected, and BLP-corrected versions on the same sample for comparison.",
+  "focal_constructs": [
+    "endogeneity in discrete choice demand",
+    "control function correction",
+    "price endogeneity",
+    "unobserved product attributes/quality",
+    "pricing equation instruments",
+    "mixed logit consumer choice",
+    "demand elasticities",
+    "BLP product-market controls"
+  ],
+  "main_findings": [
+    "Without correcting endogeneity, estimated demand can be upward-sloping, with positive price coefficients for several income groups.",
+    "Including control functions yields negative price coefficients for all income groups, and residual-based control terms enter positively and significantly, consistent with omitted desirable attributes being correlated with price.",
+    "Control function and BLP corrections produce similar downward-sloping demand estimates and similar elasticities in the television choice application."
+  ],
+  "one_line_summary": "The paper proposes a two-step control function method for endogeneity in discrete consumer choice and shows in TV service data that it fixes implausible upward-sloping demand and gives results close to BLP controls.",
+  "relation_to_prior_work": "extends prior control-function methods to discrete consumer choice demand and positions the approach as an alternative to Berry-Levinsohn-Pakes product-market controls for unobserved quality.",
+  "research_gap": "The dominant BLP product-market control approach can be inconsistent when market shares are noisy because of few purchases per product and can be difficult or infeasible in many newer demand model settings. The paper addresses the need for a simpler endogeneity correction that does not rely on those conditions.",
+  "research_question": "How can endogeneity in key regressors such as price be handled in discrete choice demand models when regressors are correlated with unobserved utility components? Can a control function derived from auxiliary equations, such as pricing equations, provide a feasible and credible alternative to BLP-style product-market controls?"
+}

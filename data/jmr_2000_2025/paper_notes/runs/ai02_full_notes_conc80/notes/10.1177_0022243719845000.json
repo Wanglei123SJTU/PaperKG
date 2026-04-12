@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Identifies logo descriptiveness as a distinct logo design characteristic that can influence brand equity outcomes.",
+    "Shows a mechanism in which more descriptive logos are easier to process and therefore elicit stronger impressions of brand authenticity.",
+    "Specifies boundary conditions by showing attenuation for familiar brands and reversal for negatively valenced product categories, and links descriptiveness to firm performance in secondary data."
+  ],
+  "context": "The paper studies brand logos in consumer markets across products and services. Evidence comes from controlled scenarios, UK crowdfunding startup logos, and U.S. publicly traded business-to-consumer brands.",
+  "design_and_data": "The authors use a multimethod program of six main studies: four between-subject experiments, one large-scale survey, and one secondary data study. Experiments test manipulated logo descriptiveness and moderators (brand familiarity, product valence) with outcomes including authenticity impressions, brand evaluations, and purchase intentions (sample sizes reported: n=180, 247, 106, 240). The survey analyzes 174 real startup logos from two UK crowdfunding platforms, with separate MTurk samples rating outcomes (n=1,327) and logo descriptiveness/controls (n=1,303), and includes extensive design controls. The secondary study links coder-rated descriptiveness of 423 logos from U.S. B2C brands (KLD Stats plus Compustat) to sales and other financial metrics with firm- and logo-level controls.",
+  "focal_constructs": [
+    "logo descriptiveness",
+    "ease of processing",
+    "brand authenticity impressions",
+    "brand evaluations",
+    "purchase intentions",
+    "brand familiarity",
+    "product valence",
+    "brand financial performance"
+  ],
+  "main_findings": [
+    "More descriptive (vs. less descriptive) logos increased perceived authenticity, and this effect was mediated by ease of processing.",
+    "More descriptive logos improved brand evaluations and purchase intentions through authenticity impressions, with weaker effects for familiar brands than unfamiliar brands.",
+    "For negatively valenced product categories, descriptiveness effects reversed (more descriptive logos hurt evaluations and intentions), and in secondary data descriptiveness was positively associated with sales and related financial outcomes."
+  ],
+  "one_line_summary": "Across experiments, survey data, and archival firm data, the paper finds that more descriptive logos generally strengthen brand equity by increasing processing fluency and authenticity perceptions, except when brands are familiar or product associations are negative.",
+  "relation_to_prior_work": "extends prior logo-design research by adding descriptiveness to studied design characteristics and linking it to brand equity outcomes. extends fluency-based work by showing that conceptual processing ease from logo descriptiveness can raise perceived brand authenticity. extends brand authenticity research by identifying logo design as an antecedent and by documenting moderators of this pathway.",
+  "research_gap": "Prior research had examined several logo design characteristics, but the effects of logo descriptiveness were underexplored. The paper addresses the unclear mechanism and boundary conditions linking logo descriptiveness to brand equity and performance.",
+  "research_question": "Does logo descriptiveness affect brand equity, and if so through what process? The paper asks whether more descriptive logos improve brand evaluations, purchase intentions, and firm performance by increasing ease of processing and authenticity impressions, and whether these effects depend on brand familiarity and product valence."
+}

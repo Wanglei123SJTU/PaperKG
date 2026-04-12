@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "Ansari, Essegaier, and Kohli (2000) is treated as a central prior attribute-based recommender model in the literature review and is reused in the citing paper's model setup (e.g., consumer and product intercept structure). The citing paper also operationalizes an Ansari-style specification as a benchmark (Model 6) and evaluates its own gains relative to it. So the citation is doing real conceptual and methodological work in framing and positioning the contribution, not just a passing mention.",
+  "relation_description": "The citing paper builds on the Ansari et al. recommender framework by adding a virtual-expert latent residual component to capture unobserved product attributes. It then benchmarks this extension against the Ansari-style model to show improved predictive performance.",
+  "relation_type": "extends"
+}

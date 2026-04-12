@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides a systematic cross-cultural test showing that country-of-origin effects differ between Japan and the United States.",
+    "It proposes and supports individualism/collectivism as a framework for explaining these differences in country-of-origin use.",
+    "It argues that the vertical dimensions of culture, not the horizontal dimensions, are the key drivers of the observed country-of-origin differences in this setting."
+  ],
+  "context": "The study compares consumers in Japan and the United States evaluating a new mountain bike presented as made in Japan or the United States. The product is described as relatively superior or inferior to competing brands on multiple attributes.",
+  "design_and_data": "The authors run an experiment with 168 undergraduates (86 from a U.S. university and 82 from a Japanese university) in a 2 (country of origin: U.S. vs Japan) x 2 (product description: superior vs inferior) between-subjects design, with country as the cultural-orientation factor. Participants read stimulus booklets, then reported product evaluations and purchase intention, and listed thoughts that were coded as attribute-related or country-of-origin-related and by valence. Cultural orientation was measured with Singelis et al. (1995) scales for vertical and horizontal individualism/collectivism, and analyses included ANOVA plus mediation regressions following Baron and Kenny (1986). A pretest selected mountain bikes and attributes to keep baseline country perceptions and attribute importance comparable across the two samples.",
+  "focal_constructs": [
+    "country of origin effects",
+    "individualism and collectivism",
+    "vertical individualism",
+    "vertical collectivism",
+    "horizontal individualism and collectivism",
+    "home versus foreign product evaluations",
+    "attribute superiority",
+    "country-of-origin-related cognitive responses"
+  ],
+  "main_findings": [
+    "U.S. respondents evaluated the home-country bike more favorably than the Japanese bike only when the home product was described as superior, and not when it was inferior.",
+    "Japanese respondents evaluated the home-country bike more favorably than the U.S. bike under both superior and inferior descriptions.",
+    "Cognitive-response patterns matched evaluations, and mediation analyses showed vertical collectivism mediated culture effects for Japanese products regardless of superiority while vertical individualism mediated culture effects for U.S. products only when superior; horizontal dimensions did not significantly mediate evaluations."
+  ],
+  "one_line_summary": "In a US-Japan mountain bike experiment, home-country preference appeared in both countries but in the United States only when the home product was superior, a pattern explained by vertical individualism/collectivism.",
+  "relation_to_prior_work": "extends country-of-origin research by offering a theory-driven cross-cultural test of when country-of-origin cues affect evaluations in two cultures. It refines prior applications of individualism/collectivism in marketing by showing that vertical, rather than horizontal, dimensions explain the US-Japan differences in this context.",
+  "research_gap": "Despite extensive country-of-origin research, the paper states that a systematic theory-based account of cross-cultural variation in these effects was lacking. It also notes that prior work often treated individualism/collectivism as unidimensional, leaving unclear which specific dimensions explain country-of-origin differences across cultures.",
+  "research_question": "How does cultural orientation influence the extent to which consumers use country-of-origin information when evaluating home versus foreign products with superior or inferior attributes? Do the vertical and horizontal dimensions of individualism/collectivism explain the US-Japan differences in these country-of-origin effects?"
+}

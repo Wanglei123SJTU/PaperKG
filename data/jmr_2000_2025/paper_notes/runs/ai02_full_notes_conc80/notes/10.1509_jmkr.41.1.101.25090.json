@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Integrates consumer durable repurchase timing research with functional theories of attitudes in an interactionist framework that combines contextual factors and individual differences.",
+    "Shows that attitude functions (knowledge, value-expressive, social-adjustive, utilitarian) add explanatory and predictive power for interpurchase intervals beyond standard demographic and economic variables.",
+    "Provides actionable guidance on positioning and communications to influence repurchase timing for durable goods."
+  ],
+  "context": "The paper studies repeat purchase timing for consumer durable goods across multiple categories: cameras, cars, vacuum cleaners, wristwatches, DVD players, refrigerators, and televisions. It focuses on household consumers and examines how product context (public-private, luxury-necessity) and decision context (forced-unforced) shape repurchase intervals.",
+  "design_and_data": "The authors conducted a mail survey of employees at a large eastern U.S. university, sending 3600 questionnaires and receiving 774 responses (21.5% response rate). After dropping golf bags because of low ownership, the analysis uses 1157 product-level observations; interpurchase intervals are measured from reported product age, with nonreplacement cases treated as censored. They estimate Weibull hazard models with individual heterogeneity (generalized gamma mixing) and compare the full model against nested models with product constants, demographics/economics, and contextual variables only. Measures for key constructs were validated using confirmatory factor analyses.",
+  "focal_constructs": [
+    "interpurchase interval",
+    "knowledge function of attitudes",
+    "value-expressive function of attitudes",
+    "social-adjustive function of attitudes",
+    "utilitarian function of attitudes",
+    "public-private product nature",
+    "luxury-necessity product nature",
+    "forced versus unforced purchase decision"
+  ],
+  "main_findings": [
+    "Unforced purchase formulation is associated with shorter interpurchase intervals than forced formulation.",
+    "Knowledge and social-adjustive attitude functions are associated with shorter interpurchase intervals, whereas the value-expressive function is associated with longer interpurchase intervals; several predicted interactions with product context are supported (including knowledge x luxury, value-expressive x public, and social-adjustive x public).",
+    "The full model including contextual variables and attitude functions fits and predicts better than nested models based mainly on product, demographic, and economic variables."
+  ],
+  "one_line_summary": "Using survey data and heterogeneous Weibull hazard models, the study shows that functional bases of attitudes and their interactions with product and decision context significantly explain when consumers repurchase durable goods.",
+  "relation_to_prior_work": "extends prior consumer durable timing models that emphasized demographic and economic predictors by incorporating functional attitude theory and context-by-person interactions into hazard modeling of repurchase intervals.",
+  "research_gap": "Prior research on repeat purchase timing of consumer durables had focused mainly on demographic and economic predictors and was largely disconnected from consumer behavior theory. The paper addresses this by introducing psychological attitude functions and testing their contingent effects across product and decision contexts.",
+  "research_question": "How do the functional bases of consumer attitudes influence the timing of repeat purchases of consumer durable goods? The paper also asks whether these effects depend on contextual factors, specifically product type (public-private and luxury-necessity) and decision type (forced versus unforced)."
+}

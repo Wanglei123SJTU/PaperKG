@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper is explicitly about using acquisition-moment signals to predict future purchasing/marketing responsiveness in CRM cold start, while the cited paper directly examines how acquisition promotions (discount depth) affect repeat buying and CLV/customer asset value. This is a close conceptual overlap with plausible foundational/prior-evidence relevance (and possibly related CLV modeling context), not an obviously incidental mention. Given only DOI-level match evidence and no context snippet, it is not safe to drop.",
+  "triage_decision": "keep_for_relation_judgment"
+}

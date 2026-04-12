@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper provides a direct empirical test of the specific three-way fit predicted by governance value analysis among firm resources, specific investments, and governance in OEM-supplier alliances.",
+    "It shows that the same investment-governance alignment has different performance implications across outcome types by separating cost reduction from end-product enhancement outcomes.",
+    "It identifies a strategic downside for stronger downstream OEMs: aligning high investments with more incomplete contracts can reduce end-product enhancement, and it derives contract design guidance from this result."
+  ],
+  "context": "The study examines long-term OEM-independent supplier relationships for engineered components in manufacturing sectors SIC 35, 36, and 37. The unit of analysis is a purchasing agreement for a focal component (or technologically indivisible set of components) incorporated into an OEM end product.",
+  "design_and_data": "The authors conducted a cross-sectional key-informant survey of OEM purchasing managers/directors, yielding 193 usable OEM responses from 521 qualified contacts (37 percent response rate), and collected matched data from 80 usable supplier informants for validity checks. Contract incompleteness was measured from categorical price and design term formats and combined as a formative index; OEM specific investments, cost reduction outcomes, end-product enhancement outcomes, and key drivers were measured with multi-item and single-item measures. They estimated a simultaneous four-equation system with reciprocal OEM investment-contract incompleteness effects and interaction terms in the outcome equations using three-stage least squares (n = 189 after missing data). Robustness checks included replacing OEM reports of contract incompleteness with supplier reports and alternative estimation specifications.",
+  "focal_constructs": [
+    "contractual incompleteness",
+    "OEM specific investments",
+    "cost reduction outcomes",
+    "end-product enhancement outcomes",
+    "OEM end-product market strength",
+    "investment-governance alignment",
+    "three-way strategic fit"
+  ],
+  "main_findings": [
+    "More incomplete ex ante contract terms are associated with higher OEM supplier-specific investments, and higher OEM investments are associated with more incomplete contract terms.",
+    "Cost reduction outcomes improve when OEM investments are aligned with less incomplete (more complete) contract terms.",
+    "End-product enhancement outcomes improve when OEM investments are aligned with more incomplete contract terms, but this benefit is reduced for OEMs with stronger downstream market strength (negative three-way interaction)."
+  ],
+  "one_line_summary": "Using survey data on 193 OEM-supplier component contracts, the paper tests governance value analysis and finds that investment-contract alignment effects depend on outcome type and on OEM downstream market strength.",
+  "relation_to_prior_work": "extends the economizing calculus in transaction cost and incomplete contracting research by incorporating firm-specific resource endowments from a resource-based view into governance choice. It also moves beyond prior GVA evidence by directly testing the model's specific three-way fit rather than only a general test.",
+  "research_gap": "The dominant economizing calculus predicts that similarly situated firms should use similar governance and is therefore unable to explain large within-industry heterogeneity in contract terms when firm-specific considerations matter. Prior evidence on governance value analysis did not directly test the model's specific three-way fit among resources, investments, and governance.",
+  "research_question": "Do OEM-supplier ties require a three-way fit among firm resources, specific investments, and contract terms to generate superior outcomes, rather than a uniform investment-governance alignment? Specifically, how do investment-contract alignments affect cost reduction versus end-product enhancement outcomes, and how is this effect conditioned by OEM end-product market strength?"
+}

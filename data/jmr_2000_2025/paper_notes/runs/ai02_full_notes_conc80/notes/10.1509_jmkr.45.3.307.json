@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper explicitly combines Hoeffler's psychological newness framework with temporal construal theory to explain differences between really new products and incrementally new products in intention formation and follow-through.",
+    "It develops and validates a product-level psychological newness index (based on uncertainty of benefits, uncertainty of trade-offs, behavior change required, and ability to do new things) from the perspective of nonowners who are in the market.",
+    "It provides managerial implications for new product forecasting and launch strategy, including that intention-to-purchase deflators should be larger for psychologically newer products, especially for long-term intentions."
+  ],
+  "context": "The empirical setting is consumer adoption of new communication and entertainment technologies and services (e.g., DVR, streaming TV, blogging, flat-screen TV, DVD player). Most data come from the CBS Television City online panel, with additional evidence from MBA participants.",
+  "design_and_data": "Study 1 surveyed 2,692 CBS online-panel members (from 12,237 invited) on ownership and 6-month acquisition intentions for 28 technologies, and computed mean product newness using a four-item formative index among nonowner intenders. Study 2 recontacted prior intenders about 4 months later (620 respondents from 1,622 invited) and modeled self-reported acquisition and purchase month using logit and discrete-time hazard models with newness and time interactions. Study 3 used 107 MBA participants rating 22 products to test whether intenders formed implementation intentions, controlling for informedness. Study 4 recruited near-term acquirers from the CBS panel in two cohorts, collected pre- and post-acquisition waves with free-text use descriptions coded for abstractness, and compared expected versus actual first-week use.",
+  "focal_constructs": [
+    "psychological newness",
+    "really new products (RNPs)",
+    "incrementally new products (INPs)",
+    "purchase intentions",
+    "intention follow-through",
+    "temporal construal",
+    "implementation intentions",
+    "expected versus actual initial use calibration"
+  ],
+  "main_findings": [
+    "Consumers were less likely to state 6-month acquisition intentions for psychologically newer products than for less new products.",
+    "Among consumers with positive intentions, follow-through was lower for newer products, and the negative effect of newness on follow-through became stronger as more months passed after intention measurement.",
+    "Compared with INPs, RNPs were associated with less concrete planning (fewer implementation intentions), more abstract pre-acquisition representations of use, and poorer calibration between expected and actual early use on key use measures."
+  ],
+  "one_line_summary": "Across four studies, the paper shows that psychologically newer products attract weaker intentions and especially weaker, time-decaying intention follow-through because consumers think about buying and early use more abstractly and less accurately than they do for incrementally new products.",
+  "relation_to_prior_work": "extends prior work by integrating Hoeffler's theory of really new products with temporal construal theory to explain intention-behavior gaps over time. It also extends construal-level research by showing that product psychological newness is associated with more abstract representation and by linking this to implementation-intention processes.",
+  "research_gap": "The paper argues that although firms often use conventional intention-based methods developed for incrementally new products, little work had examined how psychological differences of really new products affect whether stated intentions translate into actual acquisition over time. It also notes that innovation research has focused more on who adopts than on product attributes that shape diffusion and follow-through.",
+  "research_question": "How does psychological newness of a product (RNP vs INP) affect consumers' formation of purchase intentions and their subsequent follow-through to actual acquisition? Does temporal distance between intention measurement and purchase opportunity magnify intention-behavior gaps for psychologically newer products, and is this linked to more abstract planning and less calibrated expected use?"
+}

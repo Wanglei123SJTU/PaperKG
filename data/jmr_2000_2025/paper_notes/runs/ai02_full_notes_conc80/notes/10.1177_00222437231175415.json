@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Integrates role theory with social exchange perspectives to explain when a referring supplier adopts a friend versus businessperson role and how that role shapes horizontal referral quality.",
+    "Shows, against dominant economics assumptions, that suppliers in ongoing B2B relationships often do act in customers' interests, but supplier dependence is a critical boundary condition.",
+    "Provides managerially usable indicators (e.g., relationship length, interaction frequency, economic dependence, product breadth) to predict referral quality and advises customers to consider supplier dependence, not trust alone, when seeking referrals."
+  ],
+  "context": "The paper studies horizontal referrals in complex B2B markets, where customers ask existing suppliers to recommend other suppliers for adjacent needs. Empirical scenarios center on analytics and technology suppliers serving a health care insurance customer, alongside broader B2B survey and interview evidence.",
+  "design_and_data": "The authors begin with exploratory fieldwork: a B2B customer survey via Dynata and 10 in-depth interviews with supplier-side managers to document prevalence and tensions in horizontal referrals. Study 1 is a 2 x 2 between-subject experiment (trust high/low x supplier dependence high/low; N=387, Prolific) testing role adoption and referral choice (best possible vs obligatory). Study 2 is a mixed-design choice-based conjoint (N=363; Dynata B2B panel plus Prolific; 1,089 choice tasks) linking observable relationship/dependence antecedents to chosen referral attributes. Study 3 is a between-subject experiment (N=818, Prolific) manipulating trust, supplier dependence, customer dependence, and referral type to test effects on perceived interest alignment and intent to continue the relationship.",
+  "focal_constructs": [
+    "horizontal referrals",
+    "best possible referral",
+    "obligatory referral",
+    "mutual trust",
+    "referring supplier dependence",
+    "friend vs businessperson role",
+    "perceived interest alignment",
+    "intent to continue relationship"
+  ],
+  "main_findings": [
+    "Higher mutual trust increases, and higher supplier dependence decreases, the supplier's likelihood of adopting a friend role; adopting the friend role strongly increases choosing a best possible referral.",
+    "In conjoint choices, suppliers prioritize must-have referral attributes (meeting customer-specific needs and performance) over attractive attributes, while trust antecedents raise and dependence antecedents reduce selection of attractive attributes such as favorable economic terms and broad product breadth.",
+    "Receiving a best possible referral increases customers' intent to continue the relationship versus receiving an obligatory referral, and this positive effect is weaker when customers already perceive high interest alignment with the supplier."
+  ],
+  "one_line_summary": "Using exploratory evidence plus three studies, the paper shows that B2B suppliers' horizontal referral quality depends on role adoption driven by trust and especially dependence, and that detectable obligatory referrals can weaken customer relationship continuation intentions.",
+  "relation_to_prior_work": "challenges the economics view that referring suppliers predominantly act in self-interest by showing that relationship conditions in ongoing B2B exchanges systematically shift referral behavior toward either best possible or obligatory recommendations.",
+  "research_gap": "Prior horizontal referral research, especially in economics, largely assumes misaligned interests and predicts self-interested supplier behavior, while marketing evidence in ongoing B2B relationships is sparse. Existing supplier behavior work on in-role versus extra-role actions also does not directly address referral decisions under potential supplier-customer interest misalignment.",
+  "research_question": "When a customer asks an existing B2B supplier to recommend another supplier under potentially misaligned interests, when does the supplier give a best possible versus an obligatory referral? How do relationship conditions, especially mutual trust and supplier dependence, shape that choice, and what are the consequences for the customer-supplier relationship when referral quality is inferred?"
+}

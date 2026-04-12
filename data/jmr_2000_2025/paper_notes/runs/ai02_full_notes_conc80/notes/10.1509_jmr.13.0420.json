@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a broader theory-based framework in which private label imitation changes brand consideration and preference, and it formally links consideration shifts to the legal doctrine of initial interest confusion.",
+    "It introduces two model-based harm metrics for litigation and management use: choice share shift and share-equalizing price cut (SEPC).",
+    "It provides empirical evidence that imitation harm can persist beyond brand confusion and can extend to national brands that are not directly imitated, with retailer brand equity moderating effects."
+  ],
+  "context": "The empirical setting is consumer packaged goods, specifically hand sanitizer and bottled water, where private labels imitate national-brand trade dress elements such as name, label design, and package shape. The paper is framed against U.S. trademark/trade dress infringement doctrine and related evidence standards.",
+  "design_and_data": "A pilot study (n = 312, uSamp panel) manipulated brand name, label design, and package shape similarity in a 2 x 2 x 2 design to calibrate low- versus high-similarity private-label stimuli. Four between-subject online choice experiments were run with nationwide uSamp samples: Study 1a hand sanitizer (n = 308), Study 1b bottled water (n = 303), Study 2 bottled water with the imitated brand absent from the choice set (n = 358), and Study 3 hand sanitizer with a well-known retailer name on the private label (n = 347). Participants gave stated consideration responses and completed 12 dual-response choice tasks (brand choice, then buy/no-buy) with brand-specific prices and one binary product attribute. The authors estimated hierarchical Bayesian models that separate brand screening (consideration) from preference and used matching on confusion scores in Studies 1a and 1b to test harm after controlling for brand confusion.",
+  "focal_constructs": [
+    "private label imitation",
+    "trade dress similarity",
+    "brand confusion",
+    "initial interest confusion",
+    "brand consideration",
+    "brand preference",
+    "choice share shift",
+    "share-equalizing price cut (SEPC)"
+  ],
+  "main_findings": [
+    "Higher-similarity imitation by an unknown private label increased the private label's consideration and relative preference, while reducing relative preference for national brands and, in multiple settings, reducing consideration/preference for a nonimitated national brand.",
+    "After matching respondents on brand confusion, the imitated brand still lost share and had nonzero SEPC, indicating that imitation harm does not depend on brand confusion alone.",
+    "Imitation effects persisted when the imitated brand was absent from the choice set, but using a well-known retailer name (Walgreens) attenuated or reversed imitation benefits and could hurt the imitating private label."
+  ],
+  "one_line_summary": "Across four choice experiments in hand sanitizer and bottled water, the paper shows that private label imitation shifts consideration and preference in ways that harm national brands beyond confusion and quantifies the harm with share shift and SEPC metrics.",
+  "relation_to_prior_work": "extends prior trademark/trade dress and consumer-behavior work that primarily evaluates imitation through likelihood of confusion by modeling a separate consideration-and-preference pathway of harm. It also introduces market-based damage metrics and reports spillover harm to nonimitated brands, which the authors state had not been documented before.",
+  "research_gap": "Legal and empirical assessments of brand imitation largely focus on likelihood of confusion, which the authors argue is too narrow to capture the full consumer-choice impact of imitation. Prior approaches also lacked direct market-based harm quantification and did not document whether nonimitated national brands could be harmed.",
+  "research_question": "Does private label imitation harm national brands through shifts in brand consideration and preference, even after controlling for brand confusion? Can this harm be quantified with market-relevant metrics such as choice share shift and SEPC for both imitated and nonimitated brands? Do these effects depend on contextual moderators such as whether the imitated brand is present in the choice set and whether the imitator carries a well-known retailer name?"
+}

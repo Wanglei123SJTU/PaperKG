@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes an attribute-based multicategory brand choice model in which intrinsic brand utility is built from underlying attributes, some shared across categories, and cross-category dependence is captured with a factor structure.",
+    "It generalizes prior multicategory approaches by allowing correlation in the full preference vector (not only marketing-mix response), category-pair-specific covariance patterns, different parameter dimensionality across categories, and both positive and negative cross-category correlations.",
+    "It shows how estimated household factors can be used as cross-category consumer traits to predict preferences and support targeting in existing and new categories."
+  ],
+  "context": "The empirical setting is U.S. packaged food purchases from household scanner panel data across multiple grocery categories. The authors analyze three related salty snack categories (pretzels, potato chips, tortilla chips) and two less-related categories (sliced cheese and mayonnaise).",
+  "design_and_data": "The authors estimate a multicategory logit choice model with household-level heterogeneity specified as demographics plus latent factors and category-specific residual terms, using a hierarchical Bayesian MCMC procedure with Hybrid Monte Carlo steps for household parameters. In the snack application, they use Information Resources Inc. data for 250 households over two years (households purchased at least once in each category), with 18 pretzel SKUs, 29 potato chip SKUs, and 20 tortilla chip SKUs; observed purchases are 1772, 5725, and 2430 respectively. In the mayonnaise-cheese application, they use ACNielsen data from 1017 households in one Midwestern city over two years (8241 cheese purchases, 7567 mayonnaise purchases), with 917 households for estimation and 100 for validation. They estimate one- to four-factor variants and select a four-factor model based on marginal likelihood and correlation-pattern diagnostics (hit rates were similar across factor counts).",
+  "focal_constructs": [
+    "multicategory brand choice",
+    "common product attributes",
+    "cross-category preference correlations",
+    "household latent factors",
+    "consumer traits",
+    "marketing-mix sensitivities",
+    "cross-category targeting"
+  ],
+  "main_findings": [
+    "Across the three snack categories, the model finds significant cross-category correlations in preferences for attributes such as brand names (for example Eagle), pack sizes, and no salt/light, and in some price sensitivities.",
+    "Across mayonnaise and sliced cheese, the model finds significant positive correlations for fat-free/light preferences, private label preference, and Kraft preference across categories, with many nonzero cross-category correlations overall.",
+    "Demographics explain relatively little preference variation, whereas latent factors explain much more for many attributes, and using purchase information from another category improves target ranking for a new product concept versus demographics alone."
+  ],
+  "one_line_summary": "The paper develops and estimates a factor-analytic multicategory brand choice model for shared attributes and shows that strong cross-category preference correlations can be exploited for targeting in both existing and new categories.",
+  "relation_to_prior_work": "extends Ainslie and Rossi (1998) by moving beyond cross-category correlation in only marketing-mix sensitivities to correlation in full attribute preferences, while allowing category-specific loading structures and unequal parameter dimensionality across categories. It also differs from ex post correlation approaches based on separate category models by estimating the joint structure directly.",
+  "research_gap": "Existing multicategory choice work mainly focused on shared marketing-mix sensitivities, and common formulations were either inefficient (separate models with ex post correlations) or too restrictive for full attribute-level dependence across categories. The paper targets the unresolved need for a parsimonious but flexible joint model that can correlate preferences for common attributes even when categories have different attribute-vector dimensions.",
+  "research_question": "Do households exhibit correlated preferences for product attributes that are common across categories, and can those cross-category similarities be captured parsimoniously through latent factors? Can such estimated factors and correlations be used to predict household preferences and improve targeting in categories where direct purchase history is limited or unavailable?"
+}

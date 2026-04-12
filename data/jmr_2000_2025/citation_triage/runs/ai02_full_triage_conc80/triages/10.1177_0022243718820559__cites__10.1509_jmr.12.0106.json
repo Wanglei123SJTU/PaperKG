@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s core method is a new “guided LDA” feature-extraction approach for marketing/entertainment text, while the cited paper is a prior JMR LDA-based framework for mining marketing meaning from online chatter, indicating a likely substantive method/foundation connection. Given this strong methodological overlap (both LDA text-mining frameworks, Bayesian/Gibbs estimation) and exact DOI match, this is not a clear incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

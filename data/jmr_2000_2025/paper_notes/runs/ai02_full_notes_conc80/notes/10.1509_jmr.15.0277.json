@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes an asymmetry hypothesis in bundle valuation: consumers demand more compensation for losses from bundles but offer lower willingness to pay for items added to bundles, relative to separate presentation of the same items.",
+    "It advances a gestalt-based process account in which bundling makes multiple items feel like a single inseparable whole, creating resistance to both removing and adding components.",
+    "It provides process evidence through moderator, mediator, and boundary tests (bundle composition, need to replace missing items, and set completion)."
+  ],
+  "context": "The paper examines consumer valuation in markets where the same products can be purchased as a bundle or as separate items. Empirical settings include snacks, chocolate truffles, Christmas cards, automotive service vouchers, luggage, and baseball cards across lab, field, and online environments.",
+  "design_and_data": "The authors run six experiments using between-subject designs that vary scenario (loss vs acquisition/addition) and presentation (bundled vs separate), with additional manipulations for bundle composition and set completion. Studies 1-3 include consequential tasks with real or immediate outcomes in University of Chicago and museum samples, while Studies 4-6 use MTurk scenario-based experiments. Dependent measures include WTA/compensation demanded, WTP, and satisfaction or dissatisfaction ratings. Study 5 tests mediation with a bootstrap PROCESS model using perceived need to replace the missing item.",
+  "focal_constructs": [
+    "product bundling",
+    "willingness to accept",
+    "willingness to pay",
+    "satisfaction and dissatisfaction",
+    "gestalt perception",
+    "bundle composition",
+    "need to replace missing items",
+    "set completion"
+  ],
+  "main_findings": [
+    "Consumers demanded higher compensation for an item lost from a bundle than for the same item lost separately, but offered lower WTP for an item added to a bundle than for the same item added separately.",
+    "Losing an item from a bundle produced greater dissatisfaction, while adding an item to a bundle produced less satisfaction, relative to separate-item conditions.",
+    "The asymmetry was attenuated for undifferentiated bundles and when set completion defined the whole, and in losses it was mediated by greater perceived need to replace the missing item."
+  ],
+  "one_line_summary": "Across six experiments, bundling made items feel like a single gestalt whole, leading consumers to demand more for losses from bundles yet pay less for additions to bundles than for the same items offered separately.",
+  "relation_to_prior_work": "extends prior bundling and decision-framing research by isolating the effect of bundle versus separate presentation on valuation of objectively identical items. It adds a gestalt-based explanation and shows moderation and boundary conditions not captured by discount-inference accounts alone.",
+  "research_gap": "Prior work on bundling focused on discount framing, complementarity, and loss-versus-gain framing, but did not directly test whether bundle presentation itself changes valuation relative to separate presentation for identical items. The paper addresses this missing comparison and the lack of a process explanation for opposite effects in loss versus acquisition contexts.",
+  "research_question": "How does presenting identical items as a bundle versus separately affect consumer valuation? The paper asks whether bundling increases compensation demanded and dissatisfaction for losses but decreases willingness to pay and satisfaction for acquisitions, and whether this pattern is driven by gestalt perception of bundles as a whole."
+}

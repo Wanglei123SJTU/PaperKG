@@ -1,0 +1,4 @@
+{
+  "rationale": "Both papers are in the same CRM retention/churn domain and use randomized field experiments in telecom settings, with the cited paper providing causal campaign effects on usage/churn that could be a substantive prior benchmark or mechanism source for the citing paper’s proactive targeting framework. The overlap in constructs (targeted CRM campaigns, churn outcomes, intervention effects) suggests more than a clearly incidental citation, even though the raw match only gives the DOI.",
+  "triage_decision": "keep_for_relation_judgment"
+}

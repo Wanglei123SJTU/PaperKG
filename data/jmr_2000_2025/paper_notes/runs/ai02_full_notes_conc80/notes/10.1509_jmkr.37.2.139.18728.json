@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops a theory of preference evolution for consumers making first-ever purchases in a category, proposing three sequential stages driven by information search and risk aversion.",
+    "It bridges behavioral research on experience-related cognitive changes and choice-model research by linking perceived risk and information search to dynamic brand choice outcomes.",
+    "It introduces and estimates a latent-class logit model with time-varying parameters on complete purchase histories, allowing segment-level heterogeneity in how preferences, loyalty, and price response evolve."
+  ],
+  "context": "The empirical setting is Spanish consumer packaged baby products, specifically disposable diapers and baby towels. Data come from first-time parents in a baby diary panel, tracking purchases for a specific baby from category entry onward.",
+  "design_and_data": "The authors estimate multinomial logit mixture models with latent segments and coefficients that vary with log cumulative category purchases. Data are from Dympanel (Spain), 1992-1995, with complete first-to-last purchase histories for first-time parents: diapers (125 calibration consumers, 7804 purchases; 111 holdout consumers, 6928 purchases) and towels (73 calibration consumers, 2545 purchases; holdout 2782 purchases). Brands are grouped into topdog and underdog tiers by market standing, and models include intrinsic brand utilities, price, and loyalty (last brand purchased) with dynamic process terms. Alternative experience measures, loyalty operationalizations, process-function forms, and segment counts are compared; a three-segment nonlinear monotone specification is selected in both categories.",
+  "focal_constructs": [
+    "category purchasing experience",
+    "brand preference evolution",
+    "dynamic brand choice",
+    "perceived risk",
+    "information search",
+    "topdog versus underdog brands",
+    "price sensitivity and price elasticity",
+    "brand loyalty (last brand purchased)"
+  ],
+  "main_findings": [
+    "Across both categories, the results support a staged evolution in which consumers initially show low loyalty and low underdog choice, then increase underdog trial, and later show stronger loyalty as information collection declines.",
+    "In diapers, many consumers begin with topdog preferences and substantial segments shift toward underdog brands (including private labels or mid-tier underdogs) as experience accumulates, while another segment remains topdog-oriented.",
+    "Response to price changes varies with experience and segment: diaper consumers generally become less price sensitive over purchases, whereas towel consumers show mixed trajectories (increasing, decreasing, or roughly stable sensitivity depending on segment)."
+  ],
+  "one_line_summary": "Using complete first-time purchase histories in Spanish baby-product categories, the paper proposes and tests a three-stage model showing that brand preferences, loyalty, and price response evolve systematically as category experience grows.",
+  "relation_to_prior_work": "extends prior work by connecting consumer-learning mechanisms discussed in behavioral research to longitudinal brand-choice modeling, and by moving beyond studies based only on recent purchases or consumers with unobserved prior category experience.",
+  "research_gap": "Prior behavioral studies documented how experience changes cognitive processes such as risk perception and information search but did not show how those changes map into dynamic brand choices. Prior choice studies modeled short-run dynamics (often recent purchases only) and typically used consumers with prior category experience, leaving unclear how preferences evolve from true category entry.",
+  "research_question": "How do brand preferences and choice behaviors evolve over purchases for consumers who are truly new to a product category? Specifically, as category experience accumulates, how do intrinsic preferences for topdog versus underdog brands, loyalty effects, and price response change, and how heterogeneous are these trajectories across consumer segments?"
+}

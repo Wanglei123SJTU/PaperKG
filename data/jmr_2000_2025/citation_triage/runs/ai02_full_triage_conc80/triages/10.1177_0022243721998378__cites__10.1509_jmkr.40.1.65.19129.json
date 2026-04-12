@@ -1,0 +1,4 @@
+{
+  "rationale": "Both notes indicate strong conceptual overlap in managerial forecasting debiasing: the citing paper tests a debiasing tactic (preference suppression) and finds conditional backfire, while the cited paper shows analytic corrective tools can fail or even exacerbate bias in new product forecasting. The cited study’s findings on “stickier priors” and resistance to correction plausibly serve as a mechanism/foundation source for the citing paper’s motivation and framing, not an obvious incidental mention. With this overlap, it is not safe to drop without full-text relation checking.",
+  "triage_decision": "keep_for_relation_judgment"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces spatial orientation of time (horizontal vs vertical display) as a contextual cue that affects intertemporal choice and delay discounting.",
+    "It identifies and tests an attention-based process in which display congruence increases attention to delay, which elongates anticipated duration and shifts choice toward immediate rewards.",
+    "It extends space-time congruence work from processing speed and product evaluation to consequential financial and consumer timing decisions (e.g., retirement allocation, delivery timing)."
+  ],
+  "context": "The studies focus on Western, English-speaking consumers who typically map time left-to-right (past-left, future-right). Empirical contexts include retirement contribution decisions, coupon timing, monetary trade-offs, and e-commerce delivery speed choices.",
+  "design_and_data": "The paper reports multiple experiments labeled Studies 1a-5 using U.S. MTurk adults and university students, manipulating whether intertemporal options are displayed horizontally or vertically while keeping option order constant (smaller-sooner first). Outcomes include retirement allocation percentages, binary immediate-versus-delayed choices, attention-to-time measures, and anticipated duration ratings; several studies used consequential incentives (actual coupons or bonus payments, and one study with possible cash payout). Study 2 uses a 2 x 2 design (display orientation x explicit time reminder) to test moderation by time salience. Studies 3 and 4 test serial mediation (PROCESS Model 6), and Study 5 primes timeline orientation (horizontal vs vertical vs control) before the choice task.",
+  "focal_constructs": [
+    "spatial representation of time",
+    "horizontal vs vertical temporal display orientation",
+    "intertemporal choice",
+    "delay discounting",
+    "attention to time delay",
+    "anticipated duration judgments",
+    "present bias",
+    "space-time congruence"
+  ],
+  "main_findings": [
+    "Across retirement, coupon, shipping, and monetary choices, horizontal (vs vertical) temporal displays increased preference for immediate rewards and reduced willingness to wait.",
+    "When a prior ad explicitly increased attention to time, the horizontal-vertical difference attenuated, largely because immediate-reward preference rose in the vertical condition.",
+    "Serial mediation analyses showed that display orientation affected choice through greater attention to time and then longer anticipated duration, and priming a vertical time mapping reduced or eliminated the default horizontal display advantage."
+  ],
+  "one_line_summary": "The paper shows that intertemporal options displayed horizontally rather than vertically make Western consumers more present-biased because congruent spatial time mapping increases attention to delay and makes waits feel longer.",
+  "relation_to_prior_work": "extends intertemporal choice research by showing that spatial location cues in temporal displays, not just temporal distance cues, can shift discounting and impatience. It also extends cognitive-linguistic and time-perception findings from processing and evaluation outcomes to consequential choice behavior, while linking the effect to attention and subjective duration.",
+  "research_gap": "Prior work shows that congruent space-time displays facilitate temporal processing and improve product evaluations, but it does not clearly establish whether this congruence changes intertemporal decisions. The mechanism linking display orientation to discounting behavior was also underexplored.",
+  "research_question": "Does the spatial orientation of intertemporal options (horizontal vs vertical) influence consumers' preference for immediate versus delayed rewards? If so, is this effect driven by greater attention to waiting time and longer anticipated duration estimates?"
+}

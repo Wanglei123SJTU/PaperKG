@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper experimentally disentangles pure treatment, treatment-by-selection, and pure selection explanations for the association between brand social network membership and marketing outcomes.",
+    "It introduces an intent-to-like design that separates willingness to like a brand from actually joining the brand's Facebook network.",
+    "It tests second-order effects by comparing token Facebook like endorsements with more meaningful friend endorsements in a field setting."
+  ],
+  "context": "The studies are set in brand social networks on Facebook, where consumers can join brand pages by clicking the Like button. Brands tested include Coca-Cola, Pepsi, Burt's Bees, and Grace Choi, with outcomes including attitudes and purchase-related behavior.",
+  "design_and_data": "The paper reports five experiments and two meta-analyses with total N > 14,000, using both online experiments (including MTurk samples) and a field experiment with a cosmetics brand. First-order studies randomize consumers to like versus not like brand pages, and in later studies use an intent-to-like procedure that randomizes willing participants to actually join or not join the page. Outcomes include brand favorability, purchase propensity, and coupon redemption, measured immediately and in one study again one week later; some studies also cross liking manipulations with advertising exposure. The second-order field experiment randomizes friends' coupon messages to control, meaningful endorsement, or Facebook-like endorsement and compares redemption rates.",
+  "focal_constructs": [
+    "Facebook brand likes",
+    "brand social network membership",
+    "selection effects",
+    "treatment effects",
+    "treatment-by-selection effects",
+    "brand favorability",
+    "purchase behavior",
+    "social endorsement"
+  ],
+  "main_findings": [
+    "Across first-order tests, inducing consumers to like a brand on Facebook did not produce positive causal effects on brand favorability or purchasing; pooled estimates were if anything slightly negative.",
+    "Positive associations between brand page membership and marketing outcomes were driven by preexisting brand fondness (selection), with no evidence that joining the page improved outcomes among those already willing to like.",
+    "In the second-order field experiment, messages that a friend likes the brand (meaningful endorsement) generated higher coupon redemption than messages that a friend liked the brand on Facebook, indicating token Facebook endorsements are less effective."
+  ],
+  "one_line_summary": "Across five experiments and two meta-analyses, clicking Like to join a brand's Facebook page did not improve consumers' attitudes or purchases, and friend-level Facebook like signals were weaker than more meaningful endorsements.",
+  "relation_to_prior_work": "refines prior social media effectiveness research by experimentally separating causal effects of joining brand social networks from self-selection, and by testing whether observed peer effects reflect token versus meaningful endorsement.",
+  "research_gap": "Marketers heavily invest in social media but often cannot document the ROI or value of a Facebook fan, and prior positive fan-outcome associations do not cleanly identify causality. The paper targets this gap by distinguishing selection from causal effects for both consumers' own outcomes and their friends' responses.",
+  "research_question": "Does joining a brand's Facebook network by clicking Like causally improve consumers' brand attitudes and purchasing, or does it mainly reflect preexisting preference for the brand? The paper also asks whether friends' outcomes are causally affected by seeing a Facebook like endorsement, and whether this token endorsement is weaker than a more meaningful endorsement."
+}

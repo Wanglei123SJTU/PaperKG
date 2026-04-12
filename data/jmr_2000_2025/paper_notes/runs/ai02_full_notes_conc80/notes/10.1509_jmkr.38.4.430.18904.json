@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops a Bayesian procedure for constructing conjoint choice designs for multinomial logit models using prior parameter distributions rather than fixed point assumptions.",
+    "The paper proposes a practical way to elicit managers' prior beliefs and uncertainty via subjective probability intervals on attribute-level choice frequencies and transform these into priors on model parameters.",
+    "The paper adds a cycling step to relabeling and swapping in the design search algorithm and reports that this improves design efficiency."
+  ],
+  "context": "The study focuses on marketing conjoint choice experiments analyzed with multinomial logit models. Its empirical illustration is a University of Groningen sports-club membership card design problem using judgments from sports-center managers and choices from student card holders.",
+  "design_and_data": "The authors define a Bayesian design criterion (DB-error), the expected DP-error over a prior distribution of multinomial logit coefficients, and optimize designs under a minimal-level-overlap constraint. Prior information is elicited from managers as lower and upper bounds on expected choice frequencies for attribute levels, then transformed to parameter priors and used in design generation with relabeling, swapping, and cycling heuristics. They run Monte Carlo comparisons of standard versus Bayesian designs, including a 3^4/2/15 benchmark and additional conditions with 3 or 5 attributes and 3 or 4 levels, using 1000 draws at each of 36 grid points for true-parameter dispersion. In the empirical application, priors from two managers are combined conservatively, and 58 student respondents evaluate a questionnaire containing both standard and Bayesian design choice sets, with holdout sets used to assess predictive validity.",
+  "focal_constructs": [
+    "Bayesian conjoint choice design",
+    "multinomial logit parameter uncertainty",
+    "managers' prior beliefs",
+    "subjective probability elicitation",
+    "DB-error and DP-error efficiency criteria",
+    "minimal level overlap",
+    "relabeling, swapping, and cycling algorithms",
+    "expected predictive mean square error"
+  ],
+  "main_findings": [
+    "In the benchmark 3^4/2/15 case, Bayesian designs outperformed the reported Huber-Zwerina relabeled design, and the cycled Bayesian design achieved the lowest errors (DP-error 0.263 vs 0.296; DB-error 0.834 vs 1.121).",
+    "Monte Carlo results show little gain when prior uncertainty is very small, but with moderate to larger uncertainty the Bayesian design typically requires fewer respondents (about 10% and up to about 15%-22%), with larger gains in more complex designs that can reach roughly 30%-40%.",
+    "In the sports-club application, the Bayesian design had lower DP-error (0.27 vs 0.31), produced many coefficient standard errors about 30%-50% lower, and yielded lower expected prediction error on holdouts (EMSE 0.092 vs 0.118, about a 22% improvement)."
+  ],
+  "one_line_summary": "The paper shows that eliciting managers' prior beliefs and uncertainty and using them in a Bayesian design criterion can produce more efficient conjoint choice designs and better expected prediction than standard fixed-parameter methods.",
+  "relation_to_prior_work": "extends Huber and Zwerina's efficient conjoint choice design framework by optimizing expected information over elicited prior distributions of parameters, explicitly incorporating uncertainty in assumed coefficient values.",
+  "research_gap": "Existing conjoint choice design procedures for multinomial logit models commonly use zero or fixed assumed parameter values, and efficiency can drop when those assumptions are wrong. Prior pilot-based approaches do not formally incorporate uncertainty about assumed parameters, and managers' prior beliefs had not been directly used to optimize the design.",
+  "research_question": "How can conjoint choice experiments for multinomial logit models be designed when true parameters are unknown but managers hold beliefs about likely market shares and their uncertainty? The paper examines whether eliciting those beliefs and embedding them in a Bayesian design procedure yields more efficient estimates and better predictive performance than standard design methods."
+}

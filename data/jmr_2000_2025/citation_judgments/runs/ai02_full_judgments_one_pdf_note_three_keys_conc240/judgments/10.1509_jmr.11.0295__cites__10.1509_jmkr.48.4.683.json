@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the literature review, the cited paper is not just listed as generic background; it is identified as a concrete HMM application in marketing. The citing paper then uses Li et al. (2011), together with closely related studies, to define a methodological gap: prior work did not recover hidden states. This gap motivates a core contribution of the citing paper (state recovery via forward-backward sampling), so the citation plays a meaningful positioning role rather than a passing mention.",
+  "relation_description": "The citing paper treats Li, Sun, and Montgomery (2011) as part of prior HMM-based cross-selling research and argues that this stream integrates out latent states. It positions its own approach as a methodological improvement by explicitly recovering hidden relationship states for ROMI estimation.",
+  "relation_type": "refines"
+}

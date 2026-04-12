@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces a consensus-coded taxonomy of substantive topics, methods, data sources, and domains for 401 JMR articles published from 2013 to 2019.",
+    "Provides updated evidence that JMR maintains broad diversity in topics and methods, while also showing the emergence of newer topics such as social media, social networks, and prosocial behavior.",
+    "Shows increasing overlap across behavioral, quantitative, and strategy research, and discusses implications for editorial review processes and for the organization of marketing scholarship."
+  ],
+  "context": "The paper is an editorial assessment of research published in the Journal of Marketing Research during 2013-2019. It evaluates JMR's role as a broad marketing journal spanning behavioral, quantitative, and strategy scholarship.",
+  "design_and_data": "The authors conduct a content-coding analysis of JMR articles published from 2013 to 2019. Of 425 published items, they exclude 24 editorials or invited commentaries and code the remaining 401 articles; at least two authors code each article and resolve disagreements through consensus discussions. They require each article to be assigned to one domain, while allowing multiple substantive topics, methods, and data sources per article. They also compute Herfindahl-Hirschman Index values to assess domain specificity of topics and methods.",
+  "focal_constructs": [
+    "substantive topics",
+    "research methods",
+    "data sources",
+    "methodological diversity",
+    "behavioral-quantitative-strategy domains",
+    "domain convergence",
+    "domain specificity (HHI)"
+  ],
+  "main_findings": [
+    "JMR articles in 2013-2019 cover a wide range of topics, with the largest shares in consumer choice (13.7%), advertising (13.5%), consumer psychology (12.0%), product policy and packaging (10.5%), and pricing (9.7%).",
+    "Compared with prior historical coding, newer represented topics include customer satisfaction/CRM, WOM, services, prosocial behavior, social networks, social media, and consumer search, and only 6.2% of recent articles are primarily methods-focused.",
+    "Method and data diversity remains high, with 47% using lab experiments, 45% using statistical or econometric models, and over one-third using multiple methods, while HHI patterns indicate substantial cross-domain overlap and increasing convergence among behavioral, quantitative, and strategy work."
+  ],
+  "one_line_summary": "This editorial codes 401 JMR articles from 2013-2019 and finds sustained topical and methodological diversity alongside growing convergence across behavioral, quantitative, and strategy domains.",
+  "relation_to_prior_work": "extends Huber, Kamakura, and Mela's (2014) historical review by analyzing the post-2012 period and by explicitly mapping intersections among topics, methods, data sources, and domains. It also updates prior evidence on JMR's cross-domain diversity discussed by Tellis, Chandy, and Ackerman (1999) and Johnson (2006).",
+  "research_gap": "Prior assessments either covered JMR only through 2012 or documented journal diversity without a recent, article-level mapping of how substantive topics, methods, and data sources intersect across domains. The paper addresses this missing updated assessment for 2013-2019.",
+  "research_question": "How have substantive topics and methodological approaches in JMR evolved during 2013-2019? Do JMR publications still show strong methodological diversity, and do the traditional behavioral, quantitative, and strategy domains remain distinct or increasingly converge?"
+}

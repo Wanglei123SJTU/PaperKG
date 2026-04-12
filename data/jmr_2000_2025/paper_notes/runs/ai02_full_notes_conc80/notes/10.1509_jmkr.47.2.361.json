@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper applies an assimilation-contrast framework to predict when buyer commitment in B2B relationships will buffer versus amplify the effects of an incumbent supplier's own misbehavior.",
+    "It distinguishes calculative and affective commitment and compares their effects across two misbehavior types (ethical violations vs opportunism) and severity levels (mild vs severe).",
+    "It provides process evidence that buyer perceptions of supplier conformance to normative standards account for the buffering and amplifying effects."
+  ],
+  "context": "The setting is business-to-business buyer-supplier relationships, focusing on organizational buyers deciding whether to switch from an incumbent supplier to an alternative supplier. The focal threats are incumbent supplier ethical violations (societal norm violations) and opportunism (relational norm violations).",
+  "design_and_data": "The paper reports three studies. Study 1 uses four separate 2x2 between-subject scenario experiments with undergraduates (total N = 440), manipulating either calculative or affective commitment and mild versus severe ethical violations or opportunism, with switching intention as the dependent measure. Study 2 replicates the four 2x2 experiments online with executive and working MBA students (total N = 420) and adds a process measure of perceived conformance to normative standards. Study 3 is a field-based scenario study with 92 purchasing professionals from four manufacturing SIC groups, measuring calculative and affective commitment to an actual incumbent supplier and testing manipulated mild versus severe unethical behavior and opportunism scenarios using regression with controls.",
+  "focal_constructs": [
+    "calculative commitment",
+    "affective commitment",
+    "supplier opportunism",
+    "ethical violations",
+    "buyer switching intentions",
+    "assimilation effects",
+    "contrast effects",
+    "conformance to normative standards"
+  ],
+  "main_findings": [
+    "Calculative commitment showed buffering effects for mild ethical violations across all three studies and for mild opportunism in Studies 1 and 2, but these effects attenuated or disappeared when misbehavior was severe.",
+    "Affective commitment buffered mild opportunism and reliably amplified switching intentions under severe opportunism across all three studies.",
+    "Process tests showed that perceived supplier conformance to normative standards completely mediated the observed buffering and amplification effects where the interactions were significant."
+  ],
+  "one_line_summary": "Across three studies, the paper shows that buyer commitment can both protect and endanger incumbent B2B suppliers: mild misbehavior is often buffered, but severe opportunism triggers amplification of switching intentions, especially under affective commitment.",
+  "relation_to_prior_work": "extends relationship commitment research by showing a previously underexamined dark-side mechanism: commitment can amplify, not only dampen, relational threats when incumbent suppliers behave flagrantly opportunistically.",
+  "research_gap": "Prior work emphasized the benefits of commitment and some dark-side issues, but had not directly tested whether buyer commitment can backfire and intensify switching threats caused by an incumbent supplier's own misbehavior. The paper also targets a specific unresolved issue: whether calculative versus affective commitment differ in buffering or amplifying responses to ethical violations versus opportunism at different severity levels.",
+  "research_question": "When and to what extent do calculative and affective commitment buffer, have no effect on, or amplify organizational buyers' intentions to switch suppliers after incumbent supplier misbehavior? Do these effects differ for ethical violations versus opportunism and for mild versus severe misbehavior? Through what process, based on assimilation and contrast, do these effects occur?"
+}

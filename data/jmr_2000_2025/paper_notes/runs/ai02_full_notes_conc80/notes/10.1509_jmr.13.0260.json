@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper is presented as the first empirical study to document the role of media coverage in a retail price war.",
+    "It develops and estimates a multi-stakeholder framework (retailers, consumers, investors, and media) that separates direct effects of retailer price and advertising actions from indirect effects channeled through media coverage.",
+    "It highlights stakeholder asymmetries in responses to media coverage (consumers respond to valence, while retailers and investors respond to message volume) and links these to price-war dynamics over time."
+  ],
+  "context": "The empirical setting is the Dutch supermarket price war of 2003-2005, initiated by Albert Heijn and involving major chains Albert Heijn, C1000, Edah, and Super de Boer. The study tracks how press coverage of this conflict interacts with retailer pricing, consumer shopping, and investor reactions.",
+  "design_and_data": "The authors use weekly chain-level data from week 3 of 2002 through week 35 of 2007 around the price-war period. Measures include chain basket prices for 100 common top-selling SKUs and market shares (GfK), advertising spending (Nielsen), and abnormal stock returns for relevant holding companies (DataStream plus risk-free returns). Media data come from all daily editions of four national Dutch newspapers in Lexis-Nexis, manually coded for price-related messages by chain, message type (single-chain vs multichain), and valence; the final sample contains 474 message evaluations (76% multichain). They estimate a simultaneous dynamic system with hierarchical Bayes, including feedback, carryover, competitive effects, structural-break terms, and dynamic simulations with and without media pathways.",
+  "focal_constructs": [
+    "price war",
+    "media coverage volume",
+    "media coverage valence",
+    "multichain versus single-chain press messages",
+    "regular price changes",
+    "deep price reductions",
+    "retailer market share",
+    "abnormal stock returns"
+  ],
+  "main_findings": [
+    "Price reductions, especially deep cuts, increase the quantity and favorability of multichain price-related media coverage, but this media response weakens as the price war progresses.",
+    "Multichain media coverage has incremental effects beyond own price and advertising: favorable valence raises market share, while higher message volume lowers abnormal stock returns and triggers additional retailer price cuts.",
+    "Single-chain messages do not show significant incremental effects on market share, retailer pricing, or abnormal stock returns, and simulations indicate media meaningfully deepens the early downward price spiral but this amplification fades later."
+  ],
+  "one_line_summary": "Using weekly data from the Dutch 2003-2005 supermarket price war, the paper shows that deep price cuts trigger media coverage that affects consumers, investors, and subsequent retailer pricing, amplifying early price-war dynamics before fading over time.",
+  "relation_to_prior_work": "extends prior price-war and marketing-response research by introducing independent media coverage as an explicit actor in the competitive system and by distinguishing direct effects of retailer actions from media-channeled effects on consumers and investors.",
+  "research_gap": "The paper states that prior business and price-war research had not addressed how media reporting in a conflict setting affects outcomes beyond firms' own marketing actions or how such effects unfold across stakeholders over time. Despite many studies on price wars, media had not been modeled as a trigger or contributor to the escalation and progression of the war.",
+  "research_question": "How does media coverage of a price war respond to retailers' price cuts, and how does that coverage affect consumers, investors, and rival retailers over time? Specifically, do the amount and tone of price-related press messages create effects beyond retailers' own price and advertising actions, and does media feedback intensify or dampen the price-war spiral as it evolves?"
+}

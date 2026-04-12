@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a novel 'seesaw self' account in which ownership salience activates a product-related identity while simultaneously deactivating product-unrelated identities.",
+    "It shows that ownership can create downstream performance costs in unrelated domains, even when the underlying task is identical and only the task label changes.",
+    "It provides process evidence for identity (de)activation using an experimental-causal-chain approach and moderation by self-concept clarity."
+  ],
+  "context": "The studies are set in consumer ownership and shopping contexts (e.g., IKEA home products, calculators, art pieces) and examine effects on subsequent cognitive task performance. The key contextual manipulation is whether a later task is framed as product-related versus product-unrelated.",
+  "design_and_data": "The article reports five main experiments (Experiments 1a-1c, 2, 3, 4, and 5) using mostly MTurk samples and one university behavioral lab sample. Ownership was manipulated as psychological ownership (imagination/write tasks) and legal ownership salience (own vs public/library computer; owned calculator vs owned art piece), and performance was measured with accuracy on pantry price-comparison, anagram, and IQ-style symbol tasks. Crucially, several tests held task content constant while varying only the task label (related vs unrelated). Experiment 5 manipulated self-concept clarity to test process moderation, and the authors also report a single-paper meta-analysis across main experiments.",
+  "focal_constructs": [
+    "psychological ownership",
+    "identity activation",
+    "identity deactivation",
+    "product-related identity",
+    "product-unrelated identity",
+    "self-concept clarity",
+    "task label relevance",
+    "task performance"
+  ],
+  "main_findings": [
+    "Ownership salience increased accessibility of product-related identities and reduced accessibility of product-unrelated identities in identity-accessibility measures.",
+    "Participants with ownership salience performed worse on tasks labeled as product-unrelated than baseline participants, even when the actual task was the same across label conditions.",
+    "Ownership-related performance differences were concentrated under low self-concept clarity and attenuated under high self-concept clarity, and a meta-analysis across main studies supported overall impairment and facilitation effects."
+  ],
+  "one_line_summary": "Across five experiments, making product ownership salient shifted identity accessibility toward product-related selves and away from unrelated selves, reliably impairing performance on product-unrelated labeled tasks and sometimes improving product-related performance.",
+  "relation_to_prior_work": "extends prior research on possessions and self-assimilation by showing that ownership-based identity activation carries a cost: deactivation of unrelated identities and poorer unrelated-task performance. It also connects consumer ownership effects to social-cognition work on identity inhibition by demonstrating this mechanism in product and shopping settings.",
+  "research_gap": "Prior work showed that possessions and brands can activate product-related selves and improve congruent judgments or performance, but it had not directly tested whether this activation deactivates other, unrelated selves. The downstream performance consequences in product-unrelated domains were therefore unaddressed.",
+  "research_question": "Does making product ownership salient do more than boost product-related identity and performance - does it also deactivate product-unrelated identities and impair performance on unrelated tasks? The paper also asks whether this pattern reflects identity (de)activation, as indicated by stronger effects when self-concept clarity is low."
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used repeatedly, not just as a generic background mention: it is part of the core consumer-finance literature the authors build on, and it is cited for a specific prior result that hardship language is linked to worse repayment behavior. Netzer et al. explicitly position their contribution relative to this earlier narrative-based lending work by moving from smaller-scale, human-coded narrative analysis to large-scale automated text mining and prediction. This shows a clear functional role in framing and interpreting the citing paper's contribution.",
+  "relation_description": "Netzer et al. extend Herzenstein et al.'s line of research on borrower text in peer-to-peer lending by scaling from coded narrative claims to automated word-level machine learning for default prediction. They also use the prior hardship-language finding as interpretive support when discussing their own text-default associations.",
+  "relation_type": "extends"
+}

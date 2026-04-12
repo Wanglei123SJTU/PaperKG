@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Shows that trade-ins influence not only replacement likelihood but also consumers' willingness to pay for the new product.",
+    "Examines buyer-seller behavior when the same consumer acts as both seller and buyer in one negotiation, and identifies perceived transaction importance as the process.",
+    "Provides a consumer welfare and policy implication: treating trade-in and new purchase as separate transactions can reduce overpaying for the new product."
+  ],
+  "context": "The paper studies replacement purchases where consumers trade in a used product while buying a new one, with a primary focus on automobile transactions. It also validates results with real dealer transaction data from the California sport-utility-vehicle market.",
+  "design_and_data": "The authors run five laboratory experiments using scenario-based trade-in versus single-transaction conditions (reported samples include 43, 66, 122, 83, and 66 undergraduates). Measures include willingness-to-accept for the used product, willingness-to-pay for the new product, perceived importance/effort ratings, and outcome-happiness judgments under controlled net outcomes. They also analyze field data from Power Information Network (J.D. Power affiliate): California dealer transactions from January 1997 to March 2003, restricted to cash SUV purchases, with 11,146 transactions across 102 car definitions after filters. A regression with car fixed effects and multiple time, inventory, geography, and demographic controls tests whether trade-in presence predicts higher new-car negotiated price.",
+  "focal_constructs": [
+    "trade-in transactions",
+    "willingness to pay",
+    "willingness to accept",
+    "mental accounting",
+    "perceived transaction importance",
+    "resource allocation",
+    "replacement purchase decisions"
+  ],
+  "main_findings": [
+    "Trade-in consumers reported willingness-to-accept prices for used cars comparable to sellers alone, but willingness-to-pay prices for new cars higher than buyers alone.",
+    "Perceived importance of the new-product transaction mediated the higher willingness-to-pay effect, and the effect appeared when trade-in value was framed as important but disappeared when it was framed as low importance or when transactions were treated separately.",
+    "In field data, trade-in transactions were associated with significantly higher new-car prices; on average, trade-in customers paid about $452.5 more than non-trade-in customers after controls."
+  ],
+  "one_line_summary": "Across five lab experiments and dealer transaction data, the paper finds that trade-ins can raise what consumers pay for new products because they prioritize negotiating the used-product value over the new-product price.",
+  "relation_to_prior_work": "extends prior trade-in and replacement research by showing an effect on negotiated willingness to pay, not just on whether consumers replace products. It also extends buyer-seller difference research by studying situations where consumers are simultaneous buyers and sellers in a single deal.",
+  "research_gap": "The paper states that little research has examined how related buy and sell transactions affect each other when consumers negotiate both simultaneously in a trade-in. Prior work largely studied people as either buyers or sellers, but not both at once.",
+  "research_question": "Does engaging in a trade-in, where a consumer negotiates both the used-product value and new-product price with one retailer, increase willingness to pay for the new product? The paper also asks whether this occurs because consumers see the used-product transaction as more important than the new-product transaction."
+}

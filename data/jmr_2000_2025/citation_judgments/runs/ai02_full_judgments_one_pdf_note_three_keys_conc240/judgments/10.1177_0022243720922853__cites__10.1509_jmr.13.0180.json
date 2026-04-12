@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is used for more than background listing: the citing study explicitly relies on it for key empirical implementation choices. In particular, the citing paper references Sotgiu and Gielens (2015) when defining an operational measure (assortment size) and when justifying its neighboring-country instrument logic for endogeneity handling. Although the focal topic differs (umbrella rebranding vs. price wars), this citation function materially informs the citing paper's methodological setup.",
+  "relation_description": "The citing paper applies empirical design guidance from the cited paper, especially for variable operationalization and IV-based identification logic in a retail panel setting. It uses the cited study as a methodological precedent rather than as a direct theoretical foundation for its main hypotheses.",
+  "relation_type": "applies"
+}

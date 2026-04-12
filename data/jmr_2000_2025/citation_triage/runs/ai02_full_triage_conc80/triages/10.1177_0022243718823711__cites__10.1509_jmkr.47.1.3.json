@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s design explicitly states it applies “control-function corrections for price and distribution endogeneity” in a nested-logit demand model, while the cited paper’s core contribution is precisely a control-function method for endogeneity in consumer choice. This methodological alignment suggests the citation is likely a substantive estimation-method source rather than a perfunctory mention. The DOI match is exact (10.1509/jmkr.47.1.3).",
+  "triage_decision": "keep_for_relation_judgment"
+}

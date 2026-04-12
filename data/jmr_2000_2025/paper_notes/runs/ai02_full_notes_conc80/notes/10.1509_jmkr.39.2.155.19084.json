@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces the claim that required effort in frequency programs systematically affects the type of reward consumers prefer, not only whether they participate.",
+    "It proposes and tests a guilt-based mechanism: higher effort helps consumers justify indulgence and thus increases preference for luxury rewards over necessity rewards.",
+    "It evaluates a signaling-based alternative explanation and reports evidence (including monetary-cost manipulations) that supports the guilt-justification account and yields implications for FP design, targeting, and promotion."
+  ],
+  "context": "The paper studies consumer frequency (loyalty) programs using scenarios modeled on real programs in categories such as car rental, department stores, hotels, and online shopping. Participants were travelers waiting for flights at domestic terminals in a major airport.",
+  "design_and_data": "The authors ran a series of randomized between-subject studies with approximately 3100 consumers. Across studies, respondents chose between or evaluated FPs that varied in requirements (for example, number of rentals, spending thresholds, nights stayed), reward type (luxury versus necessity), and in some tests effort type (work versus pleasure), individual compliance difficulty, and monetary participation fees. Outcomes included relative choice shares between luxury and necessity rewards (often excluding no-join responses) and 0-10 likelihood-of-joining ratings in separate-evaluation designs. The analyses used chi-square tests, ANOVA interaction tests, and logistic regressions, with additional measures such as guilt propensity and purchase frequency.",
+  "focal_constructs": [
+    "frequency program requirements",
+    "perceived effort",
+    "luxury rewards",
+    "necessity rewards",
+    "guilt about luxury consumption",
+    "work-related versus pleasure-related effort",
+    "program joining likelihood",
+    "signaling of reward value"
+  ],
+  "main_findings": [
+    "Higher program requirements increased relative preference for luxury over necessity rewards in multiple FP contexts, and high requirements reduced joining likelihood mainly when the reward was a necessity.",
+    "The positive effect of higher requirements on luxury preference was stronger among respondents with higher self-reported guilt about luxury consumption and was stronger for work-related than pleasure-related effort contexts.",
+    "Findings were inconsistent with a pure signaling account: the luxury shift appeared with self-generated equal-value rewards and with higher individual compliance difficulty at fixed requirements, while increasing monetary participation cost reduced preference for luxury rewards."
+  ],
+  "one_line_summary": "Across multiple frequency-program experiments with airport travelers, higher required effort shifted preferences and enrollment toward luxury rather than necessity rewards because effort helped justify indulgence.",
+  "relation_to_prior_work": "extends prior work on hedonic versus utilitarian choice, mental accounting, and guilt by showing that required effort in loyalty programs can justify luxury choice and by testing moderators and an alternative signaling explanation.",
+  "research_gap": "Despite the ubiquity of frequency programs, the paper states that little is known about what drives consumer evaluations of these programs and why some succeed while others fail. It specifically addresses the unresolved issue of how the magnitude and type of required effort influence preferences between luxury and necessity rewards.",
+  "research_question": "Do higher frequency-program requirements shift consumers toward luxury rather than necessity rewards, and does that shift affect willingness to join the program? Is the effect driven by effort reducing guilt about indulgence (earning the right to indulge), rather than by effort signaling higher reward value?"
+}

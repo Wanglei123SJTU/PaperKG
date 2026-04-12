@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the empirical section, the cited paper is used when the authors build a key text-based measure, not just as broad background. The citing paper explicitly references Tirunillai and Tellis (2014) to support using topic-model outputs and an HHI-style interpretation of heterogeneity, and this construct is then used in core hypothesis tests. While the domain differs (education crowdfunding vs. brand chatter), the citation plays a meaningful methodological role in the study's operationalization.",
+  "relation_description": "The citing paper applies Tirunillai and Tellis (2014)'s text-analytics logic to a new context by using LDA-derived topic distributions from project proposals to construct a heterogeneity measure. This applied measure is central to testing how crowdfunded resources affect student outcomes.",
+  "relation_type": "applies"
+}

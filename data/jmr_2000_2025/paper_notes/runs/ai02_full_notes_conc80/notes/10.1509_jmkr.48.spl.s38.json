@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper identifies and labels debt account aversion, the tendency to prioritize reducing the number of debt accounts over minimizing total debt.",
+    "The authors develop an incentive-compatible debt management game to experimentally study how people repay multiple debts over time.",
+    "The paper shows that interventions that limit small-debt closure opportunities and highlight accumulated interest can improve debt repayment outcomes."
+  ],
+  "context": "The paper studies consumer debt management in settings where people hold multiple debts, especially credit card balances with different APRs and balances. Empirical evidence comes from U.S. participants in field surveys and university laboratory studies.",
+  "design_and_data": "The authors report three field surveys and four experiments. Field surveys include 171 CNBC viewers in a two-card rebate allocation scenario, 177 U.S. Mechanical Turk adults in a similar scenario with reported debt status, and 390 New York Times survey respondents reporting actual card debts and planned repayments (43 had debt on multiple cards). The experiments use a debt management game with six debts of different balances and interest rates over 25 rounds with yearly cash allotments and periodic bonuses; participants are paid for performance except in Experiment 2. Manipulations include saving allowed vs not allowed (Experiment 1, n=162), enough vs not enough cash to fully close the smallest debt in one-shot choices after training rounds (Experiment 2, n=65), consolidation of small debts into one larger loan (Experiment 3, n=102), and control vs prospective vs retrospective interest-information displays (Experiment 4, n=75).",
+  "focal_constructs": [
+    "debt account aversion",
+    "multi-debt repayment decisions",
+    "interest-rate-optimal repayment",
+    "subgoals and superordinate goals",
+    "goal-gradient motivation",
+    "loss segregation versus integration",
+    "debt consolidation",
+    "interest-charge salience"
+  ],
+  "main_findings": [
+    "Across surveys and experiments, participants systematically favored paying off small-balance debts first, even when larger debts carried higher interest rates.",
+    "In the repeated debt management game, behavior was strongly nonoptimal relative to the interest-rate benchmark, and allowing saving increased end-of-game debt compared with the no-saving condition.",
+    "Interventions that reduced focus on closing small accounts improved outcomes: low-cash constraints and debt consolidation shifted behavior toward better repayment, and retrospective accumulated-interest displays reduced ending debt relative to control and prospective displays."
+  ],
+  "one_line_summary": "The paper shows that consumers with multiple debts often repay small balances first rather than highest-interest balances, and that interventions reducing account-closure focus or emphasizing accumulated interest can improve repayment performance.",
+  "relation_to_prior_work": "introduces debt account aversion into consumer finance by applying prior ideas on subgoals, goal-gradient effects, and loss integration to explain deviations from normative interest-rate-first repayment.",
+  "research_gap": "Prior work documents biases in financial decisions and misunderstanding of compounding, but the paper argues that how consumers prioritize repayment across multiple simultaneous debts is not well understood. The authors address this by testing whether repayment choices follow normative interest-rate rules or psychologically driven account-closing motives.",
+  "research_question": "When consumers carry multiple debts, which debt do they choose to repay first, and do these choices follow the normative rule of prioritizing highest interest rates? The paper also asks whether targeted interventions can reduce biased repayment behavior and improve total debt reduction."
+}

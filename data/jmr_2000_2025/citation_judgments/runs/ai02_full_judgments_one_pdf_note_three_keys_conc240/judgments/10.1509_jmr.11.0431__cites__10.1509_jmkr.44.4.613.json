@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Chen and Yang (2007) as a key methodological antecedent for Bayesian data augmentation with aggregate data, explicitly stating its approach is methodologically akin to that work. It then positions its own contribution as moving beyond those prior aggregate-choice models to a multivariate usage setting with mixed aggregate and disaggregate observations. This is more than a passing literature list mention because the cited paper helps define the estimation strategy and the specific gap the new method addresses.",
+  "relation_description": "The citing paper builds on Chen and Yang's Bayesian data-augmentation approach for estimating disaggregate behavior from aggregate data. It extends that line to a hierarchical multivariate logit/data-fusion framework that combines individual-level data for some platforms with aggregate-only data for others.",
+  "relation_type": "extends"
+}

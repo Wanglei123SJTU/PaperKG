@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is invoked in the model-development section, not just in a background list. The citing authors explicitly state that their random-effects decomposition of personality scores is conceptually related to Dillon et al.'s separation of overall versus brand-specific associations, which is central to how they define category and brand components. Although they do not reuse Dillon et al.'s exact estimation procedure, the citation helps justify the core conceptual structure of the proposed model.",
+  "relation_description": "The citing paper uses Dillon et al. (2001) as conceptual grounding for decomposing brand perception data into common and brand-specific parts. It builds its own hierarchical factor model for brand extension planning on this decomposition logic, adapted to brand and category personality components.",
+  "relation_type": "foundational_for"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides evidence that some customers post product reviews without purchasing the reviewed item, using linked review and transaction records.",
+    "Shows that these reviews have systematically lower ratings and distinct text patterns, including cues consistent with deception, and supports this with extensive robustness checks and an Amazon replication of the low-rating pattern.",
+    "Argues that review distortion is not limited to strategically motivated firms and may also come from loyal individual customers with intrinsic motives."
+  ],
+  "context": "The main setting is a prominent private-label apparel retailer whose products are sold only through its own channels (website, catalog, and a small number of stores), allowing reviewer identities to be linked to customer and household transaction histories. The authors also run a replication on Amazon book reviews using the Amazon Verified Purchase indicator.",
+  "design_and_data": "The study uses a complete five-year transaction history and review data from the retailer, restricting to reviewers who purchased from the firm in that window; the final sample is 325,869 reviews, of which 15,759 (4.8%) have no confirmed purchase of the reviewed item. The authors compare ratings and review text between confirmed and nonconfirmed-purchase reviews, including text measures for fit/feel language and linguistic deception cues (word count, word length, family mentions, repeated exclamation points), and they repeat analyses on a subset where reviewers explicitly claim purchase. They report many robustness checks and alternative-explanation tests (within-item/reviewer/time analyses, misclassification checks, store-channel checks, service-complaint text checks, and regression/fixed-effects replications). They also replicate the rating result with 7,219 Amazon book reviews (80 books) and examine item-level pre/post revenue changes around review dates using a difference-in-differences style comparison by rating.",
+  "focal_constructs": [
+    "reviews without confirmed transactions",
+    "product rating distributions",
+    "deceptive linguistic cues",
+    "fit and feel language in review text",
+    "loyal/high-volume reviewers",
+    "Amazon Verified Purchase tag",
+    "self-appointed brand managers",
+    "post-review revenue change"
+  ],
+  "main_findings": [
+    "Approximately 5% of retailer reviews had no confirmed purchase, and these reviews were significantly more negative, with about twice the share of 1-star ratings and no increase in high-end ratings.",
+    "Reviews without confirmed transactions were less likely to mention fit or feel and more likely to contain linguistic cues associated with deception; similar patterns appeared when reviewers self-identified purchase and in an Amazon Verified Purchase replication.",
+    "These reviews were written by over 12,000 customers, many of them high-volume loyal buyers rather than a small set of likely competitor agents, and lower ratings were associated with larger subsequent revenue declines for the reviewed items (with an estimated upper-bound impact around 2.2% for affected items)."
+  ],
+  "one_line_summary": "Using linked review-transaction data from a private-label apparel retailer, the paper finds that reviews without confirmed purchases are disproportionately low-rated, linguistically consistent with possible deception, and associated with lower subsequent sales.",
+  "relation_to_prior_work": "extends prior deceptive-review research by moving beyond competitor-driven manipulation on third-party platforms to a private-label setting where individual customers can be linked to transactions. It also contrasts with prior evidence of thicker both-tail distributions by documenting an asymmetric distortion concentrated in low ratings.",
+  "research_gap": "Prior studies of deceptive reviews mainly examine settings with third-party products and emphasize strategic firm incentives, while offering less evidence from settings where reviewer identity can be tied to purchase records. The paper addresses this by testing whether distortion can also come from individual customers without obvious financial incentives.",
+  "research_question": "Do reviews submitted without a confirmed purchase differ systematically from reviews tied to confirmed transactions in rating valence and textual content, including cues associated with deception? Who writes these reviews, can alternative nondeceptive explanations account for the observed patterns, and do the resulting low ratings affect later demand and revenue?"
+}

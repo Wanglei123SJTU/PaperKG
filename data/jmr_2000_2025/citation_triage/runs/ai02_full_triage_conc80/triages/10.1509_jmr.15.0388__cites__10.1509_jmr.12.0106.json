@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s notes explicitly state it benchmarks its method against latent Dirichlet allocation in 72 synthetic datasets and reports large misprediction reductions versus LDA. The cited paper is a JMR article centered on an LDA-based marketing framework, making it a plausible method/comparison source rather than a purely incidental mention. Given this likely methodological relevance, it should proceed to second-stage judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

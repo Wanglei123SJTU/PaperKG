@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper is a methodological contribution on distributed MCMC for large-scale Bayesian hierarchical estimation, and its noted prior-work anchors are other distributed MCMC methods (e.g., Scott et al. 2016; Neiswanger et al. 2014), not TV-viewing models. The cited paper is an empirical TV microtargeting/application study, with no indication in the provided notes of being used as a method, benchmark, or core theoretical input; with only a single DOI-matched reference and no contextual quote, this looks like background motivation mention.",
+  "triage_decision": "drop_obvious_mention_only"
+}

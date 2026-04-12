@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper shows that disclosure of a default's intent changes fairness and ethical evaluations but does not, by itself, reduce default effects in choice.",
+    "It argues that disclosure fails to debias defaults because consumers lack the ability to counter the underlying reference-point and reason-generation process, not because they fail to notice the tactic.",
+    "It proposes and tests a neutral preference-articulation intervention (articulating why one might prefer either option) that reduces default effects by encouraging more balanced consideration."
+  ],
+  "context": "The studies examine consumer choices in several applied settings: social network privacy sharing, paid optional survey participation, field beverage customization (whipped cream on hot chocolate), and apartment amenity selection. The apartment context varies whether upgrades are green (society-benefiting) or premium (business-benefiting) and whether motives are benevolent or self-serving.",
+  "design_and_data": "The paper reports seven experiments using between-subject manipulations of choice format (opt-in vs opt-out), disclosure, and process interventions. Samples include university students (Experiment 1a, n=363), multiple MTurk adult samples (Experiments 1b, 2a, 2b, 3, 4), and a field sample receiving free hot chocolate on a university campus (Experiment 1c, n=209 analyzed). Designs are primarily 2x2 or 2x2x2 factorials, with disclosure presence or timing and, in later studies, a preference-articulation task administered before vs after choice. Outcomes include choice behavior, fairness and ethicality ratings, willingness to work with the default-setter again, and coded reasons used in moderated mediation analysis.",
+  "focal_constructs": [
+    "default effects",
+    "disclosure transparency",
+    "consumer protection",
+    "perceived fairness",
+    "perceived ethicality",
+    "default-setter motives",
+    "reference points",
+    "preference articulation"
+  ],
+  "main_findings": [
+    "Across Experiments 1a-1c and 2a-2b, defaults strongly shifted choices, and disclosing how defaults were intended to influence behavior did not significantly attenuate the opt-in/opt-out default effect.",
+    "Disclosure affected perceptions even when it did not debias choices: participants often rated defaults as fairer or more ethical when intent was disclosed upfront and reported greater willingness to work with the default-setter again.",
+    "In Experiments 3 and 4, adding preference articulation reduced default effects, and Experiment 4 showed this occurred through more balanced reason generation rather than default-favoring thought patterns."
+  ],
+  "one_line_summary": "Across seven experiments, the paper finds that transparency via disclosure changes judgments about defaults but does not reduce their choice influence, while preference articulation can debias default effects.",
+  "relation_to_prior_work": "extends prior work on defaults and persuasion knowledge by showing that awareness of a default's intent does not remove its behavioral influence even when ethical perceptions change. It also extends debiasing research by identifying preference articulation as a process-targeted intervention that reduces default effects by shifting reason generation.",
+  "research_gap": "Policy and advocacy discussions often assume that making defaults transparent will protect consumers from covert manipulation, but prior evidence leaves unclear whether intent disclosure actually weakens default influence. The paper addresses this by testing whether disclosure is sufficient and, if not, what process-level intervention can effectively debias default-driven choices.",
+  "research_question": "Does disclosing that a default is intended to nudge choice reduce the default effect? If disclosure is insufficient, can prompting consumers to articulate preferences for either the default or its alternative reduce default bias, and through what cognitive process?"
+}

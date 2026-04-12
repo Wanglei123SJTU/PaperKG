@@ -1,0 +1,6 @@
+{
+  "citation_substance": "mention_only",
+  "rationale": "The cited paper appears only in a methodological literature-list citation in a footnote (paired with another paper) as an example of recent work on identifying treatment effects in social settings. The citing paper does not discuss Narayanan and Nair's installed-base bias problem, bias-correction estimator, or IV strategy in its theory, identification, estimation, or robustness sections. Its empirical design relies on a different quasi-experimental seat-visibility setup rather than building on that specific framework. So the citation functions as broad background context rather than a meaningful building block.",
+  "relation_description": null,
+  "relation_type": null
+}

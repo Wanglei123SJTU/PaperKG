@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper endogenizes participation stipends in a model of the modern advertising agency selection contest, represented as a score auction with endogenous entry and asymmetric bid-preparation costs between an incumbent and a competitor.",
+    "It provides a general characterization of optimal stipend policy, including a sufficient condition based on the distribution of agency values under which a positive new-business stipend improves advertiser profit.",
+    "It identifies the incumbent's role in this setting and shows through extensions that the core insights are robust across alternative assumptions (additional competitors, different entry information, reserve prices, and a historical quality-only contest variant)."
+  ],
+  "context": "The setting is advertiser selection of full-service advertising agencies in modern pitch contests where agencies present both creative ideas and proposed media prices. The paper focuses on contests with an incumbent agency and at least one new-business competitor facing different pitch-preparation costs.",
+  "design_and_data": "This is a theoretical game-theoretic analysis with no empirical dataset. The baseline model is a three-stage game: the advertiser announces agency-specific stipends, agencies decide entry after observing private value draws, and entrants compete in a second-score sealed-bid auction. Agency value to the advertiser is modeled as creative quality minus media cost, with common knowledge of asymmetric fixed bid-preparation costs (incumbent lower than competitor). The authors derive equilibrium entry thresholds and advertiser profit expressions, then analyze propositions under general distributions and several tractable distributional examples, plus extensions.",
+  "focal_constructs": [
+    "participation stipends",
+    "new-business stipend",
+    "bid-preparation costs",
+    "incumbent versus competitor asymmetry",
+    "score auction",
+    "endogenous entry thresholds",
+    "agency value to advertiser"
+  ],
+  "main_findings": [
+    "Full reimbursement of bid-preparation costs is never optimal, and reimbursing any part of the incumbent's bid-preparation cost is not optimal.",
+    "A positive stipend can benefit the advertiser only as a partial new-business stipend to the higher-cost competitor, and only under certain value-distribution conditions; when bid-preparation costs are symmetric, no stipend should be offered.",
+    "If the agency-value distribution is sufficiently concentrated near low values (many weak agencies), stipends are not beneficial even with incumbent cost advantage; the qualitative asymmetry-based logic remains in reported extensions."
+  ],
+  "one_line_summary": "Modeling modern agency pitches as score auctions with endogenous entry, the paper shows that advertisers should not pay incumbent stipends or full reimbursements, but may profit from a partial new-business stipend when cost asymmetry and agency-value distributions are favorable.",
+  "relation_to_prior_work": "extends prior advertising-agency contest work (especially Gross 1972) by making stipends strategic and by modeling modern two-dimensional pitches that include media-price bids, and extends procurement-auction asymmetry research by analyzing participation stipends with endogenous entry and a known incumbent cost advantage.",
+  "research_gap": "Industry practice and commentary debated whether advertisers should reimburse pitch costs, but there was no clear theoretical consensus for modern agency contests. Prior related advertising models did not treat stipend policy as endogenous in contests that jointly evaluate creative quality and media pricing.",
+  "research_question": "When should an advertiser offer participation stipends in a modern advertising agency selection contest, and to which agencies? How should stipend levels depend on asymmetric bid-preparation costs and on the distribution of agencies' values to the advertiser?"
+}

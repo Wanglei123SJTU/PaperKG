@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Shows that payment method is a consequential contextual driver of participative pricing, affecting both buyer and seller price offers.",
+    "Identifies a P2P-specific mechanism - activation of a social transaction context and its cooperative pricing norm - rather than only payment-format or pain-of-paying effects.",
+    "Provides a new boundary-condition account for the endowment effect by showing attenuation in one-shot exchanges with strangers, with implications for C2C market efficiency."
+  ],
+  "context": "The paper studies consumer-to-consumer marketplace exchanges (e.g., Craigslist, eBay, Facebook Marketplace, Etsy) where buyers and sellers participate in price setting rather than accept fixed prices. Participants are typically told they are trading with strangers and that payment occurs via cash, credit/debit cards, or P2P apps such as Venmo or PayPal.",
+  "design_and_data": "The authors report eight experiments using between-subject designs that manipulate payment method and transaction role (seller vs buyer), then elicit willingness to accept (WTA) or willingness to pay (WTP) in endowment-effect paradigms. Samples include university students and online adult panels (MTurk and Prolific), and stimuli include physical and digital goods across low to higher price points. Several studies use consequential, incentive-compatible Becker-DeGroot-Marschak procedures with real product or money outcomes, while others use hypothetical choices. They also run moderation and mediated-moderation process tests and a market simulation that repeatedly pairs buyer and seller offers (5,000 draws per condition) to estimate successful trade rates.",
+  "focal_constructs": [
+    "P2P payment methods",
+    "participative pricing decisions",
+    "endowment effect",
+    "willingness to accept (WTA)",
+    "willingness to pay (WTP)",
+    "social transaction context",
+    "social transaction pricing norms",
+    "cooperative pricing decisions"
+  ],
+  "main_findings": [
+    "With traditional payment methods (cash, credit card, debit card), sellers' WTA is higher than buyers' WTP, replicating the endowment effect.",
+    "When participants anticipate P2P payment, sellers accept somewhat lower prices and buyers offer somewhat higher prices, eliminating or attenuating the WTA-WTP gap across studies.",
+    "Process evidence supports that P2P works by cuing a more social transaction context and cooperative pricing norm, and simulation results indicate about 9% more successful buyer-seller matches under P2P than under traditional payment methods."
+  ],
+  "one_line_summary": "Across eight experiments, anticipating P2P payment versus traditional payment methods led buyers and sellers to make more cooperative price offers, attenuating the endowment effect by activating a social transaction context.",
+  "relation_to_prior_work": "extends prior work on participative pricing and the endowment effect by showing that payment method, especially P2P versus cash/credit/debit, moderates the WTA-WTP asymmetry. It also refines payment-method accounts centered on pain of paying by demonstrating a social-norm pathway, and adds evidence to mixed relationship-norm findings by documenting attenuation with strangers in one-shot exchanges.",
+  "research_gap": "Prior participative-pricing and endowment-effect research had paid limited attention to payment method as a moderator of buyer-seller pricing asymmetry. The authors also note that prior payment-method work had not documented the distinct psychological consequences of P2P payments, particularly their ability to cue social transaction norms.",
+  "research_question": "Do P2P payment methods, relative to traditional methods such as cash, credit cards, and debit cards, change consumers' participative pricing as buyers and sellers? Specifically, can anticipating P2P payment reduce the endowment-effect gap between WTA and WTP by subtly activating a social transaction context and cooperative pricing norm, even when transacting with strangers?"
+}

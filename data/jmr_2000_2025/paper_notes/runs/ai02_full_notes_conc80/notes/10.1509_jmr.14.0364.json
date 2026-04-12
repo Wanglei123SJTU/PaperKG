@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper introduces a return on service amenities framework that computes amenity ROI and NPV from both initial choice and repurchase, including repeat-visit frequency and revenue conditional on repeat purchase.",
+    "It jointly models expected and actual amenity use to estimate how individual amenities affect future visits and revenues.",
+    "It claims to be the first to isolate individual amenity effects across choice stages and translate them into financial returns, and it validates one amenity's predicted return with field data."
+  ],
+  "context": "The empirical application is in the hotel industry, where brands and property owners debate amenity standards and costs. The study uses six brands of a multibrand global hotel company, with North American properties across upscale, upper upscale, and luxury segments.",
+  "design_and_data": "Initial-choice effects were estimated with a discrete choice experiment embedded in Forrester's 2014 U.S. Omnibus online survey (N = 5,090 U.S. business and leisure travelers), varying location, price, loyalty membership, and three free amenities. Repurchase effects were estimated from a matched guest-level panel that combined prestay and poststay amenity-use surveys with company transaction data (18 months before and 18 months after a focal stay) from 33 company-owned North American properties; the final analysis sample was 765 guests. The authors estimated visit frequency and conditional revenue jointly with a hierarchical Bayesian model (Poisson visits, zero-inflated log-normal revenue, and a factor structure linking expected and actual amenity use). They validated bottled-water results with a natural experiment using propensity-matched test and control properties and before/after revenue comparisons (78 matched pairs with complete data).",
+  "focal_constructs": [
+    "service amenities",
+    "initial choice probability",
+    "expected amenity use",
+    "actual amenity use",
+    "repeat purchase frequency",
+    "future revenue conditional on repeat purchase",
+    "return on investment (ROI)",
+    "net present value (NPV)"
+  ],
+  "main_findings": [
+    "In-room Internet had the strongest effect on initial hotel choice, while bottled water and fitness center had smaller but significant initial-choice effects.",
+    "In the longitudinal model, bottled water showed the strongest repeat-purchase impact (significant visit effects for two upper-upscale brands and a marginal conditional-revenue effect for one luxury brand), while Internet and fitness center showed weak or nonsignificant repeat effects.",
+    "Computed one-year financial returns varied substantially by amenity and brand: bottled water and in-room Internet were positive for most brands, fitness center was negative for most brands, and a field validation for bottled water showed higher postintroduction revenue growth in test properties with ROI close to the model estimate."
+  ],
+  "one_line_summary": "The paper develops and estimates a model that links expected and actual amenity use to initial choice and repurchase to compute brand-specific ROI and NPV of hotel amenities.",
+  "relation_to_prior_work": "extends prior feature/amenity research that mainly values amenities through initial choice by adding repurchase and future-revenue effects to ROI calculations. It also builds on prior feature-fatigue findings by isolating individual amenities and modeling expected versus actual usage effects on later behavior.",
+  "research_gap": "Prior ROI and conjoint-style amenity analyses largely measured benefits through initial choice, with limited evidence on postpurchase usage and repurchase. Existing work suggested initial and repeat effects can differ but did not isolate individual amenity repurchase effects or convert them into financial implications of adding or removing amenities.",
+  "research_question": "How should firms evaluate the financial return of service amenities when returns may come from both increased initial choice and increased future revenue from repeat customers? Can expected and actual amenity use be modeled to estimate amenity-specific ROI and NPV, and how do these returns differ across amenities and hotel brands?"
+}

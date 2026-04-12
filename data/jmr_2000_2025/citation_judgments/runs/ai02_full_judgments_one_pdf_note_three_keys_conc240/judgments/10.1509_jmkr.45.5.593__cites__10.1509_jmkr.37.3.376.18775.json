@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is not just listed in background; the citing article devotes a dedicated subsection to a detailed comparison with the Haaijer, Kamakura, and Wedel model. It formally contrasts model structures, re-estimates HKW-style specifications, and reports parameter and simulation results to evaluate whether HKW's exogenous-latency treatment is appropriate. The citing paper explicitly argues that treating response time as exogenous can lead to misleading inference, which is a direct critical positioning relative to the cited work.",
+  "relation_description": "The citing paper challenges the cited paper's conditional modeling strategy by arguing that response times are endogenous to the choice process rather than exogenous covariates. It uses empirical and simulation comparisons with HKW variants to show that HKW-style parameter interpretations can be misleading under endogeneity.",
+  "relation_type": "challenges"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The only matched evidence is a DOI-level bibliography match (reference_index 9) with no in-text citation context, so we cannot tell how the cited paper is used. The citing note focuses on partial-profile conjoint learning/imputation (BHH response), while the cited note is about compromise-effect choice models; this is related but not clearly central from the provided evidence. Given sparse evidence, it is not safe to drop as obvious mention-only.",
+  "triage_decision": "uncertain"
+}

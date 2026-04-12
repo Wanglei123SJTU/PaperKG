@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper identifies a confusion-elevating effect of advertising repetition: repeating similar competitor claims can increase misattribution between advertised brands even while claim recognition improves.",
+    "It applies dual-component recognition theory to brand-claim memory and argues that weak brand-claim binding drives these memory errors.",
+    "It shows that encoding tasks that promote brand-claim binding can mitigate repetition-induced confusion, and it replicates this pattern with more realistic banner-ad stimuli."
+  ],
+  "context": "The paper focuses on cluttered competitive advertising environments in which consumers see similar claims from familiar brands in close succession. The empirical settings use controlled lab exposure to brand-claim messages and, in the final study, web-banner ads embedded in a mock website.",
+  "design_and_data": "Experiment 1 used a 2 x 2 design with repetition (once vs three times, within subjects) and test delay (15 minutes vs 1 week, between subjects) with 82 undergraduate participants after attrition. Stimuli included 20 pairs of similar claims linked to familiar competitor brands (plus fillers), and memory was measured via claim recognition and forced-choice brand-claim association (target brand, advertised competitor, nonadvertised competitor, none). Experiment 2 repeated this design with 101 participants but used a self-generation orienting task (initial-letter cue before full brand) to encourage brand-claim binding. Experiment 3 used 69 participants, more realistic banner ads with product pictures embedded in a mock website, and manipulated read vs generate orientation between subjects with repetition within subjects.",
+  "focal_constructs": [
+    "advertising repetition",
+    "brand claim confusion",
+    "claim similarity",
+    "competitive interference",
+    "brand-claim binding",
+    "familiarity and recollection",
+    "testing delay",
+    "self-generation task"
+  ],
+  "main_findings": [
+    "In Experiment 1, repetition increased claim recognition accuracy but also increased confusion between claims of concurrently advertised competitor brands.",
+    "Longer test delay generally impaired brand-claim association memory and increased confusion relative to short delay conditions.",
+    "In Experiments 2 and 3, when encoding encouraged stronger brand-claim binding (generation/deeper processing), the repetition-driven increase in confusion with advertised competitors was significantly reduced or absent."
+  ],
+  "one_line_summary": "Across three experiments, repeating similar claims from familiar competing brands improved claim recognition yet could increase brand-claim misattribution unless encoding conditions strengthened brand-claim binding.",
+  "relation_to_prior_work": "extends prior advertising repetition and competitive interference research by showing that repetition can produce memory confusion rather than only learning gains or reduced learning. It introduces a dual-component account in which familiarity gains from repetition can outpace item-specific recollection when brand-claim binding is weak.",
+  "research_gap": "Prior marketing research had focused mainly on repetition as improving learning or being dampened by competition, with little direct examination of repetition as a source of memory error. The paper also notes that earlier studies often used low-familiarity or fictitious brands and less similar competitors, leaving unclear whether familiar brands with similar claims become confused when repeated together.",
+  "research_question": "Does concurrent repetition of similar claims from equally familiar competitor brands improve accurate brand-claim learning or instead increase brand-claim confusion between those competitors? Can stronger encoding that binds each brand to its claim reduce this repetition-induced confusion, and does the pattern persist after a one-week delay?"
+}

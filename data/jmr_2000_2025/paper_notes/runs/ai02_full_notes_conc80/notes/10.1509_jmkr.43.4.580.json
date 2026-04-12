@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The study examines how relational embeddedness at two levels - buyer-salesperson and manufacturer-retailer - affects retail buyers' new product acceptance decisions.",
+    "It shows that relationship quality has its strongest effect when product attractiveness is moderate, identifying a contingency not captured by product-only explanations.",
+    "By using data on actual new product evaluations and later confirmed acceptance decisions from two large grocery retailers, the authors claim high external validity and practical relevance."
+  ],
+  "context": "The empirical setting is US grocery retailing, specifically buyers in nonperishables categories at two large chains (about 500 and more than 1000 stores). The decision context is whether to accept newly presented SKUs for shelf display and sales under scarce shelf space and high failure risk.",
+  "design_and_data": "The authors conducted a collaborative field study with two grocery retailers and collected buyer-level evaluations during actual new product presentations. Buyers completed 210 evaluations (205 used after excluding duplicates), with response rates of 89% and 90%; acceptance/rejection decisions were confirmed later because decisions can be time-delayed. Relationship quality (trust, satisfaction, commitment) was measured for buyer-salesperson and firm-firm ties, and product attractiveness was built as a weighted formative index from product, expected demand, marketing strategy, and competition factors. For hypothesis tests, product attractiveness and relationship quality were split into low/moderate/high bands using mean +/- 1 SD, and ordered-proportion tests (Cochran-Armitage) were used on acceptance rates.",
+  "focal_constructs": [
+    "relational embeddedness",
+    "buyer-salesperson relationship quality",
+    "manufacturer-retailer relationship quality",
+    "product attractiveness",
+    "new product acceptance",
+    "trust, satisfaction, and commitment",
+    "heuristic versus systematic processing"
+  ],
+  "main_findings": [
+    "When product attractiveness is moderate, acceptance rates increase significantly as buyer-salesperson relationship quality rises from low to high.",
+    "When product attractiveness is moderate, acceptance rates also increase significantly as manufacturer-retailer relationship quality rises from low to high.",
+    "Relationship effects are concentrated in the moderate-attractiveness range; when products are clearly unattractive or clearly attractive, decisions are close to certain rejection or acceptance and relationships matter less."
+  ],
+  "one_line_summary": "Using real new product decisions from two US grocery chains, the paper finds that relationship quality boosts retail acceptance mainly for moderately attractive products, with especially large effects for buyer-salesperson ties.",
+  "relation_to_prior_work": "extends prior retail new product selection research that emphasized product and marketing factors by incorporating relationship quality as a contingent influence on acceptance decisions. It also connects institutional embeddedness and relationship marketing views by showing that the content of ties (trust, satisfaction, commitment), not just tie existence, is associated with organizational choice.",
+  "research_gap": "Prior work on retail new product acceptance focused mainly on product, strategy, category, and environmental factors, while the effect of marketing relationships on acceptance had not been well studied. The paper addresses this by examining whether and when buyer-salesperson and firm-firm relationship quality influences acceptance decisions.",
+  "research_question": "How do buyer-salesperson and manufacturer-retailer relationship quality affect a retail buyer's decision to accept a new product? Does the impact of these relationships depend on product attractiveness, with stronger effects when attractiveness is only moderate?"
+}

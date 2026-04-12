@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a more complete model to predict visits to search-engine sites.",
+    "It introduces a parsimonious mixture specification that keeps traditional interpurchase-time model properties but adds regularly recurring peaks in disaggregate visit data.",
+    "It incorporates covariates to improve prediction precision and empirically tests hypotheses about search-engine use."
+  ],
+  "context": "The empirical setting is Internet search-engine usage by household users in the HomeNet project. The analysis treats visits to eight major engines (Yahoo!, Excite, Lycos, AltaVista, Infoseek, Goto, Go, and HotBot) as a product class and models intervisit timing.",
+  "design_and_data": "The authors develop a proportional hazards mixture model that combines a baseline intervisit-time hazard with a truncated Laplace component to capture daily schedule-driven periodicity, and they add nonparametric unobserved heterogeneity via discrete support points plus covariates. They estimate the model on one year of HomeNet data for 126 users (4559 visits), defining a session as searches less than one hour apart and excluding users with only one visit. The first nine months (3398 observations) are used for calibration and the last three months (1161 observations, 105 active users) for holdout validation. They compare mixture versus nonmixture versions across Weibull, log-logistic, expo-power, and geometric-type baselines using fit metrics and hourly hit-rate prediction tests.",
+  "focal_constructs": [
+    "intervisit time periodicity",
+    "proportional hazards mixture model",
+    "truncated Laplace schedule component",
+    "baseline hazard distributions",
+    "unobserved heterogeneity (discrete support points)",
+    "user experience",
+    "nonsearch feature use",
+    "holdout hit-rate prediction"
+  ],
+  "main_findings": [
+    "Adding the schedule-based mixture component improves model fit relative to nonmixture models across tested baseline hazard specifications.",
+    "In the preferred expo-power specification, experience is associated with lower visit frequency, nonsearch feature use is associated with higher visit frequency, and their interaction is positive for the segment where covariates are significant.",
+    "In holdout prediction, the mixture model outperforms the traditional model for windows of three hours and larger; for an eight-hour window it achieves about a 30% hit rate versus about 15% for the nonmixture model, with improvements also at the individual level."
+  ],
+  "one_line_summary": "The paper develops and tests a parsimonious proportional-hazards mixture model with a truncated Laplace schedule component that captures periodic search-engine visit timing and improves disaggregate prediction over traditional models.",
+  "relation_to_prior_work": "extends stochastic interpurchase-time proportional hazards models by explicitly modeling recurring schedule-based peaks in continuous-time visit data through a truncated-Laplace mixture while retaining covariates and nonparametric heterogeneity.",
+  "research_gap": "Prior interpurchase-time models used in marketing generally assume smooth unimodal hazards and do not explicitly account for periodicity in visits or purchases. The paper argues that this omission gives poor fit to disaggregate hourly search-engine data with multiple modes and can bias covariate estimates.",
+  "research_question": "Can a proportional hazards mixture model that combines standard baseline hazards with a schedule-driven component better represent periodic search-engine intervisit times than traditional models? Does this framework improve prediction of subsequent visit timing and identify how user experience and nonsearch feature usage affect visit frequency?"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "mention_only",
+  "rationale": "The cited paper appears only in a brief literature-review sentence listing prior approaches to endogeneity, where it is described as offering methods for testing endogeneity. The citing paper does not build its control-function specification, estimation steps, or empirical implementation on this specific paper, and it is not revisited in the model development or results interpretation. This indicates a contextual/background mention rather than a paper-specific intellectual dependency.",
+  "relation_description": null,
+  "relation_type": null
+}

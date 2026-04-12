@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the estimation discussion, the citing paper uses Naik and Tsai (2000) for a specific methodological point: dynamic response models should separate latent dynamics from measurement error, and OLS can be biased in such settings. This is then connected to the paper's own state-space/Kalman filter estimation setup with transition and observation equations. The citation therefore informs core empirical modeling choices rather than serving as a generic literature-list mention.",
+  "relation_description": "The citing paper treats Naik and Tsai (2000) as methodological grounding for its estimation approach, using it to justify modeling measurement error explicitly in a dynamic system and avoiding OLS-based bias. This support underpins the paper's adoption of a Kalman filter/state-space framework for its two-sided platform model.",
+  "relation_type": "foundational_for"
+}

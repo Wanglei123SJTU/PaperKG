@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes an attention-based, relational account of the number-of-levels effect in conjoint analysis: attentional contrast toward relatively novel attribute levels.",
+    "Using three studies, it shows that relative novelty of attribute levels contributes to derived attribute importance weights in sequential judgment tasks.",
+    "It demonstrates that number-of-levels patterns can be produced and shifted by manipulating relative novelty, not only by changing the raw number of levels."
+  ],
+  "context": "The study is set in conjoint preference elicitation with sequential evaluations of multiattribute product profiles. Undergraduate participants evaluated profiles for refrigerators, LCD televisions, and digital cameras.",
+  "design_and_data": "The authors run three experiments with between-subject conjoint designs and three product-category replicates, using two procedures in each experiment: choice-based conjoint (CBC) and a full-profile reservation-price task. CBC studies used Sawtooth software with hierarchical Bayes partworth estimation and monotonic constraints (Experiment 1: n=83; Experiment 2: n=246; Experiment 3: n=277). Full-profile studies used reservation-price differences on exterior profiles and ANOVA tests, with nonmonotonic responders removed (Experiment 1: final n=207 from 312; Experiment 2: final n=577 from 636; Experiment 3: final n=274). Experimental manipulations compared balanced versus unbalanced level structures (4x2, 2x4, 4x4), direct novelty manipulations with equal levels, and designs (4x6, 6x4, 6x6) that pitted attentional contrast against absolute level counts.",
+  "focal_constructs": [
+    "number-of-levels effect",
+    "attentional contrast",
+    "relative novelty of attribute levels",
+    "derived attribute importance weights",
+    "conjoint analysis",
+    "sequential judgments",
+    "relational directed attention"
+  ],
+  "main_findings": [
+    "In Experiment 1, the standard number-of-levels effect was replicated in 4x2 versus 2x4 designs, with higher derived importance for attributes presented with more levels.",
+    "In Experiment 1, a balanced 4x4 design eliminated this comparative advantage, consistent with no differential attentional contrast when relative novelty is equalized.",
+    "In Experiments 2 and 3, manipulating relative novelty shifted attribute importance even when level counts were held constant and, in several tests, increased importance for an attribute with fewer levels, indicating attentional contrast is a meaningful but not sole source of the number-of-levels effect."
+  ],
+  "one_line_summary": "Across three conjoint experiments, the paper shows that relative attribute-level novelty in sequential profile evaluation directs attention and inflates derived importance weights, providing a source of the number-of-levels effect.",
+  "relation_to_prior_work": "extends prior number-of-levels research by separating relational novelty effects from absolute level-count effects and showing that methodological and nonrelational attention accounts alone do not fully explain the observed bias.",
+  "research_gap": "Prior methodological fixes reduced but did not eliminate the number-of-levels effect, and evidence for nonrelational directed-attention explanations was weak. Existing demonstrations also typically confounded changes in one attribute's levels with concurrent changes in other attributes, leaving relative novelty effects unresolved.",
+  "research_question": "Does attentional contrast - attention drawn to attribute levels that are relatively more novel within sequentially judged profiles - contribute to the number-of-levels effect in conjoint analysis? Can relative novelty change derived importance when the number of levels is held constant, and can it shift importance toward an attribute with fewer levels?"
+}

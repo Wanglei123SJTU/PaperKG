@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper clarifies the paramorphic, as-if modeling logic of the KNS framework, in which globally measured partworth utilities are transformed by local context-dependent parameters.",
+    "It outlines how compromise-effect models can be applied beyond simple consumer choices to augmented products (solutions) and potentially to multiperson B2B decisions via a two-stage approach.",
+    "It shows how the models can represent multiple context effects beyond compromise (for example, polarization and decoy-related trade-off contrast effects) and identifies boundary conditions and future research needs."
+  ],
+  "context": "The paper discusses choice modeling in complex buying environments, especially B2B and high-technology markets where firms buy augmented products or solutions and decisions may be made by groups. It uses real-world-style choice sets such as Economist subscriptions and Xerox/IBM technology offerings to illustrate context effects.",
+  "design_and_data": "This is a commentary paper that provides conceptual/modeling extensions rather than a full new estimation study. It includes two illustrative choice experiments with MBA students: an Economist subscription set (triplet with a decoy versus binary without decoy; n=29 and n=30) and a Xerox multifunction system set (triplet versus binary; n=28 and n=31). The reported comparisons test decoy/context effects through share shifts and t-tests.",
+  "focal_constructs": [
+    "compromise effect",
+    "extremeness aversion",
+    "contextual concavity model (CCM)",
+    "normalized contextual concavity model (NCCM)",
+    "loss-aversion model (LAM)",
+    "augmented products (solutions)",
+    "group decision making",
+    "asymmetric dominance and asymmetric advantage"
+  ],
+  "main_findings": [
+    "In the Economist illustration, adding the print-only decoy increased choice of the print-and-Web option from 43% in the binary set to 72% in the triplet (t = 2.4, p < .02).",
+    "In the Xerox B2B illustration, including the Pro 55 option increased the relative share of Pro 45 (versus Pro 35) from 71% in the binary set to 89% in the triplet (t = 1.8, p < .05).",
+    "The authors conclude that the KNS models can theoretically accommodate a broad set of context effects (including compromise, polarization, asymmetric dominance/advantage, and enhancement, with LAM also able to represent detraction), though they may not apply to some very complex, long-cycle co-generated solution purchases."
+  ],
+  "one_line_summary": "This commentary argues that KNS compromise-effect models can be extended to complex B2B/technology buying settings and can theoretically capture multiple context effects beyond compromise, with illustrative decoy evidence from MBA choice tasks.",
+  "relation_to_prior_work": "extends prior KNS (2004) compromise-effect modeling by responding to Dhar, Menon, and Maach (2004) and broadening the discussion to complex buying contexts and additional context effects. It positions the models as predictive, paramorphic tools that can capture effects regardless of the underlying psychological mechanism.",
+  "research_gap": "Prior work had focused mainly on compromise effects in simpler settings, while questions remained about applicability to complex B2B environments (for example, solutions and group decisions) and about modeling other context effects such as polarization and decoy-related effects. The paper explicitly calls for broader investigation of the full spectrum of choice-set context effects across institutional settings.",
+  "research_question": "How can the KNS context-dependent choice models be extended to complex purchase environments such as B2B solution buying and multiperson decision making? Can the same modeling framework represent other context effects beyond compromise, including polarization, asymmetric dominance/asymmetric advantage, enhancement, and detraction?"
+}

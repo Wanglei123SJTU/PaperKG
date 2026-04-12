@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper argues that emotions embedded in persuasive messages can transfer beyond the focal target to nearby unrelated products and brands across point-of-purchase displays, advertising, and evaluative conditioning.",
+    "It extends affect-as-information by proposing that mere accessibility of previously elicited emotion can drive unrelated judgments, rather than requiring target relatedness or direct contact.",
+    "It provides process evidence and boundary conditions for this account using moderators tied to affect-as-information: monitoring feelings, consumer emotional ability, and source salience."
+  ],
+  "context": "The studies are set in common persuasion environments: a simulated retail point-of-purchase display, sequential ad exposure, and laboratory evaluative conditioning tasks with brands. Participants are consumers (undergraduate samples) making spending or attitude judgments about products that are unrelated to the original emotional stimulus.",
+  "design_and_data": "The paper reports four controlled experiments with undergraduate participants (Study 1: n=122; Study 2: n=245; Study 3: n=194; Study 4: n=168). Study 1 manipulates positive vs negative celebrity imagery near merchandise in a simulated store and measures spending and purchase incidence. Study 2 manipulates positive vs negative celebrity ads and self vs other evaluation focus, measures emotional ability (CEIS), and tracks change in attitudes toward an unrelated shoe ad. Studies 3 and 4 use evaluative conditioning with fictitious brands, manipulate affect salience (Study 3) and measured vs primed brand attitudes (Study 4), and assess unrelated product evaluations (and response time in Study 3), with PANAS used as a mood control across studies.",
+  "focal_constructs": [
+    "emotional contagion",
+    "affect as information",
+    "persuasive communication",
+    "unrelated product evaluations",
+    "monitoring of feelings",
+    "consumer emotional ability",
+    "salience of affect",
+    "evaluative conditioning"
+  ],
+  "main_findings": [
+    "In the simulated retail study, a positive (vs negative) nearby celebrity image increased spending on unrelated items and reduced purchase deferral.",
+    "In sequential advertising, valenced celebrity affect transferred to attitudes toward an unrelated brand, but this transfer was stronger when people evaluated for themselves and weaker among consumers with higher emotional ability.",
+    "In evaluative conditioning, valence transferred to unrelated evaluations (including faster vs slower response times after positive vs negative conditioning), the effect disappeared when the original affect source was made salient, and priming the conditioned brand was sufficient to produce transfer."
+  ],
+  "one_line_summary": "Across four experiments, the paper shows that emotions used in one persuasion attempt can spill over to unrelated nearby judgments via affect-as-information processes.",
+  "relation_to_prior_work": "extends affect-as-information research by showing that emotion from a prior persuasion target can influence later unrelated evaluations through accessibility, not only through general mood judged as representative. It also challenges strict law-of-contagion assumptions that direct or perceived source-target contact is necessary and refines persistence claims by showing that making the source salient can attenuate the effect.",
+  "research_gap": "Prior work on emotional contagion and persuasion focused on transfers to the intended target or related objects and had not directly examined whether emotions used in one persuasion attempt influence nearby unrelated products and brands. The paper also addresses a missing process account for such spillovers by testing an affect-as-information explanation.",
+  "research_question": "Do emotions elicited by one persuasive communication transfer to subsequent evaluations and behavior for unrelated nearby products and brands? If so, are these spillovers explained by affect-as-information mechanisms, such that they depend on monitoring of feelings, emotional ability, and salience of the original affect source?"
+}

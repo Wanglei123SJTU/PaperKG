@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper is a machine-learning/video-analytics study (feature extraction, prediction, SHAP) in online courseware, while the cited paper is a behavioral experiments paper on food complementarity and goal activation; the notes show no shared method, mechanism, or direct empirical dependency. With only a single DOI match and no in-text evidence of substantive use, this looks like a likely background/mention citation rather than a core relation.",
+  "triage_decision": "drop_obvious_mention_only"
+}

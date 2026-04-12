@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides a framework of how consumers respond to embarrassing service encounters across situations with and without service choice.",
+    "Shows that in embarrassing contexts, mechanistic service can improve key outcomes relative to personable service, qualifying standard service advice to build personal rapport.",
+    "Identifies mechanistic dehumanization as an everyday consumer response in embarrassing encounters and establishes service-provider familiarity as a boundary condition."
+  ],
+  "context": "The paper examines embarrassing consumer interactions in retail and service settings, including supermarket checkout, dry-cleaning services, street-based promotional/survey encounters, and doctor visits. Focal embarrassing contexts include condoms, menstrual pads, incontinence-related stains, and gynecological exams, contrasted with nonembarrassing counterparts.",
+  "design_and_data": "The authors report seven studies combining archival transaction data, online experiments, and field experiments, with three preregistered studies. Study 1 analyzes 5,623,492 supermarket transactions from three stores in a large Asian city, comparing self-checkout usage for embarrassing versus nonembarrassing categories. Studies 2-3 use MTurk/Prolific dry-cleaning scenarios manipulating embarrassment and provider style; Studies 4a-4b and 5 are field studies in China measuring disclosure, satisfaction, and dehumanization under manipulated service style or product embarrassment; Study 6 is a Prolific experiment with 600 women manipulating exam embarrassment and doctor familiarity to test dehumanization and evaluation.",
+  "focal_constructs": [
+    "consumer embarrassment",
+    "self-service preference",
+    "mechanistic service provider",
+    "personable service provider",
+    "mechanistic dehumanization",
+    "animalistic dehumanization",
+    "service provider familiarity",
+    "service satisfaction"
+  ],
+  "main_findings": [
+    "In supermarket data, consumers used self-checkout more for embarrassing products than for nonembarrassing products.",
+    "When human interaction was required, embarrassment increased preference for mechanistic over personable providers, and mechanistic service improved outcomes such as anticipated or actual satisfaction and willingness to answer sensitive questions.",
+    "When consumers had no provider choice, embarrassing encounters increased mechanistic but not animalistic dehumanization of service providers, this effect was mitigated by familiarity, and in the stranger-doctor setting higher mechanistic dehumanization was linked to lower experience evaluation."
+  ],
+  "one_line_summary": "Across seven studies, the authors show that embarrassment shifts consumers toward self-service or mechanistic human service and, when choice is unavailable, toward mechanistic dehumanization of unfamiliar service providers.",
+  "relation_to_prior_work": "extends consumer embarrassment research from avoidance and anonymity tactics to unavoidable interpersonal service encounters and their downstream outcomes. extends service rapport research by showing that warmth and personability can be disadvantageous in embarrassing contexts. extends dehumanization research by documenting mechanistic dehumanization in routine marketplace interactions and identifying familiarity as a moderator.",
+  "research_gap": "Prior work documents strategies for coping with embarrassing purchases, but gives limited evidence on how consumers respond when interaction with a human service provider is unavoidable and on the downstream effects for service outcomes. The authors also note that mechanistic dehumanization in everyday consumer contexts is understudied relative to animalistic dehumanization in extreme intergroup settings.",
+  "research_question": "How do consumers respond to embarrassing service encounters, especially when social interaction with a human provider cannot be avoided? Specifically, do consumers prefer self-service or mechanistic versus personable providers, and when no choice exists do they cope by mechanistically dehumanizing the provider, with consequences for satisfaction and related downstream outcomes?"
+}

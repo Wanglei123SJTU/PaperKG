@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes four context-dependent multiattribute choice models to capture the compromise effect: CCM, NCCM, RAM, and LAM.",
+    "It provides empirical calibration and validation tests showing that incorporating local choice context improves prediction and fit versus the standard value-maximization model and a stronger context-independent global-concavity benchmark.",
+    "It extends evidence on the compromise effect to larger choice sets and dimensional spaces and argues for the empirical equivalence of loss aversion and local contextual concavity, with single-reference models outperforming tournament-style models."
+  ],
+  "context": "The substantive setting is consumer product choice among Pareto-optimal assortments, primarily portable PCs and speakers, where options trade off multiple attributes (for example speed vs memory, or power vs price). Evidence comes from an airport field-survey context and a university lab context, using both trinary and five-option choice sets.",
+  "design_and_data": "Empirical Application 1 used a questionnaire study with 1088 airport travelers in a 2 x 3 between-subjects design (calibration vs validation sample; three trinary choice sets), in two categories (portable PCs and speakers). Calibration respondents made a choice and then completed self-explicated preference tasks over the full attribute ranges; validation respondents made only the choice. The authors estimated context-dependent multinomial-logit-based models by maximum likelihood and compared them to VMM and GCM using cross-choice-set, cross-sample aggregate validation (MAD), individual-level prediction (-2LL), and BIC. Empirical Application 2 used 205 students (198 usable) choosing from one of two five-option, four-attribute portable-PC sets, then (after a filler task) completing full-profile conjoint ranking (18 profiles) to estimate context-independent partworths, followed by analogous model estimation and validation.",
+  "focal_constructs": [
+    "compromise effect",
+    "local choice context",
+    "contextual concavity model (CCM)",
+    "normalized contextual concavity model (NCCM)",
+    "loss-aversion model (LAM)",
+    "relative advantage model (RAM)",
+    "single reference point",
+    "value maximization model (VMM)"
+  ],
+  "main_findings": [
+    "Models that incorporate local context - especially CCM, NCCM, and LAM - fit and predict choices better than context-independent benchmarks (VMM and, generally, GCM), with large aggregate prediction gains reported over VMM.",
+    "Observed choices showed substantial compromise effects, and the leading context-dependent models reproduced these effects, whereas VMM often predicted reverse (negative) compromise effects.",
+    "The compromise effect was demonstrated in a more complex setting with five options and four attributes; the paper reports similar empirical performance of loss-aversion and contextual-concavity mechanisms and better performance of single-reference models than tournament-style RAM."
+  ],
+  "one_line_summary": "The paper develops and empirically compares four context-dependent choice models of the compromise effect, finding that modeling local choice context substantially improves prediction over standard value-maximization and extends compromise-effect evidence to larger, higher-dimensional choice sets.",
+  "relation_to_prior_work": "extends prior compromise-effect research, which had mainly documented antecedents and moderators, by embedding the effect in estimable multiattribute choice models and benchmarking predictive performance against standard and stronger context-independent alternatives. It also builds on reference-dependence and loss-aversion theories while showing that contextual concavity can produce empirically similar predictions.",
+  "research_gap": "The paper states that despite the robustness and importance of the compromise effect, formal choice modeling had largely neglected incorporating it and testing whether such models outperform standard value maximization. It also highlights limited prior evidence on compromise effects in larger choice sets and attribute spaces.",
+  "research_question": "Can the compromise effect be formally incorporated into multiattribute choice models in a way that improves predictive validity and fit relative to standard value maximization? Among alternative mechanisms for context dependence (contextual concavity, normalized contextual concavity, loss aversion, and relative-advantage/tournament comparison), which models best capture observed choices, including in larger and higher-dimensional choice sets?"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Slotegraaf and Pauwels (2008) in the methods section to justify a specific operationalization choice: constructing competitive marketing-mix variables as market-share-weighted measures of rival brands. This is not a generic literature-list mention; it directly supports how key regressors are built in the VARX specification. Even though the citation is grouped with another source, the function is clear and tied to model implementation.",
+  "relation_description": "The citing paper applies a modeling recommendation from Slotegraaf and Pauwels (2008) when defining competitive price, distribution, promotion, and advertising variables. The citation serves as methodological precedent for this specification choice rather than as a target of theoretical extension or critique.",
+  "relation_type": "applies"
+}

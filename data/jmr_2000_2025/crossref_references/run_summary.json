@@ -1,0 +1,13 @@
+{
+  "pdf_root": "data\\jmr_2000_2025\\pdfs",
+  "out_dir": "data\\jmr_2000_2025\\crossref_references",
+  "papers_total": 1497,
+  "papers_ok": 1497,
+  "papers_not_found": 0,
+  "papers_error": 0,
+  "papers_invalid_filename_doi": 0,
+  "references_total": 73287,
+  "paper_summary_csv": "data\\jmr_2000_2025\\crossref_references\\paper_summary.csv",
+  "references_csv": "data\\jmr_2000_2025\\crossref_references\\references.csv",
+  "excluded_nonresearch_rows": 3
+}

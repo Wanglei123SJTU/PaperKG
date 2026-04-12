@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides a unified analysis of five U.S. soda tax introductions using the same scanner-data protocol and DID design to improve cross-locality comparability.",
+    "Moves beyond pass-through-only analyses by measuring soda-tax-induced changes in multiple marketing conduct tools: regular price, promotion frequency, promotion depth, and feature frequency.",
+    "Documents that soda taxes change not only marketing conduct levels but also the effectiveness of those tools, and shows that promotional conduct adjustments materially contribute to the total sales decline."
+  ],
+  "context": "The study examines local soda tax introductions in Philadelphia, Boulder, Oakland, San Francisco, and Seattle, where per-ounce taxes on sweetened beverages were implemented between 2017 and 2018. The setting is U.S. retail soda sales observed at the UPC-store-week level.",
+  "design_and_data": "The authors use Nielsen RMS scanner data and analyze 587 soda UPCs (167 brands) across 208 treated stores, yielding 13,690 UPC-store pairs, with matched untaxed control markets. Identification uses difference-in-differences comparing pre/post tax changes in treated markets to matched controls, with UPC-store and locality-week fixed effects; the main post period is weeks 4-52 after implementation. Separate models estimate tax effects on marketing conduct variables and on sales with interactions to capture changes in conduct effectiveness. Robustness checks include alternative control-market constructions (neighbors' neighbors and synthetic DID for conduct outcomes) and an additional control-function approach for conduct endogeneity.",
+  "focal_constructs": [
+    "soda tax introduction",
+    "regular price pass-through",
+    "promotion frequency",
+    "promotion depth",
+    "feature promotion frequency",
+    "marketing conduct effectiveness",
+    "soda sales volume"
+  ],
+  "main_findings": [
+    "Soda taxes were largely passed through to consumers, with an average pass-through of about 88% and locality-specific estimates ranging from about 70% to 107%.",
+    "Relative to matched controls, tax introduction reduced promotional activity on average, including lower promotion frequency (about -2%), promotion depth (about -12%), and feature frequency (about -14%).",
+    "After tax introduction, consumers became less sensitive to regular price changes, promotion depth, and features, but more responsive to promotion incidence, and these effectiveness shifts did not always align with managers' conduct adjustments."
+  ],
+  "one_line_summary": "Using multi-locality DID on retail scanner data, the paper shows that soda taxes change both pricing and nonprice marketing conduct and also shift conduct effectiveness, jointly shaping taxed soda sales.",
+  "relation_to_prior_work": "extends prior soda-tax work that mainly studies price pass-through and sales in single locations by jointly analyzing multiple conduct instruments and their effectiveness across five localities with a common design. extends marketing conduct research by showing how an exogenous policy shock can alter both conduct levels and the response parameters to those conduct tools.",
+  "research_gap": "Prior soda-tax studies largely emphasize price pass-through and sales, often in single localities, and tend to confound regular and promotional price changes. The paper identifies a lack of systematic evidence on how soda taxes affect broader promotional conduct and whether the effectiveness of these marketing tools also changes.",
+  "research_question": "How does retailers' marketing conduct change when a soda tax is introduced, beyond regular price adjustments? Does the effectiveness of key marketing conduct variables (price, promotion frequency, promotion depth, and features) also change after the tax, and how do these changes relate to sales outcomes?"
+}

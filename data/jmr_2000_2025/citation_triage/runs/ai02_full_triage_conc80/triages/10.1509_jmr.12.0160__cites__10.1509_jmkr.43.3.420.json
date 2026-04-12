@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s contributions and design focus on free-trial acquisition effects on retention/usage/CLV (probit, log-log, zero-inflated Poisson, copula endogeneity correction, matching), while the cited paper is about hierarchical Bayesian heterogeneous variable selection in discrete-choice/conjoint settings. There is no explicit sign in the provided notes that the citing study uses or builds on that variable-selection framework, and the matched evidence is only a bare DOI entry with no contextual citation text. This looks like a likely background/method mention rather than a substantive dependency.",
+  "triage_decision": "drop_obvious_mention_only"
+}

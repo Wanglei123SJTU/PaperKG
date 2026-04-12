@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper is a core clickstream browsing-behavior model (stay/exit decisions, page-view duration, hierarchical Bayes), and the citing paper centrally models linked browsing and purchase behavior from large-scale online browsing/purchase logs. Given this strong construct/method overlap in the notes, the citation could be foundational or methodological rather than incidental. Even though the raw match is only a DOI reference entry, there is not enough evidence to safely treat it as an obvious mention-only citation.",
+  "triage_decision": "keep_for_relation_judgment"
+}

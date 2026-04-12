@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "Ansari et al. is cited not only in a grouped related-work list but also in the core model development where the authors define cumulative informational stock with channel-specific decay at the purchase stage. That specification is central to estimating carryover and spillover effects, which then drive the attribution results. Because the citation informs a concrete modeling component rather than serving as a passing reference, this is a substantive citation.",
+  "relation_description": "The citing paper draws on Ansari et al. (2008) as a methodological precedent for using decayed cumulative effects of prior channel interactions in a dynamic multichannel model. It applies that idea within a new online attribution framework linking channel consideration, visits, and conversions.",
+  "relation_type": "applies"
+}

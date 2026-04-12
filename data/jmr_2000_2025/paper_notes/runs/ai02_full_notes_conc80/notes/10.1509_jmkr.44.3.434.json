@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes an empirical procedure to test firms' pricing behavior under state-dependent demand, including whether firms look ahead and how many periods they consider.",
+    "It develops and estimates a structural demand-supply framework that compares static, myopic, and forward-looking pricing games with alternative horizontal (Bertrand vs collusive) and vertical (Stackelberg vs vertical Nash) interactions.",
+    "It introduces an attribute-based state-dependence demand specification that allows both inertia and variety seeking and links these demand dynamics to supply-side pricing inference."
+  ],
+  "context": "The empirical application is the U.S. packaged-goods market, using household scanner-panel purchases in breakfast cereals across urban and suburban areas of a large city over 104 weeks, with manufacturers selling through retailers. The authors replicate substantive conclusions in the ketchup category.",
+  "design_and_data": "The authors use a two-stage structural estimation approach. First, they estimate a household-level multinomial logit demand model with latent-class heterogeneity, inventory effects, and attribute-based state dependence, and they correct for price endogeneity using limited-information maximum likelihood with instruments from another market. Second, conditional on demand estimates, they recover margins under multiple supply specifications (static, myopic, and T-period look-ahead; Bertrand/collusive and vertical Nash/Stackelberg), estimate a marginal-cost function with input price shifters, and select models by fit and Vuong tests. The cereal data include 104 weeks, 483 suburban households, 68,432 shopping trips, and 117 brands (with a parallel urban sample analyzed separately).",
+  "focal_constructs": [
+    "state-dependent demand",
+    "inertia",
+    "variety seeking",
+    "bounded rationality",
+    "forward-looking pricing",
+    "myopic pricing",
+    "manufacturer-retailer strategic interaction"
+  ],
+  "main_findings": [
+    "Ignoring state dependence biases supply-side inference: models without state dependence can falsely indicate tacit collusion when observed prices are consistent with Bertrand competition.",
+    "Observed prices are best explained when both manufacturers and retailers are forward looking, but with a short horizon: one-period look-ahead improves fit over myopic pricing, while longer look-ahead adds little or worsens fit.",
+    "A myopic model that accounts for state dependence is a strong approximation to observed pricing outcomes, delivering most of the fit improvement relative to static models without state dependence."
+  ],
+  "one_line_summary": "Using household scanner data and a structural demand-supply framework, the paper shows that firms in packaged goods price with boundedly rational short-horizon look-ahead under state-dependent demand, and that omitting state dependence distorts competitive-conduct inference.",
+  "relation_to_prior_work": "extends empirical industrial organization pricing models by incorporating state-dependent demand and explicit tests of firms' intertemporal look-ahead behavior using household-level data. It also extends the marketing state-dependence literature from demand estimation to supply-side inference about competitive pricing conduct.",
+  "research_gap": "Prior research documents state dependence in consumer choice and, separately, infers supply-side conduct, but has largely not examined whether manufacturers and retailers incorporate state-dependent demand and intertemporal effects when setting prices. The paper also notes that aggregate demand data make it difficult to disentangle state dependence from heterogeneity, limiting prior supply-side analysis in this setting.",
+  "research_question": "Do manufacturers and retailers account for state-dependent demand when they set prices, and are they forward looking in doing so? If they look ahead, how far into the future do they appear to optimize, and what is the consequence of ignoring these behaviors for inferred market conduct and price predictions?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes and operationalizes transaction-based customer habit strength measures that combine behavioral intensity and temporal consistency, and validates them against SRHI self-reports.",
+    "The paper quantifies the economic value of multiple customer habits for firm performance, showing that different habits have materially different bottom-line effects.",
+    "The paper models habit formation as a nonlinear, customer-heterogeneous process and shows that firm-initiated marketing has significant time-varying effects on habit formation."
+  ],
+  "context": "The empirical setting is a Fortune 500 general-purpose U.S. retailer with national presence, more than 1,000 stores, and products spanning home improvement, gardening, furniture, and appliances. The study analyzes customer transactions from both offline and online channels in this retail context.",
+  "design_and_data": "The authors use daily transaction data from 2006-2009 for 1.3 million customers, augmented with Acxiom variables; the main analysis sample is 460,000 customers with at least one purchase in each year. Study 1 constructs semiannual habit measures for purchase, return, promotion purchase, and low-margin purchase, then validates them against SRHI survey measures from 507 customers. Study 2 estimates a total-profit OLS model and a dynamic 6-month profit growth model using Arellano-Bond difference GMM, and compares performance with benchmark models and holdout forecasts. Study 3 estimates random-effects nonlinear sigmoid habit-formation models (PROC NLMIXED) on newly acquired customer cohorts and includes interactions to test early- versus late-period marketing effects.",
+  "focal_constructs": [
+    "habit strength",
+    "purchase habit",
+    "promotion habit",
+    "product return habit",
+    "low-margin purchase habit",
+    "customer profit",
+    "habit formation",
+    "firm-initiated marketing"
+  ],
+  "main_findings": [
+    "Transaction-based habit measures for purchase, return, promotion, and low-margin behavior correlate strongly with SRHI measures (r = .82 to .95), and these habits are only weakly intercorrelated with each other (-.12 to .20).",
+    "In profit models, purchase and promotion habits are positively associated with profit, while return and low-margin purchase habits are negatively associated; aggregated over four years, estimated effects are about +$53.5M, +$3.9M, -$58.9M, and -$61.6M, respectively.",
+    "Habit formation is nonlinear and varies across customers, and outbound marketing has temporal effects: stronger early impact on purchase habit, stronger later impact on promotion and low-margin habits, and a delayed positive effect on return habit."
+  ],
+  "one_line_summary": "Using longitudinal retailer data, the paper shows that customer habits beyond repeat buying can be measured and dynamically shaped by marketing, and that these habits have large positive or negative profit consequences.",
+  "relation_to_prior_work": "extends prior marketing research that emphasized repeat-purchase habit and often treated habit as exogenous by introducing additional habit dimensions and modeling their dynamic formation under firm marketing.",
+  "research_gap": "Prior marketing work largely focused on habitual repeat purchasing and provided limited empirical treatment of other recurring customer behaviors with direct profit implications. The paper addresses the lack of validated transaction-based habit measures and evidence on how such habits form over time under marketing influence.",
+  "research_question": "The paper asks whether customers show habitual behaviors beyond repeat purchasing and how those habits can be quantified from transaction data. It examines whether different habits are independent, how they affect customer and firm profits, and how firm outbound marketing influences habit formation over time."
+}

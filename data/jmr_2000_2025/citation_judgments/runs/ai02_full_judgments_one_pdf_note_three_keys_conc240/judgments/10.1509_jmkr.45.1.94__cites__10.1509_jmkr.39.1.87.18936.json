@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citation is used in the empirical validation procedure, where the authors compute individual-level predicted choice probabilities from latent-segment estimates using plug-in estimators. They explicitly rely on Andrews, Ansari, and Currim (2002) to justify both a known limitation (convex-hull constraint) and the practical adequacy of these estimates for capturing heterogeneity. This is more than a passing background mention because it supports a concrete modeling and prediction step in the paper.",
+  "relation_description": "The citing paper applies Andrews et al. (2002) as methodological support for using posterior-probability-based plug-in individual estimates from a finite-mixture framework when evaluating predictive validity.",
+  "relation_type": "applies"
+}

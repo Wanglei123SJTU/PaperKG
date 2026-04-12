@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper presents one of the first causal analyses of information-based organizational herding in a repeated strategic information disclosure setting.",
+    "It introduces a partially overlapping peer-group identification strategy, with second-degree-peer instruments, to address simultaneity and correlated unobservables in peer-effect estimation.",
+    "It identifies an uncertainty-resolution mechanism in which firms rely more on similar peers than benchmark leaders when deciding whether to disclose advertising spending."
+  ],
+  "context": "The empirical setting is U.S. publicly traded nonfinancial firms on NASDAQ, NYSE, and AMEX around SEC FRR44, which shifted advertising spending disclosure from mandatory to voluntary in 1994. Firms decide whether to report annual advertising expense separately or leave it embedded in SG&A.",
+  "design_and_data": "The authors use Compustat fundamentals and segment data for 1982-2006, with analysis windows 1982-1993 and 1995-2006, excluding SIC 6000-6999 firms and observations missing key sales or stock-price data. The working sample has 6,298 firms and 48,509 firm-year observations. Peer groups are constructed from overlapping 4-digit SIC business segments, and second-degree peers are peers of peers that are not direct peers. Estimation uses linear probability and 2SLS specifications with rich firm and peer controls plus industry-year fixed effects, instrumenting peer disclosure with second-degree peers' average characteristics; mechanism tests use firm fixed-effects subgroup models.",
+  "focal_constructs": [
+    "voluntary advertising spending disclosure",
+    "information-based organizational herding",
+    "peer disclosure behavior",
+    "disclosure uncertainty",
+    "benchmark leaders",
+    "similar peers",
+    "partially overlapping strategic groups"
+  ],
+  "main_findings": [
+    "Peer disclosure has a positive causal effect: a 10 percentage-point increase in peer disclosure raises a firm's disclosure probability by about 4.8 to 8.9 percentage points.",
+    "Firms are more influenced by similar peers, especially similar-sized peers, than by benchmark leaders when resolving disclosure uncertainty.",
+    "Among similar-sized peers, financial-standing similarity increases peer influence on disclosure, while business-scope similarity does not show a differential effect."
+  ],
+  "one_line_summary": "This paper provides causal evidence that U.S. public firms herd in voluntary advertising spending disclosure after FRR44 and mainly learn from similar peers rather than benchmark leaders.",
+  "relation_to_prior_work": "extends prior organizational herding and voluntary marketing disclosure work by providing causal peer-effect evidence in strategic advertising disclosure and by using partially overlapping peer groups to separate endogenous herding from shared shocks.",
+  "research_gap": "Prior evidence on information-based herding is concentrated in individual adoption and organizational adoption of new technologies, with little causal evidence for repeated strategic disclosure choices. Prior voluntary marketing disclosure studies document disclosure motives but largely do not test whether peer firms' disclosure decisions drive a focal firm's disclosure over time.",
+  "research_question": "After the SEC's 1994 FRR44 made advertising spending disclosure voluntary, do firms' disclosure decisions causally influence one another through information-based herding rather than common shocks? If herding exists, do firms resolve disclosure uncertainty by following benchmark leaders or peers that are more similar to themselves?"
+}

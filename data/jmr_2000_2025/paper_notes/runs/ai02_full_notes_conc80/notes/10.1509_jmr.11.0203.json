@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper shows that object location can influence consumers' numerical estimates of product attributes, reversing the causal direction emphasized in prior number-space work.",
+    "It distinguishes two mechanisms behind this effect: learned number-location associations and learned number-order (processing sequence) associations.",
+    "It demonstrates both conceptual priming (magnitude concepts from spatial cues) and procedural priming (number-generation order) within one consumer-judgment paradigm."
+  ],
+  "context": "The study is set in consumer evaluation tasks where product images are placed on the left or right side of a two-dimensional display, similar to ads or other marketing communications. Participants estimate prices or other quantifiable product attributes in lab tasks.",
+  "design_and_data": "The article reports six experiments using Hong Kong and Shanghai university students who evaluated products such as lamps, wine bottles, seaweed snacks, and staplers. Core manipulations include left versus right placement, numerical versus nonnumerical judgment framing, single-item versus multi-item judgment, ruler versus clock exposure, left-to-right versus right-to-left processing order, and ascending versus descending number primes. Outcomes are numerical price estimates (or related numerical judgments) and, in one study, which product is judged higher quality.",
+  "focal_constructs": [
+    "number-location associations",
+    "number-order associations",
+    "numerical estimation",
+    "price estimation",
+    "processing order",
+    "conceptual priming",
+    "procedural priming"
+  ],
+  "main_findings": [
+    "Products shown on the right tend to receive higher numerical estimates than products shown on the left, and this appears when judgments are made numerically.",
+    "A location effect persists even with a single target product and can be shifted by prior exposure to reversed spatial-number mappings (clock vs ruler), supporting number-location associations.",
+    "Later-processed products receive higher estimates, and reversing or weakening left-to-right ascending processing (right-to-left presentation or descending-number primes) reverses or eliminates the usual right-side premium."
+  ],
+  "one_line_summary": "Across six experiments, the paper finds that right-side product placement increases numerical estimates such as price because both spatial number mappings and left-to-right ascending processing can bias judgment.",
+  "relation_to_prior_work": "extends prior number-space association research by showing the reverse causal path: spatial location affects numerical judgments in consumer settings, not only that numbers affect spatial responses. It also isolates two mechanisms that earlier work had not clearly separated, namely number-location content associations and number-order processing effects.",
+  "research_gap": "Prior research showed that numerical magnitude can influence spatial responses, but it was unclear whether spatial location can causally influence consumers' numerical estimates of product attributes. It was also unclear whether any such effect is driven by stored number-location mappings, processing order habits, or both.",
+  "research_question": "Does the left-right location of a product in a display change consumers' numerical estimates of its attributes (especially price)? If so, is the effect driven by learned number-location associations, learned number-order processing habits, or both, and under what conditions does each mechanism operate?"
+}

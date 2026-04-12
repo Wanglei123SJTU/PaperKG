@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Develops an econometrically robust market-response model for weekly scanner data that captures both direct cross-brand advertising effects and indirect competitive interference through attenuation of own-brand advertising elasticity.",
+    "Introduces and tests a competitive clutter measure that combines the proportion of competing brands advertising and the total volume of their advertising.",
+    "Provides field evidence on sales effects of competitive advertising interference for established packaged-goods brands, not just recall or attitude outcomes from laboratory studies."
+  ],
+  "context": "The study is set in packaged goods for the Chicago metropolitan area, using one large supermarket chain (Dominick's Finer Foods). It analyzes two categories in 1991: liquid laundry detergent and raisin bran ready-to-eat cereals.",
+  "design_and_data": "The authors use 52 weeks of brand-level weekly sales, price, and in-store promotion data from 86 Dominick's stores in Chicago, aggregated to market level. They merge these with Arbitron spot television ad logs and Nielsen Chicago ratings to construct weekly brand GRPs and competitive clutter. The empirical model is a system of log-log demand equations with own and cross price/advertising terms, brand effects, AR(1) errors, Adstock carryover, and contemporaneous correlation across brands; advertising endogeneity is handled with instruments and estimated via three-stage least squares. They compare a fixed-elasticity benchmark against exponential and logistic interference specifications using calibration (45 weeks) and validation (7 weeks) MSE and MAD.",
+  "focal_constructs": [
+    "competitive advertising interference",
+    "competitive clutter",
+    "own-brand advertising elasticity",
+    "cross-brand advertising effects",
+    "brand sales response",
+    "gross rating points (GRPs)",
+    "advertising carryover"
+  ],
+  "main_findings": [
+    "Competitive clutter significantly attenuates own-brand advertising elasticity, and elasticity in cluttered conditions is roughly half of the no-competitor ('pure') level.",
+    "Interference depends on both how many competitor brands advertise and their total advertising volume, and adding one more competing advertiser is often more damaging than increasing volume by already-advertising competitors.",
+    "Models that allow elasticity attenuation from competitive clutter outperform the fixed-elasticity benchmark, with the exponential specification preferred for parsimony and validation performance."
+  ],
+  "one_line_summary": "Using weekly Chicago scanner and spot-TV data for detergent and raisin-bran brands, the paper shows that same-week competitor advertising materially reduces focal-brand advertising effectiveness and sales response.",
+  "relation_to_prior_work": "extends prior competitive-interference research from mainly lab-based recall and evaluation outcomes to real-market television advertising and observed brand sales, while addressing external-validity limitations such as familiar brands and natural media exposure.",
+  "research_gap": "Prior competitive interference studies mainly used laboratory or near-forced exposure settings, often with unfamiliar brands and non-television media, and focused on recall, recognition, or attitudes rather than sales. The paper targets the missing evidence on whether and how competitive interference affects actual brand sales in market data.",
+  "research_question": "How does competitive advertising interference in television affect brand sales for packaged goods? The paper asks whether competitor advertising attenuates a focal brand's own advertising elasticity and whether the attenuation varies with both the number of competing brands advertising and their total advertising volume."
+}

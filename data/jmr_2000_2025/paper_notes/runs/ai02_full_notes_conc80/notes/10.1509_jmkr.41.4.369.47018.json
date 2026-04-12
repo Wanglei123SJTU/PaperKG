@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper develops a probabilistic learning-based imputation model for partial conjoint profiles that nests ignore, recency, and averaging rules and also nests prior missing-attribute partworth formulations.",
+    "It introduces a pattern-matching, experience-count updating process that imputes missing levels from priors, sequentially observed profiles, and cross-attribute covariation.",
+    "It provides an empirical demonstration showing how imputation behavior affects conjoint ratings and partworth importance, and warns against simple ad hoc imputation rules."
+  ],
+  "context": "The empirical setting is rating-based conjoint evaluation of digital cameras, where respondents see sequential profiles with zero, one, or two missing attributes. The study examines how people infer unseen levels during partial-profile evaluation and how those inferences affect preference measurement.",
+  "design_and_data": "The authors specify a Bayesian hierarchical conjoint model with latent imputed attribute levels, attribute-specific decay parameters, and AR(1) rating errors, estimated via MCMC in WinBUGS. In Study 1, 130 undergraduates at a large East Coast U.S. university were assigned to self-explicated, full-profile, one-missing, or two-missing conditions; subjects completed a learning phase with 20 profiles (including manipulated price-resolution coincidence) and then rated 24 profiles, with 20 used for calibration and 4 holdouts. They compare six model variants, from ignore/recency/averaging baselines to a full model using missing PM, nonmissing PM, and OM information, using log marginal likelihood and MAE in and out of sample. A robustness study with 91 students at a large West Coast U.S. university (zero-missing vs one-missing, no learning phase) repeats the core rating design.",
+  "focal_constructs": [
+    "partial-profile conjoint analysis",
+    "missing attribute level imputation",
+    "pattern-matching learning",
+    "experience counts",
+    "attribute covariation",
+    "prior knowledge manipulation",
+    "attribute partworth importance"
+  ],
+  "main_findings": [
+    "Models that use learning-based imputation (especially the most general model) outperform ignore, recency, and averaging baselines in log marginal likelihood and both in-sample and holdout MAE for one- and two-missing conditions.",
+    "Including nonmissing PM and OM information improves fit, and the OM price-to-resolution decay effect is significant; in the one-missing case, this effect correlates with experimentally manipulated prior price-resolution coincidence.",
+    "Estimated partworth structures differ under partial profiles: shown attributes receive greater weight than imputed ones, and relative attribute importance shifts compared with full-profile estimates, with stronger regression toward equal importance when two attributes are missing."
+  ],
+  "one_line_summary": "The paper proposes and tests a Bayesian pattern-matching learning model for imputing missing levels in partial conjoint profiles, showing that respondents use cross-attribute and prior information and that this materially changes ratings and inferred partworth importance.",
+  "relation_to_prior_work": "extends recency and averaging imputation approaches by modeling dynamic, decay-weighted learning from both missing and nonmissing attributes and by incorporating prior covariation and profile order effects within a unified framework.",
+  "research_gap": "Partial-profile conjoint methods often assume missing attributes have no effect, despite evidence that respondents may infer missing information. Existing imputation approaches mainly use the missing attribute's own past levels and do not explicitly model sequential learning from other attributes and learned covariation.",
+  "research_question": "How do respondents impute missing attribute levels when evaluating partial conjoint profiles over time? Specifically, do they rely only on a missing attribute's own history or also on nonmissing attributes, omnipresent attributes, and prior knowledge, and how does this imputation process affect ratings, partworths, and attribute importance?"
+}

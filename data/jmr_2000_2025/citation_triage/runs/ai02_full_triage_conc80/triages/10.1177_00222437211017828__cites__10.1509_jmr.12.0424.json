@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper focuses on a Bayesian joint model of social-media sentiment and venue choice for brand monitoring, while the citing paper studies idea vs. identity sharing effects in a Coursera course using LDA/LIWC, OLS, and a field experiment; the provided notes do not show explicit method adoption or direct empirical comparison. Because the evidence is only a DOI-level match with no in-text citation context, this is not safely droppable as obvious mention-only but also not clearly a must-keep.",
+  "triage_decision": "uncertain"
+}

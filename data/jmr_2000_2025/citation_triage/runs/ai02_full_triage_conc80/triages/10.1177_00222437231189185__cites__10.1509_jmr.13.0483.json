@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited article studies proactive churn-prevention interventions via a telecom field experiment, while the citing paper’s stated core contribution is a new Bayesian routine-detection model for ridesharing transaction timing, so direct methodological dependence is not evident from the notes. At the same time, both papers sit in CRM/retention targeting themes, and the raw match provides only a DOI-level reference with no in-text usage context. Given this sparse evidence, it is not safe to confidently drop as mention-only.",
+  "triage_decision": "uncertain"
+}

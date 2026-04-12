@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a unified mixture cure-competing risks model for repeat churn that jointly models second-lifetime duration and multiple churn reasons, while allowing overlapping churn categories and time-varying covariates.",
+    "It predicts both when and why reacquired customers churn in the second lifetime and shows this pattern differs from first-lifetime churn.",
+    "It introduces a cured-versus-uncured view of returning customers and uses first-lifetime behavior, marketing history, and win-back offer type to predict cure probabilities."
+  ],
+  "context": "The empirical setting is a U.S. telecommunications provider in a contractual service market with win-back campaigns for previously churned customers. The study focuses on reacquired customers and their second lifetime after returning to the firm.",
+  "design_and_data": "The authors analyze customer-level data for a random sample of 10,000 customers reacquired in January 2012 and observed through December 2015; 7,054 are used for calibration and 2,946 for holdout validation. The data include first-lifetime and second-lifetime churn timing and reasons, customer behaviors, firm marketing contacts, defection period, demographics, and randomly assigned win-back offer types. Second-lifetime variables are observed monthly, while first-lifetime measures are historical aggregates. The model is a discrete-time Weibull mixture cure-competing risks specification with a control-function endogeneity correction for marketing communications.",
+  "focal_constructs": [
+    "second lifetime duration",
+    "repeat churn behavior",
+    "churn reason (price, service, price-and-service)",
+    "cured and uncured returning customers",
+    "win-back offers",
+    "time-varying marketing communications",
+    "mixture cure-competing risks model"
+  ],
+  "main_findings": [
+    "The results support the existence of a cured segment of returning customers who are not susceptible to churning again for the same reason as in the first lifetime.",
+    "Second-lifetime churn hazards increase over time, and customers who churn early in the second lifetime are more likely to repeat their first-lifetime churn reason.",
+    "Higher second-lifetime revenue, referrals, service recoveries, and multichannel marketing contacts are associated with lower repeat-churn risk and longer second lifetimes; simulations indicate meaningful profit gains from mitigating repeat churn (about $150,000 in the sample and over $15 million per million returning customers)."
+  ],
+  "one_line_summary": "Using telecommunications win-back data, the paper develops a mixture cure-competing risks survival model to predict when reacquired customers churn again and for which reason, while identifying a cured segment not susceptible to repeating prior churn reasons.",
+  "relation_to_prior_work": "extends prior second-lifetime and churn research by moving beyond models of only reacquisition, only second-lifetime duration, or only first-lifetime churn reason to a joint model of second-lifetime churn timing and reason. It combines mixture cure and competing risks approaches in a marketing application with time-varying second-lifetime covariates and first-lifetime based cure predictors.",
+  "research_gap": "Prior second-lifetime literature had not empirically modeled repeat churn behavior in terms of both churn timing and churn reason for reacquired customers. Existing work also did not jointly account for multiple second-lifetime churn reasons, time-varying second-lifetime behaviors and marketing actions, and latent cured versus uncured returning customers.",
+  "research_question": "How can a firm predict the timing and reason of repeat churn during a customer's second lifetime after reacquisition? Do second-lifetime churn patterns differ from first-lifetime churn reasons, and can firms identify a cured subgroup that is no longer vulnerable to the original churn reason?"
+}

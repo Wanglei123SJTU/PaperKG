@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "A general Bayesian preference modeling approach for experience products that decomposes utility into observed-attribute and unobserved-attribute components and estimates the latter with latent residuals from virtual experts.",
+    "A methodological bridge between collaborative filtering and attribute-based choice modeling by embedding others' preference information into a random-utility framework.",
+    "A flexible framework that can be used with stated or revealed preference data, can account for nonignorable missing ratings, and can be embedded into other preference models."
+  ],
+  "context": "The paper studies preference prediction for experience products, with a primary focus on movies in recommendation settings where many relevant attributes are difficult to quantify. It evaluates the approach in both an online recommendation environment (EachMovie ratings) and an offline movie viewership setting.",
+  "design_and_data": "The authors develop two linked models: Model B clusters reference consumers using a finite mixture preference model to form virtual experts, and Model A predicts target consumers' utilities by combining observed attributes with weighted expert residual opinions. Estimation is Bayesian with MCMC, and model selection for the number of clusters uses marginal likelihood via bridge sampling. Application 1 uses the EachMovie database; from this source they sample 300 movies, 2,335 reference users (rated more than five movies), and 2,000 target users, splitting target ratings into estimation (Data Set 2a) and holdout (Data Set 2b). Application 2 uses offline revealed viewing choices for 30 movies from 312 Seoul-area consumers, split into 200 reference and 112 target respondents, again with target data split into estimation and holdout parts.",
+  "focal_constructs": [
+    "experience products",
+    "nonquantifiable product attributes",
+    "latent residual utility",
+    "virtual experts",
+    "preference similarity",
+    "expert precision",
+    "collaborative filtering",
+    "attribute-based preference modeling"
+  ],
+  "main_findings": [
+    "In the stated-preference EachMovie application, the multiple-expert virtual expert model achieved the best predictive performance, with a reported holdout hit rate of 49%, above the best collaborative filtering and attribute-based benchmarks in the study.",
+    "In the revealed-preference movie choice application, the multiple-expert virtual expert model reached an 88% holdout hit rate, outperforming standard choice-model alternatives (about 74-75%).",
+    "Estimated expert-opinion effects are significant, and experts with higher similarity and/or precision receive larger mixing weights, consistent with the proposed weighting mechanism."
+  ],
+  "one_line_summary": "The paper proposes and empirically validates a Bayesian virtual expert preference model that improves prediction for experience products by combining observed attributes with weighted residual information from similar reference-consumer clusters.",
+  "relation_to_prior_work": "introduces a hybrid approach that combines collaborative filtering ideas with attribute-based random utility modeling by explicitly modeling unobserved utility components via reference-consumer residuals. It extends prior recommender and choice models by using both observed attributes and learned expert residual opinions in one framework.",
+  "research_gap": "The paper argues that standard attribute-based preference models are weak for experience products because important product information is nonquantifiable or too high-dimensional to model directly, while collaborative filtering methods do not provide a utility decomposition grounded in product attributes. It addresses this gap by modeling and estimating the unobserved utility component directly through virtual experts' residuals.",
+  "research_question": "How can consumer preference models for experience products be improved when many influential product attributes are nonquantifiable or too numerous relative to available preference data? Can a model that decomposes utility into observed and latent residual components and learns the latent part from similar reference consumers outperform major collaborative filtering and attribute-based alternatives for both stated and revealed preferences?"
+}

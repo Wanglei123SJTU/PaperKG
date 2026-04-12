@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces product capital as a firm-specific, marketing-driven determinant of acquisition success and argues that firms differ in whether they are positioned to acquire.",
+    "Identifies a mechanism by which product capital affects outcomes: superior selection of targets with innovation potential and superior deployment of that potential after acquisition.",
+    "Links marketing-related assets to top-management strategic actions using long-term shareholder-value metrics (LCAR and BHAR) rather than relying only on short-term or self-reported outcomes."
+  ],
+  "context": "The empirical setting is the pharmaceutical industry (SIC 2843), where acquisitions are frequently used to access innovation assets. The sample spans acquisitions from 1992 to 2002 by acquirers headquartered in seven countries: United States, United Kingdom, France, Belgium, Switzerland, Germany, and Japan.",
+  "design_and_data": "The study uses archival data from 10 sources and begins with 1,414 pharmaceutical acquisitions; 798 involve publicly traded acquirers, and the final analyzable sample is 238 acquisitions by 56 acquirers with available marketing and R&D data. The authors estimate a recursive three-equation model for selection, deployment, and long-term performance, using OLS after tests indicated independent errors and no problematic autocorrelation. Selection is measured from target pipeline products and citation-weighted patent output of top scientists, and deployment is measured from postacquisition product progress and retention of top scientists. Long-term performance is measured with 1- and 2-year LCAR and BHAR, with unanticipated deployment constructed as the residual from a model that partials out short-term announcement returns.",
+  "focal_constructs": [
+    "product capital",
+    "product support assets",
+    "product development assets",
+    "target innovation potential",
+    "target selection",
+    "postacquisition deployment",
+    "long-term abnormal stock returns"
+  ],
+  "main_findings": [
+    "Higher product capital is associated with selecting targets that have greater innovation potential.",
+    "Higher product capital is associated with more extensive deployment of targets' innovation potential, and better selection is positively related to better deployment.",
+    "Unanticipated deployment is positively associated with long-term abnormal returns over both one-year and two-year horizons, using both LCAR and BHAR measures."
+  ],
+  "one_line_summary": "In pharmaceutical acquisitions, firms with stronger product capital make better selection and deployment decisions, and these advantages are reflected in higher long-term abnormal stock returns.",
+  "relation_to_prior_work": "extends acquisition research by shifting attention from mainly deal-specific predictors toward a firm-specific, marketing-driven predictor of postacquisition outcomes, product capital. It also extends prior work focused on short-term or self-reported outcomes by modeling long-term abnormal shareholder returns and the deployment mechanism behind them.",
+  "research_gap": "Prior work on acquisitions largely emphasized deal-specific variables and often short-term outcomes, while offering limited explanation of why performance varies across acquiring firms and how value is created or destroyed postacquisition. The paper addresses this by proposing and testing a firm-level, marketing-related driver and mechanism.",
+  "research_question": "Why do some firms' acquisitions perform better than others in the long run? Specifically, does product capital - accumulated product support and product development assets - improve acquisition performance by enabling superior selection and deployment of targets' innovation potential?"
+}

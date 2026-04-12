@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Shows that smartphone use can causally change what consumers choose, not just how they search or communicate.",
+    "Identifies elevated private self-focus as the mechanism through which personal smartphone use increases uniqueness-seeking choices.",
+    "Extends private self-focus and uniqueness-seeking research by demonstrating a causal link between private self-focus and preference for unique or self-expressive options in consumer choice."
+  ],
+  "context": "The paper studies consumer choice in online decision settings where people use personal smartphones or PCs. Evidence comes from U.S. lab and MTurk participants making choices across product and service domains such as lifestyle items, charity support, wine, and chocolate.",
+  "design_and_data": "The authors report a pilot plus five randomized between-subject experiments (with additional replications in the web appendix) using undergraduate lab samples and MTurk adults. Participants were assigned to complete tasks on a smartphone versus PC; one lab study crossed device type with ownership (own vs lab device), and process studies manipulated situational private self-focus or measured dispositional private self-focus. Dependent measures were choices between unique options (e.g., less popular, limited edition, or individually customized offers) and popular/mainstream alternatives, with several studies incentive compatible via real rewards or raffles. Process evidence used both explicit self-report measures and an implicit Linguistic Implications Form pronoun measure of private self-focus.",
+  "focal_constructs": [
+    "personal smartphone use",
+    "private self-focus",
+    "preference for uniqueness",
+    "self-expressive choice",
+    "perceived distinctiveness",
+    "device ownership",
+    "public self-focus"
+  ],
+  "main_findings": [
+    "Using a personal smartphone rather than a PC increased preference for unique options across multiple operationalizations, including less popular, limited-edition, and individually customized choices.",
+    "The effect was specific to personal smartphone use and was attenuated when private self-focus was already elevated experimentally or chronically high dispositionally.",
+    "Mediation analyses with implicit and explicit measures showed private self-focus carried the effect, while public self-focus, mood, task difficulty or annoyance, and device brand did not explain it."
+  ],
+  "one_line_summary": "Across randomized experiments, using a personal smartphone instead of a PC increased selection of unique and self-expressive options because smartphone use heightened private self-focus.",
+  "relation_to_prior_work": "extends prior smartphone decision-making work by moving from behavioral differences in process to causal effects on choice outcomes, and extends private self-focus research by linking it to uniqueness-seeking consumption decisions.",
+  "research_gap": "Prior research documented device-based differences in search and communication, but the causal effect of smartphone use on what consumers choose was unclear. The authors also note that, despite theory tying private self-focus to individuation, its causal role in uniqueness preference had not been systematically tested in consumer choice.",
+  "research_question": "Does making decisions on a personal smartphone, versus a PC, increase consumers' preference for unique and self-expressive options? If so, is this effect driven by heightened private self-focus and specific to using one's own smartphone rather than a generic or nonowned device?"
+}

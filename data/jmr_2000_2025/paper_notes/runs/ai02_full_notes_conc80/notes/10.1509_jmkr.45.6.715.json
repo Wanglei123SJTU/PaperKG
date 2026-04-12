@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Proposes an individual-level Bayesian framework to estimate coupon effects and consumer preferences when only aggregate market shares and coupon-use information are observed.",
+    "Develops a data-augmentation estimation method that simulates latent individual choices and coupon holdings subject to aggregate consistency constraints.",
+    "Shows how to handle aggregate and censored coupon-availability information and use the resulting model for managerial analyses such as coupon targeting and value of information."
+  ],
+  "context": "The paper studies coupon promotions in consumer packaged goods markets, where researchers often observe only aggregate sales shares and coupon-use totals. The empirical application uses weekly ice-cream purchases and coupon redemptions for multiple brands at a single urban store.",
+  "design_and_data": "The authors specify a structural random-coefficients utility model of brand choice with latent coupon availability and coupon redemption, and estimate it with Bayesian MCMC using data augmentation. The algorithm imputes unobserved individual-level sequences of choices and coupons that exactly satisfy observed aggregate constraints (market shares and coupon counts), with extensions for limited coupon-information settings, utility-based redemption, strategic coupon-price-feature coordination, coupon carryover, and price endogeneity. They illustrate the method with simulated data and an empirical ice-cream dataset (8 brands, 99 weeks, 165 panelists selected for at least four purchases), where aggregate estimation is benchmarked against disaggregate estimation and posterior predictive checks.",
+  "focal_constructs": [
+    "coupon promotions",
+    "aggregate market share data",
+    "coupon redemption",
+    "latent coupon availability",
+    "random-coefficients demand",
+    "Bayesian data augmentation",
+    "utility maximization",
+    "coupon targeting"
+  ],
+  "main_findings": [
+    "In the ice-cream application, log-marginal likelihood comparisons under both aggregate and disaggregate estimation favor the fuller specification with coupon carryover over the constrained immediate-expiration model.",
+    "Aggregate-data estimation produces results broadly consistent with disaggregate estimation, including overlapping posterior intervals for most parameters, similar implied price elasticities, and posterior predictive checks that recover key individual-level purchase and coupon-use patterns.",
+    "Estimated coupon distribution is positively associated with feature activity and weakly negatively associated with price, and targeting based on inferred individual preferences yields substantially higher incremental coupon profits than random distribution."
+  ],
+  "one_line_summary": "The paper develops and validates a Bayesian data-augmentation method that recovers individual-level demand and coupon-usage behavior from aggregate market-share and coupon-redemption information.",
+  "relation_to_prior_work": "extends Bayesian aggregate-data choice modeling by allowing coupon exposure to vary across consumers and to be inferred from censored aggregate redemption information. It also combines brand choice and coupon redemption in one structural utility framework, in contrast to aggregate approaches that assume consumer-invariant covariates or model redemption without explicit brand choice.",
+  "research_gap": "Most coupon studies infer behavior from disaggregate panel data, while aggregate-data approaches often rely on reduced-form simplifications or assumptions that marketing variables are constant across consumers. For coupon settings, this is limiting because coupon availability is heterogeneous and only partially observed through redemption, creating both aggregation and censoring problems.",
+  "research_question": "Can researchers recover individual-level consumer preference heterogeneity and coupon-usage behavior from aggregate data on market shares and coupon activity rather than consumer panels? How can this be done when coupon availability is unobserved/censored and potentially coordinated with other marketing variables, and what managerial decisions (such as targeting) can then be supported?"
+}

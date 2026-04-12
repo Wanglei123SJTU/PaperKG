@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper shows that procrastination occurs for enjoyable activities with temporally close costs and benefits, not only for aversive tasks.",
+    "It provides field and experimental evidence that limited time windows reduce procrastination and raise completion of enjoyable experiences.",
+    "It documents that people overpredict future time availability and follow-through, and that increasing relative benefits (but not relative costs) increases the long-vs-short window procrastination gap."
+  ],
+  "context": "The paper studies consumer hedonic activities such as visiting city landmarks and redeeming gift certificates or gift cards for spa, pastry, and movie experiences. Empirical settings include residents versus tourists in major cities and student and working-adult samples in field and survey studies.",
+  "design_and_data": "The authors run five studies combining field surveys, hypothetical judgments, and field redemption data. Experiment 1 surveys 199 pedestrians in London, Chicago, and Dallas about landmark visits across seven cities (including 434 visitor observations), comparing residents (unlimited windows) with visitors (limited windows). Experiment 2 surveys 51 former Chicago residents on when landmark visits occurred relative to moving date, including a within-person comparison for a traveling subset. Experiment 3 asks 85 working adults to predict use of a spa certificate in a near vs distant one-week window, and Experiments 4-5 track actual redemption for pastry certificates (n=64 recipients; prediction control n=80) and movie gift cards (8 conditions, n=30 each) with manipulated expiration windows, relative benefits, relative costs, and framing.",
+  "focal_constructs": [
+    "procrastination",
+    "enjoyable experiences",
+    "intertemporal discounting",
+    "limited time windows",
+    "future time availability",
+    "resource slack misprediction",
+    "completion and redemption rates",
+    "relative costs and benefits"
+  ],
+  "main_findings": [
+    "Residents with effectively unlimited windows visited fewer local landmarks than short-term visitors, and former residents' landmark visits clustered near move dates, consistent with procrastination reduced by salient deadlines.",
+    "Participants predicted higher use and more available time for distant windows, but actual behavior showed lower redemption with longer expirations (for pastry certificates, 6% with two months vs 31% with three weeks).",
+    "Shorter windows increased movie gift-card redemption overall, and increasing relative benefits increased the short-vs-long redemption gap, while increasing relative costs did not significantly change that gap."
+  ],
+  "one_line_summary": "Across five studies, the paper finds that people procrastinate enjoyable activities because future time seems more available, and shorter deadlines increase completion while benefit increases amplify long-window procrastination more than cost increases do.",
+  "relation_to_prior_work": "extends prior procrastination and temporal discounting work focused on aversive tasks and effort-money trade-offs by showing analogous procrastination for enjoyable experiences with temporally proximate experiential benefits and by linking it to mispredicted future time slack.",
+  "research_gap": "Prior procrastination research largely examined unpleasant tasks with immediate effort costs and delayed benefits. The paper addresses whether procrastination also appears for enjoyable activities where costs and benefits occur close together, and whether time windows and relative cost-benefit changes alter this behavior.",
+  "research_question": "Do people procrastinate enjoyable, positive-utility activities even when costs and benefits are experienced in close temporal proximity? How do limited versus long windows of opportunity affect completion of these activities, and are outcomes driven by biased beliefs about future time availability? The paper also tests whether raising relative benefits versus relative costs differentially changes the procrastination gap between short and long windows."
+}

@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a new product search map method that represents online browsing as a directed product network and visualizes which products are searched together.",
+    "It introduces a hierarchical, stochastic, asymmetric MDS framework that jointly estimates product locations and directional search influence (radii), then explains both with observed product attributes.",
+    "It shows that manufacturers can use publicly available Amazon browsing summaries as a cost-effective, revealed-behavior source for competitive and consideration-set analysis in durable goods."
+  ],
+  "context": "The empirical application is the digital camcorder category at Amazon.com, using within-category co-view relationships among products. The managerial target is manufacturers seeking insights on competition and consideration sets from online search behavior.",
+  "design_and_data": "The authors scraped Amazon.com pages for more than 250 camcorder products on a regular basis for about one year starting in June 2006, collecting both co-view list information and product characteristics. For the main analysis they focus on 62 products (Sony, Canon, JVC, Panasonic; DVD, hard drive, MiniDV), excluding professional models and products that never appear on others' view lists. Using August 2006 data, they build a directed binary product-search matrix (yjk=1 if product k appears on product j's view list at least once during the month), yielding 832 links (22 percent of off-diagonal pairs). They estimate a hierarchical Bayesian stochastic asymmetric MDS model with recommendation controls via MCMC, and report parameter-recovery and robustness checks.",
+  "focal_constructs": [
+    "online consumer product search",
+    "product search network",
+    "asymmetric multidimensional scaling",
+    "product search maps",
+    "consideration set structure",
+    "search direction asymmetry",
+    "media format and price screening"
+  ],
+  "main_findings": [
+    "Allowing search asymmetry improves model fit over symmetric specifications, and a three-dimensional asymmetric map fits better than a two-dimensional asymmetric map.",
+    "Consumer search in digital camcorders is organized primarily by media format, and within format it is strongly price related, with similarly priced products searched together.",
+    "Brand effects are weaker than media format and price in organizing search; recommendation features have small but significant effects, and small-radius products act as search-absorbing products associated with stronger sales outcomes."
+  ],
+  "one_line_summary": "The study builds a hierarchical asymmetric MDS approach to map Amazon camcorder co-view data into product search maps that reveal search proximity, direction, and attribute drivers.",
+  "relation_to_prior_work": "extends consideration-set and brand-mapping research by estimating competitive maps from directional online search links in durable goods, rather than mainly from repeat-purchase choice panels or similarity ratings, and by embedding asymmetric MDS in an attribute-explanatory hierarchical model.",
+  "research_gap": "Prior consideration-set studies largely infer latent sets from repeated individual choice data, which are often unsuitable for durable goods with infrequent repurchase. The paper addresses the lack of practical methods to analyze and visualize asymmetric online search structure and its attribute drivers using available search traces.",
+  "research_question": "How can firms model and visualize directional online product search so that products searched together, search flows, and likely consideration sets are identifiable? In particular, which product attributes explain the structure and direction of consumer search in an online durable-goods category?"
+}

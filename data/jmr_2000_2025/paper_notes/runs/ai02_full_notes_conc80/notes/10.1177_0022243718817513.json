@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides randomized field-experimental evidence that targeted promotions can create negative spillovers by crowding out purchases of dissimilar products.",
+    "It links these spillovers to search reallocation, showing deeper within-genre search and reduced cross-genre search breadth under more targeted offers.",
+    "It demonstrates with causal-tree targeting simulations that optimizing promoted-product lift can be materially suboptimal for total sales and quantifies the resulting opportunity cost."
+  ],
+  "context": "The setting is a large Asian mobile e-book platform that sells serialized genre fiction and promotes books via in-app push notifications with free chapters. Customers are assigned promotions for books from different genres, enabling analysis of genre-match targeting in a multiproduct content marketplace.",
+  "design_and_data": "Two randomized field experiments were run with a large Asian mobile e-book app that sent push notifications for one of three books (different genres) or no promotion. In Study 1, users with strong prior preference for one promoted genre (fit > 2/3) formed the main analysis sample (20,436 users; 2 months pretreatment, 1 week posttreatment), enabling comparison of targeted versus untargeted assignments under randomization. Study 2 replicated the design with richer tapstream search data and longer windows (19,522 high-fit users from 77,731 total; 5 months pretreatment, 3 weeks posttreatment), plus robustness checks across alternative targeting cutoffs and definitions. The authors then used causal-tree methods with honest estimation to model heterogeneous treatment effects and simulate targeting that maximizes promoted-book incidence versus total purchases.",
+  "focal_constructs": [
+    "targeted promotions",
+    "cross-genre crowding out",
+    "same-genre spillovers",
+    "consumer search depth",
+    "consumer search breadth",
+    "heterogeneous treatment effects",
+    "opportunity costs of targeting objectives",
+    "promoted-product sales vs total sales optimization"
+  ],
+  "main_findings": [
+    "Targeted promotions significantly increased promoted-book purchase incidence and same-genre purchasing relative to untargeted promotions.",
+    "Targeted promotions decreased cross-genre purchases, and this crowding-out pattern was robust across alternative targeting rules; total-sales effects were heterogeneous, from a significant drop in Study 1 to an insignificant difference in Study 2.",
+    "In the optimization exercise, targeting for promoted-product sales achieved only about 29% of the incremental total sales attainable when targeting for total sales, implying a 71% opportunity cost."
+  ],
+  "one_line_summary": "Randomized experiments on a large mobile e-book platform show that targeted genre promotions raise promoted and same-genre sales but reduce cross-genre purchasing through narrower search, so targeting to maximize promoted-product lift captures only a fraction of the total-sales gains from targeting on total sales.",
+  "relation_to_prior_work": "extends prior targeting and promotion research that focuses on direct response by identifying cross-genre crowding-out and search-mediated spillovers in a mobile content platform, and by showing that objective choice in machine-learning targeting changes who should be targeted and the resulting total-sales lift.",
+  "research_gap": "Prior work shows targeting can increase direct promotional response, but the paper argues that opportunity costs for total purchasing are poorly understood. It specifically addresses limited evidence on whether more precise targeting crowds out dissimilar-product sales through reduced search and whether optimizing promoted-product lift is suboptimal for total sales.",
+  "research_question": "How do targeted promotions based on prior genre purchases affect not only promoted-book sales but also purchases in other genres and total sales on a digital content platform? Through what search-behavior changes do these spillovers arise, and how do targeting rules differ when optimizing promoted-product sales versus total sales?"
+}

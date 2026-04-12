@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a new Bayesian topic-based segmentation model that uses an Ising prior to perform group variable selection on co-occurring words in text reviews.",
+    "The model is designed to jointly identify latent segments, select segment-level key topics (groups of words), and estimate word-level effects on star ratings within each segment.",
+    "The authors claim managerial usefulness by applying the method to restaurant-level and customer-level segmentation and by showing advantages over benchmark methods in prediction, interpretability, and heterogeneity handling."
+  ],
+  "context": "The empirical setting is online Yelp reviews of Arizona restaurants, with both market-level restaurant segmentation and customer segmentation within a single restaurant. The main restaurant application uses 5,241 restaurants and 676,159 reviews from 2005-2017.",
+  "design_and_data": "The study develops a Bayesian latent class regression with spike-and-slab coefficients and an Ising prior on selection indicators so dependent words can be selected as groups. Reviews are preprocessed into a word-frequency matrix, and parameters are estimated with MCMC; the number of segments and lambda are chosen by log-marginal likelihood. Evidence includes an illustrative simulation (1,000 restaurants, 100 words, known segment-specific true topics) plus additional Monte Carlo checks in the Web Appendix. In the Yelp application, the model is compared with six benchmarks (topic models and latent class regressions) using MAE, recommendation hit rate, coherence, and a human-judge interpretability survey.",
+  "focal_constructs": [
+    "segment-level key topics",
+    "star ratings",
+    "customer satisfaction",
+    "unstructured text reviews",
+    "latent class heterogeneity",
+    "group variable selection",
+    "Ising model prior",
+    "co-occurring words"
+  ],
+  "main_findings": [
+    "In simulation, the proposed model recovered the true segment-specific topic groups and coefficients, while the benchmark topic model and prior latent class word-selection model did not recover the true group structure.",
+    "In the Yelp restaurant data, the best specification was three segments with lambda = .01, and the proposed model achieved the strongest predictive performance among seven tested models (MAE = .188, recommendation hit rate = 88.9%).",
+    "The model identified distinct segment-level drivers of satisfaction (for example, kid-friendly and nightlife issues in the low-satisfaction segment, and staff-service issues in the high-satisfaction segment) and showed better interpretability (best coherence score and higher human-judge ratings than a standard topic model)."
+  ],
+  "one_line_summary": "This paper proposes a Bayesian latent class text model with an Ising-prior group selection mechanism to uncover segment-specific co-occurring word topics that drive Yelp star ratings.",
+  "relation_to_prior_work": "introduces a latent class regression approach that combines sparse Bayesian variable selection with an Ising-prior dependence structure so co-occurring words are selected as segment-level topic groups, which the reviewed topic models and latent class variable-selection models do not jointly do. It contrasts with unsupervised and supervised topic models by adding explicit variable elimination and segment heterogeneity, and with prior latent class regressions by replacing independent word selection with dependence-aware group selection.",
+  "research_gap": "Existing topic models can identify word clusters but are either unsupervised with respect to ratings or do not remove irrelevant words and typically do not model segment-level heterogeneity in drivers. Existing latent class regressions with variable selection select predictors independently and do not account for dependence among co-occurring words, so they cannot directly identify segment-specific topic groups that drive ratings.",
+  "research_question": "How can unstructured online review text be used to identify interpretable segment-level drivers of star ratings while handling high-dimensional sparsity and heterogeneity? Can a single model simultaneously segment observations, select dependent groups of co-occurring words as topics, and estimate their segment-specific effects on ratings?"
+}

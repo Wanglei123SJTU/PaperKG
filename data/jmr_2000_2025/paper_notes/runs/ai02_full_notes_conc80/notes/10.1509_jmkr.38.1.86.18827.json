@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper explicitly frames pie sharing as a strategic interorganizational process in complex collaborations, not just a post hoc allocation outcome.",
+    "It develops and tests a framework linking equity and equality sharing principles to resource and organizational conditions and to relationship quality outcomes.",
+    "It provides evidence from approximately 300 R&D practitioners that the relational effects of sharing are contingent and should be aligned with collaboration goals (for example, technology spin-in versus spin-out orientations)."
+  ],
+  "context": "This study examines interorganizational R&D collaborations between two financially independent, non-competitive organizations that contribute complementary competencies. Empirical data come from US federal and commercial R&D settings, including technology-transfer collaborations and major manufacturing firms.",
+  "design_and_data": "Questionnaire measures were developed from 31 depth interviews with R&D managers, scientists, and engineers in telecommunications, automotive, chemical, and petroleum industries. The survey was mailed to 908 R&D respondents across five US organizations (one federal research laboratory and four manufacturing firms), with 299 usable returns (33 percent overall). Constructs were measured with multi-item 7-point Likert scales and validated using confirmatory factor analysis, including a second-order relationship quality factor. Hypotheses were tested with hierarchical moderator regressions, estimated separately for federal and commercial respondent groups.",
+  "focal_constructs": [
+    "equity sharing principle",
+    "equality sharing principle",
+    "relationship quality",
+    "resource conditions (asymmetric, separable, idiosyncratic)",
+    "ability to observe the partner's actions",
+    "understanding of the partner's transformation process",
+    "equal payoff valuation"
+  ],
+  "main_findings": [
+    "Most proposed moderator effects were not supported as originally predicted: H1, H2, and H3 were unsupported, and H5 showed a significant negative equity interaction in both federal and commercial samples.",
+    "For federal organizations, equity sharing improved relationship quality when partner actions were observable (H4 supported for federal only), while equality sharing under observability reduced relationship quality.",
+    "Effects differed by collaboration orientation: for commercial organizations, equality sharing with similar payoff valuations improved relationship quality (H6 supported), whereas for federal organizations the opposite pattern favored equity; overall, sharing principles could improve or harm relationship quality depending on conditions and goals."
+  ],
+  "one_line_summary": "Using interviews and survey data from R&D collaborations, the paper shows that equity versus equality pie-sharing rules affect relationship quality differently across resource and organizational conditions and collaboration goals.",
+  "relation_to_prior_work": "introduces a process-level view of outcome allocation in marketing collaborations by applying fairness-based equity and equality principles from economics and psychology to complex interorganizational R&D settings and linking them to relationship quality.",
+  "research_gap": "Prior collaboration research emphasized how parties create value, but gave little attention to how the expanded pie is divided and whether sharing processes have relational consequences. Allocation research in economics and psychology largely studied simplified settings and allocation outcomes, not sharing processes in complex interorganizational contexts with ambiguous pies.",
+  "research_question": "How does the way collaborating organizations divide an expanded pie affect relationship quality in complex R&D collaborations where outputs and contributions are hard to specify ex ante? The paper tests whether applying equity versus equality sharing principles under specific resource and organizational conditions changes satisfaction, perceived outcome fairness, and willingness to collaborate again."
+}

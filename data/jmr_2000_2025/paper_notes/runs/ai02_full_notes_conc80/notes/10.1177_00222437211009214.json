@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "First, to the authors' knowledge, this is the first study using large-scale linked individual payroll and auto loan records to document how lump-sum bonuses affect demand for a big-ticket consumer financial product.",
+    "The study documents the long-term risk consequence of bonus-induced borrowing by showing higher subsequent auto loan delinquency.",
+    "By matching bonus recipients to comparable nonrecipients, the paper provides evidence that both demand expansion and demand shifting jointly explain the observed increase in auto loan origination."
+  ],
+  "context": "The empirical setting is the U.S. auto loan market, where most vehicle purchases are financed. The study uses employees from more than 1,500 U.S. employers observed in Equifax payroll and credit records.",
+  "design_and_data": "Main analyses use a panel of about 2.5 million individuals who received one bonus in 2015, combining monthly payroll components (including bonus timing and amount) with credit bureau records on auto loan origination and repayment. The authors estimate linear probability and logit models with lead/lag bonus indicators, controls for income and credit score, and time/location fixed effects to measure origination effects; delinquency models are run on about 529,001 originated loans using 90-DPD and 60-DPD outcomes one year after origination. To probe mechanisms, they perform coarsened exact matching between bonus and no-bonus consumers (and between loans) on income and credit score, then compare origination and delinquency patterns. Additional robustness checks include placebo timing tests, alternative fixed effects, and extended delinquency measures and horizons.",
+  "focal_constructs": [
+    "bonus payments",
+    "auto loan origination demand",
+    "loan delinquency (90-DPD and 60-DPD)",
+    "base salary increase",
+    "demand expansion",
+    "demand shifting",
+    "income and credit score heterogeneity"
+  ],
+  "main_findings": [
+    "Receiving a bonus increases auto loan demand: summed across the bonus month and next three months, origination rises by about 20.3% to 21% relative to non-bonus months.",
+    "Loans originated in bonus months are riskier: one year after origination, 90-DPD delinquency is about 31.4% higher and 60-DPD about 18.5% higher than comparable non-bonus-month loans, with stronger effects among lower-income and lower-credit-score consumers.",
+    "Base salary increases also raise origination but do not increase delinquency, and matched-sample comparisons indicate both demand expansion and demand shifting from non-bonus months contribute to the bonus effect."
+  ],
+  "one_line_summary": "Using merged Equifax payroll and credit panel data, the paper shows that receiving a lump-sum bonus increases auto loan origination but also raises subsequent delinquency risk, unlike base salary increases.",
+  "relation_to_prior_work": "extends literature on consumption responses to income changes and consumer financial decision making by moving from short-run spending to financed durable purchases and repayment outcomes, showing that bonus-linked borrowing behavior differs from base salary increases and is associated with higher delinquency.",
+  "research_gap": "Prior work on consumption responses to income changes mostly examines short-run spending decisions and generally does not track repayment outcomes for financed durable purchases. The authors address this gap by studying auto loans, where borrowing decisions create long-term repayment obligations and measurable delinquency risk.",
+  "research_question": "How does receiving a bonus payment affect consumers' propensity to originate auto loans? Are loans originated around bonus receipt associated with higher future delinquency risk compared with other auto loans?"
+}

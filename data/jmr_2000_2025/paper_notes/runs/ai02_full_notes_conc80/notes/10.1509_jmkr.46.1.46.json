@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper shows that visualization focus is a critical determinant of evaluations for really new products, with product newness (RNP versus INP) as a boundary condition.",
+    "It proposes and evidences that consumers default to memory-based, path-of-least-resistance visualization that underweights novel benefits, and that explicit imagination prompts can improve RNP evaluations.",
+    "It identifies perceived value of new benefits, rather than reduced learning-cost consideration, as the primary process through which imagination-focused visualization improves RNP evaluation."
+  ],
+  "context": "The research examines consumer evaluation of new products in a lab setting using technology-oriented product concepts shown in mock advertisements. The core stimuli were an RNP (Sony AudioPC concept) and an INP (IBM ThinkPad concept), both relabeled as XI-100.",
+  "design_and_data": "A pretest with 48 students showed the AudioPC was perceived as more novel and as requiring higher learning costs than the ThinkPad. Experiment 1 (n = 159 students) used a 2 x 2 between-subjects design (product type: INP versus RNP; visualization focus: memory-focused versus imagination-focused) with timed visualization and product evaluation measures. Experiment 2 (n = 141 students) replicated the 2 x 2 design with balanced instructions and added measures of perceived benefit value and learning-cost consideration, plus mediation analysis. Experiment 3 (n = 118 students) used only the RNP in a 2 x 2 between-subjects design (visualization focus x content focus: benefits versus learning costs) to test whether imagination effects are distinct from simple benefit focus.",
+  "focal_constructs": [
+    "imagination-focused visualization",
+    "memory-focused visualization",
+    "really new products (RNPs)",
+    "incrementally new products (INPs)",
+    "perceived value of product benefits",
+    "learning-cost considerations",
+    "new product evaluation"
+  ],
+  "main_findings": [
+    "Imagination-focused visualization increased evaluations of the really new product relative to memory-focused visualization, but visualization focus did not affect evaluations of the incrementally new product (Experiments 1 and 2).",
+    "For the really new product, imagination-focused visualization increased the perceived value of product benefits, and this perceived benefit value mediated the effect on product evaluation (Experiment 2).",
+    "Imagination-focused visualization did not reduce learning-cost considerations; it increased them in Experiment 2, and when learning costs were explicitly emphasized, the imagination advantage in evaluation was attenuated (Experiment 3)."
+  ],
+  "one_line_summary": "Across three experiments, imagination-focused visualization raised evaluations of a really new product by increasing the perceived value of its novel benefits, while showing little effect for an incrementally new product.",
+  "relation_to_prior_work": "extends prior mental simulation and new product learning research by distinguishing imagination-focused from memory-focused visualization and showing why visualization effects differ across really new versus incremental products.",
+  "research_gap": "Prior work reported mixed effects of visualization for new products, including evidence that standard visualization can lower evaluations of really new products, but it did not clearly specify how visualization should be focused to improve responses. The process mechanism, especially the roles of perceived benefit value versus learning-cost considerations, was also unresolved.",
+  "research_question": "Does directing consumers to use imagination-focused visualization, rather than memory-focused visualization, improve evaluations of really new products? If so, does the effect operate through higher perceived value of novel benefits and/or changes in learning-cost considerations, and does it generalize to incrementally new products?"
+}

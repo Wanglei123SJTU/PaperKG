@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Introduces evidence on how acquisition through free trials, a distinct low-commitment promotion format, affects subsequent customer retention and value relative to regular acquisition.",
+    "Extends the usage-retention framework by jointly modeling flat-rate usage and pay-per-use usage, and by linking these behaviors to customer lifetime value.",
+    "Examines whether acquisition mode changes responsiveness to direct marketing and advertising, while explicitly addressing selection effects and marketing endogeneity in the empirical model."
+  ],
+  "context": "The study is set in a large European interactive digital television market where customers can join via either a regular paid subscription or a 3-month free trial. The service combines a flat-rate subscription component and a pay-per-use video-on-demand (VOD) component.",
+  "design_and_data": "The authors use household panel data on 16,512 customers (12,612 free-trial and 3,900 regular) and track monthly usage and retention decisions for up to two years after service launch. They estimate a joint system with a binomial probit retention model, a log-log model for flat-rate usage (channel zaps), and a zero-inflated Poisson model for pay-per-use usage (VOD counts), with unobserved heterogeneity. They correct marketing endogeneity using copula terms (and Mundlak-style controls for cross-sectional targeting) and address selection into free trial versus regular acquisition through both a selection model and propensity-score-based matching; the reported focal model uses matched samples.",
+  "focal_constructs": [
+    "free-trial acquisition mode",
+    "customer retention and churn",
+    "flat-rate service usage",
+    "pay-per-use (VOD) usage",
+    "direct marketing responsiveness",
+    "advertising responsiveness",
+    "customer lifetime value (CLV)",
+    "customer equity (CE)"
+  ],
+  "main_findings": [
+    "Customers acquired via free trials have lower retention and lower flat-rate usage than regular customers, and they also show higher pay-per-use usage.",
+    "Free-trial customers are more responsive than regular customers to direct marketing and advertising, and the retention impact of both flat-rate and pay-per-use usage is stronger for free-trial customers.",
+    "The average net CLV of free-trial customers is 59% lower than that of regular customers in this setting."
+  ],
+  "one_line_summary": "Using panel data from a European digital TV provider, the paper finds that free-trial acquisition leads to lower retention and 59% lower average CLV than regular acquisition, even though free-trial customers are more responsive to marketing communication and usage cues.",
+  "relation_to_prior_work": "extends prior acquisition-mode research by focusing on free-trial promotions, incorporating both flat-rate and pay-per-use usage into a retention-CLV system, and explicitly accounting for selection and marketing endogeneity that earlier studies often did not address.",
+  "research_gap": "Prior work on acquisition mode had studied channels, referrals, and some pricing promotions, but the downstream behavioral and value effects of free-trial acquisition were largely unaddressed. The paper also notes limited evidence on whether acquisition mode changes responsiveness to retention communications and that selection effects were often not corrected in related studies.",
+  "research_question": "How does acquisition through a free trial, versus a regular subscription, affect customers' subsequent usage behavior, retention decisions, and CLV? Do free-trial and regular customers differ in how strongly retention responds to usage (flat-rate and pay-per-use) and to marketing communication (direct marketing and advertising)?"
+}

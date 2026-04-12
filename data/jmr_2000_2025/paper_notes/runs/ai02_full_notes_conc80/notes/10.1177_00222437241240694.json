@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "First to investigate whether numerical versus analog customer rating displays systematically affect consumer behavior.",
+    "Shows that left-digit anchoring can differentially change evaluations of the same quantitative rating when it is shown in different formats, with magnitude perception as the key mechanism.",
+    "Provides practical guidance for website/app and ad design, including evidence that the effect can be reversed under specific moderator conditions (e.g., scale polarity)."
+  ],
+  "context": "The paper studies online customer ratings as displayed on digital platforms such as e-commerce sites, review platforms, search engines, and social media. Empirical settings include product/service evaluation tasks and a Google Ads campaign run with a local online clothing retailer.",
+  "design_and_data": "The authors report nine experiments in the main paper (six preregistered): seven lab experiments, one eye-tracking study, and one field study on Google Ads; additional studies are in the Web Appendix. Samples include MTurk, Prolific, CloudConnect, undergraduate participants, and real ad-platform exposure data. Manipulations vary rating format (numerical vs analog stars/circles/bars), rating endings and levels (e.g., half vs whole, 3.2 vs 3.8), and scale polarity (bigger-is-better vs smaller-is-better). Outcomes include magnitude perceptions, purchase intentions, real product choice, and click-through behavior, with moderation and mediation analyses used to test mechanism.",
+  "focal_constructs": [
+    "numerical versus analog rating format",
+    "magnitude perceptions",
+    "left-digit anchoring bias",
+    "rating ending midpoint (.5-.9 vs .1-.4 and whole numbers)",
+    "purchase intentions",
+    "product choice",
+    "ad click-through rate",
+    "scale polarity (bigger-is-better vs smaller-is-better)"
+  ],
+  "main_findings": [
+    "Numerical (vs analog) ratings were perceived as lower in magnitude when the rating ending was at or above the midpoint of a rating level (.5-.9), and this effect attenuated for whole-number ratings and ratings below midpoint (.1-.4).",
+    "Evidence was consistent with a left-digit anchoring process: the effect attenuated for 3.2 versus 3.8 ratings and reversed under a smaller-is-better scale.",
+    "Lower magnitude perceptions mediated reduced behavioral responses to numerical formats, including lower purchase intentions, lower real product choice, and lower ad click-through performance relative to analog formats."
+  ],
+  "one_line_summary": "Across nine experiments, the paper shows that numerical versus analog customer rating displays can lower perceived rating magnitude and downstream consumer responses when decimal endings are at or above midpoint levels, consistent with left-digit anchoring.",
+  "relation_to_prior_work": "extends prior research on numerical presentation and left-digit bias by showing that anchoring differences arise when the same rating value is displayed in numerical versus analog form. It also extends rating-visualization research by introducing a direct numerical-versus-analog comparison rather than only comparing types of analog displays.",
+  "research_gap": "Prior marketing research largely examined subtle numerical changes within the same numerical format, and prior rating-visualization work focused on differences across analog display types. The paper identifies a gap on whether identical average ratings shown in numerical versus analog formats systematically alter perceived magnitude and consumer behavior.",
+  "research_question": "Does presenting the same average customer rating in a numerical format versus an analog format change how consumers perceive its magnitude and how they respond behaviorally? The paper also asks whether any effect is driven by left-digit anchoring and when the effect strengthens, attenuates, or reverses."
+}

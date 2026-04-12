@@ -1,0 +1,4 @@
+{
+  "rationale": "Keep this pair because the citing paper’s core task is ABM-based WOM diffusion forecasting and model calibration, while the cited paper specifically contributes an ABM/synthetic-network approach to improving diffusion forecasts under unobserved network structure. Given this strong methodological and domain overlap (and an exact DOI match), the citation could plausibly be foundational or method-relevant rather than a purely incidental mention.",
+  "triage_decision": "keep_for_relation_judgment"
+}

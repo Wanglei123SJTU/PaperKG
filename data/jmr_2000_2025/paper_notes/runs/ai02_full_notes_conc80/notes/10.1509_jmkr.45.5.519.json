@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper addresses foreign-entry literature gaps by examining incumbent outcomes when a giant retailer enters a foreign market, including effects beyond the entry country to other European retailers.",
+    "It proposes and tests an integrated framework in which incumbent impact depends on two metaconstructs: seriousness of the threat and capacity to withstand the threat, each decomposed into specific moderators.",
+    "It applies shareholder-value event-study methods to a major retail entry event and validates the conclusions with accounting outcomes (sales, EBIT, and ROA growth)."
+  ],
+  "context": "The empirical setting is Wal-Mart's June 14, 1999 announcement to acquire Asda and enter the U.K. market. The study examines listed U.K. and continental European retailers that could be affected by this move.",
+  "design_and_data": "The authors conduct an event study around the Asda takeover announcement, using daily stock returns from Datastream and market-model expected returns estimated over days -260 to -10 before the event. The final sample is 98 European listed retailers with relevant retail activity and assortment overlap with Wal-Mart. They compute abnormal returns and focus on CAR[0,1], then run cross-sectional regressions (with generalized estimating equations) linking CARs to moderators measured in 1998. They also run robustness checks with alternative event windows and expected-return models, and validation analyses using 1998-2002 growth in sales, EBIT, and ROA.",
+  "focal_constructs": [
+    "shareholder value impact (cumulative abnormal returns)",
+    "seriousness of the threat",
+    "capacity to withstand the threat",
+    "assortment overlap",
+    "positioning overlap (EDLP)",
+    "financial capacity (size, profitability, leverage)",
+    "core competencies from country experience",
+    "Wal-Mart-specific competitive repertoires"
+  ],
+  "main_findings": [
+    "Across incumbents, Wal-Mart's U.K. entry announcement produced a significant negative average CAAR[0,1] of about -0.76 percent, equivalent to roughly -$5.68 billion in incumbent value.",
+    "Incumbents with greater overlap with Wal-Mart in assortment, EDLP positioning, and U.K. revenue exposure experienced more negative performance impacts, and U.K. dependence significantly intensified the negative effect of positioning overlap.",
+    "Incumbents with stronger financial resilience and stronger organizational capabilities, including prior direct overlap with Wal-Mart in important and symmetric markets, were less negatively affected or relatively benefited, with results broadly robust across alternative specifications and performance metrics."
+  ],
+  "one_line_summary": "Using an event study of Wal-Mart's 1999 Asda acquisition, the paper shows that European incumbents' value effects depended jointly on how threatened they were and how financially and organizationally prepared they were to respond.",
+  "relation_to_prior_work": "extends prior foreign-entry and Wal-Mart impact research by moving from entrant-focused or aggregate analyses to firm-level heterogeneity in incumbent outcomes, and by incorporating regional cross-country spillovers beyond the host country.",
+  "research_gap": "Prior foreign-entry studies largely emphasized entrant outcomes, aggregate incumbent effects, or single mechanisms, leaving limited understanding of why some incumbent firms are hurt while others benefit. The literature also rarely examined entry by a giant firm and cross-country effects on firms outside the focal host market.",
+  "research_question": "How did Wal-Mart's entry into the United Kingdom through the Asda acquisition affect the performance of incumbent European retailers? Which firm characteristics explain why some incumbents experienced value destruction while others experienced value enhancement?"
+}

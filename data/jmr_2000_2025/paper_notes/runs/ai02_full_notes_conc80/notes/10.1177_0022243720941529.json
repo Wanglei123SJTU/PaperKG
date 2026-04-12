@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper introduces a Bayesian MCMC estimator that corrects the initial conditions problem by sampling initial loyalty states as auxiliary variables under an equilibrium assumption for prices and choices.",
+    "The paper quantifies the direction and magnitude of bias from two common initial-condition shortcuts using extensive Monte Carlo evidence and two shopping-panel case studies.",
+    "The paper proposes a computationally light diagnostic that uses the two biased estimators as lower and upper bounds for state dependence, including a preliminary test for whether correction is needed."
+  ],
+  "context": "The substantive setting is household brand choice for mature consumer packaged goods, especially margarine purchases. Evidence comes from U.S. scanner and panel datasets (Denver Scantrack and Nielsen-Kilts Homescan/RMS).",
+  "design_and_data": "Using a first-order Markov multinomial logit demand model with random coefficients, the authors compare four estimators: two naive initial-condition treatments and two corrected Bayesian MCMC estimators that sample initial states as auxiliary variables (with i.i.d. or Markov prices). They run repeated Monte Carlo experiments calibrated to margarine demand parameters from Nielsen data, varying panel size and purchases per household (including N up to 2,000 and T_purch from 5 to 100). They then apply the same estimators to two real margarine panels: Denver Scantrack (429 households, about 2.5 years) and Nielsen-Kilts Homescan/RMS 2006-2011 (1,829 households, mean 12.66 purchases).",
+  "focal_constructs": [
+    "state dependence in brand choice",
+    "initial conditions bias",
+    "brand loyalty parameter",
+    "unobserved taste heterogeneity",
+    "Bayesian MCMC auxiliary-state sampling",
+    "Markov price dynamics",
+    "stationary distribution of initial states"
+  ],
+  "main_findings": [
+    "Ignoring initial conditions produces systematic bias: setting initial loyalty to zero attenuates estimated state dependence, while treating the first observed state as exogenous inflates it.",
+    "In simulations and empirical margarine panels, the bias in the state-dependence parameter can be large (about a factor of 2-2.5) and can persist even in panels longer than those commonly used in CPG studies.",
+    "The proposed auxiliary-state MCMC correction recovers true parameters in Monte Carlo designs and yields empirical estimates between the two naive bounds; when true state dependence is zero, the naive bounds coincide at zero."
+  ],
+  "one_line_summary": "The paper shows that common initial-state assumptions can severely bias state-dependent brand choice estimates and proposes a Bayesian MCMC correction that samples initial states under stationarity, validated with Monte Carlo experiments and two margarine panel applications.",
+  "relation_to_prior_work": "extends Heckman (1981a) style initial-conditions analysis to multinomial state-dependent brand choice with rich random-coefficient heterogeneity and potentially Markovian prices, contrasting with prior marketing implementations that assumed exogenous or zero initial states.",
+  "research_gap": "Prior empirical brand choice studies typically use computationally simple initial-condition assumptions (exogenous first state or zero initial loyalty) instead of modeling how initial states depend on unobserved tastes. The paper argues that it was unclear whether realistic panel lengths in CPG data are long enough for this small-sample bias to disappear.",
+  "research_question": "How large is the bias in estimated brand state dependence when initial loyalty states are misspecified as exogenous or set to zero in finite purchase panels? Can a Bayesian estimator that draws initial states from the stationary distribution of the joint price-choice process recover the true state-dependence parameters and provide a practical diagnostic for applied work?"
+}

@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "In the citing paper, the cited study is used beyond a background list and is directly referenced in the modeling section. The authors state that their log-log sales specification is similar to Van Heerde, Mela, and Manchanda (2004), and they cite it when motivating the dynamic linear model approach versus alternatives such as VAR. This gives the cited paper a clear methodological role in framing and supporting the empirical design.",
+  "relation_description": "The citing paper treats the cited paper as a methodological foundation for using dynamic linear models with time-varying sales parameters. It builds its broader, multi-category system on that prior DLM precedent while adapting it to a larger marketing-mix setting.",
+  "relation_type": "foundational_for"
+}

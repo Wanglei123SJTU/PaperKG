@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Nair, Manchanda, and Bhatia (2010) as part of its peer-effects identification toolkit, not just as generic background. In the peer-effects review and again in the identification section, it explicitly points to Nair et al. as a precedent for incorporating individual-specific unobserved preferences to address homophily and separate influence from selection. This methodological role is tied to how the citing model is specified and interpreted, even though the physician opinion-leader context itself is not central to the new paper.",
+  "relation_description": "The citing paper applies a methodological idea associated with Nair et al. (2010): modeling individual-level unobserved propensities to improve identification of peer effects under homophily concerns. It transfers this identification logic to an evolving online social-network setting.",
+  "relation_type": "applies"
+}

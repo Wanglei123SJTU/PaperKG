@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Documents a robust discrepancy in Shanghai housing between developers' intended sales pattern (flat or bad-faster-than-good) and realized sales outcomes (good floors selling faster).",
+    "Explains this discrepancy using the prominence principle: developers set prices in a matching mode, while buyers purchase in a choice mode, leading developers to underweight floor desirability relative to buyers.",
+    "Connects a well-known choice-matching preference reversal from judgment and decision research to high-stakes, real marketplace outcomes and shows implications beyond real estate."
+  ],
+  "context": "The paper studies new apartment sales in Shanghai's rapidly growing residential real estate market, focusing on how units on different floors are priced and sold. The empirical setting includes mid-rise and high-rise developments in major Shanghai residential areas.",
+  "design_and_data": "Study 1 interviewed 47 Shanghai real estate professionals involved in pricing to elicit desired sales patterns and pricing practices. Study 2 analyzed three Shanghai field data sets (reported observations: 47, 148, and 510 for pricing analyses; 475 used in one duration analysis), estimated hedonic price regressions, surveyed 84 potential buyers to define bad floors and floor-versus-price importance, and used Poisson models of market-clearing duration with controls including price and unit characteristics. Study 3 ran a controlled pricing-versus-choice experiment with 140 potential buyers using two hypothetical units (1st vs 8th floor). Study 4 used 47 professional price setters to price a 10-floor hypothetical building and 43 potential buyers to rank choices using those prices.",
+  "focal_constructs": [
+    "prominence effect",
+    "choice versus matching",
+    "preference reversal",
+    "apartment floor desirability",
+    "price setting",
+    "market-clearing duration",
+    "consumer willingness to pay"
+  ],
+  "main_findings": [
+    "In interviews, 89% of professional respondents preferred a flat or bad-faster-than-good sales pattern, meaning bad units should sell at least as fast as good units.",
+    "Across three Shanghai field data sets, units on consumer-defined bad floors took significantly longer to sell than units on good floors, and this bad-floor effect remained significant after controlling for observed characteristics and price in Poisson regressions.",
+    "Controlled experiments replicated a pricing-choice reversal: compared with inferred preferences from pricing tasks, choosers weighted floor more heavily and disproportionately selected good-floor units (for example, 85.1% vs 30.3% and 78.4% vs 33.3% in Study 3; 97.7% vs 36.2% top-rank good floor in Study 4)."
+  ],
+  "one_line_summary": "Using Shanghai apartment interviews, field data, and experiments, the paper shows that matching-based pricing underweights floor quality relative to buyer choice, producing faster sales of better-floor units than developers intend.",
+  "relation_to_prior_work": "introduces a real-market application of the choice-matching prominence effect, which prior work had mainly demonstrated in hypothetical or low-stakes judgment tasks. It shows that the same preference-reversal mechanism helps explain observed sales patterns in a major housing market.",
+  "research_gap": "Prior preference-reversal and prominence-effect research was largely based on hypothetical scenarios or low-stakes outcomes, leaving limited evidence of real marketplace consequences. The paper addresses this by examining whether such effects explain an observed mismatch between intended and actual apartment sales patterns in Shanghai.",
+  "research_question": "Why do Shanghai developers who aim for flat or bad-faster-than-good sales patterns still observe better-floor apartments selling faster? Can this discrepancy be explained by a choice-matching prominence effect, where developers set relative prices in matching mode but buyers choose in choice mode and put greater weight on floor desirability?"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s note frames its contribution around a new distributed MCMC algorithm and benchmarks against distributed-computation papers (e.g., Scott et al. 2016; Neiswanger et al. 2014), while the cited paper is a substantive gift-choice/price-signaling application study rather than a scalable MCMC or computing-method source. With only a bare DOI match in the reference list and no evidence of direct methodological use, this looks like a likely background/example citation.",
+  "triage_decision": "drop_obvious_mention_only"
+}

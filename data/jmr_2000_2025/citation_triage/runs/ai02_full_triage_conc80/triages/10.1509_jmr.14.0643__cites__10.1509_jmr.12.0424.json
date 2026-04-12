@@ -1,0 +1,4 @@
+{
+  "rationale": "The cited paper models sentiment and venue-format choice to infer latent brand impression, whereas the citing paper’s core contribution is a dyadic hazard model of network-overlap effects on rebroadcasting (common followers/followees/mutuals) in Twitter/Digg. Based on the notes, there is no sign the citing study uses the cited paper’s model, measures, or benchmark directly; the overlap appears to be broad social-media context only. With only a single DOI match and no substantive matched context, this looks like an incidental background citation.",
+  "triage_decision": "drop_obvious_mention_only"
+}

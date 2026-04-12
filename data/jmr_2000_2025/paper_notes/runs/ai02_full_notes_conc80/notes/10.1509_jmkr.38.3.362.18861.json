@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides a quantitative meta-analysis of empirical new product performance research, synthesizing correlations across studies to estimate average predictor-performance effects.",
+    "Develops and applies a four-part taxonomy of antecedents to new product performance: product, strategy, process, and marketplace characteristics.",
+    "Shows that variation in reported effects is partly explained by measurement choices and research context factors, not only by substantive predictors."
+  ],
+  "context": "The paper studies new product success across goods and services in business markets covered by prior empirical studies, including comparisons across Asia versus North America and high- versus low-technology market settings. The evidence base is cross-study rather than a single firm or industry dataset.",
+  "design_and_data": "The authors identified 60 empirical studies on antecedents of new product performance (search concluded January 1999) and obtained usable correlational data for 41 studies (35 published, 6 unpublished). They coded 798 model-level correlations, and retained 666 correlations for analysis of 24 predictors with at least 10 observations each. Using Hunter-Schmidt meta-analytic corrections, they estimated central tendencies corrected for sampling and reliability artifacts, then ran predictor-specific dummy-variable ANOVAs to test measurement and context moderators. They also estimated a multivariate regression from an assembled corrected correlation matrix for a subset of predictors.",
+  "focal_constructs": [
+    "new product performance",
+    "product advantage",
+    "market potential",
+    "product meets customer needs",
+    "predevelopment task proficiency",
+    "dedicated human and R&D resources",
+    "measurement method moderators",
+    "research context moderators"
+  ],
+  "main_findings": [
+    "Several predictors show strong average positive relationships with new product performance, with especially large effects for market potential, product advantage, meeting customer needs, predevelopment and marketing task proficiency, and dedicated resources.",
+    "Not all commonly discussed predictors generalize across models; the meta-analysis reports nonsignificant generalizable effects for factors such as product innovativeness, market orientation, customer input, cross-functional integration/communication, and competitive response intensity.",
+    "Predictor-performance effect sizes vary with study design and context, including differences by performance measure type, respondent level, time since launch, services versus goods, Asia versus North America, and high- versus low-technology markets."
+  ],
+  "one_line_summary": "This study meta-analyzes empirical new product research to identify which antecedents most strongly predict success and when those effects change across measurement and market contexts.",
+  "relation_to_prior_work": "extends prior new product performance syntheses by aggregating a larger post-1994 evidence base and estimating corrected effects for 24 frequently studied predictors while testing moderator conditions.",
+  "research_gap": "Prior studies on new product performance reported widely differing directions, significance levels, and magnitudes for the same predictors, making it difficult to derive clear guidance. The paper addresses this lack of integrated, quantitative evidence on which determinants are reliably important and when effects differ.",
+  "research_question": "Which antecedents have robust, generalizable relationships with new product performance across the empirical literature? How large are these effects on average, and to what extent are differences in reported effects explained by measurement choices and research context?"
+}

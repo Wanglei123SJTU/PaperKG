@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper introduces and defines opportunity cost overestimation: when consumers who miss a chosen option feel they lost all mutually exclusive options, not just the chosen one.",
+    "It distinguishes internal versus external choice constraints and argues that this distinction changes perceived mutability of trade-offs and downstream loss assessments.",
+    "It provides convergent evidence across multiple studies, including a consequential incentive-compatible study, that counterfactual thinking and adaptation to the imagined joint outcome underlie the effect."
+  ],
+  "context": "The paper studies consumer decisions about using selected offers or opportunities in marketplace-like settings where people often must choose among desirable options. The key contextual contrast is between choices imposed by external resource constraints (e.g., time or budget conflicts) and choices built into an offer structure (internal constraints).",
+  "design_and_data": "The authors report five studies (plus a pilot), using experiments with manipulated constraint type (external vs internal) across scenarios such as camera-lens prizes, calendar scheduling, Valentine's events, leisure activities, and interview invitations. Samples include Amazon Mechanical Turk workers, online panel participants, and U.S. university students (e.g., Study 1a N=240; Study 3 N=512; Study 4 N=463). Dependent measures include perceived loss scales and behavioral or intention proxies such as forfeiture/scheduling choices, willingness to endure inconvenience (bus ride or fever), effort to retain eligibility, and delayed click-through behavior. Study 4 is consequential/incentive-compatible and includes a time-delayed behavioral follow-through measure via email link opening.",
+  "focal_constructs": [
+    "opportunity cost overestimation",
+    "external choice constraints",
+    "internal choice constraints",
+    "counterfactual thinking",
+    "perceived loss from forfeiture",
+    "joint desirability of options",
+    "follow-through versus forfeiture"
+  ],
+  "main_findings": [
+    "Across studies, failing to use a chosen option generated higher perceived opportunity cost/loss when the choice had been imposed by an external rather than internal constraint.",
+    "The external-constraint effect appeared when jointly using all options was attractive, and attenuated or disappeared when joint use was unattractive (e.g., low variety or low joint desirability).",
+    "Process evidence indicated more thoughts about using all options under external constraints, and mediation analyses supported that heightened perceived loss helped drive greater follow-through, including in consequential delayed behavior."
+  ],
+  "one_line_summary": "The paper shows that when a choice is forced by external resource constraints rather than built-in menu constraints, consumers can overestimate the loss of missing their chosen option by feeling they also lose the unchosen alternatives.",
+  "relation_to_prior_work": "extends prior opportunity-cost research that has emphasized neglect or underweighting by identifying conditions in which opportunity costs are overestimated instead. It also extends decision-making work centered on internally structured choice sets by analyzing choices imposed by external feasibility constraints and showing different psychological consequences.",
+  "research_gap": "Prior research largely examined opportunity cost neglect/underweighting and choices with internal, built-in trade-offs, while largely omitting equivalent choices imposed by external constraints. The paper addresses whether and why this omission matters for how people perceive the loss from not following through on a chosen offer.",
+  "research_question": "Do consumers assess the opportunity cost of missing a chosen option differently when the need to choose comes from an external resource constraint versus an internal built-in choice structure? Specifically, does an external constraint trigger counterfactual thinking about using all options and thereby inflate perceived loss from forfeiture?"
+}

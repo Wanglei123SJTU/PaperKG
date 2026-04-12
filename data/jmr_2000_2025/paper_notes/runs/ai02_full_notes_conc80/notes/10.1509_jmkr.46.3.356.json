@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Provides the first empirical test of marketing theory on optimal sales contest prize structures, focusing on the incremental effects of multiple winners and rank-ordered prizes.",
+    "Uses a combined methodology of laboratory and field economic experiments to create causal tests of contest design, including one of the first field economic experiment applications in marketing.",
+    "Shows that optimal contest design is simpler in practice than prevailing theory suggests, because managers can focus on choosing the number of winners rather than fine-tuning rank-specific prize spreads."
+  ],
+  "context": "The paper examines short-term sales contests used to motivate sales forces. Beyond laboratory tests, it studies trained university fund-raising salespeople selling golf-tournament sponsorships and educational-program support to companies.",
+  "design_and_data": "The authors run two laboratory economic experiments and two field economic experiments comparing single-winner (1W), grouped-winners with equal prizes (GW), and ranked-winners with unique rank-ordered prizes (RW). In Laboratory Experiment 1, 72 participants were randomly assigned to 1W, GW, or RW in 15 rounds with random rematching in groups of 8; Laboratory Experiment 2 used 48 participants in a within-subject GW versus RW design over 30 rounds with counterbalanced order. Contest prize distributions for GW and RW were set to theoretical optima using measured aggregate risk aversion from Holt-Laury lottery tasks. In the field, 60 trained salespeople were randomly assigned into contest groups of 15 in two six-week experiments: Experiment 1 compared 1W versus GW for golf sponsorship sales, and Experiment 2 compared GW versus RW for university fund-raising sales.",
+  "focal_constructs": [
+    "sales contests",
+    "prize structure",
+    "number of prizewinners",
+    "unique rank-ordered prizes",
+    "grouped-winners contests",
+    "sales effort",
+    "sales revenues",
+    "risk aversion"
+  ],
+  "main_findings": [
+    "Contests with multiple prizewinners produced higher effort than single-winner contests in the laboratory experiments.",
+    "In the field experiments, grouped-winners contests generated higher average sales than single-winner contests.",
+    "Introducing unique rank-ordered prizes did not significantly improve effort or sales relative to grouped-winners contests with equal prizes."
+  ],
+  "one_line_summary": "Across lab and field economic experiments, multiple-winner sales contests outperformed single-winner contests, but unique rank-ordered prize spreads did not add performance gains over equal prizes for multiple winners.",
+  "relation_to_prior_work": "challenges the prevailing marketing theory from Kalra and Shi (2001) by showing only partial empirical support for its optimal prize-structure prediction. The results support the prediction that having more than one winner improves performance, but do not support the predicted incremental benefit of unique rank-ordered prizes.",
+  "research_gap": "Prior marketing theory predicted an optimal ranked-winners structure with multiple winners and unique rank-ordered prizes, but these predictions had not been empirically validated. The authors argue that typical observational data cannot deliver a valid causal test because they rarely provide exogenous prize variation, random assignment, fixed contest size, and theoretically optimal prize distributions.",
+  "research_question": "Does the prize structure of a sales contest causally affect sales effort and revenue? Specifically, do the two theoretically prescribed design features - multiple prizewinners and unique rank-ordered prizes - each generate incremental performance improvements?"
+}

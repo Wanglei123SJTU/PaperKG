@@ -1,0 +1,4 @@
+{
+  "rationale": "The citation is likely substantive because both papers center on Bayesian modeling of heterogeneous variable selection: the citing paper develops constrained finite-mixture regression with segment-level variable selection, while the cited paper introduces hierarchical Bayesian heterogeneous/pooled/hybrid/threshold variable selection models with MCMC. Given this strong methodological overlap (also reflected in the titles and focal constructs), this does not look like a clearly incidental mention and should be reviewed in full.",
+  "triage_decision": "keep_for_relation_judgment"
+}

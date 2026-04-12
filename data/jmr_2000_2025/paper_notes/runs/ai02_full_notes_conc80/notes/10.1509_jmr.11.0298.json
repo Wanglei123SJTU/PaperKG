@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces a novel framing effect: nonfirst information can be made to seem like a first (a phantom first) and then gains disproportionate influence.",
+    "Shows that what people treat as a first impression is subjective and malleable, including when first status comes from arbitrary or unrelated boundaries.",
+    "Provides process evidence that phantom-first effects are driven largely by greater perceived importance and weighting, not consistently by greater attention or memory."
+  ],
+  "context": "The paper studies sequential consumer judgments in service-like settings such as vacation weather forecasts, online hotel reviews, dentist visits, and coffee-shop experiences. In these contexts, one item in a sequence is reframed as a first using personal, calendar, or event boundaries.",
+  "design_and_data": "The evidence is six scenario-based experiments with undergraduate and MTurk participants. Experiment 1 (N=83) and Experiment 2 (N=222, plus a replication N=40) test weather and hotel-review sequences where the same negative item is or is not framed as first. Experiment 3 (N=437) uses a 2x2 design crossing event valence and first framing in dentist-visit sequences, and Experiment 4 (N=288) manipulates first framing and sequence position in coffee-shop experiences with added recall tests. Experiment 5 (N=45) uses direct within-subject comparisons of two framings of identical weather information, and Experiment 6 (N=448) uses between-subject importance rankings and recall in the hotel-review paradigm.",
+  "focal_constructs": [
+    "phantom firsts",
+    "first-impression framing",
+    "primacy effects",
+    "consumer judgment",
+    "impression formation",
+    "information weighting",
+    "attention versus memory"
+  ],
+  "main_findings": [
+    "Across studies, identical information had stronger effects on forecasts and evaluations when framed as a first than when not framed as a first.",
+    "Both negative and positive events showed amplification under first framing, and the effect appeared with personally relevant and arbitrary boundaries, including when the framed item was not last in sequence.",
+    "Process tests showed that first-framed items were judged as more influential/important, while recall differences were weak or absent, supporting a weighting-based account over an attention-based account."
+  ],
+  "one_line_summary": "Across six experiments, the authors show that framing a nonfirst event as a first increases its impact on judgments mainly because people weight it as more important.",
+  "relation_to_prior_work": "introduces a framing effect that changes perceived firstness without changing objective order, thereby extending primacy and impression-formation work beyond true first encounters. It refines primacy explanations by showing pseudoprimacy can emerge from perceived importance weighting even when evidence for attention differences is limited.",
+  "research_gap": "Prior primacy studies typically manipulate actual order, and prior framing studies on arbitrary boundaries do not directly test whether unchanged nonfirst information can be made to function like a first impression. The paper addresses this missing test and examines whether any effect is due to attention or weighting.",
+  "research_question": "Can information that is not objectively first be framed to seem first and thereby exert disproportionate influence on subsequent judgments? If such phantom-first effects occur, are they driven by increased attention to the framed item or by greater weighting of that item in judgment?"
+}

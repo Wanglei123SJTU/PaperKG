@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Introduces and demonstrates certainty decay in consumer communication: certainty or uncertainty attached to a belief is more likely to be lost than the belief itself as messages spread.",
+    "Provides an interpersonal test of metacognitive theorizing by distinguishing primary beliefs from secondary certainty tags and showing asymmetric transmission of those two information types.",
+    "Identifies practical interventions to improve certainty transmission and rumor control, including increasing certainty salience and prompting consumers to question how certain they are."
+  ],
+  "context": "The paper studies consumer-to-consumer word-of-mouth communication about marketplace offerings, including a negative restaurant rumor, hotel evaluations, and toothpaste reviews. It focuses on rumor and WOM spread in settings relevant to both offline interpersonal communication and online review environments.",
+  "design_and_data": "The evidence includes four laboratory experiments plus a descriptive coding check of 256 online consumer reviews. Experiments 1 and 2 used four-person communication chains to track message changes across positions (Exp 1: oral restaurant rumor, uncertainty vs control, n = 142; Exp 2: written hotel messages, 2 x 2 valence by certainty, n = 160). Experiment 3 used a sender-receiver design (n = 112) manipulating sender certainty via source expertise and receiver certainty salience via presence or absence of a numeric certainty score. Experiment 4 used a 2 x 3 between-subject design (n = 60) comparing denial, reassociation, and questioning strategies after a rumor, with coded message content, willingness to transmit, and behavioral intentions as outcomes.",
+  "focal_constructs": [
+    "belief certainty",
+    "uncertainty",
+    "word-of-mouth communication",
+    "rumor transmission",
+    "metacognition",
+    "certainty salience",
+    "behavioral intentions"
+  ],
+  "main_findings": [
+    "Across communication chains, core belief content and valence were transmitted relatively well, but certainty information decayed across positions.",
+    "This decay occurred for both initially uncertain and initially certain messages, contradicting an account that only uncertainty is strategically dropped.",
+    "Making certainty more salient improved its reception and transmission consequences: numeric certainty summaries increased receivers' use of certainty information, and a questioning strategy reduced rumor transmission and improved downstream behavioral intentions relative to denial (and outperformed reassociation on willingness to transmit)."
+  ],
+  "one_line_summary": "Across four experiments, the study shows that consumers transmit beliefs more reliably than the certainty attached to those beliefs, causing certainty or uncertainty to decay over communication and shaping rumor impact and WOM effectiveness.",
+  "relation_to_prior_work": "extends prior rumor and WOM research by showing that metacognitive certainty and primary belief content follow different transmission dynamics, and it applies the metacognitive model to interpersonal consumer communication.",
+  "research_gap": "Prior work on WOM and rumors had limited evidence on psychological mechanisms of transmission and had not directly examined how certainty versus belief content diffuses across people. Most certainty research had focused on intrapersonal effects rather than interpersonal communication.",
+  "research_question": "How does belief certainty or uncertainty travel as consumer messages pass from person to person, relative to the underlying belief itself? Can certainty information decay faster than belief content, and can interventions that increase certainty salience improve communication and rumor management outcomes?"
+}

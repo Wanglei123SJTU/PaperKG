@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "Toubia et al. is not just a passing reference; it is used in the core framing of the feature-construction gap for digital media products and is discussed in a dedicated comparative footnote. The citing paper explicitly contrasts its contribution with Toubia et al. by highlighting different data modality (video vs. text), methods (computer vision/ML vs. NLP topic modeling), and market context (instructional videos vs. entertainment). This shows a meaningful conceptual positioning role even without direct reuse of guided LDA.",
+  "relation_description": "The citing paper builds on the general line of work represented by Toubia et al. (2019) on extracting content features for media-consumption prediction. It extends that idea to automated video feature extraction and prediction of online courseware consumption in a different domain.",
+  "relation_type": "extends"
+}

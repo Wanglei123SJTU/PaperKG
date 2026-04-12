@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper formalizes analytical relationships between parameters from aggregate attribute-level share models and the underlying SKU-level model, enabling recovery of SKU fixed effects without direct estimation of the full SKU system.",
+    "It shows how SKU-level marketing-mix response parameters can be recovered from transformed shares using mean-centered covariates and a second-stage regression.",
+    "It demonstrates practical use for elasticity analysis and forecasting, including predictions for new SKU introductions, while using parsimonious models with store-level data."
+  ],
+  "context": "The empirical application is the toothpaste category in a large Chicago supermarket from the Stanford Market Basket Database. The category has 10 brands and 168 unique toothpaste SKUs (about 95 on shelf on average), with substantial SKU entry, deletion, and stock-outs over time.",
+  "design_and_data": "The paper develops algebraic mappings between a disaggregate SKU-level conditional logit market share model and models estimated on attribute-level aggregates (brand, flavor, form, function, size). It estimates attribute-level OLS equations on log(level share)-log(outside share) with mean-centered price, feature, and display, then recovers SKU intercepts by closed-form calculation and SKU covariate effects via a second-stage regression. The toothpaste data cover 104 weeks (June 1991 to May 1993); after cleaning 246 candidate tooth-cleanser items, the analysis uses 168 toothpaste SKUs, with reported main estimations over 98 weeks. The authors also use simulation checks and holdout exercises, including forecasts for eight newly introduced SKUs.",
+  "focal_constructs": [
+    "SKU-level fixed effects",
+    "attribute-level market share models",
+    "marketing-mix response sensitivities",
+    "mean-centered covariates",
+    "outside good share formulation",
+    "price elasticities",
+    "new SKU forecasting"
+  ],
+  "main_findings": [
+    "Recovered SKU fixed effects from the attribute-level model were essentially identical to directly estimated SKU-model intercepts (mean squared difference about 0.000144; correlation 0.99991).",
+    "With appropriately mean-centered covariates, SKU-level price, feature, and display response parameters were recovered exactly via the second-stage regression.",
+    "In holdout tests for newly introduced SKUs, the attribute-level recovery approach produced slightly better out-of-sample share forecasts than the pure characteristics benchmark and recovered new-SKU price elasticities with reasonable accuracy."
+  ],
+  "one_line_summary": "The paper derives and validates formulas that recover SKU-level fixed effects and marketing-mix sensitivities from parsimonious attribute-level market share models, using toothpaste store data.",
+  "relation_to_prior_work": "extends attribute-based SKU choice ideas from Fader and Hardie (1996) and Ho and Chong (2003) to store-level market share modeling by deriving explicit parameter mappings between aggregate and disaggregate models. It bridges these disaggregate choice insights with the managerial preference for store-level share data discussed by Bucklin and Gupta (1999).",
+  "research_gap": "Prior work on attribute-based SKU modeling largely used household panel data, while managers and retailers often rely on store-level market share data. The paper argues that the analytical link between parsimonious aggregate attribute-level share models and true SKU-level fixed effects and covariate responses had not been formally established in this setting.",
+  "research_question": "Can true SKU-level preference fixed effects and response sensitivities be recovered analytically from market share models estimated on higher-level item aggregates (such as brands) rather than by directly estimating a large SKU-level system? Under what conditions, including mean-centered covariates and availability of SKU-level shares and marketing-mix data, does this recovery work in practice?"
+}

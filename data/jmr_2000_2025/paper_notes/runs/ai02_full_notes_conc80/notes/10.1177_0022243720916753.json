@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper documents a previously untested effect of gift presentation format (voucher vs direct gift) within conditional promotions.",
+    "It proposes and tests a mechanism in which vouchers act as intermediaries that decouple purchase and reward, reducing activation of promotion-value comparison.",
+    "It identifies a boundary condition with practical relevance: making gift value salient attenuates the voucher-format effect."
+  ],
+  "context": "The setting is consumer conditional promotions in which buying a focal product yields either a free gift directly or a voucher redeemable for that gift. Evidence spans hypothetical purchase scenarios, actual lab product acquisition, and a field campaign in a pastry shop using WeChat order-then-pickup customers.",
+  "design_and_data": "After a pretest to classify gifts as high versus low value relative to expectations, the authors run six experiments. Experiments 1a and 1b (digital camera; MTurk n=990 and undergraduates n=161) and Experiment 2 (lab effort-for-product acquisition; n=141) use 2 x 2 designs crossing promotion value and promotion format (voucher vs direct gift). Experiment 3 is a field experiment at a pastry shop: 2,020 targeted WeChat followers were randomized across four conditions, 2,017 followers served as no-message controls, and outcomes were purchase rate and cakes sold. Experiments 4 (n=639) and 5 (MTurk n=1,024) test mechanism and boundary conditions by varying question sequence (gift-price estimate before vs after purchase intention) and gift-price disclosure (present vs absent, with a no-promotion control in Experiment 5).",
+  "focal_constructs": [
+    "conditional promotion format",
+    "gift vouchers",
+    "direct gifts",
+    "promotion value",
+    "purchase intention",
+    "comparison tendency",
+    "salience of gift value"
+  ],
+  "main_findings": [
+    "Compared with direct gifts, vouchers reduced purchase intention and purchase behavior in high-value promotions but increased them in low-value promotions, including in the field study.",
+    "Vouchers reduced consumers' tendency to compare gift value with focal-product price, and this comparison tendency mediated the effect of format on purchase intention in the purchase-intention-first condition.",
+    "When gift value was made salient (estimating gift price before choice or explicitly disclosing gift price), the voucher versus direct-gift effect was attenuated or eliminated."
+  ],
+  "one_line_summary": "Across six experiments, the study shows that using a voucher instead of a direct gift in conditional promotions dampens consumers' sensitivity to promotion value, lowering purchase for high-value gifts and raising it for low-value gifts unless gift value is made salient.",
+  "relation_to_prior_work": "extends prior conditional-promotion research by isolating the voucher-versus-direct-gift format choice, whereas earlier work mainly contrasted gifts with discounts or no promotion. It also connects intermediary and transaction-decoupling theories to promotion response by showing that vouchers reduce comparison between gift value and focal-product price.",
+  "research_gap": "The authors state that, despite the marketplace prevalence of vouchers in conditional promotions, prior marketing research had not examined how voucher-based gift promotions differ from direct-gift promotions. Existing studies mostly compared gift promotions with no promotion or with price discounts.",
+  "research_question": "Does presenting a free gift as a voucher rather than as a direct gift change consumers' likelihood of purchasing the focal product in conditional promotions, even when the two are normatively equivalent? The paper also asks whether any effect is driven by reduced comparison of gift value versus focal-product value, and whether increasing gift-value salience limits the effect."
+}

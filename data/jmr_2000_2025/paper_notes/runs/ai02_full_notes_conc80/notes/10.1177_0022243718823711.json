@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper claims to be the first to model emerging-market manufacturer competition jointly in retail distribution and price, using a granular distribution-intensity measure.",
+    "It models competitive interactions simultaneously at brand, product-form, and retail-channel levels in a multichannel, multiproduct setting.",
+    "It offers a structural approach for managers to adjust distribution and pricing decisions as market conditions change, illustrated with policy counterfactuals."
+  ],
+  "context": "The empirical setting is the Indian insecticide market, an emerging market with underdeveloped distribution infrastructure and low retail penetration. The study focuses on two leading manufacturers, two product forms (solid and liquid), and two physical retail channels (paan-plus and general stores).",
+  "design_and_data": "The authors use 48 months of monthly national-level data, including manufacturer shipment sales (units) by brand-product form-channel, product-form prices, and store counts by product form and channel. They construct a weighted distribution measure using expected population served per store in each channel. Estimation follows a two-step structural approach: first, a nested logit aggregate demand model with random coefficients, weather controls, and control-function corrections for price and distribution endogeneity, plus a potential market-size model based on macro variables. Second, a supply-side Bertrand model jointly over price and distribution is used to recover production and distribution costs; robustness checks compare price-only and tacit-collusion variants, and counterfactual simulations analyze lower distribution costs and exclusive distribution.",
+  "focal_constructs": [
+    "manufacturer competition",
+    "retail distribution intensity",
+    "price competition",
+    "multichannel distribution",
+    "multiproduct-form competition",
+    "consumer preferences",
+    "production and distribution costs",
+    "exclusive distribution"
+  ],
+  "main_findings": [
+    "Consumers on average prefer Firm 1 over Firm 2, solid over liquid form, and paan-plus over general stores; distribution increases demand directly and also raises price sensitivity.",
+    "Estimated production and distribution costs vary across firms, product forms, and channels (and to a lesser extent over time), and ignoring distribution can overestimate inferred profit margins by about 7% to 55%.",
+    "Observed pricing and distribution patterns are more consistent with competition than tacit collusion; lower distribution costs mainly shift distribution levels (with asymmetric channel reallocation) and increase consumer and firm welfare, while Firm 1 exclusivity raises Firm 1 profit and prices but hurts Firm 2 and consumers."
+  ],
+  "one_line_summary": "The paper structurally estimates how two major insecticide firms in India compete in prices and retail distribution across product forms and channels, then uses counterfactuals to show how infrastructure and exclusivity changes reshape equilibrium decisions and welfare.",
+  "relation_to_prior_work": "extends multichannel distribution research by endogenizing manufacturer competition in both distribution and pricing rather than treating channel strategy without rival reaction. It also extends emerging-market marketing work by structurally modeling oligopolistic decisions at brand, product-form, and retail-channel levels.",
+  "research_gap": "The paper states that although price competition has been widely studied, no prior study has modeled emerging-market firms' competition in retail distribution. It also argues that empirical evidence on competitive pricing and distribution in emerging markets is limited, especially in multichannel and multiproduct-form settings.",
+  "research_question": "How do emerging-market manufacturers jointly choose prices and retail distribution levels across product forms and channels when competitors react? In the Indian insecticide market, what do observed data imply about demand preferences, firms' cost asymmetries, and equilibrium responses to lower distribution costs or exclusive distribution?"
+}

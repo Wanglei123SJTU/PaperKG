@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Shows that retailer forward buying can arise even without temporary price cuts, demand uncertainty, lead times, or ordering/setup costs.",
+    "Identifies conditions under which forward buying benefits both retailer and manufacturer, not only the retailer.",
+    "Characterizes how competition, trade-promotion contract terms, and demand uncertainty change forward-buying incentives and outcomes, including effects of banning forward buying."
+  ],
+  "context": "The paper studies manufacturer-retailer channels in packaged goods markets where manufacturers set wholesale terms over time and retailers can carry inventory across periods. It analyzes both bilateral monopoly and competitive channel structures at the manufacturer and retailer levels.",
+  "design_and_data": "This is a theoretical paper using game-theoretic, two-period channel models solved via subgame perfect Nash equilibrium. In the baseline, demand is deterministic and the model excludes common operational motives for inventory (no uncertainty, no lead times, no ordering costs), while the retailer chooses order quantity, retail price, and inventory and the manufacturer chooses wholesale prices. The authors analyze three structures: one manufacturer-one retailer, two manufacturers-one retailer, and one manufacturer-two retailers. Extensions add a merchandising-contingent trade promotion contract and a high/low demand uncertainty setting.",
+  "focal_constructs": [
+    "retailer forward buying",
+    "trade promotions",
+    "wholesale pricing",
+    "inventory holding costs",
+    "merchandising effort",
+    "manufacturer competition",
+    "retailer competition",
+    "demand uncertainty"
+  ],
+  "main_findings": [
+    "In the one manufacturer-one retailer case, forward buying occurs only when holding cost is below a cutoff, and manufacturer profit can either rise or fall with retailer forward buying depending on parameters.",
+    "With two competing manufacturers and one retailer, forward buying becomes more likely; with one manufacturer and two competing retailers, forward buying declines as retailer competition intensifies and can create a prisoner's-dilemma outcome where both retailers are worse off yet still forward buy.",
+    "Forward buying remains strategic with trade promotions and uncertainty: if manufacturers prohibit forward buying during promotion they must lower required merchandising effort and may adjust promotion depth, and under uncertain demand retailers can optimally order enough to carry inventory even in the high-demand state."
+  ],
+  "one_line_summary": "The paper develops dynamic game-theoretic channel models showing that retailer forward buying is a strategic intertemporal choice that can persist with or without trade promotions and can benefit or harm channel members depending on holding costs, competition, and demand uncertainty.",
+  "relation_to_prior_work": "extends prior channel and trade-promotion models by separating retailer ordering from selling in a dynamic framework where inventory links periods. It challenges the conventional belief that forward buying is mainly a by-product of trade promotions that hurts manufacturers, and goes beyond Anand, Anupindi, and Bassok (2008) by incorporating manufacturer and retailer competition, merchandising-contingent promotions, and demand uncertainty.",
+  "research_gap": "Prior work largely treated forward buying as a consequence of trade promotions or standard operations motives and often used static channel models where retailer orders equal sales. The paper addresses the unresolved role of strategic forward buying over time and its implications under different competitive structures, promotion rules, and demand uncertainty.",
+  "research_question": "When and why do retailers forward buy as a strategic choice in manufacturer-retailer channels, even without standard inventory motives? How does forward buying affect retailer and manufacturer pricing and profits under different channel competition structures? How do trade-promotion terms and demand uncertainty alter forward-buying behavior and outcomes?"
+}

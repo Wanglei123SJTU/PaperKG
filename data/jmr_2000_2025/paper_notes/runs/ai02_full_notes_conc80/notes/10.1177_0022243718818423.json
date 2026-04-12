@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper shifts the automation discussion from a supply-side labor focus to consumer demand, showing marketplace consequences of product automation in consumption settings.",
+    "It links technology responses to identity-based consumer behavior, complementing dark-side technology research and addressing calls to study how technology affects identity motives.",
+    "It advances identity theory by arguing and showing that internal attribution of consumption outcomes is critical when consumers perform identity-relevant skills, and it derives managerial guidance for targeting, innovation, and communication."
+  ],
+  "context": "The paper studies automated product features in consumer domains where activities can carry identity meaning, including driving, biking, baking, fishing, and cooking. Evidence comes from U.S. online samples (Prolific, MTurk) and Dutch university lab participants.",
+  "design_and_data": "The article reports six studies that combine correlational and experimental evidence across multiple product categories. Study 1 uses a two-phase U.S. Prolific survey, with driving identity measured months before a later measure of real car transmission ownership among eligible car owners; other studies use lab and online experiments with Dutch students and U.S. MTurk participants. Manipulations include identity salience, identity versus non-identity consumption motives, degree of skill required by the automated task, and skill-replacing versus skill-allowing framing. Analyses include logistic regression, ANOVA, and mediation/moderated mediation tests, with checks for alternatives such as expertise, perceived outcome quality, and enjoyment.",
+  "focal_constructs": [
+    "automation",
+    "identity-based consumption",
+    "strength of identification",
+    "internal attribution",
+    "self-signaling utility",
+    "task diagnosticity",
+    "consumption motives",
+    "skill-replacing versus skill-allowing framing"
+  ],
+  "main_findings": [
+    "Consumers who identify more strongly with an activity are less likely to choose automated features in identity-relevant consumption contexts.",
+    "This resistance is strongest when automation replaces nontrivial, identity-diagnostic skills and when consumption is identity-motivated, but it weakens when the automated task is less skill-diagnostic or the motive is non-identity convenience.",
+    "Desire for internal attribution of outcomes mediates resistance to automation, and framing automation as skill-allowing rather than skill-replacing reduces negative reactions among strong identifiers."
+  ],
+  "one_line_summary": "Across six studies, stronger identity with a consumption domain predicts resistance to automation when automation replaces identity-relevant skills and undermines internal attribution of outcomes.",
+  "relation_to_prior_work": "extends prior automation research focused on production and employment by examining consumer responses to automated product features, and refines identity-based consumption work by emphasizing attribution from performing identity-relevant actions rather than only product acquisition or display.",
+  "research_gap": "The paper argues that marketing has provided little research on consumer preferences for automated products despite widespread automation in the marketplace. It also identifies that identity-based consumption research has largely emphasized product choice/display and has not clearly addressed how automation can disrupt internal attribution from performing identity-relevant tasks.",
+  "research_question": "Do consumers who strongly identify with a social category resist automated product features in identity-relevant consumption domains, even when automation offers convenience? If so, is this resistance explained by reduced ability to internally attribute outcomes to one's own skills, and when does the effect weaken?"
+}

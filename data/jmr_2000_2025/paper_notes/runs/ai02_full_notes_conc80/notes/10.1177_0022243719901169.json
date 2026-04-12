@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper develops a competitive service-mix duopoly model in which for-profits maximize profits while nonprofits maximize a weighted sum of profits and output, and shows how this can generate higher nonprofit prices and profits.",
+    "It claims to be the first to jointly examine, in competitive hospital markets, how nonprofit status relates to PSMS breadth, output, price, and profits rather than focusing only on price or quality.",
+    "It combines analytical predictions with large-scale U.S. hospital evidence, including variation from state policies that restrict for-profit entry, and extends the analysis to advertising strategy."
+  ],
+  "context": "The study is set in U.S. private hospital markets, comparing nonprofit and for-profit hospitals across county-defined markets. The substantive focus is hospitals' mix of basic services versus premium specialty medical services such as neonatal intensive care, neurosurgery, trauma care, and oncology.",
+  "design_and_data": "The authors build a two-stage Cournot-Nash duopoly model where hospitals choose PSMS breadth first and then output of basic services and PSMS, with prices as inverse-demand outcomes. Empirically, they assemble an integrated 2016 U.S. hospital database with 2,438 hospitals (1,677 nonprofit and 761 for-profit) from 1,000 counties in 35 states, define markets at the county level, and estimate OLS models for PSMS breadth, output, prices, case mix, and profits with extensive controls and state fixed effects. They run duopoly-specific tests (160 duopoly markets) and broader market tests using a market differentiation measure (and report robustness with Herfindahl-based competition). They also analyze 2014 Kantar Media data for 190 private hospitals to compare national versus local advertising allocation.",
+  "focal_constructs": [
+    "nonprofit versus for-profit hospital objectives",
+    "service mix",
+    "premium specialty medical services (PSMS) breadth",
+    "basic service output",
+    "competitive intensity (hospital substitutability)",
+    "average hospital prices/payments",
+    "hospital profits",
+    "national versus local advertising"
+  ],
+  "main_findings": [
+    "Nonprofit hospitals invest more aggressively in PSMS, and in the data they show broader service mix, greater output, higher average prices, and higher profits than for-profit hospitals.",
+    "Hospitals of either ownership type perform better when competing with for-profits than when competing with nonprofits, and stronger competition increases nonprofit-for-profit gaps in PSMS breadth, output, prices, and profits.",
+    "Nonprofits allocate a larger share of advertising to national media than for-profits, consistent with nonprofits' broader PSMS mix requiring wider geographic demand."
+  ],
+  "one_line_summary": "The paper argues and shows with U.S. hospital data that nonprofit hospitals can become more profitable than for-profits by expanding premium specialty service mix, especially in more competitive markets.",
+  "relation_to_prior_work": "extends prior nonprofit pricing and hospital competition research by adding endogenous service-mix and PSMS investment decisions to explain why nonprofits can have higher prices and profits in hospitals. It challenges predictions from donation-oriented nonprofit pricing models that imply lower nonprofit prices, and provides a model-based explanation consistent with evidence that nonprofits offer more profitable services when for-profit presence is higher.",
+  "research_gap": "Existing nonprofit-versus-for-profit theories often imply lower nonprofit prices and generally do not incorporate hospitals' service-mix choices under competition. The paper states that prior work has not jointly analyzed how nonprofit status affects PSMS breadth, output, price, and profits in competitive hospital markets.",
+  "research_question": "Why do nonprofit hospitals in U.S. private hospital markets often exhibit higher average prices and profits than for-profit hospitals? How do differences in objectives and competition shape hospitals' choices of premium specialty medical services versus basic services, and thereby affect output, prices, profits, and advertising?"
+}

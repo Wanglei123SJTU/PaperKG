@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citing paper uses Bruce (2019) repeatedly in its core methodology sections to justify modeling latent factors with Dirichlet process mixtures and to motivate a Bayesian nonparametric treatment of non-Gaussian advertising cue data. It explicitly points readers to Bruce (2019) for details and intuition on the DP/DPM approach and again references it when describing estimation choices and reporting results. This is more than a passing literature-list mention: the cited work materially informs the paper's modeling framework and technical setup.",
+  "relation_description": "The citing paper relies on Bruce (2019) as methodological grounding for its Bayesian nonparametric component, especially the use of DP/DPM-based latent distributions. It incorporates that nonparametric idea into its own sparse Tobit factor plus ad-response modeling framework.",
+  "relation_type": "foundational_for"
+}

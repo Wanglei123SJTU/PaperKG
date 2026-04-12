@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "Profiles internal reference-price shoppers by estimating how gain and loss sensitivities are correlated with price, display, feature, use-experience, and sociodemographic effects.",
+    "Provides a joint within-category and cross-category analysis of gain and loss sensitivity across ketchup, peanut butter, and tuna.",
+    "Shows that latent-class segmentation is limited for profiling secondary drivers such as reference-price effects, and uses continuous correlated multivariate heterogeneity to obtain statistically testable relationships."
+  ],
+  "context": "The empirical setting is household brand-size choice in three frequently purchased packaged-goods categories: ketchup, peanut butter, and tuna. The study uses supermarket scanner-panel data with observed prices, displays, and newspaper features.",
+  "design_and_data": "The authors estimate a random-coefficients brand-choice model with utility components for brand preference, use experience, price, internal reference-price loss and gain, display, feature, and demographic interactions. Internal reference price is modeled as an item-specific weighted average of past prices and past reference price, and use experience is a weighted average of past purchases. Parameters are estimated by simulated maximum likelihood with multivariate normal heterogeneity, allowing within-category correlations among sensitivities and cross-category correlations for use experience, price, loss, gain, display, and feature. Data are ACNielsen scanner panels; estimation uses Chicago households (100 households/1722 purchases for ketchup, 79/1324 for peanut butter, 126/1835 for tuna) with Atlanta holdout samples for out-of-sample checks.",
+  "focal_constructs": [
+    "internal reference price",
+    "gain sensitivity",
+    "loss sensitivity",
+    "price sensitivity",
+    "use-experience sensitivity",
+    "display sensitivity",
+    "feature sensitivity",
+    "sociodemographic interactions"
+  ],
+  "main_findings": [
+    "Across the three categories, loss sensitivity is larger in magnitude and more heterogeneous than gain sensitivity, and gain effects are weak (not significant for tuna).",
+    "Loss- and gain-sensitive consumers are more price-, display-, and feature-sensitive than average consumers, and loss-sensitive consumers are less influenced by past brand use.",
+    "Loss sensitivity is positively correlated across categories, and loss-sensitive households tend to be larger and less likely to have a fully employed household head, whereas gain-sensitive households show no clear demographic profile."
+  ],
+  "one_line_summary": "Using scanner-panel data from three packaged-goods categories, the paper uses a continuous correlated heterogeneity model to profile internal reference-price shoppers and finds that loss sensitivity is stronger and more heterogeneous than gain sensitivity and is tied to higher price and promotion responsiveness.",
+  "relation_to_prior_work": "introduces a continuous, correlated random-coefficients profiling approach for reference-price shoppers and contrasts it with latent-class methods that do not yield statistically testable correlations among consumer sensitivities. It extends prior reference-price work by jointly estimating within-category and cross-category correlations in gain and loss sensitivity.",
+  "research_gap": "Prior reference-price studies established that reference prices matter, but they did not provide a statistically testable profile of who the reference-price shopper is. In particular, latent-class approaches and prior multi-category studies did not estimate correlations between reference-price sensitivity and other sensitivities or test cross-category correlation patterns in gain and loss sensitivity.",
+  "research_question": "Who are internal reference-price shoppers in brand choice, and how do consumers' sensitivities to gains and losses relative to internal reference prices relate to price, promotion, use experience, and sociodemographics? Do gain and loss sensitivities carry across product categories, indicating individual-level versus category-specific components?"
+}

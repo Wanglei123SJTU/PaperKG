@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper builds a dynamic state-space model with joint sales–advertising equations and explicit endogeneity treatment, while the cited paper is a prior multivariate dynamic linear (state-space) system that also models marketing dynamics with endogeneity and feedback controls. This strong methodological and topical overlap (long-term marketing/advertising effects at brand level) makes the citation plausibly foundational or method-sourcing rather than an incidental mention. With only one matched DOI reference and no in-text snippet, it is not safe to drop.",
+  "triage_decision": "keep_for_relation_judgment"
+}

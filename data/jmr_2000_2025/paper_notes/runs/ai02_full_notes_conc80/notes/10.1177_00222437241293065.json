@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper claims to be the first empirical demonstration that a company's price discount on a stigmatized-identity-linked product can function as a social identity threat cue for members of that stigmatized group.",
+    "It claims to identify perceived disrespect toward the social group as the key process linking such discounts to negative marketplace responses.",
+    "It claims to provide actionable promotion guidance by showing when the backfire attenuates (ingroup company, inclusion of nonstigmatized-identity-linked discounted items, and nonmonetary promotions)."
+  ],
+  "context": "The studies are set in contemporary U.S. consumer markets where firms sell products symbolically linked to social identities. Focal groups include U.S. residents of Asian descent, LGBT Americans, Latino Americans, and Black Americans, and products include water bottles, mugs, face masks, and Barbie dolls.",
+  "design_and_data": "The paper reports eight randomized between-subject online experiments using prescreened Prolific participants from focal social groups (and a White American comparison group in one study). Participants evaluated shopping scenarios or ads that manipulated whether an identity-linked product was discounted, plus moderators such as product type (identity-linked vs identity-neutral), company ingroup vs outgroup identity, composition of other discounted products, and promotion type (50% off vs BOGO vs free shipping). Dependent measures included company attitude, purchase intention, perceived disrespect toward the focal social group, and in one incentive-compatible study, choice of a lower-value competitor gift card over a higher-value focal-company gift card. Four studies were preregistered, and materials/data were made available on OSF.",
+  "focal_constructs": [
+    "stigmatized consumers",
+    "identity-linked products",
+    "price discounts",
+    "perceived disrespect",
+    "social identity threat cues",
+    "company attitudes",
+    "purchase intentions",
+    "sales promotion type"
+  ],
+  "main_findings": [
+    "When a company discounted a product linked to participants' stigmatized identity, stigmatized consumers showed less favorable company attitudes, lower purchase intentions, and greater competitor choice than in no-discount conditions.",
+    "Perceived disrespect toward the stigmatized social group mediated the negative effect of discounting on company responses.",
+    "The effect was specific to stigmatized consumers and stigmatized-identity-linked products, and it weakened or disappeared when the company was perceived as an ingroup member, when at least one nonstigmatized-identity-linked product was also discounted, or when nonmonetary promotions (BOGO or free shipping) were used instead of a price discount."
+  ],
+  "one_line_summary": "Across eight experiments, discounting products symbolically linked to stigmatized identities backfired among stigmatized consumers because the discount was interpreted as disrespect toward their social group.",
+  "relation_to_prior_work": "extends prior work on the social costs of promotions by shifting the source of negative inference from consumers' own coupon/targeted-discount use to a firm's act of discounting identity-linked products. It also extends marketplace respect research by identifying a price discount as a cue that can trigger perceptions of group-level disrespect among stigmatized consumers.",
+  "research_gap": "Prior price-promotion research mainly examines social costs from consumers redeeming promotions (e.g., appearing cheap, signaling unwanted identity), not from consumers interpreting why a firm offers the discount. The paper also identifies limited understanding of cues that make consumers infer disrespect toward their social group in marketplace settings, especially for stigmatized groups.",
+  "research_question": "Do price discounts on products symbolically linked to stigmatized identities backfire among members of those stigmatized groups? If so, is the effect driven by perceived disrespect toward their social group, and under what conditions does it strengthen or attenuate?"
+}

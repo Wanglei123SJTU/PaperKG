@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The citation is used for more than background listing: the paper explicitly uses Manchanda et al. (2006) as a prior empirical and modeling reference for individual-level online ad response. In the model-development section, the authors state their AdStock construction relies on prior treatments including Manchanda et al., and they discuss that paper's log(1+A) exposure formulation in detail. They then specify how their own approach changes key assumptions (cumulative carryover and publisher-specific effectiveness), showing a meaningful methodological role for the cited work.",
+  "relation_description": "The citing paper draws on Manchanda et al. (2006) as an antecedent for modeling individual-level banner exposure effects and exposure transformation. It refines that prior setup by extending from contemporaneous exposure summaries to a cumulative carryover AdStock with heterogeneous publisher weights in its weariness framework.",
+  "relation_type": "refines"
+}

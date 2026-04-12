@@ -1,0 +1,6 @@
+{
+  "citation_substance": "mention_only",
+  "rationale": "The cited paper appears in the brand-mapping section as a single background example for what brand positioning analyses are, not as a method the authors implement. The citing paper's actual mapping procedure is based on its own LDA outputs, Hellinger distances, and subsequent MDS steps, with no clear reuse of the 2008 clusterwise bilinear MDS model or estimation algorithm. Because the citation serves mainly as general literature context for segmentation/positioning work, its role is a passing mention rather than a substantive building block.",
+  "relation_description": null,
+  "relation_type": null
+}

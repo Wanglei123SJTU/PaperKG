@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "Provides a rare scientific field evaluation of a firm-implemented customer satisfaction quality program using parallel quasi-experiments in two countries.",
+    "Highlights implementation empowerment as a potentially critical driver of intervention scope, based on differences between tightly scripted U.S. execution and more autonomous Spanish execution.",
+    "Introduces and applies a residual satisfaction perspective and demonstrates the managerial value of combining untreated controls with nonequivalent dependent variables when evaluating satisfaction initiatives."
+  ],
+  "context": "The setting is a disguised multinational firm, KemTek, in a business-to-business market where small retailers buy an intermediate product and use equipment to produce finished goods. The intervention was implemented in treatment and control cities in the United States and Spain, with effective monopoly conditions in the United States and active competitor presence in Spain.",
+  "design_and_data": "KemTek ran two related quasi-experiments using pretest-posttest panel surveys with untreated control regions in each country, with identical telephone instruments fielded about 6 months before and about 6 months after the intervention. The same retailers were surveyed on overall satisfaction, satisfaction and importance for 17 needs, brand awareness, and store/store-owner descriptors; 224 complete U.S. responses and 327 Spanish responses were collected. Interventions targeted 5 needs via retailer training and service visits (single-visit, tightly scripted management-volunteer program in the United States; three-visit local sales program with Gold Seal accreditation in Spain). For analysis, 5 distinct needs were used as nonequivalent dependent variables to control for halo effects and unobserved ecological shifts.",
+  "focal_constructs": [
+    "customer satisfaction improvement intervention",
+    "targeted customer needs satisfaction",
+    "overall satisfaction",
+    "residual satisfaction",
+    "employee empowerment in implementation",
+    "nonequivalent dependent variables",
+    "pretest-posttest untreated control quasi-experiment"
+  ],
+  "main_findings": [
+    "Adjusted posttest satisfaction on targeted needs was significantly higher in treatment than control regions in both Spain and the United States.",
+    "In Spain, treatment effects were broader: ancillary needs, overall satisfaction, and residual satisfaction increased significantly, whereas in the United States ancillary needs and overall satisfaction were not significant.",
+    "Without nonequivalent dependent-variable controls, the Spanish targeted-need effect appears nonsignificant or negative, implying that weaker evaluation designs could falsely conclude the intervention failed."
+  ],
+  "one_line_summary": "Two longitudinal quasi-experiments at KemTek in the United States and Spain show that targeted quality-training interventions can improve customer satisfaction, while revealing implementation-empowerment differences, a residual satisfaction component, and the need for nonequivalent dependent-variable controls.",
+  "relation_to_prior_work": "extends prior customer satisfaction and service quality research by providing controlled longitudinal quasi-experimental field evidence from an operating firm, where the paper notes few published field tests. It also challenges common industry evaluation practice by showing that pretest-posttest untreated controls alone can miss effects when broad ecological forces shift satisfaction measures.",
+  "research_gap": "The paper states that despite broad acceptance that improving key customer needs should raise satisfaction and profits, there are few published field experiments or quasi-experiments testing whether firms can actually implement such quality interventions and obtain measurable gains. It addresses the need for a scientific evaluation of a real program with stronger controls than typical industry assessments.",
+  "research_question": "Can a multinational firm implement a customer satisfaction improvement program, designed from voice-of-the-customer and quality tools, that produces measurable and enduring improvements in retailer satisfaction? In parallel U.S. and Spain quasi-experiments, the paper also asks how implementation differences and evaluation design affect the observed treatment effects."
+}

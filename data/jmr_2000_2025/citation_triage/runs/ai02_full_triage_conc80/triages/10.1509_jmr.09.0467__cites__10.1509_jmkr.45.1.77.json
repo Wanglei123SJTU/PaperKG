@@ -1,0 +1,4 @@
+{
+  "rationale": "Both papers are centrally about recommendation-system modeling (the citing paper explicitly bridges collaborative filtering and choice modeling, while the cited paper proposes a statistical recommendation model for unary purchase data), so the cited work is a plausible methodological/comparison prior rather than an obviously incidental mention. The topical and methodological overlap in the notes is strong enough to justify full relation review, even though the raw match evidence is only a DOI-level reference entry.",
+  "triage_decision": "keep_for_relation_judgment"
+}

@@ -1,0 +1,4 @@
+{
+  "rationale": "The citing paper’s design explicitly uses a “Bayesian control-function IV approach,” while the cited paper is a core methodological contribution on a control-function approach to endogeneity. This makes it plausibly a method source rather than a purely incidental background mention. Given this clear methodological overlap (despite only one matched DOI reference entry), the pair should be kept for full relation judgment.",
+  "triage_decision": "keep_for_relation_judgment"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper proposes a Bayesian decision theory-based customer selection framework that explicitly incorporates uncertainty in predicted customer behavior and selects customers by maximized expected CLV under a budget constraint.",
+    "The paper develops a joint purchase timing-quantity model for a noncontractual B2B setting so CLV can be predicted and optimized at the customer level.",
+    "The paper empirically compares the proposed approach with the collaborating firm's current ESP-based selection process and with alternative customer-level cost allocation rules for CLV implementation."
+  ],
+  "context": "The empirical setting is a large multinational firm selling high-technology products and services to B2B customers. The firm proactively contacts customers via salespeople, direct mail/email, and telephone under an annual marketing budget constraint.",
+  "design_and_data": "The authors estimate a Bayesian joint model of interpurchase timing (generalized gamma mixture) and purchase quantity (panel regression), with segment membership driven by marketing contacts and relationship covariates. Data come from two customer cohorts: first purchase in Q1 1997 (Cohort 1) and Q1 1998 (Cohort 2); after cleaning and minimum-purchase restrictions, random samples include 238 and 210 customers with 4,326 and 3,521 purchase occasions, respectively. Calibration windows are 48 months for Cohort 1 and 36 months for Cohort 2, with a 36-month holdout for both cohorts. The study compares model fit/prediction (vs a base CLV model and a benchmark from prior work) and then compares customer selection profits across ESP vs CLV and across status quo, regression-based, and optimization-based future cost rules.",
+  "focal_constructs": [
+    "customer lifetime value (CLV)",
+    "Bayesian decision theory",
+    "customer selection",
+    "purchase timing",
+    "purchase quantity",
+    "marketing contact frequency",
+    "customer-level cost allocation",
+    "budget-constrained targeting"
+  ],
+  "main_findings": [
+    "The proposed joint timing-quantity model outperformed the base and benchmark models in fit and prediction (for Cohort 1, aggregate log CPO -5945 vs -6792 and -6542; lower MAD and RAE for both timing and quantity).",
+    "Under the same budget setting, CLV-based selection with status quo costs outperformed the firm's ESP-based selection, yielding higher observed holdout NPV profits ($1.901M vs $1.641M) with lower observed costs ($318K vs $400K).",
+    "Among CLV implementations, using optimal marketing costs from the Bayesian decision framework produced the highest observed holdout NPV profits ($2.425M), above regression-based future costs ($1.994M) and status quo costs ($1.901M)."
+  ],
+  "one_line_summary": "Using B2B CRM data from a high-technology firm, the paper shows that a Bayesian decision theory approach that selects customers by maximized expected CLV with optimized future contact costs yields the highest profits under a budget constraint.",
+  "relation_to_prior_work": "extends prior customer selection and CLV research by jointly modeling purchase timing and quantity and by embedding customer selection in a Bayesian decision-theoretic optimization under uncertainty. It also addresses gaps in earlier targeting studies that did not jointly handle budget constraints and forward-looking customer-level marketing cost allocation when comparing selection performance.",
+  "research_gap": "The paper argues that firms using CLV lack a practical framework that explicitly handles uncertainty in long-run behavior predictions and lacks clear guidance on forward-looking customer-level cost allocation for CLV. It also notes that prior customer selection studies either ignored revenue/cost heterogeneity or did not incorporate budget constraints and marketing cost heterogeneity in CLV-based selection comparisons.",
+  "research_question": "How should a firm select customers for proactive marketing under a fixed budget when future purchase timing, purchase quantity, and costs are uncertain? Does a Bayesian decision theory-based CLV framework improve profit relative to the collaborating firm's ESP-based process and relative to alternative cost allocation rules used to compute CLV?"
+}

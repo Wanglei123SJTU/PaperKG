@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper advances a hierarchical decision-process account in which context effects depend on both decision strategy stopping points and whether the target is advantaged or disadvantaged in the binary core set.",
+    "It shows across many studies that two classic context effects - extremeness aversion and attraction - are asymmetric: they are more likely when the added option is adjacent to the disadvantaged option.",
+    "It argues that this framework helps reconcile mixed prior findings and normative predictions (e.g., regularity/similarity) by allowing both replications and reversals of context effects."
+  ],
+  "context": "The studies examine consumer choices among multiattribute options, mainly in online MTurk experiments using product and service categories such as hard drives, cameras, movie editions, music players, TVs, cars, and apartments. Choices are made from binary core sets and trinary sets created by adding an extreme or decoy alternative.",
+  "design_and_data": "The authors ran pretests to identify the more important attribute in each category and define the binary advantaged versus disadvantaged option. Studies 1a-1f manipulated extremeness-aversion sets (adding an extreme option), and Studies 2a-2e manipulated attraction sets (adding an asymmetrically dominated decoy), with participants randomly assigned to two-option control or three-option conditions. Studies 3a-3b tested process via post-choice recall of attribute-value differences and mediation analyses; Studies 4a-4b and 5a-5b tested interventions that push attribute-importance processing (importance prompt timing, sequential introduction of the third option). The paper reports random-effects meta-analyses across studies with effect sizes.",
+  "focal_constructs": [
+    "context effects",
+    "advantaged versus disadvantaged options",
+    "extremeness aversion (compromise effect)",
+    "asymmetric dominance (attraction effect)",
+    "hierarchical decision strategies",
+    "attribute importance and trade-off processing",
+    "similarity and regularity"
+  ],
+  "main_findings": [
+    "When the disadvantaged option became intermediate (extremeness-aversion designs), its share increased on average, but when the advantaged option became intermediate, its share decreased, often showing similarity rather than extremeness aversion.",
+    "When a decoy was dominated by the disadvantaged option (attraction designs), the disadvantaged option's share increased, whereas decoys dominated by the advantaged option produced little or negative gain for the advantaged option.",
+    "Adding a third option reduced accurate recall of attribute differences, recall mediated choice-share shifts, and interventions that prompted attribute-importance processing attenuated extremeness-aversion and attraction effects for disadvantaged targets."
+  ],
+  "one_line_summary": "Across multiple MTurk choice experiments, adding a third option produced extremeness-aversion and attraction effects mainly when the added option was adjacent to the lower-share disadvantaged option in the original binary set, not when it was adjacent to the advantaged option.",
+  "relation_to_prior_work": "extends prior context-effect research by linking the emergence of attraction and extremeness aversion to relative advantage in the binary core set and to a hierarchical strategy process. It addresses contradictory prior evidence by showing both replications and reversals within a single framework.",
+  "research_gap": "Prior research documents many context effects, but the conditions under which extremeness aversion and asymmetric dominance reliably appear are unclear and sometimes contradictory. The paper targets this unresolved boundary-condition problem by focusing on target advantage in the core binary set and decision strategy use.",
+  "research_question": "When does adding a third option to a binary choice set change preferences between the original two options? Specifically, are extremeness aversion and attraction more likely when the new option is adjacent to the disadvantaged (lower-share) versus advantaged option, and can this asymmetry be explained by a hierarchical decision-strategy process?"
+}

@@ -1,0 +1,28 @@
+{
+  "claimed_contribution": [
+    "The paper provides evidence that visual influence affects aggregate new car purchases beyond functional and economic drivers.",
+    "It introduces a distance-plus-covariate matching framework with visible treatment, invisible placebo, and dosage tests to address homophily and correlated unobservables.",
+    "It jointly models moderators and functional form of influence, including sender-receiver social identity, vehicle identity relevance, relative scaling, and saturation."
+  ],
+  "context": "The empirical setting is the U.S. new automobile market. The analysis tracks monthly purchases by gender at the zip code level across 40 large counties.",
+  "design_and_data": "The study uses J.D. Power PIN data on approximately 1.6 million new cars, aggregated as monthly counts by gender for 905 purchaser zip codes from January 1999 to March 2008. Each focal zip code is matched to partner zip codes at different distance bands (contiguous, 10-30 miles, 30-60 miles, and more than 100 miles) and also matched on census covariates to create homophilous but less visible controls. The authors estimate a hierarchical Bayesian heterogeneous Poisson model with zip-group intercepts, county-month seasonality, time trends, overdispersion, and detailed automobile covariates. They compare 21 visual-effect specifications via DIC, incorporate county visibility proxies from census/weather data, and run out-of-sample and robustness tests.",
+  "focal_constructs": [
+    "visual influence",
+    "new car purchase volume",
+    "visibility",
+    "social identity",
+    "gender-based sending and receiving groups",
+    "vehicle type identity relevance",
+    "price tier similarity",
+    "saturation effects"
+  ],
+  "main_findings": [
+    "Current sales increase with recent local sales, effects decay with geographic distance, and far matched zip-code sales are null.",
+    "Visual influence is stronger where car visibility is higher, with positive significant moderation by car commuters and sunny days.",
+    "Influence varies by social groups and product identity relevance, is stronger from men in male-oriented vehicle types, appears mainly within similar price tiers, and is better fit by a saturating logistic form than a linear form."
+  ],
+  "one_line_summary": "Using U.S. zip code-level new car sales and a hierarchical Bayesian model, the paper finds that visible nearby purchases increase subsequent car buying, with effects shaped by visibility, social identity, and vehicle category.",
+  "relation_to_prior_work": "extends prior social influence research from mostly low-cost choices and single-model automobile settings to broad new-car purchase volume across many local markets. It also introduces richer empirical tests for visibility and identity-based moderation in this context.",
+  "research_gap": "Prior social influence studies largely emphasize lower-cost decisions, and automobile evidence had focused on specific makes/models. The paper argues that it remained unclear whether broad new-car purchase volume reflects visual influence and how to separate such effects from homophily and correlated unobservables.",
+  "research_question": "Do consumers buy more new cars when people around them have recently done so? Are these effects moderated by visibility (including distance and local observability), and do they vary by sender and receiver gender, vehicle identity relevance, and price tier?"
+}

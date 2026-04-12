@@ -1,0 +1,16 @@
+{
+  "manifest": "C:\\Users\\27497\\Desktop\\PaperKG_Final\\data\\jmr_2000_2025\\paper_notes\\manifest.csv",
+  "prompt": "C:\\Users\\27497\\Desktop\\PaperKG_Final\\prompts\\paper_note_v1.md",
+  "schema": "C:\\Users\\27497\\Desktop\\PaperKG_Final\\schemas\\paper_note_v1.schema.json",
+  "model": "gpt-5.4",
+  "reasoning_effort": "xhigh",
+  "temperature": 0.1,
+  "max_output_tokens": 1400,
+  "offset": 0,
+  "limit": 0,
+  "sleep_seconds": 0.0,
+  "api_backend": "responses_http_inline_file",
+  "api_base_url": "https://codex.ai02.cn/v1",
+  "max_concurrency": 80,
+  "request_timeout_seconds": 900.0
+}

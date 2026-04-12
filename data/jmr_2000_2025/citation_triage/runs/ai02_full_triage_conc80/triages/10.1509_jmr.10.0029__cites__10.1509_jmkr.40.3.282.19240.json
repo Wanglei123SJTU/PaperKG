@@ -1,0 +1,4 @@
+{
+  "rationale": "Both papers center on spatial/interdependent effects in marketing behavior: the citing paper models neighborhood/spatial dependence in regional sales, and the cited paper develops a spatial autoregressive model of interdependent consumer preferences. However, the provided match evidence is only a bare DOI reference with no citation context, and the citing paper’s described methods (dynamic HJB with ML/IV) do not directly indicate clear reuse of the cited paper’s Bayesian discrete-choice approach.",
+  "triage_decision": "uncertain"
+}

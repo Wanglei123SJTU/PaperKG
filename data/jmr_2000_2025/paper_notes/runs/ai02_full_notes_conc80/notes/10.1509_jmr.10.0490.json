@@ -1,0 +1,27 @@
+{
+  "claimed_contribution": [
+    "The paper proposes that temptation in consumer choice has both costs and benefits because choices create self-signals about weak versus strong willpower.",
+    "It shows that self-signaling utility depends on opportunity set composition, including nonchosen alternatives and the feasibility of those alternatives, not only on the chosen option.",
+    "It provides what the authors describe as the first empirical investigation of self-signaling in consumer choice and discusses implications for assortment and pricing decisions."
+  ],
+  "context": "The studies examine consumer choices between relative vices and virtues in common consumption settings such as snacks, restaurant meals, and hotel menus. Empirical evidence comes from student samples and New York City shoppers using both hypothetical scenarios and one consequential choice task.",
+  "design_and_data": "The paper reports five experiments. Study 1 (n=90 undergraduates) and Study 2 (n=178 students, 2x2 between-subjects) use vignettes comparing mixed vice-virtue sets versus homogeneous sets and measure relative satisfaction and willingness to pay; each includes a second vignette replication. Study 3 (n=89 NYC shoppers) manipulates the feasibility of nonchosen alternatives in mixed sets via allergy constraints to test the signaling mechanism. Study 4 (n=156 students recruited at a gym or fast-food location) uses real product choices from mixed or homogeneous assortments and measures post-choice satisfaction, and Study 5 (n=110 NYC shoppers) tests preferences between mixed versus virtue-only menus under immediate versus delayed choice timing.",
+  "focal_constructs": [
+    "self-signaling utility",
+    "temptation",
+    "vice and virtue options",
+    "mixed opportunity sets",
+    "homogeneous opportunity sets",
+    "diagnostic utility",
+    "self-control and willpower"
+  ],
+  "main_findings": [
+    "Choosing a vice was valued more when selected from a homogeneous vice set than from a mixed set, while choosing a virtue was valued more when selected from a mixed set than from a homogeneous virtue set; this pattern appeared in satisfaction and WTP measures.",
+    "Manipulating feasibility of forgone alternatives changed utility in the predicted signaling direction: vice choices looked better when the forgone virtue was infeasible, and virtue choices looked better when the forgone vice was feasible.",
+    "The same logic appeared in consequential choices and set-level preferences: real-choice satisfaction followed the mixed versus homogeneous predictions, and preference for mixed menus was stronger when choice was delayed (weaker temptation) than when immediate temptation was stronger."
+  ],
+  "one_line_summary": "Across five experiments, the paper shows that mixed vice-virtue choice sets can lower or raise utility through self-signaling costs of succumbing to temptation and benefits of resisting it.",
+  "relation_to_prior_work": "extends prior self-control and context-dependent utility research by arguing that nonchosen options in vice-virtue sets create diagnostic self-signals that alter overall utility. It also supplies empirical evidence in consumer choice for self-signaling ideas that the authors describe as largely theoretical in earlier work.",
+  "research_gap": "Prior self-control work largely emphasized the costs of temptation and precommitment, with little attention to potential benefits of temptation when it is resisted. The authors also note a lack of empirical tests of self-signaling in consumer choice, especially regarding how nonchosen alternatives in opportunity sets affect utility.",
+  "research_question": "How does the composition of an opportunity set containing vices and virtues change the utility consumers derive from a chosen option? The paper asks whether self-signaling from resisting or succumbing to temptation, including signals from nonchosen and feasible alternatives, affects satisfaction, willingness to pay, and preferences for mixed versus homogeneous sets."
+}

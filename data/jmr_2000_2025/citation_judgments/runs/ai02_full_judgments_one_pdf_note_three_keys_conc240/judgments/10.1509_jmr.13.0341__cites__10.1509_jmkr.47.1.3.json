@@ -1,0 +1,6 @@
+{
+  "citation_substance": "substantive",
+  "rationale": "The cited paper is invoked in the endogeneity-correction section, where the authors state their two-step residual-inclusion strategy is broadly similar to Petrin and Train's control function approach. This is tied to a central modeling component of the paper (handling endogenous coupon allocation), not a generic background citation. The citing paper then implements that logic by estimating an allocation model and adding residual terms to the redemption equations, indicating meaningful methodological use.",
+  "relation_description": "The citing paper applies the control-function idea associated with Petrin and Train (2010) to a mobile coupon redemption model. It adapts the approach by modeling coupon allocation first and then including residual-based controls in the multivariate probit response model.",
+  "relation_type": "applies"
+}
