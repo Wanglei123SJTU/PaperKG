@@ -54,3 +54,115 @@ Current notes:
 - `search_papers` now supports title, DOI, author, and note-text queries.
 - `get_neighbors` supports an optional `relation_type` filter in `substantive` mode.
 - `get_relation` returns the direct citation record between two papers, including both directions when present.
+
+## Tool Semantics
+
+### `search_papers`
+
+Primary entry point for:
+
+- paper titles
+- DOIs
+- topic phrases
+- broad keyword search
+- author-name fallback queries
+
+Returned fields include:
+
+- paper identity
+- bibliographic metadata
+- one-line note summary
+- research question
+
+### `search_authors`
+
+Use this when the user starts from an author name and you want candidate author matches before retrieving papers.
+
+Returned fields include:
+
+- normalized author match
+- paper count in the current corpus
+- first and last year in the corpus
+
+### `get_author`
+
+Use this for author-level exploration.
+
+Returned fields include:
+
+- canonical matched author name
+- paper count
+- first and last year
+- paper list with short note fields
+
+### `get_paper`
+
+Use this when the seed is a known paper.
+
+Returned fields include:
+
+- paper metadata
+- structured paper note
+- edge counts at three levels:
+  - raw internal citation counts
+  - judged citation counts
+  - substantive edge counts
+
+### `get_neighbors`
+
+Main local graph-inspection tool.
+
+Parameters:
+
+- `mode="substantive"` for judged substantive edges
+- `mode="all"` for raw internal citation links
+- `direction="in" | "out" | "both"`
+- optional `relation_type` filter in substantive mode
+
+Returned fields include:
+
+- the seed paper
+- neighbor paper metadata
+- edge explanation fields when available
+- raw matched reference evidence
+
+### `get_relation`
+
+Direct pair-level lookup between two papers.
+
+Returned fields include:
+
+- source paper brief
+- target paper brief
+- direct edge from source to target when present
+- reverse edge when present
+
+This is the best tool for questions of the form:
+
+- “What is the relationship between these two papers?”
+- “Did paper A build on paper B?”
+
+### `get_subgraph`
+
+Local multi-paper graph expansion around one or more seed papers.
+
+Parameters:
+
+- `seed_identifiers`
+- `mode`
+- `hops`
+- `limit_nodes`
+
+Returned fields include:
+
+- seed IDs
+- local node set
+- local edge set
+
+## Recommended Entry Logic
+
+- Start with `search_papers` for paper/title/topic questions.
+- Start with `search_authors` or `get_author` for author questions.
+- Use `get_relation` for pairwise citation questions.
+- Use `get_neighbors` for 1-hop local inspection.
+- Use `get_subgraph` for 2-hop local structure or branch tracing.

@@ -146,6 +146,49 @@ MCP tools:
 - `get_relation`
 - `get_subgraph`
 
+### MCP Entry Points
+
+The MCP layer currently has seven practical entry points.
+
+- `search_papers`
+  Use this when the input is a paper title, DOI, topic phrase, or a broad keyword query. It searches title, DOI, author names, abstract text, and paper-note text.
+
+- `search_authors`
+  Use this when the input is an author name and you want candidate author matches first.
+
+- `get_author`
+  Use this when you want the papers for one author in the current JMR corpus. This is the best entry point for author-level exploration.
+
+- `get_paper`
+  Use this when you already know a specific paper and want its metadata, note, and edge counts.
+
+- `get_neighbors`
+  Use this for 1-hop graph inspection around a paper. This is the main local-graph tool. It supports:
+  - `mode="substantive"` for the judged graph
+  - `mode="all"` for raw internal citation pairs
+  - `direction="in" | "out" | "both"`
+  - optional `relation_type` filtering in substantive mode
+
+- `get_relation`
+  Use this when the question is specifically about the direct relationship between two papers. It returns the direct judged edge when present, plus the reverse direction if that also exists.
+
+- `get_subgraph`
+  Use this when you want a 1-hop or 2-hop local citation graph around one or more seed papers.
+
+### Typical MCP Workflows
+
+- Author question
+  `search_authors` -> `get_author` -> `get_neighbors` / `get_subgraph`
+
+- Paper relationship question
+  `get_paper` -> `get_relation` -> `get_neighbors`
+
+- Topic question
+  `search_papers` -> choose 1-3 seed papers -> `get_neighbors` / `get_subgraph`
+
+- Reading-line question
+  `get_paper` -> `get_neighbors(mode="substantive")` -> `get_subgraph(hops=2)`
+
 ## Example: Author-Level Query
 
 The current MCP build works best when a local topic or author line is dense enough in the JMR internal graph.
