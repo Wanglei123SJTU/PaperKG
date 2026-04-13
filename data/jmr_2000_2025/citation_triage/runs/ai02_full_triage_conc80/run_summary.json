@@ -1,10 +1,10 @@
-{
-  "run_dir": "C:\\Users\\27497\\Desktop\\PaperKG_Final\\data\\jmr_2000_2025\\citation_triage\\runs\\ai02_full_triage_conc80",
+﻿{
+  "run_dir": "data\\jmr_2000_2025\\citation_triage\\runs\\ai02_full_triage_conc80",
   "items_total": 4593,
   "items_ok": 4593,
   "items_error": 0,
   "items_skipped_existing": 0,
-  "triages_dir": "C:\\Users\\27497\\Desktop\\PaperKG_Final\\data\\jmr_2000_2025\\citation_triage\\runs\\ai02_full_triage_conc80\\triages",
+  "triages_dir": "data\\jmr_2000_2025\\citation_triage\\runs\\ai02_full_triage_conc80\\triages",
   "api_base_url": "https://codex.ai02.cn/v1",
   "model": "gpt-5.4",
   "requested_reasoning_effort": "xhigh",
@@ -16,5 +16,5 @@
   "returned_reasoning_counts": {
     "high": 4593
   },
-  "retry_history_dir": "C:\\Users\\27497\\Desktop\\PaperKG_Final\\data\\jmr_2000_2025\\citation_triage\\runs\\ai02_full_triage_conc80\\retry_history"
+  "retry_history_dir": "data\\jmr_2000_2025\\citation_triage\\runs\\ai02_full_triage_conc80\\retry_history"
 }

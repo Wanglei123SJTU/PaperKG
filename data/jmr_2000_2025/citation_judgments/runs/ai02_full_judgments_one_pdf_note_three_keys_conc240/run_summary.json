@@ -1,10 +1,10 @@
-{
-  "run_dir": "C:\\Users\\27497\\Desktop\\PaperKG_Final\\data\\jmr_2000_2025\\citation_judgments\\runs\\ai02_full_judgments_one_pdf_note_three_keys_conc240",
+﻿{
+  "run_dir": "data\\jmr_2000_2025\\citation_judgments\\runs\\ai02_full_judgments_one_pdf_note_three_keys_conc240",
   "items_total": 4341,
   "items_ok": 4341,
   "items_error": 0,
   "items_skipped_existing": 0,
-  "judgments_dir": "C:\\Users\\27497\\Desktop\\PaperKG_Final\\data\\jmr_2000_2025\\citation_judgments\\runs\\ai02_full_judgments_one_pdf_note_three_keys_conc240\\judgments",
+  "judgments_dir": "data\\jmr_2000_2025\\citation_judgments\\runs\\ai02_full_judgments_one_pdf_note_three_keys_conc240\\judgments",
   "api_backend": "responses_http_inline_file",
   "api_base_url": "https://codex.ai02.cn/v1",
   "api_key_slots": 3,

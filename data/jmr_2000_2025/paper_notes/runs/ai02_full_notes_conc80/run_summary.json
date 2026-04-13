@@ -1,10 +1,10 @@
-{
-  "run_dir": "C:\\Users\\27497\\Desktop\\PaperKG_Final\\data\\jmr_2000_2025\\paper_notes\\runs\\ai02_full_notes_conc80",
+﻿{
+  "run_dir": "data\\jmr_2000_2025\\paper_notes\\runs\\ai02_full_notes_conc80",
   "items_total": 1497,
   "items_ok": 1497,
   "items_error": 0,
   "items_skipped_existing": 0,
-  "notes_dir": "C:\\Users\\27497\\Desktop\\PaperKG_Final\\data\\jmr_2000_2025\\paper_notes\\runs\\ai02_full_notes_conc80\\notes",
+  "notes_dir": "data\\jmr_2000_2025\\paper_notes\\runs\\ai02_full_notes_conc80\\notes",
   "api_backend": "responses_http_inline_file",
   "model": "gpt-5.4",
   "requested_reasoning_effort": "xhigh",

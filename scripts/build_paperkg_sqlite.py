@@ -49,6 +49,21 @@ def load_json(path: Path) -> Any:
     return json.loads(path.read_text(encoding="utf-8"))
 
 
+def as_repo_path(path: str | Path) -> Path:
+    candidate = Path(path)
+    if candidate.is_absolute():
+        return candidate
+    return ROOT / candidate
+
+
+def to_repo_relative(path: str | Path) -> str:
+    resolved = as_repo_path(path)
+    try:
+        return str(resolved.resolve().relative_to(ROOT))
+    except ValueError:
+        return str(resolved)
+
+
 def build_paper_row(root: Path, paper_row: dict[str, str]) -> dict[str, Any]:
     paper_id = normalize_doi(paper_row.get("resolved_doi") or paper_row.get("query_doi"))
     raw_json_path = root / paper_row["raw_json_path"]
@@ -102,7 +117,7 @@ def build_note_row(paper_id: str, note_path: Path, run_name: str) -> dict[str, A
         "generation_json": json.dumps({"run_name": run_name, "source": "paper_note"}, ensure_ascii=False),
         "note_json": json.dumps(note, ensure_ascii=False),
         "validation_errors_json": json.dumps([], ensure_ascii=False),
-        "note_path": str(note_path),
+        "note_path": to_repo_relative(note_path),
     }
 
 
@@ -335,8 +350,8 @@ def main() -> int:
             "input_tokens": safe_int(row.get("input_tokens")),
             "output_tokens": safe_int(row.get("output_tokens")),
             "total_tokens": safe_int(row.get("total_tokens")),
-            "judgment_path": row.get("output_path"),
-            "raw_response_path": row.get("raw_response_path"),
+            "judgment_path": to_repo_relative(row["output_path"]) if row.get("output_path") else "",
+            "raw_response_path": to_repo_relative(row["raw_response_path"]) if row.get("raw_response_path") else "",
         }
         judgment_rows.append(judgment_row)
         if payload["citation_substance"] == "substantive":
@@ -460,12 +475,12 @@ def main() -> int:
         conn.close()
 
     manifest = {
-        "paper_summary_path": str(paper_summary_path),
-        "notes_dir": str(notes_dir),
-        "raw_citations_manifest_path": str(raw_citations_manifest_path),
-        "judgment_manifest_path": str(judgment_manifest_path),
-        "judgment_summary_path": str(judgment_summary_path),
-        "sqlite_path": str(out_db_path),
+        "paper_summary_path": to_repo_relative(paper_summary_path),
+        "notes_dir": to_repo_relative(notes_dir),
+        "raw_citations_manifest_path": to_repo_relative(raw_citations_manifest_path),
+        "judgment_manifest_path": to_repo_relative(judgment_manifest_path),
+        "judgment_summary_path": to_repo_relative(judgment_summary_path),
+        "sqlite_path": to_repo_relative(out_db_path),
         "paper_count": len(paper_rows),
         "note_count": len(note_rows),
         "raw_internal_citation_count": len(raw_internal_rows),

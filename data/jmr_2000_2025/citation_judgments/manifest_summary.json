@@ -1,7 +1,7 @@
-{
-  "triage_manifest_path": "C:\\Users\\27497\\Desktop\\PaperKG_Final\\data\\jmr_2000_2025\\citation_triage\\manifest.csv",
-  "triage_summary_path": "C:\\Users\\27497\\Desktop\\PaperKG_Final\\data\\jmr_2000_2025\\citation_triage\\runs\\ai02_full_triage_conc80\\summary.csv",
-  "manifest_path": "C:\\Users\\27497\\Desktop\\PaperKG_Final\\data\\jmr_2000_2025\\citation_judgments\\manifest.csv",
+﻿{
+  "triage_manifest_path": "data\\jmr_2000_2025\\citation_triage\\manifest.csv",
+  "triage_summary_path": "data\\jmr_2000_2025\\citation_triage\\runs\\ai02_full_triage_conc80\\summary.csv",
+  "manifest_path": "data\\jmr_2000_2025\\citation_judgments\\manifest.csv",
   "include_decisions": [
     "keep_for_relation_judgment",
     "uncertain"

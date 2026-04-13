@@ -1,7 +1,7 @@
-{
-  "manifest": "C:\\Users\\27497\\Desktop\\PaperKG_Final\\data\\jmr_2000_2025\\paper_notes\\manifest.csv",
-  "prompt": "C:\\Users\\27497\\Desktop\\PaperKG_Final\\prompts\\paper_note_v1.md",
-  "schema": "C:\\Users\\27497\\Desktop\\PaperKG_Final\\schemas\\paper_note_v1.schema.json",
+﻿{
+  "manifest": "data\\jmr_2000_2025\\paper_notes\\manifest.csv",
+  "prompt": "prompts\\paper_note_v1.md",
+  "schema": "schemas\\paper_note_v1.schema.json",
   "model": "gpt-5.4",
   "reasoning_effort": "xhigh",
   "temperature": 0.1,
