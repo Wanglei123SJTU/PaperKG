@@ -182,6 +182,10 @@ Main data root:
 
 - [jmr_2000_2025](data/jmr_2000_2025)
 
+Collaboration guide:
+
+- [CONTRIBUTING.md](CONTRIBUTING.md)
+
 ## Collaboration Status
 
 This repository is already in a usable state for collaboration. A collaborator can:
