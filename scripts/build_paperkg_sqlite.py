@@ -25,6 +25,10 @@ def sanitize_text(value: Any) -> str:
     return str(value).strip()
 
 
+def normalize_name(value: str) -> str:
+    return re.sub(r"\s+", " ", sanitize_text(value)).strip().lower()
+
+
 def strip_tags(text: str) -> str:
     if not text:
         return ""
@@ -173,6 +177,16 @@ def create_schema(conn: sqlite3.Connection) -> None:
             note_path TEXT
         );
 
+        CREATE TABLE author_index (
+            author_name TEXT NOT NULL,
+            author_name_norm TEXT NOT NULL,
+            paper_id TEXT NOT NULL,
+            openalex_id TEXT NOT NULL,
+            official_year INTEGER,
+            title TEXT NOT NULL,
+            PRIMARY KEY(author_name_norm, paper_id)
+        );
+
         CREATE TABLE raw_internal_citations (
             pair_id TEXT PRIMARY KEY,
             citing_openalex_id TEXT NOT NULL,
@@ -229,6 +243,7 @@ def create_schema(conn: sqlite3.Connection) -> None:
         CREATE VIRTUAL TABLE paper_search USING fts5(
             openalex_id UNINDEXED,
             title,
+            authors,
             abstract_text,
             one_line_summary,
             research_question,
@@ -244,6 +259,8 @@ def create_schema(conn: sqlite3.Connection) -> None:
         CREATE INDEX idx_papers_doi_norm ON papers(doi_norm);
         CREATE INDEX idx_papers_title ON papers(title);
         CREATE INDEX idx_notes_openalex_id ON paper_notes(openalex_id);
+        CREATE INDEX idx_author_index_name_norm ON author_index(author_name_norm);
+        CREATE INDEX idx_author_index_openalex_id ON author_index(openalex_id);
         CREATE INDEX idx_raw_internal_citations_citing ON raw_internal_citations(citing_openalex_id);
         CREATE INDEX idx_raw_internal_citations_cited ON raw_internal_citations(cited_openalex_id);
         CREATE INDEX idx_citation_judgments_citing ON citation_judgments(citing_openalex_id);
@@ -297,6 +314,24 @@ def main() -> int:
             skipped_missing_note += 1
             continue
         note_rows.append(build_note_row(paper_row["paper_id"], note_path, args.notes_run_name))
+
+    author_rows = []
+    for paper_row in paper_rows:
+        authors = json.loads(paper_row.get("authors_json") or "[]")
+        for author_name in authors:
+            author_name = sanitize_text(author_name)
+            if not author_name:
+                continue
+            author_rows.append(
+                {
+                    "author_name": author_name,
+                    "author_name_norm": normalize_name(author_name),
+                    "paper_id": paper_row["paper_id"],
+                    "openalex_id": paper_row["openalex_id"],
+                    "official_year": paper_row["official_year"],
+                    "title": paper_row["title"],
+                }
+            )
 
     raw_internal_rows = []
     for row in raw_citation_rows:
@@ -398,6 +433,16 @@ def main() -> int:
         )
         conn.executemany(
             """
+            INSERT INTO author_index (
+                author_name, author_name_norm, paper_id, openalex_id, official_year, title
+            ) VALUES (
+                :author_name, :author_name_norm, :paper_id, :openalex_id, :official_year, :title
+            )
+            """,
+            author_rows,
+        )
+        conn.executemany(
+            """
             INSERT INTO raw_internal_citations (
                 pair_id, citing_openalex_id, cited_openalex_id, citing_doi_uri, cited_doi_uri, citing_title,
                 cited_title, citing_official_year, cited_official_year, matched_reference_count,
@@ -449,6 +494,7 @@ def main() -> int:
                 (
                     paper["openalex_id"],
                     paper["title"],
+                    " ".join(json.loads(paper.get("authors_json") or "[]")),
                     paper["abstract_text"],
                     note.get("one_line_summary", ""),
                     note.get("research_question", ""),
@@ -464,9 +510,9 @@ def main() -> int:
         conn.executemany(
             """
             INSERT INTO paper_search (
-                openalex_id, title, abstract_text, one_line_summary, research_question, research_gap,
+                openalex_id, title, authors, abstract_text, one_line_summary, research_question, research_gap,
                 relation_to_prior_work, design_and_data, context, focal_constructs, main_findings, claimed_contribution
-            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
             """,
             paper_search_rows,
         )
@@ -483,6 +529,7 @@ def main() -> int:
         "sqlite_path": to_repo_relative(out_db_path),
         "paper_count": len(paper_rows),
         "note_count": len(note_rows),
+        "author_link_count": len(author_rows),
         "raw_internal_citation_count": len(raw_internal_rows),
         "citation_judgment_count": len(judgment_rows),
         "substantive_edge_count": len(substantive_rows),

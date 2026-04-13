@@ -42,6 +42,15 @@ D:\Anaconda3\python.exe -m paperkg_mcp.server
 ## Tools
 
 - `search_papers`
+- `search_authors`
+- `get_author`
 - `get_paper`
 - `get_neighbors`
+- `get_relation`
 - `get_subgraph`
+
+Current notes:
+
+- `search_papers` now supports title, DOI, author, and note-text queries.
+- `get_neighbors` supports an optional `relation_type` filter in `substantive` mode.
+- `get_relation` returns the direct citation record between two papers, including both directions when present.
