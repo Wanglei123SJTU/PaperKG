@@ -35,11 +35,7 @@ Shared PDF location:
 
 - Google Drive: <https://drive.google.com/drive/folders/1NwP3bCY7hx_BmHgJYYNqbMl16uPrBuvX?usp=drive_link>
 
-To work locally with the full corpus, place the downloaded files under:
-
-- [pdfs](data/jmr_2000_2025/pdfs)
-
-Keep the year-based directory structure (`2000`, `2001`, ..., `2025`).
+To work locally with the full corpus, place the downloaded files under `data/jmr_2000_2025/pdfs/` and keep the year-based directory structure (`2000`, `2001`, ..., `2025`).
 
 ## Pipeline
 
@@ -143,9 +139,33 @@ Main code:
 MCP tools:
 
 - `search_papers`
+- `search_authors`
+- `get_author`
 - `get_paper`
 - `get_neighbors`
+- `get_relation`
 - `get_subgraph`
+
+## Example: Author-Level Query
+
+The current MCP build works best when a local topic or author line is dense enough in the JMR internal graph.
+
+Example: `V. Kumar`
+
+- `get_author("V. Kumar")` returns `19` JMR papers in the current corpus (`2000-2019`).
+- Several of these papers are embedded in a meaningful local substantive graph rather than appearing as isolated inventory records.
+- In practice, the current MCP can recover interpretable local branches around:
+  - customer management, churn, and customer lifetime value
+  - B2B relationship states and email / direct marketing optimization
+  - acquisition performance and distribution strategy
+
+Representative examples in the current graph:
+
+- `Are you Back for Good or Still Shopping Around? Investigating Customers' Repeat Churn Behavior` (`2018`) has a substantive `extends` edge to `Recapturing Lost Customers` (`2004`).
+- `Dynamically Managing a Profitable Email Marketing Program` (`2017`) has a substantive `extends` edge to `Modeling Customer Opt-In and Opt-Out in a Permission-Based Marketing Context` (`2014`).
+- `Influencing Acquisition Performance in High-Technology Industries` (`2017`) has a substantive `extends` edge to `Why Some Acquisitions Do Better Than Others` (`2007`).
+
+This is a good example of the current system's strength: it can already answer local author-line questions reasonably well when the underlying graph is sufficiently connected.
 
 ## Run Locally
 
