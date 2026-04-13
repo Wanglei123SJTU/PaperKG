@@ -130,6 +130,8 @@ Main run:
 
 All outputs are compiled into a single SQLite artifact and served through MCP.
 
+The MCP layer is an optional research tool, not a mandatory workflow. It is most useful for local JMR citation-relationship questions, author-level retrieval inside the current corpus, and local graph inspection. It should not be treated as the only evidence source for every research question.
+
 Main code:
 
 - [build_paperkg_sqlite.py](scripts/build_paperkg_sqlite.py)
@@ -148,7 +150,7 @@ MCP tools:
 
 ### MCP Entry Points
 
-The MCP layer currently has seven practical entry points.
+The MCP layer currently has seven practical entry points. These are optional tool entry points, not a mandatory workflow for every research question.
 
 - `search_papers`
   Use this when the input is a paper title, DOI, topic phrase, or a broad keyword query. It searches title, DOI, author names, abstract text, and paper-note text.

@@ -1,45 +1,57 @@
 # PaperKG MCP
 
-This MCP server exposes the current JMR PaperKG base as a read-only tool layer.
+`paperkg_mcp` exposes the current JMR `PaperKG` base as a read-only MCP server.
 
-Current default artifact:
+It should be treated as an optional local graph tool for JMR paper relationships, not as the only research interface for every question. The graph is especially useful for local citation structure, paper-to-paper relations, and author-level exploration inside the current corpus. For broader questions, sparse graph regions, or missing-coverage cases, notes, PDFs, and web research may still be better evidence sources.
 
-- SQLite store: `data/jmr_2000_2025/paperkg_base/paperkg.sqlite`
+## Current Default Artifact
+
+Default SQLite database:
+
+- `data/jmr_2000_2025/paperkg_base/paperkg.sqlite`
 
 Current build summary:
 
-- `1497` papers
-- `1497` paper notes
-- `4593` raw internal citation pairs
-- `4341` judged citation pairs
-- `1868` substantive edges
+- papers: `1497`
+- paper notes: `1497`
+- raw internal citation pairs: `4593`
+- judged citation pairs: `4341`
+- substantive edges: `1868`
 
-Built from:
+## What Is Inside the Database
 
-- `data/jmr_2000_2025/crossref_references/paper_summary.csv`
-- `data/jmr_2000_2025/paper_notes/runs/ai02_full_notes_conc80/notes/`
-- `data/jmr_2000_2025/citation_triage/manifest.csv`
-- `data/jmr_2000_2025/citation_judgments/runs/ai02_full_judgments_one_pdf_note_three_keys_conc240/summary.csv`
+The SQLite build currently combines:
 
-Judgment workflow used in the current build:
+- paper-level metadata from the local `2000-2025` JMR corpus
+- structured paper notes
+- raw internal citation matches from Crossref reference retrieval
+- cheap triage outputs
+- final citation judgments
+- the filtered `substantive` graph
 
-- Stage 1: cheap triage on `note + metadata + raw matched reference`
-- Stage 2: final relation judgment on `citing PDF + cited paper note`
+This means the MCP layer can answer both:
 
-## Build the SQLite store
+- paper-level lookup questions
+- edge-level relationship questions
+
+## Build the SQLite Base
 
 ```powershell
 D:\Anaconda3\python.exe scripts\build_paperkg_sqlite.py
 ```
 
-## Run the MCP server over stdio
+## Run the MCP Server
 
 ```powershell
 $env:PAPERKG_DB_PATH = (Resolve-Path "data/jmr_2000_2025/paperkg_base/paperkg.sqlite")
 D:\Anaconda3\python.exe -m paperkg_mcp.server
 ```
 
-## Tools
+If `PAPERKG_DB_PATH` is not set, the server falls back to the default local database path above.
+
+## MCP Tools
+
+The current server exposes seven practical entry points:
 
 - `search_papers`
 - `search_authors`
@@ -49,120 +61,123 @@ D:\Anaconda3\python.exe -m paperkg_mcp.server
 - `get_relation`
 - `get_subgraph`
 
-Current notes:
-
-- `search_papers` now supports title, DOI, author, and note-text queries.
-- `get_neighbors` supports an optional `relation_type` filter in `substantive` mode.
-- `get_relation` returns the direct citation record between two papers, including both directions when present.
-
 ## Tool Semantics
 
 ### `search_papers`
 
-Primary entry point for:
+Use this when the input is a paper title, DOI, topic phrase, broad keyword query, or sometimes an author-like query.
 
-- paper titles
-- DOIs
-- topic phrases
-- broad keyword search
-- author-name fallback queries
+It searches:
 
-Returned fields include:
+- DOI and paper identifiers
+- exact and fuzzy title matches
+- author names
+- abstract text
+- paper-note text
 
-- paper identity
-- bibliographic metadata
-- one-line note summary
-- research question
+Best for:
+
+- finding seed papers for a topic
+- resolving a paper from noisy user input
+- broad keyword-based paper discovery inside the current corpus
 
 ### `search_authors`
 
-Use this when the user starts from an author name and you want candidate author matches before retrieving papers.
+Use this when the input is an author name and you want candidate author matches first.
 
-Returned fields include:
+Best for:
 
-- normalized author match
-- paper count in the current corpus
-- first and last year in the corpus
+- ambiguous or partial author-name queries
+- checking whether an author is present in the current corpus
 
 ### `get_author`
 
-Use this for author-level exploration.
+Use this when you want all papers for one author inside the current JMR corpus.
 
-Returned fields include:
+Best for:
 
-- canonical matched author name
-- paper count
-- first and last year
-- paper list with short note fields
+- author-level exploration
+- checking corpus coverage for a specific author
+- selecting representative papers before graph inspection
 
 ### `get_paper`
 
-Use this when the seed is a known paper.
+Returns one paper plus:
 
-Returned fields include:
-
-- paper metadata
+- core metadata
 - structured paper note
-- edge counts at three levels:
-  - raw internal citation counts
-  - judged citation counts
-  - substantive edge counts
+- edge counts for raw, judged, and substantive layers
+
+Best for:
+
+- grounding a discussion in one paper
+- checking whether a paper is structurally central or isolated
 
 ### `get_neighbors`
 
-Main local graph-inspection tool.
+Returns 1-hop neighbors around a paper.
 
-Parameters:
+Supports:
 
-- `mode="substantive"` for judged substantive edges
-- `mode="all"` for raw internal citation links
+- `mode="substantive"` for the judged graph
+- `mode="all"` for raw internal citation pairs
 - `direction="in" | "out" | "both"`
-- optional `relation_type` filter in substantive mode
+- optional `relation_type` filtering in substantive mode
 
-Returned fields include:
+Best for:
 
-- the seed paper
-- neighbor paper metadata
-- edge explanation fields when available
-- raw matched reference evidence
+- direct follow-up papers
+- direct predecessors
+- local branch inspection
 
 ### `get_relation`
 
-Direct pair-level lookup between two papers.
+Returns the direct relationship between two papers when one exists in the current graph layers.
 
-Returned fields include:
+Best for:
 
-- source paper brief
-- target paper brief
-- direct edge from source to target when present
-- reverse edge when present
-
-This is the best tool for questions of the form:
-
-- “What is the relationship between these two papers?”
-- “Did paper A build on paper B?”
+- "How are these two papers related?"
+- checking whether a direct substantive edge exists
+- comparing direct judged relation versus raw citation linkage
 
 ### `get_subgraph`
 
-Local multi-paper graph expansion around one or more seed papers.
+Builds a local 1-hop or 2-hop graph around one or more seed papers.
 
-Parameters:
+Best for:
 
-- `seed_identifiers`
-- `mode`
-- `hops`
-- `limit_nodes`
-
-Returned fields include:
-
-- seed IDs
-- local node set
-- local edge set
+- local research-line inspection
+- small branch summaries
+- bridge-node or neighborhood analysis
 
 ## Recommended Entry Logic
 
-- Start with `search_papers` for paper/title/topic questions.
-- Start with `search_authors` or `get_author` for author questions.
-- Use `get_relation` for pairwise citation questions.
-- Use `get_neighbors` for 1-hop local inspection.
-- Use `get_subgraph` for 2-hop local structure or branch tracing.
+- Author question  
+  `search_authors` -> `get_author` -> `get_neighbors` / `get_subgraph`
+
+- Specific paper question  
+  `get_paper` -> `get_neighbors` / `get_relation`
+
+- Topic question  
+  `search_papers` -> choose 1-3 seed papers -> `get_neighbors` / `get_subgraph`
+
+- Direct relation question  
+  `get_paper` or `search_papers` -> `get_relation`
+
+## Scope Reminder
+
+This MCP server is strongest when the question is about:
+
+- local JMR citation neighborhoods
+- direct paper-to-paper relations
+- local author lines
+- interpretable 1-hop / 2-hop subgraphs
+
+It is weaker when the question is about:
+
+- complete field-level histories
+- broad themes with sparse internal citation structure
+- papers missing from the current local corpus
+- topics better answered through direct note reading, PDF reading, or web search
+
+In short: use the graph when it helps, but do not force the graph when another evidence source is better.
