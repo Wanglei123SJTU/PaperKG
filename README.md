@@ -189,26 +189,25 @@ The MCP layer currently has seven practical entry points.
 - Reading-line question
   `get_paper` -> `get_neighbors(mode="substantive")` -> `get_subgraph(hops=2)`
 
-## Example: Author-Level Query
+## Example: Real MCP-Backed Query
 
-The current MCP build works best when a local topic or author line is dense enough in the JMR internal graph.
+Example user input:
 
-Example: `V. Kumar`
+> What does the V. Kumar research line look like in the current JMR PaperKG?
 
-- `get_author("V. Kumar")` returns `19` JMR papers in the current corpus (`2000-2019`).
-- Several of these papers are embedded in a meaningful local substantive graph rather than appearing as isolated inventory records.
-- In practice, the current MCP can recover interpretable local branches around:
-  - customer management, churn, and customer lifetime value
-  - B2B relationship states and email / direct marketing optimization
-  - acquisition performance and distribution strategy
+Representative MCP-backed answer:
 
-Representative examples in the current graph:
+> In the current `2000-2025` JMR corpus, `V. Kumar` has `19` papers in the graph (`2000-2019`). The local structure is not a single line; it splits into a few recurring branches.
+>
+> The clearest branch is customer management and churn. For example, `Are you Back for Good or Still Shopping Around? Investigating Customers' Repeat Churn Behavior` (`2018`) has a substantive `extends` edge to `Recapturing Lost Customers` (`2004`). Based on the current edge explanation, the later paper extends the earlier second-lifetime win-back work by moving from reacquisition and second-lifetime duration to repeat churn timing, churn reason, and cure status.
+>
+> A second strong branch is B2B relationship states and permission-based contact optimization. `Dynamically Managing a Profitable Email Marketing Program` (`2017`) has a substantive `extends` edge to `Modeling Customer Opt-In and Opt-Out in a Permission-Based Marketing Context` (`2014`). In the current graph, the later paper is not just topically related; it is judged as extending the earlier permission-marketing work toward joint open-purchase dynamics, latent relationship states, and dynamic email policy optimization.
+>
+> A third branch is strategic marketing and acquisition / distribution modeling. `Influencing Acquisition Performance in High-Technology Industries` (`2017`) has a substantive `extends` edge to `Why Some Acquisitions Do Better Than Others` (`2007`), and `Modeling Emerging-Market Firms' Competitive Retail Distribution Strategies` (`2019`) shows multiple substantive `applies` edges to earlier JMR methodology papers. From the local subgraph, this part of the author line looks more method-heavy and strategy-oriented than the customer-management branch.
+>
+> So, within the current PaperKG, `V. Kumar` is best represented not as one narrow citation chain but as a set of connected local branches around CRM / CLV, B2B contact and relationship modeling, and strategic marketing problems that borrow heavily from earlier JMR methodological work.
 
-- `Are you Back for Good or Still Shopping Around? Investigating Customers' Repeat Churn Behavior` (`2018`) has a substantive `extends` edge to `Recapturing Lost Customers` (`2004`).
-- `Dynamically Managing a Profitable Email Marketing Program` (`2017`) has a substantive `extends` edge to `Modeling Customer Opt-In and Opt-Out in a Permission-Based Marketing Context` (`2014`).
-- `Influencing Acquisition Performance in High-Technology Industries` (`2017`) has a substantive `extends` edge to `Why Some Acquisitions Do Better Than Others` (`2007`).
-
-This is a good example of the current system's strength: it can already answer local author-line questions reasonably well when the underlying graph is sufficiently connected.
+This example reflects the current system's strength: it can already produce useful local author-line answers when the underlying substantive graph is dense enough.
 
 ## Run Locally
 
