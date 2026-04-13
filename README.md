@@ -1,4 +1,4 @@
-# PaperKG Final
+# PaperKG
 
 This repository contains the current working version of a local `PaperKG` pipeline for the *Journal of Marketing Research* (`JMR`) corpus covering `2000-2025`.
 
@@ -15,11 +15,11 @@ The current project goal is not generic paper search. It is to build a **local, 
 
 Current SQLite artifact:
 
-- [paperkg.sqlite](C:\Users\27497\Desktop\PaperKG_Final\data\jmr_2000_2025\paperkg_base\paperkg.sqlite)
+- [paperkg.sqlite](data/jmr_2000_2025/paperkg_base/paperkg.sqlite)
 
 Current build manifest:
 
-- [paperkg.manifest.json](C:\Users\27497\Desktop\PaperKG_Final\data\jmr_2000_2025\paperkg_base\paperkg.manifest.json)
+- [paperkg.manifest.json](data/jmr_2000_2025/paperkg_base/paperkg.manifest.json)
 
 ## Why The PDFs Are Not Meant For GitHub
 
@@ -50,7 +50,13 @@ The project now uses a local JMR PDF corpus for `2000-2025`.
 
 PDF root:
 
-- [pdfs](C:\Users\27497\Desktop\PaperKG_Final\data\jmr_2000_2025\pdfs)
+- [pdfs](data/jmr_2000_2025/pdfs)
+
+To work locally with the full corpus:
+
+1. Download the shared PDF folders from Google Drive.
+2. Place them under `data/jmr_2000_2025/pdfs/`.
+3. Keep the year-based directory structure (`2000`, `2001`, ..., `2025`).
 
 This is the only paper source used for the current graph.
 
@@ -60,8 +66,8 @@ For each paper in the corpus, the project queries `Crossref` and retrieves the a
 
 Main outputs:
 
-- [paper_summary.csv](C:\Users\27497\Desktop\PaperKG_Final\data\jmr_2000_2025\crossref_references\paper_summary.csv)
-- [references.csv](C:\Users\27497\Desktop\PaperKG_Final\data\jmr_2000_2025\crossref_references\references.csv)
+- [paper_summary.csv](data/jmr_2000_2025/crossref_references/paper_summary.csv)
+- [references.csv](data/jmr_2000_2025/crossref_references/references.csv)
 
 This step gives the raw bibliography layer.
 
@@ -71,9 +77,9 @@ The Crossref references are then matched back to the local `2000-2025` JMR corpu
 
 Main outputs:
 
-- [internal_edges.csv](C:\Users\27497\Desktop\PaperKG_Final\data\jmr_2000_2025\internal_reference_matches\internal_edges.csv)
-- [matched_references.csv](C:\Users\27497\Desktop\PaperKG_Final\data\jmr_2000_2025\internal_reference_matches\matched_references.csv)
-- [summary.json](C:\Users\27497\Desktop\PaperKG_Final\data\jmr_2000_2025\internal_reference_matches\summary.json)
+- [internal_edges.csv](data/jmr_2000_2025/internal_reference_matches/internal_edges.csv)
+- [matched_references.csv](data/jmr_2000_2025/internal_reference_matches/matched_references.csv)
+- [summary.json](data/jmr_2000_2025/internal_reference_matches/summary.json)
 
 This produces the `4593` raw internal citation pairs.
 
@@ -95,12 +101,12 @@ The note schema contains fields such as:
 
 Main prompt and schema:
 
-- [paper_note_v1.md](C:\Users\27497\Desktop\PaperKG_Final\prompts\paper_note_v1.md)
-- [paper_note_v1.schema.json](C:\Users\27497\Desktop\PaperKG_Final\schemas\paper_note_v1.schema.json)
+- [paper_note_v1.md](prompts/paper_note_v1.md)
+- [paper_note_v1.schema.json](schemas/paper_note_v1.schema.json)
 
 Main outputs:
 
-- [ai02_full_notes_conc80](C:\Users\27497\Desktop\PaperKG_Final\data\jmr_2000_2025\paper_notes\runs\ai02_full_notes_conc80)
+- [ai02_full_notes_conc80](data/jmr_2000_2025/paper_notes/runs/ai02_full_notes_conc80)
 
 This run completed `1497/1497`.
 
@@ -123,13 +129,13 @@ The triage output is one of:
 
 Prompt and schema:
 
-- [citation_triage_v1.md](C:\Users\27497\Desktop\PaperKG_Final\prompts\citation_triage_v1.md)
-- [citation_triage_v1.schema.json](C:\Users\27497\Desktop\PaperKG_Final\schemas\citation_triage_v1.schema.json)
+- [citation_triage_v1.md](prompts/citation_triage_v1.md)
+- [citation_triage_v1.schema.json](schemas/citation_triage_v1.schema.json)
 
 Main outputs:
 
-- [manifest.csv](C:\Users\27497\Desktop\PaperKG_Final\data\jmr_2000_2025\citation_triage\manifest.csv)
-- [ai02_full_triage_conc80](C:\Users\27497\Desktop\PaperKG_Final\data\jmr_2000_2025\citation_triage\runs\ai02_full_triage_conc80)
+- [manifest.csv](data/jmr_2000_2025/citation_triage/manifest.csv)
+- [ai02_full_triage_conc80](data/jmr_2000_2025/citation_triage/runs/ai02_full_triage_conc80)
 
 Current full triage distribution:
 
@@ -159,20 +165,20 @@ Output schema:
 
 Current judgment prompt:
 
-- [citation_judgment_v2_one_pdf_note.md](C:\Users\27497\Desktop\PaperKG_Final\prompts\citation_judgment_v2_one_pdf_note.md)
+- [citation_judgment_v2_one_pdf_note.md](prompts/citation_judgment_v2_one_pdf_note.md)
 
 Legacy dual-PDF prompt kept for reference:
 
-- [citation_judgment_v1.md](C:\Users\27497\Desktop\PaperKG_Final\prompts\citation_judgment_v1.md)
+- [citation_judgment_v1.md](prompts/citation_judgment_v1.md)
 
 Schema:
 
-- [citation_judgment_v1.schema.json](C:\Users\27497\Desktop\PaperKG_Final\schemas\citation_judgment_v1.schema.json)
+- [citation_judgment_v1.schema.json](schemas/citation_judgment_v1.schema.json)
 
 Main outputs:
 
-- [manifest.csv](C:\Users\27497\Desktop\PaperKG_Final\data\jmr_2000_2025\citation_judgments\manifest.csv)
-- [ai02_full_judgments_one_pdf_note_three_keys_conc240](C:\Users\27497\Desktop\PaperKG_Final\data\jmr_2000_2025\citation_judgments\runs\ai02_full_judgments_one_pdf_note_three_keys_conc240)
+- [manifest.csv](data/jmr_2000_2025/citation_judgments/manifest.csv)
+- [ai02_full_judgments_one_pdf_note_three_keys_conc240](data/jmr_2000_2025/citation_judgments/runs/ai02_full_judgments_one_pdf_note_three_keys_conc240)
 
 Current full judgment distribution:
 
@@ -195,7 +201,7 @@ All current outputs are compiled into a single SQLite artifact.
 
 Builder:
 
-- [build_paperkg_sqlite.py](C:\Users\27497\Desktop\PaperKG_Final\scripts\build_paperkg_sqlite.py)
+- [build_paperkg_sqlite.py](scripts/build_paperkg_sqlite.py)
 
 The SQLite database stores:
 
@@ -210,11 +216,11 @@ The MCP server is a thin read-only layer over this SQLite database.
 
 Server:
 
-- [server.py](C:\Users\27497\Desktop\PaperKG_Final\paperkg_mcp\server.py)
+- [server.py](paperkg_mcp/server.py)
 
 Store:
 
-- [store.py](C:\Users\27497\Desktop\PaperKG_Final\paperkg_mcp\store.py)
+- [store.py](paperkg_mcp/store.py)
 
 Current MCP tools:
 
@@ -243,7 +249,7 @@ D:\Anaconda3\python.exe scripts\build_paperkg_sqlite.py
 ### Run the MCP server
 
 ```powershell
-$env:PAPERKG_DB_PATH = "C:\Users\27497\Desktop\PaperKG_Final\data\jmr_2000_2025\paperkg_base\paperkg.sqlite"
+$env:PAPERKG_DB_PATH = (Resolve-Path "data/jmr_2000_2025/paperkg_base/paperkg.sqlite")
 D:\Anaconda3\python.exe -m paperkg_mcp.server
 ```
 
@@ -251,14 +257,14 @@ D:\Anaconda3\python.exe -m paperkg_mcp.server
 
 Main code and configuration:
 
-- [scripts](C:\Users\27497\Desktop\PaperKG_Final\scripts)
-- [prompts](C:\Users\27497\Desktop\PaperKG_Final\prompts)
-- [schemas](C:\Users\27497\Desktop\PaperKG_Final\schemas)
-- [paperkg_mcp](C:\Users\27497\Desktop\PaperKG_Final\paperkg_mcp)
+- [scripts](scripts)
+- [prompts](prompts)
+- [schemas](schemas)
+- [paperkg_mcp](paperkg_mcp)
 
 Main data root:
 
-- [jmr_2000_2025](C:\Users\27497\Desktop\PaperKG_Final\data\jmr_2000_2025)
+- [jmr_2000_2025](data/jmr_2000_2025)
 
 ## Recommended GitHub Sharing Policy
 

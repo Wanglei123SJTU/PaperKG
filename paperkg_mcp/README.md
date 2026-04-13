@@ -35,7 +35,7 @@ D:\Anaconda3\python.exe scripts\build_paperkg_sqlite.py
 ## Run the MCP server over stdio
 
 ```powershell
-$env:PAPERKG_DB_PATH = "c:\Users\27497\Desktop\PaperKG_Final\data\jmr_2000_2025\paperkg_base\paperkg.sqlite"
+$env:PAPERKG_DB_PATH = (Resolve-Path "data/jmr_2000_2025/paperkg_base/paperkg.sqlite")
 D:\Anaconda3\python.exe -m paperkg_mcp.server
 ```
 
